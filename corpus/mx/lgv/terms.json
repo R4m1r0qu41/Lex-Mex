@@ -95,7 +95,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "X",
     "start_char": 1730,
-    "end_char": 2201,
+    "end_char": 2121,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XI",
+    "start_char": 2121,
+    "end_char": 2202,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XII",
-    "start_char": 2201,
-    "end_char": 2303,
+    "start_char": 2202,
+    "end_char": 2304,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XIII",
-    "start_char": 2303,
-    "end_char": 2408,
+    "start_char": 2304,
+    "end_char": 2409,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XIV",
-    "start_char": 2408,
-    "end_char": 2546,
+    "start_char": 2409,
+    "end_char": 2547,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XV",
-    "start_char": 2546,
-    "end_char": 2878,
+    "start_char": 2547,
+    "end_char": 2879,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XVI",
-    "start_char": 2878,
-    "end_char": 3049,
+    "start_char": 2879,
+    "end_char": 3050,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XVII",
-    "start_char": 3049,
-    "end_char": 3156,
+    "start_char": 3050,
+    "end_char": 3157,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XVIII",
-    "start_char": 3156,
-    "end_char": 3260,
+    "start_char": 3157,
+    "end_char": 3261,
     "basis": "express_definition"
   },
   {
@@ -182,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XIX",
-    "start_char": 3260,
-    "end_char": 3489,
+    "start_char": 3261,
+    "end_char": 3490,
     "basis": "express_definition"
   },
   {
@@ -193,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XX",
-    "start_char": 3489,
-    "end_char": 3757,
+    "start_char": 3490,
+    "end_char": 3758,
     "basis": "express_definition"
   },
   {
@@ -204,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
     "fraction": "XXI",
-    "start_char": 3757,
-    "end_char": 4371,
+    "start_char": 3758,
+    "end_char": 4372,
     "basis": "express_definition"
   }
 ]

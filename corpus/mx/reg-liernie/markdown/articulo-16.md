@@ -8,7 +8,7 @@ number: "16"
 aliases: ["REG-LIERNIE — Artículo 16"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf
 source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 ---

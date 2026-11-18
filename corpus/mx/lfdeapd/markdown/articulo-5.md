@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LFDEAPD — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf
 source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 ---

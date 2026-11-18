@@ -27,7 +27,7 @@ III. Con anterioridad al ejercicio o contratación de cualquier programa o proye
 
 Para los propósitos señalados en el párrafo anterior, cada Entidad Federativa deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de [Inversión pública productiva](articulo-2.md) de la Entidad Federativa correspondiente.
 
-Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Asociación Público-Privada, las Entidades Federativas y sus [Entes Públicos](articulo-2.md) deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de [Asociación Público-Privada](articulo-2.md), las Entidades Federativas y sus [Entes Públicos](articulo-2.md) deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
 
 Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet de las secretarías de finanzas o sus equivalentes de los gobiernos locales;
 

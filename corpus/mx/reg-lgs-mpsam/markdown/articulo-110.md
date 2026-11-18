@@ -7,8 +7,8 @@ provision_type: article
 number: "110"
 aliases: ["REG-LGS-MPSAM — Artículo 110"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---
@@ -17,7 +17,9 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 110
 
-El personal no profesional autorizado para la prestación de servicios en materia de obstetricia podrá: I.- Atender los embarazos, partos y puerperios normales que ocurran en su comunidad, dando aviso a la Secretaría;
+El personal no profesional autorizado para la prestación de servicios en materia de obstetricia podrá:
+
+I.- Atender los embarazos, partos y puerperios normales que ocurran en su comunidad, dando aviso a la Secretaría;
 
 II.- Prescribir los medicamentos que en esos casos se requieran de acuerdo a las normas oficiales mexicanas que para dicho fin emita la Secretaría, y Fracción reformada DOF 01-11-2013
 

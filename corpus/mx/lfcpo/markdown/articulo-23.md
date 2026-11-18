@@ -19,4 +19,6 @@ source_sha256: f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2
 
 La solicitud que provenga de los ciudadanos, además de los requisitos previstos en el artículo [21](articulo-21.md) de esta Ley, deberá complementarse con:
 
-I. Nombre completo y domicilio del representante para recibir notificaciones, y II. Anexo que contenga los nombres completos de los ciudadanos y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.
+I. Nombre completo y domicilio del representante para recibir notificaciones, y
+
+II. Anexo que contenga los nombres completos de los ciudadanos y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.

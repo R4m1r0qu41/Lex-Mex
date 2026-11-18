@@ -25,4 +25,6 @@ II. Proyectar y calcular los ingresos de la Federación y de las entidades parae
 
 III.- Procurar el cumplimiento de los objetivos y prioridades del Plan y los programas, en el ejercicio de sus atribuciones de planeación, coordinación, evaluación y vigilancia del Sistema Bancario.
 
-IV.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan y los programas; y V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
+IV.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan y los programas; y
+
+V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.

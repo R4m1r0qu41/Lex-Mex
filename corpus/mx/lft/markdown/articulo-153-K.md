@@ -41,7 +41,9 @@ IX. Elaborar e implementar los programas a que hace referencia el [artículo ant
 
 X. Participar en la elaboración del Plan Nacional de Desarrollo;
 
-XI. Emitir opinión y sugerir el destino y aplicación de recursos presupuestales orientados al incremento de la productividad; y XII. Emitir opinión respecto del desempeño en los procedimientos de conciliación y proponer metodologías que impulsen su eficacia y reduzcan la conflictividad laboral, con el fin de contribuir al fortalecimiento de los mecanismos alternativos; Fracción adicionada DOF 01-05-2019
+XI. Emitir opinión y sugerir el destino y aplicación de recursos presupuestales orientados al incremento de la productividad; y
+
+XII. Emitir opinión respecto del desempeño en los procedimientos de conciliación y proponer metodologías que impulsen su eficacia y reduzcan la conflictividad laboral, con el fin de contribuir al fortalecimiento de los mecanismos alternativos; Fracción adicionada DOF 01-05-2019
 
 XIII. Realizar diagnósticos sobre el desempeño de los trámites de registro y legitimación sindical, y sugerir cursos de acción que brinden mayor certeza, transparencia y confiabilidad de las actuaciones de la autoridad registral en materia de acreditación de representatividad sindical; Fracción adicionada DOF 01-05-2019
 

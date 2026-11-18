@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LASOC — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf
 source_sha256: d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228
 ---
@@ -45,4 +45,6 @@ XII. Realizar investigaciones sobre las causas y efectos de los problemas priori
 
 XIII. Coordinar, integrar y sistematizar un Directorio Nacional de Instituciones públicas y privadas de asistencia social;
 
-XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y XV. Las demás que le otorga la Ley General de Salud.
+XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y
+
+XV. Las demás que le otorga la Ley General de Salud.

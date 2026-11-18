@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LGES — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -17,7 +17,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 22
 
-En el Sistema Nacional de Educación Superior participarán con sentido de responsabilidad social los actores, instituciones y procesos que lo componen y estará integrado por: I. Las y los estudiantes de las instituciones de educación superior;
+En el Sistema Nacional de Educación Superior participarán con sentido de responsabilidad social los actores, instituciones y procesos que lo componen y estará integrado por:
+
+I. Las y los estudiantes de las instituciones de educación superior;
 
 II. El personal académico de las instituciones de educación superior;
 

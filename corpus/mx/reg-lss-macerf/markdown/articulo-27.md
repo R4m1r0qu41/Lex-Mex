@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Cuando a solicitud del patrón, el [Instituto](../../lss/markdown/articulo-5-A.md) asigne un registro patronal único sustituyendo los registros patronales con los que venía operando, se estará a lo siguiente:
 
-I. Si todos los registros patronales que se sustituyen están ubicados en la misma fracción y clase, la empresa será clasificada en dicha fracción y clase. La prima a cubrir, será la que resulte de aplicar el procedimiento siguiente: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN a). Por cada registro patronal a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo.
+I. Si todos los registros patronales que se sustituyen están ubicados en la misma fracción y clase, la empresa será clasificada en dicha fracción y clase. La prima a cubrir, será la que resulte de aplicar el procedimiento siguiente: a). Por cada registro patronal a sustituir, se multiplicará la prima asignada por el total de los salarios base de cotización de los trabajadores comprendidos en el mismo.
 
 b). Se sumarán los productos obtenidos conforme al inciso anterior y el resultado se dividirá entre la suma de los salarios base de cotización del total de los trabajadores comprendidos en todos los registros patronales a sustituir.
 

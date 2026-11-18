@@ -39,7 +39,9 @@ IV. Dar en prenda los títulos o valores de su cartera;
 
 V. Realizar contratos de reaseguro o de reafianzamiento que impliquen la asunción de pasivos, sin cumplir con lo dispuesto en el artículo [120](articulo-120.md) de este ordenamiento;
 
-VI. Otorgar avales, fianzas o cauciones. Los seguros de caución previstos en la fracción XII del artículo [27](articulo-27.md), así como las fianzas que se otorguen en los términos del último párrafo del artículo [25](articulo-25.md) de esta Ley, no se considerarán para estos efectos; VII. Asumir riesgos u otorgar financiamientos bajo esquemas de [Reaseguro Financiero](articulo-2.md), cuando no se trate de instituciones autorizadas para practicar exclusivamente el reaseguro;
+VI. Otorgar avales, fianzas o cauciones. Los seguros de caución previstos en la fracción XII del artículo [27](articulo-27.md), así como las fianzas que se otorguen en los términos del último párrafo del artículo [25](articulo-25.md) de esta Ley, no se considerarán para estos efectos;
+
+VII. Asumir riesgos u otorgar financiamientos bajo esquemas de [Reaseguro Financiero](articulo-2.md), cuando no se trate de instituciones autorizadas para practicar exclusivamente el reaseguro;
 
 VIII. Operar con sus propias acciones, salvo en los casos previstos en la Ley del Mercado de Valores;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "55"
 aliases: ["REG-LFSV — Artículo 55"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -39,7 +39,9 @@ VIII. El Acondicionamiento de la mercancía;
 
 IX. Los Tratamientos fitosanitarios para Plagas generalmente asentados en los Certificados Fitosanitarios para la Importación, o en otro documento oficial si así lo determina el [SENASICA](articulo-2.md);
 
-X. El cumplir con los procedimientos de guarda custodia y responsabilidad, para condicionar la comercialización y distribución de mercancías, hasta tener confirmada la seguridad sanitaria e inocuidad; XI. La prohibición o Cuarentena temporal o permanente;
+X. El cumplir con los procedimientos de guarda custodia y responsabilidad, para condicionar la comercialización y distribución de mercancías, hasta tener confirmada la seguridad sanitaria e inocuidad;
+
+XI. La prohibición o Cuarentena temporal o permanente;
 
 XII. La [Retención](articulo-2.md), rechazo, o destrucción en el caso de mercancías, en términos de lo dispuesto en el presente Reglamento y demás Disposiciones Legales Aplicables que la Secretaría establezca;
 
@@ -71,7 +73,9 @@ b) Las muestras se seleccionarán al azar y se inspeccionarán en la empacadora 
 
 c) En caso de detectar Plagas Reglamentadas, [Brotes](articulo-2.md) viables o suelo, será motivo de rechazo del Embarque;
 
-XXIV. El etiquetado indique: “Este producto no debe ser utilizado para siembra”; XXV. La autoridad fitosanitaria responsable en el País de Origen asignará un número único a cada empacadora y a sus campos o predios registrados, el cual permitirá que los Embarques puedan ser rastreados hasta el estado de origen, empacadora y productor. Este número deberá aparecer en todos los paquetes y en el [Certificado Fitosanitario para la Importación](articulo-2.md);
+XXIV. El etiquetado indique: “Este producto no debe ser utilizado para siembra”;
+
+XXV. La autoridad fitosanitaria responsable en el País de Origen asignará un número único a cada empacadora y a sus campos o predios registrados, el cual permitirá que los Embarques puedan ser rastreados hasta el estado de origen, empacadora y productor. Este número deberá aparecer en todos los paquetes y en el [Certificado Fitosanitario para la Importación](articulo-2.md);
 
 XXVI. Los Embarques estén flejados o sellados al momento de la Inspección y permanezcan sellados hasta el destino final de la importación;
 

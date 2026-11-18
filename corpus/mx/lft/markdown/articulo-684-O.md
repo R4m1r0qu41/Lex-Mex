@@ -23,7 +23,9 @@ I. El número de publicación;
 
 II. El número de plazas sujetas a concurso;
 
-III. El lugar y las fechas que comprenderán las etapas del procedimiento; IV. Los documentos que deberán acompañarse a la solicitud de inscripción al procedimiento, que serán:
+III. El lugar y las fechas que comprenderán las etapas del procedimiento;
+
+IV. Los documentos que deberán acompañarse a la solicitud de inscripción al procedimiento, que serán:
 
 a) Formato de inscripción, que se pondrá a disposición en las instalaciones del Centro de Conciliación y en su portal de Internet;
 

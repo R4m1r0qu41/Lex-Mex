@@ -7,8 +7,8 @@ provision_type: article
 number: "115"
 aliases: ["LGV — Artículo 115"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -39,7 +39,7 @@ IX. Sancionar conforme a la ley a los medios de comunicación que no cumplan con
 
 X. Realizar un diagnóstico nacional y otros estudios complementarios de manera periódica sobre las víctimas en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, ayuda y protección de las víctimas;
 
-XI. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
+XI. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta [Ley](articulo-6.md);
 
 XII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 

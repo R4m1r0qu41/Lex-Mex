@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título V · Capítulo I
@@ -19,7 +19,9 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 El Ejecutivo Federal, considerando los resultados del dictamen, podrá expedir el Decreto por el que se declare la limitación al derecho patrimonial por causa de utilidad pública, el cual se publicará en el [Diario Oficial](articulo-2o.md). Este Decreto contendrá, entre otros:
 
-I. El título de la obra; II. El nombre del titular de los derechos morales, así como el de los patrimoniales, si es el caso;
+I. El título de la obra;
+
+II. El nombre del titular de los derechos morales, así como el de los patrimoniales, si es el caso;
 
 III. El número de ediciones y de ejemplares autorizados, su precio, así como el uso o destino de los mismos, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LGV — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,9 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 34
 
-En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud para los Usuarios de los Servicios de Salud, y tendrá los siguientes derechos adicionales: I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de los hospitales públicos federales, de las entidades federativas y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridos por ella. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento; Fracción reformada DOF 03-01-2017
+En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud para los Usuarios de los Servicios de Salud, y tendrá los siguientes derechos adicionales:
+
+I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de los hospitales públicos federales, de las entidades federativas y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridos por ella. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente [Ley](articulo-6.md), las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento; Fracción reformada DOF 03-01-2017
 
 II. Los Gobiernos federal y de las entidades federativas, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán otorgar citas médicas en un periodo no mayor a ocho días, a las víctimas que así lo soliciten, salvo que sean casos de atención de emergencia en salud, en cuyo caso la atención será inmediata; Fracción reformada DOF 03-01-2017
 

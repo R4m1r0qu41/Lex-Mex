@@ -208,12 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgds:article:43:term-usage:1280-1309",
+    "id": "urn:lex-mx:federal:statute:lgds:article:43:term-usage:1281-1310",
     "provision_id": "urn:lex-mx:federal:statute:lgds:article:43",
     "term_id": "urn:lex-mx:federal:statute:lgds:term:politica-de-desarrollo-social",
     "span": "Política de Desarrollo Social",
-    "start_char": 1280,
-    "end_char": 1309
+    "start_char": 1281,
+    "end_char": 1310
   },
   {
     "schema_version": "0.1.0",
@@ -298,21 +298,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgds:article:50:term-usage:1538-1548",
+    "id": "urn:lex-mx:federal:statute:lgds:article:50:term-usage:1539-1549",
     "provision_id": "urn:lex-mx:federal:statute:lgds:article:50",
     "term_id": "urn:lex-mx:federal:statute:lgds:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1538,
-    "end_char": 1548
+    "start_char": 1539,
+    "end_char": 1549
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgds:article:50:term-usage:1910-1926",
+    "id": "urn:lex-mx:federal:statute:lgds:article:50:term-usage:1911-1927",
     "provision_id": "urn:lex-mx:federal:statute:lgds:article:50",
     "term_id": "urn:lex-mx:federal:statute:lgds:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1910,
-    "end_char": 1926
+    "start_char": 1911,
+    "end_char": 1927
   },
   {
     "schema_version": "0.1.0",

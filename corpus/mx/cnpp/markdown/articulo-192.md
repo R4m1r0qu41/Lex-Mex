@@ -23,6 +23,8 @@ I. Que el auto de vinculación a proceso del imputado se haya dictado por un del
 
 II. Que no exista oposición fundada de la víctima y ofendido, y Fracción reformada DOF 17-06-2016
 
-III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso. Fracción adicionada DOF 17-06-2016 Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento. Párrafo reformado DOF 17-06-2016
+III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso. Fracción adicionada DOF 17-06-2016
+
+Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento. Párrafo reformado DOF 17-06-2016
 
 [La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo [167](articulo-167.md) del presente [Código](articulo-3o.md).] Párrafo adicionado DOF 08-11-2019 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025

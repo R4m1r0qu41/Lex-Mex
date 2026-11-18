@@ -631,48 +631,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:519-522",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:520-523",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
     "span": "Ley",
-    "start_char": 519,
-    "end_char": 522
+    "start_char": 520,
+    "end_char": 523
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1315-1320",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1316-1321",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:salud",
     "span": "SALUD",
-    "start_char": 1315,
-    "end_char": 1320
+    "start_char": 1316,
+    "end_char": 1321
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1774-1777",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1775-1778",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
     "span": "Ley",
-    "start_char": 1774,
-    "end_char": 1777
+    "start_char": 1775,
+    "end_char": 1778
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1808-1811",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1809-1812",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:nom",
     "span": "NOM",
-    "start_char": 1808,
-    "end_char": 1811
+    "start_char": 1809,
+    "end_char": 1812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1952-1957",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24:term-usage:1953-1958",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:salud",
     "span": "SALUD",
-    "start_char": 1952,
-    "end_char": 1957
+    "start_char": 1953,
+    "end_char": 1958
   },
   {
     "schema_version": "0.1.0",
@@ -1099,39 +1099,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1505-1526",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1506-1527",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-competente",
     "span": "Secretaría competente",
-    "start_char": 1505,
-    "end_char": 1526
+    "start_char": 1506,
+    "end_char": 1527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1629-1650",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1630-1651",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-competente",
     "span": "Secretaría competente",
-    "start_char": 1629,
-    "end_char": 1650
+    "start_char": 1630,
+    "end_char": 1651
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1823-1844",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:1824-1845",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-competente",
     "span": "Secretaría competente",
-    "start_char": 1823,
-    "end_char": 1844
+    "start_char": 1824,
+    "end_char": 1845
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:2281-2301",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52:term-usage:2282-2302",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-ejecutiva",
     "span": "Secretaría Ejecutiva",
-    "start_char": 2281,
-    "end_char": 2301
+    "start_char": 2282,
+    "end_char": 2302
   },
   {
     "schema_version": "0.1.0",
@@ -1360,12 +1360,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbogm:transitory:sexto:term-usage:1275-1278",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:transitory:sexto:term-usage:1276-1279",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:transitory:sexto",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
     "span": "Ley",
-    "start_char": 1275,
-    "end_char": 1278
+    "start_char": 1276,
+    "end_char": 1279
   },
   {
     "schema_version": "0.1.0",

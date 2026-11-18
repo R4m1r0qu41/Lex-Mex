@@ -19,4 +19,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Se presumen hijos del concubinario y de la concubina:
 
-I. Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato; II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+I. Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
+
+II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
-      "provision_text_sha256": "43c80f6b3c558616951f3c1eaab14f146ed33a5f7eb7e6f4680722ef2238724d",
+      "provision_text_sha256": "aedb78c4572ed1d49db5c87846cc6a87fa31440f9209c2a3bd0a4a3363950677",
       "method": "established_pass",
       "fractions": [
         "I",

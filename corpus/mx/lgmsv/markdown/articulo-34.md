@@ -17,7 +17,9 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 # Artículo 34
 
-Diseño de la red vial. Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad: I. Movilidad se enfoca en el tránsito de personas y vehículos, y
+Diseño de la red vial. Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad:
+
+I. Movilidad se enfoca en el tránsito de personas y vehículos, y
 
 II. Habitabilidad se enfoca en la recreación, consumo, socialización, disfrute y acceso a los medios que permiten el ejercicio de los derechos sociales.
 

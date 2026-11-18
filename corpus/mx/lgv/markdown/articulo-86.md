@@ -7,8 +7,8 @@ provision_type: article
 number: "86"
 aliases: ["LGV — Artículo 86"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -23,7 +23,7 @@ I. Contar con ciudadanía mexicana; Fracción reformada DOF 28-04-2022
 
 II. No haber sido condenada o condenado por la comisión de un delito doloso o inhabilitado como servidora o servidor público; Fracción reformada DOF 28-04-2022
 
-III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación; Fracción reformada DOF 03-01-2017
+III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta [Ley](articulo-6.md), por lo menos en los dos años previos a su designación; Fracción reformada DOF 03-01-2017
 
 IV. Contar con título profesional, y Fracción reformada DOF 03-01-2017
 

@@ -25,7 +25,9 @@ II. Al saneamiento financiero, preferentemente a través de la amortización de 
 
 III. Para apoyar el saneamiento de pensiones y, en su caso, reformas a los sistemas de pensiones de los Estados y del Distrito Federal, prioritariamente a las reservas actuariales;
 
-IV. A la modernización de los registros públicos de la propiedad y del comercio locales, en el marco de la coordinación para homologar los registros públicos; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones; V. Para modernizar los sistemas de recaudación locales y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
+IV. A la modernización de los registros públicos de la propiedad y del comercio locales, en el marco de la coordinación para homologar los registros públicos; así como para modernización de los catastros, con el objeto de actualizar los valores de los bienes y hacer más eficiente la recaudación de contribuciones;
+
+V. Para modernizar los sistemas de recaudación locales y para desarrollar mecanismos impositivos que permitan ampliar la base gravable de las contribuciones locales, lo cual genere un incremento neto en la recaudación;
 
 VI. Al fortalecimiento de los proyectos de investigación científica y desarrollo tecnológico, siempre y cuando las aportaciones federales destinadas a este rubro sean adicionales a los recursos de naturaleza local aprobados por las legislaturas locales en dicha materia;
 

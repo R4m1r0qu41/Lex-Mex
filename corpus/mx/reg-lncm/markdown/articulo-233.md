@@ -37,7 +37,9 @@ IV. Si son mexicanas, el Certificado de Matrícula.
 
 C. Con relación a los servicios mencionados en el artículo [42](../../lncm/markdown/articulo-42.md) de la [Ley](articulo-10.md), en adición a los anteriores y según sea el caso:
 
-I. Ruta indicando los puertos o puntos entre los cuales se prestarán dichos servicios; II. La descripción del sistema de trabajo en las labores de rescate, con indicación de las medidas de protección del medio marino, cuando los servicios sean de seguridad, salvamento o auxilio a la Navegación;
+I. Ruta indicando los puertos o puntos entre los cuales se prestarán dichos servicios;
+
+II. La descripción del sistema de trabajo en las labores de rescate, con indicación de las medidas de protección del medio marino, cuando los servicios sean de seguridad, salvamento o auxilio a la Navegación;
 
 III. El permiso de la autoridad federal competente en materia ambiental, cuando cualquiera de los servicios para los que se solicite el permiso, pretenda prestarse en un área natural protegida o en una zona de reserva ecológica, y
 

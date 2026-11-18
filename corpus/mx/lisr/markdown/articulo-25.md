@@ -19,7 +19,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 Los contribuyentes podrán efectuar las deducciones siguientes:
 
-I. Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan en el ejercicio. II. El costo de lo vendido.
+I. Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan en el ejercicio.
+
+II. El costo de lo vendido.
 
 III. Los gastos netos de descuentos, bonificaciones o devoluciones.
 

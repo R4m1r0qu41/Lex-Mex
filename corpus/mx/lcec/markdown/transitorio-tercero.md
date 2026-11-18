@@ -15,4 +15,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # TERCERO
 
-Las Cámaras de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+Las [Cámaras](articulo-2.md) de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.

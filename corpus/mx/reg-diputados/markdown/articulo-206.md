@@ -21,7 +21,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 I. Definir políticas y programas generales para el desahogo de las actividades a su cargo,
 
-II. Proponer normas y directrices que regulen con eficiencia la actividad encomendada, y vigilen su aplicación, y III. Supervisar a las áreas involucradas.
+II. Proponer normas y directrices que regulen con eficiencia la actividad encomendada, y vigilen su aplicación, y
+
+III. Supervisar a las áreas involucradas.
 
 2. Cuando los comités reciban peticiones relacionadas con asuntos de su competencia, el Presidente del Comité pondrá a consideración de los integrantes, la propuesta de acuerdo que deba resolver dicha petición.
 

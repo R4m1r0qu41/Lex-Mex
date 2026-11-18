@@ -19,7 +19,9 @@ source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 
 Las multas a que se refiere el artículo [88](articulo-88.md) y que corresponde imponer a la Comisión Nacional Bancaria y de Valores, serán las siguientes:
 
-I. Multa de 200 a 2,000 días de salario a las organizaciones auxiliares del crédito, casas de cambio y sociedades financieras de objeto múltiple reguladas que no cumplan con lo previsto por el artículo [70](articulo-70.md) de esta Ley así como las disposiciones que emanen de éste; II. Multa de 200 a 2,000 días de salario a las organizaciones auxiliares del crédito, sociedades financieras de objeto múltiple reguladas y casas de cambio que omitan someter a la aprobación de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Valores, según corresponda, su escritura constitutiva o cualquier modificación a ésta;
+I. Multa de 200 a 2,000 días de salario a las organizaciones auxiliares del crédito, casas de cambio y sociedades financieras de objeto múltiple reguladas que no cumplan con lo previsto por el artículo [70](articulo-70.md) de esta Ley así como las disposiciones que emanen de éste;
+
+II. Multa de 200 a 2,000 días de salario a las organizaciones auxiliares del crédito, sociedades financieras de objeto múltiple reguladas y casas de cambio que omitan someter a la aprobación de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Valores, según corresponda, su escritura constitutiva o cualquier modificación a ésta;
 
 III. Multa de 200 a 2,000 días de salario, a las personas que contravengan lo dispuesto por el artículo [8](articulo-8o.md), fracción IV de este mismo ordenamiento legal. Las personas a las que se les imponga multa por infringir lo dispuesto en dicha fracción tendrán un plazo de tres meses contados a partir de la imposición de la referida multa para corregir tal situación, vencido el cual, si no lo han hecho, podrá imponérseles nuevas sanciones por tres tantos del importe de la multa anterior. La Comisión Nacional Bancaria y de Valores podrá seguir imponiendo multas sucesivas al infractor por tres tantos de la multa que anteceda, cuantas veces, vencidos plazos iguales al señalado, deje de corregir la situación irregular;
 
@@ -55,7 +57,9 @@ XVIII. Multa de 5,000 a 20,000 a las sociedades financieras de objeto múltiple 
 
 XIX. Multa de 5,000 a 50,000 días de salario o hasta el uno por ciento del capital pagado y reservas de capital, a las organizaciones auxiliares del crédito y casas de cambio que excedan o no mantengan los porcentajes y límites determinados por esta Ley y las disposiciones de carácter general que emanen de ella;
 
-XX. Multa de 5,000 a 50,000 días de salario, a las organizaciones auxiliares del crédito y casas de cambio que se opongan u obstaculicen el ejercicio de las facultades que esta Ley y otras disposiciones aplicables le confieren a la Secretaría de Hacienda y Crédito Público, al Banco de México y a la Comisión Nacional Bancaria y de Valores; XXI. Multa de 5,000 a 100,000 días de salario o hasta el uno por ciento del capital pagado y reservas de capital, a las organizaciones auxiliares del crédito y casas de cambio que realicen operaciones prohibidas o no autorizadas;
+XX. Multa de 5,000 a 50,000 días de salario, a las organizaciones auxiliares del crédito y casas de cambio que se opongan u obstaculicen el ejercicio de las facultades que esta Ley y otras disposiciones aplicables le confieren a la Secretaría de Hacienda y Crédito Público, al Banco de México y a la Comisión Nacional Bancaria y de Valores;
+
+XXI. Multa de 5,000 a 100,000 días de salario o hasta el uno por ciento del capital pagado y reservas de capital, a las organizaciones auxiliares del crédito y casas de cambio que realicen operaciones prohibidas o no autorizadas;
 
 XXII. Multa de 6,000 a 50,000 días de salario, a las sociedades financieras de objeto múltiple reguladas que incumplan con lo dispuesto por las fracciones I, incisos i) y t); II, incisos b) y o); III, incisos d) y r); y IV, incisos i) y s), del artículo [87-D](articulo-87-D.md) de esta Ley; así como si incumple con las disposiciones de carácter general a que se refiere dicho precepto en las materias referidas en los incisos mencionados en la presente fracción;
 

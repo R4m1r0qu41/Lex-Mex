@@ -15,6 +15,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # TERCERO
 
-Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
+Los refugiados reconocidos anteriormente a la entrada en vigor de la presente [Ley](articulo-2.md) podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
 
 Artículo reformado DOF 30-10-2014

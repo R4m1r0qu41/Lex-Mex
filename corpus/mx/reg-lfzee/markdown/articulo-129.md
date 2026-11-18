@@ -7,8 +7,8 @@ provision_type: article
 number: "129"
 aliases: ["REG-LFZEE — Artículo 129"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -23,7 +23,9 @@ I. El nombre o denominación o razón social del [Administrador Integral](articu
 
 II. La descripción de las conductas que motivan la suspensión;
 
-III. Las actividades u obras que pusieron en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la [Zona](articulo-4.md) y su [Área de Influencia](articulo-4.md); IV. Las disposiciones que haya infringido el Administrador Integral o Inversionista;
+III. Las actividades u obras que pusieron en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la [Zona](articulo-4.md) y su [Área de Influencia](articulo-4.md);
+
+IV. Las disposiciones que haya infringido el Administrador Integral o Inversionista;
 
 V. La relación de la situación en la que se encuentren las obras o la parte que se vaya a suspender y, en su caso, ordenar el retiro del personal y equipo;
 

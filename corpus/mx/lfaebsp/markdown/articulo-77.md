@@ -19,7 +19,9 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 El patrimonio del [Instituto](articulo-2o.md) está integrado por:
 
-I.- Los bienes muebles, inmuebles y demás derechos que le sean asignados o que por cualquier título adquiera para sí; II.- Los recursos que le sean asignados en el Decreto de Presupuesto de Egresos de la Federación, así como los que obtenga en cumplimiento de su objeto público, y
+I.- Los bienes muebles, inmuebles y demás derechos que le sean asignados o que por cualquier título adquiera para sí;
+
+II.- Los recursos que le sean asignados en el Decreto de Presupuesto de Egresos de la Federación, así como los que obtenga en cumplimiento de su objeto público, y
 
 III.- Cualquier otro ingreso que la autoridad competente o las disposiciones aplicables destinen al Instituto.
 

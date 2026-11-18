@@ -25,7 +25,9 @@ I. Actuar como secretario del [Comité Coordinador](articulo-3.md) y del órgano
 
 II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Comité Coordinador y del órgano de gobierno;
 
-III. Elaborar y certificar los acuerdos que se tomen en el Comité Coordinador y en el órgano de gobierno y el de los instrumentos jurídicos que se generen en el seno del mismo, llevando el archivo correspondiente de los mismos en términos de las disposiciones aplicables; IV. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales para ser discutidas en la [Comisión Ejecutiva](articulo-3.md) y, en su caso, sometidas a la consideración del Comité Coordinador;
+III. Elaborar y certificar los acuerdos que se tomen en el Comité Coordinador y en el órgano de gobierno y el de los instrumentos jurídicos que se generen en el seno del mismo, llevando el archivo correspondiente de los mismos en términos de las disposiciones aplicables;
+
+IV. Elaborar los anteproyectos de metodologías, indicadores y políticas integrales para ser discutidas en la [Comisión Ejecutiva](articulo-3.md) y, en su caso, sometidas a la consideración del Comité Coordinador;
 
 V. Proponer a la Comisión Ejecutiva las evaluaciones que se llevarán a cabo de las políticas integrales a que se refiere la fracción V del artículo [9](articulo-9.md) de esta Ley, y una vez aprobadas realizarlas;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "88"
 aliases: ["REG-LOPGJDF — Artículo 88"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -45,7 +45,9 @@ XII. Elaborar y proponer al Comité de Profesionalización Académico, el Manual
 
 XIII. Intervenir y coordinar el proceso para el otorgamiento de estímulos y reconocimientos del personal sustantivo de la Institución;
 
-XIV. Definir y operar los procedimientos y controles de administración escolar de las diferentes actividades académicas; XV. Realizar las gestiones administrativas necesarias, ante las instancias de educación superior, para obtener el reconocimiento de los programas académicos que así lo requieran;
+XIV. Definir y operar los procedimientos y controles de administración escolar de las diferentes actividades académicas;
+
+XV. Realizar las gestiones administrativas necesarias, ante las instancias de educación superior, para obtener el reconocimiento de los programas académicos que así lo requieran;
 
 XVI. Proponer ante el Comité de Profesionalización Académico los criterios y montos para el otorgamiento de becas, dentro de las distintas actividades académicas que realiza el Instituto de Formación, para su validación;
 

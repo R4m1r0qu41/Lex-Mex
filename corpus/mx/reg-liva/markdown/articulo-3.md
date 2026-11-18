@@ -25,6 +25,8 @@ a) Prestación de servicios personales independientes;
 
 b) Prestación de servicios de comisión, y
 
-c) Otorgamiento del uso o goce temporal de bienes. II. La retención se hará por el 4% del valor de la contraprestación pagada efectivamente, cuando reciban los servicios de autotransporte terrestre de bienes que sean considerados como tales en los términos de las leyes de la materia.
+c) Otorgamiento del uso o goce temporal de bienes.
+
+II. La retención se hará por el 4% del valor de la contraprestación pagada efectivamente, cuando reciban los servicios de autotransporte terrestre de bienes que sean considerados como tales en los términos de las leyes de la materia.
 
 Las personas físicas o morales que presten los servicios de autotransporte de bienes a que se refiere el párrafo anterior, deberán poner a disposición del Servicio de Administración Tributaria la documentación comprobatoria, de conformidad con las disposiciones fiscales, de las cantidades adicionales al valor de la contraprestación pactada por los citados servicios, que efectivamente se cobren a quien los reciba, por contribuciones distintas al impuesto al valor agregado, viáticos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y por cualquier otro concepto, identificando dicha documentación con tales erogaciones.

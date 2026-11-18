@@ -10,14 +10,14 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo VI
 
 # Artículo 163
 
-El área de Auditoría Interna deberá contar con procedimientos documentados para el desarrollo de sus funciones, contemplando al menos, los aspectos siguientes:
+El área de [Auditoría Interna](articulo-1.md) deberá contar con procedimientos documentados para el desarrollo de sus funciones, contemplando al menos, los aspectos siguientes:
 
 I. La periodicidad con la que se realizarán las auditorías en cada área, tomando en cuenta el tipo de revisión que se efectúe.
 

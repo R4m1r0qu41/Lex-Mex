@@ -27,7 +27,9 @@ III. Aseguradora, las instituciones de seguros autorizadas para operar los segur
 
 IV. Cuenta Individual, aquélla que se abrirá para cada Trabajador en el [PENSIONISSSTE](articulo-6.md) o, si el Trabajador así lo elije, en una [Administradora](articulo-6.md), para que se depositen en la misma las [Cuotas](articulo-6.md) y [Aportaciones](articulo-6.md) de las [Subcuentas](articulo-6.md) de retiro, cesantía en edad avanzada y vejez, de ahorro solidario, de aportaciones complementarias de retiro, de aportaciones voluntarias y de ahorro de largo plazo, y se registren las correspondientes al [Fondo](articulo-6.md) de la Vivienda, así como los respectivos rendimientos de éstas y los demás recursos que puedan ser aportados a las mismas;
 
-V. Cuotas, los enteros a la seguridad social que los Trabajadores deben cubrir conforme a lo dispuesto en esta Ley; VI. Cuota Social, los enteros a la seguridad social que debe realizar el Gobierno Federal, con base en las disposiciones establecidas en esta Ley;
+V. Cuotas, los enteros a la seguridad social que los Trabajadores deben cubrir conforme a lo dispuesto en esta Ley;
+
+VI. Cuota Social, los enteros a la seguridad social que debe realizar el Gobierno Federal, con base en las disposiciones establecidas en esta Ley;
 
 VII. Dependencias, las unidades administrativas de los Poderes de la Unión, los órganos jurisdiccionales autónomos y demás órganos constitucionales autónomos, los órganos ejecutivo, legislativo y judicial de la Ciudad de México, así como las unidades administrativas de las [Entidades Federativas](articulo-6.md) y municipios que se incorporen al régimen de esta Ley; Fracción reformada DOF 20-05-2021
 
@@ -81,7 +83,9 @@ XXV. Seguro de Pensión, el derivado de las leyes de seguridad social, que tenga
 
 XXVI. Seguro de Sobrevivencia, aquel que contratarán los Pensionados por, retiro, cesantía en edad avanzada y vejez, a favor de sus Familiares Derechohabientes para otorgarles a éstos la Pensión que corresponda, en caso de fallecimiento del Pensionado;
 
-XXVII. Subcuenta, cualquiera de las Subcuentas de retiro, cesantía en edad avanzada y vejez, del Fondo de la Vivienda, de ahorro solidario, de aportaciones complementarias de retiro, de aportaciones voluntarias y de ahorro a largo plazo que integran la Cuenta Individual; XXVIII. Sueldo Básico, el definido en el artículo [17](articulo-17.md) de esta Ley; Fracción reformada DOF 20-01-2023
+XXVII. Subcuenta, cualquiera de las Subcuentas de retiro, cesantía en edad avanzada y vejez, del Fondo de la Vivienda, de ahorro solidario, de aportaciones complementarias de retiro, de aportaciones voluntarias y de ahorro a largo plazo que integran la Cuenta Individual;
+
+XXVIII. Sueldo Básico, el definido en el artículo [17](articulo-17.md) de esta Ley; Fracción reformada DOF 20-01-2023
 
 XXIX. Trabajador o persona trabajadora, aquella a la que se refiere el artículo [1](articulo-1.md)o. de esta Ley que preste sus servicios en las Dependencias o Entidades, mediante designación legal o nombramiento, o por estar incluida en las listas de raya de las personas trabajadoras temporales, incluidas aquéllas que presten sus servicios mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidas en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y el contrato sea por un periodo mínimo de un año; Fracción reformada DOF 20-01-2023, 08-05-2023
 

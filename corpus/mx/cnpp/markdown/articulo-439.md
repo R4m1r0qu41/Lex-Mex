@@ -37,4 +37,6 @@ VIII. Citación y traslado temporal de personas privadas de libertad en la parte
 
 IX. Entrega de documentos, objetos y otros medios de prueba;
 
-X. Autorización de la presencia o participación, durante la ejecución de una solicitud de asistencia jurídica de representantes de las autoridades competentes del Estado o autoridad requirente, y XI. Cualquier otra forma de asistencia, siempre y cuando no esté prohibida por la legislación mexicana.
+X. Autorización de la presencia o participación, durante la ejecución de una solicitud de asistencia jurídica de representantes de las autoridades competentes del Estado o autoridad requirente, y
+
+XI. Cualquier otra forma de asistencia, siempre y cuando no esté prohibida por la legislación mexicana.

@@ -25,7 +25,9 @@ II. Las que únicamente impongan multas o sanciones, pecuniaria o restitutoria, 
 
 III. Las que exijan el pago de créditos fiscales, cuando el monto de los exigibles no exceda el importe citado;
 
-IV. Las que requieran el pago de una póliza de fianza o de una garantía que hubiere sido otorgada a favor de la Federación, de organismos fiscales autónomos o de otras entidades paraestatales de aquélla, ó V. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
+IV. Las que requieran el pago de una póliza de fianza o de una garantía que hubiere sido otorgada a favor de la Federación, de organismos fiscales autónomos o de otras entidades paraestatales de aquélla, ó
+
+V. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
 
 VI. Las que emitan las autoridades fiscales federales en respuesta a las solicitudes de devolución de contribuciones derivadas de saldos a favor o de pagos de lo indebido. Fracción adicionada DOF 09-06-2026
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["REG-LGPSACDII — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -41,7 +41,9 @@ I. El conjunto de elementos que forman parte de la instalación eléctrica ha de
 
 3. Bases de enchufes múltiples con alargaderas y adaptadores múltiples que puedan producir una sobrecarga en la línea donde se conecten.
 
-4. Humedad en la instalación. II. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
+4. Humedad en la instalación.
+
+II. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
 
 III. Todos los mecanismos eléctricos deberán contar con protección infantil;
 

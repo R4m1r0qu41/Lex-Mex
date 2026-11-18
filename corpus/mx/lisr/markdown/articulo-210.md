@@ -23,7 +23,9 @@ I. Que hayan sido efectivamente erogadas en el ejercicio de que se trate. Se con
 
 Cuando los pagos a que se refiere el párrafo anterior se efectúen con cheque, la deducción se efectuará en el ejercicio en que éste se cobre, siempre que entre la fecha consignada en el comprobante fiscal que se haya expedido y la fecha en que efectivamente se cobre dicho cheque no hayan transcurrido más de cuatro meses.
 
-Tratándose de inversiones, éstas deberán deducirse en el ejercicio en el que se inicie su utilización o en el ejercicio siguiente, aun cuando en dicho ejercicio no se haya erogado en su totalidad el monto original de la inversión. II. Que sean estrictamente indispensables para la obtención de los ingresos por los que se está obligado al pago de este impuesto en los términos de este Capítulo.
+Tratándose de inversiones, éstas deberán deducirse en el ejercicio en el que se inicie su utilización o en el ejercicio siguiente, aun cuando en dicho ejercicio no se haya erogado en su totalidad el monto original de la inversión.
+
+II. Que sean estrictamente indispensables para la obtención de los ingresos por los que se está obligado al pago de este impuesto en los términos de este Capítulo.
 
 III. Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección II del Capítulo II del Título II de esta Ley.
 

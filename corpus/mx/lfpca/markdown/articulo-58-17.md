@@ -23,7 +23,9 @@ El juicio de resolución exclusiva de fondo no será procedente cuando se haya i
 
 La persona demandante sólo podrá hacer valer conceptos de impugnación que tengan por objeto resolver exclusivamente sobre el fondo de la controversia que se plantea, sin que obste para ello que la resolución que se controvierta se encuentre motivada en el incumplimiento total o parcial de requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables; siempre que la persona demandante acredite que no se produjo omisión en el pago de contribuciones. Párrafo reformado DOF 09-06-2026
 
-Para efectos del juicio de resolución exclusiva de fondo se entenderá por concepto de impugnación cuyo objeto sea resolver exclusivamente sobre el fondo de la controversia, entre otros, aquéllos que referidos al sujeto, objeto, base, tasa o tarifa de las obligaciones revisadas, pretendan controvertir alguno de los siguientes supuestos: I. Los hechos u omisiones calificados en la resolución impugnada como constitutivos de incumplimiento de las obligaciones revisadas.
+Para efectos del juicio de resolución exclusiva de fondo se entenderá por concepto de impugnación cuyo objeto sea resolver exclusivamente sobre el fondo de la controversia, entre otros, aquéllos que referidos al sujeto, objeto, base, tasa o tarifa de las obligaciones revisadas, pretendan controvertir alguno de los siguientes supuestos:
+
+I. Los hechos u omisiones calificados en la resolución impugnada como constitutivos de incumplimiento de las obligaciones revisadas.
 
 II. La aplicación o interpretación de las normas involucradas.
 

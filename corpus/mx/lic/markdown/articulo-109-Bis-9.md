@@ -25,6 +25,8 @@ I. Las irregularidades o incumplimientos que sean detectados por las Comisiones 
 
 Se entenderá que la irregularidad fue detectada previamente por las Comisiones Nacionales Bancaria y de Valores o para la Protección y Defensa de los Usuarios de Servicios Financieros o por el Instituto para la Protección al Ahorro Bancario, en el caso de las facultades de vigilancia, cuando se haya notificado a la entidad la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
 
-II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 
 Artículo adicionado DOF 10-01-2014

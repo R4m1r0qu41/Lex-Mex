@@ -21,7 +21,9 @@ La Dirección General de Transportes Aéreos tiene las atribuciones siguientes:
 
 I. Realizar la operación aeronáutica de la [Institución](articulo-2.md), para el cumplimiento de las misiones de vuelo;
 
-II. Mantener la confiabilidad y la seguridad de las operaciones aéreas, así como de las aeronaves de la Institución con apego a las disposiciones que establezcan las autoridades aeronáuticas; III. Supervisar el registro y la actualización de la documentación aeronáutica, técnica y legal, de conformidad con las disposiciones jurídicas aplicables;
+II. Mantener la confiabilidad y la seguridad de las operaciones aéreas, así como de las aeronaves de la Institución con apego a las disposiciones que establezcan las autoridades aeronáuticas;
+
+III. Supervisar el registro y la actualización de la documentación aeronáutica, técnica y legal, de conformidad con las disposiciones jurídicas aplicables;
 
 IV. Programar y supervisar el cumplimiento de los programas de mantenimiento de las aeronaves de la Institución;
 

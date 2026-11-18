@@ -21,4 +21,6 @@ A las Sociedades les estará prohibido:
 
 I. Solicitar y otorgar información distinta a la autorizada conforme a esta ley y a las demás disposiciones aplicables;
 
-II. Explotar por su cuenta o de terceros, establecimientos mercantiles o industriales o fincas rústicas y, en general, invertir en sociedades de cualquier clase distintas a las señaladas en la presente ley, y III. Realizar actividades no contempladas en esta ley y demás disposiciones aplicables.
+II. Explotar por su cuenta o de terceros, establecimientos mercantiles o industriales o fincas rústicas y, en general, invertir en sociedades de cualquier clase distintas a las señaladas en la presente ley, y
+
+III. Realizar actividades no contempladas en esta ley y demás disposiciones aplicables.

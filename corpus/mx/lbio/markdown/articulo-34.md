@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LBIO — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf
 source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 ---
@@ -25,7 +25,9 @@ II. Renuncia expresa de la persona permisionaria, siempre que no se afecten dere
 
 III. Caducidad;
 
-IV. Revocación; V. Desaparición del objeto o de la finalidad del permiso;
+IV. Revocación;
+
+V. Desaparición del objeto o de la finalidad del permiso;
 
 VI. Disolución, liquidación o quiebra de la persona moral permisionaria;
 

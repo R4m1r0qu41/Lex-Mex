@@ -7,8 +7,8 @@ provision_type: article
 number: "95"
 aliases: ["REG-LFPCCS — Artículo 95"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf
 source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 ---

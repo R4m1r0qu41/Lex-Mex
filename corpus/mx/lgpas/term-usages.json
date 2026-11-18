@@ -1,111 +1,111 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2415-2420",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2416-2421",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 2415,
-    "end_char": 2420
+    "start_char": 2416,
+    "end_char": 2421
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2423-2434",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2424-2435",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 2423,
-    "end_char": 2434
+    "start_char": 2424,
+    "end_char": 2435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2440-2448",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:2:term-usage:2441-2449",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 2440,
-    "end_char": 2448
+    "start_char": 2441,
+    "end_char": 2449
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:3346-3355",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:3347-3356",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:inocuidad",
     "span": "Inocuidad",
-    "start_char": 3346,
-    "end_char": 3355
+    "start_char": 3347,
+    "end_char": 3356
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:3747-3757",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:3748-3758",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3747,
-    "end_char": 3757
+    "start_char": 3748,
+    "end_char": 3758
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:4476-4485",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:4477-4486",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:inocuidad",
     "span": "Inocuidad",
-    "start_char": 4476,
-    "end_char": 4485
+    "start_char": 4477,
+    "end_char": 4486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:5472-5482",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:5473-5483",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5472,
-    "end_char": 5482
+    "start_char": 5473,
+    "end_char": 5483
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:6561-6571",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:6563-6573",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6561,
-    "end_char": 6571
+    "start_char": 6563,
+    "end_char": 6573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10051-10062",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10054-10065",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 10051,
-    "end_char": 10062
+    "start_char": 10054,
+    "end_char": 10065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10065-10070",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10068-10073",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 10065,
-    "end_char": 10070
+    "start_char": 10068,
+    "end_char": 10073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10131-10139",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10134-10142",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:senasica",
     "span": "SENASICA",
-    "start_char": 10131,
-    "end_char": 10139
+    "start_char": 10134,
+    "end_char": 10142
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10295-10304",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:4:term-usage:10298-10307",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:inocuidad",
     "span": "Inocuidad",
-    "start_char": 10295,
-    "end_char": 10304
+    "start_char": 10298,
+    "end_char": 10307
   },
   {
     "schema_version": "0.1.0",
@@ -136,93 +136,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:4770-4776",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:4771-4777",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:imipas",
     "span": "IMIPAS",
-    "start_char": 4770,
-    "end_char": 4776
+    "start_char": 4771,
+    "end_char": 4777
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:5052-5060",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:5054-5062",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 5052,
-    "end_char": 5060
+    "start_char": 5054,
+    "end_char": 5062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6257-6262",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6259-6264",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 6257,
-    "end_char": 6262
+    "start_char": 6259,
+    "end_char": 6264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6265-6276",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6267-6278",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 6265,
-    "end_char": 6276
+    "start_char": 6267,
+    "end_char": 6278
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6403-6408",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6405-6410",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 6403,
-    "end_char": 6408
+    "start_char": 6405,
+    "end_char": 6410
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6411-6422",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:6413-6424",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 6411,
-    "end_char": 6422
+    "start_char": 6413,
+    "end_char": 6424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7156-7161",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7158-7163",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 7156,
-    "end_char": 7161
+    "start_char": 7158,
+    "end_char": 7163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7164-7175",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7166-7177",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 7164,
-    "end_char": 7175
+    "start_char": 7166,
+    "end_char": 7177
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7280-7285",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7282-7287",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:pesca",
     "span": "Pesca",
-    "start_char": 7280,
-    "end_char": 7285
+    "start_char": 7282,
+    "end_char": 7287
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7288-7299",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:8:term-usage:7290-7301",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:8",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:acuacultura",
     "span": "Acuacultura",
-    "start_char": 7288,
-    "end_char": 7299
+    "start_char": 7290,
+    "end_char": 7301
   },
   {
     "schema_version": "0.1.0",
@@ -244,21 +244,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:9:term-usage:762-772",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:9:term-usage:763-773",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 762,
-    "end_char": 772
+    "start_char": 763,
+    "end_char": 773
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:9:term-usage:1456-1466",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:9:term-usage:1457-1467",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1456,
-    "end_char": 1466
+    "start_char": 1457,
+    "end_char": 1467
   },
   {
     "schema_version": "0.1.0",
@@ -1018,12 +1018,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:48:term-usage:411-419",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:48:term-usage:412-420",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:48",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 411,
-    "end_char": 419
+    "start_char": 412,
+    "end_char": 420
   },
   {
     "schema_version": "0.1.0",
@@ -1081,12 +1081,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:52:term-usage:378-386",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:52:term-usage:379-387",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 378,
-    "end_char": 386
+    "start_char": 379,
+    "end_char": 387
   },
   {
     "schema_version": "0.1.0",
@@ -1459,12 +1459,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:90:term-usage:707-715",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:90:term-usage:708-716",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:90",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 707,
-    "end_char": 715
+    "start_char": 708,
+    "end_char": 716
   },
   {
     "schema_version": "0.1.0",
@@ -2260,48 +2260,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1043-1053",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1044-1054",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1043,
-    "end_char": 1053
+    "start_char": 1044,
+    "end_char": 1054
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1145-1153",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1146-1154",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 1145,
-    "end_char": 1153
+    "start_char": 1146,
+    "end_char": 1154
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1234-1240",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1235-1241",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:imipas",
     "span": "IMIPAS",
-    "start_char": 1234,
-    "end_char": 1240
+    "start_char": 1235,
+    "end_char": 1241
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1245-1253",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1246-1254",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:senasica",
     "span": "SENASICA",
-    "start_char": 1245,
-    "end_char": 1253
+    "start_char": 1246,
+    "end_char": 1254
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1365-1373",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:122:term-usage:1366-1374",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 1365,
-    "end_char": 1373
+    "start_char": 1366,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",
@@ -2395,120 +2395,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1202-1212",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1203-1213",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1202,
-    "end_char": 1212
+    "start_char": 1203,
+    "end_char": 1213
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1300-1310",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1301-1311",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1300,
-    "end_char": 1310
+    "start_char": 1301,
+    "end_char": 1311
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1622-1632",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1623-1633",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1622,
-    "end_char": 1632
+    "start_char": 1623,
+    "end_char": 1633
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1843-1853",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:1844-1854",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1843,
-    "end_char": 1853
+    "start_char": 1844,
+    "end_char": 1854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2334-2344",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2335-2345",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2334,
-    "end_char": 2344
+    "start_char": 2335,
+    "end_char": 2345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2351-2357",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2352-2358",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:imipas",
     "span": "IMIPAS",
-    "start_char": 2351,
-    "end_char": 2357
+    "start_char": 2352,
+    "end_char": 2358
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2616-2626",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2617-2627",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2616,
-    "end_char": 2626
+    "start_char": 2617,
+    "end_char": 2627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2730-2740",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2731-2741",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2730,
-    "end_char": 2740
+    "start_char": 2731,
+    "end_char": 2741
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2887-2897",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:2888-2898",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2887,
-    "end_char": 2897
+    "start_char": 2888,
+    "end_char": 2898
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3100-3110",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3101-3111",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3100,
-    "end_char": 3110
+    "start_char": 3101,
+    "end_char": 3111
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3304-3314",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3305-3315",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3304,
-    "end_char": 3314
+    "start_char": 3305,
+    "end_char": 3315
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3708-3716",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3710-3718",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:registro",
     "span": "Registro",
-    "start_char": 3708,
-    "end_char": 3716
+    "start_char": 3710,
+    "end_char": 3718
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3918-3928",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:term-usage:3920-3930",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3918,
-    "end_char": 3928
+    "start_char": 3920,
+    "end_char": 3930
   },
   {
     "schema_version": "0.1.0",
@@ -2584,12 +2584,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:143:term-usage:610-620",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:143:term-usage:611-621",
     "provision_id": "urn:lex-mx:federal:statute:lgpas:article:143",
     "term_id": "urn:lex-mx:federal:statute:lgpas:term:secretaria",
     "span": "Secretaría",
-    "start_char": 610,
-    "end_char": 620
+    "start_char": 611,
+    "end_char": 621
   },
   {
     "schema_version": "0.1.0",

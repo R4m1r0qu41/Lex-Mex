@@ -17,7 +17,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 # Artículo 169
 
-1. Toda iniciativa consta por escrito y contiene, al menos, lo siguiente: I. Encabezado o título, con el señalamiento preciso del o de los ordenamientos a que se refiere;
+1. Toda iniciativa consta por escrito y contiene, al menos, lo siguiente:
+
+I. Encabezado o título, con el señalamiento preciso del o de los ordenamientos a que se refiere;
 
 II. Fundamento legal;
 

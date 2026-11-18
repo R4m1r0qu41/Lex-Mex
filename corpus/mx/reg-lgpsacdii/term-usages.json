@@ -19,30 +19,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:177-200",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:178-201",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
     "span": "Autoridades Competentes",
-    "start_char": 177,
-    "end_char": 200
+    "start_char": 178,
+    "end_char": 201
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:335-353",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:336-354",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
     "span": "Modelo de Atención",
-    "start_char": 335,
-    "end_char": 353
+    "start_char": 336,
+    "end_char": 354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:374-394",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3:term-usage:375-395",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
     "span": "Autoridad Competente",
-    "start_char": 374,
-    "end_char": 394
+    "start_char": 375,
+    "end_char": 395
   },
   {
     "schema_version": "0.1.0",
@@ -127,6 +127,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:14:term-usage:274-286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 274,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:15:term-usage:187-205",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
@@ -199,6 +208,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21:term-usage:441-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 441,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21:term-usage:633-651",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
@@ -208,12 +226,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21:term-usage:1171-1189",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21:term-usage:1172-1190",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
     "span": "Modelo de Atención",
-    "start_char": 1171,
-    "end_char": 1189
+    "start_char": 1172,
+    "end_char": 1190
   },
   {
     "schema_version": "0.1.0",
@@ -244,6 +262,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:40:term-usage:534-546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 534,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41:term-usage:70-90",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
@@ -262,6 +298,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41:term-usage:250-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 250,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41:term-usage:371-394",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
@@ -271,12 +316,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:218-241",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
     "span": "Autoridades Competentes",
     "start_char": 218,
     "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:367-379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 367,
+    "end_char": 379
   },
   {
     "schema_version": "0.1.0",
@@ -298,12 +361,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:525-537",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 525,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:622-645",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autoridades-competentes",
     "span": "Autoridades Competentes",
     "start_char": 622,
     "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42:term-usage:708-720",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 708,
+    "end_char": 720
   },
   {
     "schema_version": "0.1.0",
@@ -322,6 +403,24 @@
     "span": "Modelo de Atención",
     "start_char": 364,
     "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:44:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:44:term-usage:363-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 363,
+    "end_char": 375
   },
   {
     "schema_version": "0.1.0",
@@ -370,12 +469,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:46:term-usage:199-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 199,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:46:term-usage:449-467",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:46",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
     "span": "Modelo de Atención",
     "start_char": 449,
     "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:48:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:autorizacion",
+    "span": "Autorización",
+    "start_char": 3,
+    "end_char": 15
   },
   {
     "schema_version": "0.1.0",
@@ -532,12 +649,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:60:term-usage:335-353",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:60:term-usage:336-354",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:term:modelo-de-atencion",
     "span": "Modelo de Atención",
-    "start_char": 335,
-    "end_char": 353
+    "start_char": 336,
+    "end_char": 354
   },
   {
     "schema_version": "0.1.0",

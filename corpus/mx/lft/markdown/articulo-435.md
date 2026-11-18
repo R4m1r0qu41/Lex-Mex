@@ -21,4 +21,6 @@ En los casos señalados en el [artículo anterior](articulo-434.md), se observar
 
 I. Si se trata de las fracciones I y V, se dará aviso de la terminación al [Tribunal](articulo-3o.-Ter.md), para que éste, previo el procedimiento especial colectivo establecido en el artículo [897](articulo-897.md) y subsecuentes de esta Ley, la apruebe o desapruebe; Fracción reformada DOF 30-11-2012, 01-05-2019
 
-II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones contenidas en el procedimiento especial colectivo establecido en el artículo [897](articulo-897.md) y subsecuentes de esta Ley, y Fracción reformada DOF 30-11-2012, 01-05-2019 III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica. Fracción reformada DOF 01-05-2019
+II. Si se trata de la fracción III, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones contenidas en el procedimiento especial colectivo establecido en el artículo [897](articulo-897.md) y subsecuentes de esta Ley, y Fracción reformada DOF 30-11-2012, 01-05-2019
+
+III. Si se trata de la fracción II, el patrón, previamente a la terminación, deberá obtener la autorización del Tribunal, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica. Fracción reformada DOF 01-05-2019

@@ -21,7 +21,9 @@ Los responsables sanitarios de los establecimientos a que se refiere el artícul
 
 I. En los establecimientos a que se refieren las fracciones I, IV, V y VI deberá ser farmacéutico, químico farmacéutico biólogo, químico farmacéutico industrial o profesional cuya carrera se encuentre relacionada con la farmacia; en los casos de establecimientos que fabriquen medicamentos homeopáticos, el responsable podrá ser un homeópata;
 
-II. En los establecimientos a que se refieren las fracciones II y VII, además de los profesionales señalados en la fracción anterior, el responsable podrá ser un químico industrial; III. En los establecimientos señalados en las fracciones III y VIII, además de los profesionales citados en la fracción I, podrá ser responsable un médico;
+II. En los establecimientos a que se refieren las fracciones II y VII, además de los profesionales señalados en la fracción anterior, el responsable podrá ser un químico industrial;
+
+III. En los establecimientos señalados en las fracciones III y VIII, además de los profesionales citados en la fracción I, podrá ser responsable un médico;
 
 IV. En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquellos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas, quienes podrán ser cualquiera de los profesionales enunciados en las fracciones I, II y III del presente artículo. De no ser el caso, el propietario será responsable en los términos del artículo [261](articulo-261.md) de esta Ley. Fracción reformada DOF 13-06-2003
 

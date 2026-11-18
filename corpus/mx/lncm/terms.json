@@ -29,7 +29,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "III",
     "start_char": 350,
-    "end_char": 781,
+    "end_char": 694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:embarcacion",
+    "term": "Embarcación",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "IV",
+    "start_char": 694,
+    "end_char": 782,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "V",
-    "start_char": 781,
-    "end_char": 1063,
+    "start_char": 782,
+    "end_char": 1064,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "VI",
-    "start_char": 1063,
-    "end_char": 1263,
+    "start_char": 1064,
+    "end_char": 1264,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "VII",
-    "start_char": 1263,
-    "end_char": 1645,
+    "start_char": 1264,
+    "end_char": 1646,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "VII Bis",
-    "start_char": 1645,
-    "end_char": 2048,
+    "start_char": 1646,
+    "end_char": 2049,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "VII Ter",
-    "start_char": 2048,
-    "end_char": 2194,
+    "start_char": 2049,
+    "end_char": 2195,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "VIII",
-    "start_char": 2194,
-    "end_char": 2362,
+    "start_char": 2195,
+    "end_char": 2363,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "IX",
-    "start_char": 2362,
-    "end_char": 2794,
+    "start_char": 2363,
+    "end_char": 2795,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "X",
-    "start_char": 2794,
-    "end_char": 3073,
+    "start_char": 2795,
+    "end_char": 3074,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "XI",
-    "start_char": 3073,
-    "end_char": 3199,
+    "start_char": 3074,
+    "end_char": 3200,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "XII",
-    "start_char": 3199,
-    "end_char": 3393,
+    "start_char": 3200,
+    "end_char": 3394,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "XIII",
-    "start_char": 3393,
-    "end_char": 3786,
+    "start_char": 3394,
+    "end_char": 3787,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "XIV",
-    "start_char": 3786,
-    "end_char": 4246,
+    "start_char": 3787,
+    "end_char": 4247,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lncm",
     "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
     "fraction": "XV",
-    "start_char": 4246,
-    "end_char": 4538,
+    "start_char": 4247,
+    "end_char": 4539,
     "basis": "express_definition"
   }
 ]

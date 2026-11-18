@@ -7,8 +7,8 @@ provision_type: article
 number: "1o"
 aliases: ["LANSI — Artículo 1o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf
 source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 ---
@@ -21,6 +21,8 @@ La presente Ley es de orden público e interés general y de aplicación en todo
 
 La Agencia tiene por objeto la protección de las personas, el medio ambiente y las instalaciones del sector hidrocarburos a través de la regulación y supervisión de:
 
-I. La [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md); II. Las actividades de desmantelamiento y abandono de instalaciones, y
+I. La [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md);
+
+II. Las actividades de desmantelamiento y abandono de instalaciones, y
 
 III. El control integral de los residuos y emisiones contaminantes.

@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-04T03:43:51.668198+00:00",
+  "requests": [
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/robots.txt",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/sitemap.xml",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

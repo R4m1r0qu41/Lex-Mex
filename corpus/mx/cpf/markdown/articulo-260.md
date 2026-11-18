@@ -43,7 +43,9 @@ VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisi
 
 VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
 
-IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento; X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
 
 XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
 

@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Principios del Procedimiento Las estrategias del programa de las personas sentenciadas deben estar fundamentadas en una política de salud pública, reconociendo que los trastornos por la dependencia de sustancias representan una enfermedad biopsicosocial crónica, progresiva y recurrente que requiere de un tratamiento integral. Por tal motivo, el procedimiento se regirá bajo los siguientes principios:
 
-I. Voluntariedad. La persona sentenciada debe aceptar someterse al programa de manera libre e informada respecto de los beneficios, condiciones y medidas disciplinarias que exige el procedimiento; II. Flexibilidad. Para la aplicación de incentivos y medidas disciplinarias, se considerará la evolución intermitente del trastorno por dependencia de sustancias durante el tratamiento como parte del proceso de rehabilitación;
+I. Voluntariedad. La persona sentenciada debe aceptar someterse al programa de manera libre e informada respecto de los beneficios, condiciones y medidas disciplinarias que exige el procedimiento;
+
+II. Flexibilidad. Para la aplicación de incentivos y medidas disciplinarias, se considerará la evolución intermitente del trastorno por dependencia de sustancias durante el tratamiento como parte del proceso de rehabilitación;
 
 III. Confidencialidad. La información personal de las personas sentenciadas en tratamiento estará debidamente resguardada y únicamente tendrán acceso a ella los operadores como un principio ético aplicable tanto a la información de carácter médica como la derivada del proceso judicial;
 

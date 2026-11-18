@@ -49,7 +49,9 @@ IV. Contribuir al diseño de instrumentos de política ambiental, cambio climát
 
 V. Proponer la definición de prioridades, asignación y optimación de recursos del gobierno federal para la investigación sobre medio ambiente y cambio climático;
 
-VI. Integrar la información para elaborar las comunicaciones nacionales que presenten los Estados Unidos Mexicanos ante la [Convención](articulo-3o.md); VII. Apoyar a la [Comisión](articulo-3o.md) en la elaboración de la [Estrategia Nacional](articulo-3o.md) y del [Programa](articulo-3o.md);
+VI. Integrar la información para elaborar las comunicaciones nacionales que presenten los Estados Unidos Mexicanos ante la [Convención](articulo-3o.md);
+
+VII. Apoyar a la [Comisión](articulo-3o.md) en la elaboración de la [Estrategia Nacional](articulo-3o.md) y del [Programa](articulo-3o.md);
 
 VIII. Integrar, monitorear y actualizar el [Inventario](articulo-3o.md);
 
@@ -77,7 +79,9 @@ XIX. Dar apoyo técnico a los estudios que propongan y justifiquen el establecim
 
 XX. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de ordenamiento ecológico, conservación de ecosistemas y especies de vida silvestre, contaminación y calidad ambiental, de colecta de especímenes con fines científicos y de investigación, de aprovechamiento para su utilización en biotecnología, acceso a recursos genéticos, así como para la utilización confinada, el manejo, la movilización y la liberación experimental, en programas piloto y comercial, de organismos genéticamente modificados;
 
-XXI. Otorgar apoyo técnico a los programas que se realicen en los centros de investigación de la vida silvestre; XXII. Participar en iniciativas, comités y consorcios ambientales científicos y de investigación, educación y capacitación, tanto nacionales como internacionales;
+XXI. Otorgar apoyo técnico a los programas que se realicen en los centros de investigación de la vida silvestre;
+
+XXII. Participar en iniciativas, comités y consorcios ambientales científicos y de investigación, educación y capacitación, tanto nacionales como internacionales;
 
 XXIII. Promover el intercambio de científicos con instituciones de investigación y enseñanza media superior y superior, tanto nacionales como internacionales;
 

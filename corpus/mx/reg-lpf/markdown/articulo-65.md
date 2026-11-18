@@ -7,8 +7,8 @@ provision_type: article
 number: "65"
 aliases: ["REG-LPF — Artículo 65"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -33,7 +33,9 @@ VI. Practicar las acciones necesarias requeridas por la autoridad competente par
 
 VII. Detectar rutas de acceso que puedan generar daño a los sistemas informáticos, programas, datos o archivos que circulan por la red pública de internet;
 
-VIII. Desarrollar aplicaciones avanzadas como soporte a la identificación encaminada a las inspecciones técnico-policiales para prevenir la comisión de delitos; IX. Auxiliar a las autoridades competentes en el rastreo y análisis de correos electrónicos relacionados en la investigación y prevención de delitos;
+VIII. Desarrollar aplicaciones avanzadas como soporte a la identificación encaminada a las inspecciones técnico-policiales para prevenir la comisión de delitos;
+
+IX. Auxiliar a las autoridades competentes en el rastreo y análisis de correos electrónicos relacionados en la investigación y prevención de delitos;
 
 X. Promover y gestionar ante las instancias correspondientes la atención de las denuncias para la prevención y combate de los delitos que se cometen utilizando medios electrónicos y tecnológicos, así como aquellos hechos ilícitos en cuya comisión se hayan utilizado dichos medios;
 
@@ -57,6 +59,8 @@ XIX. Solicitar, conforme a las disposiciones aplicables, la baja de información
 
 XX. Detectar rutas de acceso que puedan generar daño a los sistemas informáticos, programas, datos o archivos que circulan por la red;
 
-XXI. Adquirir herramientas de informática forense, programas y dispositivos tecnológicos que permitan verificar los datos informáticos en programas o medios magnéticos; XXII. Evaluar y documentar la operación técnica de amenazas electrónicas relacionadas con delitos que se cometen utilizando medios electrónicos o tecnológicos, así como aquellos hechos ilícitos en cuya comisión se hayan utilizado dichos medios, y
+XXI. Adquirir herramientas de informática forense, programas y dispositivos tecnológicos que permitan verificar los datos informáticos en programas o medios magnéticos;
+
+XXII. Evaluar y documentar la operación técnica de amenazas electrónicas relacionadas con delitos que se cometen utilizando medios electrónicos o tecnológicos, así como aquellos hechos ilícitos en cuya comisión se hayan utilizado dichos medios, y
 
 XXIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

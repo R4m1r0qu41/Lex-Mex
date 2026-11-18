@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["LFPCCS — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf
 source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 ---
@@ -27,7 +27,9 @@ III. Denominación de la variedad vegetal;
 
 IV. Identificación de la categoría de semilla, de conformidad con lo dispuesto en esta Ley;
 
-V. Cuando aplique, el porcentaje de germinación y en su caso, el contenido de semillas de otras variedades y especies así como el de impurezas o materia inerte; VI. En su caso, la mención y descripción del tratamiento químico que se le haya aplicado a la semilla, debiendo en este supuesto, estar teñida para advertir sobre su improcedencia para efectos de alimentación humana y animal;
+V. Cuando aplique, el porcentaje de germinación y en su caso, el contenido de semillas de otras variedades y especies así como el de impurezas o materia inerte;
+
+VI. En su caso, la mención y descripción del tratamiento químico que se le haya aplicado a la semilla, debiendo en este supuesto, estar teñida para advertir sobre su improcedencia para efectos de alimentación humana y animal;
 
 VII. Nombre o razón social del productor o responsable de la semilla y su domicilio;
 

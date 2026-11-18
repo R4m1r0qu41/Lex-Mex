@@ -17,7 +17,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 25
 
-El escrito en que consten las condiciones de trabajo deberá contener: I. Nombre, nacionalidad, edad, sexo, estado civil, Clave Única de Registro de Población, Registro Federal de Contribuyentes y domicilio del trabajador y del patrón; Fracción reformada DOF 30-11-2012
+El escrito en que consten las condiciones de trabajo deberá contener:
+
+I. Nombre, nacionalidad, edad, sexo, estado civil, Clave Única de Registro de Población, Registro Federal de Contribuyentes y domicilio del trabajador y del patrón; Fracción reformada DOF 30-11-2012
 
 II. Si la relación de trabajo es para obra o tiempo determinado, por temporada, de capacitación inicial o por tiempo indeterminado y, en su caso, si está sujeta a un periodo de prueba; Fracción reformada DOF 30-11-2012
 

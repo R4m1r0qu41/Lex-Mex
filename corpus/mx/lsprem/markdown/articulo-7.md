@@ -39,7 +39,9 @@ IX. Promover el conocimiento de las artes, la ciencia, la historia y la cultura;
 
 X. Velar por la conservación de los archivos históricos audiovisuales que disponga;
 
-XI. Procurar la más amplia audiencia y la máxima continuidad y cobertura geográfica y social, con el compromiso de ofrecer calidad, diversidad, innovación y exigencia ética; XII. Promover el conocimiento científico y cultural, la salvaguarda y el respeto de los valores ecológicos y de protección del medio ambiente;
+XI. Procurar la más amplia audiencia y la máxima continuidad y cobertura geográfica y social, con el compromiso de ofrecer calidad, diversidad, innovación y exigencia ética;
+
+XII. Promover el conocimiento científico y cultural, la salvaguarda y el respeto de los valores ecológicos y de protección del medio ambiente;
 
 XIII. Preservar los derechos de los menores, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["LRART27-MN — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf
 source_sha256: 547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8
 ---
@@ -25,7 +25,9 @@ II.- Instalación nuclear: aquélla en la que se fabrica, procesa, utiliza, repr
 
 III.- Instalación radiactiva: aquélla en la que se produce, fabrica, almacena o hace uso de material radiactivo o equipo que lo contenga; o se tratan, condicionan o almacenan desechos radiactivos;
 
-IV.- Material nuclear: cualquier material básico o material fisionable especial; V.- Material básico:
+IV.- Material nuclear: cualquier material básico o material fisionable especial;
+
+V.- Material básico:
 
 a) El uranio natural;
 

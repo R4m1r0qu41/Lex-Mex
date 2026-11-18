@@ -7,8 +7,8 @@ provision_type: article
 number: "25o"
 aliases: ["REG-CCOMER-MPSC — Artículo 25o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf
 source_sha256: 68289021a298c81ea470c045775a924186bf451c2469dcf6c59a43200a2b0048
 ---
@@ -23,7 +23,9 @@ I. Reincida en cualquiera de las conductas u omisiones a que se refiere el [art�
 
 II. Cambie su domicilio, objeto social o estatutos sin dar aviso previo a la Secretaría, dentro del plazo previsto en el artículo [21](articulo-21o.md)o. del presente Reglamento;
 
-III. Omita notificar a la Secretaría la iniciación de la prestación de servicios de certificación dentro de los cuarenta y cinco días naturales siguientes al comienzo de dicha actividad; IV. Omita remitir a la Secretaría una copia de cada Certificado por él generado;
+III. Omita notificar a la Secretaría la iniciación de la prestación de servicios de certificación dentro de los cuarenta y cinco días naturales siguientes al comienzo de dicha actividad;
+
+IV. Omita remitir a la Secretaría una copia de cada Certificado por él generado;
 
 V. Omita poner a disposición del Firmante los dispositivos de generación de los Datos de Creación y de verificación de la Firma Electrónica, o
 

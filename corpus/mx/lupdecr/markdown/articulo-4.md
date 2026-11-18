@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LUPDECR — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf
 source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 ---

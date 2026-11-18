@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["REG-LGPSACDII — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -47,7 +47,9 @@ b) Tipo 3 y Tipo 4:
 
 I. Verificar que cualquier modificación o reparación que sea precisa en el conjunto de la instalación eléctrica y en las restantes instalaciones de gas, y calefacción, entre otras, sea realizada por personal autorizado;
 
-II. Llevar un control documentado de las condiciones de las instalaciones generales del Centro de Atención, tales como instalaciones eléctricas, y de calefacción, entre otras; III. Prohibir expresamente que los espacios utilizados para plantas de emergencia, subestaciones eléctricas, equipos hidráulicos o calderas sean utilizados como áreas de almacén;
+II. Llevar un control documentado de las condiciones de las instalaciones generales del Centro de Atención, tales como instalaciones eléctricas, y de calefacción, entre otras;
+
+III. Prohibir expresamente que los espacios utilizados para plantas de emergencia, subestaciones eléctricas, equipos hidráulicos o calderas sean utilizados como áreas de almacén;
 
 IV. Verificar frecuentemente las condiciones que guardan las áreas de riesgo especial existentes en el Centro de Atención como almacenes generales, subestaciones de luz, cuarto de calderas, entre otros, y
 
@@ -141,7 +143,9 @@ II. La ocupación asignada a cada recinto y zona del Centro de Atención no debe
 
 III. Verificar que todos los elementos de evacuación y salidas del Centro de Atención se encuentren permanentemente despejados de obstáculos;
 
-IV. No se deberán clausurar o cerrar con llave, aún con carácter provisional, las puertas de paso y salida de ocupantes, durante el periodo de funcionamiento del Centro de Atención; V. Comprobar periódicamente el correcto funcionamiento de los mecanismos de apertura de las puertas vinculadas a la evacuación del Centro de Atención;
+IV. No se deberán clausurar o cerrar con llave, aún con carácter provisional, las puertas de paso y salida de ocupantes, durante el periodo de funcionamiento del Centro de Atención;
+
+V. Comprobar periódicamente el correcto funcionamiento de los mecanismos de apertura de las puertas vinculadas a la evacuación del Centro de Atención;
 
 VI. Las puertas de emergencia deben abrir en el sentido de la evacuación, y
 

@@ -49,7 +49,9 @@ II. Número de carpeta de investigación o expediente administrativo y, tratánd
 
 III. Adicciones, estado general de salud, enfermedades o padecimientos crónicos o degenerativos;
 
-IV. Nombre y cargo del servidor público que actualiza el registro, así como área de adscripción; V. Día y hora de la liberación de la persona detenida o, en su caso, del traslado a otro lugar de detención;
+IV. Nombre y cargo del servidor público que actualiza el registro, así como área de adscripción;
+
+V. Día y hora de la liberación de la persona detenida o, en su caso, del traslado a otro lugar de detención;
 
 VI. Descripción mínima de la ruta sobre el traslado y la autoridad encargada del mismo;
 

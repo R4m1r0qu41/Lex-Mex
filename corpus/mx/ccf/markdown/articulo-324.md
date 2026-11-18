@@ -19,4 +19,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Se presumen hijos de los cónyuges:
 
-I. Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio; II. Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+I. Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+
+II. Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.

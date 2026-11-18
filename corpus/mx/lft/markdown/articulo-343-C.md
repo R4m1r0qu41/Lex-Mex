@@ -33,7 +33,9 @@ VI. Establecer un sistema de supervisión y control adecuados en cada turno y fr
 
 VII. Implementar un registro y sistema que permita conocer con precisión los nombres de todas las personas que se encuentran en la mina, así como mantener un control de entradas y salidas de ésta;
 
-VIII. Suspender las actividades y disponer la evacuación de los trabajadores a un lugar seguro en caso de riesgo inminente para la seguridad y salud de los mismos; y IX. No contratar o permitir que se contrate a menores de 18 años.
+VIII. Suspender las actividades y disponer la evacuación de los trabajadores a un lugar seguro en caso de riesgo inminente para la seguridad y salud de los mismos; y
+
+IX. No contratar o permitir que se contrate a menores de 18 años.
 
 Los operadores de las concesiones que amparen los lotes mineros, en los cuales se ubiquen los centros de trabajo a que se refiere este Capítulo, deberán cerciorarse de que el patrón cumpla con sus obligaciones. Los operadores de las concesiones mineras serán subsidiariamente responsables, en caso de que ocurra un suceso en donde uno o más trabajadores sufran incapacidad permanente parcial o total, o la muerte, derivada de dicho suceso.
 

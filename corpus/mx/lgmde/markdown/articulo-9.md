@@ -27,7 +27,9 @@ III. Sustraiga, destruya, altere o haga uso indebido de documentos o materiales 
 
 IV. Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin ejerza violencia sobre los funcionarios electorales;
 
-V. Divulgue, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; VI. Impida la instalación, apertura o clausura de una casilla, así como el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
+V. Divulgue, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+VI. Impida la instalación, apertura o clausura de una casilla, así como el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
 VII. Se abstenga de rendir cuentas o de realizar la comprobación o justificación de los gastos ordinarios o gastos de eventos proselitistas de campaña de algún partido político, coalición, agrupación política nacional o candidato, una vez que hubiese sido legalmente requerido dentro del ámbito de sus facultades; Fracción reformada DOF 27-06-2014
 

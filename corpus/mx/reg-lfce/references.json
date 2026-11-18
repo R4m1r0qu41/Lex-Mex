@@ -249,11 +249,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:195-212:21:relative",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:196-213:21:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
     "source_span": "artículo anterior",
-    "start_char": 195,
-    "end_char": 212,
+    "start_char": 196,
+    "end_char": 213,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:21",
     "qualifiers": [],
@@ -265,19 +265,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:787-789:21:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:788-790:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
     "source_span": "21",
-    "start_char": 787,
-    "end_char": 789,
+    "start_char": 788,
+    "end_char": 790,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:21",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II y III",
-        "start_char": 754,
-        "end_char": 773
+        "start_char": 755,
+        "end_char": 774
       }
     ],
     "basis": "express_cross_reference",
@@ -288,19 +288,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:1317-1319:22:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:1049-1050:22:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
-    "source_span": "II",
-    "start_char": 1317,
-    "end_char": 1319,
+    "source_span": "I",
+    "start_char": 1049,
+    "end_char": 1050,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "II",
-        "start_char": 1317,
-        "end_char": 1319
+        "text": "I",
+        "start_char": 1049,
+        "end_char": 1050
       }
     ],
     "basis": "express_cross_reference",
@@ -311,19 +311,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:1390-1392:21:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:1318-1320:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
+    "source_span": "II",
+    "start_char": 1318,
+    "end_char": 1320,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1318,
+        "end_char": 1320
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:22:reference:1391-1393:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:22",
     "source_span": "21",
-    "start_char": 1390,
-    "end_char": 1392,
+    "start_char": 1391,
+    "end_char": 1393,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:21",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 1365,
-        "end_char": 1376
+        "start_char": 1366,
+        "end_char": 1377
       }
     ],
     "basis": "express_cross_reference",
@@ -350,11 +373,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:24:reference:1152-1154:21:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:24:reference:1153-1155:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:24",
     "source_span": "21",
-    "start_char": 1152,
-    "end_char": 1154,
+    "start_char": 1153,
+    "end_char": 1155,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:21",
     "qualifiers": [],
@@ -373,14 +396,7 @@
     "end_char": 2449,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2558,
-        "end_char": 2568
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -512,12 +528,6 @@
         "text": "fracción III",
         "start_char": 38,
         "end_char": 50
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 69,
-        "end_char": 84
       }
     ],
     "basis": "express_cross_reference",
@@ -840,19 +850,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:58:reference:2031-2033:58:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfce:article:58:reference:2032-2034:58:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:58",
     "source_span": "IV",
-    "start_char": 2031,
-    "end_char": 2033,
+    "start_char": 2032,
+    "end_char": 2034,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:58",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "IV",
-        "start_char": 2031,
-        "end_char": 2033
+        "start_char": 2032,
+        "end_char": 2034
       }
     ],
     "basis": "express_cross_reference",

@@ -7,8 +7,8 @@ provision_type: article
 number: "47"
 aliases: ["REG-LFFAROSC — Artículo 47"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf
 source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 ---
@@ -25,7 +25,9 @@ II. Coordinar las funciones del Consejo, descritas en el artículo [29](../../lf
 
 III. Conducir las sesiones del Consejo y dirigir sus debates;
 
-IV. Preparar con el apoyo del Secretario Ejecutivo, las reuniones del Consejo; V. Solicitar a los [Consejeros](articulo-2.md) propuestas de temas para la agenda de trabajo y, en su caso, el envío de los documentos previos para su análisis;
+IV. Preparar con el apoyo del Secretario Ejecutivo, las reuniones del Consejo;
+
+V. Solicitar a los [Consejeros](articulo-2.md) propuestas de temas para la agenda de trabajo y, en su caso, el envío de los documentos previos para su análisis;
 
 VI. Vigilar la oportuna integración y el adecuado funcionamiento de las comisiones y grupos de trabajo y conocer sus actividades, efecto para el cual podrá solicitarles los informes específicos que estime necesarios;
 

@@ -19,7 +19,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 1. La Junta Directiva tiene las atribuciones siguientes:
 
-I. Presentar, para su aprobación, el proyecto de Programa de Trabajo Anual de la comisión; II. Elaborar el proyecto de calendario anual de reuniones ordinarias de la comisión;
+I. Presentar, para su aprobación, el proyecto de Programa de Trabajo Anual de la comisión;
+
+II. Elaborar el proyecto de calendario anual de reuniones ordinarias de la comisión;
 
 III. Determinar el carácter público o privado de las reuniones;
 

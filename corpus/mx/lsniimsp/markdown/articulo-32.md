@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["LSNIIMSP — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
 source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 ---
@@ -37,4 +37,6 @@ VI. Identificación de tecnologías, herramientas, sistemas de interconexión e 
 
 VII. Lineamientos relativos al manejo de datos de fenómenos delictivos;
 
-VIII. Lineamientos que permitan el establecimiento de políticas generales para la utilización de inteligencia en seguridad pública y para la prevención, investigación y persecución de hechos posiblemente constitutivos de delitos, sobre todo de alto impacto, y IX. Todos aquellos que la [Secretaría](articulo-2.md) considere necesarios para el cumplimiento de los fines del Sistema y el logro de la paz social del país, en apego a las disposiciones legales que resulten aplicables.
+VIII. Lineamientos que permitan el establecimiento de políticas generales para la utilización de inteligencia en seguridad pública y para la prevención, investigación y persecución de hechos posiblemente constitutivos de delitos, sobre todo de alto impacto, y
+
+IX. Todos aquellos que la [Secretaría](articulo-2.md) considere necesarios para el cumplimiento de los fines del Sistema y el logro de la paz social del país, en apego a las disposiciones legales que resulten aplicables.

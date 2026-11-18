@@ -1,0 +1,371 @@
+{
+  "artifact": "parser-split-independent-codex-audit",
+  "date": "2026-10-24",
+  "reviewed_head": "9ad15ec9886c1e24957f93f72de6a04fbbf50d40",
+  "tested_code": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+  "baseline": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+  "verdict": "Production refactor accepted for integration within explicit coverage limits; nonblocking tooling findings",
+  "claims": {
+    "1_strict_ab": {
+      "verdict": "confirmed",
+      "basis": "Prior independent review of 15 runs/12 pairs/22330 rows/44660 stream files; all committed hash bindings rechecked, no production changes since C3"
+    },
+    "2_harness_revision": {
+      "verdict": "confirmed",
+      "gate_sha256": "fa321e4659694f9d6daa78820842d3a6e36f9bf8e5a60369c391d5eca014044e",
+      "gate_blob": "9c329e0c4f973b8dcceb6c800cec69ea9a3fde4a",
+      "repaired_blob": "24c9534bd65d761b96501899a48bd27b06456c55"
+    },
+    "3_native": {
+      "verdict": "confirmed from hash-bound raw logs, not full suite rerun",
+      "head": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+      "all_five_exit_codes": 0,
+      "tests_passed": 425,
+      "failed": 0,
+      "ignored": 0,
+      "baseline_test_names_preserved": 419,
+      "new_test_names": 6
+    },
+    "4_db": {
+      "verdict": "confirmed independently",
+      "verification_reruns_all_three_exit": 0,
+      "stale_inputs": [],
+      "golden_reruns_each": 21,
+      "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359"
+    },
+    "5_dependencies": {
+      "verdict": "confirmed",
+      "basis": "Workspace manifests, moved module imports, no reverse production/dev dependency; first-party imports migrated, facade retained"
+    },
+    "6_selftest": {
+      "verdict": "confirmed recorded 28/28, full selftest not rerun",
+      "basis": "Hash-bound raw log plus independent restart archival/refusal/output naming probes"
+    }
+  },
+  "D-001": "Accept; unknown source inventory rejected, fail-closed controls intact; three targeted tests independently rerun with one passing test each. Guard-removal mutation not independently compiled.",
+  "artifact_hashes_checked": {
+    "api-inventory.json": "4a70a37049ad48cfa711de581cda49b31463556b98f232ab34b2a07e4a050a3c",
+    "bin/B/lex-mex": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+    "bin/C1/lex-mex": "90cc26578cabf10a3fa8bf069e238834adff2a18fd8bb5530a839f8f2e0fa7bc",
+    "bin/C2/lex-mex": "17b09ead9b58436ae453c71c3a1e290cd01b1ee382e40a847c258e9e05c077f1",
+    "bin/C3/lex-mex": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+    "compare-retained-B2-vs-retained-B3.json": "8b9a1aa9615a359b5de7282f9862e26163e22e6b371dd403a970c2797becc9a6",
+    "compare-retained-B3-vs-retained-B4.json": "aabe2d43c731aa6cf9709eb255ee80fd7596cdb0d18d6ec74574872a9970e30f",
+    "compare-retained-B4-vs-retained-C1.json": "1b00c036a9feb796ff40a2008c68270f9f024bdc0d5dee04efe2424c85be6ee4",
+    "compare-retained-B4-vs-retained-C2.json": "8f0b232ac67a6047b026d613285632655a405c4eddb058b8111d03887febf506",
+    "compare-retained-B4-vs-retained-C3.json": "ba0729ef530bd3d243ceb07603fa35cde13e16c04375c7c7fc13e74f6fef58d6",
+    "compare-supp-B3-vs-supp-B4.json": "5ae0b37ee9634eb8cf4dd41ad190bb160a12f05557e47052af7534a443c7ac4d",
+    "compare-supp-B4-vs-supp-C1.json": "eb95c187ad9e3ead879a5cc8af0bc2d82f498676d7e7b95fb9675666ef728067",
+    "compare-supp-B4-vs-supp-C2.json": "ee83484c7c368c901b543bb346b4194e2a511b3ba696bcd6f7864030c4de0e53",
+    "compare-supp-B4-vs-supp-C3.json": "0f757862c145c9b6d9cc49934db855608fead7a5a3d9bb6ac8136bb54b5fb0ec",
+    "compare-sweep-B3-vs-sweep-B4.json": "ffd01a1ef1aff0d4a3c0d0ca023fc785373c741c6bd010d4e4a299c8dd3d2cae",
+    "compare-sweep-B4-vs-sweep-C1.json": "e3d2a7224ae8d99b1f85cebedc7405d1c48c5954beaec5a4214634367c4a7e13",
+    "compare-sweep-B4-vs-sweep-C2.json": "af3a4689d29e5919e3e2b8bc2876931a757b495cb16760eaf3e0a01b652125bb",
+    "compare-sweep-B4-vs-sweep-C3.json": "bd9acaae001b82171e4b05cc1f42d87424e5274d042de62a1c4ae8d7428655da",
+    "coverage-manifest-supplement.json": "efe68af8c7f9028ceb630bc20915c63dd8c0982b914631ad2bf4d1ba2e0a5971",
+    "coverage-manifest.json": "8893e33b20a90ba10b0da2f684158d951b72153acf21f1757fc35eb8dbd608d3",
+    "g4-out/baseline-bb-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+    "g4-out/baseline-bb-verify.json": "e3e9db382c686c0e548ea863624ef8f983999b1536a7898d96e8e23e6817e870",
+    "g4-out/baseline-bb.json": "408b9e6e51d2d434808aca5c15f63537eb796061f51efe58ace0b8b6feb97e68",
+    "g4-out/cand-a-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+    "g4-out/cand-a-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+    "g4-out/cand-a.json": "4a7a8c147ae5625fffc87c2ee7e94bdd9b346611c892cf2ce25d81cba128558d",
+    "g4-out/cand-b-golden.json": "3ddc9eecbcddbcb0ea918672b48253dd65b07df3986c384e08be8ab713006140",
+    "g4-out/cand-b-verify.json": "91dbd6641c691ee6b7515975e2c10207954ead584f32dce8d62b29dff4eefa2e",
+    "g4-out/cand-b.json": "80186da6c168519dfac7e5e0137b2b401c7c474acb38e23e494f933cbccc7a2b",
+    "g4-out/compare-bb-vs-ca.json": "106e8983bfe0bd6dd08bde85b51619927a7068c3dc459c6e9e712b84c0c9ae14",
+    "g4-out/compare-bb-vs-cb.json": "5e4d3dcde4c3b65be2d9cc05a980a1765b4f591da400cc999e9b4ca31457f12a",
+    "g4-out/native-clippy.log": "c4ed1d238b26c0750712913f38226a3ec2d492d683309f199c31d9d6bd54b806",
+    "g4-out/native-fmt.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "g4-out/native-test.log": "874d752929e8f6db680d0be893179c53f669869675fc346dcf7943977769c9fd",
+    "g4-out/native-validate-ifpe-dcg-2021.log": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11",
+    "g4-out/native-validate-lritf.log": "dd92e9974dd9472674c11c8b97186bc303bd5561571672d7ed980c36540ededf",
+    "g4-out/testlist-base.raw": "c61a737394cbc6b51e6c04eda9a1822410d28777fef70beadfc48e069a12767c",
+    "g4-out/testlist-native.raw": "ef3378c2e5292d2552d420c48020b3a164c8fa67e6eae30b9f9c4299b3e675d7",
+    "logs/selftest-3.log": "132091b5801abf2fdf8d1b227dea8fc5c934147db835f0313ff2796172018e59",
+    "result-retained-B3.json": "ef2078c18c8ec098622780899c8547c965bc3b3d94d1986c06b76e6778070e32",
+    "result-retained-B4.json": "f1a87fc53e2bcee35bf2cc0e92244235a9dc3a6ccda7846a588cbe2bf3eb4f7d",
+    "result-retained-C1.json": "b4fb127819d5c9b329c9c9be4f84fca444c7975ffb6e924239cda6c9d6c17541",
+    "result-retained-C2.json": "93576fda1541729f23fb08a5b098ba7d125631a81a7c75821eaf98aa37bf2545",
+    "result-retained-C3.json": "b0229e8f303d6fbe608fc6a68e55734a23187f1bd885c1209ebf026616ec0dfa",
+    "result-supp-B3.json": "e74b83143b269d6b67d679588528661a27e36100a20daf02d427e0059a4f7902",
+    "result-supp-B4.json": "cb5baf5adf798ea31145398a31d5082b8fe5ce69921ee859d330c154e0fcb59d",
+    "result-supp-C1.json": "333755fc3f1249ecda892d95ca138c4a39488386f2dd4135b6b89ea6f3a23994",
+    "result-supp-C2.json": "b043410a88d960a2307ad1cfa3fd5d7e069bdd7b347d28463eb5b1f4684b88a9",
+    "result-supp-C3.json": "8205c534f04417023bc3848194e69b63a1a0a13550276ae114064d376315803e",
+    "result-sweep-B3.json": "f090fc1af19825f3e5bbc17ab289b97d8863055231364b3aac42a874548d4a4f",
+    "result-sweep-B4.json": "b9208646247af4dafa524dc2e816ad21fbebe38ddc0650399ceff455f9ba6cf0",
+    "result-sweep-C1.json": "bba1e823154e086b1b43399e97948aa13babb1327791950b897eb23185c7d7e4",
+    "result-sweep-C2.json": "62cf1af5f642c94ad6466a866f3e9c0bbc3ef7665d1b821d5f251647d3c5644f",
+    "result-sweep-C3.json": "0c936158f8f6b183a03fac4c2f78a5747c1edf82be0c699993fc69fbdd98a990"
+  },
+  "independent_db_parity": {
+    "artifacts": {
+      "baseline-bb": {
+        "directory": "/Users/jr/Dev/lex-mex-parser-split/.work/parser-split/g4-root/derived/db/parser-split-baseline-bb/2ba8d0f98ec4a5c784e1d093adec3fe1532b6c3f7a9b64d686d65d3da92b185a",
+        "database_sha256": "27f7599ccba5f08b4be93241ebd45b29046c0ad9a86bb9496c9a0d818ce29d2f",
+        "manifest_sha256": "f5bebe02c555c1cf7f49e53ac9b9894448ec8521d1fbd63fd78e9dcc4ead68da",
+        "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+        "integrity": "ok",
+        "foreign_key_rows": 0,
+        "schema_objects": 78,
+        "tables": [
+          "corpus_release",
+          "coverage",
+          "coverage_accepted_gaps",
+          "defined_terms",
+          "enactment_evidence",
+          "evidence_artifacts",
+          "glossary_coverage",
+          "input_files",
+          "instrument_reproducibility",
+          "instruments",
+          "known_structural_debt",
+          "legal_operator_reviews",
+          "outdated_reference_approvals",
+          "provisions",
+          "reference_edges",
+          "reference_qualifiers",
+          "source_anchors",
+          "source_manifests",
+          "standards_catalog",
+          "term_usages"
+        ],
+        "specification": {
+          "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+          "builder_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+          "cargo_lock_sha256": "1a29a8a76b1d7c01e71918c99f0b5bac089cffc81340ee758124d40cd343f5a5"
+        }
+      },
+      "cand-a": {
+        "directory": "/Users/jr/Dev/lex-mex-parser-split/.work/parser-split/g4-root/derived/db/parser-split-candidate-a/0ea9c945cc71bdc6f2d0e4a35c83f1533734f3ee14bade89497dfbfb7df1afe2",
+        "database_sha256": "483264b74cb8f4ffe25917e3876a4a5672cfdf82bce8b940e8b9f527191a9060",
+        "manifest_sha256": "fe51809822aa73b4b38df184a73c059a1a8d8782e795ae5459e24833bd7e7745",
+        "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+        "integrity": "ok",
+        "foreign_key_rows": 0,
+        "schema_objects": 78,
+        "tables": [
+          "corpus_release",
+          "coverage",
+          "coverage_accepted_gaps",
+          "defined_terms",
+          "enactment_evidence",
+          "evidence_artifacts",
+          "glossary_coverage",
+          "input_files",
+          "instrument_reproducibility",
+          "instruments",
+          "known_structural_debt",
+          "legal_operator_reviews",
+          "outdated_reference_approvals",
+          "provisions",
+          "reference_edges",
+          "reference_qualifiers",
+          "source_anchors",
+          "source_manifests",
+          "standards_catalog",
+          "term_usages"
+        ],
+        "specification": {
+          "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+          "builder_commit": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+          "cargo_lock_sha256": "d5d14c3c5c0ccb3700ab57ab007489619c0c3c3b5720ae4c0ad18356f893eacd"
+        }
+      },
+      "cand-b": {
+        "directory": "/Users/jr/Dev/lex-mex-parser-split/.work/parser-split/g4-root/derived/db/parser-split-candidate-b/0ea9c945cc71bdc6f2d0e4a35c83f1533734f3ee14bade89497dfbfb7df1afe2",
+        "database_sha256": "483264b74cb8f4ffe25917e3876a4a5672cfdf82bce8b940e8b9f527191a9060",
+        "manifest_sha256": "fe51809822aa73b4b38df184a73c059a1a8d8782e795ae5459e24833bd7e7745",
+        "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+        "integrity": "ok",
+        "foreign_key_rows": 0,
+        "schema_objects": 78,
+        "tables": [
+          "corpus_release",
+          "coverage",
+          "coverage_accepted_gaps",
+          "defined_terms",
+          "enactment_evidence",
+          "evidence_artifacts",
+          "glossary_coverage",
+          "input_files",
+          "instrument_reproducibility",
+          "instruments",
+          "known_structural_debt",
+          "legal_operator_reviews",
+          "outdated_reference_approvals",
+          "provisions",
+          "reference_edges",
+          "reference_qualifiers",
+          "source_anchors",
+          "source_manifests",
+          "standards_catalog",
+          "term_usages"
+        ],
+        "specification": {
+          "corpus_commit": "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+          "builder_commit": "1250889ce10b8ba910a5f5ca5f232fd5752e79df",
+          "cargo_lock_sha256": "d5d14c3c5c0ccb3700ab57ab007489619c0c3c3b5720ae4c0ad18356f893eacd"
+        }
+      }
+    },
+    "comparisons": {
+      "baseline-bb-vs-cand-a": {
+        "schema_equal": true,
+        "equal_table_rows": {
+          "coverage": 1872,
+          "coverage_accepted_gaps": 5,
+          "defined_terms": 5766,
+          "enactment_evidence": 99,
+          "evidence_artifacts": 1673,
+          "glossary_coverage": 468,
+          "input_files": 4960,
+          "instrument_reproducibility": 0,
+          "instruments": 468,
+          "known_structural_debt": 14,
+          "legal_operator_reviews": 16,
+          "outdated_reference_approvals": 17,
+          "provisions": 68341,
+          "reference_edges": 35930,
+          "reference_qualifiers": 12341,
+          "source_anchors": 68809,
+          "source_manifests": 498,
+          "standards_catalog": 32,
+          "term_usages": 97672
+        },
+        "total_equal_rows": 298981,
+        "release_spec_differences": {
+          "cargo_lock_sha256": [
+            "1a29a8a76b1d7c01e71918c99f0b5bac089cffc81340ee758124d40cd343f5a5",
+            "d5d14c3c5c0ccb3700ab57ab007489619c0c3c3b5720ae4c0ad18356f893eacd"
+          ],
+          "builder_commit": [
+            "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+            "1250889ce10b8ba910a5f5ca5f232fd5752e79df"
+          ]
+        }
+      },
+      "baseline-bb-vs-cand-b": {
+        "schema_equal": true,
+        "equal_table_rows": {
+          "coverage": 1872,
+          "coverage_accepted_gaps": 5,
+          "defined_terms": 5766,
+          "enactment_evidence": 99,
+          "evidence_artifacts": 1673,
+          "glossary_coverage": 468,
+          "input_files": 4960,
+          "instrument_reproducibility": 0,
+          "instruments": 468,
+          "known_structural_debt": 14,
+          "legal_operator_reviews": 16,
+          "outdated_reference_approvals": 17,
+          "provisions": 68341,
+          "reference_edges": 35930,
+          "reference_qualifiers": 12341,
+          "source_anchors": 68809,
+          "source_manifests": 498,
+          "standards_catalog": 32,
+          "term_usages": 97672
+        },
+        "total_equal_rows": 298981,
+        "release_spec_differences": {
+          "cargo_lock_sha256": [
+            "1a29a8a76b1d7c01e71918c99f0b5bac089cffc81340ee758124d40cd343f5a5",
+            "d5d14c3c5c0ccb3700ab57ab007489619c0c3c3b5720ae4c0ad18356f893eacd"
+          ],
+          "builder_commit": [
+            "85c41f3898d86737766564fa8d3fd8f6d4ae74a3",
+            "1250889ce10b8ba910a5f5ca5f232fd5752e79df"
+          ]
+        }
+      },
+      "cand-a-vs-cand-b": {
+        "schema_equal": true,
+        "equal_table_rows": {
+          "coverage": 1872,
+          "coverage_accepted_gaps": 5,
+          "defined_terms": 5766,
+          "enactment_evidence": 99,
+          "evidence_artifacts": 1673,
+          "glossary_coverage": 468,
+          "input_files": 4960,
+          "instrument_reproducibility": 0,
+          "instruments": 468,
+          "known_structural_debt": 14,
+          "legal_operator_reviews": 16,
+          "outdated_reference_approvals": 17,
+          "provisions": 68341,
+          "reference_edges": 35930,
+          "reference_qualifiers": 12341,
+          "source_anchors": 68809,
+          "source_manifests": 498,
+          "standards_catalog": 32,
+          "term_usages": 97672
+        },
+        "total_equal_rows": 298981,
+        "release_spec_differences": {}
+      }
+    },
+    "elapsed_seconds": 5.14,
+    "fts_virtual_content_rows_equal": 68341
+  },
+  "restart_probes": {
+    "checks": [
+      "interrupted logs archived byte-identically with attempt record",
+      "completed label refused without changing current or archived logs",
+      "driver chooses fresh output names without truncation"
+    ],
+    "passed": 3
+  },
+  "g4_wrapper_failure_probes": {
+    "native": {
+      "wrapper_exit": 0,
+      "injected_command_exit": 42,
+      "stdout": "HEAD=1250889ce10b8ba910a5f5ca5f232fd5752e79df\nfmt exit=42 seconds=0\nclippy exit=42 seconds=0\ntest exit=42 seconds=0\nvalidate-lritf exit=42 seconds=0\nvalidate-ifpe-dcg-2021 exit=42 seconds=0\nstatus-after:\n1250889ce10b8ba910a5f5ca5f232fd5752e79df\n",
+      "stderr_excerpt": ""
+    },
+    "candidate": {
+      "wrapper_exit": 0,
+      "injected_command_exit": 42,
+      "stdout": "C=1250889ce10b8ba910a5f5ca5f232fd5752e79df\nproject a exit=42 seconds=0\nno directory for a\nproject b exit=42 seconds=0\nno directory for b\n",
+      "stderr_excerpt": "4/lib/python3.14/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
+    }
+  },
+  "test_identity": {
+    "baseline": 419,
+    "candidate": 425,
+    "missing": {},
+    "new": {
+      "lex_parse_public_paths_resolve": 1,
+      "changed_manifest_in_each_new_crate_is_rejected_with_its_path": 1,
+      "changed_source_in_each_new_crate_is_rejected_with_its_path": 1,
+      "every_pinned_directory_has_a_rebuild_trigger_and_an_inventory": 1,
+      "newly_added_consumed_source_is_rejected_even_when_every_compiled_file_matches": 1,
+      "unchanged_builder_commit_with_notes_is_accepted": 1
+    }
+  },
+  "findings": [
+    {
+      "id": "A-001",
+      "severity": "P3",
+      "issue": "G4 shell helpers exit0 after required command fails; independently reproduced with command exit42",
+      "disposition": "Fix before automated reuse; does not invalidate independently verified completed artifacts"
+    },
+    {
+      "id": "A-002",
+      "severity": "P3",
+      "issue": "Queue cannot recover interruption after result written but before step marked done; resumed harness refuses completed label",
+      "disposition": "Reconcile valid completed result with state, or use explicit new attempt identity; preserve invalid result evidence too"
+    }
+  ],
+  "limits": [
+    "106 missing retained parse inputs; two replay provenance mismatches",
+    "Baseline failure counts unchanged:8 retained,1 supplemental",
+    "Dates only tested in recorded execution window",
+    "126 API paths compile; signatures not exhaustively tested independently",
+    "Reader exporter/package integration check deferred to integration commit",
+    "No fresh full build/replay or guard-removal mutation performed"
+  ]
+}

@@ -29,7 +29,9 @@ IV. Recibir a su ingreso al Centro Penitenciario, la valoración médica que deb
 
 V. Recibir la atención médica, la cual deberá brindarse en hospitales o lugares específicos establecidos en el Centro Penitenciario para tal efecto, en los términos establecidos en la presente Ley;
 
-VI. Conservar la guardia y custodia de su hija o hijo menor de tres años a fin de que pueda permanecer con la madre en el Centro Penitenciario, de conformidad a las disposiciones aplicables; VII. Recibir la alimentación adecuada y saludable para sus hijas e hijos, acorde con su edad y sus necesidades de salud con la finalidad de contribuir a su desarrollo físico y mental, en caso de que permanezcan con sus madres en el Centro Penitenciario;
+VI. Conservar la guardia y custodia de su hija o hijo menor de tres años a fin de que pueda permanecer con la madre en el Centro Penitenciario, de conformidad a las disposiciones aplicables;
+
+VII. Recibir la alimentación adecuada y saludable para sus hijas e hijos, acorde con su edad y sus necesidades de salud con la finalidad de contribuir a su desarrollo físico y mental, en caso de que permanezcan con sus madres en el Centro Penitenciario;
 
 VIII. Recibir educación inicial para sus hijas e hijos, vestimenta acorde a su edad y etapa de desarrollo, y atención pediátrica cuando sea necesario en caso de que permanezcan con sus madres en el Centro Penitenciario, en términos de la legislación aplicable;
 

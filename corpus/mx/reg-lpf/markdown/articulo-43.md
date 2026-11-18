@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["REG-LPF — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -23,7 +23,9 @@ I. Proporcionar la asesoría jurídica que requiera el Coordinador Estatal;
 
 II. Ejercer la representación legal de la Coordinación Estatal a que estén adscritas, así como ejercer los derechos de intervención procesal, previo acuerdo que expida el Comisionado General o Jefe de la División de Seguridad Regional o, en su defecto, las facultades procesales otorgadas en casos específicos por el titular de la Dirección General de Asuntos Jurídicos;
 
-III. Dar trámite, substanciar y formular el proyecto de resolución de los recursos de revisión que prevé el artículo [83](../../lfpa/markdown/articulo-83.md) de la Ley Federal de Procedimiento Administrativo; IV. Asistir y apoyar jurídicamente las acciones que las unidades lleven a cabo en la circunscripción territorial de su competencia;
+III. Dar trámite, substanciar y formular el proyecto de resolución de los recursos de revisión que prevé el artículo [83](../../lfpa/markdown/articulo-83.md) de la Ley Federal de Procedimiento Administrativo;
+
+IV. Asistir y apoyar jurídicamente las acciones que las unidades lleven a cabo en la circunscripción territorial de su competencia;
 
 V. Coadyuvar con las autoridades competentes en los procedimientos instruidos por hechos que la ley señale como delito, en los que la [Institución](articulo-2.md) haya presentado denuncia o querella;
 

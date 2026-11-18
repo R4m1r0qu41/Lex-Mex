@@ -214,19 +214,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:62:reference:238-239:6:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:62:reference:239-240:6:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:62",
     "source_span": "6",
-    "start_char": 238,
-    "end_char": 239,
+    "start_char": 239,
+    "end_char": 240,
     "target_instrument_id": "urn:lex-mx:federal:statute:lpo",
     "target_provision_id": "urn:lex-mx:federal:statute:lpo:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción X",
-        "start_char": 214,
-        "end_char": 224
+        "start_char": 215,
+        "end_char": 225
       }
     ],
     "basis": "express_cross_reference",

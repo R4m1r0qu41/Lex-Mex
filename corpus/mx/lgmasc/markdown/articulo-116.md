@@ -7,8 +7,8 @@ provision_type: article
 number: "116"
 aliases: ["LGMASC — Artículo 116"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -25,7 +25,9 @@ I. Confidencialidad. Toda la información proporcionada durante la tramitación 
 
 II. Eficiencia y eficacia. La tramitación de los mecanismos alternativos de solución de controversias deberá estar orientada a lograr la máxima satisfacción de las necesidades de las partes, así como del interés público, en consideración a las finalidades planteadas por el Plan Nacional de Desarrollo y las metas respectivas;
 
-III. Neutralidad. Las personas facilitadoras que conduzcan los procedimientos de mecanismos alternativos de solución de controversias garantizarán en todo momento el trato neutro y libre de sesgos. Al efecto deberán acreditar la independencia orgánica, presupuestaria y técnica respecto del organismo que interviene como parte en el conflicto o controversia y no incurrir en ninguna de las causales para excusa previstas por esta Ley; IV. Publicidad y transparencia. Todos los acuerdos logrados mediante la tramitación de los mecanismos alternativos de solución de controversias, así como los convenios que deriven de ellos, serán tratados como información pública y se regirán conforme a los criterios de transparencia y Gobierno Abierto vigentes en el país;
+III. Neutralidad. Las personas facilitadoras que conduzcan los procedimientos de mecanismos alternativos de solución de controversias garantizarán en todo momento el trato neutro y libre de sesgos. Al efecto deberán acreditar la independencia orgánica, presupuestaria y técnica respecto del organismo que interviene como parte en el conflicto o controversia y no incurrir en ninguna de las causales para excusa previstas por esta Ley;
+
+IV. Publicidad y transparencia. Todos los acuerdos logrados mediante la tramitación de los mecanismos alternativos de solución de controversias, así como los convenios que deriven de ellos, serán tratados como información pública y se regirán conforme a los criterios de transparencia y Gobierno Abierto vigentes en el país;
 
 V. Justicia abierta. Consiste en la aplicación de los principios de Gobierno Abierto: transparencia, participación social, colaboración y rendición de cuentas en la tramitación de los mecanismos alternativos de solución de controversias en la administración pública, y
 

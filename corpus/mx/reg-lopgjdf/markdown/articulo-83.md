@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["REG-LOPGJDF — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -25,7 +25,9 @@ II. Conducir la integración del Anteproyecto del Presupuesto de Egresos de la P
 
 III. Dirigir, controlar, dar seguimiento y asesorar a las unidades administrativas en el ejercicio del presupuesto autorizado y comunicar de sus avances, así como tramitar ante las instancias competentes el pago de los documentos derivados de los compromisos adquiridos;
 
-IV. Conducir y supervisar el control presupuestal de los pedidos, contratos y convenios en materia de obras y servicios en los que participe la Procuraduría; V. Elaborar informes contables internos, verificar y resguardar los registros contables, así como formular, consolidar y generar los estados financieros y demás información de tipo contable y financiera de la Institución;
+IV. Conducir y supervisar el control presupuestal de los pedidos, contratos y convenios en materia de obras y servicios en los que participe la Procuraduría;
+
+V. Elaborar informes contables internos, verificar y resguardar los registros contables, así como formular, consolidar y generar los estados financieros y demás información de tipo contable y financiera de la Institución;
 
 VI. Presentar a la Oficialía Mayor de la Institución, los proyectos de adecuaciones a la estructura orgánica de la Procuraduría, así como coordinar y asesorar a las unidades administrativas de la Institución en el rediseño de su estructura, y emitir una opinión técnica sobre las propuestas de modificación a las mismas;
 

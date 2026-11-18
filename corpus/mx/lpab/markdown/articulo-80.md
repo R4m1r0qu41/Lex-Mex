@@ -23,7 +23,9 @@ I. Resolver sobre la procedencia de que el [Instituto](articulo-5o.md) otorgue, 
 
 II. Declarar la administración cautelar en el supuesto previsto en el artículo [50](articulo-50.md) de la presente Ley, así como aprobar la liquidación o la solicitud para pedir la suspensión de pagos o declaración de quiebra de las [Instituciones](articulo-5o.md);
 
-III. Aprobar las cuotas ordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo [22](articulo-22.md) de esta Ley, así como los criterios para establecer cuotas diferenciadas conforme a lo previsto en el artículo [21](articulo-21.md) de la misma; IV. Aprobar previa opinión de la Secretaría de Hacienda y Crédito Público, las cuotas extraordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo [23](articulo-23.md) de esta Ley;
+III. Aprobar las cuotas ordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo [22](articulo-22.md) de esta Ley, así como los criterios para establecer cuotas diferenciadas conforme a lo previsto en el artículo [21](articulo-21.md) de la misma;
+
+IV. Aprobar previa opinión de la Secretaría de Hacienda y Crédito Público, las cuotas extraordinarias que deban cubrir las Instituciones conforme a lo señalado en el artículo [23](articulo-23.md) de esta Ley;
 
 V. Establecer políticas y lineamientos para la administración, conservación y enajenación de los bienes que conformen el patrimonio del Instituto;
 
@@ -57,7 +59,9 @@ XIX. Analizar y aprobar, en su caso, los informes del Secretario Ejecutivo;
 
 XX. Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos los estados financieros del Instituto, y autorizar la publicación de los mismos;
 
-XXI. Nombrar, a propuesta de cuando menos dos de sus vocales, al Secretario Ejecutivo del Instituto, y removerlo a propuesta razonada de cualquiera de sus miembros; XXII. Nombrar y remover al Secretario y Prosecretario de la Junta de Gobierno, de entre los servidores públicos del Instituto;
+XXI. Nombrar, a propuesta de cuando menos dos de sus vocales, al Secretario Ejecutivo del Instituto, y removerlo a propuesta razonada de cualquiera de sus miembros;
+
+XXII. Nombrar y remover al Secretario y Prosecretario de la Junta de Gobierno, de entre los servidores públicos del Instituto;
 
 XXIII. Nombrar y remover a propuesta del Secretario Ejecutivo, a los servidores públicos de nivel inmediato inferior al del Secretario Ejecutivo;
 

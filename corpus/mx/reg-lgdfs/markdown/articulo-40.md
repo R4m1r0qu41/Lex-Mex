@@ -33,7 +33,9 @@ e) Superficies arriba de los 3,000 metros sobre el nivel del mar, y
 
 f) Superficies con vegetación de manglar y Bosque mesófilo de montaña;
 
-II. Áreas de producción: superficies en las que, por sus condiciones de vegetación, clima y suelo, puede llevarse a cabo un aprovechamiento sostenible de los Recursos forestales; III. Áreas de restauración: superficies en donde se han alterado de manera significativa la Vegetación forestal y la productividad del suelo y que requieren de acciones encaminadas a su rehabilitación;
+II. Áreas de producción: superficies en las que, por sus condiciones de vegetación, clima y suelo, puede llevarse a cabo un aprovechamiento sostenible de los Recursos forestales;
+
+III. Áreas de restauración: superficies en donde se han alterado de manera significativa la Vegetación forestal y la productividad del suelo y que requieren de acciones encaminadas a su rehabilitación;
 
 IV. Áreas de protección forestal que se hayan declarado por la Secretaría, y
 

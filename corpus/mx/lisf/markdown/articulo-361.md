@@ -35,7 +35,9 @@ VII. Pagar comisiones o cualquier otra compensación por la contratación de seg
 
 VIII. Tomar a su cargo, total o parcialmente, riesgos en reaseguro o reafianzamiento;
 
-IX. Realizar operaciones de [Reaseguro Financiero](articulo-2.md); X. Otorgar avales, fianzas o cauciones;
+IX. Realizar operaciones de [Reaseguro Financiero](articulo-2.md);
+
+X. Otorgar avales, fianzas o cauciones;
 
 XI. Participar en sociedades de cualquier clase, excepto en los casos de inversión en acciones permitidas por esta Ley, y también les está especialmente prohibido participar en sociedades de responsabilidad ilimitada y explotar por su cuenta minas, plantas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de mantener en propiedad bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta Ley. La Comisión podrá autorizar que continúen su explotación, cuando las reciban en adjudicación o pago de adeudos, o para aseguramiento de los ya concertados, o al ejercitar los derechos que les confieran las operaciones que celebren conforme a esta Ley, sin exceder los plazos a que se refiere la fracción XII de este artículo y sin que las mismas puedan cubrir la [Base de Inversión](articulo-2.md) de la Sociedad Mutualista;
 

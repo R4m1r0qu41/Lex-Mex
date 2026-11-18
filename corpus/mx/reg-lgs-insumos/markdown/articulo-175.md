@@ -19,7 +19,9 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 Para obtener el registro sanitario de medicamentos homeopáticos y herbolarios de fabricación extranjera, además de los requisitos señalados en los artículo [173](articulo-173.md) y [174](articulo-174.md) de este Reglamento, se presentará la documentación siguiente:
 
-I. El certificado de libre venta expedido por la autoridad competente del país de origen; II. El certificado de análisis emitido por el fabricante del medicamento, en papel membretado y avalado por los responsables sanitarios de las empresas extranjera y nacional, y
+I. El certificado de libre venta expedido por la autoridad competente del país de origen;
+
+II. El certificado de análisis emitido por el fabricante del medicamento, en papel membretado y avalado por los responsables sanitarios de las empresas extranjera y nacional, y
 
 III. La carta de representación del fabricante, sólo cuando el laboratorio que lo fabrique en el extranjero no sea filial o casa matriz del laboratorio solicitante del registro.
 

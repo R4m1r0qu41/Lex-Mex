@@ -7,8 +7,8 @@ provision_type: article
 number: "57"
 aliases: ["LGDNNA — Artículo 57"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -35,7 +35,9 @@ V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficient
 
 VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
 
-VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales; VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de instalaciones indispensables con que debe contarse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos; Fracción reformada DOF 15-03-2022
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
+
+VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de instalaciones indispensables con que debe contarse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos; Fracción reformada DOF 15-03-2022
 
 IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 

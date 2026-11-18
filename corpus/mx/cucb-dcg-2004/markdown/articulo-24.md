@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 24"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,12 +18,10 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 24
 
-Las operaciones de Estabilización estarán sujetas a los requisitos siguientes:
+Las operaciones de [Estabilización](articulo-1.md) estarán sujetas a los requisitos siguientes:
 
-(108) I. Podrán realizarse en un plazo no mayor a treinta días naturales, sin opción a prórroga, contado a partir del cruce en bolsa.
+I. Podrán realizarse en un plazo no mayor a treinta días naturales, sin opción a prórroga, contado a partir del cruce en bolsa.
 
-(108) II. No podrán presentarse posturas a un precio mayor al de colocación o a aquel al que se hubiere concertado en el mercado con distintos intermediarios del Líder colocador o Intermediario colocador, lo que resulte menor.
+II. No podrán presentarse posturas a un precio mayor al de colocación o a aquel al que se hubiere concertado en el mercado con distintos intermediarios del [Líder colocador](articulo-1.md) o [Intermediario colocador](articulo-1.md), lo que resulte menor.
 
-No se considerarán manipulación del mercado, las operaciones de Estabilización realizadas como (108)
-
-parte de una Oferta pública efectuadas al amparo de estas disposiciones.
+No se considerarán manipulación del mercado, las operaciones de Estabilización realizadas como parte de una Oferta pública efectuadas al amparo de estas disposiciones.

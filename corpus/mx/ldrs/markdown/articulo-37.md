@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["LDRS — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -35,7 +35,9 @@ VII. Establecer los mecanismos que propicien que los sectores social y privado y
 
 VIII. Proveer los medios para sustentar las decisiones administrativas y contenciosas que requieran dictamen y arbitraje;
 
-IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable; X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
+IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable;
+
+X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
 
 XI. Promover la productividad y rentabilidad de la investigación científica, así como el incremento de la aportación de recursos provenientes de los sectores agrícola e industrial, a fin de realizar investigaciones de interés para el avance tecnológico del medio rural;
 

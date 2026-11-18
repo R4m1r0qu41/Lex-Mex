@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["REG-LGV — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -27,7 +27,9 @@ III. El Consejo Nacional para el Desarrollo y la Inclusión de las Personas con 
 
 IV. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-V. El Instituto Mexicano del Seguro Social; VI. Los Centros de Integración Juvenil, A.C.;
+V. El Instituto Mexicano del Seguro Social;
+
+VI. Los Centros de Integración Juvenil, A.C.;
 
 VII. El Consejo Nacional de Fomento Educativo, y
 

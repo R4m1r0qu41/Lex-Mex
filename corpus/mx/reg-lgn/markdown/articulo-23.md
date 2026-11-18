@@ -65,7 +65,9 @@ XXII. Proponer, en términos de las disposiciones aplicables, medidas sobre la a
 
 XXIII. Participar en la integración de los requerimientos de adquisiciones, arrendamientos y servicios de la Institución a fin de que se contemplen en el Programa Anual correspondiente de la [Secretaría](articulo-2.md), así como, en lo conducente, en los procedimientos de adquisición de bienes y contratación de arrendamientos y servicios para la Institución;
 
-XXIV. Asesorar al Comandante sobre la situación nacional en materia de seguridad pública, que le permita tener mayores elementos de juicio para la toma de decisiones en el ejercicio de las funciones de la Institución; XXV. Requerir a las unidades administrativas de la Institución información necesaria, que le permita procesar y generar estadística de la Institución, que coadyuve a la toma de decisiones y el cumplimiento de los objetivos propuestos;
+XXIV. Asesorar al Comandante sobre la situación nacional en materia de seguridad pública, que le permita tener mayores elementos de juicio para la toma de decisiones en el ejercicio de las funciones de la Institución;
+
+XXV. Requerir a las unidades administrativas de la Institución información necesaria, que le permita procesar y generar estadística de la Institución, que coadyuve a la toma de decisiones y el cumplimiento de los objetivos propuestos;
 
 XXVI. Coordinar y participar en la actualización de la doctrina de la Institución;
 

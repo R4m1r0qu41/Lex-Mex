@@ -29,7 +29,9 @@ IV. Construir embarcaderos, atracaderos, botaderos y demás similares sin el per
 
 V. Ceder totalmente los derechos y obligaciones derivados de la concesión sin la autorización de la Secretaría, hasta con doscientos mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-VI. Aplicar tarifas superiores a las autorizadas, hasta con veinte mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción; VII. Efectuar modificaciones substanciales al programa maestro de desarrollo portuario sin autorización de la Secretaría, hasta con cien mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
+VI. Aplicar tarifas superiores a las autorizadas, hasta con veinte mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
+
+VII. Efectuar modificaciones substanciales al programa maestro de desarrollo portuario sin autorización de la Secretaría, hasta con cien mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
 VIII. No presentar los informes a que se refiere el artículo [63](articulo-63.md) de esta Ley, hasta con tres mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 

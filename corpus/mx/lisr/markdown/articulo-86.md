@@ -19,7 +19,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 Las personas morales a que se refiere este Título, además de las obligaciones establecidas en otros artículos de esta Ley, tendrán las siguientes:
 
-I. Llevar los sistemas contables de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley y efectuar registros en los mismos respecto de sus operaciones. II. Expedir y recabar los comprobantes fiscales que acrediten las enajenaciones y erogaciones que efectúen, los servicios que presten o el otorgamiento del uso o goce temporal de bienes.
+I. Llevar los sistemas contables de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley y efectuar registros en los mismos respecto de sus operaciones.
+
+II. Expedir y recabar los comprobantes fiscales que acrediten las enajenaciones y erogaciones que efectúen, los servicios que presten o el otorgamiento del uso o goce temporal de bienes.
 
 III. Presentar en las oficinas autorizadas a más tardar el día 15 de febrero de cada año, declaración en la que se determine el remanente distribuible y la proporción que de este concepto corresponda a cada integrante.
 

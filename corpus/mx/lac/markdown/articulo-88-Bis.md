@@ -17,7 +17,9 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 88 Bis
 
-Las personas proveedoras de servicios serán acreedoras a las sanciones siguientes por: I. No contar con un Sistema de Gestión de la Seguridad Operacional en su fase I aprobada de conformidad con la norma oficial mexicana y disposiciones técnico-administrativas, multa de un mil a tres mil Unidades de Medida y Actualización;
+Las personas proveedoras de servicios serán acreedoras a las sanciones siguientes por:
+
+I. No contar con un Sistema de Gestión de la Seguridad Operacional en su fase I aprobada de conformidad con la norma oficial mexicana y disposiciones técnico-administrativas, multa de un mil a tres mil Unidades de Medida y Actualización;
 
 II. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de la Seguridad Operacional, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a tres mil Unidades de Medida y Actualización;
 

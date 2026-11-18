@@ -361,57 +361,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2099-2102",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2100-2103",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 2099,
-    "end_char": 2102
+    "start_char": 2100,
+    "end_char": 2103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2411-2416",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2412-2417",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:junta",
     "span": "Junta",
-    "start_char": 2411,
-    "end_char": 2416
+    "start_char": 2412,
+    "end_char": 2417
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2523-2526",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2524-2527",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 2523,
-    "end_char": 2526
+    "start_char": 2524,
+    "end_char": 2527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2816-2825",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:2817-2826",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:instituto",
     "span": "Instituto",
-    "start_char": 2816,
-    "end_char": 2825
+    "start_char": 2817,
+    "end_char": 2826
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:3047-3056",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:3048-3057",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:instituto",
     "span": "Instituto",
-    "start_char": 3047,
-    "end_char": 3056
+    "start_char": 3048,
+    "end_char": 3057
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:3322-3331",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:term-usage:3323-3332",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:instituto",
     "span": "Instituto",
-    "start_char": 3322,
-    "end_char": 3331
+    "start_char": 3323,
+    "end_char": 3332
   },
   {
     "schema_version": "0.1.0",
@@ -523,21 +523,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:13:term-usage:1346-1351",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:13:term-usage:1347-1352",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:13",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:junta",
     "span": "Junta",
-    "start_char": 1346,
-    "end_char": 1351
+    "start_char": 1347,
+    "end_char": 1352
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:13:term-usage:1457-1460",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:13:term-usage:1458-1461",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:13",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 1457,
-    "end_char": 1460
+    "start_char": 1458,
+    "end_char": 1461
   },
   {
     "schema_version": "0.1.0",
@@ -1513,21 +1513,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:91:term-usage:1857-1881",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:91:term-usage:1858-1882",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:91",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:fuerza-armada-permanente",
     "span": "Fuerza Armada Permanente",
-    "start_char": 1857,
-    "end_char": 1881
+    "start_char": 1858,
+    "end_char": 1882
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:91:term-usage:2307-2331",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:91:term-usage:2308-2332",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:91",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:fuerza-armada-permanente",
     "span": "Fuerza Armada Permanente",
-    "start_char": 2307,
-    "end_char": 2331
+    "start_char": 2308,
+    "end_char": 2332
   },
   {
     "schema_version": "0.1.0",
@@ -2386,30 +2386,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:337-340",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:338-341",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:162",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 337,
-    "end_char": 340
+    "start_char": 338,
+    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:955-958",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:956-959",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:162",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 955,
-    "end_char": 958
+    "start_char": 956,
+    "end_char": 959
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:1351-1354",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:162:term-usage:1352-1355",
     "provision_id": "urn:lex-mx:federal:statute:lissfam:article:162",
     "term_id": "urn:lex-mx:federal:statute:lissfam:term:ley",
     "span": "Ley",
-    "start_char": 1351,
-    "end_char": 1354
+    "start_char": 1352,
+    "end_char": 1355
   },
   {
     "schema_version": "0.1.0",

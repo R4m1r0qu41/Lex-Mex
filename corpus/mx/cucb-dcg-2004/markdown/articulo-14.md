@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 14"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 14
 
-El Intermediario colocador o el Líder colocador de una Oferta pública inicial de acciones (108)
-
-representativas del capital social de una Emisora, Emisora simplificada o títulos de crédito que representen el derecho a una parte alícuota sobre la titularidad de tales acciones, así como de certificados bursátiles fiduciarios de desarrollo, inmobiliarios, en energía e infraestructura, indizados o de proyectos de inversión, según aplique, deberá ajustarse en materia de distribución, a lo dispuesto en el prospecto de colocación respectivo.
+El [Intermediario colocador](articulo-1.md) o el [Líder colocador](articulo-1.md) de una Oferta pública inicial de acciones representativas del capital social de una Emisora, Emisora simplificada o títulos de crédito que representen el derecho a una parte alícuota sobre la titularidad de tales acciones, así como de certificados bursátiles fiduciarios de desarrollo, inmobiliarios, en energía e infraestructura, indizados o de proyectos de inversión, según aplique, deberá ajustarse en materia de distribución, a lo dispuesto en el prospecto de colocación respectivo.

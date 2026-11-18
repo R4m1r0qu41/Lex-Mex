@@ -21,7 +21,9 @@ Los permisos de descarga de aguas residuales contendrán:
 
 I. Ubicación y descripción de la descarga en cantidad y calidad;
 
-II. Los parámetros, así como las concentraciones y cargas máximas correspondientes, que determinan las condiciones particulares de descarga del permisionario; III. Obligaciones generales y específicas a las que se sujetará el permisionario para prevenir y controlar la contaminación del agua, incluidas:
+II. Los parámetros, así como las concentraciones y cargas máximas correspondientes, que determinan las condiciones particulares de descarga del permisionario;
+
+III. Obligaciones generales y específicas a las que se sujetará el permisionario para prevenir y controlar la contaminación del agua, incluidas:
 
 a) Forma y procedimientos para la toma de muestras y la determinación de las cargas contaminantes, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "66"
 aliases: ["REG-LGIPD — Artículo 66"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIPD.pdf
 source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 ---
@@ -23,7 +23,9 @@ El Programa Nacional de Deporte Paralímpico deberá contener entre otros aspect
 
 I. El desarrollo e instrumentación de acciones de fomento a la práctica de la actividad física y del deporte específicos para los diferentes tipos de discapacidad y categorías deportivas;
 
-II. Acciones de difusión y sensibilización para las familias con personas con discapacidad sobre la importancia de apoyar el desarrollo físico y la integración social a través del deporte; III. Informar acerca de las alternativas y servicios en el deporte disponibles para los diferentes tipos de discapacidades;
+II. Acciones de difusión y sensibilización para las familias con personas con discapacidad sobre la importancia de apoyar el desarrollo físico y la integración social a través del deporte;
+
+III. Informar acerca de las alternativas y servicios en el deporte disponibles para los diferentes tipos de discapacidades;
 
 IV. Promover, a través de la integración de grupos multidisciplinarios conformados por instituciones de salud y educación y organismos normativos del deporte, la elaboración de guías didácticas y manuales técnicos que permitan la profesionalización de la atención de personas con discapacidad en materia deportiva;
 

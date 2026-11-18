@@ -33,7 +33,9 @@ En caso de incumplimiento o violación a cualquiera de las condiciones estableci
 
 V. Que la institución fiduciaria obtenga permiso previo de la Secretaría de Relaciones Exteriores tratándose de ampliación de la materia y cambio de los fines del fideicomiso;
 
-VI. Que la institución fiduciaria se comprometa a notificar la extinción del fideicomiso a la Secretaría de Relaciones Exteriores, dentro de los cuarenta días hábiles siguientes a su fecha de extinción, y VII. Que las partes en el contrato se comprometan a extinguir el fideicomiso a petición de la Secretaría de Relaciones Exteriores, dentro de un plazo de ciento ochenta días contados a partir de la fecha de notificación del requerimiento, en caso de incumplimiento o violación a cualquiera de las condiciones establecidas en el permiso correspondiente.
+VI. Que la institución fiduciaria se comprometa a notificar la extinción del fideicomiso a la Secretaría de Relaciones Exteriores, dentro de los cuarenta días hábiles siguientes a su fecha de extinción, y
+
+VII. Que las partes en el contrato se comprometan a extinguir el fideicomiso a petición de la Secretaría de Relaciones Exteriores, dentro de un plazo de ciento ochenta días contados a partir de la fecha de notificación del requerimiento, en caso de incumplimiento o violación a cualquiera de las condiciones establecidas en el permiso correspondiente.
 
 Los permisos a que se refiere el artículo 11 de la Ley tendrán una vigencia de ciento ochenta días naturales contados a partir de su expedición. Asimismo, la expedición de estos permisos no exime del cumplimiento de los planes y programas de desarrollo urbano y ordenamiento ecológico de la localidad en la que se ubique el inmueble, ni de los criterios de sustentabilidad de la política ambiental y demás disposiciones jurídicas aplicables. La Secretaría de Relaciones Exteriores podrá prorrogar por una sola vez la vigencia del permiso por ciento ochenta días naturales adicionales, previa petición por escrito del permisionario en la que justifique la intención de uso del permiso durante el periodo de prórroga solicitado. Párrafo reformado DOF 17-08-2016
 

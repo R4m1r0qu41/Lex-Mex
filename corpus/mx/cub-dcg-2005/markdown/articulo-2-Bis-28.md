@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 28
 
-Las Calificaciones que correspondan a una unidad o entidad de un grupo empresarial no podrán utilizarse para determinar la ponderación por riesgo de otras entidades del mismo grupo.
+Las [Calificaciones](articulo-1.md) que correspondan a una unidad o entidad de un grupo empresarial no podrán utilizarse para determinar la ponderación por riesgo de otras entidades del mismo grupo.
 
-Las Instituciones podrán considerar únicamente las Calificaciones que los deudores le hubieren solicitado a las Instituciones Calificadoras, por lo que las Calificaciones proporcionadas por Instituciones Calificadoras por cuenta propia, no podrán ser utilizadas con fines de ponderación por riesgo de crédito.
+Las Instituciones podrán considerar únicamente las Calificaciones que los deudores le hubieren solicitado a las [Instituciones Calificadoras](articulo-1.md), por lo que las Calificaciones proporcionadas por Instituciones Calificadoras por cuenta propia, no podrán ser utilizadas con fines de ponderación por riesgo de crédito.

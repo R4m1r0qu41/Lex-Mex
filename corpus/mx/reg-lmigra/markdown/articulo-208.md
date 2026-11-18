@@ -25,7 +25,9 @@ II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
 III. Calle, número, población, colonia, municipio o delegación, código postal, entidad federativa y descripción física del inmueble en que se hubiese realizado la visita;
 
-IV. Número y fecha del oficio de comisión que ordenó la visita; V. Nombre y cargo de quien entendió la diligencia;
+IV. Número y fecha del oficio de comisión que ordenó la visita;
+
+V. Nombre y cargo de quien entendió la diligencia;
 
 VI. Nombre y domicilio de las personas que fungieron como testigos;
 

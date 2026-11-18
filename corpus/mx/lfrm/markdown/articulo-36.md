@@ -27,6 +27,8 @@ III. La pregunta objeto del presente proceso, establecida en el artículo [19](a
 
 IV. Cuadros colocados simétricamente y en tamaño apropiado para facilitar su identificación por la ciudadanía al momento de emitir su voto en los siguientes términos: a) Que se le revoque el mandato por pérdida de la confianza. b) Que siga en la Presidencia de la República;
 
-V. Entidad federativa, distrito electoral, municipio o demarcación territorial; VI. Las firmas impresas de las personas titulares de la Presidencia del Consejo General y la Secretaría Ejecutiva del Instituto, y
+V. Entidad federativa, distrito electoral, municipio o demarcación territorial;
+
+VI. Las firmas impresas de las personas titulares de la Presidencia del Consejo General y la Secretaría Ejecutiva del Instituto, y
 
 VII. Las medidas de seguridad que determine el Consejo General.

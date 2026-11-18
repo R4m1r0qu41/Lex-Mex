@@ -1,0 +1,246 @@
+{
+  "reviewed_commit": "162128517576b043a389f753578c5cabb4540898",
+  "bindings": {
+    "head": "162128517576b043a389f753578c5cabb4540898",
+    "sources": {
+      "reader/reader.js": "a5255724b38fa9ebd07820dbeb041b017aa73e9a88086af932ad97f13b97f0f1",
+      "reader/reader-core.mjs": "a62d62744c56bbd755e4a91c8f236baa8298eb386773149858fa4b1880c10585",
+      "reader/index.html": "2fc36a084ded9a698678bc4d0af8f45c4624b1ce0221e20045921b35617f7426",
+      "reader/reader.css": "20830544e2ff48b03f529d7ca010ef4b3b46563e8818196a96bfb1eafa336463",
+      "reader/browser-check.mjs": "1633ee64990063a2b7a3b6649f3ccd9babda33d252e3a1621ce0c923f9702bc1",
+      "reader/reader.test.mjs": "3a1c39ad46314415c856900e458978ac4b445424254548eab45581c06ce2e364",
+      "reader/README.md": "444db1e3acdf35c9e0b8d53447a8417aefcf58259a98debb6c3e6e85ba473094"
+    },
+    "packages": {
+      "preferred": {
+        "publication_id": "85b4ce98757da6c75b859de2d1eaeded369630adbbbe2734fa74caedc42501b1",
+        "id_valid": true,
+        "bad_files": [],
+        "a_equals_b": true,
+        "listed": 1790,
+        "disk": 1791,
+        "r7_vs_f1": [
+          "index.html",
+          "publication.json",
+          "reader-core.mjs",
+          "reader.css",
+          "reader.js"
+        ]
+      },
+      "fallback": {
+        "publication_id": "309f8d5f5bccfb097894c1746a91510f2fa031ebdfcf109a8171d7dd3802237e",
+        "id_valid": true,
+        "bad_files": [],
+        "a_equals_b": true,
+        "listed": 1784,
+        "disk": 1785,
+        "r7_vs_f1": [
+          "index.html",
+          "publication.json",
+          "reader-core.mjs",
+          "reader.css",
+          "reader.js"
+        ]
+      }
+    },
+    "reports": {
+      "r7-final-fallback-1.json": {
+        "sha256": "4f910f26dc2aa01bec11abb97a712d595d5527427d1561c12fd6255d35eccc27",
+        "reported_passed": 57,
+        "reported_failed": 0,
+        "reported_na": 3,
+        "recount_passed": 57,
+        "recount_failed": 0,
+        "counts_match": true
+      },
+      "r7-final-legacy-staged.json": {
+        "sha256": "7cc53e02963f5de677022af378b14cc23ca012c4845731fe636969a9dbe1aaa9",
+        "reported_passed": 75,
+        "reported_failed": 0,
+        "reported_na": 0,
+        "recount_passed": 75,
+        "recount_failed": 0,
+        "counts_match": true
+      },
+      "r7-final-preferred-1.json": {
+        "sha256": "df9ee10d37095b5607f3e79d9fc241711ce5d0de02ce9ab42380f592929ec54b",
+        "reported_passed": 60,
+        "reported_failed": 0,
+        "reported_na": 0,
+        "recount_passed": 60,
+        "recount_failed": 0,
+        "counts_match": true
+      },
+      "r7-final-preferred-noanchor.json": {
+        "sha256": "31b811211ead8a3d18ba1891f6d9896df2b6cf82209e0564263f9ba95c19a666",
+        "reported_passed": 60,
+        "reported_failed": 0,
+        "reported_na": 0,
+        "recount_passed": 60,
+        "recount_failed": 0,
+        "counts_match": true
+      }
+    }
+  },
+  "independent_scenarios": [
+    {
+      "publication": "/Users/jr/Dev/lex-mex-reader-five/.work/r7-preferred-a",
+      "results": [
+        {
+          "scenario": "view options and exports: citation toggle, hover copy, headings in index/middle/Markdown, exact-text tab, right panel",
+          "ok": true,
+          "short": "LIC, artículo 104",
+          "full": "Ley de Instituciones de Crédito, artículo 104",
+          "exact": true,
+          "remembered": true,
+          "hover": {
+            "heading": "LIC · Artículo 103",
+            "copyExact": true,
+            "cite": "Ley de Instituciones de Crédito, artículo 103"
+          },
+          "markdownStart": "## Título QUINTO · Capítulo I\n\n### Artículo 104\n\nCuando la Comisión Nacional Ban",
+          "wholeHasHeading": true,
+          "firstInPath": "Artículo 103",
+          "tab": {
+            "type": "text/plain;charset=utf-8",
+            "exact": true,
+            "target": "_blank"
+          },
+          "group": "Título QUINTO · Capítulo I",
+          "middle": "Título QUINTO · Capítulo I",
+          "panel": {
+            "verifyInside": true,
+            "reformVisible": true,
+            "reform": "Última reforma registrada en la fuente: 2025-11-14",
+            "agent": {
+              "target": "_blank",
+              "rel": "noopener",
+              "text": "Para agentes e IA · llms.txt ↗"
+            },
+            "textLink": "_blank"
+          }
+        },
+        {
+          "scenario": "text size toggle at 390px keeps the reading-line article, is remembered, and reverses",
+          "ok": true,
+          "steps": [
+            {
+              "label": "large (start)",
+              "ok": true,
+              "ui": "Artículo 193",
+              "truth": "Artículo 193",
+              "copyExact": true,
+              "offsetBelowBar": 8,
+              "fontPx": 18,
+              "ratio": 1,
+              "exhaustedMarks": 0,
+              "intentMarks": 0,
+              "scrollsWhileIdle": 0
+            },
+            {
+              "label": "small",
+              "ok": true,
+              "ui": "Artículo 193",
+              "truth": "Artículo 193",
+              "copyExact": true,
+              "offsetBelowBar": 8,
+              "fontPx": 11.7,
+              "ratio": 0.65,
+              "exhaustedMarks": 0,
+              "intentMarks": 0,
+              "scrollsWhileIdle": 0
+            },
+            {
+              "label": "small after reload (remembered)",
+              "ok": true,
+              "ui": "Artículo 193",
+              "truth": "Artículo 193",
+              "copyExact": true,
+              "offsetBelowBar": 8,
+              "fontPx": 11.7,
+              "ratio": 0.65,
+              "exhaustedMarks": 0,
+              "intentMarks": 0,
+              "scrollsWhileIdle": 0
+            },
+            {
+              "label": "large again",
+              "ok": true,
+              "ui": "Artículo 193",
+              "truth": "Artículo 193",
+              "copyExact": true,
+              "offsetBelowBar": 8,
+              "fontPx": 18,
+              "ratio": 1,
+              "exhaustedMarks": 0,
+              "intentMarks": 0,
+              "scrollsWhileIdle": 0
+            }
+          ]
+        }
+      ],
+      "pageErrors": []
+    }
+  ],
+  "extra_probes": [
+    {
+      "case": "real exact-text tab",
+      "ok": true,
+      "type": "text/plain",
+      "charset": "UTF-8",
+      "openerNull": true,
+      "exact": true
+    },
+    {
+      "case": "size during actual pending fill, completion, then after reader scroll",
+      "ok": true,
+      "pending": true,
+      "small": {
+        "ok": true,
+        "truth": "Artículo 193",
+        "ui": "Artículo 193",
+        "id": "urn:lex-mx:federal:statute:lic:article:193",
+        "copyExact": true
+      },
+      "completed": {
+        "ok": true,
+        "truth": "Artículo 193",
+        "ui": "Artículo 193",
+        "id": "urn:lex-mx:federal:statute:lic:article:193",
+        "copyExact": true
+      },
+      "moved": {
+        "ok": true,
+        "truth": "Artículo 190",
+        "ui": "Artículo 190",
+        "id": "urn:lex-mx:federal:statute:lic:article:190",
+        "copyExact": true
+      },
+      "reheld": {
+        "ok": true,
+        "truth": "Artículo 190",
+        "ui": "Artículo 190",
+        "id": "urn:lex-mx:federal:statute:lic:article:190",
+        "copyExact": true
+      },
+      "errors": []
+    },
+    {
+      "case": "storage blocked",
+      "ok": true,
+      "ui": {
+        "ok": true,
+        "truth": "Artículo 193",
+        "ui": "Artículo 193",
+        "id": "urn:lex-mx:federal:statute:lic:article:193",
+        "copyExact": true
+      },
+      "errors": []
+    }
+  ],
+  "focused_probe_source": "// Event-level browser regression for continuous reading. Drives a real headless Chrome over the DevTools\n// protocol (no dependencies) against a packaged publication, and checks that the active label, index,\n// exact copy body, share URL and replaced URL track the article at the reading line under real scroll\n// events. Kept out of `node --test reader/` on purpose: it needs Chrome, and a silent skip would weaken\n// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]\nimport {spawn} from 'node:child_process';\nimport {mkdtemp,readFile,rm,writeFile} from 'node:fs/promises';\nimport {tmpdir} from 'node:os';\nimport {join,resolve} from 'node:path';\nimport {pathToFileURL} from 'node:url';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-five/reader/serve.mjs';\n\nconst sleep=ms=>new Promise(r=>setTimeout(r,ms));\nconst defaultChrome='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';\n\n// Page-side probes, installed before the reader runs. They read the DOM only; the shipped bytes are untouched.\nconst probes=`(()=>{\n  window.__scrolls=0;{const scrollTo=Element.prototype.scrollTo;Element.prototype.scrollTo=function(...args){window.__scrolls++;return scrollTo.apply(this,args);};}\n  window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));\n  window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};\n  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});\n  // Exports and the exact-text tab go through blob URLs; record them (and swallow window.open) so scenarios can read what the reader produced.\n  window.__blobs=[];{const create=URL.createObjectURL.bind(URL);URL.createObjectURL=blob=>{const href=create(blob);window.__blobs.push({href,type:blob.type,blob});return href;};}\n  window.__nativeOpen=window.open;window.__opened=[];window.open=(href,target)=>{window.__opened.push({href,target});return null;};\n  const col=()=>document.getElementById('article');\n  const nodes=()=>[...document.querySelectorAll('#flow > article.provision')];\n  window.__probe={\n    line:()=>document.getElementById('active-bar').offsetHeight+24,\n    top:i=>nodes()[i].getBoundingClientRect().top-col().getBoundingClientRect().top,\n    height:i=>nodes()[i].getBoundingClientRect().height,\n    count:()=>nodes().length,\n    // The article whose top last crossed the reading line, computed from layout alone.\n    truth(){const line=this.line(),base=col().getBoundingClientRect().top;let best=0;for(const n of nodes()){if(n.getBoundingClientRect().top-base<=line)best=Number(n.dataset.index);else break;}return best;},\n    // Which articles intersect the observer root (upper half of the reading column's padding box).\n    membership(){const c=col(),r=c.getBoundingClientRect(),top=r.top+c.clientTop,bottom=top+c.clientHeight*0.5;return nodes().filter(n=>{const b=n.getBoundingClientRect();return b.bottom>top&&b.top<bottom;}).map(n=>Number(n.dataset.index));},\n    ui(){const current=document.querySelector('#provision-list button[aria-current=\"true\"]');const params=new URL(location.href).searchParams;return {label:document.getElementById('active-label').textContent,current:current?.dataset.provision??null,title:document.title,instrument:document.getElementById('instrument').value,pushes:window.__pushes.length,urlProvision:params.get('provision'),urlInstrument:params.get('instrument'),history:history.length};},\n    scrollBy(dy){col().scrollTop+=dy;},\n    ready:()=>performance.getEntriesByName('reader:flow-complete').length>0,\n    firstChunk:()=>performance.getEntriesByName('reader:first-chunk').length>0,\n    frames:()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))),\n    async copy(id){window.__copied=undefined;document.getElementById(id).click();for(let i=0;i<50&&window.__copied===undefined;i++)await new Promise(r=>setTimeout(r,10));return window.__copied;}\n  };\n})();`;\n\nexport class Page {\n  constructor(ws){this.ws=ws;this.id=0;this.pending=new Map();ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.id&&this.pending.has(msg.id)){const {resolve,reject}=this.pending.get(msg.id);this.pending.delete(msg.id);msg.error?reject(new Error(msg.error.message)):resolve(msg.result);}});}\n  send(method,params={}){const id=++this.id;this.ws.send(JSON.stringify({id,method,params}));return new Promise((resolve,reject)=>this.pending.set(id,{resolve,reject}));}\n  async eval(expression){const result=await this.send('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(result.exceptionDetails)throw new Error(result.exceptionDetails.exception?.description||result.exceptionDetails.text);return result.result.value;}\n  async until(expression,timeout=15000){const end=Date.now()+timeout;while(Date.now()<end){if(await this.eval(expression))return;await sleep(25);}throw new Error(`Timed out waiting for ${expression}`);}\n  wheel(x,y,deltaY){return this.send('Input.dispatchMouseEvent',{type:'mouseWheel',x,y,deltaX:0,deltaY});}\n  viewport(width,height){return this.send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});}\n}\n\nexport async function launch(chrome=defaultChrome,{anchoring=true,fonts='normal',smooth=false}={}){\n  const profile=await mkdtemp(join(tmpdir(),'lex-reader-chrome-'));\n  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,...(smooth?[]:['--disable-smooth-scrolling']),'--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});\n  let port;for(let i=0;i<200&&!port;i++){try{port=(await readFile(join(profile,'DevToolsActivePort'),'utf8')).split('\\n')[0];}catch{await sleep(50);}}\n  if(!port)throw new Error('Chrome did not expose a DevTools port.');\n  const targets=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json();const target=targets.find(t=>t.type==='page');\n  const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((ok,fail)=>{ws.onopen=ok;ws.onerror=fail;});\n  const page=new Page(ws);await page.send('Page.enable');await page.send('Runtime.enable');await page.send('Page.addScriptToEvaluateOnNewDocument',{source:probes});\n  // Without scroll anchoring (as in browsers that lack it) layout shifts above the view no longer emit scroll events.\n  // Web fonts can be blocked or delayed to reproduce late layout shifts (the stylesheet imports Google Fonts).\n  const fontUrls=['*fonts.googleapis.com*','*fonts.gstatic.com*'];\n  if(fonts==='blocked'){await page.send('Network.enable');await page.send('Network.setBlockedURLs',{urls:fontUrls});}\n  else if(typeof fonts==='number'){await page.send('Fetch.enable',{patterns:fontUrls.map(urlPattern=>({urlPattern}))});ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Fetch.requestPaused')setTimeout(()=>page.send('Fetch.continueRequest',{requestId:msg.params.requestId}).catch(()=>{}),fonts);});}\n  if(!anchoring)await page.send('Page.addScriptToEvaluateOnNewDocument',{source:\"document.addEventListener('DOMContentLoaded',()=>document.head.append(Object.assign(document.createElement('style'),{textContent:'#article{overflow-anchor:none}'})));\"});\n  return {page,async close(){ws.close();child.kill();await sleep(200);await rm(profile,{recursive:true,force:true});}};\n}\n\n\nasync function focused(publication){const chrome=defaultChrome,anchoring=true;\n  publication=resolve(publication);\n  const releaseId=JSON.parse(await readFile(join(publication,'latest.json'),'utf8')).release_id;\n  const manifest=JSON.parse(await readFile(join(publication,'releases',releaseId,'manifest.json'),'utf8'));\n  const instruments={};for(const item of manifest.instruments)instruments[item.slug]=JSON.parse(await readFile(join(publication,'releases',releaseId,item.document_path),'utf8'));\n  const server=createReaderServer(publication);await new Promise(r=>server.listen(0,'127.0.0.1',r));\n  const origin=`http://127.0.0.1:${server.address().port}/lex-mex/`;\n  const browser=await launch(chrome,{anchoring});const page=browser.page;\n  const results=[],notApplicable=[],timings=[];\n  const record=(scenario,ok,detail)=>{results.push({scenario,ok,...detail});console.log(`${ok?'PASS':'FAIL'} ${scenario}${ok?'':' '+JSON.stringify(detail)}`);};\n  const at=(slug,provisionId='')=>`${origin}?release=${releaseId}&instrument=${slug}${provisionId?`&provision=${encodeURIComponent(provisionId)}`:''}`;\n  // Push counts come from a pushState wrapper; resetting history keeps back() inside each scenario.\n  // Scenarios start once an explicit target has settled (older builds have no such mark and get a bounded wait).\n  const mark=name=>`performance.getEntriesByName('${name}').length`;\n  const pageErrors=[],unsettled=[];\n  async function errors(p,where){const list=await p.eval('window.__errors||[]');if(list.length)pageErrors.push({where,list});}\n  async function settle(p=page,timeout=10000){await p.until('window.__probe&&__probe.ready()',20000);return p.until(`${mark('reader:target-settled')}>0`,timeout).then(()=>true,()=>false);}\n  async function open(href,{width=1440,height=900}={}){await page.viewport(width,height);await page.send('Page.navigate',{url:href});if(!await settle(page,3000))unsettled.push(href);await page.send('Page.resetNavigationHistory');await sleep(700);await errors(page,href);}\n  // Compares every UI surface with the article at the reading line.\n  async function agree(slug,{url=true}={}){\n    const truth=await page.eval('__probe.truth()'),ui=await page.eval('__probe.ui()'),p=instruments[slug].provisions[truth];\n    const mismatches=[];if(ui.label!==p.label)mismatches.push('label');if(ui.current!==p.id)mismatches.push('index');if(!ui.title.includes(p.label))mismatches.push('title');if(url&&ui.urlProvision!==p.id)mismatches.push('url');\n    return {truth:p.label,ui:ui.label,mismatches};\n  }\n  async function copies(slug){const truth=await page.eval('__probe.truth()'),p=instruments[slug].provisions[truth];const body=await page.eval(\"__probe.copy('copy-text')\");const share=await page.eval(\"__probe.copy('share')\");return {copyExact:body===p.text,shareProvision:new URL(share).searchParams.get('provision')===p.id};}\n  const centre=async()=>page.eval(\"(()=>{const r=document.getElementById('article').getBoundingClientRect();return {x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height*0.6)};})()\");\n  const lic=instruments.lic.provisions,find=label=>lic.find(p=>p.label===label);\n\ntry{\n    // 28. View options and exports (R7): citation name toggle (remembered, shared with the hover window), exact article copy\n    // unchanged by it, heading path in the middle column, index group and both Markdown exports, the exact-text tab with its\n    // encoding stated, and the right-panel structure.\n    {\n      const b=await launch(chrome,{anchoring});const p=find('Artículo 104'),index=lic.indexOf(p),path=`${p.heading_context.title} · ${p.heading_context.chapter}`,title=instruments.lic.official_title;\n      const first=lic.find(q=>q.heading_context.title===p.heading_context.title&&q.heading_context.chapter===p.heading_context.chapter);try{ // the instrument export prints a heading once per path, before its first article\n        await b.page.viewport(1440,900);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);\n        const short=await b.page.eval(\"__probe.copy('copy-citation')\");await b.page.eval(\"document.getElementById('name-toggle').click()\");\n        const full=await b.page.eval(\"__probe.copy('copy-citation')\"),exact=await b.page.eval(\"__probe.copy('copy-text')\");\n        await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);const remembered=await b.page.eval(\"__probe.copy('copy-citation')\");\n        const source=lic.find(q=>instruments.lic.references.some(r=>r.source_provision_id===q.id&&r.resolution_status==='resolved'&&lic.some(t=>t.id===r.target_provision_id)));\n        await b.page.send('Page.navigate',{url:at('lic',source.id)});await settle(b.page);\n        const opened=await b.page.eval(`(()=>{const a=document.querySelector('#flow article[data-index=\"${lic.indexOf(source)}\"] .article-text a');if(!a)return false;a.click();return !document.getElementById('comparison').hidden;})()`);\n        const heading=await b.page.eval(\"document.getElementById('comparison-title').textContent\"),targetLabel=heading.split(' · ').slice(1).join(' · ');\n        const target=Object.values(instruments).flatMap(d=>d.provisions.map(q=>({q,d}))).find(({q,d})=>`${d.short_name} · ${q.label}`===heading);\n        const hoverCopy=await b.page.eval(\"__probe.copy('comparison-copy')\"),hoverCite=await b.page.eval(\"__probe.copy('comparison-citation')\");\n        await b.page.eval(\"document.getElementById('close-comparison').click()\");await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);\n        await b.page.eval(\"document.getElementById('markdown-link').click()\");const md=await b.page.eval(\"(async()=>window.__blobs.at(-1).blob.text())()\");\n        await b.page.eval(\"document.getElementById('download-instrument').click()\");const whole=await b.page.eval(\"(async()=>window.__blobs.at(-1).blob.text())()\");\n        await b.page.eval(\"document.getElementById('text-link').click()\");\n        const tab=await b.page.eval(\"(async()=>{const o=window.__opened.at(-1);const blob=window.__blobs.find(x=>x.href===o.href);return {type:blob.type,text:await blob.blob.text(),target:o.target,count:window.__opened.length};})()\");\n        const group=await b.page.eval(`(()=>{let n=document.querySelector('#provision-list button[aria-current=\"true\"]');while(n&&!n.classList.contains('group-heading'))n=n.previousElementSibling;return n?n.textContent:null;})()`);\n        const middle=await b.page.eval(`document.querySelector('#flow article[data-index=\"${index}\"] .heading-context').textContent`);\n        const panel=await b.page.eval(`({verifyInside:Boolean(document.querySelector('.source-bottom details #verify-pdf')),reformVisible:!document.getElementById('reform-date').closest('details'),reform:document.getElementById('reform-date').textContent,agent:(a=>({target:a.target,rel:a.rel,text:a.textContent}))(document.getElementById('agent-index')),textLink:document.getElementById('text-link').target})`);\n        await b.page.eval(\"document.getElementById('name-toggle').click()\");const back=await b.page.eval(\"__probe.copy('copy-citation')\");\n        await errors(b.page,'view options');\n        record('view options and exports: citation toggle, hover copy, headings in index/middle/Markdown, exact-text tab, right panel',\n          short==='LIC, artículo 104'&&full===`${title}, artículo 104`&&exact===p.text&&remembered===full&&back===short&&opened&&target&&hoverCopy===target.q.text&&hoverCite===`${target.d.official_title}, ${target.q.label.charAt(0).toLowerCase()}${target.q.label.slice(1)}`\n          &&md===`## ${path}\\n\\n### ${p.label}\\n\\n${p.text}`&&whole.startsWith(`# ${title}\\n\\n`)&&whole.includes(`## ${path}\\n\\n### ${first.label}\\n\\n${first.text}`)&&whole.includes(`\\n\\n### ${p.label}\\n\\n${p.text}`)&&(whole.match(new RegExp(`\\n## ${path.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\\\$&')}\\n`,'g'))||[]).length===1\n          &&tab.type==='text/plain;charset=utf-8'&&tab.text===p.text&&tab.target==='_blank'&&group===path&&middle===path\n          &&panel.verifyInside&&panel.reformVisible&&panel.reform.includes(instruments.lic.latest_reform_date)&&panel.agent.target==='_blank'&&panel.agent.text.includes('llms.txt')&&panel.textLink==='_blank',\n          {short,full,exact:exact===p.text,remembered:remembered===full,hover:{heading,copyExact:target?hoverCopy===target.q.text:null,cite:hoverCite},markdownStart:md.slice(0,80),wholeHasHeading:whole.includes(`## ${path}\\n\\n### ${first.label}`),firstInPath:first.label,tab:{type:tab.type,exact:tab.text===p.text,target:tab.target},group,middle,panel});\n      }finally{await b.close();}\n    }\n    // 29. Text size toggle (R7) at 390px with fonts blocked: the article at the reading line stays there (label, index, URL and\n    // exact copy agree with the physical reading line), no hold is exhausted, no correction loop runs, the preference\n    // survives a reload, and toggling back works the same.\n    {\n      const b=await launch(chrome,{anchoring,fonts:'blocked'});const p=find('Artículo 193'),index=lic.indexOf(p);try{\n        const size=()=>b.page.eval(`parseFloat(getComputedStyle(document.querySelector('#flow article[data-index=\"${index}\"] .article-text')).fontSize)`);\n        const state=async(label,expectRatio,base)=>{\n          await sleep(1800);const ui=await b.page.eval('__probe.ui()'),truth=lic[await b.page.eval('__probe.truth()')],copy=await b.page.eval(\"__probe.copy('copy-text')\");\n          const offset=Math.round(await b.page.eval(`__probe.top(${index})-document.getElementById('active-bar').offsetHeight`)),px=await size();\n          const exhausted=await b.page.eval(mark('reader:hold-exhausted'))+await b.page.eval(mark('reader:hold-recovery-exhausted')),intents=await b.page.eval(mark('reader:intent'));\n          const idleStart=await b.page.eval('window.__scrolls');await sleep(1500);const idle=await b.page.eval('window.__scrolls')-idleStart;\n          const ok=ui.label===p.label&&truth.id===p.id&&ui.current===p.id&&ui.urlProvision===p.id&&copy===p.text&&Math.abs(offset-8)<=3&&exhausted===0&&intents===0&&idle===0&&Math.abs(px/base-expectRatio)<0.02;\n          return {label,ok,ui:ui.label,truth:truth.label,copyExact:copy===p.text,offsetBelowBar:offset,fontPx:px,ratio:Math.round(px/base*100)/100,exhaustedMarks:exhausted,intentMarks:intents,scrollsWhileIdle:idle};\n        };\n        await b.page.viewport(390,844);await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);const base=await size();\n        const steps=[await state('large (start)',1,base)];\n        let settled=await b.page.eval(mark('reader:target-settled'));await b.page.eval(\"document.getElementById('size-toggle').click()\");\n        await b.page.until(`${mark('reader:target-settled')}>${settled}`,10000);steps.push(await state('small',0.65,base));\n        await b.page.send('Page.navigate',{url:at('lic',p.id)});await settle(b.page);steps.push(await state('small after reload (remembered)',0.65,base));\n        settled=await b.page.eval(mark('reader:target-settled'));await b.page.eval(\"document.getElementById('size-toggle').click()\");\n        await b.page.until(`${mark('reader:target-settled')}>${settled}`,10000);steps.push(await state('large again',1,base));\n        await errors(b.page,'text size toggle');\n        record('text size toggle at 390px keeps the reading-line article, is remembered, and reverses',steps.every(step=>step.ok),{steps});\n      }finally{await b.close();}\n    }\n\nreturn {publication,results,pageErrors};}finally{await browser.close();await new Promise(r=>server.close(r));}}\nconst reports=[await focused(\"/Users/jr/Dev/lex-mex-reader-five/.work/r7-preferred-a\")];await writeFile(\"/tmp/r7-focused-results.json\",JSON.stringify(reports,null,2)+\"\\n\");",
+  "extra_probe_source": "// Event-level browser regression for continuous reading. Drives a real headless Chrome over the DevTools\n// protocol (no dependencies) against a packaged publication, and checks that the active label, index,\n// exact copy body, share URL and replaced URL track the article at the reading line under real scroll\n// events. Kept out of `node --test reader/` on purpose: it needs Chrome, and a silent skip would weaken\n// that gate. Usage: node reader/browser-check.mjs --publication DIR [--chrome PATH] [--no-scroll-anchoring] [--legacy-release ID] [--out FILE]\nimport {spawn} from 'node:child_process';\nimport {mkdtemp,readFile,rm,writeFile} from 'node:fs/promises';\nimport {tmpdir} from 'node:os';\nimport {join,resolve} from 'node:path';\nimport {pathToFileURL} from 'node:url';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-five/reader/serve.mjs';\n\nconst sleep=ms=>new Promise(r=>setTimeout(r,ms));\nconst defaultChrome='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';\n\n// Page-side probes, installed before the reader runs. They read the DOM only; the shipped bytes are untouched.\nconst probes=`(()=>{\n  window.__scrolls=0;{const scrollTo=Element.prototype.scrollTo;Element.prototype.scrollTo=function(...args){window.__scrolls++;return scrollTo.apply(this,args);};}\n  window.__errors=[];addEventListener('error',e=>window.__errors.push(String(e.message||e)));addEventListener('unhandledrejection',e=>window.__errors.push(String(e.reason)));\n  window.__pushes=[];const push=history.pushState.bind(history);history.pushState=(...args)=>{window.__pushes.push(String(args[2]));return push(...args);};\n  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async text=>{window.__copied=text;}}});\n  // Exports and the exact-text tab go through blob URLs; record them (and swallow window.open) so scenarios can read what the reader produced.\n  window.__blobs=[];{const create=URL.createObjectURL.bind(URL);URL.createObjectURL=blob=>{const href=create(blob);window.__blobs.push({href,type:blob.type,blob});return href;};}\n  window.__nativeOpen=window.open;window.__opened=[];window.open=(href,target)=>{window.__opened.push({href,target});return null;};\n  const col=()=>document.getElementById('article');\n  const nodes=()=>[...document.querySelectorAll('#flow > article.provision')];\n  window.__probe={\n    line:()=>document.getElementById('active-bar').offsetHeight+24,\n    top:i=>nodes()[i].getBoundingClientRect().top-col().getBoundingClientRect().top,\n    height:i=>nodes()[i].getBoundingClientRect().height,\n    count:()=>nodes().length,\n    // The article whose top last crossed the reading line, computed from layout alone.\n    truth(){const line=this.line(),base=col().getBoundingClientRect().top;let best=0;for(const n of nodes()){if(n.getBoundingClientRect().top-base<=line)best=Number(n.dataset.index);else break;}return best;},\n    // Which articles intersect the observer root (upper half of the reading column's padding box).\n    membership(){const c=col(),r=c.getBoundingClientRect(),top=r.top+c.clientTop,bottom=top+c.clientHeight*0.5;return nodes().filter(n=>{const b=n.getBoundingClientRect();return b.bottom>top&&b.top<bottom;}).map(n=>Number(n.dataset.index));},\n    ui(){const current=document.querySelector('#provision-list button[aria-current=\"true\"]');const params=new URL(location.href).searchParams;return {label:document.getElementById('active-label').textContent,current:current?.dataset.provision??null,title:document.title,instrument:document.getElementById('instrument').value,pushes:window.__pushes.length,urlProvision:params.get('provision'),urlInstrument:params.get('instrument'),history:history.length};},\n    scrollBy(dy){col().scrollTop+=dy;},\n    ready:()=>performance.getEntriesByName('reader:flow-complete').length>0,\n    firstChunk:()=>performance.getEntriesByName('reader:first-chunk').length>0,\n    frames:()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))),\n    async copy(id){window.__copied=undefined;document.getElementById(id).click();for(let i=0;i<50&&window.__copied===undefined;i++)await new Promise(r=>setTimeout(r,10));return window.__copied;}\n  };\n})();`;\n\nexport class Page {\n  constructor(ws){this.ws=ws;this.id=0;this.pending=new Map();ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.id&&this.pending.has(msg.id)){const {resolve,reject}=this.pending.get(msg.id);this.pending.delete(msg.id);msg.error?reject(new Error(msg.error.message)):resolve(msg.result);}});}\n  send(method,params={}){const id=++this.id;this.ws.send(JSON.stringify({id,method,params}));return new Promise((resolve,reject)=>this.pending.set(id,{resolve,reject}));}\n  async eval(expression){const result=await this.send('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(result.exceptionDetails)throw new Error(result.exceptionDetails.exception?.description||result.exceptionDetails.text);return result.result.value;}\n  async until(expression,timeout=15000){const end=Date.now()+timeout;while(Date.now()<end){if(await this.eval(expression))return;await sleep(25);}throw new Error(`Timed out waiting for ${expression}`);}\n  wheel(x,y,deltaY){return this.send('Input.dispatchMouseEvent',{type:'mouseWheel',x,y,deltaX:0,deltaY});}\n  viewport(width,height){return this.send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});}\n}\n\nexport async function launch(chrome=defaultChrome,{anchoring=true,fonts='normal',smooth=false}={}){\n  const profile=await mkdtemp(join(tmpdir(),'lex-reader-chrome-'));\n  const child=spawn(chrome,['--headless=new','--remote-debugging-port=0',`--user-data-dir=${profile}`,...(smooth?[]:['--disable-smooth-scrolling']),'--no-first-run','--no-default-browser-check','--disable-background-timer-throttling','--disable-renderer-backgrounding','--window-size=1440,900','about:blank'],{stdio:'ignore'});\n  let port;for(let i=0;i<200&&!port;i++){try{port=(await readFile(join(profile,'DevToolsActivePort'),'utf8')).split('\\n')[0];}catch{await sleep(50);}}\n  if(!port)throw new Error('Chrome did not expose a DevTools port.');\n  const targets=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json();const target=targets.find(t=>t.type==='page');\n  const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((ok,fail)=>{ws.onopen=ok;ws.onerror=fail;});\n  const page=new Page(ws);await page.send('Page.enable');await page.send('Runtime.enable');await page.send('Page.addScriptToEvaluateOnNewDocument',{source:probes});\n  // Without scroll anchoring (as in browsers that lack it) layout shifts above the view no longer emit scroll events.\n  // Web fonts can be blocked or delayed to reproduce late layout shifts (the stylesheet imports Google Fonts).\n  const fontUrls=['*fonts.googleapis.com*','*fonts.gstatic.com*'];\n  if(fonts==='blocked'){await page.send('Network.enable');await page.send('Network.setBlockedURLs',{urls:fontUrls});}\n  else if(typeof fonts==='number'){await page.send('Fetch.enable',{patterns:fontUrls.map(urlPattern=>({urlPattern}))});ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);if(msg.method==='Fetch.requestPaused')setTimeout(()=>page.send('Fetch.continueRequest',{requestId:msg.params.requestId}).catch(()=>{}),fonts);});}\n  if(!anchoring)await page.send('Page.addScriptToEvaluateOnNewDocument',{source:\"document.addEventListener('DOMContentLoaded',()=>document.head.append(Object.assign(document.createElement('style'),{textContent:'#article{overflow-anchor:none}'})));\"});\n  return {page,async close(){ws.close();child.kill();await sleep(200);await rm(profile,{recursive:true,force:true});}};\n}\n\n\n\nconst publication='/Users/jr/Dev/lex-mex-reader-five/.work/r7-preferred-a';const release=JSON.parse(await readFile(join(publication,'latest.json'),'utf8')).release_id;\nconst manifest=JSON.parse(await readFile(join(publication,'releases',release,'manifest.json'),'utf8'));const lic=JSON.parse(await readFile(join(publication,'releases',release,manifest.instruments.find(d=>d.slug==='lic').document_path),'utf8'));\nconst p=lic.provisions.find(p=>p.label==='Artículo 193');const server=createReaderServer(publication);await new Promise(r=>server.listen(0,'127.0.0.1',r));\nconst origin=`http://127.0.0.1:${server.address().port}/lex-mex/`,at=p=>`${origin}?release=${release}&instrument=lic&provision=${p.id}`;const results=[];\nasync function agree(page){const truth=lic.provisions[await page.eval('__probe.truth()')],ui=await page.eval('__probe.ui()'),copy=await page.eval(\"__probe.copy('copy-text')\");return {ok:ui.current===truth.id&&ui.label===truth.label&&ui.urlProvision===truth.id&&copy===truth.text,truth:truth.label,ui:ui.label,id:truth.id,copyExact:copy===truth.text};}\ntry{\n const b=await launch(undefined,{fonts:'blocked'});try{\n  await b.page.send('Page.addScriptToEvaluateOnNewDocument',{source:'window.open=window.__nativeOpen;'});\n  await b.page.send('Page.navigate',{url:at(p)});await b.page.until('window.__probe&&__probe.ready()');await sleep(1000);\n  await b.page.send('Runtime.evaluate',{expression:\"document.getElementById('text-link').click();0\",userGesture:true});await sleep(700);\n  const u=new URL(b.page.ws.url),base=`http://${u.host}`;const targets=await (await fetch(base+'/json/list')).json(),tab=targets.find(t=>t.type==='page'&&t.url.startsWith('blob:'));\n  if(!tab)throw Error('No real blob tab opened');const ws=new WebSocket(tab.webSocketDebuggerUrl);await new Promise((ok,no)=>{ws.onopen=ok;ws.onerror=no;});const page=new Page(ws);await page.send('Runtime.enable');\n  const state=await page.eval('({type:document.contentType,charset:document.characterSet,text:document.body.textContent,openerNull:window.opener===null})');ws.close();results.push({case:'real exact-text tab',ok:state.text===p.text&&state.openerNull&&state.type==='text/plain'&&state.charset==='UTF-8',...state,text:undefined,exact:state.text===p.text});\n }finally{await b.close();}\n const c=await launch(undefined,{fonts:'blocked'});try{\n  await c.page.send('Page.addScriptToEvaluateOnNewDocument',{source:`(()=>{const original=setTimeout;let paused=true;const pending=[];window.__resumeFill=()=>{paused=false;for(const run of pending.splice(0))run();};window.setTimeout=(fn,delay,...args)=>paused&&delay===0?original(()=>pending.push(()=>fn(...args)),0):original(fn,delay,...args);})();`});\n  await c.page.viewport(390,844);await c.page.send('Page.navigate',{url:at(p)});await c.page.until('window.__probe&&__probe.firstChunk()');await sleep(800);\n  await c.page.eval(\"document.getElementById('size-toggle').click();0\");await sleep(1800);const pending=await c.page.eval('!__probe.ready()'),small=await agree(c.page);\n  await c.page.eval('__resumeFill();0');await c.page.until('__probe.ready()');await sleep(1200);const completed=await agree(c.page);\n  await c.page.eval('__probe.scrollBy(-1600)');await sleep(800);const moved=await agree(c.page);await c.page.eval(\"document.getElementById('size-toggle').click();0\");await sleep(1600);const reheld=await agree(c.page),errors=await c.page.eval('__errors');\n  results.push({case:'size during actual pending fill, completion, then after reader scroll',ok:pending&&small.ok&&small.id===p.id&&completed.ok&&completed.id===p.id&&moved.ok&&reheld.ok&&reheld.id===moved.id&&errors.length===0,pending,small,completed,moved,reheld,errors});\n }finally{await c.close();}\n const d=await launch();try{\n  await d.page.send('Page.addScriptToEvaluateOnNewDocument',{source:\"Object.defineProperty(window,'localStorage',{get(){throw new DOMException('blocked','SecurityError')}});\"});await d.page.send('Page.navigate',{url:at(p)});await d.page.until('window.__probe&&__probe.ready()');await sleep(800);\n  await d.page.eval(\"document.getElementById('size-toggle').click();document.getElementById('name-toggle').click();0\");await sleep(1600);const ui=await agree(d.page),errors=await d.page.eval('__errors');results.push({case:'storage blocked',ok:ui.ok&&errors.length===0,ui,errors});\n }finally{await d.close();}\n}finally{await new Promise(r=>server.close(r));}\nawait writeFile('/tmp/r7-extra-results.json',JSON.stringify(results,null,2)+'\\n');console.log(JSON.stringify(results,null,2));if(results.some(r=>!r.ok))process.exitCode=1;\n",
+  "node_tests": "24/24 via mechanical check",
+  "full_browser_evidence": "Four implementer reports hash/count verified; not independently rerun in full.",
+  "libro_scope": "All four preferred instruments have0 nonempty heading_context.libro records."
+}

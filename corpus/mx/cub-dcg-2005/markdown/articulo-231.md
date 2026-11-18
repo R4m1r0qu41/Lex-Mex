@@ -9,24 +9,25 @@ aliases: ["DCG-CUB-2005 — Artículo 231"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [113]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo I
 
 # Artículo 231
 
-La Comisión, para la aplicación de las Medidas Correctivas Especiales Adicionales a que se refiere el Artículo [222](articulo-222.md) de las presentes disposiciones, tomará en cuenta la categoría en que se hubiere clasificado a la institución de banca múltiple de que se trate y podrá además, considerar los elementos siguientes:
+La [Comisión](articulo-1.md), para la aplicación de las [Medidas Correctivas Especiales Adicionales](articulo-1.md) a que se refiere el Artículo [222](articulo-222.md) de las presentes disposiciones, tomará en cuenta la categoría en que se hubiere clasificado a la institución de banca múltiple de que se trate y podrá además, considerar los elementos siguientes:
 
 I. Su situación financiera integral;
 
 II. El cumplimiento al marco regulatorio;
 
-III. La tendencia del Índice de Capitalización de la institución de banca múltiple y de los principales indicadores que reflejen el grado de estabilidad y solvencia;
+III. La tendencia del [Índice de Capitalización](articulo-1.md) de la institución de banca múltiple y de los principales indicadores que reflejen el grado de estabilidad y solvencia;
 
 IV. La calidad de la información contable y financiera que presenta la institución de banca múltiple a la Comisión, así como el cumplimiento en la entrega de dicha información; y
 
-(113) V. La calidad y cumplimiento en la entrega de la información que las instituciones de banca múltiple deban proporcionar al Banco de México para que este verifique el cumplimiento de los requerimientos de capitalización y determine el Indice de Capitalización, conforme a lo dispuesto en el Artículo [2 Bis 4](articulo-2-Bis-4.md) de las presentes disposiciones.
+V. La calidad y cumplimiento en la entrega de la información que las instituciones de banca múltiple deban proporcionar al Banco de [México](articulo-1.md) para que este verifique el cumplimiento de los requerimientos de capitalización y determine el Indice de Capitalización, conforme a lo dispuesto en el Artículo [2 Bis 4](articulo-2-Bis-4.md) de las presentes disposiciones.
 
 La Comisión, para la determinación de las Medidas Correctivas Especiales Adicionales, podrá considerar el resultado del ejercicio de sus funciones de inspección y vigilancia, así como las sanas prácticas bancarias y financieras.

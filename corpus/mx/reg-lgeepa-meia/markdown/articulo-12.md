@@ -29,6 +29,8 @@ IV. Descripción del sistema ambiental y señalamiento de la problemática ambie
 
 V. Identificación, descripción y evaluación de los impactos ambientales;
 
-VI. Medidas preventivas y de mitigación de los impactos ambientales; VII. Pronósticos ambientales y, en su caso, evaluación de alternativas, y
+VI. Medidas preventivas y de mitigación de los impactos ambientales;
+
+VII. Pronósticos ambientales y, en su caso, evaluación de alternativas, y
 
 VIII. Identificación de los instrumentos metodológicos y elementos técnicos que sustentan la información señalada en las fracciones anteriores.

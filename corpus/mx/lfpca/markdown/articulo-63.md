@@ -47,7 +47,9 @@ V. Sea una resolución dictada en materia de comercio exterior.
 
 A la presente fracción le será aplicable lo dispuesto en el segundo párrafo de la fracción III del presente artículo. Párrafo adicionado DOF 09-06-2026
 
-VI. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o sobre cualquier aspecto relacionado con pensiones que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. VII. Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene al Servicio de Administración Tributaria, en términos del artículo [34](../../lsat/markdown/articulo-34.md) de la Ley del Servicio de Administración Tributaria.
+VI. Sea una resolución en materia de aportaciones de seguridad social, cuando el asunto verse sobre la determinación de sujetos obligados, de conceptos que integren la base de cotización o sobre el grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo o sobre cualquier aspecto relacionado con pensiones que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+VII. Sea una resolución en la cual, se declare el derecho a la indemnización, o se condene al Servicio de Administración Tributaria, en términos del artículo [34](../../lsat/markdown/articulo-34.md) de la Ley del Servicio de Administración Tributaria.
 
 VIII. Se resuelva sobre la condenación en costas o indemnización previstas en el artículo 6º de la Ley Federal de Procedimiento Contencioso Administrativo.
 

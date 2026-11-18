@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["REG-LGS-MCSPIUMC — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf
 source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 ---
@@ -25,4 +25,6 @@ I. La cantidad de [Materia Prima](articulo-3.md), [Derivados Farmacológicos](ar
 
 II. El documento que compruebe el origen del material objeto del Protocolo de Investigación;
 
-III. El documento en el que conste el cumplimiento del Testado y [Trazabilidad](articulo-3.md), desde el origen hasta la disposición final, conforme a las disposiciones que expida la autoridad competente, y IV. El Protocolo de Investigación.
+III. El documento en el que conste el cumplimiento del Testado y [Trazabilidad](articulo-3.md), desde el origen hasta la disposición final, conforme a las disposiciones que expida la autoridad competente, y
+
+IV. El Protocolo de Investigación.

@@ -21,7 +21,9 @@ Cuando una parte solicite la remisión al arbitraje en los términos del artícu
 
 I. La solicitud deberá hacerse en el primer escrito sobre la sustancia del asunto que presente el solicitante.
 
-II. El juez, previa vista a las demás partes, resolverá de inmediato. III. Si el juez ordena remitir al arbitraje, ordenará también suspender el procedimiento.
+II. El juez, previa vista a las demás partes, resolverá de inmediato.
+
+III. Si el juez ordena remitir al arbitraje, ordenará también suspender el procedimiento.
 
 IV. Una vez que el asunto se haya resuelto finalmente en el arbitraje, a petición de cualquiera de las partes, el juez dará por terminado el juicio.
 

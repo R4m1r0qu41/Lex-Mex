@@ -27,7 +27,9 @@ III. Para tránsito internacional de especies acuáticas, sus productos y subpro
 
 IV. Para movilización de especies acuícolas vivas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies ......................................................................................................... $797.52
 
-V. Para establecimientos en operación en los que se produzcan, procesen, comercialicen, transporten y almacenen, productos y subproductos acuícolas, así como productos químicos, biológicos, farmacéuticos y alimenticios para el uso o consumo de dichas especies .................................................................................................................. $4,386.35 VI. Para uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y demás sustancias químicas a los organismos de cultivo .................................................. $1,933.97
+V. Para establecimientos en operación en los que se produzcan, procesen, comercialicen, transporten y almacenen, productos y subproductos acuícolas, así como productos químicos, biológicos, farmacéuticos y alimenticios para el uso o consumo de dichas especies .................................................................................................................. $4,386.35
+
+VI. Para uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y demás sustancias químicas a los organismos de cultivo .................................................. $1,933.97
 
 VII. Para introducción de especies acuícolas vivas a un cuerpo de agua de jurisdicción federal ........................................................................................................................ $797.52
 

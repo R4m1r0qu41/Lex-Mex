@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LOPGJDF — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -37,7 +37,9 @@ VIII. Detectar, identificar y preservar los indicios del delito, dejando constan
 
 IX. Restituir al ofendido y a la víctima del delito en el goce de sus derechos;
 
-X. Conceder la libertad provisional a los imputados cuando proceda; XI. Solicitar al órgano jurisdiccional las órdenes de cateo y arraigo, las intervenciones a algún medio de comunicación privada y las medidas precautorias que autorice la ley, siempre que se consideren necesarias para los fines de la averiguación previa;
+X. Conceder la libertad provisional a los imputados cuando proceda;
+
+XI. Solicitar al órgano jurisdiccional las órdenes de cateo y arraigo, las intervenciones a algún medio de comunicación privada y las medidas precautorias que autorice la ley, siempre que se consideren necesarias para los fines de la averiguación previa;
 
 XII. Aplicar los criterios de oportunidad, en los términos y en los casos que determine el Código de Procedimientos Penales para el Distrito Federal;
 

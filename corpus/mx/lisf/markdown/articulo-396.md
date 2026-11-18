@@ -23,7 +23,9 @@ Cuando se trate de personas físicas, el nombramiento de liquidador administrati
 
 I. Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación;
 
-II. Estar inscrito en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles; III. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia, que contenga sus antecedentes de por lo menos los cinco años anteriores a la fecha en que se pretende iniciar el cargo;
+II. Estar inscrito en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles;
+
+III. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia, que contenga sus antecedentes de por lo menos los cinco años anteriores a la fecha en que se pretende iniciar el cargo;
 
 IV. No tener litigio pendiente en contra de la [Institución](articulo-2.md) o [Sociedad Mutualista](articulo-2.md) de que se trate;
 

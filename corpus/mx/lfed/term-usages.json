@@ -64,66 +64,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1183-1195",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1184-1196",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:monetizacion",
     "span": "Monetización",
-    "start_char": 1183,
-    "end_char": 1195
+    "start_char": 1184,
+    "end_char": 1196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1203-1209",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1204-1210",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 1203,
-    "end_char": 1209
+    "start_char": 1204,
+    "end_char": 1210
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1357-1363",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1358-1364",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 1357,
-    "end_char": 1363
+    "start_char": 1358,
+    "end_char": 1364
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1480-1483",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1481-1484",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 1480,
-    "end_char": 1483
+    "start_char": 1481,
+    "end_char": 1484
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1595-1607",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:1596-1608",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 1595,
-    "end_char": 1607
+    "start_char": 1596,
+    "end_char": 1608
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:2069-2081",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:2070-2082",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 2069,
-    "end_char": 2081
+    "start_char": 2070,
+    "end_char": 2082
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:4872-4884",
+    "id": "urn:lex-mx:federal:statute:lfed:article:1:term-usage:4874-4886",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:1",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 4872,
-    "end_char": 4884
+    "start_char": 4874,
+    "end_char": 4886
   },
   {
     "schema_version": "0.1.0",
@@ -217,300 +217,300 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1151-1157",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1152-1158",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 1151,
-    "end_char": 1157
+    "start_char": 1152,
+    "end_char": 1158
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1309-1315",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1310-1316",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 1309,
-    "end_char": 1315
+    "start_char": 1310,
+    "end_char": 1316
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1483-1495",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1484-1496",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 1483,
-    "end_char": 1495
+    "start_char": 1484,
+    "end_char": 1496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1537-1545",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1538-1546",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 1537,
-    "end_char": 1545
+    "start_char": 1538,
+    "end_char": 1546
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1613-1621",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1614-1622",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 1613,
-    "end_char": 1621
+    "start_char": 1614,
+    "end_char": 1622
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1649-1670",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1650-1671",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1649,
-    "end_char": 1670
+    "start_char": 1650,
+    "end_char": 1671
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1839-1860",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1840-1861",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1839,
-    "end_char": 1860
+    "start_char": 1840,
+    "end_char": 1861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1916-1940",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1917-1941",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:autoridad-administradora",
     "span": "Autoridad Administradora",
-    "start_char": 1916,
-    "end_char": 1940
+    "start_char": 1917,
+    "end_char": 1941
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1984-1990",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:1985-1991",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 1984,
-    "end_char": 1990
+    "start_char": 1985,
+    "end_char": 1991
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2154-2170",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2155-2171",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:venta-anticipada",
     "span": "Venta Anticipada",
-    "start_char": 2154,
-    "end_char": 2170
+    "start_char": 2155,
+    "end_char": 2171
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2373-2379",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2374-2380",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2373,
-    "end_char": 2379
+    "start_char": 2374,
+    "end_char": 2380
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2478-2490",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2479-2491",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:monetizacion",
     "span": "Monetización",
-    "start_char": 2478,
-    "end_char": 2490
+    "start_char": 2479,
+    "end_char": 2491
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2579-2591",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2580-2592",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 2579,
-    "end_char": 2591
+    "start_char": 2580,
+    "end_char": 2592
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2631-2634",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2632-2635",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 2631,
-    "end_char": 2634
+    "start_char": 2632,
+    "end_char": 2635
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2725-2746",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2726-2747",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 2725,
-    "end_char": 2746
+    "start_char": 2726,
+    "end_char": 2747
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2888-2891",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2889-2892",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 2888,
-    "end_char": 2891
+    "start_char": 2889,
+    "end_char": 2892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2960-2966",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:2961-2967",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2960,
-    "end_char": 2966
+    "start_char": 2961,
+    "end_char": 2967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3008-3014",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3009-3015",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 3008,
-    "end_char": 3014
+    "start_char": 3009,
+    "end_char": 3015
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3029-3042",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3030-3043",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:hecho-ilicito",
     "span": "Hecho Ilícito",
-    "start_char": 3029,
-    "end_char": 3042
+    "start_char": 3030,
+    "end_char": 3043
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3266-3272",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3267-3273",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 3266,
-    "end_char": 3272
+    "start_char": 3267,
+    "end_char": 3273
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3287-3300",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3288-3301",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:hecho-ilicito",
     "span": "Hecho Ilícito",
-    "start_char": 3287,
-    "end_char": 3300
+    "start_char": 3288,
+    "end_char": 3301
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3450-3471",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3451-3472",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 3450,
-    "end_char": 3471
+    "start_char": 3451,
+    "end_char": 3472
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3530-3536",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3531-3537",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 3530,
-    "end_char": 3536
+    "start_char": 3531,
+    "end_char": 3537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3619-3637",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3620-3638",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3619,
-    "end_char": 3637
+    "start_char": 3620,
+    "end_char": 3638
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3738-3750",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3739-3751",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 3738,
-    "end_char": 3750
+    "start_char": 3739,
+    "end_char": 3751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3758-3761",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:3759-3762",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 3758,
-    "end_char": 3761
+    "start_char": 3759,
+    "end_char": 3762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4024-4030",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4025-4031",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 4024,
-    "end_char": 4030
+    "start_char": 4025,
+    "end_char": 4031
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4116-4128",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4117-4129",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
     "span": "Constitución",
-    "start_char": 4116,
-    "end_char": 4128
+    "start_char": 4117,
+    "end_char": 4129
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4136-4139",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4137-4140",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 4136,
-    "end_char": 4139
+    "start_char": 4137,
+    "end_char": 4140
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4182-4188",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4184-4190",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 4182,
-    "end_char": 4188
+    "start_char": 4184,
+    "end_char": 4190
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4320-4323",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4322-4325",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 4320,
-    "end_char": 4323
+    "start_char": 4322,
+    "end_char": 4325
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4425-4438",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4427-4440",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:hecho-ilicito",
     "span": "Hecho Ilícito",
-    "start_char": 4425,
-    "end_char": 4438
+    "start_char": 4427,
+    "end_char": 4440
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4752-4755",
+    "id": "urn:lex-mx:federal:statute:lfed:article:2:term-usage:4754-4757",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 4752,
-    "end_char": 4755
+    "start_char": 4754,
+    "end_char": 4757
   },
   {
     "schema_version": "0.1.0",
@@ -757,21 +757,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:7:term-usage:2015-2021",
+    "id": "urn:lex-mx:federal:statute:lfed:article:7:term-usage:2016-2022",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:7",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2015,
-    "end_char": 2021
+    "start_char": 2016,
+    "end_char": 2022
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:7:term-usage:2099-2105",
+    "id": "urn:lex-mx:federal:statute:lfed:article:7:term-usage:2100-2106",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:7",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2099,
-    "end_char": 2105
+    "start_char": 2100,
+    "end_char": 2106
   },
   {
     "schema_version": "0.1.0",
@@ -3151,21 +3151,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:172:term-usage:85-103",
+    "id": "urn:lex-mx:federal:statute:lfed:article:172:term-usage:86-104",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:172",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 85,
-    "end_char": 103
+    "start_char": 86,
+    "end_char": 104
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:172:term-usage:230-233",
+    "id": "urn:lex-mx:federal:statute:lfed:article:172:term-usage:231-234",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:172",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 230,
-    "end_char": 233
+    "start_char": 231,
+    "end_char": 234
   },
   {
     "schema_version": "0.1.0",
@@ -3313,12 +3313,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:177:term-usage:99-105",
+    "id": "urn:lex-mx:federal:statute:lfed:article:177:term-usage:100-106",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:177",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 99,
-    "end_char": 105
+    "start_char": 100,
+    "end_char": 106
   },
   {
     "schema_version": "0.1.0",
@@ -3835,21 +3835,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:190:term-usage:3791-3809",
+    "id": "urn:lex-mx:federal:statute:lfed:article:190:term-usage:3792-3810",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:190",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3791,
-    "end_char": 3809
+    "start_char": 3792,
+    "end_char": 3810
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:190:term-usage:4079-4099",
+    "id": "urn:lex-mx:federal:statute:lfed:article:190:term-usage:4080-4100",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:190",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:legitima-procedencia",
     "span": "Legítima Procedencia",
-    "start_char": 4079,
-    "end_char": 4099
+    "start_char": 4080,
+    "end_char": 4100
   },
   {
     "schema_version": "0.1.0",
@@ -3925,30 +3925,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2142-2157",
+    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2143-2158",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:191",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:parte-demandada",
     "span": "Parte Demandada",
-    "start_char": 2142,
-    "end_char": 2157
+    "start_char": 2143,
+    "end_char": 2158
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2165-2181",
+    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2166-2182",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:191",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:persona-afectada",
     "span": "Persona Afectada",
-    "start_char": 2165,
-    "end_char": 2181
+    "start_char": 2166,
+    "end_char": 2182
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2240-2258",
+    "id": "urn:lex-mx:federal:statute:lfed:article:191:term-usage:2241-2259",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:191",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2240,
-    "end_char": 2258
+    "start_char": 2241,
+    "end_char": 2259
   },
   {
     "schema_version": "0.1.0",
@@ -4420,12 +4420,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:211:term-usage:83-101",
+    "id": "urn:lex-mx:federal:statute:lfed:article:211:term-usage:84-102",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:211",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 83,
-    "end_char": 101
+    "start_char": 84,
+    "end_char": 102
   },
   {
     "schema_version": "0.1.0",
@@ -5509,84 +5509,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:625-631",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:626-632",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:fiscal",
     "span": "Fiscal",
-    "start_char": 625,
-    "end_char": 631
+    "start_char": 626,
+    "end_char": 632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:988-994",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:989-995",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 988,
-    "end_char": 994
+    "start_char": 989,
+    "end_char": 995
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:1814-1835",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:1815-1836",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1814,
-    "end_char": 1835
+    "start_char": 1815,
+    "end_char": 1836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2209-2215",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2210-2216",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2209,
-    "end_char": 2215
+    "start_char": 2210,
+    "end_char": 2216
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2334-2337",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2335-2338",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ley",
     "span": "Ley",
-    "start_char": 2334,
-    "end_char": 2337
+    "start_char": 2335,
+    "end_char": 2338
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2388-2394",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2389-2395",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 2388,
-    "end_char": 2394
+    "start_char": 2389,
+    "end_char": 2395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2451-2469",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:2452-2470",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2451,
-    "end_char": 2469
+    "start_char": 2452,
+    "end_char": 2470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:3254-3260",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:3255-3261",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:bienes",
     "span": "Bienes",
-    "start_char": 3254,
-    "end_char": 3260
+    "start_char": 3255,
+    "end_char": 3261
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:3477-3483",
+    "id": "urn:lex-mx:federal:statute:lfed:article:241:term-usage:3479-3485",
     "provision_id": "urn:lex-mx:federal:statute:lfed:article:241",
     "term_id": "urn:lex-mx:federal:statute:lfed:term:fiscal",
     "span": "Fiscal",
-    "start_char": 3477,
-    "end_char": 3483
+    "start_char": 3479,
+    "end_char": 3485
   },
   {
     "schema_version": "0.1.0",
@@ -6109,14 +6109,5 @@
     "span": "Ley",
     "start_char": 398,
     "end_char": 401
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfed:transitory:decimo-segundo:term-usage:1007-1019",
-    "provision_id": "urn:lex-mx:federal:statute:lfed:transitory:decimo-segundo",
-    "term_id": "urn:lex-mx:federal:statute:lfed:term:constitucion",
-    "span": "Constitución",
-    "start_char": 1007,
-    "end_char": 1019
   }
 ]

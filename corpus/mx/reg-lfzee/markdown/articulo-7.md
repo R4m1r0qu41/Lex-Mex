@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["REG-LFZEE — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -47,7 +47,9 @@ XIII. Requerir información y documentación al Administrador Integral y a los [
 
 XIV. Coordinar acciones de promoción de las Zonas, sin perjuicio de las que correspondan al Administrador Integral;
 
-XV. Suspender las actividades o la ejecución de obras cuando el Administrador Integral o el Inversionista pongan en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la Zona y, en su caso, determinar las acciones que deben realizar para subsanar las irregularidades que motivaron la suspensión; XVI. Coadyuvar en las acciones de coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
+XV. Suspender las actividades o la ejecución de obras cuando el Administrador Integral o el Inversionista pongan en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la Zona y, en su caso, determinar las acciones que deben realizar para subsanar las irregularidades que motivaron la suspensión;
+
+XVI. Coadyuvar en las acciones de coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
 
 XVII. Autorizar los actos que impliquen el cambio del control de la persona moral titular del Permiso;
 

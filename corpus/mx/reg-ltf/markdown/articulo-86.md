@@ -41,6 +41,8 @@ X. Habilitar los días y horas inhábiles para realizar un acto de vigilancia, a
 
 XI. Elaborar las actas en las que se hagan constar los hechos u omisiones que conozcan durante su función de vigilancia de las Funciones de tesorería;
 
-XII. Notificar todo tipo de oficios, resoluciones y actos que emita la Tesorería en el ejercicio de la función de vigilancia; XIII. Certificar los documentos que obren en los expedientes de los sujetos al acto de vigilancia, debiendo levantar acta circunstanciada al respecto, y
+XII. Notificar todo tipo de oficios, resoluciones y actos que emita la Tesorería en el ejercicio de la función de vigilancia;
+
+XIII. Certificar los documentos que obren en los expedientes de los sujetos al acto de vigilancia, debiendo levantar acta circunstanciada al respecto, y
 
 XIV. Las demás que le correspondan conforme a la Ley, este Reglamento y demás disposiciones jurídicas aplicables.

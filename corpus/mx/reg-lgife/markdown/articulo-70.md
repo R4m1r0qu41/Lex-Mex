@@ -7,8 +7,8 @@ provision_type: article
 number: "70"
 aliases: ["REG-LGIFE — Artículo 70"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf
 source_sha256: 05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8
 ---

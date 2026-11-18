@@ -27,7 +27,9 @@ I. La prohibición de hacer pagos de obligaciones vencidas con anterioridad a la
 
 II. La suspensión de todo procedimiento de ejecución contra los bienes y derechos del [Comerciante](articulo-4o.md);
 
-III. La prohibición al Comerciante de realizar operaciones de enajenación o gravamen de los bienes principales de su empresa; IV. El aseguramiento de bienes;
+III. La prohibición al Comerciante de realizar operaciones de enajenación o gravamen de los bienes principales de su empresa;
+
+IV. El aseguramiento de bienes;
 
 V. La intervención de la caja;
 

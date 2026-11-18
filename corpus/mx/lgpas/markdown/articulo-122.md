@@ -7,8 +7,8 @@ provision_type: article
 number: "122"
 aliases: ["LGPAS — Artículo 122"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -19,7 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 El [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura estará a cargo de la [Secretaría](articulo-4o.md), tendrá carácter público y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
-I. Las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico; II. La información sobre los permisos y concesiones expedidos que incluya el nombre del titular, especies, artes y equipos de pesca, vigencia, cuotas de captura o zonas de captura;
+I. Las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico;
+
+II. La información sobre los permisos y concesiones expedidos que incluya el nombre del titular, especies, artes y equipos de pesca, vigencia, cuotas de captura o zonas de captura;
 
 III. Las embarcaciones dedicadas a la actividad pesquera;
 

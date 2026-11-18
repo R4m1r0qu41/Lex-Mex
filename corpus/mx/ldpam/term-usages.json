@@ -28,12 +28,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:2:term-usage:554-563",
+    "id": "urn:lex-mx:federal:statute:ldpam:article:2:term-usage:555-564",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:2",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:instituto",
     "span": "Instituto",
-    "start_char": 554,
-    "end_char": 563
+    "start_char": 555,
+    "end_char": 564
   },
   {
     "schema_version": "0.1.0",
@@ -55,12 +55,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:4:term-usage:1026-1029",
+    "id": "urn:lex-mx:federal:statute:ldpam:article:4:term-usage:1027-1030",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:4",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:ley",
     "span": "Ley",
-    "start_char": 1026,
-    "end_char": 1029
+    "start_char": 1027,
+    "end_char": 1030
   },
   {
     "schema_version": "0.1.0",
@@ -172,21 +172,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:18:term-usage:1346-1355",
+    "id": "urn:lex-mx:federal:statute:ldpam:article:18:term-usage:1347-1356",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:geriatria",
     "span": "Geriatría",
-    "start_char": 1346,
-    "end_char": 1355
+    "start_char": 1347,
+    "end_char": 1356
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldpam:article:18:term-usage:1361-1373",
+    "id": "urn:lex-mx:federal:statute:ldpam:article:18:term-usage:1362-1374",
     "provision_id": "urn:lex-mx:federal:statute:ldpam:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldpam:term:gerontologia",
     "span": "Gerontología",
-    "start_char": 1361,
-    "end_char": 1373
+    "start_char": 1362,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",

@@ -7,8 +7,8 @@ provision_type: article
 number: "73 Ter"
 aliases: ["LGMDFP — Artículo 73 Ter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -35,6 +35,8 @@ VI. Nombre del probable responsable o posible partícipe cuando éste se conozca
 
 VII. Acciones emprendidas para su búsqueda e identificación;
 
-VIII. El estado procesal que guarda el expediente, y IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley.
+VIII. El estado procesal que guarda el expediente, y
+
+IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley.
 
 Artículo adicionado DOF 16-07-2025

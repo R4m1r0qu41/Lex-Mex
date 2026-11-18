@@ -25,7 +25,9 @@ II. Garantizar que desde el momento en que sea puesto a su disposición, la pers
 
 III. Prevenir a la persona adolescente, desde el momento en el que sea puesto a su disposición, sobre su derecho a nombrar un defensor y, en caso de no contar con uno, informar de inmediato a la Defensoría Pública para que le sea designado un defensor;
 
-IV. Informar de inmediato a la persona adolescente, a sus familiares, al defensor y, en su caso, a la persona que designe como persona en quien confíe, sobre su situación jurídica y los derechos que le asisten; V. Llevar a cabo las diligencias correspondientes para comprobar la edad de la persona detenida;
+IV. Informar de inmediato a la persona adolescente, a sus familiares, al defensor y, en su caso, a la persona que designe como persona en quien confíe, sobre su situación jurídica y los derechos que le asisten;
+
+V. Llevar a cabo las diligencias correspondientes para comprobar la edad de la persona detenida;
 
 VI. Otorgar a la persona adolescente, defensor y, en su caso, a su familia, la información sobre la investigación, salvo los casos excepcionales previstos en el Código Nacional;
 

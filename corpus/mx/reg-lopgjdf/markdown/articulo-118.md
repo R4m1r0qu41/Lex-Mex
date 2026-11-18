@@ -7,8 +7,8 @@ provision_type: article
 number: "118"
 aliases: ["REG-LOPGJDF — Artículo 118"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -33,7 +33,9 @@ e) Muerte.
 
 II. Terminación de los efectos del nombramiento, por incurrir en causas imputables al servidor público que impliquen la pérdida de la confianza o deficiencia en el servicio;
 
-III. Destitución o inhabilitación administrativa por resolución firme, por haber incurrido en responsabilidad administrativa en el desempeño de sus funciones; IV. Incumplimiento de alguno de los requisitos de Ley para el ingreso y permanencia en el puesto correspondiente, y
+III. Destitución o inhabilitación administrativa por resolución firme, por haber incurrido en responsabilidad administrativa en el desempeño de sus funciones;
+
+IV. Incumplimiento de alguno de los requisitos de Ley para el ingreso y permanencia en el puesto correspondiente, y
 
 V. Las demás que establezcan las disposiciones legales y reglamentarias aplicables.
 

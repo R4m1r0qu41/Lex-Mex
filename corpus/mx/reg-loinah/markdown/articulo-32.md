@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["REG-LOINAH — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -41,7 +41,9 @@ X. Emitir opinión técnica y asesorar sobre los expedientes técnicos que integ
 
 XI. Supervisar que las contrataciones de obra y servicios relacionados con la misma, se lleven a cabo conforme a la normativa aplicable;
 
-XII. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionando la información necesaria hasta que se emita la resolución correspondiente; XIII. Supervisar que las obras y servicios relacionados con las mismas, a realizarse en inmuebles y en monumentos históricos inmuebles, así como en la infraestructura de bienes y servicios en Sitios y zonas de monumentos Arqueológicos; se realicen de conformidad con los lineamientos y requerimientos de las unidades administrativas del Instituto y cuenten con la autorización y supervisión correspondiente en términos de la normativa aplicable;
+XII. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionando la información necesaria hasta que se emita la resolución correspondiente;
+
+XIII. Supervisar que las obras y servicios relacionados con las mismas, a realizarse en inmuebles y en monumentos históricos inmuebles, así como en la infraestructura de bienes y servicios en Sitios y zonas de monumentos Arqueológicos; se realicen de conformidad con los lineamientos y requerimientos de las unidades administrativas del Instituto y cuenten con la autorización y supervisión correspondiente en términos de la normativa aplicable;
 
 XIV. Supervisar el proceso de ejecución de las obras contratadas;
 

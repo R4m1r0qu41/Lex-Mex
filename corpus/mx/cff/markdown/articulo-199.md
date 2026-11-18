@@ -19,7 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Se considera un esquema reportable, cualquiera que genere o pueda generar, directa o indirectamente, la obtención de un beneficio fiscal en México y tenga alguna de las siguientes características:
 
-I. Evite que autoridades extranjeras intercambien información fiscal o financiera con las autoridades fiscales mexicanas, incluyendo por la aplicación del Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal, a que se refiere la recomendación adoptada por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos el 15 de julio de 2014, así como otras formas de intercambio de información similares. En el caso del referido Estándar, esta fracción no será aplicable en la medida que el contribuyente haya recibido documentación por parte de un intermediario que demuestre que la información ha sido revelada por dicho intermediario a la autoridad fiscal extranjera de que se trate. Lo dispuesto en esta fracción incluye cuando se utilice una cuenta, producto financiero o inversión que no sea una cuenta financiera para efectos del referido Estándar o cuando se reclasifique una renta o capital en productos no sujetos a intercambio de información. II. Evite la aplicación del artículo [4-B](../../lisr/markdown/articulo-4-B.md) o del Capítulo I, del Título VI, de la Ley del Impuesto sobre la Renta.
+I. Evite que autoridades extranjeras intercambien información fiscal o financiera con las autoridades fiscales mexicanas, incluyendo por la aplicación del Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal, a que se refiere la recomendación adoptada por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos el 15 de julio de 2014, así como otras formas de intercambio de información similares. En el caso del referido Estándar, esta fracción no será aplicable en la medida que el contribuyente haya recibido documentación por parte de un intermediario que demuestre que la información ha sido revelada por dicho intermediario a la autoridad fiscal extranjera de que se trate. Lo dispuesto en esta fracción incluye cuando se utilice una cuenta, producto financiero o inversión que no sea una cuenta financiera para efectos del referido Estándar o cuando se reclasifique una renta o capital en productos no sujetos a intercambio de información.
+
+II. Evite la aplicación del artículo [4-B](../../lisr/markdown/articulo-4-B.md) o del Capítulo I, del Título VI, de la Ley del Impuesto sobre la Renta.
 
 III. Consista en uno o más actos jurídicos que permitan transmitir pérdidas fiscales pendientes de disminuir de utilidades fiscales, a personas distintas de las que las generaron.
 
@@ -39,7 +41,9 @@ d) No existan comparables fiables, por ser operaciones que involucran funciones 
 
 e) Se utilice un régimen de protección unilateral concedido en términos de una legislación extranjera de conformidad con las Guías sobre Precios de Transferencia para las Empresas Multinacionales y las Administraciones Fiscales, aprobadas por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos en 1995, o aquéllas que las sustituyan.
 
-VII. Se evite constituir un establecimiento permanente en México en términos de la Ley del Impuesto sobre la Renta y los tratados para evitar la doble tributación suscritos por México. VIII. Involucre la transmisión de un activo depreciado total o parcialmente, que permita su depreciación por otra parte relacionada.
+VII. Se evite constituir un establecimiento permanente en México en términos de la Ley del Impuesto sobre la Renta y los tratados para evitar la doble tributación suscritos por México.
+
+VIII. Involucre la transmisión de un activo depreciado total o parcialmente, que permita su depreciación por otra parte relacionada.
 
 IX. Cuando involucre un mecanismo híbrido definido de conformidad con la fracción XXIII del artículo [28](../../lisr/markdown/articulo-28.md) de la Ley del Impuesto sobre la Renta.
 

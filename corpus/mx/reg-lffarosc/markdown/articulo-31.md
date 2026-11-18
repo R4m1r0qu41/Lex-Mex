@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["REG-LFFAROSC — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf
 source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 ---
@@ -25,6 +25,8 @@ II. Emitir y publicar los formatos que le corresponden en los términos del pres
 
 III. Establecer y mantener actualizado el [Sistema de Información](articulo-2.md);
 
-IV. Requerir información a las Dependencias o Entidades que realicen acciones de fomento en favor de las Organizaciones con inscripción vigente en el Registro; V. Atender las solicitudes de información de los sectores público, social y privado, de conformidad con las disposiciones aplicables, y
+IV. Requerir información a las Dependencias o Entidades que realicen acciones de fomento en favor de las Organizaciones con inscripción vigente en el Registro;
+
+V. Atender las solicitudes de información de los sectores público, social y privado, de conformidad con las disposiciones aplicables, y
 
 VI. Informar los servicios y los horarios de atención de los módulos, a través de la página electrónica.

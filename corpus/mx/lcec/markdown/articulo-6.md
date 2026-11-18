@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LCEC — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -19,7 +19,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 La [Secretaría](articulo-2.md) tendrá las siguientes atribuciones y facultades:
 
-I. Autorizar, previa opinión de la [Confederación](articulo-2.md) correspondiente, la constitución de nuevas Cámaras;
+I. Autorizar, previa opinión de la [Confederación](articulo-2.md) correspondiente, la constitución de nuevas [Cámaras](articulo-2.md);
 
 II. Registrar las delegaciones de las Cámaras;
 

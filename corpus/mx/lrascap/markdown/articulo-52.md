@@ -17,7 +17,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 # Artículo 52
 
-El [Comité de Supervisión Auxiliar](articulo-2.md) y las oficinas regionales del [Fondo de Protección](articulo-2.md), de manera indistinta, ejercerán las funciones siguientes: I. Llevar el registro de Sociedades Cooperativas de Ahorro y Préstamo a que se refiere el Artículo [7](articulo-7.md) de esta Ley.
+El [Comité de Supervisión Auxiliar](articulo-2.md) y las oficinas regionales del [Fondo de Protección](articulo-2.md), de manera indistinta, ejercerán las funciones siguientes:
+
+I. Llevar el registro de Sociedades Cooperativas de Ahorro y Préstamo a que se refiere el Artículo [7](articulo-7.md) de esta Ley.
 
 II. Efectuar la revisión del cumplimiento de los requisitos del registro mediante la evaluación de los estados financieros de las Sociedades Cooperativas de Ahorro y Préstamo, lo que podrá realizarse en las instalaciones de estas en caso de que dicho Comité presuma la existencia de irregularidades.
 

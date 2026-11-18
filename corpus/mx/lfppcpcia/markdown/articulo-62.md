@@ -7,8 +7,8 @@ provision_type: article
 number: "62"
 aliases: ["LFPPCPCIA — Artículo 62"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf
 source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 ---
@@ -17,7 +17,9 @@ source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 
 # Artículo 62
 
-El procedimiento de queja puede instaurarse en contra de: I. Personas físicas y morales constituidas conforme a las leyes mexicanas, así como empresas constituidas en otros países;
+El procedimiento de queja puede instaurarse en contra de:
+
+I. Personas físicas y morales constituidas conforme a las leyes mexicanas, así como empresas constituidas en otros países;
 
 II. Entidades públicas, en cualquier orden o ámbito de gobierno;
 

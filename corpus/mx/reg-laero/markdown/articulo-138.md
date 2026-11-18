@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 138
 
@@ -21,9 +23,7 @@ I. Dentro de los 2 días hábiles siguientes a que se reciba la solicitud, la Se
 
 a) Resolver la solicitud en sentido negativo, cuando sea improcedente, o
 
-b) Prevenir al solicitante por una sola vez para que aclare, complete o corrija su solicitud, si no reúne los requisitos previstos en el [artículo anterior](articulo-137.md). En este supuesto, el solicitante deberá ajustar y presentar a la Secretaría lo procedente, dentro de los 5 días hábiles siguientes a que se le notifique la prevención.
-
-La Secretaría notificará al solicitante, en su caso, la resolución negativa o prevención citadas, dentro de los cinco días hábiles siguientes a la fecha de resolución.
+b) Prevenir al solicitante por una sola vez para que aclare, complete o corrija su solicitud, si no reúne los requisitos previstos en el [artículo anterior](articulo-137.md). En este supuesto, el solicitante deberá ajustar y presentar a la Secretaría lo procedente, dentro de los 5 días hábiles siguientes a que se le notifique la prevención. La Secretaría notificará al solicitante, en su caso, la resolución negativa o prevención citadas, dentro de los cinco días hábiles siguientes a la fecha de resolución.
 
 Si la Secretaría no emite resolución alguna en los términos antes señalados o dentro de los cinco días hábiles siguientes a que reciba el desahogo de la prevención, la solicitud se tendrá por admitida;
 

@@ -25,7 +25,9 @@ II. Estar presentes en el proceso, en sala distinta a la que se encuentre el inc
 
 III. Obtener la información que se requiera de las autoridades competentes;
 
-IV. Solicitar y recibir asesoría por parte de autoridades competentes, en los términos del párrafo segundo de la fracción V del artículo [62](articulo-62.md) de la presente Ley, proporcionada por experto en la materia, quien deberá mantenerlas informadas sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que tienen derecho; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS V. Solicitar medidas precautorias o cautelares para la seguridad y protección de las víctimas, ofendidos y testigos, en los términos del párrafo segundo de la fracción V del artículo [62](articulo-62.md) de la presente Ley, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
+IV. Solicitar y recibir asesoría por parte de autoridades competentes, en los términos del párrafo segundo de la fracción V del artículo [62](articulo-62.md) de la presente Ley, proporcionada por experto en la materia, quien deberá mantenerlas informadas sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que tienen derecho;
+
+V. Solicitar medidas precautorias o cautelares para la seguridad y protección de las víctimas, ofendidos y testigos, en los términos del párrafo segundo de la fracción V del artículo [62](articulo-62.md) de la presente Ley, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
 
 VI. Requerir al juez que al emitir una sentencia condenatoria, en la misma se sentencie a la reparación del daño a favor de la víctima;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["LOPGJDF — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -29,7 +29,9 @@ IV. Abstenerse de solicitar una contraprestación, dádiva o gratificación para
 
 V. Ratificar o rectificar en su caso, los informes o dictámenes que sean impugnados;
 
-VI. Aclarar o ampliar los dictámenes o informes que le solicite el Ministerio Público; VII. Recibir y atender los llamados del Ministerio Público, en los que solicite su intervención;
+VI. Aclarar o ampliar los dictámenes o informes que le solicite el Ministerio Público;
+
+VII. Recibir y atender los llamados del Ministerio Público, en los que solicite su intervención;
 
 VIII. Abstenerse de intervenir en asuntos que no sean de su especialidad;
 

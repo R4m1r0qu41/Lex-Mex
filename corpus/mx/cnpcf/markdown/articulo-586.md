@@ -23,7 +23,9 @@ Una vez realizadas las entrevistas la persona facilitadora informará en el plaz
 
 En caso de que las partes, asistidas de la persona facilitadora, diseñen un plan de reparación del daño, deberá de observar lo siguiente:
 
-I. De ninguna manera podrá pactarse la renuncia de los derechos de niñas, niños o adolescentes; II. En asuntos en los que existan datos de la existencia de conductas de violencia, queda prohibido convenir el mero pago de obligaciones pecuniarias como forma de reparación del daño, y
+I. De ninguna manera podrá pactarse la renuncia de los derechos de niñas, niños o adolescentes;
+
+II. En asuntos en los que existan datos de la existencia de conductas de violencia, queda prohibido convenir el mero pago de obligaciones pecuniarias como forma de reparación del daño, y
 
 III. No podrán pactarse cláusulas desde una asimetría en las relaciones de poder.
 

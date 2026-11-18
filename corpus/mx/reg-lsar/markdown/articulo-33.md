@@ -29,7 +29,9 @@ III. Tramitar su registro en la Administradora de su elección;
 
 IV. Solicitar información a la Administradora elegida a través de cualquier medio de comunicación disponible, a efecto de que el trabajador cuente con información relacionada con su Cuenta Individual;
 
-V. Celebrar un contrato de administración de fondos para el retiro con la Administradora, donde consten los términos y condiciones sobre los cuales se administrará la Cuenta Individual del mismo, mediante las disposiciones de carácter general que para tal efecto emita la Comisión; VI. Realizar aportaciones voluntarias, de ahorro a largo plazo y en su caso complementarias de retiro a su Cuenta Individual;
+V. Celebrar un contrato de administración de fondos para el retiro con la Administradora, donde consten los términos y condiciones sobre los cuales se administrará la Cuenta Individual del mismo, mediante las disposiciones de carácter general que para tal efecto emita la Comisión;
+
+VI. Realizar aportaciones voluntarias, de ahorro a largo plazo y en su caso complementarias de retiro a su Cuenta Individual;
 
 VII. Designar beneficiarios, para que cuando proceda, éstos dispongan de los recursos acumulados en su Cuenta Individual;
 
@@ -39,7 +41,7 @@ IX. Recibir por lo menos tres veces al año o de forma cuatrimestral, en el domi
 
 X. Solicitar el [Traspaso](articulo-2o.md) de su Cuenta Individual a otra Administradora distinta a la que la venía administrando;
 
-XI. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el trabajador acredite haber sido objeto de un registro o Traspaso Indebido en términos del presente Reglamento;
+XI. Solicitar el resarcimiento de los daños y perjuicios causados, cuando el trabajador acredite haber sido objeto de un registro o [Traspaso Indebido](articulo-2o.md) en términos del presente Reglamento;
 
 XII. Realizar retiros de su Cuenta Individual conforme a lo establecido en la Ley del Seguro Social, la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, la [Ley](articulo-2o.md), este Reglamento y las disposiciones de carácter general que al efecto emita la Comisión;
 

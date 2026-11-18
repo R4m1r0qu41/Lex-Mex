@@ -45,7 +45,9 @@ VII. Los intereses devengados por préstamos o por adquisición, de valores a ca
 
 Se exceptúa de lo previsto en el párrafo anterior a las instituciones de crédito y casas de bolsa, residentes en el país, que realicen pagos de intereses provenientes de operaciones de préstamos de valores o títulos de los mencionados en el párrafo anterior que hubieren celebrado con personas físicas, siempre que dichas operaciones cumplan con los requisitos que al efecto establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
 
-VIII. Las provisiones para la creación o el incremento de reservas complementarias de activo o de pasivo que se constituyan con cargo a las adquisiciones o gastos del ejercicio, con excepción de las relacionadas con las gratificaciones a los trabajadores correspondientes al ejercicio. IX. Las reservas que se creen para indemnizaciones al personal, para pagos de antigüedad o cualquier otra de naturaleza análoga, con excepción de las que se constituyan en los términos de esta Ley.
+VIII. Las provisiones para la creación o el incremento de reservas complementarias de activo o de pasivo que se constituyan con cargo a las adquisiciones o gastos del ejercicio, con excepción de las relacionadas con las gratificaciones a los trabajadores correspondientes al ejercicio.
+
+IX. Las reservas que se creen para indemnizaciones al personal, para pagos de antigüedad o cualquier otra de naturaleza análoga, con excepción de las que se constituyan en los términos de esta Ley.
 
 X. Las primas o sobreprecio sobre el valor nominal que el contribuyente pague por el reembolso de las acciones que emita.
 
@@ -65,7 +67,9 @@ Tratándose de aviones, las pérdidas derivadas de su enajenación, así como po
 
 XV. Los pagos por concepto de impuesto al valor agregado o del impuesto especial sobre producción y servicios, que el contribuyente hubiese efectuado y el que le hubieran trasladado. No se aplicará lo dispuesto en esta fracción, cuando el contribuyente no tenga derecho a acreditar los mencionados impuestos que le hubieran sido trasladados o que hubiese pagado con motivo de la importación de bienes o servicios, que correspondan a gastos o inversiones deducibles en los términos de esta Ley.
 
-Tampoco será deducible el impuesto al valor agregado ni el impuesto especial sobre producción y servicios, que le hubieran trasladado al contribuyente ni el que hubiese pagado con motivo de la importación de bienes o servicios, cuando la erogación que dio origen al traslado o al pago no sea deducible en los términos de esta Ley. XVI. Las pérdidas que deriven de fusión, de reducción de capital o de liquidación de sociedades, en las que el contribuyente hubiera adquirido acciones, partes sociales o certificados de aportación patrimonial de las sociedades nacionales de crédito.
+Tampoco será deducible el impuesto al valor agregado ni el impuesto especial sobre producción y servicios, que le hubieran trasladado al contribuyente ni el que hubiese pagado con motivo de la importación de bienes o servicios, cuando la erogación que dio origen al traslado o al pago no sea deducible en los términos de esta Ley.
+
+XVI. Las pérdidas que deriven de fusión, de reducción de capital o de liquidación de sociedades, en las que el contribuyente hubiera adquirido acciones, partes sociales o certificados de aportación patrimonial de las sociedades nacionales de crédito.
 
 XVII. Las pérdidas que provengan de la enajenación de acciones y de otros títulos valor cuyo rendimiento no sea interés en los términos del artículo [8](articulo-8.md) de esta Ley. Tampoco serán deducibles las pérdidas financieras que provengan de operaciones financieras derivadas de capital referidas a acciones o índices accionarios.
 

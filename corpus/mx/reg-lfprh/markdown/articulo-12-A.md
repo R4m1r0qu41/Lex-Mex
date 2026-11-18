@@ -23,7 +23,9 @@ Asimismo, la compensación de la recaudación de los ingresos a que se refiere e
 
 En el transcurso del ejercicio fiscal se podrán realizar las compensaciones señaladas con los recursos de los fondos a que se refiere el artículo [21](../../lfprh/markdown/articulo-21.md) de la Ley cuando con base en una proyección de las finanzas públicas para el año que elabore la Secretaría, se determine una disminución de los ingresos asociada a las causas señaladas en la Ley.
 
-Las compensaciones con cargo al Fondo de Estabilización de los Ingresos Presupuestarios se realizarán con base en la información preliminar que se presente en los informes trimestrales y a lo siguiente: I. La compensación correspondiente al primer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo;
+Las compensaciones con cargo al Fondo de Estabilización de los Ingresos Presupuestarios se realizarán con base en la información preliminar que se presente en los informes trimestrales y a lo siguiente:
+
+I. La compensación correspondiente al primer trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo;
 
 II. La compensación correspondiente al segundo trimestre será hasta por el equivalente al 75 por ciento de la disminución que corresponda del monto total determinado para dicho periodo, descontando la compensación correspondiente al primer trimestre;
 

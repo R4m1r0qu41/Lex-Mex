@@ -19,7 +19,9 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 El [Instituto](articulo-4.md) contará con los siguientes comités de apoyo:
 
-I. De Operaciones; II. De Crédito;
+I. De Operaciones;
+
+II. De Crédito;
 
 III. De Auditoría, Control y Vigilancia;
 

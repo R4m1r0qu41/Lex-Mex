@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["REG-LAREFAGN — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf
 source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 ---
@@ -31,6 +31,8 @@ V. No presentar las pruebas de la Promoción de que se trate por causas imputabl
 
 VI. Haber renunciado, aplazado, reprobado o no terminar por cualquier motivo imputable a la persona participante el curso de aplicación o perfeccionamiento que estatuya como obligatorio el Plan General de Educación Militar, de conformidad con las causales de baja establecidas en los reglamentos de las instituciones educativas respectivas; Fracción reformada DOF 20-03-2026
 
-VII. No acreditar buena salud; VIII. En los casos del personal especialista, carecer de certificado, título o diploma, para comprobar su carácter de técnico o profesionista, cuando no cuente con escalafón propio, y
+VII. No acreditar buena salud;
 
-IX. En los casos del personal especialista que haya obtenido sus conocimientos empíricamente, no contar con el dictamen aprobatorio o de la acreditación por parte de la [Dirección](articulo-5.md) General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional respecto de sus capacidades y habilidades, con base en el artículo [21](../../larefam/markdown/articulo-21.md) de la Ley. Fracción reformada DOF 20-03-2026
+VIII. En los casos del personal especialista, carecer de certificado, título o diploma, para comprobar su carácter de técnico o profesionista, cuando no cuente con escalafón propio, y
+
+IX. En los casos del personal especialista que haya obtenido sus conocimientos empíricamente, no contar con el dictamen aprobatorio o de la acreditación por parte de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional respecto de sus capacidades y habilidades, con base en el artículo [21](../../larefam/markdown/articulo-21.md) de la Ley. Fracción reformada DOF 20-03-2026

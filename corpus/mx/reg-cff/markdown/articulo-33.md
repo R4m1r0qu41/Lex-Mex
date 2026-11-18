@@ -41,7 +41,9 @@ IX. Las demás declaraciones a que estén obligados en términos de las disposic
 
 B. Los registros o asientos contables deberán:
 
-I. Ser analíticos y efectuarse en el mes en que se realicen las operaciones, actos o actividades a que se refieran, a más tardar dentro de los cinco días siguientes a la realización de la operación, acto o actividad; II. Integrarse en el libro diario, en forma descriptiva, todas las operaciones, actos o actividades siguiendo el orden cronológico en que éstos se efectúen, indicando el movimiento de cargo o abono que a cada una corresponda, así como integrarse los nombres de las cuentas de la contabilidad, su saldo al final del periodo de registro inmediato anterior, el total del movimiento de cargo o abono a cada cuenta en el periodo y su saldo final.
+I. Ser analíticos y efectuarse en el mes en que se realicen las operaciones, actos o actividades a que se refieran, a más tardar dentro de los cinco días siguientes a la realización de la operación, acto o actividad;
+
+II. Integrarse en el libro diario, en forma descriptiva, todas las operaciones, actos o actividades siguiendo el orden cronológico en que éstos se efectúen, indicando el movimiento de cargo o abono que a cada una corresponda, así como integrarse los nombres de las cuentas de la contabilidad, su saldo al final del periodo de registro inmediato anterior, el total del movimiento de cargo o abono a cada cuenta en el periodo y su saldo final.
 
 Podrán llevarse libros diario y mayor por establecimientos o dependencias, por tipos de actividad o por cualquier otra clasificación, pero en todos los casos deberán existir los libros diario y mayor general en los que se concentren todas las operaciones del contribuyente;
 
@@ -65,7 +67,9 @@ XI. Plasmarse en idioma español y consignar los valores en moneda nacional.
 
 Cuando la información de los comprobantes fiscales o de los datos y documentación que integran la contabilidad estén en idioma distinto al español, o los valores se consignen en moneda extranjera, deberán acompañarse de la traducción correspondiente y señalar el tipo de cambio utilizado por cada operación;
 
-XII. Establecer por centro de costos, identificando las operaciones, actos o actividades de cada sucursal o establecimiento, incluyendo aquéllos que se localicen en el extranjero; XIII. Señalar la fecha de realización de la operación, acto o actividad, su descripción o concepto, la cantidad o unidad de medida en su caso, la forma de pago de la operación, acto o actividad, especificando si fue de contado, a crédito, a plazos o en parcialidades, y el medio de pago o de extinción de dicha obligación, según corresponda.
+XII. Establecer por centro de costos, identificando las operaciones, actos o actividades de cada sucursal o establecimiento, incluyendo aquéllos que se localicen en el extranjero;
+
+XIII. Señalar la fecha de realización de la operación, acto o actividad, su descripción o concepto, la cantidad o unidad de medida en su caso, la forma de pago de la operación, acto o actividad, especificando si fue de contado, a crédito, a plazos o en parcialidades, y el medio de pago o de extinción de dicha obligación, según corresponda.
 
 Tratándose de operaciones a crédito, a plazos o en parcialidades, por cada pago o abono que se reciba o se realice, incluyendo el anticipo o enganche según corresponda. Además de lo señalado en el párrafo anterior, deberán registrar el monto del pago, precisando si se efectúa en efectivo, transferencia interbancaria de fondos, cheque nominativo para abono en cuenta, tarjeta de débito, crédito o de servicios, monedero electrónico o por cualquier otro medio. Cuando el pago se realice en especie o permuta, deberá indicarse el tipo de bien o servicio otorgado como contraprestación y su valor;
 

@@ -47,7 +47,9 @@ XI. Si la Sociedad Financiera Popular obra sin autorización de la Comisión, en
 
 XII. Si se disuelve, liquida o quiebra;
 
-XIII. En caso de que no realice 3 pagos correspondientes a las cuotas de supervisión auxiliar y de seguro de depósitos en un plazo de 1 año, y XIV. En cualquier otro establecido por la Ley.
+XIII. En caso de que no realice 3 pagos correspondientes a las cuotas de supervisión auxiliar y de seguro de depósitos en un plazo de 1 año, y
+
+XIV. En cualquier otro establecido por la Ley.
 
 La Comisión otorgará el derecho de audiencia a la Sociedad Financiera Popular interesada, a fin de que dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen. Párrafo adicionado DOF 24-01-2024
 

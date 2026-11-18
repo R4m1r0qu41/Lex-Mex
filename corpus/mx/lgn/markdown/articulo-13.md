@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
 source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo I
 
 # Artículo 13
 
-La Guardia Nacional realizará sus operaciones mediante la estructura siguiente: I. Secretaría de la Defensa Nacional; II. Comandancia; III. Coordinación Territorial; IV. Coordinación Estatal; V. Coordinación de Unidad, y VI. Unidades Circunstanciales. Capítulo II De la [Secretaría](articulo-2.md)
+La Guardia Nacional realizará sus operaciones mediante la estructura siguiente: I. Secretaría de la Defensa Nacional; II. Comandancia;
+
+III. Coordinación Territorial; IV. Coordinación Estatal; V. Coordinación de Unidad, y VI. Unidades Circunstanciales.

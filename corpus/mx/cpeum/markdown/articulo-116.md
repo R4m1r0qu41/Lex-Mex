@@ -10,8 +10,10 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
+
+> **Nota del revisor (JRH):** Artículo vigente a partir del proceso electoral 2028. Fundamento: «Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.»
 
 > Título Quinto
 
@@ -35,7 +37,9 @@ b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier den
 
 c) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura. Inciso adicionado DOF 01-04-2025
 
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa. Párrafo reformado DOF 26-09-2008
+Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa. Párrafo reformado DOF 26-09-2008, 07-10-2026
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas. Párrafo adicionado DOF 07-10-2026
 
 II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
@@ -47,7 +51,9 @@ Corresponde a las legislaturas de los Estados la aprobación anual del presupues
 
 Los poderes estatales Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en sus constituciones locales, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos de los Estados, establezcan las disposiciones constitucionales y legales aplicables. Párrafo adicionado DOF 24-08-2009
 
-Las legislaturas de los estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de Estados y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de las entidades estatales de fiscalización tendrán carácter público. Párrafo adicionado DOF 07-05-2008. Reformado DOF 26-05-2015, 27-05-2015 El titular de la entidad de fiscalización de las entidades federativas será electo por las dos terceras partes de los miembros presentes en las legislaturas locales, por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Párrafo adicionado DOF 07-05-2008
+Las legislaturas de los estados contarán con entidades estatales de fiscalización, las cuales serán órganos con autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan sus leyes. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de Estados y Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de las entidades estatales de fiscalización tendrán carácter público. Párrafo adicionado DOF 07-05-2008. Reformado DOF 26-05-2015, 27-05-2015
+
+El titular de la entidad de fiscalización de las entidades federativas será electo por las dos terceras partes de los miembros presentes en las legislaturas locales, por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Párrafo adicionado DOF 07-05-2008
 
 La cuenta pública del año anterior deberá ser enviada a la Legislatura del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura. Párrafo adicionado DOF 27-05-2015
 
@@ -63,7 +69,9 @@ Las propuestas de candidaturas y la elección de los magistrados, magistradas, j
 
 a) El establecimiento de mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de todas las personas interesadas;
 
-b) La integración por cada poder local de Comités de Evaluación que, a través de criterios y metodologías homologadas de evaluación y selección, verifiquen el cumplimiento de los requisitos constitucionales y legales de las personas participantes y seleccionen a las cuatro personas mejor evaluadas para cada cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica; c) La depuración por parte de cada Comité de Evaluación del listado de las personas mejor evaluadas mediante insaculación pública, así como la postulación por cada poder estatal de dos candidaturas para cada especialidad sujeta a elección, observando la paridad de género, y
+b) La integración por cada poder local de Comités de Evaluación que, a través de criterios y metodologías homologadas de evaluación y selección, verifiquen el cumplimiento de los requisitos constitucionales y legales de las personas participantes y seleccionen a las cuatro personas mejor evaluadas para cada cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+
+c) La depuración por parte de cada Comité de Evaluación del listado de las personas mejor evaluadas mediante insaculación pública, así como la postulación por cada poder estatal de dos candidaturas para cada especialidad sujeta a elección, observando la paridad de género, y
 
 d) La evaluación del desempeño de las personas juzgadoras que resulten electas durante su primer año de ejercicio, así como de su capacitación y actualización permanente por parte del Tribunal de Disciplina Judicial local. Párrafo reformado DOF 15-09-2024. Reformado con incisos DOF 02-06-2026
 
@@ -87,9 +95,7 @@ c) Las autoridades que tengan a su cargo la organización de las elecciones y la
 
 4o. Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-5o. Las autoridades electorales jurisdiccionales se integrarán por un número impar de magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
-
-6o. Los organismos públicos locales electorales contarán con servidores públicos investidos de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+5o. Las autoridades electorales jurisdiccionales se integrarán por un número impar de magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley. 6o. Los organismos públicos locales electorales contarán con servidores públicos investidos de fé pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
 7o. Las impugnaciones en contra de los actos que, conforme a la base V del artículo [41](articulo-41.md) de esta Constitución, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley. Inciso reformado DOF 10-02-2014
 
@@ -97,7 +103,9 @@ d) Las autoridades electorales competentes de carácter administrativo puedan co
 
 e) Los partidos políticos sólo se constituyan por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo tengan reconocido el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo [2](articulo-2o.md)°., apartado A, fracciones III y VII, de esta Constitución. Inciso reformado DOF 27-12-2013
 
-f) Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen; El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales; Párrafo adicionado DOF 10-02-2014
+f) Las autoridades electorales solamente puedan intervenir en los asuntos internos de los partidos en los términos que expresamente señalen;
+
+El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales; Párrafo adicionado DOF 10-02-2014
 
 g) Los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes;
 
@@ -117,9 +125,7 @@ n) Se verifique, al menos, una elección local en la misma fecha en que tenga lu
 
 o) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse. Inciso recorrido DOF 10-02-2014
 
-p) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo [35](articulo-35.md) de esta Constitución. Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014
-
-Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
+p) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo [35](articulo-35.md) de esta Constitución. Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014 Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
 
 V. Las Constituciones y leyes de los Estados deberán instituir Tribunales de Justicia Administrativa, dotados de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Los Tribunales tendrán a su cargo dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
@@ -127,9 +133,7 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 VI. Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y Fracción recorrida y reformada DOF 22-08-1996
 
-VII. La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
-
-Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior. Fracción recorrida DOF 22-08-1996
+VII. La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior. Fracción recorrida DOF 22-08-1996
 
 VIII. Las Constituciones de los Estados en términos de la ley general, definirán la competencia de los órganos encargados de la contraloría u homólogos de los poderes ejecutivo, legislativo y judicial y demás sujetos obligados responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo [6](articulo-6o.md)o. de esta Constitución y la ley general que emita el Congreso de la Unión para establecer las bases, principios generales y procedimientos del ejercicio de este derecho. Fracción adicionada DOF 07-02-2014. Reformada DOF 20-12-2024
 

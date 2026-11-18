@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["REG-LGPSACDII — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -17,7 +17,7 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 41
 
-La Autorización relativa a cada Centro de Atención, se emitirá por la [Autoridad Competente](articulo-3.md) que regule la Modalidad y [Modelo de Atención](articulo-3.md), de conformidad a lo señalado en el artículo [50](../../lgpsacdii/markdown/articulo-50.md) de la Ley, y las demás disposiciones jurídicas aplicables.
+La [Autorización](articulo-3.md) relativa a cada Centro de Atención, se emitirá por la [Autoridad Competente](articulo-3.md) que regule la Modalidad y [Modelo de Atención](articulo-3.md), de conformidad a lo señalado en el artículo [50](../../lgpsacdii/markdown/articulo-50.md) de la Ley, y las demás disposiciones jurídicas aplicables.
 
 Dicha Autorización se otorgará en los siguientes casos:
 

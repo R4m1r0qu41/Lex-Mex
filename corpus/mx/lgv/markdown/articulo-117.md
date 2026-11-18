@@ -7,8 +7,8 @@ provision_type: article
 number: "117"
 aliases: ["LGV — Artículo 117"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -35,6 +35,6 @@ VII. Promover la cultura de respeto a los derechos humanos de las víctimas y ga
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
-IX. Las demás previstas para el cumplimiento de la presente Ley, y las normas reglamentarias aplicables.
+IX. Las demás previstas para el cumplimiento de la presente [Ley](articulo-6.md), y las normas reglamentarias aplicables.
 
 Artículo reformado DOF 03-05-2013

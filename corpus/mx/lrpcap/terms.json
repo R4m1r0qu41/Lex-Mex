@@ -29,7 +29,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "III",
     "start_char": 595,
-    "end_char": 953,
+    "end_char": 878,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "IV",
+    "start_char": 878,
+    "end_char": 954,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "V",
-    "start_char": 953,
-    "end_char": 1052,
+    "start_char": 954,
+    "end_char": 1053,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "VI",
-    "start_char": 1052,
-    "end_char": 1285,
+    "start_char": 1053,
+    "end_char": 1286,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "VII",
-    "start_char": 1285,
-    "end_char": 1664,
+    "start_char": 1286,
+    "end_char": 1665,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "VIII",
-    "start_char": 1664,
-    "end_char": 1897,
+    "start_char": 1665,
+    "end_char": 1898,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "IX",
-    "start_char": 1897,
-    "end_char": 2010,
+    "start_char": 1898,
+    "end_char": 2011,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "X",
-    "start_char": 2010,
-    "end_char": 2053,
+    "start_char": 2011,
+    "end_char": 2054,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XI",
-    "start_char": 2053,
-    "end_char": 2293,
+    "start_char": 2054,
+    "end_char": 2294,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XII",
-    "start_char": 2293,
-    "end_char": 2479,
+    "start_char": 2294,
+    "end_char": 2480,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XIII",
-    "start_char": 2479,
-    "end_char": 2887,
+    "start_char": 2480,
+    "end_char": 2888,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XIV",
-    "start_char": 2887,
-    "end_char": 3319,
+    "start_char": 2888,
+    "end_char": 3320,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XV",
-    "start_char": 3319,
-    "end_char": 3747,
+    "start_char": 3320,
+    "end_char": 3748,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "fraction": "XVI",
-    "start_char": 3747,
-    "end_char": 4160,
+    "start_char": 3748,
+    "end_char": 4161,
     "basis": "express_definition"
   }
 ]

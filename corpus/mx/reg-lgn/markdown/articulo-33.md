@@ -39,7 +39,9 @@ IX. Diseñar, integrar y proponer sistemas y mecanismos de análisis de la infor
 
 X. Recabar la información necesaria para operar tareas de inteligencia en materia de seguridad pública, en el ámbito de su competencia;
 
-XI. Planear y recopilar, en el ámbito de su competencia, la información que se genere en materia de seguridad pública para su análisis y explotación; XII. Detectar los factores que incidan en las amenazas o en los riesgos que atenten contra la preservación de las libertades de la población, el orden y la paz públicos y proponer medidas para su prevención, disuasión, contención y desactivación;
+XI. Planear y recopilar, en el ámbito de su competencia, la información que se genere en materia de seguridad pública para su análisis y explotación;
+
+XII. Detectar los factores que incidan en las amenazas o en los riesgos que atenten contra la preservación de las libertades de la población, el orden y la paz públicos y proponer medidas para su prevención, disuasión, contención y desactivación;
 
 XIII. Entregar al [Comandante](articulo-2.md) una agenda de riesgo que se deriven del análisis y valoración de la información que haya obtenido;
 
@@ -65,7 +67,9 @@ XXIII. Verificar la información de las denuncias presentadas ante la Instituci�
 
 XXIV. Proponer al [Ministerio Público](articulo-2.md), para fines de la investigación, que requiera a las autoridades competentes, informes y documentos, cuando se trate de aquéllos que sólo pueda solicitar por conducto de éste;
 
-XXV. Reservar la información que ponga en riesgo alguna investigación, conforme a las disposiciones jurídicas aplicables; XXVI. Integrar y operar las bases de datos del Sistema Nacional de Información en el ámbito de sus atribuciones;
+XXV. Reservar la información que ponga en riesgo alguna investigación, conforme a las disposiciones jurídicas aplicables;
+
+XXVI. Integrar y operar las bases de datos del [Sistema](articulo-2.md) Nacional de Información en el ámbito de sus atribuciones;
 
 XXVII. Diseñar, dirigir, coordinar y operar sistemas de recolección, clasificación, registro, análisis, explotación y evaluación de información para generar inteligencia operacional, prevenir, y, en el ámbito de su competencia, investigar, perseguir y combatir delitos; así como, conformar una base de datos que sustente el desarrollo de programas y estrategias que sirvan para la toma de decisiones, la instrumentación y la conducción de operativos;
 
@@ -117,7 +121,9 @@ XLVI. Solicitar el intercambio de información policial tendiente a la localizac
 
 XLVII. Coordinar la realización de las acciones policiales correspondientes para el traslado de prófugos respecto de los cuales se haya concedido su extradición;
 
-XLVIII. Colaborar con las instituciones policiales de la Federación, de las entidades federativas y de los municipios, respecto del cumplimiento de los compromisos de carácter internacional en materia de asuntos policiales internacionales; XLIX. Supervisar, en el ámbito de su competencia, la actualización de los bancos de datos relacionados con la información criminal policial de carácter internacional;
+XLVIII. Colaborar con las instituciones policiales de la Federación, de las entidades federativas y de los municipios, respecto del cumplimiento de los compromisos de carácter internacional en materia de asuntos policiales internacionales;
+
+XLIX. Supervisar, en el ámbito de su competencia, la actualización de los bancos de datos relacionados con la información criminal policial de carácter internacional;
 
 L. Realizar acciones para la prevención y combate de los delitos, en términos de las disposiciones jurídicas aplicables, y
 

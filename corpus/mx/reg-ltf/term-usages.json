@@ -577,12 +577,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:38:term-usage:697-711",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:38:term-usage:698-712",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 697,
-    "end_char": 711
+    "start_char": 698,
+    "end_char": 712
   },
   {
     "schema_version": "0.1.0",
@@ -631,12 +631,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:41:term-usage:2265-2268",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:41:term-usage:2266-2269",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 2265,
-    "end_char": 2268
+    "start_char": 2266,
+    "end_char": 2269
   },
   {
     "schema_version": "0.1.0",
@@ -928,12 +928,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:86:term-usage:3206-3209",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:86:term-usage:3207-3210",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:86",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 3206,
-    "end_char": 3209
+    "start_char": 3207,
+    "end_char": 3210
   },
   {
     "schema_version": "0.1.0",
@@ -991,102 +991,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:1441-1493",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:1442-1494",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 1441,
-    "end_char": 1493
+    "start_char": 1442,
+    "end_char": 1494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2043-2095",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2044-2096",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 2043,
-    "end_char": 2095
+    "start_char": 2044,
+    "end_char": 2096
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2642-2694",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2643-2695",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 2642,
-    "end_char": 2694
+    "start_char": 2643,
+    "end_char": 2695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2906-2958",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:2907-2959",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 2906,
-    "end_char": 2958
+    "start_char": 2907,
+    "end_char": 2959
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:3834-3886",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:3835-3887",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 3834,
-    "end_char": 3886
+    "start_char": 3835,
+    "end_char": 3887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4488-4540",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4489-4541",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 4488,
-    "end_char": 4540
+    "start_char": 4489,
+    "end_char": 4541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4878-4896",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4879-4897",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:recursos-y-valores",
     "span": "Recursos y Valores",
-    "start_char": 4878,
-    "end_char": 4896
+    "start_char": 4879,
+    "end_char": 4897
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4947-4999",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:4948-5000",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 4947,
-    "end_char": 4999
+    "start_char": 4948,
+    "end_char": 5000
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:5597-5649",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:5598-5650",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 5597,
-    "end_char": 5649
+    "start_char": 5598,
+    "end_char": 5650
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:6932-6984",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:6933-6985",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 6932,
-    "end_char": 6984
+    "start_char": 6933,
+    "end_char": 6985
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:7561-7613",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:91:term-usage:7562-7614",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 7561,
-    "end_char": 7613
+    "start_char": 7562,
+    "end_char": 7614
   },
   {
     "schema_version": "0.1.0",
@@ -1261,12 +1261,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:98:term-usage:259-311",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:98:term-usage:260-312",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:98",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:personal-de-vigilancia-de-las-funciones-de-tesoreria",
     "span": "Personal de Vigilancia de las Funciones de tesorería",
-    "start_char": 259,
-    "end_char": 311
+    "start_char": 260,
+    "end_char": 312
   },
   {
     "schema_version": "0.1.0",
@@ -1306,48 +1306,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:352-355",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:353-356",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:105",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 352,
-    "end_char": 355
+    "start_char": 353,
+    "end_char": 356
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:750-753",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:751-754",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:105",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 750,
-    "end_char": 753
+    "start_char": 751,
+    "end_char": 754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:841-844",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:842-845",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:105",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 841,
-    "end_char": 844
+    "start_char": 842,
+    "end_char": 845
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:1075-1078",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:1076-1079",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:105",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 1075,
-    "end_char": 1078
+    "start_char": 1076,
+    "end_char": 1079
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:1194-1197",
+    "id": "urn:lex-mx:federal:regulation:reg-ltf:article:105:term-usage:1195-1198",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ltf:article:105",
     "term_id": "urn:lex-mx:federal:regulation:reg-ltf:term:ley",
     "span": "Ley",
-    "start_char": 1194,
-    "end_char": 1197
+    "start_char": 1195,
+    "end_char": 1198
   },
   {
     "schema_version": "0.1.0",

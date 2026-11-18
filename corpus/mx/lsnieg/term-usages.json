@@ -829,12 +829,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:824-835",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:825-836",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:36",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
     "span": "Información",
-    "start_char": 824,
-    "end_char": 835
+    "start_char": 825,
+    "end_char": 836
   },
   {
     "schema_version": "0.1.0",
@@ -1405,30 +1405,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:410-427",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:411-428",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 410,
-    "end_char": 427
+    "start_char": 411,
+    "end_char": 428
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:752-769",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:753-770",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 752,
-    "end_char": 769
+    "start_char": 753,
+    "end_char": 770
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:1212-1229",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:1213-1230",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 1212,
-    "end_char": 1229
+    "start_char": 1213,
+    "end_char": 1230
   },
   {
     "schema_version": "0.1.0",
@@ -1603,12 +1603,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:3243-3260",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:3244-3261",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 3243,
-    "end_char": 3260
+    "start_char": 3244,
+    "end_char": 3261
   },
   {
     "schema_version": "0.1.0",
@@ -1801,30 +1801,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:1361-1378",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:1362-1379",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 1361,
-    "end_char": 1378
+    "start_char": 1362,
+    "end_char": 1379
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3598-3615",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3599-3616",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 3598,
-    "end_char": 3615
+    "start_char": 3599,
+    "end_char": 3616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3790-3807",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3791-3808",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
     "span": "Junta de Gobierno",
-    "start_char": 3790,
-    "end_char": 3807
+    "start_char": 3791,
+    "end_char": 3808
   },
   {
     "schema_version": "0.1.0",

@@ -27,7 +27,9 @@ II. La [Secretaría competente](articulo-2.md) que haya promovido el Acuerdo par
 
 III. La SEMARNAT, para efectos de la información prevista en la fracción III, inciso b), del [artículo anterior](articulo-51.md), y deberá hacerlo dentro de los cinco días hábiles siguientes a que se haya creado un área natural protegida de carácter federal;
 
-IV. La SAGARPA, para efectos de la información referente al inciso d) de la fracción III del [artículo anterior](articulo-51.md), dentro de los cinco días hábiles siguientes a que se haya creado una zona libre de OGMs; V. Las dependencias y entidades de la administración pública federal y los institutos de investigación nacionales y las personas que desarrollen biotecnología, que generen documentos relevantes sobre biotecnología,
+IV. La SAGARPA, para efectos de la información referente al inciso d) de la fracción III del [artículo anterior](articulo-51.md), dentro de los cinco días hábiles siguientes a que se haya creado una zona libre de OGMs;
+
+V. Las dependencias y entidades de la administración pública federal y los institutos de investigación nacionales y las personas que desarrollen biotecnología, que generen documentos relevantes sobre biotecnología,
 
 VI. La Secretaría competente que admita una solicitud de permiso, para efectos de la fracción VI del [artículo anterior](articulo-51.md), y
 

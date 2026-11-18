@@ -7,8 +7,8 @@ provision_type: article
 number: "38"
 aliases: ["REG-LGEEPA-MOE — Artículo 38"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf
 source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 ---

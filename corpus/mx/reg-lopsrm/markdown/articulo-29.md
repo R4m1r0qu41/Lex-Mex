@@ -23,4 +23,6 @@ I. Una síntesis sobre la conclusión y los resultados generales de las contrata
 
 II. Un reporte del avance físico y financiero de cada uno de los contratos formalizados, que contenga además: número de contrato; tipo de obra; lugar en el que se realiza; monto contratado incluyendo convenios modificatorios; monto estimado a la terminación de los trabajos; fecha de terminación estipulada originalmente en el contrato, y fecha estimada de conclusión de los trabajos;
 
-III. Una relación de las inconformidades presentadas, precisando los argumentos expresados por los inconformes y, en su caso, el sentido de la resolución emitida, y IV. Una relación de los contratos que hayan sido rescindidos, concluidos anticipadamente o suspendidos temporalmente, así como de los contratos que, en su caso, se encuentren terminados sin que se hayan finiquitado y extinguido los derechos y obligaciones de las partes.
+III. Una relación de las inconformidades presentadas, precisando los argumentos expresados por los inconformes y, en su caso, el sentido de la resolución emitida, y
+
+IV. Una relación de los contratos que hayan sido rescindidos, concluidos anticipadamente o suspendidos temporalmente, así como de los contratos que, en su caso, se encuentren terminados sin que se hayan finiquitado y extinguido los derechos y obligaciones de las partes.

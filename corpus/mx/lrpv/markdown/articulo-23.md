@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LRPV — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf
 source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 ---
@@ -35,7 +35,9 @@ IV.- Las instituciones de fianzas, los relativos a:
 
 a).- Expedición y número de fianza, tratándose de importación temporal de vehículos, incluyendo el nombre de la institución, y
 
-b).- Cancelación de la fianza y causa de la misma; V.- Las instituciones de crédito, organizaciones auxiliares del crédito y demás entidades financieras y comercializadoras, cuando los créditos que otorguen sean garantizados con vehículos, el aviso de gravamen o cancelación del mismo.
+b).- Cancelación de la fianza y causa de la misma;
+
+V.- Las instituciones de crédito, organizaciones auxiliares del crédito y demás entidades financieras y comercializadoras, cuando los créditos que otorguen sean garantizados con vehículos, el aviso de gravamen o cancelación del mismo.
 
 Los avisos a que se refiere esta fracción y los previstos sobre gravámenes, se harán sin perjuicio de lo dispuesto en la legislación mercantil en vigor;
 

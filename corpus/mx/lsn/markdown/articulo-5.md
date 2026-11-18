@@ -43,4 +43,6 @@ XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o cont
 
 XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y Fracción reformada DOF 08-11-2019
 
-XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo [167](../../cnpp/markdown/articulo-167.md) del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
+XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo [167](../../cnpp/markdown/articulo-167.md) del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019
+
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025

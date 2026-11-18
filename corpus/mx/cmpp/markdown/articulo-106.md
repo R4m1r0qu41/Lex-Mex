@@ -69,6 +69,8 @@ XXIV. A que se le repare el daño causado por la comisión del delito, pudiendo 
 
 XXV. Al resguardo de su identidad y demás datos personales o cuando a juicio del Órgano jurisdiccional militar sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
-XXVI. A ser notificado del desistimiento de la acción penal y de todas las resoluciones que finalicen el procedimiento, de conformidad con las reglas que establece este Código. XXVII. A solicitar la reapertura del proceso cuando se haya decretado su suspensión.
+XXVI. A ser notificado del desistimiento de la acción penal y de todas las resoluciones que finalicen el procedimiento, de conformidad con las reglas que establece este Código.
+
+XXVII. A solicitar la reapertura del proceso cuando se haya decretado su suspensión.
 
 XXVIII. Los demás que establezcan este Código y otras leyes aplicables.

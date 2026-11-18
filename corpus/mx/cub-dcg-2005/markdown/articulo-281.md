@@ -11,7 +11,7 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [1,2]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo VII
@@ -26,7 +26,7 @@ El fideicomiso de que se trata tendrá carácter irrevocable, mientras existan e
 
 El contrato constitutivo del fideicomiso a que se refiere el presente artículo, deberá prever el establecimiento de un comité técnico integrado, al menos, por las personas que a continuación se indican, las cuales deberán contar con la experiencia y capacidad técnica necesaria para tomar decisiones en materia de inversiones:
 
-I. Un consejero independiente de la Institución o una persona que siendo o no consejero, reúna los requisitos de independencia que se establezcan en la Ley o en las leyes orgánicas de las instituciones de banca de desarrollo, según se trate, para aquellos consejeros que deban considerarse como independientes, y que en cualquier caso sea nombrada al efecto por el Consejo como su delegado;
+I. Un consejero independiente de la Institución o una persona que siendo o no consejero, reúna los requisitos de independencia que se establezcan en la [Ley](articulo-1.md) o en las leyes orgánicas de las instituciones de banca de desarrollo, según se trate, para aquellos consejeros que deban considerarse como independientes, y que en cualquier caso sea nombrada al efecto por el [Consejo](articulo-1.md) como su delegado;
 
 II. Un representante de los empleados de la propia Institución, y
 

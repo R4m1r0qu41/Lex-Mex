@@ -63,7 +63,9 @@ En los casos a que se refiere el párrafo anterior, cuando el contribuyente, el 
 
 Tratándose de los supuestos a que se refieren los incisos b) y d) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, así como sobre los envases o recipientes que contengan las bebidas alcohólicas que no tengan adheridos marbetes o precintos, o bien, teniéndolos adheridos éstos sean falsos o se encuentren alterados y sobre los marbetes o precintos respecto de los cuales no se acredite su legal posesión o tenencia, según corresponda, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
 
-En los casos a que se refiere el párrafo anterior, se levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se entregará a la persona con quien se entienda la visita. IV. El aseguramiento de los bienes a que se refiere el inciso a) de la fracción III de este artículo, se realizará conforme a lo siguiente:
+En los casos a que se refiere el párrafo anterior, se levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se entregará a la persona con quien se entienda la visita.
+
+IV. El aseguramiento de los bienes a que se refiere el inciso a) de la fracción III de este artículo, se realizará conforme a lo siguiente:
 
 La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
 
@@ -79,7 +81,9 @@ En los casos en que la entidad financiera o sociedad cooperativa de ahorro y pr�
 
 Las entidades financieras y las sociedades cooperativas de ahorro y préstamo en ningún caso podrán negar al contribuyente la información acerca de la autoridad fiscal que ordenó el aseguramiento.
 
-V. Los bienes o la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, quedan asegurados desde el momento en que se practique el aseguramiento precautorio, incluso cuando posteriormente se ordenen, anoten o inscriban ante otras instituciones, organismos, registros o terceros. VI. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado que se llevó a cabo el aseguramiento precautorio de sus bienes o negociación, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación a que se refiere esta fracción, deberá efectuarse en términos de lo dispuesto en el artículo [134](articulo-134.md) de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya llevado a cabo.
+V. Los bienes o la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, quedan asegurados desde el momento en que se practique el aseguramiento precautorio, incluso cuando posteriormente se ordenen, anoten o inscriban ante otras instituciones, organismos, registros o terceros.
+
+VI. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado que se llevó a cabo el aseguramiento precautorio de sus bienes o negociación, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación a que se refiere esta fracción, deberá efectuarse en términos de lo dispuesto en el artículo [134](articulo-134.md) de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya llevado a cabo.
 
 En el caso de los bienes a que se refiere el inciso a) de la fracción III de este artículo, el plazo para notificar el aseguramiento al contribuyente, responsable solidario o tercero con ellos relacionado, se computará a partir de la fecha en que la comisión de que se trate, o bien, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, hayan proporcionado a la autoridad fiscal la información a que se refieren los párrafos quinto y séptimo de la fracción IV de este artículo.
 

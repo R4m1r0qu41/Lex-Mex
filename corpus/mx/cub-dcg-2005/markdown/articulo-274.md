@@ -9,9 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 274"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [60]
+amendment_marks: [60,264]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
@@ -20,9 +20,9 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Instituciones deberán contar con registros diarios de cuando menos, los listados siguientes:
 
-I. Órdenes de compra o de venta, en que se consignen el número de folio consecutivo, la hora de recepción por parte del Apoderado y de la mesa de control y las características de cada operación.
+I. Órdenes de compra o de venta, en que se consignen el número de folio consecutivo, la hora de recepción por parte del [Apoderado](articulo-1.md) y de la mesa de control y las características de cada operación.
 
-(264) II. Operaciones realizadas en las Bolsas, con los datos de identificación, clasificadas por emisora.
+II. Operaciones realizadas en las [Bolsas](articulo-1.md), con los datos de identificación, clasificadas por emisora.
 
 III. Asignación por emisora, identificando lo que corresponde a cada cliente, con su nombre y número de cuenta.
 
@@ -30,12 +30,12 @@ IV. Asignación de operaciones que deriven de errores cometidos en la transmisi�
 
 V. Órdenes no realizadas o parcialmente realizadas por cliente y motivo por el cual no fue efectuada la operación.
 
-VI. Modificaciones, señalando los datos originales de la Orden y los correspondientes a la instrucción de modificación.
+VI. Modificaciones, señalando los datos originales de la [Orden](articulo-1.md) y los correspondientes a la instrucción de modificación.
 
 VII. Correcciones en que se especifique el origen del error, sus datos y solución, así como los movimientos que hubo que efectuar para resolver el error.
 
 VIII. Órdenes globales, que incluya el detalle de las Ordenes individuales con los datos señalados en el Artículo [263 Bis 1](articulo-263-Bis-1.md) de las presentes disposiciones
 
-(264) Los listados señalados en las fracciones I a III y V a VII anteriores, identificarán las operaciones de ventas en corto, las de compra, las de venta en corto para mantener coberturas en emisiones de títulos opcionales, de compraventa mismo día, con títulos opcionales, compras y ventas al cierre, y con valores listados en los sistemas internacionales de cotizaciones de las Bolsas, señalando en cada caso el tipo de Orden.
+Los listados señalados en las fracciones I a III y V a VII anteriores, identificarán las operaciones de ventas en corto, las de compra, las de venta en corto para mantener coberturas en emisiones de títulos opcionales, de compraventa mismo día, con títulos opcionales, compras y ventas al cierre, y con valores listados en los sistemas internacionales de cotizaciones de las Bolsas, señalando en cada caso el tipo de Orden.
 
 Los listados a que se refiere el presente artículo o sus registros, deberán mantenerse hasta por el plazo de un año.

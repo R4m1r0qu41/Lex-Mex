@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LGDNNA — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -27,7 +27,9 @@ II. Sean recibidos por una familia de acogida como medida de protección, de car
 
 III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
 
-IV. En el Sistema Nacional DIF, así como los Sistemas de las Entidades y [Sistemas Municipales](articulo-4.md), en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+IV. En el Sistema Nacional DIF, así como los Sistemas de las Entidades y [Sistemas Municipales](articulo-4.md), en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
+
+V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
 Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo. Párrafo reformado DOF 03-06-2019
 

@@ -10,12 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3:term-usage:1132-1142",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3:term-usage:1133-1143",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1132,
-    "end_char": 1142
+    "start_char": 1133,
+    "end_char": 1143
   },
   {
     "schema_version": "0.1.0",
@@ -208,12 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:23:term-usage:758-773",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:23:term-usage:759-774",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:cohesion-social",
     "span": "Cohesión Social",
-    "start_char": 758,
-    "end_char": 773
+    "start_char": 759,
+    "end_char": 774
   },
   {
     "schema_version": "0.1.0",

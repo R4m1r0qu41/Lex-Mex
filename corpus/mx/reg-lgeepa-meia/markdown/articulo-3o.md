@@ -49,7 +49,9 @@ XII. Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XIII. Medidas de prevención: Conjunto de acciones que deberá ejecutar el promovente para evitar efectos previsibles de deterioro del ambiente;
 
-XIV. Medidas de mitigación: Conjunto de acciones que deberá ejecutar el promovente para atenuar los impactos y restablecer o compensar las condiciones ambientales existentes antes de la perturbación que se causare con la realización de un proyecto en cualquiera de sus etapas; XV. Parque industrial: Es la superficie geográficamente delimitada y diseñada especialmente para el asentamiento de la planta industrial en condiciones adecuadas de ubicación, infraestructura, equipamiento y de servicios, con una administración permanente para su operación. Busca el ordenamiento de los asentamientos industriales y la desconcentración de las zonas urbanas y conurbadas, hacer un uso adecuado del suelo, proporcionar condiciones idóneas para que la industria opere eficientemente y se estimule la creatividad y productividad dentro de un ambiente confortable. Además, forma parte de las estrategias de desarrollo industrial de la región;
+XIV. Medidas de mitigación: Conjunto de acciones que deberá ejecutar el promovente para atenuar los impactos y restablecer o compensar las condiciones ambientales existentes antes de la perturbación que se causare con la realización de un proyecto en cualquiera de sus etapas;
+
+XV. Parque industrial: Es la superficie geográficamente delimitada y diseñada especialmente para el asentamiento de la planta industrial en condiciones adecuadas de ubicación, infraestructura, equipamiento y de servicios, con una administración permanente para su operación. Busca el ordenamiento de los asentamientos industriales y la desconcentración de las zonas urbanas y conurbadas, hacer un uso adecuado del suelo, proporcionar condiciones idóneas para que la industria opere eficientemente y se estimule la creatividad y productividad dentro de un ambiente confortable. Además, forma parte de las estrategias de desarrollo industrial de la región;
 
 XVI. Reglamento: Este reglamento, y
 

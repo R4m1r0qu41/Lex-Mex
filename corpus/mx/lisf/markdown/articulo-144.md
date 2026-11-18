@@ -49,7 +49,9 @@ XIV. Adquirir, construir y administrar viviendas de interés social e inmuebles 
 
 XV. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto social;
 
-XVI. Emitir obligaciones subordinadas, las cuales podrán ser no susceptibles de convertirse en acciones, o de conversión obligatoria en acciones, así como emitir otros títulos de crédito, en los términos previstos en el artículo [160](articulo-160.md) de este ordenamiento; XVII. Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan.
+XVI. Emitir obligaciones subordinadas, las cuales podrán ser no susceptibles de convertirse en acciones, o de conversión obligatoria en acciones, así como emitir otros títulos de crédito, en los términos previstos en el artículo [160](articulo-160.md) de este ordenamiento;
+
+XVII. Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan.
 
 Asimismo, podrán actuar como institución fiduciaria en los fideicomisos de garantía a que se refiere la Sección Segunda del Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito, sujetándose a lo que dispone el artículo [85 Bis](../../lic/markdown/articulo-85-Bis.md) de la Ley de Instituciones de Crédito y bajo la inspección y vigilancia de la [Comisión](articulo-2.md).
 

@@ -21,7 +21,7 @@ El patrón o sujeto obligado deberá presentar la corrección en un plazo máxim
 
 El Instituto, previa solicitud patronal, podrá conceder por única vez prórroga hasta por diez días hábiles.
 
-El Instituto podrá solicitar al patrón, o sujeto obligado información o documentación complementaria para revisar y, en su caso, validar la corrección, en un plazo no mayor a veinte días hábiles contados a partir de la fecha de la entrega de la documentación señalada en el primer párrafo. Dicha documentación REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN deberá presentarse en un plazo no mayor de diez días hábiles contados a partir del día siguiente al de la notificación del requerimiento.
+El Instituto podrá solicitar al patrón, o sujeto obligado información o documentación complementaria para revisar y, en su caso, validar la corrección, en un plazo no mayor a veinte días hábiles contados a partir de la fecha de la entrega de la documentación señalada en el primer párrafo. Dicha documentación deberá presentarse en un plazo no mayor de diez días hábiles contados a partir del día siguiente al de la notificación del requerimiento.
 
 Cuando de la revisión realizada por el Instituto resulten diferencias con lo manifestado por el patrón, o sujeto obligado, se le notificará por escrito para su aclaración o, en su caso, para que efectúe el pago respectivo dentro de los quince días hábiles siguientes a la fecha de notificación.
 

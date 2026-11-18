@@ -73,7 +73,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
     "fraction": "XV",
     "start_char": 7164,
-    "end_char": 7569,
+    "end_char": 7460,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-oficiales",
+    "term": "Tiempos Oficiales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XVI",
+    "start_char": 7460,
+    "end_char": 7570,
     "basis": "express_definition"
   }
 ]

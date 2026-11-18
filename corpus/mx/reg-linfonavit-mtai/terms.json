@@ -62,7 +62,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
     "fraction": "VII",
     "start_char": 899,
-    "end_char": 1379,
+    "end_char": 941,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:unidad-de-enlace",
+    "term": "Unidad de Enlace",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "VIII",
+    "start_char": 941,
+    "end_char": 1235,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
     "fraction": "IX",
-    "start_char": 1379,
-    "end_char": 1541,
+    "start_char": 1235,
+    "end_char": 1397,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
     "fraction": "X",
-    "start_char": 1541,
-    "end_char": 1938,
+    "start_char": 1397,
+    "end_char": 1794,
     "basis": "express_definition"
   }
 ]

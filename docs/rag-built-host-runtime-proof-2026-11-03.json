@@ -1,0 +1,66 @@
+{
+  "runtime": "Wrangler local built host",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 47052,
+      "content_type": "text/html; charset=utf-8",
+      "wall_ms": 22.917583119124174
+    },
+    {
+      "path": "/en",
+      "status": 200,
+      "bytes": 45122,
+      "content_type": "text/html; charset=utf-8",
+      "wall_ms": 3.003249876201153
+    },
+    {
+      "path": "/lex-mex/agents/",
+      "status": 200,
+      "bytes": 1902,
+      "content_type": "text/html; charset=utf-8",
+      "wall_ms": 2.142957877367735
+    },
+    {
+      "path": "/lex-mex/api/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/search?q=segregados",
+      "status": 200,
+      "bytes": 1752,
+      "content_type": "application/json",
+      "wall_ms": 5.959167145192623
+    },
+    {
+      "path": "/lex-mex/api/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+      "status": 200,
+      "bytes": 3613,
+      "content_type": "application/json",
+      "wall_ms": 1.956040970981121
+    },
+    {
+      "path": "/lex-mex/agents/index.html",
+      "status": 200,
+      "bytes": 251,
+      "content_type": "text/html; charset=utf-8",
+      "wall_ms": 2.34058266505599
+    },
+    {
+      "path": "/lex-mex/agents/sitemap.xml",
+      "status": 200,
+      "bytes": 177189,
+      "content_type": "application/xml",
+      "wall_ms": 1.4424999244511127
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 178547,
+      "content_type": "application/xml",
+      "wall_ms": 1.2965830974280834
+    },
+    {
+      "path": "/lex-mex/api/answer",
+      "status": 503,
+      "body": "{\"error\":\"unavailable\"}"
+    }
+  ]
+}

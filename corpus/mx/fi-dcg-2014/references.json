@@ -2370,14 +2370,7 @@
     "end_char": 1981,
     "target_instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
     "target_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:66-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2074,
-        "end_char": 2086
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

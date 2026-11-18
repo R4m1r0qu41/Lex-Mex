@@ -1008,14 +1008,7 @@
     "end_char": 16362,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 16379,
-        "end_char": 16390
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1147,14 +1140,7 @@
     "end_char": 18338,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 18355,
-        "end_char": 18366
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1462,12 +1448,6 @@
         "text": "fracción III",
         "start_char": 2015,
         "end_char": 2027
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2114,
-        "end_char": 2128
       }
     ],
     "basis": "express_cross_reference",
@@ -1975,25 +1955,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:27:reference:1818-1819:2:direct",
+    "id": "urn:lex-mx:federal:statute:lieps:article:27:reference:1819-1820:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lieps:article:27",
     "source_span": "2",
-    "start_char": 1818,
-    "end_char": 1819,
+    "start_char": 1819,
+    "end_char": 1820,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 1823,
-        "end_char": 1834
+        "start_char": 1824,
+        "end_char": 1835
       },
       {
         "qualifier_type": "subsection",
         "text": "inciso B",
-        "start_char": 1836,
-        "end_char": 1844
+        "start_char": 1837,
+        "end_char": 1845
       }
     ],
     "basis": "express_cross_reference",
@@ -2004,25 +1984,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:reference:3477-3478:2:direct",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:reference:3478-3479:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "source_span": "2",
-    "start_char": 3477,
-    "end_char": 3478,
+    "start_char": 3478,
+    "end_char": 3479,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 3482,
-        "end_char": 3492
+        "start_char": 3483,
+        "end_char": 3493
       },
       {
         "qualifier_type": "subsection",
         "text": "incisos D",
-        "start_char": 3494,
-        "end_char": 3503
+        "start_char": 3495,
+        "end_char": 3504
       }
     ],
     "basis": "express_cross_reference",
@@ -2033,19 +2013,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:reference:10326-10328:3:direct",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:reference:10327-10329:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "source_span": "XX",
-    "start_char": 10326,
-    "end_char": 10328,
+    "start_char": 10327,
+    "end_char": 10329,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "XX",
-        "start_char": 10326,
-        "end_char": 10328
+        "start_char": 10327,
+        "end_char": 10329
       }
     ],
     "basis": "express_cross_reference",
@@ -2069,12 +2049,6 @@
         "text": "fracción I",
         "start_char": 371,
         "end_char": 381
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos A",
-        "start_char": 513,
-        "end_char": 522
       }
     ],
     "basis": "express_cross_reference",
@@ -2183,19 +2157,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:4:reference:3468-3469:2:direct",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:reference:3469-3470:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
     "source_span": "2",
-    "start_char": 3468,
-    "end_char": 3469,
+    "start_char": 3469,
+    "end_char": 3470,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 3473,
-        "end_char": 3485
+        "start_char": 3474,
+        "end_char": 3486
       }
     ],
     "basis": "express_cross_reference",
@@ -2332,20 +2306,7 @@
     "end_char": 2408,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso D",
-        "start_char": 2757,
-        "end_char": 2765
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 2867,
-        "end_char": 2882
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2477,12 +2438,6 @@
         "text": "fracción I",
         "start_char": 4796,
         "end_char": 4806
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIV",
-        "start_char": 4955,
-        "end_char": 4968
       }
     ],
     "basis": "express_cross_reference",
@@ -2552,14 +2507,7 @@
     "end_char": 277,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 502,
-        "end_char": 516
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

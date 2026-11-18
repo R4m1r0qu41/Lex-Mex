@@ -19,7 +19,9 @@ source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
 
 Las notificaciones a que se refiere este capítulo surtirán sus efectos al día hábil siguiente al que:
 
-I. Se hubieren efectuado personalmente; II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [133](articulo-133.md) y [142](articulo-142.md);
+I. Se hubieren efectuado personalmente;
+
+II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [133](articulo-133.md) y [142](articulo-142.md);
 
 III. Se hubiere efectuado la última publicación a que se refiere el artículo [141](articulo-141.md), y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LFMPED — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf
 source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 ---
@@ -39,4 +39,6 @@ g) A la Tesorería de la Federación, los recursos necesarios para que los ingre
 
 Para efectos del cumplimiento del monto establecido en este inciso se considerarán incluidas las transferencias previstas en los incisos a) a f) anteriores;
 
-III. Una vez realizados los pagos y transferencias a que se refieren las fracciones I y II anteriores, el fiduciario administrará los recursos remanentes en la Reserva del Fondo para generar ahorro de largo plazo del Gobierno Federal, incluyendo inversión en activos financieros, y IV. Los recursos correspondientes a la Reserva del Fondo podrán ser transferidos de manera extraordinaria a la Tesorería de la Federación para cubrir erogaciones del Presupuesto de Egresos de la Federación, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Lo anterior, incluyendo las transferencias que se realicen de conformidad con los montos aprobados por la Cámara de Diputados para el uso de los recursos cuando la Reserva del Fondo sea mayor al 3% del Producto Interno Bruto.
+III. Una vez realizados los pagos y transferencias a que se refieren las fracciones I y II anteriores, el fiduciario administrará los recursos remanentes en la [Reserva del Fondo](articulo-2.md) para generar ahorro de largo plazo del Gobierno Federal, incluyendo inversión en activos financieros, y
+
+IV. Los recursos correspondientes a la Reserva del Fondo podrán ser transferidos de manera extraordinaria a la Tesorería de la Federación para cubrir erogaciones del Presupuesto de Egresos de la Federación, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Lo anterior, incluyendo las transferencias que se realicen de conformidad con los montos aprobados por la Cámara de Diputados para el uso de los recursos cuando la Reserva del Fondo sea mayor al 3% del Producto Interno Bruto.

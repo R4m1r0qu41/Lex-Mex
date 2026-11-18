@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LGIMH — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf
 source_sha256: 51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44
 ---

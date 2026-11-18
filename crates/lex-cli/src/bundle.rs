@@ -723,6 +723,7 @@ mod tests {
                 parser_version: "fixture".to_owned(),
                 status: InstrumentStatus::InForce,
                 source_repeal_notice: None,
+                provision_notes: Vec::new(),
                 issuing_authorities: Vec::new(),
                 formal_publication_url: None,
                 formal_publication_code: None,

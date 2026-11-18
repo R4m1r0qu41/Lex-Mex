@@ -27,7 +27,9 @@ b).- La construcción, reparación, ampliación o mejoramiento de sus viviendas,
 
 c).- El pago de pasivos contraídos por los conceptos anteriores;
 
-d).- La adquisición en propiedad de suelo destinado para la construcción de sus habitaciones; Inciso adicionado DOF 16-12-2020 III.- Coordinar, financiar, ejecutar o invertir en programas de construcción y administración de viviendas destinadas a ser adquiridas en propiedad o en arrendamiento social por las personas trabajadoras; Fracción reformada DOF 21-02-2025
+d).- La adquisición en propiedad de suelo destinado para la construcción de sus habitaciones; Inciso adicionado DOF 16-12-2020
+
+III.- Coordinar, financiar, ejecutar o invertir en programas de construcción y administración de viviendas destinadas a ser adquiridas en propiedad o en arrendamiento social por las personas trabajadoras; Fracción reformada DOF 21-02-2025
 
 IV.- Otorgar en arrendamiento social los inmuebles que se construyan o que sean bienes recuperados en apoyo a las personas trabajadoras; Fracción adicionada DOF 21-02-2025
 

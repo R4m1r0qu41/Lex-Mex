@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LNAC — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNac.pdf
 source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 ---
@@ -21,7 +21,9 @@ Para la expedición del Certificado de Nacionalidad Mexicana, los interesados de
 
 I.- Ser mayor de edad y en uso de sus derechos civiles;
 
-II.- Presentar original de la solicitud debidamente requisitada y firmada; III.- Exhibir copia certificada de su acta de nacimiento expedida por la oficina del registro civil mexicano. Si el interesado nació en el extranjero, podrá exhibir copia certificada del acta de nacimiento expedida por los consulados o por la sección consular de las representaciones diplomáticas de México en el exterior o copia certificada expedida por la oficina del registro civil mexicano de la inserción de su acta de nacimiento extranjera;
+II.- Presentar original de la solicitud debidamente requisitada y firmada;
+
+III.- Exhibir copia certificada de su acta de nacimiento expedida por la oficina del registro civil mexicano. Si el interesado nació en el extranjero, podrá exhibir copia certificada del acta de nacimiento expedida por los consulados o por la sección consular de las representaciones diplomáticas de México en el exterior o copia certificada expedida por la oficina del registro civil mexicano de la inserción de su acta de nacimiento extranjera;
 
 IV.- Presentar original de una identificación oficial vigente con fotografía, entre otras, el pasaporte mexicano, la credencial de elector, la cédula profesional, la cartilla del Servicio Militar Nacional, el certificado de matrícula consular y la cédula de identidad ciudadana;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "110"
 aliases: ["REG-LFSA — Artículo 110"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -21,7 +21,9 @@ La expedición del certificado zoosanitario de movilización, se ajustará a lo 
 
 I. El usuario deberá solicitar el certificado, mismo que deberá llenarse conforme al instructivo técnico que establezca la Secretaría;
 
-II. Se procederá a la identificación de los requisitos técnicos contenidos en las disposiciones de sanidad animal en materia de campañas, cuarentenas, vigilancia epidemiológica, Dispositivo Nacional de Emergencia, bienestar animal, riesgos de contaminación o Sistema Nacional de Vigilancia Epidemiológica, que deben de cumplir los propietarios o poseedores de las mercancías reguladas; III. Una vez realizada la identificación de los requisitos técnicos, se verificará su cumplimiento con el documento que compruebe que se efectuaron las pruebas o vacunaciones, tratamientos, constataciones o comprobaciones u otras que se hayan realizado, el cual debe estar vigente y firmado por el médico veterinario oficial o responsable autorizado;
+II. Se procederá a la identificación de los requisitos técnicos contenidos en las disposiciones de sanidad animal en materia de campañas, cuarentenas, vigilancia epidemiológica, Dispositivo Nacional de Emergencia, bienestar animal, riesgos de contaminación o Sistema Nacional de Vigilancia Epidemiológica, que deben de cumplir los propietarios o poseedores de las mercancías reguladas;
+
+III. Una vez realizada la identificación de los requisitos técnicos, se verificará su cumplimiento con el documento que compruebe que se efectuaron las pruebas o vacunaciones, tratamientos, constataciones o comprobaciones u otras que se hayan realizado, el cual debe estar vigente y firmado por el médico veterinario oficial o responsable autorizado;
 
 IV. De comprobarse que los propietarios de las mercancías reguladas cumplen con las especificaciones técnicas contenidas en las disposiciones de sanidad animal y las establecidas en la Ley Federal de Derechos, se colocaran los flejes oficiales cuando correspondan y se procederá a expedir el certificado zoosanitario de movilización correspondiente, y
 

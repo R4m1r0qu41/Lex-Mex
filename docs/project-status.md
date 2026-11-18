@@ -5,9 +5,36 @@
 - **Committed instruments:** 468 (`corpus/mx/*/instrument.json`): 467 pushed, plus `reg-pmimss`, admitted locally on 2026-10-18 by operator request as a test case; local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md)). `reg-pmimss` (Reglamento de Prestaciones Médicas del IMSS) comes from the Cámara other-regulations index and is outside that count
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
-- **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `lftr` and four held DCGs; `cpf`, `lgs` and `lmv` resolved by the 2026-10-19 reparse); anything new, changed or resolved exits 1. An instrument rejected with exactly its accepted gap still takes a glossary-only refresh (terms, usages, coverage, Markdown; references untouched), and one whose persisted terms no longer reproduce fails the closure (2026-10-19). `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
+- **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `lftr` and `socap-sofipo-dcg-2006` after the 2026-10-25 repair, which resolved `cucb-dcg-2004`, `oaac-dcg-2009` and `cub-dcg-2005`; `cpf`, `lgs` and `lmv` resolved by the 2026-10-19 reparse); anything new, changed or resolved exits 1. An instrument rejected with exactly its accepted gap still takes a glossary-only refresh (terms, usages, coverage, Markdown; references untouched), and one whose persisted terms no longer reproduce fails the closure (2026-10-19). `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
+
+## 2026-11-17 Codex audit fixes (branch `fix/codex-audit-2026-11-17`, local, unpushed)
+
+Codex audited the unmerged commencement and reader branches. On JRH's instruction the fixes
+were rebuilt on current `main` (`47a3ffc59`, no upstream) without the old branch's corpus
+snapshots; the request is [codex-audit-fixes-2026-11-17.md](codex-audit-fixes-2026-11-17.md).
+- `0c8c69dc0`: whole-clause legacy commencement recognizers, word-bounded qualifiers, a
+  schema-validated holiday calendar, the 1 December holiday capped at 2018, a split-aware
+  save gate, one calendar shared by repair and derivation, and SQLite sidecars named by the
+  full filename.
+- F1 (the optional tail of the legacy date paths admitted conditions and second events):
+  `74a6242a9` removed the free abrogation and quoted-string wildcards; `8a74811a8` replaced
+  the capitalised-word grammar with closed tables of forms measured in the corpus (three
+  abrogation phrases, one year motto inside a dateline, twenty legislative signatories). A
+  form outside the tables goes to review. More than one `entrará en vigor` event in a single
+  transitory now abstains (`MultipleCommencementEventsInRecord`).
+- Checks at `8a74811a8`: 576 workspace tests pass; `lritf` and `ifpe-dcg-2021` validate with
+  0 issues; no `corpus/` change from `47a3ffc59`. A paired read-only census over the 468
+  instruments (empty calendar) is unchanged at 332 resolved, 1 bounded, 126 skipped, 9 none;
+  one skipped record, `reg-lfppi`, changes only its reason label.
+- The shipped calendar has no notice coverage, so no business-day clause resolves. The LFPA
+  art. 28 question (whether 1 October is excluded from 2024) is JRH's and is still open.
+- Open: Codex re-review of F1 (handoff `provider-handoffs/pending/codex/2026-11-17-lex-mex-codex-f1-tail-rereview.md`
+  in Agent Vault). The reader findings (F2, F3, R4) are on `feat/public-reader-r7` and have their own
+  handoff. Push and merge need JRH. The Codex verdicts
+  `codex-audit-fixes-codex-review-2026-11-17.md` and `codex-audit-fixes-codex-rereview-2026-11-17.md`
+  are in `docs/`, uncommitted.
 
 ## 2026-11-17 Codex F2 and F3 on the reader branch (`feat/public-reader-r7`, local, unpushed)
 
@@ -31,6 +58,139 @@ in code and the F2 follow-up awaits Codex's re-review. No `corpus/` file changed
 - Open: Codex re-review of F2 (handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-codex-reader-f2-rereview.md`
   in Agent Vault; closeout note `codex-audit-f2-f3-closeout-2026-11-17.md`). The commencement tail (F1)
   is on `fix/codex-audit-2026-11-17` in the integration worktree. Push and merge need JRH.
+- **Update 2026-11-18:** Codex closed F2 and F3 in `docs/codex-audit-fixes-codex-rereview2-2026-11-18.md`
+  (scoped fixes approved for integration, production rollout not approved). This branch was caught
+  up with `main` (which carries the audit-fix port, PR #6); the duplicate R5 `sqlite_sidecars` helper
+  was reduced to main's copy. The three cleanups listed in that verdict follow as separate commits.
+
+## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
+
+Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contract and its
+deviations from V2 are in [the pilot plan](plans/fintech-structural-pilot.md). Slice (a) puts one
+shared fracción recognizer in `lex-core`:
+- the parser keeps its acceptance unchanged (oracle: 0 differences over 3.39 million inputs);
+- Obsidian fraction anchors now cover `VI.-`-style fractions (8,440 more anchors).
+
+No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7d67b719`
+([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
+neither gate is approved yet. Slice (b) moved the six glossary fracción rules in `terms.rs`
+onto the shared recognizer, one commit each. The output is unchanged: permanent parity tests
+pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Codex accepted
+slice (b) ([review](fintech-pilot-slice-b-codex-review-2026-11-14.md)), then prepared the G0
+sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned provisions, 16 for
+development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
+check both found it acceptable. A Codex session that did not build the package approved G0
+with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
+"answer-sealed, publicly identified holdout".
+
+Codex reviewed G1 draft 1 and returned **revise**
+([review](fintech-pilot-g1-codex-review-2026-11-14.md)). It found five gaps (R1–R5) and a private
+conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It adds:
+- a strict lookup branch table and scan-status precedence;
+- rules for interior notes and span cuts;
+- a fully specified request and response, with an explicit root locator, and deferral of
+  `node_id` requests.
+
+`fixtures/fintech-structural-g1-2026-11-14/` now holds:
+- 123 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- full and must-fail responses;
+- a schema checker that runs offline;
+- the committed measurement probe.
+
+Codex then reviewed draft 2 and returned **revise**, limited to two rule interactions
+([review](fintech-pilot-g1-draft2-codex-review-2026-11-14.md)). R1, R2, R4 and R5 are closed.
+Draft 3 fixes both interactions:
+- a same-line fraction candidate is held by the root even inside a tail inciso;
+- the tail of an article with no fraction can begin with an interior note, and the last
+  inciso's certain span ends before it.
+
+It adds Codex's two texts as 7 rows and 4 full responses; every draft-2 row and response is
+unchanged.
+
+Codex **approved G1** at `a6d94025f` on 2026-11-15
+([review](fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). The approval does not authorize
+G2 or G3 work. The review's compatibility record binds the frozen contract section by digest
+and finds a sealed G0 answer still incompatible with it, without naming the case. G0 v1 stays
+unchanged; before G3, an independent evaluator versions any private gold or evaluation
+disposition. Codex, as evaluator, made the encrypted holdout backup and passed a restore and hash
+check on 2026-11-16 ([receipt](fintech-pilot-holdout-custody-2026-11-16.md)). JRH authorized G2
+the same day, in a leaner form: code and tests first, then one Codex review at the end.
+G2 is built in `1075a6ce7`: a read-only projection and lookup in `lex-core`, which passes every
+G1 fixture row and full response, with no parser or corpus change. Codex returned **revise**:
+some marker forms the contract lists were missed. `991b5dc85` fixes them. Codex accepted it on re-review
+([review](fintech-pilot-g2-rereview-codex-2026-11-16.md)), so it is the frozen pilot-v1 code.
+Codex then privately versioned/reviewed the gold and ran G3 once: **39/42** prelocked
+matches, 33 correct resolved results and 9 abstentions, with zero wrong exact results.
+Post-run QA identifies a prelocked expectation error behind the three unexpected
+abstentions; the score remains unchanged. Recommendation: **iterate evaluation**
+with a fresh independently reviewed set, keeping code frozen. No second run or
+retrospective score repair. See [G3 results](fintech-pilot-g3-holdout-results-2026-11-16.md).
+The single-letter `A)` apartado form is deferred to pilot-v2.
+JRH decided on 2026-11-16 to **adopt the pilot locally**, as an internal read-only lookup with no
+public or MCP use. Codex completed the short [not-found evaluation](fintech-pilot-not-found-eval-2026-11-16.md)
+once on 24 fresh requests: 16/16 correct absences, zero false absences, 4/4 exact
+positive controls and 4/4 correct abstentions. The strict 22/24 score retains two
+prelocked expected-owner-path representation errors; independent QA found the
+captured output contract-correct. No implementation or original G3-score change.
+The requested absence supplement is complete; the adopted local scope continues.
+
+JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
+in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No
+status has changed yet. The status pass must not run on the pilot branch before G3, because the
+G0 sample pins the `lritf`, `lic` and `lmv` provision files.
+
+## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
+
+`lieps` is adopted. The reform appendix parser now handles four more shapes:
+- an erratum title after a page break;
+- law-named transitory headings (`Disposiciones Transitorias de la Ley …`, `Transitorios de la
+  Ley …`);
+- a cited `Decreto por el que …` at a mid-sentence line break, no longer a new decree (unless it
+  has its own publication line and is not inside an open title, per the Codex review);
+- a wrapping decree article ahead of its nested series.
+
+Every decree on the Diputados list now has its transitories under its own date. Reform evidence
+goes from 107 to 142 entries, and JRH's 2026-11-12 re-confirmation covers the whitespace-only
+provision and glossary refresh. The same repair corrects reform evidence in 34 other instruments
+(217 entries added) and rejoins falsely split sentences in 10. No temporal field or validation
+result changes. Evidence: [four-goal plan](plans/four-goal-system-upgrade.md), section "`lieps`
+grouping repair". Codex (2026-11-13) accepted the lint commit and requested a title-boundary
+fix to the parser commit. The fix (`4fa0bcb79`, no corpus change) was accepted on re-review
+(`docs/lieps-title-boundary-codex-re-review-2026-11-13.md`), and PR #3 was merged with a merge
+commit.
+
+## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, merged to `main` as PR #2, `181f1f62c`)
+
+Corpus-wide reparse with the page-break fraction rule: of the 353 instruments with retained,
+hash-matching text, 320 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`; `laassp` with the P2
+elided-decree-article rule in `24d4fc083`, which also cleaned 13 further instruments), 28
+reparse unchanged, 5 held: `lic`, `lfpccs`, `lfvv` (reviewed guards, JRH), `cue-dcg-2003`,
+`scap-dcg-2012` (operator). A second batch of 112 instruments whose retained text was restored
+(hash-verified) adds 110 more (`b9f4d319f`); held there: `lieps` (parse guard, JRH) and `lftr`
+(accepted closure gap). A full reparse of all 465 instruments with text from `b9f4d319f`
+reproduces the committed corpus for every instrument except those 7 held, and `link --all`
+relinks nothing. `cjm` regains arts. 30 Sextus and 30 Séptimus,
+missing from the earlier corpus. New read-only commands: `verify-fidelity`, `audit-qualifiers`,
+`monitor-sources` (`bec9467a9`). Computed by script from the committed JSON at `b9f4d319f`: 468
+instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 references (sum of
+`validation.json` counts); temporal status `effective` 32,334, `unknown` 30,510, `repealed`
+5,551, `partially_repealed` 2. `verify-fidelity --all`: 66,495 of 66,977 provisions pass, 382
+of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
+its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
+official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`); `cpeum` was
+re-ingested on 2026-11-12 (`a461a41c0`, with JRH's 2028 application note on arts. 82, 116, 122);
+the two DCGs wait for the DCG pass. JRH decisions of 2026-11-12 are applied (`7e3416fab`..`f36ac6c11`): the
+qualifier-attribution repair (1,192 wrong qualifiers removed) is merged; `lic`, `lfpccs`, `lfvv`
+are adopted after re-confirmation; `lgmime` is recorded as declared invalid by the SCJN
+(AI 71/2023, effects 23-06-2023), status `repealed` with an invalidity note, provision
+`effective_to` deferred by JRH (not in force is what matters). A 465 reparse then differs
+only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. Codex reviewed the
+branch on 2026-11-12 (`docs/four-goal-upgrade-codex-review-2026-11-12.md`); its two change
+requests (audited re-confirmation, lost qualifier shapes) were addressed on 2026-11-13 and await
+re-review. Decision routing (JRH, `AGENTS.md`): only strict legal questions go to JRH; the open
+one is the LGPP/LGIPE status table. Codex accepted items 3 and 5 on 2026-11-13; the branch was
+merged to `main` with a merge commit (PR #2, `181f1f62c`). No deploy. Live state and next actions:
+[four-goal plan](plans/four-goal-system-upgrade.md).
 
 ## 2026-10-16 reverse-linking checkpoint
 
@@ -51,6 +211,24 @@ baselines for the new adapters are unfrozen observations, not reviewed
 source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
+
+## Current corpus totals (2026-10-25, after the post-split corpus repair)
+
+Computed by script from the committed JSON on branch `repair/itf-dcg-heading-separator-2026-10-25`
+(local, unmerged). They supersede the 2026-10-19 table below for the rows listed.
+
+| Measure | Count |
+|---|---:|
+| Instruments | 468 |
+| Articles / original transitories / annexes | 64,859 / 3,506 / 30 |
+| Reference edges | 36,077 |
+| Provisions with temporal status `unknown` / `effective` | 34,552 / 28,290 |
+| Database projection (release `caead5ed…`): provisions / terms / term usages | 68,395 / 5,985 / 102,282 |
+| Known structural debt, active / retired | 0 / 17 |
+| Closure accepted gaps | 2 (`lftr`, `socap-sofipo-dcg-2006`) |
+
+Open: the `socap-sofipo-dcg-2006` current edition is held (its source legend omits entry 91); Codex review of this branch. The 74 instruments `derive-temporal` skips are queued (see the R2 queue).
+See [the corpus repair record](post-split-corpus-repair-2026-10-25.md).
 
 ## Current corpus totals (2026-10-19, after the glossary reparses and coverage records)
 

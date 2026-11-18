@@ -7,8 +7,8 @@ provision_type: article
 number: "84"
 aliases: ["REG-LPF — Artículo 84"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 84
 
-Corresponde a la Dirección General de Rescate y Apoyo a la Protección Civil: I. Ejercer para fines de seguridad pública, las funciones de protección civil y rescate a la población en términos de las disposiciones legales aplicables;
+Corresponde a la Dirección General de Rescate y Apoyo a la Protección Civil:
+
+I. Ejercer para fines de seguridad pública, las funciones de protección civil y rescate a la población en términos de las disposiciones legales aplicables;
 
 II. Coordinar operativos conjuntos con otras instituciones de los tres órdenes de gobierno, a fin de proporcionar auxilio a la población en casos de desastre;
 

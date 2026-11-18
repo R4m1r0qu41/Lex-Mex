@@ -19,7 +19,9 @@ source_sha256: 3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f
 
 El Poder Ejecutivo de la Unión se auxiliará en los términos de las disposiciones legales correspondientes, de las siguientes entidades de la administración pública paraestatal:
 
-I.- Organismos descentralizados; II. Empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito e instituciones nacionales de seguros y de fianzas; Fracción reformada DOF 18-03-2025
+I.- Organismos descentralizados;
+
+II. Empresas de participación estatal, instituciones nacionales de crédito, organizaciones auxiliares nacionales de crédito e instituciones nacionales de seguros y de fianzas; Fracción reformada DOF 18-03-2025
 
 III. Fideicomisos, y Fracción reformada DOF 18-03-2025
 

@@ -1,0 +1,86 @@
+{
+  "assessment": "parent review of blind local connected-agent report against frozen oracle and actual MCP trace",
+  "content_outcomes_met": 10,
+  "questions_attempted": 10,
+  "q03_exact_first_paragraph": true,
+  "trace_calls": 33,
+  "retrieved_provisions": 11,
+  "evidence_checks": [
+    {
+      "question": "Q01",
+      "required_provisions_retrieved": true,
+      "expected_evidence": []
+    },
+    {
+      "question": "Q02",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:11"
+      ]
+    },
+    {
+      "question": "Q03",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2"
+      ]
+    },
+    {
+      "question": "Q04",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ]
+    },
+    {
+      "question": "Q05",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:22",
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ]
+    },
+    {
+      "question": "Q06",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2",
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:7"
+      ]
+    },
+    {
+      "question": "Q07",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:itf-dcg-2018:article:1",
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2"
+      ]
+    },
+    {
+      "question": "Q08",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lic:article:2"
+      ]
+    },
+    {
+      "question": "Q09",
+      "required_provisions_retrieved": true,
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:11"
+      ]
+    },
+    {
+      "question": "Q10",
+      "required_provisions_retrieved": true,
+      "expected_evidence": []
+    }
+  ],
+  "limitations": [
+    "One model only; local built-host harness, not production",
+    "Questions delivered in one file, answers composed together; not exact per-message protocol",
+    "No organic discovery test",
+    "Tool-call latency includes local runtime recreation; not production latency"
+  ],
+  "next_gate": "Exact conversational provider trials after reviewed promotion"
+}

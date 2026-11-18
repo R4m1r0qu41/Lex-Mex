@@ -7,8 +7,8 @@ provision_type: article
 number: "129"
 aliases: ["LOEFAM — Artículo 129"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf
 source_sha256: 6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7
 ---
@@ -33,7 +33,9 @@ A. Coronel;
 
 B. Teniente Coronel, y Apartado reformado DOF 16-07-2025
 
-C. Mayor. III. Oficiales en el Ejército, Fuerza Aérea y Guardia Nacional: Párrafo reformado DOF 16-07-2025
+C. Mayor.
+
+III. Oficiales en el Ejército, Fuerza Aérea y Guardia Nacional: Párrafo reformado DOF 16-07-2025
 
 A. Capitán Primero;
 

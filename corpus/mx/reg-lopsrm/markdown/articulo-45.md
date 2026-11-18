@@ -37,7 +37,9 @@ VII. Utilidad propuesta por el licitante;
 
 VIII. Relación y análisis de los costos unitarios básicos de los materiales que se requieran para la ejecución de los trabajos. Cuando existan insumos de los señalados en la fracción VIII del artículo [44](articulo-44.md) de este Reglamento se deberá señalar el precio ofertado por el licitante;
 
-IX. Catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes por partida, subpartida, concepto y del total de la proposición. Este documento formará el presupuesto de la obra que servirá para formalizar el contrato correspondiente; X. Programa de ejecución convenido conforme al catálogo de conceptos con sus erogaciones, calendarizado y cuantificado de acuerdo a los periodos determinados por la convocante, dividido en partidas y subpartidas, del total de los conceptos de trabajo, utilizando preferentemente diagramas de barras, o bien, redes de actividades con ruta crítica, y
+IX. Catálogo de conceptos, conteniendo descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes por partida, subpartida, concepto y del total de la proposición. Este documento formará el presupuesto de la obra que servirá para formalizar el contrato correspondiente;
+
+X. Programa de ejecución convenido conforme al catálogo de conceptos con sus erogaciones, calendarizado y cuantificado de acuerdo a los periodos determinados por la convocante, dividido en partidas y subpartidas, del total de los conceptos de trabajo, utilizando preferentemente diagramas de barras, o bien, redes de actividades con ruta crítica, y
 
 XI. Programas de erogaciones a costo directo, calendarizados y cuantificados en partidas y subpartidas de utilización, conforme a los periodos determinados por la convocante, para los siguientes rubros:
 

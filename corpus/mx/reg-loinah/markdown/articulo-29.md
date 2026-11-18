@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["REG-LOINAH — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -33,7 +33,9 @@ VI. Distribuir y reasignar el techo presupuestal correspondiente, con base en lo
 
 VII. Analizar y, en su caso, aprobar o rechazar, las solicitudes de adecuaciones presupuestarias internas, conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como registrar y controlar dichas adecuaciones;
 
-VIII. Analizar y, en su caso, solicitar a la Secretaría de Cultura, a petición de las unidades administrativas del Instituto, las adecuaciones presupuestarias, en términos de lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como registrar y controlar dichas adecuaciones; IX. Solicitar a las unidades administrativas del Instituto que informen, a nivel de clave presupuestaria, el ejercicio del gasto público y, en su caso, ordenar la rectificación del mismo;
+VIII. Analizar y, en su caso, solicitar a la Secretaría de Cultura, a petición de las unidades administrativas del Instituto, las adecuaciones presupuestarias, en términos de lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como registrar y controlar dichas adecuaciones;
+
+IX. Solicitar a las unidades administrativas del Instituto que informen, a nivel de clave presupuestaria, el ejercicio del gasto público y, en su caso, ordenar la rectificación del mismo;
 
 X. Gestionar ante la Tesorería de la Federación el pago de las obligaciones y compromisos adquiridos por las unidades administrativas del Instituto, de conformidad con los calendarios autorizados;
 
@@ -59,7 +61,9 @@ XX. Establecer coordinación con las autoridades federales competentes, para la 
 
 XXI. Participar en la constitución, registro, control y gestoría financiera de los fideicomisos, mandatos, actos y contratos análogos que tramite el Instituto, de conformidad con las disposiciones aplicables;
 
-XXII. Llevar la contabilidad general del Instituto conforme a la Ley General de Contabilidad Gubernamental y las normas que emitan las autoridades competentes, así como realizar la difusión de las disposiciones que señalen las unidades administrativas competentes, los lineamientos para la operación del sistema de contabilidad, los catálogos de cuentas y los instructivos para el registro de operaciones presupuestarias; XXIII. Atender las solicitudes de registro en cartera, así como del seguimiento de los programas y proyectos de inversión de las unidades administrativas del Instituto, en los sistemas establecidos por las autoridades competentes;
+XXII. Llevar la contabilidad general del Instituto conforme a la Ley General de Contabilidad Gubernamental y las normas que emitan las autoridades competentes, así como realizar la difusión de las disposiciones que señalen las unidades administrativas competentes, los lineamientos para la operación del sistema de contabilidad, los catálogos de cuentas y los instructivos para el registro de operaciones presupuestarias;
+
+XXIII. Atender las solicitudes de registro en cartera, así como del seguimiento de los programas y proyectos de inversión de las unidades administrativas del Instituto, en los sistemas establecidos por las autoridades competentes;
 
 XXIV. Gestionar, ante las autoridades competentes, la autorización de los oficios de liberación de inversión que soliciten las unidades administrativas del Instituto;
 

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo II
@@ -51,7 +51,9 @@ La Auditoría Superior de la Federación deberá entregar a la Cámara de Diputa
 
 La Auditoría Superior de la Federación deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo a la Cámara de Diputados a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición; Fracción reformada DOF 07-05-2008, 27-05-2015
 
-III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Federal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos federales y, en el caso del párrafo segundo de la fracción I de este artículo, a los servidores públicos de los estados, municipios, del Distrito Federal y sus demarcaciones territoriales, y a los particulares. Fracción reformada DOF 07-05-2008, 27-05-2015
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
+
+IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Federal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos federales y, en el caso del párrafo segundo de la fracción I de este artículo, a los servidores públicos de los estados, municipios, del Distrito Federal y sus demarcaciones territoriales, y a los particulares. Fracción reformada DOF 07-05-2008, 27-05-2015
 
 La Cámara de Diputados designará al titular de la Auditoría Superior de la Federación por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Cuarto de esta Constitución. Párrafo reformado DOF 27-05-2015
 

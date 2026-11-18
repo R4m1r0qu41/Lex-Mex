@@ -7,8 +7,8 @@ provision_type: article
 number: "95"
 aliases: ["REG-LPF — Artículo 95"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -31,7 +31,9 @@ V. Llevar el registro de licencias, exámenes médicos, capacidades del personal
 
 VI. Llevar el control y asignación de las tripulaciones, personal de tierra y aeronaves;
 
-VII. Proponer el programa de adquisición de equipamiento y soporte terrestre que permitan la operación continua de las aeronaves; VIII. Realizar la planeación, despacho, control y seguimiento de las operaciones aéreas;
+VII. Proponer el programa de adquisición de equipamiento y soporte terrestre que permitan la operación continua de las aeronaves;
+
+VIII. Realizar la planeación, despacho, control y seguimiento de las operaciones aéreas;
 
 IX. Garantizar el cumplimiento de los procedimientos sistemáticos de operación aérea;
 

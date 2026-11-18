@@ -23,7 +23,9 @@ El beneficio de libertad anticipada se tramitará ante el Juez de Ejecución, a 
 
 Para conceder la medida de libertad anticipada la persona sentenciada deberá además contar con los siguientes requisitos:
 
-I. Que no se le haya dictado diversa sentencia condenatoria firme; II. Que no exista un riesgo objetivo y razonable en su externamiento para la víctima u ofendido, los testigos que depusieron en su contra y para la sociedad;
+I. Que no se le haya dictado diversa sentencia condenatoria firme;
+
+II. Que no exista un riesgo objetivo y razonable en su externamiento para la víctima u ofendido, los testigos que depusieron en su contra y para la sociedad;
 
 III. Haber tenido buena conducta durante su internamiento;
 

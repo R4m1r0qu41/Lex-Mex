@@ -17,7 +17,9 @@ source_sha256: 266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3
 
 # Artículo 63
 
-Corresponde a la [Secretaría](articulo-3.md) promover la competitividad de la actividad turística, y en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, fomentar: I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
+Corresponde a la [Secretaría](articulo-3.md) promover la competitividad de la actividad turística, y en coordinación con las dependencias y entidades competentes de la Administración Pública Federal, fomentar:
+
+I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
 
 II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad, orientados a las características de las líneas de producto y la demanda, la certificación en competencias laborales y fortalecimiento de la especialización del capital humano; Fracción reformada DOF 13-04-2018
 

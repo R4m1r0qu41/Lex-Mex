@@ -7,8 +7,8 @@ provision_type: article
 number: "56"
 aliases: ["REG-LPF — Artículo 56"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -29,7 +29,9 @@ IV. Recopilar y solicitar, bajo la conducción y mando del [Ministerio Público]
 
 V. Recolectar, clasificar, registrar, evaluar y analizar, conforme a las disposiciones aplicables, la información obtenida que guarde relación con personas y organizaciones nacionales o extranjeras radicadas en el territorio nacional que presumiblemente tengan algún nexo delictivo;
 
-VI. Coadyuvar con otras autoridades que desarrollen funciones de investigación de gabinete; VII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, conforme a las disposiciones aplicables, para conformar bancos de datos que sustenten el desarrollo de acciones preventivas y de combate al delito;
+VI. Coadyuvar con otras autoridades que desarrollen funciones de investigación de gabinete;
+
+VII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, conforme a las disposiciones aplicables, para conformar bancos de datos que sustenten el desarrollo de acciones preventivas y de combate al delito;
 
 VIII. Generar líneas de acción táctica, conforme a las disposiciones aplicables, contra personas, grupos y organizaciones dedicadas a la comisión de delitos federales, para fortalecer el trabajo de las áreas operativas y coadyuvar a la definición de estrategias y toma de decisiones;
 

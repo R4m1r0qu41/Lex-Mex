@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGCDC — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf
 source_sha256: 3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d
 ---

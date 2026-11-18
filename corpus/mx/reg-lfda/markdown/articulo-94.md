@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título IX · Capítulo II
@@ -21,7 +21,9 @@ El Número Internacional Normalizado del Libro consta de:
 
 I. Identificador de grupo: señala al país donde se hace la edición;
 
-II. Prefijo de editor: designa a cada editor en lo particular; III. Identificador de título: se otorga a cada título en particular o a la edición de un título publicado por un editor determinado, y
+II. Prefijo de editor: designa a cada editor en lo particular;
+
+III. Identificador de título: se otorga a cada título en particular o a la edición de un título publicado por un editor determinado, y
 
 IV. Dígito de control: último dígito del Número Internacional Normalizado del Libro, que se obtiene como resultado de un cálculo derivado de los demás dígitos a fin de comprobar la correcta asignación del número en su conjunto.
 

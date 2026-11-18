@@ -10,7 +10,7 @@ generated: true
 temporal_status: repealed
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
 
 # NOVENO
@@ -18,5 +18,3 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 (Se deroga).
 
 Artículo derogado DOF 21-06-2018
-
-Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.

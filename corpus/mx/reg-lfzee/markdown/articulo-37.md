@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["REG-LFZEE — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -17,7 +17,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 37
 
-Además de la información que señala la legislación en materia de transparencia y acceso a la información pública, la [Autoridad Federal](articulo-4.md) deberá poner a disposición de la sociedad, a través de su página de Internet y en apartados específicos, lo siguiente: I. Las disposiciones administrativas aplicables en materia de [Zonas](articulo-4.md):
+Además de la información que señala la legislación en materia de transparencia y acceso a la información pública, la [Autoridad Federal](articulo-4.md) deberá poner a disposición de la sociedad, a través de su página de Internet y en apartados específicos, lo siguiente:
+
+I. Las disposiciones administrativas aplicables en materia de [Zonas](articulo-4.md):
 
 a) Los [Lineamientos](articulo-4.md);
 

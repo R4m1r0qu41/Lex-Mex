@@ -7,8 +7,8 @@ provision_type: article
 number: "80"
 aliases: ["LGMDFP — Artículo 80"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -17,7 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 80
 
-Cualquier persona puede solicitar la búsqueda de una [Persona Desaparecida](articulo-4.md) o No Localizada mediante: I. Noticia;
+Cualquier persona puede solicitar la búsqueda de una [Persona Desaparecida](articulo-4.md) o No Localizada mediante:
+
+I. Noticia;
 
 II. Reporte, o
 

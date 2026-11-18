@@ -25,7 +25,9 @@ II. Contra el auto que no admite a trámite la reconvención, en tratándose de 
 
 III. Las resoluciones que por su naturaleza pongan fin al juicio;
 
-IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo. V. Contra el auto que desecha el incidente de nulidad de actuaciones por defectos en el emplazamiento y contra la resolución que se dicte en el incidente; Fracción adicionada DOF 30-12-2008
+IV. La resolución que recaiga a las providencias precautorias, siempre y cuando de acuerdo al interés del negocio hubiere lugar a la apelación, cuya tramitación será en el efecto devolutivo.
+
+V. Contra el auto que desecha el incidente de nulidad de actuaciones por defectos en el emplazamiento y contra la resolución que se dicte en el incidente; Fracción adicionada DOF 30-12-2008
 
 VI. Contra las resoluciones que resuelvan excepciones procesales; Fracción adicionada DOF 30-12-2008
 

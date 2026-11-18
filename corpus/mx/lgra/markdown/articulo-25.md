@@ -27,6 +27,8 @@ III. Sistemas adecuados y eficaces de control, vigilancia y auditoría, que exam
 
 IV. Sistemas adecuados de denuncia, tanto al interior de la organización como hacia las autoridades competentes, así como procesos disciplinarios y consecuencias concretas respecto de quienes actúan de forma contraria a las normas internas o a la legislación mexicana;
 
-V. Sistemas y procesos adecuados de entrenamiento y capacitación respecto de las medidas de integridad que contiene este artículo; VI. Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación. Estas políticas en ningún caso autorizarán la discriminación de persona alguna motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, y
+V. Sistemas y procesos adecuados de entrenamiento y capacitación respecto de las medidas de integridad que contiene este artículo;
+
+VI. Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación. Estas políticas en ningún caso autorizarán la discriminación de persona alguna motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, y
 
 VII. Mecanismos que aseguren en todo momento la transparencia y publicidad de sus intereses.

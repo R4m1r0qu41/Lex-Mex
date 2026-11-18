@@ -29,7 +29,9 @@ IV. Formular y ejecutar programas y proyectos de apoyo público a la promoción,
 
 V. Participar en la elaboración, consecución y verificación del Plan Nacional de Desarrollo, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los [Organismos del Sector](articulo-5o.md);
 
-VI. Ser órgano consultivo del Estado en la formulación de políticas relativas al Sector, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector; VII. (Se deroga) Fracción derogada DOF 11-06-2013
+VI. Ser órgano consultivo del Estado en la formulación de políticas relativas al Sector, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;
+
+VII. (Se deroga) Fracción derogada DOF 11-06-2013
 
 VIII. Llevar a cabo estudios, investigaciones y la sistematización de información que permitan el conocimiento de la realidad de los Organismos del Sector y de su entorno, para el mejor cumplimiento de su objeto; Fracción reformada DOF 11-06-2013
 

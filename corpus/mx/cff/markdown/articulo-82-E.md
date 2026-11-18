@@ -27,6 +27,8 @@ III. Presentar la declaración anual que contenga la información a que se refie
 
 IV. Presentar de forma extemporánea la declaración anual que contenga la información a que se refieren los artículos [32-B](articulo-32-B.md), fracción V y [32-B Bis](articulo-32-B-Bis.md) de este Código.
 
-V. No llevar el registro especial de la aplicación de los procedimientos para identificar cuentas extranjeras y cuentas reportables entre las cuentas financieras, a que se refiere el artículo [32-B Bis](articulo-32-B-Bis.md), fracción II de este Código. VI. Celebrar contratos o mantener cuentas financieras incumpliendo lo establecido en los artículos [32-B](articulo-32-B.md), fracción V y [32-B Bis](articulo-32-B-Bis.md) de este Código.
+V. No llevar el registro especial de la aplicación de los procedimientos para identificar cuentas extranjeras y cuentas reportables entre las cuentas financieras, a que se refiere el artículo [32-B Bis](articulo-32-B-Bis.md), fracción II de este Código.
+
+VI. Celebrar contratos o mantener cuentas financieras incumpliendo lo establecido en los artículos [32-B](articulo-32-B.md), fracción V y [32-B Bis](articulo-32-B-Bis.md) de este Código.
 
 Artículo adicionado DOF 12-11-2021

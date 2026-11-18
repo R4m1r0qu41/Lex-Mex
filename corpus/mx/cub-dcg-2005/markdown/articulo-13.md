@@ -10,14 +10,14 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
 
 # Artículo 13
 
-Las Instituciones, en lo que respecta al personal que desempeñe funciones relacionadas con la originación o la administración de la Actividad Crediticia, deberán contemplar como mínimo, mecanismos que:
+Las Instituciones, en lo que respecta al personal que desempeñe funciones relacionadas con la originación o la administración de la [Actividad Crediticia](articulo-1.md), deberán contemplar como mínimo, mecanismos que:
 
 I. Acrediten la solvencia moral y el desempeño ético del personal involucrado y desarrollen programas permanentes de comunicación, que definan los estándares de la Institución en este tema.
 

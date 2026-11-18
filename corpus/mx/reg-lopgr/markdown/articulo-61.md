@@ -23,7 +23,9 @@ I. Intervenir, por sí o por conducto de los agentes del Ministerio Público de 
 
 II. Prestar auxilio técnico a las [Delegaciones](articulo-2.md) en materia de persecución de delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales, bajo una estrategia integral de actuación de la Procuraduría, con base en las normas aplicables y los criterios institucionales;
 
-III. Ejercer las atribuciones a que se refiere el artículo 4, fracción I, apartado B, fracciones IV, V y IX, de la [Ley Orgánica](articulo-2.md), por sí o por conducto de los agentes del Ministerio Público de la Federación en las Delegaciones, en los casos de su competencia; IV. Establecer las políticas institucionales para la actuación de los agentes del Ministerio Público de la Federación adscritos a los órganos jurisdiccionales federales que conozcan de la materia penal, en delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales;
+III. Ejercer las atribuciones a que se refiere el artículo 4, fracción I, apartado B, fracciones IV, V y IX, de la [Ley Orgánica](articulo-2.md), por sí o por conducto de los agentes del Ministerio Público de la Federación en las Delegaciones, en los casos de su competencia;
+
+IV. Establecer las políticas institucionales para la actuación de los agentes del Ministerio Público de la Federación adscritos a los órganos jurisdiccionales federales que conozcan de la materia penal, en delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales;
 
 V. Contribuir a la supervisión y evaluación primaria de la calidad técnico-jurídica de los procesos penales relacionados con los delitos competencia de las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delitos Federales a cargo de éstas, las Delegaciones;
 

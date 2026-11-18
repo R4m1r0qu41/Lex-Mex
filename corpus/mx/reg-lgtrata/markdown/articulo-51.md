@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 51
 
-Para proveer la debida Asistencia y Protección a víctimas, ofendidos o testigos en [Albergues](articulo-2.md), Casas de Medio Camino y Refugios, durante su recuperación, rehabilitación y reinserción, la REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Secretaría, a través de la Dirección General de Estrategias para la Atención de Derechos Humanos, podrá acudir a las instalaciones de los mismos, para verificar el respeto a los derechos humanos.
+Para proveer la debida Asistencia y Protección a víctimas, ofendidos o testigos en [Albergues](articulo-2.md), Casas de Medio Camino y Refugios, durante su recuperación, rehabilitación y reinserción, la Secretaría, a través de la Dirección General de Estrategias para la Atención de Derechos Humanos, podrá acudir a las instalaciones de los mismos, para verificar el respeto a los derechos humanos.
 
 Para tales efectos será aplicable, en lo conducente, la Ley Federal de Procedimiento Administrativo.

@@ -21,7 +21,9 @@ El [Comerciante](articulo-4o.md) que considere que ha incurrido en el incumplimi
 
 La solicitud de declaración de concurso mercantil del propio Comerciante deberá ser presentada en los formatos que al efecto dé a conocer el [Instituto](articulo-4o.md), la cual deberá contener al menos el nombre completo, denominación o razón social del Comerciante, el domicilio que señale para oír y recibir notificaciones, así como en su caso el domicilio social, el de sus diversas oficinas y establecimientos, incluyendo plantas, almacenes o bodegas, especificando en caso necesario en dónde tiene la administración principal de su empresa o en caso de ser una persona física, el domicilio donde vive y además, a ella deberán acompañarse los anexos siguientes: Párrafo reformado DOF 10-01-2014
 
-I. Los estados financieros del Comerciante, de los últimos tres años, los cuales deberán estar auditados cuando exista esta obligación en términos de ley; II. Una memoria en la que razone acerca de las causas que lo llevaron al estado de incumplimiento en que se encuentra;
+I. Los estados financieros del Comerciante, de los últimos tres años, los cuales deberán estar auditados cuando exista esta obligación en términos de ley;
+
+II. Una memoria en la que razone acerca de las causas que lo llevaron al estado de incumplimiento en que se encuentra;
 
 III. Una relación de sus acreedores y deudores que indique sus nombres y domicilios, la fecha de vencimiento del crédito o créditos de cada uno de ellos, el grado con que estima se les debe reconocer, indicando las características particulares de dichos créditos, así como de las garantías, reales o personales, que haya otorgado para garantizar deudas propias y de terceros; Fracción reformada DOF 27-12-2007
 

@@ -25,7 +25,9 @@ II.- La continuidad de los procesos evolutivos de las especies de flora y fauna 
 
 III.- La preservación de las especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
 
-IV.- El combate al tráfico o apropiación ilegal de especies; V.- El fomento y creación de las estaciones biológicas de rehabilitación y repoblamiento de especies de fauna silvestre;
+IV.- El combate al tráfico o apropiación ilegal de especies;
+
+V.- El fomento y creación de las estaciones biológicas de rehabilitación y repoblamiento de especies de fauna silvestre;
 
 VI.- La participación de las organizaciones sociales, públicas o privadas, y los demás interesados en la preservación de la biodiversidad;
 

@@ -17,7 +17,9 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 131
 
-La visita de inspección se realizará conforme a lo siguiente: I. Se iniciará con la notificación de la cédula y entrega de la orden de visita respectiva que se realice al representante legal de la visitada;
+La visita de inspección se realizará conforme a lo siguiente:
+
+I. Se iniciará con la notificación de la cédula y entrega de la orden de visita respectiva que se realice al representante legal de la visitada;
 
 II. Si al presentarse el inspector o visitador en el lugar o lugares designados para la visita de inspección, no se encontrara el representante legal de la visitada, dejará citatorio con la persona que se encuentre en dicho lugar o lugares para que el mencionado representante legal lo espere a hora determinada del día hábil siguiente para ser notificado de la orden de visita respectiva;
 

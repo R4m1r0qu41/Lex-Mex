@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["LGIPD — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
 source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 ---
@@ -47,6 +47,8 @@ XIII. Promover la creación y aplicación de Normas Oficiales Mexicanas en mater
 
 XIV. Elaborar, presentar y difundir anualmente el informe de avances y resultados del Programa;
 
-XV. Presentar un informe anual de actividades; XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el Estado Mexicano presentará ante los organismos internacionales, sobre la aplicación y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
+XV. Presentar un informe anual de actividades;
+
+XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el Estado Mexicano presentará ante los organismos internacionales, sobre la aplicación y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
 
 XVII. Las demás que se establezcan en esta Ley, su Reglamento, Estatuto Orgánico del Consejo y demás disposiciones aplicables.

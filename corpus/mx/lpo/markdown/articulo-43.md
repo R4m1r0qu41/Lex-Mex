@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["LPO — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf
 source_sha256: 2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6
 ---
@@ -25,6 +25,8 @@ II. Que los Operadores certificados utilicen sustancias prohibidas en contravenc
 
 III. Que un organismo aprobado certifique como orgánico un producto que no cumpla con lo establecido en la presente Ley debido a que se les hubiere aplicado prácticas, sustancias, materiales e ingredientes prohibidos;
 
-IV. El incumplimiento de parte del organismo aprobado de las obligaciones previstas en esta Ley y sus disposiciones; V. El uso por terceras personas de los [Métodos excluidos](articulo-3.md), a que se refiere la fracción X del artículo [3](articulo-3.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y
+IV. El incumplimiento de parte del organismo aprobado de las obligaciones previstas en esta Ley y sus disposiciones;
+
+V. El uso por terceras personas de los [Métodos excluidos](articulo-3.md), a que se refiere la fracción X del artículo [3](articulo-3.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y
 
 VI. El uso por terceras personas de substancias o materiales prohibidos y los referidos en el artículo [27](articulo-27.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las operaciones orgánicas o en periodo de conversión.

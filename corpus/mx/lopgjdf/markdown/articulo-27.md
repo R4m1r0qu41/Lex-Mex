@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["LOPGJDF — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -35,7 +35,9 @@ VII. Recibir en acuerdo a los titulares de las unidades administrativas de su ad
 
 VIII. Participar, en el ámbito de sus respectivas competencias, en cualquier etapa de la averiguación previa o del proceso;
 
-IX. Solicitar al Director General de Política y Estadística Criminal, información sobre los índices de cargas de trabajo, de productividad y de probidad, de cada área de su adscripción; X. Proporcionar, atendiendo a los preceptos de transparencia y acceso a la información pública, los datos y cooperación técnica que les sean solicitados por otras dependencias o entidades, de acuerdo con las disposiciones legales y políticas establecidas;
+IX. Solicitar al Director General de Política y Estadística Criminal, información sobre los índices de cargas de trabajo, de productividad y de probidad, de cada área de su adscripción;
+
+X. Proporcionar, atendiendo a los preceptos de transparencia y acceso a la información pública, los datos y cooperación técnica que les sean solicitados por otras dependencias o entidades, de acuerdo con las disposiciones legales y políticas establecidas;
 
 XI. Planear y coordinar los programas y medidas necesarias para prevenir que las áreas que les estén adscritas no incurran en rezago;
 

@@ -13,6 +13,9 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf
 source_sha256: 94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143
 ---
 
+> **Ley declarada inválida por la SCJN (no abrogada) — texto histórico.** Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023
+> Fuente formal: [Diario Oficial de la Federación](https://dof.gob.mx/nota_detalle.php?codigo=5709440&fecha=24/11/2023). No se infieren fechas ni efectos por disposición.
+
 # Vigésimo Segundo
 
 El Congreso de la Unión creará una comisión de estudio para la implementación del voto electrónico, con la participación del Instituto Nacional Electoral y el Consejo Nacional de Ciencia y Tecnología para diseñar de manera gradual, cierta, segura y austera, un sistema de votación que utilice las tecnologías de la información y telecomunicaciones para facilitar la emisión del voto, con certeza absoluta y seguridad comprobada, en resguardo del ejercicio del voto libre y secreto. En un lapso máximo de cinco años deberá presentar al Congreso sus resultados. Mientras tanto, el Instituto Nacional Electoral y los Organismos Públicos Locales se abstendrán de destinar recursos para el diseño e implementación de sistemas de votación que ajenos a los resultados de la Comisión señalada en el presente transitorio.

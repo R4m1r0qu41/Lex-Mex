@@ -29,7 +29,9 @@ c) Estructura del casco;
 
 d) Compartimentado y estabilidad, y
 
-e) Construcción y reparación naval; II. Inspector de Cubierta y Máquinas, para atender las funciones relativas a:
+e) Construcción y reparación naval;
+
+II. Inspector de Cubierta y Máquinas, para atender las funciones relativas a:
 
 a) Sistemas de máquinas y eléctricos;
 

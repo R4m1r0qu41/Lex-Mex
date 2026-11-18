@@ -29,7 +29,9 @@ IV. Volumen y valor de la producción nacional del producto idéntico o similar 
 
 V. Descripción de la participación del promovente, en volumen y valor, en la producción nacional;
 
-VI. Los fundamentos legales en que se sustenta; VII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y características comparativamente con la de producción nacional y, los demás datos que la individualicen; el volumen y valor que se importó o pretenda importarse con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
+VI. Los fundamentos legales en que se sustenta;
+
+VII. Descripción de la mercancía de cuya importación se trate, acompañando las especificaciones y características comparativamente con la de producción nacional y, los demás datos que la individualicen; el volumen y valor que se importó o pretenda importarse con base en la unidad de medida correspondiente y su clasificación arancelaria conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
 VIII. Nombre o razón social y domicilio de las personas que se tenga conocimiento efectuaron la importación o de quienes pretenden realizarla, aclarando si dicha importación se realizó o realizará en una o varias operaciones;
 

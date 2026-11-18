@@ -334,12 +334,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:11:term-usage:431-441",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:11:term-usage:432-442",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 431,
-    "end_char": 441
+    "start_char": 432,
+    "end_char": 442
   },
   {
     "schema_version": "0.1.0",
@@ -424,75 +424,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:1890-1897",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:1891-1898",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 1890,
-    "end_char": 1897
+    "start_char": 1891,
+    "end_char": 1898
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2762-2769",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2763-2770",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 2762,
-    "end_char": 2769
+    "start_char": 2763,
+    "end_char": 2770
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2774-2784",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2775-2785",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2774,
-    "end_char": 2784
+    "start_char": 2775,
+    "end_char": 2785
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2950-2957",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2951-2958",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 2950,
-    "end_char": 2957
+    "start_char": 2951,
+    "end_char": 2958
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3122-3132",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3123-3133",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3122,
-    "end_char": 3132
+    "start_char": 3123,
+    "end_char": 3133
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3155-3162",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3156-3163",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 3155,
-    "end_char": 3162
+    "start_char": 3156,
+    "end_char": 3163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3213-3220",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3214-3221",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 3213,
-    "end_char": 3220
+    "start_char": 3214,
+    "end_char": 3221
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3476-3483",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3477-3484",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
-    "start_char": 3476,
-    "end_char": 3483
+    "start_char": 3477,
+    "end_char": 3484
   },
   {
     "schema_version": "0.1.0",

@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
-      "provision_text_sha256": "76268a73e19cc0a88cf4bc0d2be58950b9d3961a7f20ab854d501b95b12acd20",
+      "provision_text_sha256": "6ac143fa526e40190fe7a617992c1b12cd8367bea8ea79390ca4550387822086",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -54,10 +55,10 @@
         "XL"
       ],
       "unread_fractions": [],
-      "term_count": 41
+      "term_count": 42
     }
   ],
   "imports": [],
-  "term_count": 41,
-  "usage_count": 741
+  "term_count": 42,
+  "usage_count": 751
 }

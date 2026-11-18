@@ -271,7 +271,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:3",
     "fraction": "XXVI",
     "start_char": 4183,
-    "end_char": 4467,
+    "end_char": 4468,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:3",
     "fraction": "XXVII",
-    "start_char": 4467,
-    "end_char": 4638,
+    "start_char": 4468,
+    "end_char": 4639,
     "basis": "express_definition"
   }
 ]

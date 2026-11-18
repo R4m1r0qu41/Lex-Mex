@@ -120,14 +120,7 @@
     "end_char": 36,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:91",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, IV, V, VI y VII",
-        "start_char": 276,
-        "end_char": 309
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1369,11 +1362,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis:reference:306-307:3:direct",
+    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis:reference:307-308:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsm:article:249-bis",
     "source_span": "3",
-    "start_char": 306,
-    "end_char": 307,
+    "start_char": 307,
+    "end_char": 308,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:3",
     "qualifiers": [],
@@ -1385,11 +1378,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis:reference:453-459:50-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis:reference:454-460:50-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsm:article:249-bis",
     "source_span": "50 Bis",
-    "start_char": 453,
-    "end_char": 459,
+    "start_char": 454,
+    "end_char": 460,
     "target_instrument_id": "urn:lex-mx:federal:code:ccom",
     "target_provision_id": "urn:lex-mx:federal:code:ccom:article:50-bis",
     "qualifiers": [],
@@ -1449,11 +1442,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis-1:reference:2231-2237:50-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lgsm:article:249-bis-1:reference:2232-2238:50-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsm:article:249-bis-1",
     "source_span": "50 Bis",
-    "start_char": 2231,
-    "end_char": 2237,
+    "start_char": 2232,
+    "end_char": 2238,
     "target_instrument_id": "urn:lex-mx:federal:code:ccom",
     "target_provision_id": "urn:lex-mx:federal:code:ccom:article:50-bis",
     "qualifiers": [],
@@ -1510,18 +1503,6 @@
         "text": "párrafo segundo",
         "start_char": 588,
         "end_char": 603
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 656,
-        "end_char": 668
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 684,
-        "end_char": 699
       }
     ],
     "basis": "express_cross_reference",
@@ -2413,20 +2394,7 @@
     "end_char": 243,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:6",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y VI",
-        "start_char": 290,
-        "end_char": 307
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 309,
-        "end_char": 323
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2442,14 +2410,7 @@
     "end_char": 350,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:91",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 384,
-        "end_char": 394
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

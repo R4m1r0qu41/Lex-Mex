@@ -7,8 +7,8 @@ provision_type: article
 number: "2o"
 aliases: ["LIE — Artículo 2o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf
 source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 ---
@@ -31,7 +31,9 @@ c) La participación de inversionistas extranjeros en las actividades y actos co
 
 III.- Inversionista extranjero: a la persona física o moral de nacionalidad distinta a la mexicana y las entidades extranjeras sin personalidad jurídica;
 
-IV.- Registro: el Registro Nacional de Inversiones Extranjeras; V. Secretaría: la Secretaría de Economía; Fracción reformada DOF 09-04-2012
+IV.- Registro: el Registro Nacional de Inversiones Extranjeras;
+
+V. Secretaría: la Secretaría de Economía; Fracción reformada DOF 09-04-2012
 
 VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo largo de las fronteras y de cincuenta a lo largo de las playas, a que hace referencia la fracción I del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; y
 

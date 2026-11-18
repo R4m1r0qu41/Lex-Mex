@@ -2,6 +2,8 @@ use chrono::{DateTime, NaiveDate, Utc};
 use serde::{Deserialize, Serialize};
 use url::Url;
 
+pub mod public_query;
+pub mod structure_pilot;
 mod temporal;
 
 pub use temporal::{
@@ -583,6 +585,184 @@ pub struct SourceRepealNotice {
     pub decision_source_sha256: String,
 }
 
+/// The prior decision's evidence, kept inside a re-confirmed record.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct ReconfirmedEvidence {
+    pub source_text_sha256: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+/// Fields a re-confirmation may change. Everything else (target, span,
+/// source hash, rationale or note) must stay identical.
+const RECONFIRMABLE_FIELDS: [&str; 8] = [
+    "source_text_sha256",
+    "reviewer",
+    "captured_at",
+    "reviewer_supplied_at",
+    "decision_source",
+    "decision_source_sha256",
+    "start_char",
+    "end_char",
+];
+
+/// Accept `candidate` as an audited re-confirmation of the persisted
+/// `prior` decision. The words of the source provision must be unchanged
+/// (`prior_text` is the persisted text, `new_text` the reparsed one); the
+/// candidate must carry the prior evidence, bind to the new text, and still
+/// point its offsets at the same cited span. Any other change is refused.
+pub fn check_reconfirmation<T: Serialize>(
+    prior: &T,
+    candidate: &T,
+    prior_text: &str,
+    new_text: &str,
+) -> Result<(), String> {
+    let value = |v: &T| serde_json::to_value(v).map_err(|e| e.to_string());
+    let (prior, candidate) = (value(prior)?, value(candidate)?);
+    let field = |v: &serde_json::Value, k: &str| v.get(k).cloned().unwrap_or_default();
+    let mut stripped = [prior.clone(), candidate.clone()];
+    for v in &mut stripped {
+        if let Some(map) = v.as_object_mut() {
+            for k in RECONFIRMABLE_FIELDS.iter().chain(&["reconfirms"]) {
+                map.remove(*k);
+            }
+        }
+    }
+    if stripped[0] != stripped[1] {
+        return Err("re-confirmation changes more than the allowed evidence fields".to_owned());
+    }
+    let evidence = serde_json::json!({
+        "source_text_sha256": field(&prior, "source_text_sha256"),
+        "reviewer": field(&prior, "reviewer"),
+        "captured_at": field(&prior, "captured_at"),
+        "decision_source": field(&prior, "decision_source"),
+        "decision_source_sha256": field(&prior, "decision_source_sha256"),
+    });
+    if field(&candidate, "reconfirms") != evidence {
+        return Err("re-confirmation does not carry the prior decision's evidence".to_owned());
+    }
+    if field(&prior, "source_text_sha256") != serde_json::json!(evidence_sha256(prior_text)) {
+        return Err(
+            "re-confirmation refused: the persisted text does not bind to the prior decision"
+                .to_owned(),
+        );
+    }
+    if normalized_whitespace(prior_text) != normalized_whitespace(new_text) {
+        return Err("re-confirmation refused: the provision's words changed".to_owned());
+    }
+    if field(&candidate, "source_text_sha256") != serde_json::json!(evidence_sha256(new_text)) {
+        return Err("re-confirmation does not bind to the reparsed text".to_owned());
+    }
+    let offset =
+        |v: &serde_json::Value, k: &str| field(v, k).as_u64().and_then(|n| usize::try_from(n).ok());
+    let span_at = |text: &str, v: &serde_json::Value| -> Option<(usize, usize, String)> {
+        let (s, e) = offset(v, "start_char").zip(offset(v, "end_char"))?;
+        (s < e).then(|| (s, e, text.chars().skip(s).take(e - s).collect()))
+    };
+    let cited = field(&candidate, "source_span");
+    let Some((prior_start, prior_end, prior_span)) = span_at(prior_text, &prior) else {
+        return Err("re-confirmation refused: the prior offsets are invalid".to_owned());
+    };
+    if prior_span.as_str() != cited.as_str().unwrap_or_default() {
+        return Err(
+            "re-confirmation refused: the prior offsets do not cover the cited span".to_owned(),
+        );
+    }
+    // The same occurrence after the reflow: map the prior offsets by counting
+    // non-whitespace characters, so a repeated citation cannot be swapped.
+    let expected = reflowed_offset(prior_text, new_text, prior_start, false)
+        .zip(reflowed_offset(prior_text, new_text, prior_end, true));
+    let Some((start, end, span)) = span_at(new_text, &candidate) else {
+        return Err("re-confirmation offsets are invalid".to_owned());
+    };
+    if expected != Some((start, end)) || span.as_str() != cited.as_str().unwrap_or_default() {
+        return Err(
+            "re-confirmation offsets do not point at the same occurrence of the cited span"
+                .to_owned(),
+        );
+    }
+    Ok(())
+}
+
+/// The character offset in `new_text` of the character at `offset` in
+/// `prior_text`, when the two differ only in whitespace. A start maps to the
+/// position of the same non-whitespace character; an end maps to just after
+/// the last non-whitespace character before it.
+fn reflowed_offset(prior_text: &str, new_text: &str, offset: usize, is_end: bool) -> Option<usize> {
+    let solid = prior_text
+        .chars()
+        .take(offset)
+        .filter(|c| !c.is_whitespace())
+        .count();
+    let mut seen = 0;
+    for (index, character) in new_text.chars().enumerate() {
+        if character.is_whitespace() {
+            continue;
+        }
+        if !is_end && seen == solid {
+            return Some(index);
+        }
+        seen += 1;
+        if is_end && seen == solid {
+            return Some(index + 1);
+        }
+    }
+    (!is_end && seen == solid).then(|| new_text.chars().count())
+}
+
+/// A short reviewer-authored note on one provision (for example, a deferred
+/// application date a reform decree sets). It is presentation metadata kept
+/// apart from the official text: it never changes `text` or any temporal
+/// field. It binds to the whitespace-normalized provision text, so a
+/// reflow that changes no words does not invalidate it.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct ProvisionNote {
+    pub provision_id: String,
+    pub provision_text_sha256: String,
+    pub note: String,
+    pub source_sha256: String,
+    pub source_basis: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    pub rationale: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+impl ProvisionNote {
+    pub fn validate(&self) -> Result<(), String> {
+        let schema: serde_json::Value = serde_json::from_str(include_str!(
+            "../../../schemas/reviewer-provision-note.schema.json"
+        ))
+        .map_err(|e| e.to_string())?;
+        jsonschema::validator_for(&schema)
+            .map_err(|e| e.to_string())?
+            .validate(&serde_json::to_value(self).map_err(|e| e.to_string())?)
+            .map_err(|e| e.to_string())?;
+        if chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err() {
+            return Err("invalid reviewer provision note".to_owned());
+        }
+        Ok(())
+    }
+
+    /// The hash this note binds to for `text`.
+    #[must_use]
+    pub fn text_hash(text: &str) -> String {
+        evidence_sha256(&normalized_whitespace(text))
+    }
+
+    /// True when the note's source quote appears in the retained source text.
+    #[must_use]
+    pub fn matches_source(&self, source_hash: &str, raw: &str) -> bool {
+        self.source_sha256 == source_hash
+            && normalized_whitespace(raw).contains(&normalized_whitespace(&self.source_basis))
+    }
+}
+
 /// Exact abrogating provision of the successor instrument, bound by canonical text hash.
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
 #[serde(deny_unknown_fields)]
@@ -593,6 +773,20 @@ pub struct SuccessorAbrogationClause {
 
 fn normalized_whitespace(text: &str) -> String {
     text.split_whitespace().collect::<Vec<_>>().join(" ")
+}
+
+/// A header-basis note quotes one of the Cámara's two printed headers that end
+/// an instrument's force: `Ley Abrogada DOF dd-mm-yyyy`, or an SCJN invalidity
+/// declaration `Declaratoria de invalidez del Decreto DOF dd-mm-yyyy …` (the
+/// decree date; the effects date comes from the ruling, never from this note).
+fn header_repeal_note_is_dated(note: &str) -> bool {
+    let parses = |date: &str| chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_ok();
+    if let Some(date) = note.strip_prefix("Ley Abrogada DOF ") {
+        return parses(date);
+    }
+    note.strip_prefix("Declaratoria de invalidez del Decreto DOF ")
+        .and_then(|rest| rest.get(..10).filter(|_| rest.len() > 10))
+        .is_some_and(parses)
 }
 
 impl SourceRepealNotice {
@@ -611,12 +805,7 @@ impl SourceRepealNotice {
                 || host.ends_with(".dof.gob.mx")
                 || host == "sidof.segob.gob.mx")
             || match &self.successor_clause {
-                None => self
-                    .source_note
-                    .strip_prefix("Ley Abrogada DOF ")
-                    .is_none_or(|date| {
-                        chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_err()
-                    }),
+                None => !header_repeal_note_is_dated(&self.source_note),
                 Some(clause) => self
                     .successor_instrument_id
                     .as_ref()
@@ -694,6 +883,9 @@ pub struct Instrument {
     pub status: InstrumentStatus,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub source_repeal_notice: Option<SourceRepealNotice>,
+    /// Reviewer notes on individual provisions, kept apart from the text.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub provision_notes: Vec<ProvisionNote>,
     /// Authorities that jointly issued the instrument. Empty for instruments
     /// recorded before joint-issuer support (for example, statutes enacted by
     /// Congress and recorded only through their operational publisher).
@@ -934,6 +1126,9 @@ pub struct OutdatedReferenceApproval {
     pub rationale: String,
     pub decision_source: String,
     pub decision_source_sha256: String,
+    /// Evidence of the decision this record re-confirms after a text reflow.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reconfirms: Option<ReconfirmedEvidence>,
 }
 
 impl OutdatedReferenceApproval {
@@ -1000,6 +1195,9 @@ pub struct LegalOperatorReview {
     pub note: String,
     pub decision_source: String,
     pub decision_source_sha256: String,
+    /// Evidence of the decision this record re-confirms after a text reflow.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reconfirms: Option<ReconfirmedEvidence>,
 }
 
 impl LegalOperatorReview {
@@ -1119,6 +1317,101 @@ pub fn fraction_qualifier_rank(qualifier: &str) -> Option<u32> {
     .iter()
     .position(|known| *known == qualifier)
     .and_then(|index| u32::try_from(index + 1).ok())
+}
+
+/// The Roman fraction marker that opens a paragraph or source line, as printed:
+/// `VI. `, `VI.- `, `VI.– `, `XI Bis.- `, `XX. BIS. `. Parsed lexically and with
+/// no context policy: lone `C`, `L`, `D` and `M` are returned, and each caller
+/// decides whether its context admits them (see [`fraction_marker`]).
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct FractionMarker<'a> {
+    /// The Roman numeral (`XI`).
+    pub numeral: &'a str,
+    /// The qualifier word, if any, as printed (`Bis`, `BIS`, `Quáter`).
+    pub qualifier: Option<&'a str>,
+    /// The printed label from the numeral through the qualifier (`XI Bis`,
+    /// `XX. BIS`), the input of [`normalize_fraction_label`].
+    pub label: &'a str,
+    /// The separator after the label: `.`, `.-` or `.–`.
+    pub separator: &'a str,
+    /// Unicode scalar values from the start of the text through the
+    /// separator, excluding the whitespace that must follow it.
+    pub end_char: usize,
+}
+
+/// Read a fraction marker at the very start of `text`: a Roman numeral
+/// (`I V X L C D M`), optionally a qualifier word that
+/// [`fraction_qualifier_rank`] recognizes (preceded by whitespace, or by a
+/// period and whitespace), then `.`, optionally `-` or `–`, then whitespace.
+/// Text with any other shape (`II.Texto`, `I.-Texto`, `III Texto`,
+/// `XXIX-A.`, `I).`) is not a marker.
+#[must_use]
+pub fn fraction_marker(text: &str) -> Option<FractionMarker<'_>> {
+    fraction_marker_where(text, |_| true)
+}
+
+/// [`fraction_marker`] restricted to the readings `accept` admits. Readings
+/// are offered in the order a regex reads them: the qualified label first,
+/// then the bare numeral. So a caller whose context rejects the qualified
+/// reading still gets the bare one, as its regex did (`XX. Bis.- Texto`
+/// under a period-only rule reads `XX.`).
+#[must_use]
+pub fn fraction_marker_where<'a>(
+    text: &'a str,
+    mut accept: impl FnMut(&FractionMarker<'a>) -> bool,
+) -> Option<FractionMarker<'a>> {
+    let numeral_len = text
+        .bytes()
+        .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C' | b'D' | b'M'))
+        .count();
+    if numeral_len == 0 {
+        return None;
+    }
+    let after_numeral = &text[numeral_len..];
+    let spaced = after_numeral.strip_prefix('.').unwrap_or(after_numeral);
+    let word_start = spaced.trim_start_matches(char::is_whitespace);
+    if word_start.len() < spaced.len() {
+        let word_len = word_start
+            .char_indices()
+            .find(|(_, c)| !c.is_alphabetic())
+            .map_or(word_start.len(), |(index, _)| index);
+        let word = &word_start[..word_len];
+        if fraction_qualifier_rank(word).is_some() {
+            let label_end = text.len() - word_start.len() + word_len;
+            if let Some(marker) = marker_ending_at(text, numeral_len, label_end, Some(word))
+                .filter(|marker| accept(marker))
+            {
+                return Some(marker);
+            }
+        }
+    }
+    // No qualified reading completes (`XX. Bis de la ley`) or is accepted:
+    // the bare numeral may still be the label, as both earlier recognizers
+    // read it.
+    marker_ending_at(text, numeral_len, numeral_len, None).filter(|marker| accept(marker))
+}
+
+/// The marker whose label ends at byte `label_end`, if a separator and the
+/// required whitespace follow it there.
+fn marker_ending_at<'a>(
+    text: &'a str,
+    numeral_len: usize,
+    label_end: usize,
+    qualifier: Option<&'a str>,
+) -> Option<FractionMarker<'a>> {
+    let rest = text[label_end..].strip_prefix('.')?;
+    let dash = ['-', '–'].into_iter().find(|dash| rest.starts_with(*dash));
+    let separator_end = label_end + 1 + dash.map_or(0, char::len_utf8);
+    if !text[separator_end..].starts_with(char::is_whitespace) {
+        return None;
+    }
+    Some(FractionMarker {
+        numeral: &text[..numeral_len],
+        qualifier,
+        label: &text[..label_end],
+        separator: &text[label_end..separator_end],
+        end_char: text[..separator_end].chars().count(),
+    })
 }
 
 /// A printed fraction label with its qualifier in title case and one space
@@ -1582,6 +1875,26 @@ fn validate_review_metadata(corpus: &Corpus) -> Result<(), String> {
             return Err("source-backed repeal notice/status identity mismatch".to_owned());
         }
     }
+    let mut noted = std::collections::HashSet::new();
+    for note in &corpus.instrument.provision_notes {
+        note.validate()?;
+        let bound = corpus.provisions.iter().any(|p| {
+            p.id == note.provision_id
+                && ProvisionNote::text_hash(&p.text) == note.provision_text_sha256
+        });
+        if !bound || note.source_sha256 != corpus.instrument.source_sha256 {
+            return Err(format!(
+                "reviewer provision note does not bind: {}",
+                note.provision_id
+            ));
+        }
+        if !noted.insert((&note.provision_id, &note.note)) {
+            return Err(format!(
+                "duplicate reviewer provision note: {}",
+                note.provision_id
+            ));
+        }
+    }
     for edge in &corpus.references {
         if let Some(approval) = &edge.outdated_reference_approval {
             approval.validate()?;
@@ -1944,6 +2257,93 @@ pub struct ValidationReport {
 }
 
 #[cfg(test)]
+mod fraction_marker_tests {
+    use super::{FractionMarker, fraction_marker, fraction_marker_where};
+
+    fn label(text: &str) -> Option<(&str, &str, usize)> {
+        fraction_marker(text).map(|marker| (marker.label, marker.separator, marker.end_char))
+    }
+
+    #[test]
+    fn reads_the_period_and_dash_separators() {
+        assert_eq!(label("VI. La firma."), Some(("VI", ".", 3)));
+        assert_eq!(label("VI.- La firma."), Some(("VI", ".-", 4)));
+        assert_eq!(label("VI.– La firma."), Some(("VI", ".–", 4)));
+    }
+
+    #[test]
+    fn reads_a_qualifier_in_any_printed_form_and_counts_characters() {
+        // lcndh 23 `III Bis.-`; cpf 217 `I. bis.-`; lritf `XX BIS.`.
+        assert_eq!(label("III Bis.- Contar"), Some(("III Bis", ".-", 9)));
+        assert_eq!(label("I. bis.- El servidor"), Some(("I. bis", ".-", 8)));
+        assert_eq!(label("XX BIS. Luz"), Some(("XX BIS", ".", 7)));
+        // `Quáter` is one character longer in bytes than in scalars.
+        assert_eq!(label("X Quáter.- Texto"), Some(("X Quáter", ".-", 10)));
+        assert_eq!(
+            fraction_marker("XI Bis. T"),
+            Some(FractionMarker {
+                numeral: "XI",
+                qualifier: Some("Bis"),
+                label: "XI Bis",
+                separator: ".",
+                end_char: 7,
+            })
+        );
+    }
+
+    #[test]
+    fn a_word_that_is_not_a_qualifier_leaves_the_bare_numeral() {
+        assert_eq!(label("XX. Bisiesto"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX Bisiesto. T"), None);
+        assert_eq!(label("XXX Bis 1. Residuos"), None);
+    }
+
+    #[test]
+    fn a_qualifier_reading_that_does_not_complete_falls_back_to_the_bare_numeral() {
+        // Both earlier recognizers read these as a bare `XX.`.
+        assert_eq!(label("XX. Bis de la ley"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX. Bis.Texto"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX.- Bis de la ley"), Some(("XX", ".-", 4)));
+    }
+
+    #[test]
+    fn a_rejected_qualified_reading_falls_back_to_the_bare_numeral() {
+        let period_only = |text| {
+            fraction_marker_where(text, |marker| marker.separator == ".")
+                .map(|marker| (marker.label, marker.separator))
+        };
+        assert_eq!(period_only("XX. Bis.- Texto"), Some(("XX", ".")));
+        assert_eq!(period_only("XX Bis.- Texto"), None);
+        assert_eq!(period_only("XX Bis. Texto"), Some(("XX Bis", ".")));
+        assert_eq!(fraction_marker_where("VI. Texto", |_| false), None);
+    }
+
+    #[test]
+    fn other_shapes_are_not_markers() {
+        for other in [
+            "II.Texto",
+            "I.-Aeronave",
+            "III Asesores",
+            "XXIX-A. Para",
+            "I). Por",
+            "IV del artículo",
+            "Inciso",
+            "I.",
+            "I.-",
+            "",
+        ] {
+            assert_eq!(fraction_marker(other), None, "{other}");
+        }
+    }
+
+    #[test]
+    fn lone_letters_are_returned_for_the_caller_to_judge() {
+        assert_eq!(label("C. Presidente"), Some(("C", ".", 2)));
+        assert_eq!(label("L. Texto"), Some(("L", ".", 2)));
+    }
+}
+
+#[cfg(test)]
 mod fold_tests {
     use super::{CanonicalFoldOperation, fold_unit};
 
@@ -2214,6 +2614,186 @@ mod publication_metadata_tests {
         assert!(serialized.get("reviewer_supplied_at").is_none());
         // Header-basis notices must not serialize the successor-clause field.
         assert!(serialized.get("successor_clause").is_none());
+    }
+
+    #[test]
+    fn a_legal_operator_review_reconfirms_only_with_its_prior_evidence() {
+        let prior = LegalOperatorReview {
+            source_provision_id: "urn:lex-mx:federal:statute:lic:article:194".to_owned(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lfce".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lfce:article:31-bis".to_owned(),
+            source_span: "31 bis".to_owned(),
+            start_char: 4,
+            end_char: 10,
+            source_text_sha256: evidence_sha256("art 31 bis LFCE"),
+            reviewer: "Operator".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            note: "Fixture note".to_owned(),
+            decision_source: "docs/a.md".to_owned(),
+            decision_source_sha256: "a".repeat(64),
+            reconfirms: None,
+        };
+        let new_text = "art  31 bis\nLFCE";
+        let candidate = LegalOperatorReview {
+            source_text_sha256: evidence_sha256(new_text),
+            start_char: 5,
+            end_char: 11,
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T00:00:00Z".to_owned(),
+            decision_source: "docs/b.md".to_owned(),
+            decision_source_sha256: "b".repeat(64),
+            reconfirms: Some(ReconfirmedEvidence {
+                source_text_sha256: prior.source_text_sha256.clone(),
+                reviewer: prior.reviewer.clone(),
+                captured_at: prior.captured_at.clone(),
+                decision_source: prior.decision_source.clone(),
+                decision_source_sha256: prior.decision_source_sha256.clone(),
+            }),
+            ..prior.clone()
+        };
+        assert!(check_reconfirmation(&prior, &candidate, "art 31 bis LFCE", new_text).is_ok());
+        // The evidence survives serialization (database payloads store the record whole).
+        let round: LegalOperatorReview =
+            serde_json::from_str(&serde_json::to_string(&candidate).unwrap()).unwrap();
+        assert_eq!(round, candidate);
+        let mut renoted = candidate.clone();
+        renoted.note = "Another note".to_owned();
+        assert!(check_reconfirmation(&prior, &renoted, "art 31 bis LFCE", new_text).is_err());
+        let mut moved = candidate;
+        moved.start_char = 0;
+        assert!(check_reconfirmation(&prior, &moved, "art 31 bis LFCE", new_text).is_err());
+    }
+
+    #[test]
+    fn a_reconfirmation_keeps_the_same_occurrence_and_binds_the_prior_text() {
+        // Codex re-review 2026-11-13: repeated identical citations and a
+        // persisted text that no longer matches the prior decision.
+        let prior_text = "art 31 bis y art 31 bis";
+        let new_text = "art  31 bis y art 31 bis";
+        let prior = LegalOperatorReview {
+            source_provision_id: "urn:lex-mx:federal:statute:lic:article:194".to_owned(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lfce".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lfce:article:31-bis".to_owned(),
+            source_span: "31 bis".to_owned(),
+            start_char: 4,
+            end_char: 10,
+            source_text_sha256: evidence_sha256(prior_text),
+            reviewer: "Operator".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            note: "Fixture note".to_owned(),
+            decision_source: "docs/a.md".to_owned(),
+            decision_source_sha256: "a".repeat(64),
+            reconfirms: None,
+        };
+        let evidence = ReconfirmedEvidence {
+            source_text_sha256: prior.source_text_sha256.clone(),
+            reviewer: prior.reviewer.clone(),
+            captured_at: prior.captured_at.clone(),
+            decision_source: prior.decision_source.clone(),
+            decision_source_sha256: prior.decision_source_sha256.clone(),
+        };
+        let candidate = |start: usize, end: usize| LegalOperatorReview {
+            source_text_sha256: evidence_sha256(new_text),
+            start_char: start,
+            end_char: end,
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T00:00:00Z".to_owned(),
+            reconfirms: Some(evidence.clone()),
+            ..prior.clone()
+        };
+        // The first citation after the reflow sits at 5..11.
+        assert!(check_reconfirmation(&prior, &candidate(5, 11), prior_text, new_text).is_ok());
+        // Moving the decision to the second, identical citation is refused.
+        assert!(check_reconfirmation(&prior, &candidate(18, 24), prior_text, new_text).is_err());
+        // A persisted text that does not bind to the prior hash is refused.
+        let mut stale = prior.clone();
+        stale.source_text_sha256 = "b".repeat(64);
+        let mut stale_candidate = candidate(5, 11);
+        stale_candidate
+            .reconfirms
+            .as_mut()
+            .unwrap()
+            .source_text_sha256 = "b".repeat(64);
+        assert!(check_reconfirmation(&stale, &stale_candidate, prior_text, new_text).is_err());
+        // Prior offsets that do not cover the cited span are refused.
+        let mut misplaced = prior.clone();
+        misplaced.start_char = 0;
+        misplaced.end_char = 6;
+        let mut misplaced_candidate = candidate(0, 6);
+        misplaced_candidate.start_char = 0;
+        assert!(
+            check_reconfirmation(&misplaced, &misplaced_candidate, prior_text, new_text).is_err()
+        );
+    }
+
+    #[test]
+    fn provision_note_binds_to_words_not_whitespace_and_to_its_source_quote() {
+        let raw = include_str!("../../../fixtures/diputados/cpeum-2028-application-transitory.txt");
+        let text = "Para ser Presidente se requiere:\n\nI. Ser ciudadano.";
+        let note = ProvisionNote {
+            provision_id: "urn:lex-mx:federal:constitution:cpeum:article:82".to_owned(),
+            provision_text_sha256: ProvisionNote::text_hash(text),
+            note: "Artículo vigente a partir del proceso electoral 2028.".to_owned(),
+            source_sha256: "a".repeat(64),
+            source_basis: "Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.".to_owned(),
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T05:00:00Z".to_owned(),
+            rationale: "r".to_owned(),
+            decision_source: "docs/x.md".to_owned(),
+            decision_source_sha256: "b".repeat(64),
+        };
+        assert!(note.validate().is_ok());
+        assert!(note.matches_source(&"a".repeat(64), raw));
+        assert!(!note.matches_source(&"c".repeat(64), raw));
+        // A reflow that changes no words keeps the binding; a word change breaks it.
+        assert_eq!(
+            ProvisionNote::text_hash("Para ser Presidente se requiere: I.  Ser ciudadano."),
+            note.provision_text_sha256
+        );
+        assert_ne!(
+            ProvisionNote::text_hash("Para ser Presidenta se requiere: I. Ser ciudadana."),
+            note.provision_text_sha256
+        );
+        let mut empty = note.clone();
+        empty.note = " ".to_owned();
+        assert!(empty.validate().is_err());
+    }
+
+    #[test]
+    fn source_repeal_notice_accepts_a_printed_scjn_invalidity_header() {
+        let raw = include_str!("../../../fixtures/diputados/lgmime-invalidity-header.txt");
+        let notice = SourceRepealNotice {
+            source_note: "Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta \
+                Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el \
+                24 de noviembre de 2023"
+                .to_owned(),
+            source_sha256: "a".repeat(64),
+            formal_publication_url: "https://dof.gob.mx/nota_detalle.php?codigo=5709440"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: None,
+            successor_clause: None,
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-11-12T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only; invalidated, not abrogated".to_owned(),
+            decision_source: "fixture decision".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        assert!(notice.matches_source(&"a".repeat(64), raw));
+        let mut undated = notice.clone();
+        undated.source_note = "Declaratoria de invalidez del Decreto DOF".to_owned();
+        assert!(undated.validate().is_err());
+        let mut bare = notice.clone();
+        bare.source_note = "Declaratoria de invalidez del Decreto DOF 02-03-2023".to_owned();
+        assert!(
+            bare.validate().is_err(),
+            "the note must quote beyond the date"
+        );
+        let mut other = notice;
+        other.source_note = "Declaratoria de invalidez del artículo 5".to_owned();
+        assert!(other.validate().is_err());
     }
 
     fn successor_corpus_and_notice() -> (Corpus, SourceRepealNotice) {

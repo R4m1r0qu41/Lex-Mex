@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LDCMPME — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf
 source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 ---
@@ -29,7 +29,9 @@ IV. Evaluar de manera conjunta con las Entidades Federativas, con los Municipios
 
 V. Evaluar anualmente el desempeño de la [Competitividad](articulo-3.md) nacional en relación al entorno internacional;
 
-VI. Proponer la actualización de los [Programas](articulo-3.md) de manera continua para establecer objetivos en el corto, mediano y largo plazo; VII. Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;
+VI. Proponer la actualización de los [Programas](articulo-3.md) de manera continua para establecer objetivos en el corto, mediano y largo plazo;
+
+VII. Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;
 
 VIII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y [Cadenas Productivas](articulo-3.md);
 

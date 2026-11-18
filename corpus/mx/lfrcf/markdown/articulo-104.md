@@ -41,7 +41,9 @@ Igualmente participará con voz, pero sin voto, en los comités de obras y de ad
 
 X. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del [Informe General](articulo-4.md), los informes individuales y demás documentos que le envíe la Auditoría Superior de la Federación;
 
-XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior de la Federación, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión; XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
+XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior de la Federación, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
+
+XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
 
 XIII. Atender prioritariamente las denuncias;
 

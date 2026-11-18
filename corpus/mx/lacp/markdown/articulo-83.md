@@ -19,7 +19,9 @@ source_sha256: d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348
 
 Para formalizar el contrato de afiliación deberá cumplirse cuando menos con lo siguiente:
 
-I. Exhibir acta del acuerdo de asamblea de la [Sociedad Financiera Popular](articulo-3o.md) en la que se haya acordado la afiliación correspondiente; II. Contar con el dictamen favorable de la [Federación](articulo-3o.md), y
+I. Exhibir acta del acuerdo de asamblea de la [Sociedad Financiera Popular](articulo-3o.md) en la que se haya acordado la afiliación correspondiente;
+
+II. Contar con el dictamen favorable de la [Federación](articulo-3o.md), y
 
 III. Contar con la autorización de la [Comisión](articulo-3o.md), para operar como Sociedad Financiera Popular.
 

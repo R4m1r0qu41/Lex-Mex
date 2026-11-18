@@ -23,7 +23,9 @@ A través de sus diversos procesos, el Subsistema:
 
 I. Registrará y procesará la información necesaria para la definición de los perfiles y requerimientos de los cargos incluidos en el [Catálogo](articulo-3.md), en coordinación con las dependencias. La Secretaría no autorizará ningún cargo que no esté incluido y descrito en el Catálogo;
 
-II. Operará el [Registro](articulo-3.md); III. Calculará las necesidades cuantitativas de personal, en coordinación con las dependencias y con base en el Registro, considerando los efectos de los cambios en las estructuras organizacionales, la rotación, retiro, y separación de los servidores públicos sujetos a esta Ley, con el fin de que la estructura de la [Administración Pública](articulo-3.md) tenga el número de servidores públicos adecuado para su buen funcionamiento y, acorde con los principios rectores de este Sistema, promueva y garantice la equidad de género y permita la movilidad de los miembros del Sistema; Fracción reformada DOF 09-01-2006
+II. Operará el [Registro](articulo-3.md);
+
+III. Calculará las necesidades cuantitativas de personal, en coordinación con las dependencias y con base en el Registro, considerando los efectos de los cambios en las estructuras organizacionales, la rotación, retiro, y separación de los servidores públicos sujetos a esta Ley, con el fin de que la estructura de la [Administración Pública](articulo-3.md) tenga el número de servidores públicos adecuado para su buen funcionamiento y, acorde con los principios rectores de este Sistema, promueva y garantice la equidad de género y permita la movilidad de los miembros del Sistema; Fracción reformada DOF 09-01-2006
 
 IV. Elaborará estudios prospectivos de los escenarios futuros de la Administración Pública para determinar las necesidades de formación que requerirá la misma en el corto y mediano plazos, con el fin de permitir a los miembros del Sistema cubrir los perfiles demandados por los diferentes cargos establecidos en el Catálogo;
 

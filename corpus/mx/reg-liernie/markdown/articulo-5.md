@@ -23,7 +23,9 @@ De manera enunciativa pero no limitativa, se consideran bienes inmuebles destina
 
 I. Los que se destinen a tiempo compartido;
 
-II. Los destinados a alguna actividad industrial, comercial o turística y que de manera simultánea sean utilizados para fin residencial; III. Los adquiridos por instituciones de crédito, intermediarios financieros y organizaciones auxiliares del crédito, para la recuperación de adeudos a su favor que se deriven de operaciones propias de su objeto;
+II. Los destinados a alguna actividad industrial, comercial o turística y que de manera simultánea sean utilizados para fin residencial;
+
+III. Los adquiridos por instituciones de crédito, intermediarios financieros y organizaciones auxiliares del crédito, para la recuperación de adeudos a su favor que se deriven de operaciones propias de su objeto;
 
 IV. Los que se utilicen por personas morales para el cumplimiento de su objeto social, consistente en la enajenación, urbanización, construcción, fraccionamiento y demás actividades comprendidas en el desarrollo de proyectos inmobiliarios, hasta el momento de su comercialización o venta a terceros, y
 

@@ -21,7 +21,9 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Administrador del Sistema: en singular o plural, la sociedad, entidad o institución financiera que opera un [Sistema de Pagos](articulo-2o.md), establece sus [Normas Internas](articulo-2o.md) o, en su caso, lleva a cabo conforme a la normativa aplicable a ese Sistema de Pagos, las acciones para coordinar la actuación de los [Participantes](articulo-2o.md);
 
-II. Compensación: la sustitución que se lleve a cabo en términos de las Normas Internas de un Sistema de Pagos, de los derechos y obligaciones derivados de las Órdenes de Transferencia, por un único crédito o por una única obligación, de modo que sólo sea exigible dicho crédito u obligación netos, sin que para ello se requiera el consentimiento expreso de los Participantes; III. Liquidación: los cargos y abonos realizados en las cuentas de los Participantes que se lleven en un mismo Sistema de Pagos de acuerdo con las Normas Internas, correspondientes a los saldos deudores o acreedores que resulten a su cargo o a su favor como consecuencia del trámite de Órdenes de Transferencia Aceptadas;
+II. Compensación: la sustitución que se lleve a cabo en términos de las Normas Internas de un Sistema de Pagos, de los derechos y obligaciones derivados de las Órdenes de Transferencia, por un único crédito o por una única obligación, de modo que sólo sea exigible dicho crédito u obligación netos, sin que para ello se requiera el consentimiento expreso de los Participantes;
+
+III. Liquidación: los cargos y abonos realizados en las cuentas de los Participantes que se lleven en un mismo Sistema de Pagos de acuerdo con las Normas Internas, correspondientes a los saldos deudores o acreedores que resulten a su cargo o a su favor como consecuencia del trámite de Órdenes de Transferencia Aceptadas;
 
 IV. Normas Internas: respecto a un mismo Sistema de Pagos, las normas internas de adhesión y funcionamiento, incluyendo los manuales, procedimientos y los mecanismos de prevención para el caso de incumplimiento de un Participante en ese sistema, adoptadas de conformidad con la presente Ley;
 

@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "III",
     "start_char": 564,
-    "end_char": 898,
+    "end_char": 899,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "IV",
-    "start_char": 898,
-    "end_char": 1162,
+    "start_char": 899,
+    "end_char": 1163,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "V",
-    "start_char": 1162,
-    "end_char": 1226,
+    "start_char": 1163,
+    "end_char": 1227,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "VI",
-    "start_char": 1226,
-    "end_char": 1289,
+    "start_char": 1227,
+    "end_char": 1290,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "VII",
-    "start_char": 1289,
-    "end_char": 1367,
+    "start_char": 1290,
+    "end_char": 1368,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "VIII",
-    "start_char": 1367,
-    "end_char": 2034,
+    "start_char": 1368,
+    "end_char": 2035,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "IX",
-    "start_char": 2034,
-    "end_char": 2429,
+    "start_char": 2035,
+    "end_char": 2430,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "X",
-    "start_char": 2429,
-    "end_char": 2528,
+    "start_char": 2430,
+    "end_char": 2529,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "XI",
-    "start_char": 2528,
-    "end_char": 2737,
+    "start_char": 2529,
+    "end_char": 2738,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "XII",
-    "start_char": 2737,
-    "end_char": 2803,
+    "start_char": 2738,
+    "end_char": 2804,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "XIII",
-    "start_char": 2803,
-    "end_char": 2883,
+    "start_char": 2804,
+    "end_char": 2884,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
     "fraction": "XIV",
-    "start_char": 2883,
-    "end_char": 3052,
+    "start_char": 2884,
+    "end_char": 3053,
     "basis": "express_definition"
   }
 ]

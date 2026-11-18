@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["LGDNNA — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -35,7 +35,9 @@ VII. Proporcionar la asistencia de un traductor o intérprete;
 
 VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
 
-IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario; X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
+IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
+
+X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
 
 XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 

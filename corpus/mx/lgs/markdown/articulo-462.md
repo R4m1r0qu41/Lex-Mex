@@ -25,7 +25,9 @@ II. Al que comercie o realice actos de simulación jurídica que tengan por obje
 
 III. Al que trasplante un órgano o tejido, sin atender las preferencias y el orden establecido en las bases de datos hospitalarias, institucionales, estatales y nacional a que se refiere el artículo [336](articulo-336.md) de esta Ley;
 
-IV. A los que promuevan, favorezcan, faciliten o publiciten la obtención o la procuración ilegal de órganos, tejidos y células o el trasplante de los mismos; V. Al receptor del órgano que consienta la realización del trasplante conociendo su origen ilícito; Fracción reformada DOF 20-04-2015
+IV. A los que promuevan, favorezcan, faciliten o publiciten la obtención o la procuración ilegal de órganos, tejidos y células o el trasplante de los mismos;
+
+V. Al receptor del órgano que consienta la realización del trasplante conociendo su origen ilícito; Fracción reformada DOF 20-04-2015
 
 VI. Al que trasplante un órgano o tejido cuando el receptor y/o donador sean extranjeros, sin seguir el procedimiento establecido para tal efecto, y Fracción reformada DOF 20-04-2015
 

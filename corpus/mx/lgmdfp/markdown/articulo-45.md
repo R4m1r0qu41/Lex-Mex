@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["LGMDFP — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -31,7 +31,9 @@ IV. La persona titular de la [Comisión Nacional de Búsqueda](articulo-4.md); q
 
 V. La persona titular del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-VI. Tres personas del [Consejo Ciudadano](articulo-4.md) que representen a cada uno de los sectores que lo integran; VII. La persona titular de la Guardia Nacional; Fracción reformada DOF 16-07-2025
+VI. Tres personas del [Consejo Ciudadano](articulo-4.md) que representen a cada uno de los sectores que lo integran;
+
+VII. La persona titular de la Guardia Nacional; Fracción reformada DOF 16-07-2025
 
 VIII. Las personas titulares de las [Comisiones Locales de Búsqueda](articulo-4.md); Fracción reformada DOF 16-07-2025
 

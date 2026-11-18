@@ -19,7 +19,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 Los contribuyentes a que se refiere este Capítulo deberán calcular el impuesto del ejercicio a su cargo en los términos del artículo [9](articulo-9.md) de esta Ley.
 
-Contra el impuesto anual podrán efectuar los siguientes acreditamientos: I. El importe de los pagos provisionales efectuados durante el año de calendario.
+Contra el impuesto anual podrán efectuar los siguientes acreditamientos:
+
+I. El importe de los pagos provisionales efectuados durante el año de calendario.
 
 II. El impuesto acreditable en términos de los artículos [5](articulo-5.md) y [10](articulo-10.md) de esta ley.
 

@@ -17,7 +17,9 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 234
 
-Ingreso de la persona adolescente al Centro de Internamiento En caso de que se trate de una medida de privación de la libertad, la [Autoridad Administrativa](articulo-3.md) verificará el ingreso de la persona adolescente al Centro de Internamiento correspondiente y que se le explicó el contenido del Reglamento al que queda sujeto y los derechos que le asisten mientras se encuentra en dicho Centro. Se elaborará un Acta en la que constarán: I. Los datos personales de la persona adolescente sujeto a medida de sanción;
+Ingreso de la persona adolescente al Centro de Internamiento En caso de que se trate de una medida de privación de la libertad, la [Autoridad Administrativa](articulo-3.md) verificará el ingreso de la persona adolescente al Centro de Internamiento correspondiente y que se le explicó el contenido del Reglamento al que queda sujeto y los derechos que le asisten mientras se encuentra en dicho Centro. Se elaborará un Acta en la que constarán:
+
+I. Los datos personales de la persona adolescente sujeto a medida de sanción;
 
 II. Conducta por la cual fue sancionada;
 

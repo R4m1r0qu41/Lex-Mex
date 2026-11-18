@@ -19,7 +19,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 Los datos comprendidos en el [Inventario Nacional Forestal y de Suelos](articulo-7.md) serán la base para:
 
-I. La formulación, ejecución, control y seguimiento de programas y acciones en materia forestal; II. El cálculo del volumen de madera o biomasa forestal en pie, su incremento y el volumen de corta o aprovechamiento potencial;
+I. La formulación, ejecución, control y seguimiento de programas y acciones en materia forestal;
+
+II. El cálculo del volumen de madera o biomasa forestal en pie, su incremento y el volumen de corta o aprovechamiento potencial;
 
 III. La integración de la zonificación forestal, la ordenación forestal y el ordenamiento ecológico del territorio;
 

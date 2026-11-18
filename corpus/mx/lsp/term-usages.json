@@ -64,246 +64,246 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:802-815",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:803-816",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participantes",
-    "start_char": 802,
-    "end_char": 815
+    "start_char": 803,
+    "end_char": 816
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:842-858",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:843-859",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 842,
-    "end_char": 858
+    "start_char": 843,
+    "end_char": 859
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:878-893",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:879-894",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:normas-internas",
     "span": "Normas Internas",
-    "start_char": 878,
-    "end_char": 893
+    "start_char": 879,
+    "end_char": 894
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1095-1111",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1096-1112",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 1095,
-    "end_char": 1111
+    "start_char": 1096,
+    "end_char": 1112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1271-1283",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1272-1284",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participante",
-    "start_char": 1271,
-    "end_char": 1283
+    "start_char": 1272,
+    "end_char": 1284
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1441-1453",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1442-1454",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participante",
-    "start_char": 1441,
-    "end_char": 1453
+    "start_char": 1442,
+    "end_char": 1454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1470-1486",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1471-1487",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 1470,
-    "end_char": 1486
+    "start_char": 1471,
+    "end_char": 1487
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1495-1507",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1496-1508",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participante",
-    "start_char": 1495,
-    "end_char": 1507
+    "start_char": 1496,
+    "end_char": 1508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1521-1537",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1522-1538",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 1521,
-    "end_char": 1537
+    "start_char": 1522,
+    "end_char": 1538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1730-1742",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1731-1743",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participante",
-    "start_char": 1730,
-    "end_char": 1742
+    "start_char": 1731,
+    "end_char": 1743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1759-1775",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1760-1776",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 1759,
-    "end_char": 1775
+    "start_char": 1760,
+    "end_char": 1776
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1784-1796",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1785-1797",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:participante",
     "span": "Participante",
-    "start_char": 1784,
-    "end_char": 1796
+    "start_char": 1785,
+    "end_char": 1797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1810-1826",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1811-1827",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 1810,
-    "end_char": 1826
+    "start_char": 1811,
+    "end_char": 1827
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1978-2000",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:1979-2001",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:orden-de-transferencia",
     "span": "Orden de Transferencia",
-    "start_char": 1978,
-    "end_char": 2000
+    "start_char": 1979,
+    "end_char": 2001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2075-2090",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2076-2091",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:normas-internas",
     "span": "Normas Internas",
-    "start_char": 2075,
-    "end_char": 2090
+    "start_char": 2076,
+    "end_char": 2091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2097-2113",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2098-2114",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 2097,
-    "end_char": 2113
+    "start_char": 2098,
+    "end_char": 2114
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2158-2169",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2159-2170",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:liquidacion",
     "span": "Liquidación",
-    "start_char": 2158,
-    "end_char": 2169
+    "start_char": 2159,
+    "end_char": 2170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2203-2218",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2204-2219",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:normas-internas",
     "span": "Normas Internas",
-    "start_char": 2203,
-    "end_char": 2218
+    "start_char": 2204,
+    "end_char": 2219
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2223-2239",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2224-2240",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 2223,
-    "end_char": 2239
+    "start_char": 2224,
+    "end_char": 2240
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2442-2458",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2443-2459",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 2442,
-    "end_char": 2458
+    "start_char": 2443,
+    "end_char": 2459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2475-2490",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2476-2491",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:normas-internas",
     "span": "Normas Internas",
-    "start_char": 2475,
-    "end_char": 2490
+    "start_char": 2476,
+    "end_char": 2491
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2508-2524",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2509-2525",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
     "span": "Sistema de Pagos",
-    "start_char": 2508,
-    "end_char": 2524
+    "start_char": 2509,
+    "end_char": 2525
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2701-2713",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2702-2714",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:compensacion",
     "span": "Compensación",
-    "start_char": 2701,
-    "end_char": 2713
+    "start_char": 2702,
+    "end_char": 2714
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2747-2758",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2748-2759",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:liquidacion",
     "span": "Liquidación",
-    "start_char": 2747,
-    "end_char": 2758
+    "start_char": 2748,
+    "end_char": 2759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2954-2966",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:2955-2967",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:compensacion",
     "span": "Compensación",
-    "start_char": 2954,
-    "end_char": 2966
+    "start_char": 2955,
+    "end_char": 2967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:3000-3011",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:3001-3012",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:liquidacion",
     "span": "Liquidación",
-    "start_char": 3000,
-    "end_char": 3011
+    "start_char": 3001,
+    "end_char": 3012
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:3092-3117",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:term-usage:3093-3118",
     "provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsp:term:administrador-del-sistema",
     "span": "Administrador del Sistema",
-    "start_char": 3092,
-    "end_char": 3117
+    "start_char": 3093,
+    "end_char": 3118
   },
   {
     "schema_version": "0.1.0",

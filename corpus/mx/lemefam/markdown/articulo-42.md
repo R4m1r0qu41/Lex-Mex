@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["LEMEFAM — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf
 source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 ---
@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 42
 
-La Dirección y Rectoría dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.
+La [Dirección y Rectoría](articulo-2.md) dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.

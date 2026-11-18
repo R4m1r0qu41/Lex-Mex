@@ -39,6 +39,8 @@ VI. Cuando existan trabajos o servicios de conservación, mantenimiento, restaur
 
 VII. Tratándose de la adquisición o de la enajenación de bienes inmuebles, así como de los servicios relacionados con la obra inmobiliaria;
 
-VIII. De existir circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes para el Banco; IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o
+VIII. De existir circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes para el Banco;
+
+IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o
 
 X. Cuando se trate de adquisiciones de insumos que el Banco requiera para la fabricación de billetes o adquiera para la de moneda metálica.

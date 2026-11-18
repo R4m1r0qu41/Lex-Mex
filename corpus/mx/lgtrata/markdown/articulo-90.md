@@ -21,7 +21,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 I. Orientación jurídica, incluida la migratoria, asistencia social, educativa y laboral a las víctimas de los delitos previstos en esta Ley.
 
-En el caso de que las víctimas pertenezcan a algún pueblo o comunidad indígena o hablen un idioma diferente al español, se les designará un traductor que les asistirá en todo momento. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. Asistencia social, humanitaria, médica, psicológica, psiquiátrica, aparatos ortopédicos y prótesis a las víctimas de los delitos objeto de esta Ley, hasta su total recuperación;
+En el caso de que las víctimas pertenezcan a algún pueblo o comunidad indígena o hablen un idioma diferente al español, se les designará un traductor que les asistirá en todo momento.
+
+II. Asistencia social, humanitaria, médica, psicológica, psiquiátrica, aparatos ortopédicos y prótesis a las víctimas de los delitos objeto de esta Ley, hasta su total recuperación;
 
 III. Oportunidades de empleo, educación y capacitación para el trabajo a las víctimas del delito a través de su integración en programas sociales.
 

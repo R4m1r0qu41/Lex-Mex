@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["REG-LFA — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf
 source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 ---
@@ -29,6 +29,8 @@ IV. Convocar, previo acuerdo del Presidente, a las sesiones plenarias y sectoria
 
 V. Apoyar y dar seguimiento al cumplimiento de los acuerdos del Comité en el ejercicio de sus funciones;
 
-VI. Coordinar y dar seguimiento a las actividades de las comisiones o grupos de trabajo que se integren por acuerdo del Comité; VII. Designar, dentro de los integrantes de las comisiones o grupos de trabajo a que se refiere la fracción anterior, un auxiliar para que lo apoye en las funciones establecidas en la fracción anterior, y
+VI. Coordinar y dar seguimiento a las actividades de las comisiones o grupos de trabajo que se integren por acuerdo del Comité;
+
+VII. Designar, dentro de los integrantes de las comisiones o grupos de trabajo a que se refiere la fracción anterior, un auxiliar para que lo apoye en las funciones establecidas en la fracción anterior, y
 
 VIII. Las demás que en el ámbito de sus funciones le sean expresamente encomendadas por el Presidente del Comité.

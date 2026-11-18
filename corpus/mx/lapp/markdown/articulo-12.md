@@ -21,7 +21,9 @@ Para los efectos de la presente [Ley](articulo-12.md), se entenderá por:
 
 I. Asociación público-privada: Cualquier esquema de los descritos en los artículos [2](articulo-2.md) y [3](articulo-3.md) de esta Ley;
 
-II. Autorizaciones para el desarrollo del proyecto: Autorizaciones para la ejecución de la obra, así como para la prestación de los servicios, de un proyecto de asociación público-privada; III. Autorizaciones para la ejecución de la obra: Permisos, licencias, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables, para la ejecución de las obras de infraestructura de un proyecto de asociación público-privada;
+II. Autorizaciones para el desarrollo del proyecto: Autorizaciones para la ejecución de la obra, así como para la prestación de los servicios, de un proyecto de asociación público-privada;
+
+III. Autorizaciones para la ejecución de la obra: Permisos, licencias, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables, para la ejecución de las obras de infraestructura de un proyecto de asociación público-privada;
 
 IV. Autorizaciones para la prestación de los servicios: Permisos, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables para el uso o explotación de bienes públicos o prestación de servicios por parte del desarrollador en un proyecto de asociación público-privada;
 

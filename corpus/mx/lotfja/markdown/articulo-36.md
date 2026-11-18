@@ -29,7 +29,9 @@ IV. Admitir, desechar o tener por no ofrecidas las pruebas;
 
 V. Sobreseer los juicios antes de que se cierre la instrucción, cuando el demandante se desista de la acción o se revoque la resolución impugnada, así como en los demás casos que establezcan las disposiciones aplicables;
 
-VI. Admitir, desechar y tramitar los incidentes y recursos que les competan, formular los proyectos de resolución, de aclaraciones de sentencia y de resoluciones de queja relacionadas con el cumplimiento de las sentencias, y someterlos a la consideración de la Sala; VII. Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+VI. Admitir, desechar y tramitar los incidentes y recursos que les competan, formular los proyectos de resolución, de aclaraciones de sentencia y de resoluciones de queja relacionadas con el cumplimiento de las sentencias, y someterlos a la consideración de la Sala;
+
+VII. Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
 
 VIII. Formular el proyecto de sentencia definitiva y, en su caso, de cumplimiento de ejecutorias;
 

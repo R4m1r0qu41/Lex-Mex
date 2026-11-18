@@ -23,7 +23,9 @@ I. Control, seguimiento y operación de tesorería;
 
 II. Envío de los estados de cuenta a los que se refiere la presente Ley;
 
-III. Desarrollo e implementación de procesos operativos o tecnológicos para la transmisión, almacenamiento, procesamiento, resguardo y custodia de la información, así como la administración de bases de datos de los propios fondos de inversión o de terceros; IV. Generación y distribución de reportes que conforme a las disposiciones aplicables deban entregarse;
+III. Desarrollo e implementación de procesos operativos o tecnológicos para la transmisión, almacenamiento, procesamiento, resguardo y custodia de la información, así como la administración de bases de datos de los propios fondos de inversión o de terceros;
+
+IV. Generación y distribución de reportes que conforme a las disposiciones aplicables deban entregarse;
 
 V. Administración integral de riesgos;
 

@@ -21,7 +21,9 @@ Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen 
 
 I. El porcentaje máximo del activo neto del fondo que podrá invertirse en Valores de un mismo emisor;
 
-II. El porcentaje máximo de Valores de un mismo emisor que podrá ser adquirido por un fondo de inversión; III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en Valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran, y
+II. El porcentaje máximo de Valores de un mismo emisor que podrá ser adquirido por un fondo de inversión;
+
+III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en Valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran, y
 
 IV. El porcentaje mínimo del activo neto del fondo que deberá invertirse en acciones y otros títulos o documentos de renta variable.
 

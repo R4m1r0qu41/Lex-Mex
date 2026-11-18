@@ -7,8 +7,8 @@ provision_type: article
 number: "202"
 aliases: ["REG-LPF — Artículo 202"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -23,7 +23,9 @@ I. Declarar el quórum y el inicio de la sesión;
 
 II. Presidir y dirigir las sesiones del Consejo Federal, los debates y conservar el orden de las sesiones;
 
-III. Participar en las sesiones del Consejo Federal con voz y voto de calidad; IV. Representar al Consejo Federal ante cualquier autoridad judicial o administrativa, para todos los efectos a que haya lugar;
+III. Participar en las sesiones del Consejo Federal con voz y voto de calidad;
+
+IV. Representar al Consejo Federal ante cualquier autoridad judicial o administrativa, para todos los efectos a que haya lugar;
 
 V. Rendir los informes previos y justificados en los juicios de amparo en que se señale como autoridad responsable al Consejo Federal;
 

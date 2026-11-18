@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
 source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 3
 
-A falta de disposición expresa se aplicarán en forma supletoria, en lo que resulten aplicables, la Ley General del Sistema Nacional de Seguridad Pública y el Código Nacional de Procedimientos Penales, así como toda aquella normativa aplicable en la materia. Capítulo II Fines y Principios de la Guardia Nacional
+A falta de disposición expresa se aplicarán en forma supletoria, en lo que resulten aplicables, la Ley General del Sistema Nacional de Seguridad Pública y el Código Nacional de Procedimientos Penales, así como toda aquella normativa aplicable en la materia.

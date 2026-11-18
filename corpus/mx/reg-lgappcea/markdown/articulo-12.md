@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LGAPPCEA — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf
 source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 ---
@@ -25,6 +25,8 @@ Los servicios médicos y terapéuticos señalados en el párrafo anterior, deben
 
 Para efectos de este artículo, se entiende por:
 
-I. Actividades Educativas, Socio-culturales y Recreativas: Las actividades que se realizan durante el tratamiento individualizado que recibe cada Persona con la Condición del Espectro Autista, con la finalidad de estimular el desarrollo físico, sensoriomotor, cognitivo, social y emocional; II. Habilidades de Comunicación Temprana, Social e Interacción: Las habilidades de comunicación verbal y no verbal que promuevan la interacción social, que se adquieren mediante entrenamiento durante los tres primeros años de vida, y
+I. Actividades Educativas, Socio-culturales y Recreativas: Las actividades que se realizan durante el tratamiento individualizado que recibe cada Persona con la Condición del Espectro Autista, con la finalidad de estimular el desarrollo físico, sensoriomotor, cognitivo, social y emocional;
+
+II. Habilidades de Comunicación Temprana, Social e Interacción: Las habilidades de comunicación verbal y no verbal que promuevan la interacción social, que se adquieren mediante entrenamiento durante los tres primeros años de vida, y
 
 III. Habilitación Psicosocial: El conjunto de acciones y programas dirigidos a la utilización del potencial máximo de desarrollo individual de Personas con la Condición del Espectro Autista, que les permite superar o disminuir las desventajas adquiridas a causa de dicha condición en los principales aspectos de su vida diaria. Tiene el objetivo de promover el aprendizaje de habilidades para la vida cotidiana que favorezcan la obtención y conservación de un ambiente de vida satisfactorio, así como la participación en actividades productivas y recreativas en la vida sociocultural.

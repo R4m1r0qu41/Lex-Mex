@@ -37,6 +37,8 @@ VIII. Adoptar las medidas necesarias para el cumplimiento de acuerdos y convenio
 
 IX. Nombrar a las personas Titulares de la Dirección General de "la Comisión" y del Instituto Mexicano de Tecnología del Agua; Fracción reformada DOF 11-12-2025
 
-X. Establecer distritos de riego o de temporal tecnificado, así como unidades de riego o drenaje, cuando implique expropiación por causa de utilidad pública, y XI. Las demás atribuciones que señale la presente Ley.
+X. Establecer distritos de riego o de temporal tecnificado, así como unidades de riego o drenaje, cuando implique expropiación por causa de utilidad pública, y
+
+XI. Las demás atribuciones que señale la presente Ley.
 
 Artículo reformado DOF 29-04-2004

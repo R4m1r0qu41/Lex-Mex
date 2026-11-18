@@ -17,7 +17,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 # Artículo 208
 
-Los contribuyentes a que se refiere este Capítulo podrán efectuar las deducciones siguientes: I. Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan, siempre que se hubiese acumulado el ingreso correspondiente.
+Los contribuyentes a que se refiere este Capítulo podrán efectuar las deducciones siguientes:
+
+I. Las devoluciones que se reciban o los descuentos o bonificaciones que se hagan, siempre que se hubiese acumulado el ingreso correspondiente.
 
 II. Las adquisiciones de mercancías, así como de materias primas.
 

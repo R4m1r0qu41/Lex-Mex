@@ -19,7 +19,9 @@ El Fondo quedará constituído:
 
 I.- Con los recursos que integran actualmente el Fondo Nacional de Garantía Agrícola;
 
-II.- Con el importe de los fideicomisos o de los fondos constituídos por el Gobierno Federal para el otorgamiento de créditos a la agricultura que están siendo operados a través de las instituciones de crédito privadas; III.- Con una aportación inicial de $100.000,000.00 que hará el Gobierno Federal;
+II.- Con el importe de los fideicomisos o de los fondos constituídos por el Gobierno Federal para el otorgamiento de créditos a la agricultura que están siendo operados a través de las instituciones de crédito privadas;
+
+III.- Con una aportación inicial de $100.000,000.00 que hará el Gobierno Federal;
 
 IV.- Con los recursos que anualmente señale el Presupuesto de Egresos de la Federación;
 

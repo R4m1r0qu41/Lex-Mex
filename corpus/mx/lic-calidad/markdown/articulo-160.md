@@ -25,7 +25,9 @@ II. Se impida u obstaculicen las funciones de [Verificación](articulo-4.md) y [
 
 III. Se disminuya la capacidad necesaria para realizar sus funciones;
 
-IV. Se suspenda la acreditación otorgada por una Entidad de Acreditación a algún Organismo de Evaluación de la Conformidad; V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o
+IV. Se suspenda la acreditación otorgada por una Entidad de Acreditación a algún Organismo de Evaluación de la Conformidad;
+
+V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o
 
 VI. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o
 

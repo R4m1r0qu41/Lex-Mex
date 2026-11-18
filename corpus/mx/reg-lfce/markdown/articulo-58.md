@@ -7,8 +7,8 @@ provision_type: article
 number: "58"
 aliases: ["REG-LFCE — Artículo 58"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf
 source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 ---
@@ -25,7 +25,9 @@ II. Nombre del representante legal o, cuando se integre un grupo participante en
 
 III. Copia simple de las escrituras constitutivas y, en su caso, de las últimas reformas a los estatutos sociales del solicitante, y en su caso, de cada uno de los agentes económicos que integren un grupo participante en una licitación o concurso;
 
-IV. Descripción de la estructura del capital social del agente económico solicitante y, en su caso, de cada uno de los agentes económicos que integren un grupo participante en una licitación o concurso, sean sociedades mexicanas o extranjeras, identificando la participación de cada socio o accionista directo e indirecto, y de las personas que tienen el control; V. Información que permita determinar a la Comisión el mercado relevante, mercados relacionados y poder sustancial de mercado, en términos de la Ley;
+IV. Descripción de la estructura del capital social del agente económico solicitante y, en su caso, de cada uno de los agentes económicos que integren un grupo participante en una licitación o concurso, sean sociedades mexicanas o extranjeras, identificando la participación de cada socio o accionista directo e indirecto, y de las personas que tienen el control;
+
+V. Información que permita determinar a la Comisión el mercado relevante, mercados relacionados y poder sustancial de mercado, en términos de la Ley;
 
 VI. Descripción del objeto social y de las actividades que realicen las personas o los agentes económicos a que se refiere la fracción IV anterior, así como de las concesiones y permisos otorgados por el gobierno federal de los que sean titulares, que guarden relación con la actividad de la solicitud;
 

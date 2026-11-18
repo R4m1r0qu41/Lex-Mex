@@ -27,7 +27,9 @@ III.- Tipo y características del o los vehículos que se pretendan utilizar par
 
 IV.- Programa de actividades a desarrollar, en el cual se incluya, fecha, horarios de ingreso y salida, tiempo de estancia en el área natural protegida y ubicación del sitio o nombre de las localidades donde se pretendan llevar a cabo dichas actividades;
 
-V.- Número de personas auxiliares; VI.- Tipo de equipo a utilizar para la actividad;
+V.- Número de personas auxiliares;
+
+VI.- Tipo de equipo a utilizar para la actividad;
 
 VII.- Informe del tipo de filmación, captura de imágenes o sonidos por cualquier medio indicando el fin de las mismas, y
 

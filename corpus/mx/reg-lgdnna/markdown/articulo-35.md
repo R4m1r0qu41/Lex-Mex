@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["REG-LGDNNA — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
 source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 ---
@@ -23,7 +23,9 @@ I. La situación sociodemográfica de los derechos de niñas, niños y adolescen
 
 II. La situación de vulnerabilidad de las niñas, niños y adolescentes en términos de los artículos [10](../../lgdnna/markdown/articulo-10.md), [47](../../lgdnna/markdown/articulo-47.md) y demás disposiciones aplicables de la [Ley](articulo-2.md);
 
-III. La discapacidad de las niñas, niños y adolescentes en términos del artículo [55](../../lgdnna/markdown/articulo-55.md) de la Ley; IV. Los datos que permitan evaluar y monitorear la implementación y el cumplimiento de los mecanismos establecidos en la Ley y los indicadores que establezca el Programa Nacional;
+III. La discapacidad de las niñas, niños y adolescentes en términos del artículo [55](../../lgdnna/markdown/articulo-55.md) de la Ley;
+
+IV. Los datos que permitan evaluar y monitorear la implementación y el cumplimiento de los mecanismos establecidos en la Ley y los indicadores que establezca el Programa Nacional;
 
 V. La información que permita evaluar el cumplimiento de los derechos de niñas, niños y adolescentes contemplados en los Tratados Internacionales, la Ley y demás disposiciones jurídicas aplicables;
 

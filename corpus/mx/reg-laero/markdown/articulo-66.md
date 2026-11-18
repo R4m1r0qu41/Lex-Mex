@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 66
 
@@ -21,7 +23,9 @@ I. Denominación social o nombre, según corresponda, registro federal de contri
 
 II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md);
 
-III. La descripción de los servicios que prestarán; IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
+III. La descripción de los servicios que prestarán;
+
+IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
 
 V. Vigencia del contrato, la que en ningún caso podrá ser superior a la vigencia de la concesión o del permiso;
 
@@ -51,6 +55,8 @@ XVII. La forma y términos en que el prestador de servicios podrá retirar sus e
 
 XVIII. La manifestación de que la terminación del contrato no extingue las obligaciones contraídas por el prestador durante su vigencia;
 
-XIX. En su caso, los términos conforme a los cuales el prestador de servicios podrá fijar las tarifas por los servicios que preste, y XX. Una cláusula que prevea que las partes están de acuerdo en que dicho contrato surtirá efectos sólo si se obtiene la autorización de la Secretaría.
+XIX. En su caso, los términos conforme a los cuales el prestador de servicios podrá fijar las tarifas por los servicios que preste, y
+
+XX. Una cláusula que prevea que las partes están de acuerdo en que dicho contrato surtirá efectos sólo si se obtiene la autorización de la Secretaría.
 
 Lo dispuesto en el presente artículo, con excepción de las fracciones VII, IX, X y XI, será aplicable a los contratos que celebre el concesionario o permisionario de un aeródromo civil de servicio al público, con terceros, para que estos últimos presten servicios comerciales.

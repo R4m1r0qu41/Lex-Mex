@@ -7,8 +7,8 @@ provision_type: article
 number: "67"
 aliases: ["LGAAS — Artículo 67"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -21,7 +21,9 @@ El Consejo Intersectorial Nacional contará con un Secretariado Técnico, el cua
 
 El Secretariado Técnico tendrá las siguientes facultades:
 
-I. Apoyar a la coordinación general del Consejo Intersectorial Nacional para la emisión del reglamento de funcionamiento del Consejo y de la Junta Directiva; II. Servir de enlace entre la Junta Directiva, las Comisiones de Trabajo, los Comités Técnicos, el Consejo Intersectorial Nacional y otras partes interesadas para la articulación del sistema agroalimentario mexicano;
+I. Apoyar a la coordinación general del Consejo Intersectorial Nacional para la emisión del reglamento de funcionamiento del Consejo y de la Junta Directiva;
+
+II. Servir de enlace entre la Junta Directiva, las Comisiones de Trabajo, los Comités Técnicos, el Consejo Intersectorial Nacional y otras partes interesadas para la articulación del sistema agroalimentario mexicano;
 
 III. Organizar las sesiones del Consejo Intersectorial Nacional, previo acuerdo de la Junta Directiva;
 

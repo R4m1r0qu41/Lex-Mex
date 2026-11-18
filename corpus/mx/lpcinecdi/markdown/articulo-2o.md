@@ -7,8 +7,8 @@ provision_type: article
 number: "2o"
 aliases: ["LPCINECDI — Artículo 2o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf
 source_sha256: e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db
 ---

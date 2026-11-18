@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["LGIMH — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf
 source_sha256: 51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44
 ---
@@ -31,4 +31,6 @@ V. Formular propuestas a las dependencias competentes sobre la asignación de lo
 
 VI. Apoyar la coordinación entre las instituciones de la Administración Pública Federal para formar y capacitar a su personal en materia igualdad entre mujeres y hombres;
 
-VII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y VIII. Las demás, que se requieran para el cumplimiento de los objetivos del [Sistema Nacional](articulo-5.md) y las que determinen las disposiciones generales aplicables.
+VII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
+
+VIII. Las demás, que se requieran para el cumplimiento de los objetivos del [Sistema Nacional](articulo-5.md) y las que determinen las disposiciones generales aplicables.

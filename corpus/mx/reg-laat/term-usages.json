@@ -91,57 +91,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2228-2245",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2229-2246",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:emisoras-de-vales",
     "span": "Emisoras de Vales",
-    "start_char": 2228,
-    "end_char": 2245
+    "start_char": 2229,
+    "end_char": 2246
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2375-2381",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2376-2382",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:comida",
     "span": "Comida",
-    "start_char": 2375,
-    "end_char": 2381
+    "start_char": 2376,
+    "end_char": 2382
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2529-2535",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2530-2536",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:comida",
     "span": "Comida",
-    "start_char": 2529,
-    "end_char": 2535
+    "start_char": 2530,
+    "end_char": 2536
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2615-2632",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2616-2633",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:emisoras-de-vales",
     "span": "Emisoras de Vales",
-    "start_char": 2615,
-    "end_char": 2632
+    "start_char": 2616,
+    "end_char": 2633
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:3029-3032",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:3030-3033",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:ley",
     "span": "Ley",
-    "start_char": 3029,
-    "end_char": 3032
+    "start_char": 3030,
+    "end_char": 3033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:3081-3088",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:3082-3089",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:comida",
     "span": "Comidas",
-    "start_char": 3081,
-    "end_char": 3088
+    "start_char": 3082,
+    "end_char": 3089
   },
   {
     "schema_version": "0.1.0",
@@ -208,12 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:4:term-usage:541-544",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:4:term-usage:542-545",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:ley",
     "span": "Ley",
-    "start_char": 541,
-    "end_char": 544
+    "start_char": 542,
+    "end_char": 545
   },
   {
     "schema_version": "0.1.0",

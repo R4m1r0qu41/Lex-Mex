@@ -27,7 +27,9 @@ III.- Remover o extraer material mineral;
 
 IV.- Utilizar métodos de pesca que alteren el lecho marino;
 
-V.- Trasladar especímenes de poblaciones nativas de una comunidad biológica a otra; VI.- Alterar o destruir por cualquier medio o acción los sitios de alimentación, anidación, refugio o reproducción de las especies silvestres;
+V.- Trasladar especímenes de poblaciones nativas de una comunidad biológica a otra;
+
+VI.- Alterar o destruir por cualquier medio o acción los sitios de alimentación, anidación, refugio o reproducción de las especies silvestres;
 
 VII.- Alimentar, tocar o hacer ruidos intensos que alteren el comportamiento natural de los ejemplares de la vida silvestre;
 

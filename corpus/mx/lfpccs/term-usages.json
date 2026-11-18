@@ -91,120 +91,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:2926-2936",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:2927-2937",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2926,
-    "end_char": 2936
+    "start_char": 2927,
+    "end_char": 2937
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:3259-3269",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:3260-3270",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3259,
-    "end_char": 3269
+    "start_char": 3260,
+    "end_char": 3270
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:3311-3327",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:3312-3328",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:normas-mexicanas",
     "span": "Normas Mexicanas",
-    "start_char": 3311,
-    "end_char": 3327
+    "start_char": 3312,
+    "end_char": 3328
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:4246-4256",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:4247-4257",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4246,
-    "end_char": 4256
+    "start_char": 4247,
+    "end_char": 4257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:4644-4654",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:4645-4655",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4644,
-    "end_char": 4654
+    "start_char": 4645,
+    "end_char": 4655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5332-5338",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5333-5339",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
     "span": "Reglas",
-    "start_char": 5332,
-    "end_char": 5338
+    "start_char": 5333,
+    "end_char": 5339
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5613-5619",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5614-5620",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
     "span": "Reglas",
-    "start_char": 5613,
-    "end_char": 5619
+    "start_char": 5614,
+    "end_char": 5620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5872-5878",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:5873-5879",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
     "span": "Reglas",
-    "start_char": 5872,
-    "end_char": 5878
+    "start_char": 5873,
+    "end_char": 5879
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6238-6279",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6239-6280",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:catalogo-nacional-de-variedades-vegetales",
     "span": "Catálogo Nacional de Variedades Vegetales",
-    "start_char": 6238,
-    "end_char": 6279
+    "start_char": 6239,
+    "end_char": 6280
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6362-6372",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6364-6374",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6362,
-    "end_char": 6372
+    "start_char": 6364,
+    "end_char": 6374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6377-6382",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6379-6384",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:snics",
     "span": "SNICS",
-    "start_char": 6377,
-    "end_char": 6382
+    "start_char": 6379,
+    "end_char": 6384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6610-6618",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6612-6620",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
     "span": "Semillas",
-    "start_char": 6610,
-    "end_char": 6618
+    "start_char": 6612,
+    "end_char": 6620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:7033-7074",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:7035-7076",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:catalogo-nacional-de-variedades-vegetales",
     "span": "Catálogo Nacional de Variedades Vegetales",
-    "start_char": 7033,
-    "end_char": 7074
+    "start_char": 7035,
+    "end_char": 7076
   },
   {
     "schema_version": "0.1.0",
@@ -325,39 +325,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2363-2370",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2364-2371",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 2363,
-    "end_char": 2370
+    "start_char": 2364,
+    "end_char": 2371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2640-2647",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2641-2648",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 2640,
-    "end_char": 2647
+    "start_char": 2641,
+    "end_char": 2648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2718-2725",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2719-2726",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 2718,
-    "end_char": 2725
+    "start_char": 2719,
+    "end_char": 2726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2894-2901",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:4:term-usage:2895-2902",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 2894,
-    "end_char": 2901
+    "start_char": 2895,
+    "end_char": 2902
   },
   {
     "schema_version": "0.1.0",
@@ -451,57 +451,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3032-3058",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3033-3059",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 3032,
-    "end_char": 3058
+    "start_char": 3033,
+    "end_char": 3059
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3064-3080",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3065-3081",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:normas-mexicanas",
     "span": "Normas Mexicanas",
-    "start_char": 3064,
-    "end_char": 3080
+    "start_char": 3065,
+    "end_char": 3081
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3086-3092",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3087-3093",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
     "span": "Reglas",
-    "start_char": 3086,
-    "end_char": 3092
+    "start_char": 3087,
+    "end_char": 3093
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3098-3103",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3099-3104",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:guia",
     "span": "Guías",
-    "start_char": 3098,
-    "end_char": 3103
+    "start_char": 3099,
+    "end_char": 3104
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3485-3495",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3486-3496",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3485,
-    "end_char": 3495
+    "start_char": 3486,
+    "end_char": 3496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3509-3514",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:5:term-usage:3510-3515",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:snics",
     "span": "SNICS",
-    "start_char": 3509,
-    "end_char": 3514
+    "start_char": 3510,
+    "end_char": 3515
   },
   {
     "schema_version": "0.1.0",
@@ -568,48 +568,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1268-1276",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1269-1277",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
     "span": "Semillas",
-    "start_char": 1268,
-    "end_char": 1276
+    "start_char": 1269,
+    "end_char": 1277
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1346-1353",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1347-1354",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 1346,
-    "end_char": 1353
+    "start_char": 1347,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1438-1448",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1439-1449",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1438,
-    "end_char": 1448
+    "start_char": 1439,
+    "end_char": 1449
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1514-1521",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1515-1522",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:sistema",
     "span": "Sistema",
-    "start_char": 1514,
-    "end_char": 1521
+    "start_char": 1515,
+    "end_char": 1522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1672-1682",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:9:term-usage:1673-1683",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1672,
-    "end_char": 1682
+    "start_char": 1673,
+    "end_char": 1683
   },
   {
     "schema_version": "0.1.0",
@@ -1117,21 +1117,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:33:term-usage:1023-1049",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:33:term-usage:1024-1050",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:33",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1023,
-    "end_char": 1049
+    "start_char": 1024,
+    "end_char": 1050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:33:term-usage:1323-1333",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:33:term-usage:1324-1334",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:33",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1323,
-    "end_char": 1333
+    "start_char": 1324,
+    "end_char": 1334
   },
   {
     "schema_version": "0.1.0",
@@ -1297,12 +1297,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:38:term-usage:1616-1622",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:38:term-usage:1617-1623",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:38",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
     "span": "Reglas",
-    "start_char": 1616,
-    "end_char": 1622
+    "start_char": 1617,
+    "end_char": 1623
   },
   {
     "schema_version": "0.1.0",

@@ -23,7 +23,9 @@ I. En el caso de residentes en el extranjero sin establecimiento permanente en e
 
 II. Proporcionar comprobantes fiscales a las personas físicas a las que se les hubiera efectuado la retención a que se refiere el artículo [113-A](articulo-113-A.md) de esta Ley, en los que conste el monto del pago y el impuesto retenido, a más tardar dentro de los cinco días siguientes al mes en que se efectúe la retención, el cual deberá estar acompañado de la información que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-III. Proporcionar al Servicio de Administración Tributaria la información a que se refiere la fracción III del artículo [18-J](../../liva/markdown/articulo-18-J.md) de la Ley del Impuesto al Valor Agregado, de conformidad con lo previsto en el último párrafo de dicha fracción. IV. Retener y enterar el impuesto sobre la renta que corresponda conforme a lo dispuesto en el artículo [113-A](articulo-113-A.md) de esta Ley, mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente al mes por el que se efectúo la retención.
+III. Proporcionar al Servicio de Administración Tributaria la información a que se refiere la fracción III del artículo [18-J](../../liva/markdown/articulo-18-J.md) de la Ley del Impuesto al Valor Agregado, de conformidad con lo previsto en el último párrafo de dicha fracción.
+
+IV. Retener y enterar el impuesto sobre la renta que corresponda conforme a lo dispuesto en el artículo [113-A](articulo-113-A.md) de esta Ley, mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente al mes por el que se efectúo la retención.
 
 En el caso de que los contribuyentes no proporcionen su clave del Registro Federal de Contribuyentes prevista en el inciso b) de la fracción III del artículo [18-J](../../liva/markdown/articulo-18-J.md) de la Ley del Impuesto al Valor Agregado, se deberá retener el impuesto que corresponda por los ingresos a que se refiere el artículo [113-A](articulo-113-A.md) de esta Ley, aplicando la tasa del 20% sobre los ingresos referidos.
 

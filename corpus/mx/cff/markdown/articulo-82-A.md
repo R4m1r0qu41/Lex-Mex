@@ -23,7 +23,9 @@ I. No revelar un esquema reportable, revelarlo de forma incompleta o con errores
 
 II. No revelar un esquema reportable generalizado, que no haya sido implementado.
 
-III. No proporcionar el número de identificación del esquema reportable a los contribuyentes de conformidad con el artículo [202](articulo-202.md) de este Código. IV. No atender el requerimiento de información adicional que efectúe la autoridad fiscal o manifestar falsamente que no cuenta con la información requerida respecto al esquema reportable en los términos del artículo [201](articulo-201.md) de este Código.
+III. No proporcionar el número de identificación del esquema reportable a los contribuyentes de conformidad con el artículo [202](articulo-202.md) de este Código.
+
+IV. No atender el requerimiento de información adicional que efectúe la autoridad fiscal o manifestar falsamente que no cuenta con la información requerida respecto al esquema reportable en los términos del artículo [201](articulo-201.md) de este Código.
 
 V. No expedir alguna de las constancias a que se refiere al séptimo párrafo del artículo [197](articulo-197.md) de este Código.
 

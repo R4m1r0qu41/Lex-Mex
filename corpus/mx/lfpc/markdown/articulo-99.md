@@ -23,7 +23,9 @@ I. Señalar nombre y domicilio del reclamante;
 
 II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; Fracción reformada DOF 28-01-2011
 
-III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante; Fracción reformada DOF 04-02-2004, 28-01-2011 IV. Señalar el lugar o forma en que solicita se desahogue su reclamación; Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011
+III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante; Fracción reformada DOF 04-02-2004, 28-01-2011
+
+IV. Señalar el lugar o forma en que solicita se desahogue su reclamación; Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011
 
 V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y Fracción adicionada DOF 28-01-2011
 

@@ -145,12 +145,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9:term-usage:1878-1881",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9:term-usage:1879-1882",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 1878,
-    "end_char": 1881
+    "start_char": 1879,
+    "end_char": 1882
   },
   {
     "schema_version": "0.1.0",
@@ -856,75 +856,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:830-854",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:831-855",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 830,
-    "end_char": 854
+    "start_char": 831,
+    "end_char": 855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1060-1084",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1061-1085",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 1060,
-    "end_char": 1084
+    "start_char": 1061,
+    "end_char": 1085
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1203-1227",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1204-1228",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:coordinador-hospitalario",
     "span": "Coordinador Hospitalario",
-    "start_char": 1203,
-    "end_char": 1227
+    "start_char": 1204,
+    "end_char": 1228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1232-1256",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1233-1257",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 1232,
-    "end_char": 1256
+    "start_char": 1233,
+    "end_char": 1257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1293-1322",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1294-1323",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comité Interno de Trasplantes",
-    "start_char": 1293,
-    "end_char": 1322
+    "start_char": 1294,
+    "end_char": 1323
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1342-1371",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1343-1372",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comité Interno de Trasplantes",
-    "start_char": 1342,
-    "end_char": 1371
+    "start_char": 1343,
+    "end_char": 1372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1701-1730",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1702-1731",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comité Interno de Trasplantes",
-    "start_char": 1701,
-    "end_char": 1730
+    "start_char": 1702,
+    "end_char": 1731
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1774-1803",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32:term-usage:1775-1804",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comité Interno de Trasplantes",
-    "start_char": 1774,
-    "end_char": 1803
+    "start_char": 1775,
+    "end_char": 1804
   },
   {
     "schema_version": "0.1.0",
@@ -1027,111 +1027,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:1915-1939",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:1916-1940",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 1915,
-    "end_char": 1939
+    "start_char": 1916,
+    "end_char": 1940
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2090-2114",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2091-2115",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 2090,
-    "end_char": 2114
+    "start_char": 2091,
+    "end_char": 2115
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2169-2172",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2170-2173",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 2169,
-    "end_char": 2172
+    "start_char": 2170,
+    "end_char": 2173
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2283-2286",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2284-2287",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 2283,
-    "end_char": 2286
+    "start_char": 2284,
+    "end_char": 2287
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2389-2392",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2390-2393",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 2389,
-    "end_char": 2392
+    "start_char": 2390,
+    "end_char": 2393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2494-2497",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2495-2498",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 2494,
-    "end_char": 2497
+    "start_char": 2495,
+    "end_char": 2498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2567-2596",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:2568-2597",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comité Interno de Trasplantes",
-    "start_char": 2567,
-    "end_char": 2596
+    "start_char": 2568,
+    "end_char": 2597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3132-3163",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3133-3164",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
     "span": "Comités Internos de Trasplantes",
-    "start_char": 3132,
-    "end_char": 3163
+    "start_char": 3133,
+    "end_char": 3164
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3168-3195",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3169-3196",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:coordinador-hospitalario",
     "span": "Coordinadores Hospitalarios",
-    "start_char": 3168,
-    "end_char": 3195
+    "start_char": 3169,
+    "end_char": 3196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3329-3350",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3330-3351",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:receptor-candidato",
     "span": "Receptores Candidatos",
-    "start_char": 3329,
-    "end_char": 3350
+    "start_char": 3330,
+    "end_char": 3351
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3539-3563",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3540-3564",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 3539,
-    "end_char": 3563
+    "start_char": 3540,
+    "end_char": 3564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3743-3767",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:term-usage:3744-3768",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 3743,
-    "end_char": 3767
+    "start_char": 3744,
+    "end_char": 3768
   },
   {
     "schema_version": "0.1.0",
@@ -1558,12 +1558,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:51:term-usage:1072-1097",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:51:term-usage:1073-1098",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimientos de Salud",
-    "start_char": 1072,
-    "end_char": 1097
+    "start_char": 1073,
+    "end_char": 1098
   },
   {
     "schema_version": "0.1.0",
@@ -1720,12 +1720,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:60:term-usage:749-774",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:60:term-usage:750-775",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimientos de Salud",
-    "start_char": 749,
-    "end_char": 774
+    "start_char": 750,
+    "end_char": 775
   },
   {
     "schema_version": "0.1.0",
@@ -1855,57 +1855,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:1713-1737",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:1714-1738",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 1713,
-    "end_char": 1737
+    "start_char": 1714,
+    "end_char": 1738
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2090-2097",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2091-2098",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:cenatra",
     "span": "CENATRA",
-    "start_char": 2090,
-    "end_char": 2097
+    "start_char": 2091,
+    "end_char": 2098
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2103-2111",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2104-2112",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 2103,
-    "end_char": 2111
+    "start_char": 2104,
+    "end_char": 2112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2148-2216",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2149-2217",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:centros-estatales-de-trasplantes-o-consejos-estatales-de-trasplantes",
     "span": "Centros Estatales de Trasplantes o Consejos Estatales de Trasplantes",
-    "start_char": 2148,
-    "end_char": 2216
+    "start_char": 2149,
+    "end_char": 2217
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2268-2293",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2269-2294",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimientos de Salud",
-    "start_char": 2268,
-    "end_char": 2293
+    "start_char": 2269,
+    "end_char": 2294
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2359-2362",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:term-usage:2360-2363",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
     "span": "Ley",
-    "start_char": 2359,
-    "end_char": 2362
+    "start_char": 2360,
+    "end_char": 2363
   },
   {
     "schema_version": "0.1.0",
@@ -2161,21 +2161,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83:term-usage:432-456",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83:term-usage:433-457",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 432,
-    "end_char": 456
+    "start_char": 433,
+    "end_char": 457
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83:term-usage:603-627",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83:term-usage:604-628",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
     "span": "Establecimiento de Salud",
-    "start_char": 603,
-    "end_char": 627
+    "start_char": 604,
+    "end_char": 628
   },
   {
     "schema_version": "0.1.0",

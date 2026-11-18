@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LFCSQ — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf
 source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 ---
@@ -19,7 +19,7 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 Con excepción de los casos previstos en el artículo [22](articulo-22.md) de la presente Ley, el [Sujeto Obligado](articulo-2.md) presentará las declaraciones anuales en los términos del presente artículo:
 
-I. Durante el mes de enero de cada año, por Actividades Reguladas a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a) de la presente Ley, realizadas en el periodo de enero a diciembre del año inmediato anterior, con los siguientes datos:
+I. Durante el mes de enero de cada año, por [Actividades Reguladas](articulo-2.md) a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a) de la presente Ley, realizadas en el periodo de enero a diciembre del año inmediato anterior, con los siguientes datos:
 
 a) Domicilios, ubicaciones exactas, planos, descripciones técnicas, diagramas detallados y capacidades de producción de cada una de sus instalaciones y los documentos que los acrediten;
 

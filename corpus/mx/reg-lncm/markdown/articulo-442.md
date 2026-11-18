@@ -17,7 +17,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 442
 
-Para la construcción de Embarcaciones de fibra de vidrio reforzado y ferro cemento, adicional a los planos indicados de acuerdo a su eslora en el [artículo anterior](articulo-441.md), se deberá presentar una descripción de procesos, en los cuales deberán incluirse: I. Descripción de las facilidades de construcción, incluido el control ambiental, almacenamiento y manipulación del material;
+Para la construcción de Embarcaciones de fibra de vidrio reforzado y ferro cemento, adicional a los planos indicados de acuerdo a su eslora en el [artículo anterior](articulo-441.md), se deberá presentar una descripción de procesos, en los cuales deberán incluirse:
+
+I. Descripción de las facilidades de construcción, incluido el control ambiental, almacenamiento y manipulación del material;
 
 II. Especificaciones de la resina, productos de reforzamiento y materiales de núcleos, cuando corresponda;
 

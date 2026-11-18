@@ -172,19 +172,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25:reference:1020-1023:104:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25:reference:1021-1024:104:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25",
     "source_span": "104",
-    "start_char": 1020,
-    "end_char": 1023,
+    "start_char": 1021,
+    "end_char": 1024,
     "target_instrument_id": "urn:lex-mx:federal:code:ccom",
     "target_provision_id": "urn:lex-mx:federal:code:ccom:article:104",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IX",
-        "start_char": 1025,
-        "end_char": 1036
+        "start_char": 1026,
+        "end_char": 1037
       }
     ],
     "basis": "express_cross_reference",

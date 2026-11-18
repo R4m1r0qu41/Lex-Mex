@@ -35,6 +35,4 @@ II.- Tener título legalmente expedido de Licenciado en Derecho, y
 
 III.- No haber sido condenados por delito intencional sancionado con pena corporal.
 
-Artículo reformado DOF 12-01-1984 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Artículo reformado DOF 12-01-1984

@@ -7,8 +7,8 @@ provision_type: article
 number: "168"
 aliases: ["REG-LFSV — Artículo 168"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -25,7 +25,9 @@ II. La ubicación y justificación técnica;
 
 III. El perfil técnico de los servidores públicos que operan estos Puntos o en su caso, del personal de los terceros que los operen;
 
-IV. La instalación, identificación, funcionamiento y operación, así como las actividades que se desarrollarán; V. Los tipos de Verificación;
+IV. La instalación, identificación, funcionamiento y operación, así como las actividades que se desarrollarán;
+
+V. Los tipos de Verificación;
 
 VI. Los Servicios Fitosanitarios que podrán prestarse en ellos;
 

@@ -10,14 +10,14 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IX
 
 # Artículo 300
 
-Las Instituciones para la Microfilmación o Grabación, podrán aplicar la tecnología estándar existente en el mercado, siempre que reúna los requisitos de seguridad que se establecen en los Anexos 50 y 51 de las presentes disposiciones, según corresponda.
+Las Instituciones para la [Microfilmación](articulo-1.md) o [Grabación](articulo-1.md), podrán aplicar la tecnología estándar existente en el mercado, siempre que reúna los requisitos de seguridad que se establecen en los Anexos 50 y 51 de las presentes disposiciones, según corresponda.
 
 El proceso de Microfilmación deberá prever la generación de un índice de los documentos objeto de dichos procesos, en donde se indique, por lo menos, el nombre de éste; el lugar de almacenamiento; el tamaño; la fecha y la hora de creación; el número de imágenes y una referencia descriptiva de su contenido, así como la clave del medio en donde se microfilmó la documentación. El índice deberá tener como encabezado, el nombre de la Institución y al pie de página contendrá el nombre del operador y del funcionario que verificó la preparación de los documentos, así como el lugar y la fecha en que se realizó la Microfilmación.
 

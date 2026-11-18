@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["LGES — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -27,7 +27,9 @@ II. Fomentar que las escuelas normales y las instituciones de formación docente
 
 III. Impulsar la creación y fortalecimiento de programas de experimentación pedagógica en las escuelas normales y en instituciones de formación docente, con la finalidad de integrar la teoría con la práctica continua de la función docente e impulsar la innovación;
 
-IV. Fomentar la creación de colectivos académicos e impulsar acciones para la mejora continua de los planes y programas, así como de las funciones académicas en los programas de formación y extensión; V. Promover la libertad académica y la actualización periódica de planes y programas, y
+IV. Fomentar la creación de colectivos académicos e impulsar acciones para la mejora continua de los planes y programas, así como de las funciones académicas en los programas de formación y extensión;
+
+V. Promover la libertad académica y la actualización periódica de planes y programas, y
 
 VI. Impulsar la creación y el fortalecimiento de programas de posgrado y de actualización permanente, así como programas de formación y desarrollo profesional para el personal académico.
 

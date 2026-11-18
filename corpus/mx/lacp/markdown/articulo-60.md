@@ -25,7 +25,9 @@ II. Si no cumple diligentemente la labor de supervisión auxiliar que le fue enc
 
 III. Si conforme a lo señalado en la fracción I del Artículo [53](articulo-53.md) de esta Ley, no cumplen con el número mínimo de [Sociedades Financieras Populares](articulo-3o.md) afiliadas, o si el número de Sociedades Financieras Populares afiliadas fuera menor a aquél que la Comisión autorizó, en términos de la misma;
 
-IV. Si efectúan operaciones en contravención a lo dispuesto por esta Ley o por las disposiciones que de ella emanen, o si sus actividades se apartan de las sanas prácticas, o si abandona o suspende sus actividades; V. Si a pesar de las observaciones de la Comisión, reiteradamente incumplen con las actividades objeto de la autorización;
+IV. Si efectúan operaciones en contravención a lo dispuesto por esta Ley o por las disposiciones que de ella emanen, o si sus actividades se apartan de las sanas prácticas, o si abandona o suspende sus actividades;
+
+V. Si a pesar de las observaciones de la Comisión, reiteradamente incumplen con las actividades objeto de la autorización;
 
 VI. Si no proporcionan a la Comisión la información requerida, o bien presentan de manera dolosa, información falsa o incompleta, que no permita conocer la situación real de las Sociedades Financieras Populares;
 

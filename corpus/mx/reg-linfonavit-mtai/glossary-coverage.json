@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
-      "provision_text_sha256": "8c35f0c3f3b8b176b9ce5fa5e6a4e555831223916ef8b97a4336e584a4805d76",
+      "provision_text_sha256": "80c35319f00f09d6fc6776b549c264951aa6d858ca9819fd2842698f6856cdbe",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -17,14 +17,15 @@
         "V",
         "VI",
         "VII",
+        "VIII",
         "IX",
         "X"
       ],
       "unread_fractions": [],
-      "term_count": 8
+      "term_count": 9
     }
   ],
   "imports": [],
-  "term_count": 8,
-  "usage_count": 43
+  "term_count": 9,
+  "usage_count": 46
 }

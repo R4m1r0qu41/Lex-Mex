@@ -41,7 +41,9 @@ VII. Monto de la Recaudación Federal Participable e integración de los fondos 
 
 VIII. Ingresos derivados de auditoría y de las acciones de fiscalización, así como los gastos efectuados con motivo de estas tareas;
 
-IX. Aplicación de multas fiscales; X. Los montos que representan para el erario federal los estímulos fiscales a que se refieren las disposiciones fiscales, así como los sectores de la actividad económica que reciben los beneficios;
+IX. Aplicación de multas fiscales;
+
+X. Los montos que representan para el erario federal los estímulos fiscales a que se refieren las disposiciones fiscales, así como los sectores de la actividad económica que reciben los beneficios;
 
 XI. Datos sobre los juicios ganados y perdidos por el Servicio de Administración Tributaria ante tribunales;
 

@@ -19,7 +19,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 Las dependencias y entidades, al contraer compromisos deberán observar lo siguiente:
 
-I. Que se cumpla lo dispuesto en las disposiciones legales aplicables; II. Que se realicen de acuerdo con los calendarios de presupuesto autorizados;
+I. Que se cumpla lo dispuesto en las disposiciones legales aplicables;
+
+II. Que se realicen de acuerdo con los calendarios de presupuesto autorizados;
 
 III. Que no impliquen obligaciones anteriores a la fecha en que se suscriban, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["REG-LFCINE — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf
 source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 ---
@@ -25,7 +25,9 @@ El distribuidor de la película, con el acuerdo del productor, podrá pactar con
 
 La garantía a que se refiere este artículo, así como la reserva de que trata el [artículo anterior](articulo-44.md), estarán sujetas a la condición de que las películas y sus respectivas copias se encuentren disponibles, en buen estado y se ofrezcan en términos y condiciones de mercado.
 
-Para efectos del párrafo anterior, se entenderá por: I. Disponible: que el distribuidor haya mostrado al exhibidor la documentación que acredite que la película está autorizada y clasificada;
+Para efectos del párrafo anterior, se entenderá por:
+
+I. Disponible: que el distribuidor haya mostrado al exhibidor la documentación que acredite que la película está autorizada y clasificada;
 
 II. Buen estado: que la copia de la película no contenga rayaduras u otras características que afecten su apreciación por el público y esté en condiciones de ser proyectada sin causar daños al equipo de proyección, y
 

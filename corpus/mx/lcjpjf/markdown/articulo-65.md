@@ -7,8 +7,8 @@ provision_type: article
 number: "65"
 aliases: ["LCJPJF — Artículo 65"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf
 source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 ---
@@ -17,7 +17,9 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 65
 
-Facultades de la [Escuela Judicial](articulo-2.md) La Escuela Judicial tendrá las siguientes facultades: I. Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;
+Facultades de la [Escuela Judicial](articulo-2.md) La Escuela Judicial tendrá las siguientes facultades:
+
+I. Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;
 
 II. Participar en los exámenes de oposición, así como en los procesos de selección y evaluación del personal del Poder Judicial de la Federación en los términos de esta [Ley](articulo-2.md);
 

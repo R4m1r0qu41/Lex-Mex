@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["REG-LGAMVLV — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -29,7 +29,9 @@ III. Difundir campañas que informen sobre las áreas a las que deberán recurri
 
 IV. Fomentar la prestación de servicios públicos especializados en materia de prevención de la Violencia contra las Mujeres;
 
-V. Impulsar campañas permanentes de comunicación social que sensibilicen y prevengan la violencia de género, roles, estereotipos y cualquier otra conducta que genere discriminación en contra de las mujeres, y VI. Asignar presupuestos públicos con Perspectiva de Género.
+V. Impulsar campañas permanentes de comunicación social que sensibilicen y prevengan la violencia de género, roles, estereotipos y cualquier otra conducta que genere discriminación en contra de las mujeres, y
+
+VI. Asignar presupuestos públicos con Perspectiva de Género.
 
 La [Comisión Nacional](articulo-2.md) y la [Secretaría Ejecutiva](articulo-2.md), en sus respectivos ámbitos de competencia, a solicitud de las dependencias y entidades de la Administración Pública Federal brindarán el apoyo técnico para la elaboración y ejecución de las acciones referidas en el párrafo anterior.
 

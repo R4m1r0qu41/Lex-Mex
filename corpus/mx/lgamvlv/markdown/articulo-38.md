@@ -7,8 +7,8 @@ provision_type: article
 number: "38"
 aliases: ["LGAMVLV — Artículo 38"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -29,7 +29,9 @@ IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal
 
 V. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
 
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres; VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico; Fracción reformada DOF 29-12-2023
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+
+VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico; Fracción reformada DOF 29-12-2023
 
 VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres en toda su diversidad y etapas de vida, para impulsar un cambio cultural en favor de la igualdad sustantiva, el derecho a una vida libre de violencias, el respeto a los derechos humanos y la dignidad de las mujeres; Fracción reformada DOF 15-01-2026
 

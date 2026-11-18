@@ -21,7 +21,9 @@ La emisión se hará previa declaración unilateral de voluntad de la sociedad e
 
 I.- La denominación, el objeto y el domicilio de la sociedad emisora;
 
-II.- Una relación del acto constitutivo del fideicomiso, bases de la emisión; III.- Una descripción suficiente de los derechos o cosas materia de la emisión;
+II.- Una relación del acto constitutivo del fideicomiso, bases de la emisión;
+
+III.- Una descripción suficiente de los derechos o cosas materia de la emisión;
 
 IV.- El dictamen pericial a que se refiere el artículo [228](articulo-228.md) h;
 

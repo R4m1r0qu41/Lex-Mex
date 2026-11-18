@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LSNIIMSP — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
 source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 ---
@@ -29,7 +29,9 @@ IV. Los estudios estratégicos sobre delitos de alto impacto, así como la plane
 
 V. El análisis de asuntos relevantes, principalmente tratándose de delitos de alto impacto o de situaciones que involucren posibles amenazas a la seguridad nacional, deben tratarse de forma independiente a las prioridades generales en materia de seguridad pública. En estos casos, deberán incorporarse criterios que visibilicen la incidencia y confluencia entre ambas ramas de la seguridad, la pública y la nacional;
 
-VI. Deberán desarrollarse en apego a lo estipulado en los protocolos técnicos y científicos respectivos, desarrollados por el CNI; VII. Tratándose de casos complejos que puedan conllevar la ejecución de operativos o investigaciones especiales por mandato del [Consejo Nacional](articulo-2.md), así como el desarrollo de estudios, trabajos, intercambios e investigaciones particulares, su presupuestación, planeación, seguimiento y vigilancia los determinará el Consejo Nacional;
+VI. Deberán desarrollarse en apego a lo estipulado en los protocolos técnicos y científicos respectivos, desarrollados por el CNI;
+
+VII. Tratándose de casos complejos que puedan conllevar la ejecución de operativos o investigaciones especiales por mandato del [Consejo Nacional](articulo-2.md), así como el desarrollo de estudios, trabajos, intercambios e investigaciones particulares, su presupuestación, planeación, seguimiento y vigilancia los determinará el Consejo Nacional;
 
 VIII. Los resultados del análisis estarán sujetos a evaluaciones de las acciones emprendidas a través de informes que consideren su metodología, desarrollo, resultados, desempeño, progreso, viabilidad y utilidad de conocimiento generado;
 

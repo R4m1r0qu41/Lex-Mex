@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 104
 
-Todo transportista u operador aéreo después de aterrizar o antes de despegar en un aeródromo deberá manifestar, bajo protesta de decir verdad, la información relativa al número de pasajeros que transporta, el tipo de aeronave, destino u origen, así como la demás información que se requiera de acuerdo con los formatos que la [Secretaría](articulo-2.md) publique en el Diario Oficial de la Federación.
-
-El administrador aeroportuario será responsable de que todos los transportistas u operadores aéreos le entreguen el citado manifiesto, así como de supervisar la veracidad de la información, sin perjuicio de las atribuciones de la Secretaría.
+Todo transportista u operador aéreo después de aterrizar o antes de despegar en un aeródromo deberá manifestar, bajo protesta de decir verdad, la información relativa al número de pasajeros que transporta, el tipo de aeronave, destino u origen, así como la demás información que se requiera de acuerdo con los formatos que la [Secretaría](articulo-2.md) publique en el Diario Oficial de la Federación. El administrador aeroportuario será responsable de que todos los transportistas u operadores aéreos le entreguen el citado manifiesto, así como de supervisar la veracidad de la información, sin perjuicio de las atribuciones de la Secretaría.

@@ -88,19 +88,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:reference:1841-1842:6:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:reference:1842-1843:6:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "source_span": "6",
-    "start_char": 1841,
-    "end_char": 1842,
+    "start_char": 1842,
+    "end_char": 1843,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfll",
     "target_provision_id": "urn:lex-mx:federal:statute:lfll:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 1817,
-        "end_char": 1827
+        "start_char": 1818,
+        "end_char": 1828
       }
     ],
     "basis": "express_cross_reference",

@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LDCMPME — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf
 source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 ---
@@ -33,7 +33,9 @@ VI. Facilitar la integración entre las MIPYMES;
 
 VII. Impulsar la vinculación de las MIPYMES con la gran empresa;
 
-VIII. Estimular la integración y eficiencia de las cadenas productivas, con la participación de los Sectores, con una visión de corto, mediano y largo plazo; IX. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
+VIII. Estimular la integración y eficiencia de las cadenas productivas, con la participación de los Sectores, con una visión de corto, mediano y largo plazo;
+
+IX. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
 
 X. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y
 

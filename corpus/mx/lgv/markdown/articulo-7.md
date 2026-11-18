@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LGV — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 7
 
-Los derechos de las víctimas que prevé la presente Ley son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la Constitución, los tratados y las leyes aplicables en materia de atención a víctimas, favoreciendo en todo tiempo la protección más amplia de sus derechos.
+Los derechos de las víctimas que prevé la presente [Ley](articulo-6.md) son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la Constitución, los tratados y las leyes aplicables en materia de atención a víctimas, favoreciendo en todo tiempo la protección más amplia de sus derechos.
 
 Las víctimas tendrán, entre otros, los siguientes derechos:
 
@@ -41,7 +41,9 @@ IX. A solicitar y a recibir información clara, precisa y accesible sobre las ru
 
 X. A solicitar, acceder y recibir, en forma clara y precisa, toda la información oficial necesaria para lograr el pleno ejercicio de cada uno de sus derechos;
 
-XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, entre éstos, los documentos de identificación y las visas; XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
+XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, entre éstos, los documentos de identificación y las visas;
+
+XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
 
 XIII. A ser efectivamente escuchada por la autoridad respectiva cuando se encuentre presente en la audiencia, diligencia o en cualquier otra actuación y antes de que la autoridad se pronuncie;
 
@@ -71,7 +73,9 @@ XXV. A tomar decisiones informadas sobre las vías de acceso a la justicia o mec
 
 XXVI. A una investigación pronta y efectiva que lleve a la identificación, captura, procesamiento y sanción de manera adecuada de todos los responsables del daño, al esclarecimiento de los hechos y a la reparación del daño;
 
-XXVII. A participar activamente en la búsqueda de la verdad de los hechos y en los mecanismos de acceso a la justicia que estén a su disposición, conforme a los procedimientos establecidos en la ley de la materia; XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e instancias correspondientes y a que éstas, en su caso, sean consideradas en las decisiones que afecten sus intereses;
+XXVII. A participar activamente en la búsqueda de la verdad de los hechos y en los mecanismos de acceso a la justicia que estén a su disposición, conforme a los procedimientos establecidos en la ley de la materia;
+
+XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e instancias correspondientes y a que éstas, en su caso, sean consideradas en las decisiones que afecten sus intereses;
 
 XXIX. Derecho a ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
 

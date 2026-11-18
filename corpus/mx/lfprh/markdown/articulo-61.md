@@ -25,7 +25,9 @@ El Ejecutivo Federal, por conducto de las dependencias competentes, establecerá
 
 A fin de lograr los objetivos a que se refiere el párrafo anterior, el Ejecutivo Federal deberá emitir un programa, en concordancia con el Plan Nacional de Desarrollo, el cual deberá publicarse en el Diario Oficial de la Federación, a más tardar el 30 de agosto del primer año de gobierno de la administración del Ejecutivo Federal. Párrafo adicionado DOF 24-01-2014
 
-Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales. Párrafo adicionado DOF 01-10-2007. Reformado DOF 24-01-2014 Dicho programa será de observancia obligatoria para todas las dependencias y entidades, incluyendo aquéllas a que se refiere el artículo [5](articulo-5.md) de la presente Ley, y deberá considerar al menos, los siguientes aspectos:
+Las dependencias y entidades deberán cumplir con los compromisos e indicadores del desempeño de las medidas que se establezcan en el programa a que se refiere el párrafo anterior. Dichos compromisos deberán formalizarse por los titulares de las dependencias y entidades, y el avance en su cumplimiento se reportará en los informes trimestrales. Párrafo adicionado DOF 01-10-2007. Reformado DOF 24-01-2014
+
+Dicho programa será de observancia obligatoria para todas las dependencias y entidades, incluyendo aquéllas a que se refiere el artículo [5](articulo-5.md) de la presente Ley, y deberá considerar al menos, los siguientes aspectos:
 
 I. Establecer mecanismos para monitorear anualmente la evolución de los recursos destinados a gasto corriente estructural ejercido;
 

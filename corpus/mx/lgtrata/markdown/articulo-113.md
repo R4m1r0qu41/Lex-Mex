@@ -35,7 +35,7 @@ VII. Fijar los lineamientos generales de las evaluaciones a las que se someterá
 
 VIII. Apoyar la creación de refugios, albergues y casas de medio camino para las víctimas, ofendidos y testigos de los delitos que esta Ley define como del fuero federal, o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos previstos en esta Ley;
 
-IX. En función de los resultados de la observación y evaluación de la evolución de los delitos previstos en esta Ley en el país y la evaluación periódica de resultados, así como en función de LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS recursos que las entidades federativas y municipios destinen para el cumplimiento de lo previsto en la presente Ley, sujeto a disponibilidades presupuestarias, apoyar a las entidades federativas que se encuentren en mayor riesgo o rezago, con recursos técnicos, humanos y financieros;
+IX. En función de los resultados de la observación y evaluación de la evolución de los delitos previstos en esta Ley en el país y la evaluación periódica de resultados, así como en función de recursos que las entidades federativas y municipios destinen para el cumplimiento de lo previsto en la presente Ley, sujeto a disponibilidades presupuestarias, apoyar a las entidades federativas que se encuentren en mayor riesgo o rezago, con recursos técnicos, humanos y financieros;
 
 X. Fijar los protocolos únicos para el uso de procedimientos y recursos para el rescate, asistencia y protección de las víctimas y posibles víctimas;
 

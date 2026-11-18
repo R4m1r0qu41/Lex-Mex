@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LDPAM — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf
 source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 ---

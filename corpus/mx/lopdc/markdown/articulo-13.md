@@ -21,7 +21,9 @@ El Órgano de Gobierno tendrá las siguientes atribuciones:
 
 I.- Analizar y, en su caso, aprobar el proyecto de presupuesto presentado por el Procurador;
 
-II.- Fijar lineamientos y aprobar los programas anuales de actividades y las políticas de la Procuraduría, así como los lineamientos generales de actuación de ésta y de su Procurador y, velar por el cumplimiento de las reglas del servicio profesional de carrera; III.- Aprobar el Estatuto Orgánico de la Procuraduría, en el que se determinará la estructura y funciones de cada unidad u órgano que lo integren, así como el ámbito competencial de cada uno de ellos;
+II.- Fijar lineamientos y aprobar los programas anuales de actividades y las políticas de la Procuraduría, así como los lineamientos generales de actuación de ésta y de su Procurador y, velar por el cumplimiento de las reglas del servicio profesional de carrera;
+
+III.- Aprobar el Estatuto Orgánico de la Procuraduría, en el que se determinará la estructura y funciones de cada unidad u órgano que lo integren, así como el ámbito competencial de cada uno de ellos;
 
 IV.- Evaluar y, en su caso, aprobar el proyecto de informe anual del Procurador de la Defensa del Contribuyente;
 

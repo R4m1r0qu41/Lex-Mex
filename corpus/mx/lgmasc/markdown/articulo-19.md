@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["LGMASC — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -31,7 +31,9 @@ V. Supervisar el desempeño de las personas que ejercen los mecanismos alternati
 
 VI. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho fundamental reconocido por la Constitución Política de los Estados Unidos Mexicanos para garantizar el acceso efectivo a la justicia, y generar una cultura de paz;
 
-VII. Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias; VIII. Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y
+VII. Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias;
+
+VIII. Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y
 
 IX. Imponer las sanciones que corresponda por infracciones a lo dispuesto en esta [Ley](articulo-5.md).
 

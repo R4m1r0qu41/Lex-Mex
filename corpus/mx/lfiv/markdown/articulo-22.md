@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LFIV — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 ---
@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 22
 
-La Secretaría de Hacienda y Crédito Público en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a actualizar la incorporación de los productores nacionales al padrón de exportadores.
+La Secretaría de Hacienda y Crédito Público en coordinación con la [Comisión](articulo-3.md) apoyará al [Sector](articulo-3.md) a actualizar la incorporación de los productores nacionales al padrón de exportadores.

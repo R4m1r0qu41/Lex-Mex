@@ -41,7 +41,9 @@ X.- El sujeto principal de la concertación ecológica son no solamente los indi
 
 XI.- En el ejercicio de las atribuciones que las leyes confieren al Estado, para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico;
 
-XII.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades en los términos de esta y otras leyes, tomarán las medidas para garantizar ese derecho; XIII.- Garantizar el derecho de las comunidades, incluyendo a los pueblos y comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables; Fracción reformada DOF 01-04-2024
+XII.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades en los términos de esta y otras leyes, tomarán las medidas para garantizar ese derecho;
+
+XIII.- Garantizar el derecho de las comunidades, incluyendo a los pueblos y comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables; Fracción reformada DOF 01-04-2024
 
 XIV.- La erradicación de la pobreza es necesaria para el desarrollo sustentable;
 

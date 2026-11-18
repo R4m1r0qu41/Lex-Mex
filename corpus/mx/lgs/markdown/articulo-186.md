@@ -21,6 +21,8 @@ La Secretaría de Salud fomentará las actividades de investigación que permita
 
 I. Causas del alcoholismo y acciones para controlarlas.
 
-II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas; III. Hábitos de consumo de alcohol en los diferentes grupos de población y
+II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
+
+III. Hábitos de consumo de alcohol en los diferentes grupos de población y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar social, deportivo, de los espectáculos, laboral y educativo.

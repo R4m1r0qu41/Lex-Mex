@@ -19,7 +19,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 Para que la fama pública sea admitida como prueba, debe tener las condiciones siguientes:
 
-I.- Que se refiera á época anterior al principio del pleito; II.- Que tenga origen de personas determinadas, que sean o hayan sido conocidas, honradas, fidedignas, y que no haya tenido ni tengan interés alguno en el negocio de que se trate;
+I.- Que se refiera á época anterior al principio del pleito;
+
+II.- Que tenga origen de personas determinadas, que sean o hayan sido conocidas, honradas, fidedignas, y que no haya tenido ni tengan interés alguno en el negocio de que se trate;
 
 III.- Que sea uniforme, constante y aceptada por la generalidad de la población donde se supone acontecido el suceso de que se trate.
 

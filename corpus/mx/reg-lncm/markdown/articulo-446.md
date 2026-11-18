@@ -59,7 +59,9 @@ c) Plano de la instalación indicando las áreas de servicio;
 
 d) Currículum vitae del responsable de la instalación, y
 
-e) Copia de certificados de capacitación del personal técnico-operativo que realiza los trabajos, y II. Para personas morales, además de lo indicado en el apartado C, fracción I de este artículo, copia certificada del acta constitutiva, y
+e) Copia de certificados de capacitación del personal técnico-operativo que realiza los trabajos, y
+
+II. Para personas morales, además de lo indicado en el apartado C, fracción I de este artículo, copia certificada del acta constitutiva, y
 
 D. Instalaciones receptoras de Desechos:
 

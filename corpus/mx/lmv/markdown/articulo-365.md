@@ -27,7 +27,9 @@ II. Tengan por objeto títulos emitidos por instituciones de crédito, represent
 
 III. Representen adquisiciones o enajenaciones de valores realizadas por directivos o empleados de una emisora, emisora simplificada o personas morales que ésta controle, adquiridos con motivo del ejercicio de opciones derivadas de prestaciones o planes otorgados para empleados, previamente aprobados por la asamblea de accionistas de la emisora o emisora simplificada de que se trate y que prevean un trato general y equivalente para directivos o empleados que mantengan condiciones similares de trabajo. Fracción reformada DOF 28-12-2023
 
-IV. Realicen los accionistas, consejeros, directivos, gerentes, factores, auditores externos, comisarios y secretarios de órganos colegiados, prestadores de servicios independientes y asesores en general de las sociedades de inversión de renta variable y en instrumentos de deuda a las que les resulte aplicable este artículo, respecto de las acciones representativas del capital social de dichas sociedades de inversión. V. Autorice expresamente la [Comisión](articulo-2.md), cuando se trate de:
+IV. Realicen los accionistas, consejeros, directivos, gerentes, factores, auditores externos, comisarios y secretarios de órganos colegiados, prestadores de servicios independientes y asesores en general de las sociedades de inversión de renta variable y en instrumentos de deuda a las que les resulte aplicable este artículo, respecto de las acciones representativas del capital social de dichas sociedades de inversión.
+
+V. Autorice expresamente la [Comisión](articulo-2.md), cuando se trate de:
 
 a) Reestructuraciones corporativas tales como fusiones, escisiones, adquisiciones o ventas de activos que representen cuando menos el diez por ciento de los activos y ventas del ejercicio social anterior de la emisora o emisora simplificada. Inciso reformado DOF 28-12-2023
 

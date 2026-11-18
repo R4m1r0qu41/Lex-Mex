@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["LFZEE — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -37,6 +37,8 @@ VIII. Obtener fondos, créditos, garantías y otros recursos financieros en el p
 
 IX. Informar a la [Secretaría](articulo-3.md) y al Administrador Integral sobre la fecha de inicio, suspensión y terminación de las actividades económicas productivas, así como de cualquier incidente que ponga en riesgo la seguridad, eficiencia y continuidad en sus operaciones;
 
-X. Proporcionar la información y documentación que le sea solicitada por la Secretaría, para verificar el cumplimiento de las obligaciones a su cargo; XI. Convenir con el Administrador Integral o con otros Inversionistas, preferentemente, que para la resolución de controversias, podrán someterse al arbitraje o a otros medios alternativos, en términos de las disposiciones jurídicas aplicables, y
+X. Proporcionar la información y documentación que le sea solicitada por la Secretaría, para verificar el cumplimiento de las obligaciones a su cargo;
+
+XI. Convenir con el Administrador Integral o con otros Inversionistas, preferentemente, que para la resolución de controversias, podrán someterse al arbitraje o a otros medios alternativos, en términos de las disposiciones jurídicas aplicables, y
 
 XII. Observar lo dispuesto en las demás disposiciones jurídicas aplicables.

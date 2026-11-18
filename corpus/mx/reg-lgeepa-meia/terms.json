@@ -172,7 +172,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
     "fraction": "XIV",
     "start_char": 3132,
-    "end_char": 3409,
+    "end_char": 3410,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
     "fraction": "XV",
-    "start_char": 3409,
-    "end_char": 4065,
+    "start_char": 3410,
+    "end_char": 4066,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
     "fraction": "XVI",
-    "start_char": 4065,
-    "end_char": 4102,
+    "start_char": 4066,
+    "end_char": 4103,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
     "fraction": "XVII",
-    "start_char": 4102,
-    "end_char": 4207,
+    "start_char": 4103,
+    "end_char": 4208,
     "basis": "express_definition"
   }
 ]

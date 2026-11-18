@@ -25,7 +25,9 @@ II. Los montos, términos y condiciones de las aportaciones públicas que, en su
 
 III. La referencia a la documentación que deberán presentar los participantes, plazos y forma de su presentación;
 
-IV. La indicación de que los concursantes deberán entregar, con su oferta técnica, copia del recibo de adquisición de las bases; V. La mención del lugar, fecha y hora para la realización de los actos y presentación de documentos en el Concurso;
+IV. La indicación de que los concursantes deberán entregar, con su oferta técnica, copia del recibo de adquisición de las bases;
+
+V. La mención del lugar, fecha y hora para la realización de los actos y presentación de documentos en el Concurso;
 
 VI. Las características y requisitos estatutarios que deberá cumplir la sociedad con propósito específico a que se refiere el artículo [91](../../lapp/markdown/articulo-91.md) de la Ley, con la que se celebrará el contrato, así como los requisitos que deban cumplir sus administradores;
 

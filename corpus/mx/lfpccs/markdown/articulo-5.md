@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LFPCCS — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf
 source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 ---
@@ -39,7 +39,9 @@ IX. Integrar, actualizar y publicar anualmente el [Catálogo Nacional de Varieda
 
 X. Integrar y actualizar el inventario de instalaciones y equipo para el beneficio y almacenamiento de semillas con que cuenta el país;
 
-XI. Promover que se ejecuten por las instancias correspondientes los programas para el desarrollo de la investigación, capacitación, extensión y vinculación en materia de semillas, así como las acciones de fomento, promoción y uso de semillas; XII. Integrar y difundir información relativa a la producción, conservación, calificación, certificación, comercio y uso de semillas;
+XI. Promover que se ejecuten por las instancias correspondientes los programas para el desarrollo de la investigación, capacitación, extensión y vinculación en materia de semillas, así como las acciones de fomento, promoción y uso de semillas;
+
+XII. Integrar y difundir información relativa a la producción, conservación, calificación, certificación, comercio y uso de semillas;
 
 XIII. Ordenar y ejecutar las medidas para prevenir infracciones a las disposiciones de esta Ley;
 

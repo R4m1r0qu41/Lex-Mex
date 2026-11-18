@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["REG-LFZEE — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -17,7 +17,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 49
 
-La [Autoridad Federal](articulo-4.md) para la realización del [Dictamen](articulo-4.md) en relación con el predio donde se pretende ubicar la [Zona](articulo-4.md), deberá tomar en consideración los criterios siguientes: I. Características generales:
+La [Autoridad Federal](articulo-4.md) para la realización del [Dictamen](articulo-4.md) en relación con el predio donde se pretende ubicar la [Zona](articulo-4.md), deberá tomar en consideración los criterios siguientes:
+
+I. Características generales:
 
 a) Que cuente con una superficie suficiente para llevar a cabo las [Actividades Económicas Productivas](articulo-4.md);
 

@@ -33,7 +33,9 @@ VI. Se deroga. Fracción derogada DOF 29-11-2019
 
 VII. Contar con su expediente clínico;
 
-VIII. Decidir libremente sobre su atención; IX. Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
+VIII. Decidir libremente sobre su atención;
+
+IX. Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
 
 X. Ser tratado con confidencialidad;
 

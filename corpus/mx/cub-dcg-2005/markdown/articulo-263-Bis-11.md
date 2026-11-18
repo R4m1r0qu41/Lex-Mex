@@ -9,16 +9,15 @@ aliases: ["DCG-CUB-2005 — Artículo 263 Bis 11"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [265]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
 
 # Artículo 263 Bis 11
 
-El Sistema de Recepción y Asignación de las Instituciones deberá contar con un foliador único que asigne un folio consecutivo a cada Orden que ingrese para las Órdenes derivadas de instrucciones al libro, otro foliador único que igualmente asigne un folio consecutivo a las Órdenes derivadas de instrucciones a la mesa y foliadores para las órdenes enviadas a través de los canales de acceso electrónico directo, en el entendido de que cada uno llevará su respectivo orden de prelación.
+El [Sistema de Recepción y Asignación](articulo-1.md) de las Instituciones deberá contar con un foliador único que asigne un folio consecutivo a cada [Orden](articulo-1.md) que ingrese para las Órdenes derivadas de instrucciones al libro, otro foliador único que igualmente asigne un folio consecutivo a las Órdenes derivadas de instrucciones a la mesa y foliadores para las órdenes enviadas a través de los canales de acceso electrónico directo, en el entendido de que cada uno llevará su respectivo orden de prelación.
 
-En caso de Órdenes con vigencia superior a un día y mientras no sean ejecutadas, las Instituciones (265)
-
-deberán transmitir a las casas de bolsa dichas Órdenes al inicio de cada sesión bursátil o, en su caso, solicitar a la casa de bolsa de que se trate, mantenerlas en el libro electrónico de las Bolsas, durante la vigencia de la Orden y hasta en tanto concluya dicha vigencia o sean ejecutadas, lo que suceda primero. Las Órdenes tendrán la prelación que corresponda según su folio de recepción.
+En caso de Órdenes con vigencia superior a un día y mientras no sean ejecutadas, las Instituciones deberán transmitir a las casas de bolsa dichas Órdenes al inicio de cada sesión bursátil o, en su caso, solicitar a la casa de bolsa de que se trate, mantenerlas en el libro electrónico de las [Bolsas](articulo-1.md), durante la vigencia de la Orden y hasta en tanto concluya dicha vigencia o sean ejecutadas, lo que suceda primero. Las Órdenes tendrán la prelación que corresponda según su folio de recepción.

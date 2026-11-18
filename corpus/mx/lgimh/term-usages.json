@@ -262,39 +262,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:625-643",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:626-644",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-de-genero",
     "span": "Igualdad de Género",
-    "start_char": 625,
-    "end_char": 643
+    "start_char": 626,
+    "end_char": 644
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:935-951",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:936-952",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 935,
-    "end_char": 951
+    "start_char": 936,
+    "end_char": 952
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1378-1394",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1379-1395",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1378,
-    "end_char": 1394
+    "start_char": 1379,
+    "end_char": 1395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1516-1532",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1517-1533",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1516,
-    "end_char": 1532
+    "start_char": 1517,
+    "end_char": 1533
   },
   {
     "schema_version": "0.1.0",
@@ -325,12 +325,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgimh:article:25:term-usage:1465-1481",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:25:term-usage:1466-1482",
     "provision_id": "urn:lex-mx:federal:statute:lgimh:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1465,
-    "end_char": 1481
+    "start_char": 1466,
+    "end_char": 1482
   },
   {
     "schema_version": "0.1.0",

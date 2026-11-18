@@ -7,8 +7,8 @@ provision_type: article
 number: "2o"
 aliases: ["REG-LOGAN — Artículo 2o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf
 source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 ---
@@ -33,7 +33,9 @@ VI. Fierro: instrumento de herrar a fuego o en frío en el cuerpo del animal que
 
 VII. Ganadero: persona física o moral que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
 
-VIII. Lineamientos Técnico-Genealógicos: disposiciones emitidas por la Secretaría en donde se indican los procedimientos para el registro genealógico y productivo de los animales domésticos; IX. Marca: muesca o arete en las orejas del animal que lo identifica y señala a su propietario;
+VIII. Lineamientos Técnico-Genealógicos: disposiciones emitidas por la Secretaría en donde se indican los procedimientos para el registro genealógico y productivo de los animales domésticos;
+
+IX. Marca: muesca o arete en las orejas del animal que lo identifica y señala a su propietario;
 
 X. Organizaciones ganaderas: las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la [Confederación](articulo-2o.md) Nacional de Organizaciones Ganaderas, todas ellas debidamente constituidas en términos de la Ley;
 

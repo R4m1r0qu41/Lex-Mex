@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["LFFMAA — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf
 source_sha256: 31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa
 ---
@@ -23,7 +23,9 @@ I. Acordar la coordinación de trámites y despacho de los asuntos relacionados 
 
 II.- Realizar estudios sobre la regulación jurídica relativa a la constitución, instalación y funcionamiento de las microindustrias, así como proponer las medidas administrativas o modificaciones a disposiciones legales tendientes a alcanzar los fines a que se refiere esta ley;
 
-III.- Proponer la forma y términos para el otorgamiento y aplicación de los apoyos y estímulos a que se refiere esta ley; IV.- Opinar y, en su caso, recomendar lo que considere conveniente, sobre las consultas que le formulen las diversas dependencias de la Administración Pública Federal;
+III.- Proponer la forma y términos para el otorgamiento y aplicación de los apoyos y estímulos a que se refiere esta ley;
+
+IV.- Opinar y, en su caso, recomendar lo que considere conveniente, sobre las consultas que le formulen las diversas dependencias de la Administración Pública Federal;
 
 V.- Ser el conducto por medio del cual se definan por las dependencias y entidades de la Administración Pública Federal, las materias cuya coordinación debe promoverse ante las entidades federativas y sus municipios, para la obtención de los apoyos a que se refiere esta ley, especialmente para alcanzar los fines señalados en la fracción I;
 

@@ -33,19 +33,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:reference:3823-3827:10:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:reference:3824-3828:10:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "source_span": "VIII",
-    "start_char": 3823,
-    "end_char": 3827,
+    "start_char": 3824,
+    "end_char": 3828,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VIII",
-        "start_char": 3823,
-        "end_char": 3827
+        "start_char": 3824,
+        "end_char": 3828
       }
     ],
     "basis": "express_cross_reference",

@@ -56,11 +56,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:reference:5780-5782:12:direct",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:reference:5782-5784:12:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "source_span": "12",
-    "start_char": 5780,
-    "end_char": 5782,
+    "start_char": 5782,
+    "end_char": 5784,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:12",
     "qualifiers": [],
@@ -72,11 +72,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:reference:2210-2213:107:direct",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:reference:2211-2214:107:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "source_span": "107",
-    "start_char": 2210,
-    "end_char": 2213,
+    "start_char": 2211,
+    "end_char": 2214,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:107",
     "qualifiers": [],
@@ -124,29 +124,6 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:transitory:decimo:reference:754-756:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:decimo",
-    "source_span": "89",
-    "start_char": 754,
-    "end_char": 756,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 730,
-        "end_char": 740
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",

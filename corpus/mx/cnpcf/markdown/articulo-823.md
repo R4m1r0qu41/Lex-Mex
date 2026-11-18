@@ -25,7 +25,9 @@ II. Los montos y forma de pago de los acreedores preferentes y demás acreedores
 
 III. La continuación o terminación con consentimiento del acreedor del contrato sobre la vivienda de la persona deudora y su familia;
 
-IV. Un plan de pagos en el que se detallará como se aplicarán los montos de los ingresos que la persona deudora se obliga a pagar a sus acreedores, con los montos, fechas y formas de pago; V. Una lista de los bienes que se destinarán al pago de acreedores y que no sean necesarios para la subsistencia y trabajo de la persona deudora, en su caso, al valor más alto que les fue atribuido por corredor público o casa de comercio que se dedique a la venta de esos bienes, su posible adjudicación a favor de los acreedores como forma de pago o bien, el procedimiento para su venta extrajudicial de forma consensuada por las partes;
+IV. Un plan de pagos en el que se detallará como se aplicarán los montos de los ingresos que la persona deudora se obliga a pagar a sus acreedores, con los montos, fechas y formas de pago;
+
+V. Una lista de los bienes que se destinarán al pago de acreedores y que no sean necesarios para la subsistencia y trabajo de la persona deudora, en su caso, al valor más alto que les fue atribuido por corredor público o casa de comercio que se dedique a la venta de esos bienes, su posible adjudicación a favor de los acreedores como forma de pago o bien, el procedimiento para su venta extrajudicial de forma consensuada por las partes;
 
 VI. Modificaciones a los plazos, amortizaciones o intereses de los créditos a cargo de la persona deudora sin que constituyan usura. Si la persona deudora es una persona moral de naturaleza civil, el convenio establecerá las modificaciones consensuadas entre las partes que deben hacerse a los créditos y garantías a su cargo, así como las modificaciones que sean necesarias para que la persona moral siga operando, siempre y cuando sea viable su operación;
 

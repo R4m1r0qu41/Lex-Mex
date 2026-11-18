@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["REG-LOINAH — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -49,7 +49,9 @@ XIV. Coordinación Nacional de Recursos Humanos;
 
 XV. Coordinación Nacional de Recursos Materiales y Servicios;
 
-XVI. Coordinación Nacional de Obras y Proyectos; XVII. Dirección de Estudios Históricos;
+XVI. Coordinación Nacional de Obras y Proyectos;
+
+XVII. Dirección de Estudios Históricos;
 
 XVIII. Dirección de la Biblioteca Nacional de Antropología e Historia;
 

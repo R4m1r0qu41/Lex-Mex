@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LCNE — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf
 source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 ---
@@ -27,4 +27,6 @@ III. No haber sido sentenciada por delitos dolosos que hayan ameritado pena priv
 
 IV. Haberse desempeñado en forma destacada, durante al menos diez años, en actividades profesionales, de servicio público o académicas relacionadas con el Sector Energético;
 
-V. No haber ocupado, en el año previo a su designación, ningún empleo, cargo o función directiva en las empresas que estén sujetas a la regulación de la [Comisión](articulo-6.md), y VI. No desempeñar durante el periodo de su encargo otra comisión o empleo dentro de la Federación, entidades federativas, municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, Empresas Públicas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos.
+V. No haber ocupado, en el año previo a su designación, ningún empleo, cargo o función directiva en las empresas que estén sujetas a la regulación de la [Comisión](articulo-6.md), y
+
+VI. No desempeñar durante el periodo de su encargo otra comisión o empleo dentro de la Federación, entidades federativas, municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, Empresas Públicas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos.

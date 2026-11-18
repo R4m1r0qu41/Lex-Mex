@@ -7,8 +7,8 @@ provision_type: article
 number: "96"
 aliases: ["LGMDFP — Artículo 96"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -21,7 +21,9 @@ Si en cualquier momento durante la búsqueda la persona es localizada, la [Comis
 
 I. Dar aviso a la [Fiscalía Especializada](articulo-4.md) que corresponda, cuando exista carpeta de investigación. En caso de que no se haya cometido ningún delito, deberá darse por concluida la carpeta de investigación;
 
-II. Dar aviso inmediato a la autoridad competente en materia de atención a [Víctimas](articulo-4.md); III. Aplicar el procedimiento correspondiente a la identificación de identidad regulado en el [Protocolo Homologado de Búsqueda](articulo-4.md), el cual establecerá el modo de obtención de la declaración de la persona localizada, en la cual señale las circunstancias de tiempo, modo y lugar de su desaparición o no localización, así como los motivos de ésta y los probables responsables de la misma;
+II. Dar aviso inmediato a la autoridad competente en materia de atención a [Víctimas](articulo-4.md);
+
+III. Aplicar el procedimiento correspondiente a la identificación de identidad regulado en el [Protocolo Homologado de Búsqueda](articulo-4.md), el cual establecerá el modo de obtención de la declaración de la persona localizada, en la cual señale las circunstancias de tiempo, modo y lugar de su desaparición o no localización, así como los motivos de ésta y los probables responsables de la misma;
 
 IV. Una vez identificada, declarar localizada a la persona y notificarlo a quien solicitó la búsqueda, a sus [Familiares](articulo-4.md) o, en su caso, a la persona que ésta designe;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "13 Bis"
 aliases: ["LFCE — Artículo 13 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -31,7 +31,9 @@ Las personas aspirantes a ser Personas Comisionadas deberán cumplir los siguien
 
 I. Ser persona ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación; III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
 IV. Tener título profesional, expedido legalmente a su favor;
 

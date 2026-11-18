@@ -21,7 +21,9 @@ El [Centro de Evaluación](articulo-3.md) tendrá las siguientes atribuciones:
 
 I. Llevar a cabo las evaluaciones periódicas a los Integrantes del [Instituto](articulo-3.md), a fin de comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia necesarios para el cumplimiento de sus funciones;
 
-II. Comunicar a las unidades administrativas competentes los resultados de las evaluaciones que practique, para los efectos del ingreso, promoción o permanencia de los servidores públicos del Instituto, según corresponda; III. Emitir y actualizar el certificado correspondiente al personal del Instituto que acredite las evaluaciones correspondientes;
+II. Comunicar a las unidades administrativas competentes los resultados de las evaluaciones que practique, para los efectos del ingreso, promoción o permanencia de los servidores públicos del Instituto, según corresponda;
+
+III. Emitir y actualizar el certificado correspondiente al personal del Instituto que acredite las evaluaciones correspondientes;
 
 IV. Contribuir a identificar los factores de riesgo que repercutan o pongan en peligro el desempeño de las funciones migratorias, con el fin de garantizar la adecuada operación de los servicios migratorios;
 

@@ -23,7 +23,9 @@ I. Elaborar los diagnósticos en materia de procuración de justicia en el ámbi
 
 II. Realizar estudios sobre la operación de la Procuraduría, identificando sus fortalezas, oportunidades, debilidades y amenazas, con objeto de proponer acciones que contribuyan a mejorar su desempeño;
 
-III. Diseñar, ejecutar y evaluar el sistema de planeación de la Institución, así como los programas específicos que determine el [Procurador](articulo-2.md) y, en su caso, proponer a la Unidad Administrativa competente las modificaciones pertinentes a la estructura orgánica de la Procuraduría; IV. Coordinar y evaluar la participación de las unidades administrativas en la ejecución del sistema de planeación, para asegurar la congruencia de las estructuras con los proyectos que sustenten la operación;
+III. Diseñar, ejecutar y evaluar el sistema de planeación de la Institución, así como los programas específicos que determine el [Procurador](articulo-2.md) y, en su caso, proponer a la Unidad Administrativa competente las modificaciones pertinentes a la estructura orgánica de la Procuraduría;
+
+IV. Coordinar y evaluar la participación de las unidades administrativas en la ejecución del sistema de planeación, para asegurar la congruencia de las estructuras con los proyectos que sustenten la operación;
 
 V. Definir y aplicar métodos, técnicas y herramientas que permitan actualizar, fortalecer y consolidar el sistema de planeación institucional a fin de asegurar su congruencia con las atribuciones y funciones de las unidades administrativas de la Procuraduría;
 

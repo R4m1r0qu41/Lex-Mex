@@ -25,7 +25,9 @@ II. Ser persona moral constituida conforme a las leyes mexicanas;
 
 III. Contar con equipos e instalaciones adecuadas y acordes para impartir la capacitación en materia de seguridad, describiendo la ubicación exacta y las características del ambiente físico, planos arquitectónicos del plantel contemplando oficinas e instalaciones en donde será impartida la capacitación, conforme a lo establecido en el Manual que al efecto emita la Dirección General;
 
-IV. Presentar copia certificada de la escritura constitutiva y, en su caso, con sus modificaciones, inscrita en el Registro Público correspondiente, en donde se encuentre como objeto social la impartición de capacitación al [Personal de la Marina Mercante](articulo-10.md) y en la que se señale que su domicilio se encuentra en territorio mexicano; V. Copia certificada del poder del representante legal otorgado ante fedatario público;
+IV. Presentar copia certificada de la escritura constitutiva y, en su caso, con sus modificaciones, inscrita en el Registro Público correspondiente, en donde se encuentre como objeto social la impartición de capacitación al [Personal de la Marina Mercante](articulo-10.md) y en la que se señale que su domicilio se encuentra en territorio mexicano;
+
+V. Copia certificada del poder del representante legal otorgado ante fedatario público;
 
 VI. Los planes y programas de estudio para la capacitación en materia de seguridad, los cuales deberán incluir por materia, objetivos generales y específicos, así como el desarrollo del contenido temático, el mapa curricular, especificando las horas de práctica y de teoría, y demás lineamientos que marca la guía para la implementación de los cursos modelo que emanan de la [OMI](articulo-10.md);
 

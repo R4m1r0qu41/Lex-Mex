@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["REG-LGV — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -27,7 +27,9 @@ II. Descripción del daño o daños que haya sufrido la víctima;
 
 III. La evaluación de la condición socioeconómica de la víctima;
 
-IV. Detalle de las necesidades de la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos; V. En caso de contar con ello, relación de partes médicos o psicológicos que detallen las afectaciones a la víctima con motivo de la comisión del delito o de la violación a los derechos humanos;
+IV. Detalle de las necesidades de la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos;
+
+V. En caso de contar con ello, relación de partes médicos o psicológicos que detallen las afectaciones a la víctima con motivo de la comisión del delito o de la violación a los derechos humanos;
 
 VI. Estudio de trabajo social elaborado por el Comité Interdisciplinario Evaluador en el que se haga una relación de las condiciones de victimización que enfrenta la víctima y las necesidades que requiere satisfacer para enfrentar las secuelas de la victimización;
 

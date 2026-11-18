@@ -24,7 +24,7 @@ I. Presentar a la [Comisión](articulo-1.md) un plan de restauración de capital
 
 II. Suspender el pago a los accionistas de dividendos provenientes de la casa de bolsa, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales a estos. En caso de que la casa de bolsa de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo.
 
-En términos de lo dispuesto en el artículo 136, fracción I, inciso c) de la Ley, lo señalado en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la casa de bolsa de que se trate, cuando el referido pago se aplique a la capitalización de la casa de bolsa.
+En términos de lo dispuesto en el artículo 136, fracción I, inciso c) de la [Ley](articulo-1.md), lo señalado en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la casa de bolsa de que se trate, cuando el referido pago se aplique a la capitalización de la casa de bolsa.
 
 De conformidad con lo previsto en el artículo 136 de la Ley, las casas de bolsa deberán prever en sus estatutos sociales lo dispuesto en esta fracción.
 

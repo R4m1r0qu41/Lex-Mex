@@ -1,0 +1,38 @@
+{
+  "at": "2026-11-04T03:44:08.946333+00:00",
+  "requests": [
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+      "status": 200,
+      "final_url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+      "headers": {
+        "Date": "Wed, 04 Nov 2026 03:44:08 GMT",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Content-Length": "743",
+        "Connection": "close",
+        "CF-Cache-Status": "HIT",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "ETag": "\"f9119c2a93ef3f12191f94a9720b08b2\"",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=X%2FgGYNRv588uR1WihhHY4%2FHq8ePP5GWi12evYPVpwvn4qdwB14yerCiFxCj4al%2F0hYKBJhQ4tHGdzP2eOfjWexADhwjM3xFPLyFHLJYFDNLHYc1t4V1dBIOSP9nNYLaMiSqjuQ%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Server": "cloudflare",
+        "CF-RAY": "a5509e543ee3565f-LAX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "bytes": 743,
+      "body": "# Lex-Mex\n\n> Selected Mexican legal corpus. Partial coverage; repository classifications are qualified.\n\nPin release `c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969`. Background text retrieval must not change the human reader selection. Read only relevant shards; do not bulk-load the corpus.\n\n## Corpus\n\n- [Selected corpus](/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/index.md): per-instrument Markdown indexes and exact text links.\n- [Manifest](/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json): source snapshots, coverage, input and file hashes.\n\nNo last-successful-upstream-check ledger or historical validity guarantee is available.\n"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/robots.txt",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/sitemap.xml",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

@@ -17,7 +17,9 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 11
 
-La Federación, por conducto de la [Secretaría](articulo-3o.md), podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial: Párrafo reformado DOF 19-01-2018 I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
+La Federación, por conducto de la [Secretaría](articulo-3o.md), podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial: Párrafo reformado DOF 19-01-2018
+
+I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
 II. El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones del presente ordenamiento;
 
@@ -47,7 +49,9 @@ V. El control de acciones para la protección, preservación y restauración del
 
 VI. La prevención y control de la contaminación de la atmósfera, proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
-VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes; Fracción reformada DOF 18-01-2021 VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, o
+VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes; Fracción reformada DOF 18-01-2021
+
+VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, o
 
 IX. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
 

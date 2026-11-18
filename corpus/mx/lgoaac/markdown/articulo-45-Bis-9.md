@@ -21,7 +21,9 @@ La Secretaría de Hacienda y Crédito Público podrá autorizar a las Institucio
 
 I. La [Institución Financiera del Exterior](articulo-45-Bis-1.md), la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social; Fracción reformada DOF 17-11-1995
 
-II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo; III. Se deroga Fracción derogada DOF 10-01-2014
+II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III. Se deroga Fracción derogada DOF 10-01-2014
 
 IV. Se deroga Fracción derogada DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo (antes adicionado por DOF 17-11-1995)
 

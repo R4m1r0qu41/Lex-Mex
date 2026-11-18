@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 25
 
-Independientemente de la situación migratoria de una víctima u ofendido extranjero de los delitos en materia de trata de personas, la instancia competente de atención a víctimas intervendrá para que a estas se les proporcionen los servicios de Asistencia y Protección. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Independientemente de la situación migratoria de una víctima u ofendido extranjero de los delitos en materia de trata de personas, la instancia competente de atención a víctimas intervendrá para que a estas se les proporcionen los servicios de Asistencia y Protección.

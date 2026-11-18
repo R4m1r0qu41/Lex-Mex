@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo VII
@@ -27,9 +27,11 @@ a) Tratándose de la inversión en valores:
 
 Invariablemente los recursos deberán invertirse en:
 
-i. valores que previamente hayan obtenido la inscripción en la sección valores del Registro;
+i. valores que previamente hayan obtenido la inscripción en la sección valores del [Registro](articulo-1.md);
 
-ii. valores listados en el sistema internacional de cotizaciones que establezcan las Bolsas, o iii. valores aprobados por la Comisión para ser objeto de inversión por parte de inversionistas institucionales y calificados a que se refiere la Ley del Mercado de Valores.
+ii. valores listados en el sistema internacional de cotizaciones que establezcan las [Bolsas](articulo-1.md), o
+
+iii. valores aprobados por la [Comisión](articulo-1.md) para ser objeto de inversión por parte de inversionistas institucionales y calificados a que se refiere la Ley del Mercado de Valores.
 
 2. Establecer el procedimiento de regularización del régimen de inversión, cuando haya variaciones en el precio de los valores objeto de inversión o, en su caso, existan entradas o salidas significativas o inusuales de recursos del patrimonio fideicometido (sic), o bien no se cubran o se excedan los referidos porcentajes mínimos o máximos de inversión, a efecto de corregir dicha situación dentro de los 30 días naturales siguientes a que tenga lugar la variación de que se trate. Si transcurrido el plazo no ha sido posible corregir el exceso o defecto de que se trate, el comité técnico lo hará del conocimiento de los empleados.
 

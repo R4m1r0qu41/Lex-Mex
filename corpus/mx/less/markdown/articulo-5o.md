@@ -35,7 +35,9 @@ VII. Asociados, en singular o plural, a las personas que participan, en su caso,
 
 VIII. (Se deroga); Fracción derogada DOF 11-06-2013
 
-IX. Programa, al Programa de Fomento a la Economía Social; X. (Se deroga); Fracción derogada DOF 11-06-2013
+IX. Programa, al Programa de Fomento a la Economía Social;
+
+X. (Se deroga); Fracción derogada DOF 11-06-2013
 
 XI. Actividad Económica, cualquier proceso mediante el cual se obtienen productos, bienes o servicios socialmente necesarios, en cualquiera de sus fases de producción, distribución o consumo, y en cualquier de los sectores primario, secundario o terciario;
 

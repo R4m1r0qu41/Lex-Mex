@@ -19,7 +19,9 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 Además de las señaladas en la Ley Federal de las Entidades Paraestatales, el [Consejo](articulo-4.md) tendrá las atribuciones indelegables siguientes:
 
-I. Aprobar anualmente el proyecto de presupuesto de gastos de administración, operación, inversión y vigilancia del [Instituto](articulo-4.md), una vez autorizados sus montos globales por la [Secretaría de Hacienda](articulo-4.md); II. Aprobar, a propuesta del Director General del Instituto, las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones del Instituto, orientadas a preservar y mantener los recursos de su patrimonio;
+I. Aprobar anualmente el proyecto de presupuesto de gastos de administración, operación, inversión y vigilancia del [Instituto](articulo-4.md), una vez autorizados sus montos globales por la [Secretaría de Hacienda](articulo-4.md);
+
+II. Aprobar, a propuesta del Director General del Instituto, las políticas generales sobre tasas de interés, plazos, garantías y demás características de las operaciones del Instituto, orientadas a preservar y mantener los recursos de su patrimonio;
 
 III. Determinar los mecanismos necesarios para que el Instituto conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del sistema nacional de planeación;
 

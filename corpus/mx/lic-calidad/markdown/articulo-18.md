@@ -17,7 +17,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 18
 
-Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la [Comisión](articulo-4.md) tiene las siguientes atribuciones: I. Dirigir y coordinar el [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md);
+Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la [Comisión](articulo-4.md) tiene las siguientes atribuciones:
+
+I. Dirigir y coordinar el [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md);
 
 II. Revisar, analizar y aprobar anualmente el [Programa](articulo-4.md), su suplemento, y vigilar su cumplimiento;
 

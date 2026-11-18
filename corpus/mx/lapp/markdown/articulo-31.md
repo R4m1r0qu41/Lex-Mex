@@ -35,6 +35,8 @@ IV. La convocatoria al concurso se realizará siempre y cuando se hayan cumplido
 
 Si el concurso no se convoca por causa imputable al promotor, éste perderá en favor de las dependencias o entidades convocantes todos sus derechos sobre los estudios presentados - incluso si el proyecto se concursa- y se hará efectiva la garantía de seriedad en los términos que determine el reglamento;
 
-V. El promotor que presentó la propuesta con base en la cual se realiza el concurso, tendrá un premio en la evaluación de su oferta, que se establecerá en las bases y que no podrá exceder del equivalente a un diez por ciento en relación con los criterios señalados para adjudicar el contrato. El [Reglamento](articulo-12.md) establecerá métodos y procedimientos para calcular este premio; VI. En el evento de que en el concurso sólo participe el promotor, podrá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases del citado concurso, y
+V. El promotor que presentó la propuesta con base en la cual se realiza el concurso, tendrá un premio en la evaluación de su oferta, que se establecerá en las bases y que no podrá exceder del equivalente a un diez por ciento en relación con los criterios señalados para adjudicar el contrato. El [Reglamento](articulo-12.md) establecerá métodos y procedimientos para calcular este premio;
+
+VI. En el evento de que en el concurso sólo participe el promotor, podrá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases del citado concurso, y
 
 VII. En caso de que se declare desierto el concurso y que la dependencia o entidad convocante decida no adquirir los derechos sobre los estudios presentados, se procederá a cancelar el certificado a que se refiere la fracción I del presente artículo y a devolver al promotor los estudios que éste haya presentado.

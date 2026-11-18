@@ -25,7 +25,9 @@ II. Albergado: Persona que en forma temporal recibe asilo, amparo, alojamiento y
 
 III. Albergue: Instalación que se establece para brindar resguardo a las personas que se han visto afectadas en sus viviendas por los efectos de fenómenos perturbadores y en donde permanecen hasta que se da la recuperación o reconstrucción de sus viviendas;
 
-IV. Atlas Nacional de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables; V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
+IV. Atlas Nacional de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables;
+
+V. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
 VI. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la [Unidad Interna de Protección Civil](articulo-2.md) como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el [Programa Interno de Protección Civil](articulo-2.md) del inmueble;
 

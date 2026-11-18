@@ -29,4 +29,6 @@ IV. La cuantía de los créditos por prestaciones periódicas o sucesivas se det
 
 V. El acreedor de renta vitalicia tendrá derecho a que se le reconozca el crédito a su valor de reposición en el mercado o, en su defecto, a su valor presente calculado conforme a las prácticas comúnmente aceptadas;
 
-VI. Las obligaciones que tengan una cuantía indeterminada o incierta, precisarán su valoración en dinero, y VII. Las obligaciones no pecuniarias deberán ser valoradas en dinero; de no ser posible lo anterior, el crédito no podrá reconocerse.
+VI. Las obligaciones que tengan una cuantía indeterminada o incierta, precisarán su valoración en dinero, y
+
+VII. Las obligaciones no pecuniarias deberán ser valoradas en dinero; de no ser posible lo anterior, el crédito no podrá reconocerse.

@@ -7,8 +7,8 @@ provision_type: article
 number: "1o"
 aliases: ["REG-LMIN — Artículo 1o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -31,7 +31,9 @@ IV. Índice de Precios: el Índice Nacional de Precios al Consumidor publicado p
 
 V. INEGI: el Instituto Nacional de Estadística y Geografía;
 
-VI. GPS: el Sistema de Posicionamiento Global; VII. Ley: la Ley Minera;
+VI. GPS: el Sistema de Posicionamiento Global;
+
+VII. Ley: la Ley Minera;
 
 VIII. Liga topográfica: la distancia horizontal y rumbo astronómico entre dos puntos, obtenida mediante equipos que utilizan el sistema de posicionamiento [GPS](articulo-1o.md);
 

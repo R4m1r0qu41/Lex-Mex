@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["REG-LFTAIPG — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTAIPG.pdf
 source_sha256: c159cd7b89e3859783f59f3c545d7d89f5cd13b7ea4fe3fd09b09e413dc6d5bb
 ---
@@ -25,7 +25,9 @@ II. La unidad administrativa que lo otorgue o administre;
 
 III. La población objetivo o beneficiaria, así como el padrón respectivo con el nombre de las personas físicas o la razón o denominación social de las personas morales beneficiarias;
 
-IV. Los criterios de la unidad administrativa para otorgarlos; V. El periodo para el cual se otorgaron;
+IV. Los criterios de la unidad administrativa para otorgarlos;
+
+V. El periodo para el cual se otorgaron;
 
 VI. Los montos, y
 

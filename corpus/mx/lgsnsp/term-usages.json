@@ -109,39 +109,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:706-709",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:707-710",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 706,
-    "end_char": 709
+    "start_char": 707,
+    "end_char": 710
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1109-1133",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1110-1134",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1109,
-    "end_char": 1133
+    "start_char": 1110,
+    "end_char": 1134
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1139-1179",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1140-1180",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
     "span": "Instituciones de Procuración de Justicia",
-    "start_char": 1139,
-    "end_char": 1179
+    "start_char": 1140,
+    "end_char": 1180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1963-1970",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:4:term-usage:1964-1971",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 1963,
-    "end_char": 1970
+    "start_char": 1964,
+    "end_char": 1971
   },
   {
     "schema_version": "0.1.0",
@@ -316,57 +316,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:120-127",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:121-128",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 120,
-    "end_char": 127
+    "start_char": 121,
+    "end_char": 128
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:295-305",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:296-306",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 295,
-    "end_char": 305
+    "start_char": 296,
+    "end_char": 306
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:853-887",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:854-888",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 853,
-    "end_char": 887
+    "start_char": 854,
+    "end_char": 888
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:980-1014",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:981-1015",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 980,
-    "end_char": 1014
+    "start_char": 981,
+    "end_char": 1015
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:1220-1227",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:1221-1228",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 1220,
-    "end_char": 1227
+    "start_char": 1221,
+    "end_char": 1228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:1285-1288",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:9:term-usage:1286-1289",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 1285,
-    "end_char": 1288
+    "start_char": 1286,
+    "end_char": 1289
   },
   {
     "schema_version": "0.1.0",
@@ -451,21 +451,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:10:term-usage:2954-2978",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:10:term-usage:2955-2979",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:10",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2954,
-    "end_char": 2978
+    "start_char": 2955,
+    "end_char": 2979
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:10:term-usage:3222-3225",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:10:term-usage:3223-3226",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:10",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 3222,
-    "end_char": 3225
+    "start_char": 3223,
+    "end_char": 3226
   },
   {
     "schema_version": "0.1.0",
@@ -496,21 +496,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:12:term-usage:390-412",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:12:term-usage:391-413",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 390,
-    "end_char": 412
+    "start_char": 391,
+    "end_char": 413
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:12:term-usage:797-819",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:12:term-usage:798-820",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 797,
-    "end_char": 819
+    "start_char": 798,
+    "end_char": 820
   },
   {
     "schema_version": "0.1.0",
@@ -739,15 +739,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:15:term-usage:280-296",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
-    "span": "Consejo Nacional",
-    "start_char": 280,
-    "end_char": 296
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:3-19",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
@@ -757,66 +748,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:130-140",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:131-141",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 130,
-    "end_char": 140
+    "start_char": 131,
+    "end_char": 141
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:373-393",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:374-394",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
     "span": "Conferencia Nacional",
-    "start_char": 373,
-    "end_char": 393
+    "start_char": 374,
+    "end_char": 394
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:435-457",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:436-458",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 435,
-    "end_char": 457
+    "start_char": 436,
+    "end_char": 458
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:495-511",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:496-512",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 495,
-    "end_char": 511
+    "start_char": 496,
+    "end_char": 512
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:556-566",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:557-567",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 556,
-    "end_char": 566
+    "start_char": 557,
+    "end_char": 567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:630-646",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:631-647",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 630,
-    "end_char": 646
+    "start_char": 631,
+    "end_char": 647
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:1105-1121",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:16:term-usage:1106-1122",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 1105,
-    "end_char": 1121
+    "start_char": 1106,
+    "end_char": 1122
   },
   {
     "schema_version": "0.1.0",
@@ -955,48 +946,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2031-2038",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2032-2039",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 2031,
-    "end_char": 2038
+    "start_char": 2032,
+    "end_char": 2039
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2189-2223",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2190-2224",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 2189,
-    "end_char": 2223
+    "start_char": 2190,
+    "end_char": 2224
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2401-2435",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2402-2436",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 2401,
-    "end_char": 2435
+    "start_char": 2402,
+    "end_char": 2436
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2985-2988",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:2986-2989",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 2985,
-    "end_char": 2988
+    "start_char": 2986,
+    "end_char": 2989
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:3068-3075",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:18:term-usage:3069-3076",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 3068,
-    "end_char": 3075
+    "start_char": 3069,
+    "end_char": 3076
   },
   {
     "schema_version": "0.1.0",
@@ -1006,15 +997,6 @@
     "span": "Secretariado Ejecutivo",
     "start_char": 262,
     "end_char": 284
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:19:term-usage:558-574",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:19",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:gabinete-federal",
-    "span": "Gabinete Federal",
-    "start_char": 558,
-    "end_char": 574
   },
   {
     "schema_version": "0.1.0",
@@ -1087,15 +1069,6 @@
     "span": "Secretaría",
     "start_char": 846,
     "end_char": 856
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:21:term-usage:943-966",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
-    "span": "Conferencias Nacionales",
-    "start_char": 943,
-    "end_char": 966
   },
   {
     "schema_version": "0.1.0",
@@ -1297,24 +1270,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:24:term-usage:294-314",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
-    "span": "Conferencia Nacional",
-    "start_char": 294,
-    "end_char": 314
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:24:term-usage:318-329",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
-    "span": "Secretarías",
-    "start_char": 318,
-    "end_char": 329
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:25:term-usage:3-23",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
@@ -1405,93 +1360,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:501-523",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:502-524",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 501,
-    "end_char": 523
+    "start_char": 502,
+    "end_char": 524
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:592-616",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:593-617",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 592,
-    "end_char": 616
+    "start_char": 593,
+    "end_char": 617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1000-1024",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1001-1025",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1000,
-    "end_char": 1024
+    "start_char": 1001,
+    "end_char": 1025
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1120-1142",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1121-1143",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 1120,
-    "end_char": 1142
+    "start_char": 1121,
+    "end_char": 1143
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1261-1285",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1262-1286",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1261,
-    "end_char": 1285
+    "start_char": 1262,
+    "end_char": 1286
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1398-1418",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:1399-1419",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
     "span": "Conferencia Nacional",
-    "start_char": 1398,
-    "end_char": 1418
+    "start_char": 1399,
+    "end_char": 1419
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:2605-2608",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:2606-2609",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 2605,
-    "end_char": 2608
+    "start_char": 2606,
+    "end_char": 2609
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:2946-2953",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:2947-2954",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 2946,
-    "end_char": 2953
+    "start_char": 2947,
+    "end_char": 2954
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:3323-3351",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:3324-3352",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:centros-de-comando-y-control",
     "span": "Centros de Comando y Control",
-    "start_char": 3323,
-    "end_char": 3351
+    "start_char": 3324,
+    "end_char": 3352
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:3465-3468",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:26:term-usage:3466-3469",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 3465,
-    "end_char": 3468
+    "start_char": 3466,
+    "end_char": 3469
   },
   {
     "schema_version": "0.1.0",
@@ -1510,15 +1465,6 @@
     "span": "Secretarías",
     "start_char": 27,
     "end_char": 38
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:27:term-usage:275-295",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
-    "span": "Conferencia Nacional",
-    "start_char": 275,
-    "end_char": 295
   },
   {
     "schema_version": "0.1.0",
@@ -1675,21 +1621,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:29:term-usage:3339-3342",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:29:term-usage:3340-3343",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 3339,
-    "end_char": 3342
+    "start_char": 3340,
+    "end_char": 3343
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:29:term-usage:4200-4203",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:29:term-usage:4201-4204",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 4200,
-    "end_char": 4203
+    "start_char": 4201,
+    "end_char": 4204
   },
   {
     "schema_version": "0.1.0",
@@ -1699,24 +1645,6 @@
     "span": "Conferencia Nacional",
     "start_char": 3,
     "end_char": 23
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:30:term-usage:265-285",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
-    "span": "Conferencia Nacional",
-    "start_char": 265,
-    "end_char": 285
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:30:term-usage:290-297",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
-    "span": "Sistema",
-    "start_char": 290,
-    "end_char": 297
   },
   {
     "schema_version": "0.1.0",
@@ -1810,21 +1738,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:1605-1612",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:1606-1613",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 1605,
-    "end_char": 1612
+    "start_char": 1606,
+    "end_char": 1613
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:2283-2299",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:32:term-usage:2284-2300",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 2283,
-    "end_char": 2299
+    "start_char": 2284,
+    "end_char": 2300
   },
   {
     "schema_version": "0.1.0",
@@ -1843,15 +1771,6 @@
     "span": "Sistema",
     "start_char": 28,
     "end_char": 35
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:33:term-usage:263-283",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:33",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
-    "span": "Conferencia Nacional",
-    "start_char": 263,
-    "end_char": 283
   },
   {
     "schema_version": "0.1.0",
@@ -1936,12 +1855,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:35:term-usage:1161-1177",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:35:term-usage:1162-1178",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 1161,
-    "end_char": 1177
+    "start_char": 1162,
+    "end_char": 1178
   },
   {
     "schema_version": "0.1.0",
@@ -2071,30 +1990,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:930-964",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:931-965",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 930,
-    "end_char": 964
+    "start_char": 931,
+    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:1100-1122",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:1101-1123",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 1100,
-    "end_char": 1122
+    "start_char": 1101,
+    "end_char": 1123
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:1354-1376",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:39:term-usage:1355-1377",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 1354,
-    "end_char": 1376
+    "start_char": 1355,
+    "end_char": 1377
   },
   {
     "schema_version": "0.1.0",
@@ -2149,24 +2068,6 @@
     "span": "Secretariado Ejecutivo",
     "start_char": 1043,
     "end_char": 1065
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:44:term-usage:1655-1677",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:44",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
-    "span": "Secretariado Ejecutivo",
-    "start_char": 1655,
-    "end_char": 1677
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:44:term-usage:1682-1689",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:44",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
-    "span": "Sistema",
-    "start_char": 1682,
-    "end_char": 1689
   },
   {
     "schema_version": "0.1.0",
@@ -2350,120 +2251,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2568-2575",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2569-2576",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 2568,
-    "end_char": 2575
+    "start_char": 2569,
+    "end_char": 2576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2706-2740",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2707-2741",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 2706,
-    "end_char": 2740
+    "start_char": 2707,
+    "end_char": 2741
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2903-2910",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:2904-2911",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 2903,
-    "end_char": 2910
+    "start_char": 2904,
+    "end_char": 2911
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3128-3131",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3129-3132",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 3128,
-    "end_char": 3131
+    "start_char": 3129,
+    "end_char": 3132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3164-3180",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3165-3181",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 3164,
-    "end_char": 3180
+    "start_char": 3165,
+    "end_char": 3181
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3268-3296",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3269-3297",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:centros-de-comando-y-control",
     "span": "Centros de Comando y Control",
-    "start_char": 3268,
-    "end_char": 3296
+    "start_char": 3269,
+    "end_char": 3297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3564-3567",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3565-3568",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 3564,
-    "end_char": 3567
+    "start_char": 3565,
+    "end_char": 3568
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3613-3629",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:3614-3630",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 3613,
-    "end_char": 3629
+    "start_char": 3614,
+    "end_char": 3630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4307-4341",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4308-4342",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 4307,
-    "end_char": 4341
+    "start_char": 4308,
+    "end_char": 4342
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4614-4648",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4615-4649",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 4614,
-    "end_char": 4648
+    "start_char": 4615,
+    "end_char": 4649
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4920-4927",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:4921-4928",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
     "span": "Sistema",
-    "start_char": 4920,
-    "end_char": 4927
+    "start_char": 4921,
+    "end_char": 4928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5039-5061",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5040-5062",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 5039,
-    "end_char": 5061
+    "start_char": 5040,
+    "end_char": 5062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5368-5390",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:47:term-usage:5369-5391",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 5368,
-    "end_char": 5390
+    "start_char": 5369,
+    "end_char": 5391
   },
   {
     "schema_version": "0.1.0",
@@ -2500,15 +2401,6 @@
     "span": "Secretariado Ejecutivo",
     "start_char": 959,
     "end_char": 981
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:48:term-usage:995-1019",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:48",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
-    "span": "Instituciones Policiales",
-    "start_char": 995,
-    "end_char": 1019
   },
   {
     "schema_version": "0.1.0",
@@ -2728,15 +2620,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:56:term-usage:1184-1224",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:56",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
-    "span": "Instituciones de Procuración de Justicia",
-    "start_char": 1184,
-    "end_char": 1224
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:57:term-usage:4-44",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:57",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
@@ -2800,12 +2683,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:58:term-usage:587-607",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:58:term-usage:588-608",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:58",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:academias-o-institutos",
     "span": "Academia o Instituto",
-    "start_char": 587,
-    "end_char": 607
+    "start_char": 588,
+    "end_char": 608
   },
   {
     "schema_version": "0.1.0",
@@ -2833,15 +2716,6 @@
     "span": "Instituciones de Procuración de Justicia",
     "start_char": 169,
     "end_char": 209
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:59:term-usage:434-468",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:59",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
-    "span": "Instituciones de Seguridad Pública",
-    "start_char": 434,
-    "end_char": 468
   },
   {
     "schema_version": "0.1.0",
@@ -3025,21 +2899,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:65:term-usage:863-897",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:65:term-usage:864-898",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 863,
-    "end_char": 897
+    "start_char": 864,
+    "end_char": 898
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:65:term-usage:1042-1045",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:65:term-usage:1043-1046",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 1042,
-    "end_char": 1045
+    "start_char": 1043,
+    "end_char": 1046
   },
   {
     "schema_version": "0.1.0",
@@ -3166,15 +3040,6 @@
     "span": "Instituciones de Seguridad Pública",
     "start_char": 454,
     "end_char": 488
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:71:term-usage:761-795",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:71",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
-    "span": "Instituciones de Seguridad Pública",
-    "start_char": 761,
-    "end_char": 795
   },
   {
     "schema_version": "0.1.0",
@@ -3382,24 +3247,6 @@
     "span": "Academias o Institutos",
     "start_char": 373,
     "end_char": 395
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:85:term-usage:526-560",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
-    "span": "Instituciones de Seguridad Pública",
-    "start_char": 526,
-    "end_char": 560
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:85:term-usage:625-659",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:85",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
-    "span": "Instituciones de Seguridad Pública",
-    "start_char": 625,
-    "end_char": 659
   },
   {
     "schema_version": "0.1.0",
@@ -3637,15 +3484,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:93:term-usage:627-651",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:93",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
-    "span": "Instituciones Policiales",
-    "start_char": 627,
-    "end_char": 651
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:42-66",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
@@ -3664,111 +3502,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:940-964",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:941-965",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 940,
-    "end_char": 964
+    "start_char": 941,
+    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1096-1120",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1097-1121",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1096,
-    "end_char": 1120
+    "start_char": 1097,
+    "end_char": 1121
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1303-1327",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1304-1328",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1303,
-    "end_char": 1327
+    "start_char": 1304,
+    "end_char": 1328
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1453-1477",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1454-1478",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1453,
-    "end_char": 1477
+    "start_char": 1454,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1706-1730",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:1707-1731",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1706,
-    "end_char": 1730
+    "start_char": 1707,
+    "end_char": 1731
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2059-2083",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2060-2084",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2059,
-    "end_char": 2083
+    "start_char": 2060,
+    "end_char": 2084
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2201-2223",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2202-2224",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 2201,
-    "end_char": 2223
+    "start_char": 2202,
+    "end_char": 2224
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2341-2365",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2342-2366",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2341,
-    "end_char": 2365
+    "start_char": 2342,
+    "end_char": 2366
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2444-2468",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2445-2469",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2444,
-    "end_char": 2468
+    "start_char": 2445,
+    "end_char": 2469
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2761-2785",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2762-2786",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2761,
-    "end_char": 2785
+    "start_char": 2762,
+    "end_char": 2786
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2963-2987",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:2964-2988",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 2963,
-    "end_char": 2987
+    "start_char": 2964,
+    "end_char": 2988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:3255-3279",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:94:term-usage:3256-3280",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 3255,
-    "end_char": 3279
+    "start_char": 3256,
+    "end_char": 3280
   },
   {
     "schema_version": "0.1.0",
@@ -3781,21 +3619,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:95:term-usage:1506-1509",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:95:term-usage:1507-1510",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:95",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 1506,
-    "end_char": 1509
+    "start_char": 1507,
+    "end_char": 1510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:95:term-usage:4244-4268",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:95:term-usage:4245-4269",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:95",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 4244,
-    "end_char": 4268
+    "start_char": 4245,
+    "end_char": 4269
   },
   {
     "schema_version": "0.1.0",
@@ -3805,15 +3643,6 @@
     "span": "Instituciones Policiales",
     "start_char": 71,
     "end_char": 95
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:96:term-usage:308-348",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:96",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
-    "span": "Instituciones de Procuración de Justicia",
-    "start_char": 308,
-    "end_char": 348
   },
   {
     "schema_version": "0.1.0",
@@ -4249,30 +4078,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:808-824",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:809-825",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:105",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 808,
-    "end_char": 824
+    "start_char": 809,
+    "end_char": 825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:976-998",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:977-999",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:105",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 976,
-    "end_char": 998
+    "start_char": 977,
+    "end_char": 999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:1147-1187",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:105:term-usage:1148-1188",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:105",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
     "span": "Instituciones de Procuración de Justicia",
-    "start_char": 1147,
-    "end_char": 1187
+    "start_char": 1148,
+    "end_char": 1188
   },
   {
     "schema_version": "0.1.0",
@@ -5014,15 +4843,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:128:term-usage:845-879",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:128",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
-    "span": "Instituciones de Seguridad Pública",
-    "start_char": 845,
-    "end_char": 879
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:52-86",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
@@ -5077,21 +4897,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:4645-4679",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:4646-4680",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 4645,
-    "end_char": 4679
+    "start_char": 4646,
+    "end_char": 4680
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:5087-5090",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:129:term-usage:5088-5091",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
     "span": "Ley",
-    "start_char": 5087,
-    "end_char": 5090
+    "start_char": 5088,
+    "end_char": 5091
   },
   {
     "schema_version": "0.1.0",
@@ -5194,21 +5014,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:142:term-usage:442-474",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:article:142:term-usage:443-475",
     "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:142",
     "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
     "span": "Institución de Seguridad Pública",
-    "start_char": 442,
-    "end_char": 474
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsnsp:article:143:term-usage:703-710",
-    "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:143",
-    "term_id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
-    "span": "Sistema",
-    "start_char": 703,
-    "end_char": 710
+    "start_char": 443,
+    "end_char": 475
   },
   {
     "schema_version": "0.1.0",

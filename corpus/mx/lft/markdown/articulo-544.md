@@ -19,6 +19,8 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 Queda prohibido a los Inspectores de Trabajo:
 
-I. Tener interés directo o indirecto en las empresas o establecimientos sujetos a su vigilancia; II. Revelar los secretos industriales o comerciales y los procedimientos de fabricación y explotación de que se enteren en el ejercicio de sus funciones; y
+I. Tener interés directo o indirecto en las empresas o establecimientos sujetos a su vigilancia;
+
+II. Revelar los secretos industriales o comerciales y los procedimientos de fabricación y explotación de que se enteren en el ejercicio de sus funciones; y
 
 III. Representar o patrocinar a los trabajadores o a los patrones en los conflictos de trabajo.

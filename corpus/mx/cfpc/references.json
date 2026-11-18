@@ -2363,19 +2363,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cfpc:article:611:reference:1028-1031:585:direct",
+    "id": "urn:lex-mx:federal:code:cfpc:article:611:reference:1029-1032:585:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cfpc:article:611",
     "source_span": "585",
-    "start_char": 1028,
-    "end_char": 1031,
+    "start_char": 1029,
+    "end_char": 1032,
     "target_instrument_id": "urn:lex-mx:federal:code:cfpc",
     "target_provision_id": "urn:lex-mx:federal:code:cfpc:article:585",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 1004,
-        "end_char": 1014
+        "start_char": 1005,
+        "end_char": 1015
       }
     ],
     "basis": "express_cross_reference",
@@ -2480,11 +2480,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cfpc:article:623:reference:472-475:621:direct",
+    "id": "urn:lex-mx:federal:code:cfpc:article:623:reference:473-476:621:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cfpc:article:623",
     "source_span": "621",
-    "start_char": 472,
-    "end_char": 475,
+    "start_char": 473,
+    "end_char": 476,
     "target_instrument_id": "urn:lex-mx:federal:code:cfpc",
     "target_provision_id": "urn:lex-mx:federal:code:cfpc:article:621",
     "qualifiers": [],

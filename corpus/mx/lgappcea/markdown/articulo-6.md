@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LGAPPCEA — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf
 source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 ---
@@ -31,7 +31,9 @@ V. Inviolabilidad de los derechos: Prohibición de pleno derecho para que ningun
 
 VI. Justicia: Equidad, virtud de dar a cada uno lo que le pertenece o corresponde. Dar a las personas con la condición del espectro autista la atención que responda a sus necesidades y a sus legítimos derechos humanos y civiles;
 
-VII. Libertad: Capacidad de las personas con la condición del espectro autista para elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores; VIII. Respeto: Consideración al comportamiento y forma de actuar distinta de las personas con la condición del espectro autista;
+VII. Libertad: Capacidad de las personas con la condición del espectro autista para elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores;
+
+VIII. Respeto: Consideración al comportamiento y forma de actuar distinta de las personas con la condición del espectro autista;
 
 IX. Transparencia: El acceso objetivo, oportuno, sistemático y veraz de la información sobre la magnitud, políticas, programas y resultados de las acciones puestas en marcha por las autoridades participantes en la gestión y resolución del fenómeno autista, y
 

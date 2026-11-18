@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LPEAM — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf
 source_sha256: 91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df
 ---
@@ -33,7 +33,9 @@ III. La Secretaría de Infraestructura, Comunicaciones y Transportes:
 
 a) La Agencia Federal de Aviación Civil, y
 
-b) Los Servicios a la Navegación en el [Espacio Aéreo Mexicano](articulo-5.md). IV. La Secretaría de Seguridad y Protección Ciudadana:
+b) Los Servicios a la Navegación en el [Espacio Aéreo Mexicano](articulo-5.md).
+
+IV. La Secretaría de Seguridad y Protección Ciudadana:
 
 a) La Guardia Nacional, y
 

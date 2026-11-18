@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["REG-LFRT-MCPCTRT — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf
 source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
 ---

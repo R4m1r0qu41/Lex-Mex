@@ -39,4 +39,6 @@ IX. Promover una cultura forestal que fomente el cuidado, preservación y aprove
 
 X. La protección de los derechos de los pueblos y comunidades indígenas y afromexicanas, así como de ejidatarios, comuneros, pequeños propietarios y los legítimos poseedores de recursos forestales; Fracción reformada DOF 01-04-2024
 
-XI. Un enfoque territorial y ecosistémico, que coordine acciones de los diversos agentes involucrados en los territorios forestales, y XII. La integración industrial local y el desarrollo de oportunidades de empleo para poblaciones sin acceso a la tierra en los territorios forestales.
+XI. Un enfoque territorial y ecosistémico, que coordine acciones de los diversos agentes involucrados en los territorios forestales, y
+
+XII. La integración industrial local y el desarrollo de oportunidades de empleo para poblaciones sin acceso a la tierra en los territorios forestales.

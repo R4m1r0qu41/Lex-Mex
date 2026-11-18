@@ -17,7 +17,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 # Artículo 87
 
-Se entienden sometidos: I. La parte demandante, por el hecho de ocurrir a la autoridad jurisdiccional en turno, entablando su demanda;
+Se entienden sometidos:
+
+I. La parte demandante, por el hecho de ocurrir a la autoridad jurisdiccional en turno, entablando su demanda;
 
 II. La parte demandada, por contestar la demanda o por reconvenir a la parte actora;
 

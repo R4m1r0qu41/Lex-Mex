@@ -27,7 +27,9 @@ III. Expedir las disposiciones administrativas necesarias para aplicar eficiente
 
 IV. Presentar a la Junta de Gobierno para su consideración y, en su caso, aprobación, los programas y anteproyectos presupuestales, el anteproyecto de reglamento interior y sus modificaciones, el manual de organización general, los manuales de procedimientos y los de servicio al público;
 
-V. Informar a la Junta de Gobierno, anualmente o cuando ésta se lo solicite, sobre las labores de las unidades administrativas a su cargo y el ejercicio del presupuesto de egresos asignado al Servicio de Administración Tributaria; VI. Fungir como enlace entre el Servicio de Administración Tributaria y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con las materias fiscal, de coordinación fiscal y aduanera;
+V. Informar a la Junta de Gobierno, anualmente o cuando ésta se lo solicite, sobre las labores de las unidades administrativas a su cargo y el ejercicio del presupuesto de egresos asignado al Servicio de Administración Tributaria;
+
+VI. Fungir como enlace entre el Servicio de Administración Tributaria y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con las materias fiscal, de coordinación fiscal y aduanera;
 
 VII. Participar en la negociación de los tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias fiscal y aduanera;
 

@@ -21,6 +21,4 @@ En los casos a que se refieren los dos artículos anteriores, el asegurado tendr
 
 Artículo recorrido (antes artículo [192](articulo-192.md)) DOF 04-04-2013
 
-TITULO V (sic DOF 31-08-1935)
-
-Disposiciones finales
+TITULO V (sic DOF 31-08-1935) Disposiciones finales

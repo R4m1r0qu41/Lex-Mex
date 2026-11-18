@@ -62,7 +62,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "VI",
     "start_char": 1618,
-    "end_char": 1685,
+    "end_char": 1686,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "VII",
-    "start_char": 1685,
-    "end_char": 1973,
+    "start_char": 1686,
+    "end_char": 1974,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "VIII",
-    "start_char": 1973,
-    "end_char": 2182,
+    "start_char": 1974,
+    "end_char": 2183,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "IX",
-    "start_char": 2182,
-    "end_char": 2359,
+    "start_char": 2183,
+    "end_char": 2360,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "X",
-    "start_char": 2359,
-    "end_char": 3322,
+    "start_char": 2360,
+    "end_char": 3323,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XI",
-    "start_char": 3322,
-    "end_char": 3565,
+    "start_char": 3323,
+    "end_char": 3566,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XII",
-    "start_char": 3565,
-    "end_char": 3628,
+    "start_char": 3566,
+    "end_char": 3629,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XIII",
-    "start_char": 3628,
-    "end_char": 4019,
+    "start_char": 3629,
+    "end_char": 4020,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XIV",
-    "start_char": 4019,
-    "end_char": 4480,
+    "start_char": 4020,
+    "end_char": 4481,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XV",
-    "start_char": 4480,
-    "end_char": 4607,
+    "start_char": 4481,
+    "end_char": 4608,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XVI",
-    "start_char": 4607,
-    "end_char": 5199,
+    "start_char": 4608,
+    "end_char": 5201,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XVII",
-    "start_char": 5199,
-    "end_char": 5253,
+    "start_char": 5201,
+    "end_char": 5255,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XVIII",
-    "start_char": 5253,
-    "end_char": 5313,
+    "start_char": 5255,
+    "end_char": 5315,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XIX",
-    "start_char": 5313,
-    "end_char": 5376,
+    "start_char": 5315,
+    "end_char": 5378,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XX",
-    "start_char": 5376,
-    "end_char": 5473,
+    "start_char": 5378,
+    "end_char": 5475,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXI",
-    "start_char": 5473,
-    "end_char": 5757,
+    "start_char": 5475,
+    "end_char": 5759,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXII",
-    "start_char": 5757,
-    "end_char": 5835,
+    "start_char": 5759,
+    "end_char": 5837,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXIII",
-    "start_char": 5835,
-    "end_char": 6261,
+    "start_char": 5837,
+    "end_char": 6263,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXIV",
-    "start_char": 6261,
-    "end_char": 6302,
+    "start_char": 6263,
+    "end_char": 6304,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXV",
-    "start_char": 6302,
-    "end_char": 6473,
+    "start_char": 6304,
+    "end_char": 6475,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXVI",
-    "start_char": 6473,
-    "end_char": 6670,
+    "start_char": 6475,
+    "end_char": 6672,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXVII",
-    "start_char": 6670,
-    "end_char": 6893,
+    "start_char": 6672,
+    "end_char": 6895,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lpte",
     "defining_provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "fraction": "XXVIII",
-    "start_char": 6893,
-    "end_char": 7059,
+    "start_char": 6895,
+    "end_char": 7061,
     "basis": "express_definition"
   }
 ]

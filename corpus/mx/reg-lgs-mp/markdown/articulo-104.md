@@ -17,7 +17,9 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 104
 
-Al Consejo Consultivo corresponderá: I. Apoyar la coordinación de las acciones que se lleven a cabo en materia de publicidad;
+Al Consejo Consultivo corresponderá:
+
+I. Apoyar la coordinación de las acciones que se lleven a cabo en materia de publicidad;
 
 II. Analizar y opinar sobre el uso y contenido de los códigos de ética publicitaria;
 

@@ -23,7 +23,9 @@ I. Resolver sobre las responsabilidades de los servidores públicos establecidos
 
 II. Vigilar el cumplimiento de los acuerdos y demás normas que expida la [Junta](articulo-2.md) de Gobierno y Administración;
 
-III. Comprobar el cumplimiento por parte de los órganos administrativos del [Tribunal](articulo-2.md) de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos; IV. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal;
+III. Comprobar el cumplimiento por parte de los órganos administrativos del [Tribunal](articulo-2.md) de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+IV. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal;
 
 V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal, y
 

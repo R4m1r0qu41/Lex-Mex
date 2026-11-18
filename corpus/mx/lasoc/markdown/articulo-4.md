@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LASOC — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf
 source_sha256: d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228
 ---
@@ -61,7 +61,9 @@ c) En situación de explotación, incluyendo la sexual.
 
 III. Indígenas migrantes, desplazados o en situación vulnerable;
 
-IV. Migrantes; V. Personas adultas mayores:
+IV. Migrantes;
+
+V. Personas adultas mayores:
 
 a) En desamparo, marginación o sujetos a maltrato;
 

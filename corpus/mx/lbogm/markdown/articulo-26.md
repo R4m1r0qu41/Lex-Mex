@@ -33,6 +33,8 @@ VI. Definirán el órgano u órganos que llevarán a cabo las acciones que resul
 
 VII. Determinarán las acciones para promover y participar conjuntamente en el apoyo a la investigación científica y tecnológica en bioseguridad y biotecnología;
 
-VIII. Se establecerá la obligación de presentar informes detallados sobre el cumplimiento del objeto de los convenios y acuerdos de coordinación, y IX. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
+VIII. Se establecerá la obligación de presentar informes detallados sobre el cumplimiento del objeto de los convenios y acuerdos de coordinación, y
+
+IX. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
 
 Los convenios a que se refiere este artículo deberán publicarse en el Diario Oficial de la Federación y en el órgano de difusión oficial del gobierno local respectivo.

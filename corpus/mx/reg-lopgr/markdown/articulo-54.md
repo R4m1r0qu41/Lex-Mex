@@ -29,6 +29,8 @@ IV. Establecer los sistemas de registro, control estadístico y seguimiento de l
 
 V. Contribuir a la coordinación entre los titulares de las Delegaciones con las autoridades de los tres órdenes de gobierno, en sus respectivas circunscripciones territoriales, a fin de generar estrategias y acciones conjuntas en materia de averiguación previa por delitos competencia del Ministerio Público de la Federación;
 
-VI. Establecer mecanismos de coordinación en materia de averiguación previa entre las Delegaciones y unidades centralizadas de la Institución, a fin de auxiliar a estas últimas en el ejercicio de sus funciones, así como supervisar el cumplimiento de los indicadores a efecto de evaluar la eficiencia de las Delegaciones; VII. Contribuir y supervisar, en el ámbito de sus facultades, a la calidad técnico-jurídica en la integración de averiguaciones previas y el ejercicio de la acción penal, a cargo de las Delegaciones, y
+VI. Establecer mecanismos de coordinación en materia de averiguación previa entre las Delegaciones y unidades centralizadas de la Institución, a fin de auxiliar a estas últimas en el ejercicio de sus funciones, así como supervisar el cumplimiento de los indicadores a efecto de evaluar la eficiencia de las Delegaciones;
+
+VII. Contribuir y supervisar, en el ámbito de sus facultades, a la calidad técnico-jurídica en la integración de averiguaciones previas y el ejercicio de la acción penal, a cargo de las Delegaciones, y
 
 VIII. Establecer, en coordinación con la Dirección General de Control de Procesos Penales Federales, criterios generales de actuación de los agentes del Ministerio Público de la Federación investigadores adscritos a las Delegaciones, para mejorar la integración de averiguaciones previas y el ejercicio de la acción penal.

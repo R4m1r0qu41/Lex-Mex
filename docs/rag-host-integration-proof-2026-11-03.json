@@ -1,0 +1,11 @@
+{
+  "candidate": "/private/tmp/lex-host-candidate-2z13gshb/site",
+  "canonical_host_unchanged": true,
+  "test_command": "npm test",
+  "host_tests_passed": 8,
+  "artifacts_verified": 7700,
+  "asset_count": 7818,
+  "sitemap_provisions": 870,
+  "publication_id": "09852a3579aa04ffa758eeb80b696849e5a0a75ee1b0963bc55aff07f1fe7b29",
+  "limits": "Build and existing host tests only; new routes require built-worker runtime verification; no deployment"
+}

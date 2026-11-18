@@ -57,7 +57,9 @@ XV. Parimutuo: Modalidad de apuesta en juegos o participación en sorteos de sí
 
 XV BIS. Participación: Aquélla así denominada en el artículo [5](../../lfjs/markdown/articulo-5o.md) de la Ley, que consiste en un aprovechamiento que el permisionario debe cubrir ante la autoridad federal competente respecto de los productos obtenidos por éste, derivados de los permisos otorgados por la Secretaría para la realización de juegos con apuestas y sorteos; Fracción adicionada DOF 16-11-2023
 
-XVI. Permisionario: Persona física o moral a quien la Secretaría otorga un permiso para llevar a cabo alguna actividad en materia de juegos con apuestas y sorteos permitida por la Ley y el presente Reglamento; XVII. Permiso: Acto administrativo emitido por la Secretaría, que permite a una persona física o moral realizar sorteos o juegos con apuestas, durante un periodo determinado y limitado en sus alcances a los términos y condiciones que determine la Secretaría, conforme a lo dispuesto por la Ley, este Reglamento y demás disposiciones aplicables;
+XVI. Permisionario: Persona física o moral a quien la Secretaría otorga un permiso para llevar a cabo alguna actividad en materia de juegos con apuestas y sorteos permitida por la Ley y el presente Reglamento;
+
+XVII. Permiso: Acto administrativo emitido por la Secretaría, que permite a una persona física o moral realizar sorteos o juegos con apuestas, durante un periodo determinado y limitado en sus alcances a los términos y condiciones que determine la Secretaría, conforme a lo dispuesto por la Ley, este Reglamento y demás disposiciones aplicables;
 
 XVIII. Premio: Retribución en efectivo o en especie que obtiene el ganador de un juego con apuestas o sorteo;
 

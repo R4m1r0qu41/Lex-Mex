@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["LDRS — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -35,4 +35,6 @@ VII. Las empresas nacionales e internacionales generadoras de tecnología agrope
 
 VIII. Las organizaciones y particulares, nacionales e internacionales, dedicados a la investigación agropecuaria, mediante los mecanismos de cooperación que correspondan;
 
-IX. El [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable y los [Consejos Estatales](articulo-3o.md) para el Desarrollo Rural Sustentable; y X. Otros participantes que la [Comisión Intersecretarial](articulo-3o.md) considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
+IX. El [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable y los [Consejos Estatales](articulo-3o.md) para el Desarrollo Rural Sustentable; y
+
+X. Otros participantes que la [Comisión Intersecretarial](articulo-3o.md) considere necesarios, para cumplir con los propósitos del fomento de la producción rural.

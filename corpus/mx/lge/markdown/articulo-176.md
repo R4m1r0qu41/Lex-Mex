@@ -7,8 +7,8 @@ provision_type: article
 number: "176"
 aliases: ["LGE — Artículo 176"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -25,7 +25,9 @@ II. Nombre, denominación o razón social;
 
 III. Los datos de identificación de la resolución que ordenó la clausura;
 
-IV. Identificación de los servidores públicos comisionados para participar en la diligencia, y V. Nombre, cargo y firma del propietario, responsable, encargado u ocupante del establecimiento ante el cual se practique la diligencia, así como de los testigos.
+IV. Identificación de los servidores públicos comisionados para participar en la diligencia, y
+
+V. Nombre, cargo y firma del propietario, responsable, encargado u ocupante del establecimiento ante el cual se practique la diligencia, así como de los testigos.
 
 El acta hará prueba de la existencia de los actos, hechos u omisiones que en ella se consignen y deberá ser firmada en dos ejemplares autógrafos, quedando uno en poder de la persona que atendió la diligencia y, el otro, en poder del servidor público encargado de realizarla.
 

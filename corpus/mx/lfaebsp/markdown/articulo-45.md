@@ -43,7 +43,9 @@ XI.- La existencia, en su caso, de gravámenes, limitaciones de dominio, o cualq
 
 XII.- La fecha, hora y lugar, o en su caso, plazo para la celebración del acto del fallo;
 
-XIII.- Criterios para la evaluación de las ofertas de compra y para la adjudicación; XIV.- La fecha hora y lugar del acto de presentación de propuestas, y Fracción reformada DOF 23-02-2005
+XIII.- Criterios para la evaluación de las ofertas de compra y para la adjudicación;
+
+XIV.- La fecha hora y lugar del acto de presentación de propuestas, y Fracción reformada DOF 23-02-2005
 
 XV.- (Se deroga) Fracción derogada DOF 23-02-2005
 

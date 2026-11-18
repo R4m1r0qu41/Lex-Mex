@@ -1,111 +1,111 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:756-767",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:757-768",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 756,
-    "end_char": 767
+    "start_char": 757,
+    "end_char": 768
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:1042-1053",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:1043-1054",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1042,
-    "end_char": 1053
+    "start_char": 1043,
+    "end_char": 1054
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2050-2060",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2051-2061",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 2050,
-    "end_char": 2060
+    "start_char": 2051,
+    "end_char": 2061
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2206-2218",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2207-2219",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:bioseguridad",
     "span": "Bioseguridad",
-    "start_char": 2206,
-    "end_char": 2218
+    "start_char": 2207,
+    "end_char": 2219
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2224-2232",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:2225-2233",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:registro",
     "span": "Registro",
-    "start_char": 2224,
-    "end_char": 2232
+    "start_char": 2225,
+    "end_char": 2233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:3295-3303",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:2:term-usage:3296-3304",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:cibiogem",
     "span": "CIBIOGEM",
-    "start_char": 3295,
-    "end_char": 3303
+    "start_char": 3296,
+    "end_char": 3304
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:606-616",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:607-617",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 606,
-    "end_char": 616
+    "start_char": 607,
+    "end_char": 617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:7919-7927",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:7920-7928",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:semarnat",
     "span": "SEMARNAT",
-    "start_char": 7919,
-    "end_char": 7927
+    "start_char": 7920,
+    "end_char": 7928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:7935-7942",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:7936-7943",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
-    "start_char": 7935,
-    "end_char": 7942
+    "start_char": 7936,
+    "end_char": 7943
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9421-9431",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9422-9432",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 9421,
-    "end_char": 9431
+    "start_char": 9422,
+    "end_char": 9432
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9519-9529",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9520-9530",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 9519,
-    "end_char": 9529
+    "start_char": 9520,
+    "end_char": 9530
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9646-9656",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:3:term-usage:9647-9657",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 9646,
-    "end_char": 9656
+    "start_char": 9647,
+    "end_char": 9657
   },
   {
     "schema_version": "0.1.0",
@@ -190,21 +190,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:11:term-usage:1596-1603",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:11:term-usage:1597-1604",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:11",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
-    "start_char": 1596,
-    "end_char": 1603
+    "start_char": 1597,
+    "end_char": 1604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:11:term-usage:1612-1615",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:11:term-usage:1613-1616",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:11",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
     "span": "SSA",
-    "start_char": 1612,
-    "end_char": 1615
+    "start_char": 1613,
+    "end_char": 1616
   },
   {
     "schema_version": "0.1.0",
@@ -307,12 +307,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:15:term-usage:1340-1347",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:15:term-usage:1341-1348",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
-    "start_char": 1340,
-    "end_char": 1347
+    "start_char": 1341,
+    "end_char": 1348
   },
   {
     "schema_version": "0.1.0",
@@ -379,48 +379,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:681-692",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:682-693",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:18",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 681,
-    "end_char": 692
+    "start_char": 682,
+    "end_char": 693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:902-910",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:903-911",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:18",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:semarnat",
     "span": "SEMARNAT",
-    "start_char": 902,
-    "end_char": 910
+    "start_char": 903,
+    "end_char": 911
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:917-924",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:918-925",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:18",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
-    "start_char": 917,
-    "end_char": 924
+    "start_char": 918,
+    "end_char": 925
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:934-937",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:935-938",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:18",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
     "span": "SSA",
-    "start_char": 934,
-    "end_char": 937
+    "start_char": 935,
+    "end_char": 938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:1289-1293",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:18:term-usage:1290-1294",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:18",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:shcp",
     "span": "SHCP",
-    "start_char": 1289,
-    "end_char": 1293
+    "start_char": 1290,
+    "end_char": 1294
   },
   {
     "schema_version": "0.1.0",
@@ -577,21 +577,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:19:term-usage:2242-2250",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:19:term-usage:2243-2251",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:19",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:cibiogem",
     "span": "CIBIOGEM",
-    "start_char": 2242,
-    "end_char": 2250
+    "start_char": 2243,
+    "end_char": 2251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:19:term-usage:2466-2474",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:19:term-usage:2467-2475",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:19",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:cibiogem",
     "span": "CIBIOGEM",
-    "start_char": 2466,
-    "end_char": 2474
+    "start_char": 2467,
+    "end_char": 2475
   },
   {
     "schema_version": "0.1.0",
@@ -811,12 +811,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:30:term-usage:1135-1146",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:30:term-usage:1136-1147",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:30",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1135,
-    "end_char": 1146
+    "start_char": 1136,
+    "end_char": 1147
   },
   {
     "schema_version": "0.1.0",
@@ -973,30 +973,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1616-1619",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1617-1620",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:42",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
     "span": "SSA",
-    "start_char": 1616,
-    "end_char": 1619
+    "start_char": 1617,
+    "end_char": 1620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1816-1826",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1817-1827",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:42",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 1816,
-    "end_char": 1826
+    "start_char": 1817,
+    "end_char": 1827
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1948-1951",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:42:term-usage:1949-1952",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:42",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
     "span": "SSA",
-    "start_char": 1948,
-    "end_char": 1951
+    "start_char": 1949,
+    "end_char": 1952
   },
   {
     "schema_version": "0.1.0",
@@ -1495,12 +1495,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:92:term-usage:576-579",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:92:term-usage:577-580",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:92",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:ssa",
     "span": "SSA",
-    "start_char": 576,
-    "end_char": 579
+    "start_char": 577,
+    "end_char": 580
   },
   {
     "schema_version": "0.1.0",
@@ -2089,30 +2089,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:943-954",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:944-955",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:117",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 943,
-    "end_char": 954
+    "start_char": 944,
+    "end_char": 955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:1221-1232",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:1222-1233",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:117",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1221,
-    "end_char": 1232
+    "start_char": 1222,
+    "end_char": 1233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:1371-1382",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:117:term-usage:1372-1383",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:117",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1371,
-    "end_char": 1382
+    "start_char": 1372,
+    "end_char": 1383
   },
   {
     "schema_version": "0.1.0",
@@ -2134,93 +2134,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:1748-1759",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:1749-1760",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1748,
-    "end_char": 1759
+    "start_char": 1749,
+    "end_char": 1760
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:1931-1942",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:1932-1943",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 1931,
-    "end_char": 1942
+    "start_char": 1932,
+    "end_char": 1943
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2203-2214",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2204-2215",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 2203,
-    "end_char": 2214
+    "start_char": 2204,
+    "end_char": 2215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2723-2731",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2724-2732",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:semarnat",
     "span": "SEMARNAT",
-    "start_char": 2723,
-    "end_char": 2731
+    "start_char": 2724,
+    "end_char": 2732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2739-2746",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:2740-2747",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:sagarpa",
     "span": "SAGARPA",
-    "start_char": 2739,
-    "end_char": 2746
+    "start_char": 2740,
+    "end_char": 2747
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3216-3227",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3217-3228",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 3216,
-    "end_char": 3227
+    "start_char": 3217,
+    "end_char": 3228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3383-3394",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3384-3395",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 3383,
-    "end_char": 3394
+    "start_char": 3384,
+    "end_char": 3395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3530-3540",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3531-3541",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretaría",
-    "start_char": 3530,
-    "end_char": 3540
+    "start_char": 3531,
+    "end_char": 3541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3819-3830",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:3820-3831",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 3819,
-    "end_char": 3830
+    "start_char": 3820,
+    "end_char": 3831
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:4793-4804",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:119:term-usage:4795-4806",
     "provision_id": "urn:lex-mx:federal:statute:lbogm:article:119",
     "term_id": "urn:lex-mx:federal:statute:lbogm:term:secretarias",
     "span": "Secretarías",
-    "start_char": 4793,
-    "end_char": 4804
+    "start_char": 4795,
+    "end_char": 4806
   },
   {
     "schema_version": "0.1.0",

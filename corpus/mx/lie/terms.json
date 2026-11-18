@@ -40,7 +40,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
     "fraction": "IV",
     "start_char": 603,
-    "end_char": 667,
+    "end_char": 668,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lie",
     "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
     "fraction": "V",
-    "start_char": 667,
-    "end_char": 744,
+    "start_char": 668,
+    "end_char": 745,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lie",
     "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
     "fraction": "VI",
-    "start_char": 744,
-    "end_char": 1003,
+    "start_char": 745,
+    "end_char": 1004,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lie",
     "defining_provision_id": "urn:lex-mx:federal:statute:lie:article:2",
     "fraction": "VII",
-    "start_char": 1003,
-    "end_char": 1340,
+    "start_char": 1004,
+    "end_char": 1341,
     "basis": "express_definition"
   }
 ]

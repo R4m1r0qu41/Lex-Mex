@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["LGES — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -23,7 +23,9 @@ I. Coordinar el Sistema Local de Educación Superior, de acuerdo con la normativ
 
 II. Vincular la planeación de la educación superior con los objetivos, lineamientos y prioridades del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Programa Sectorial de Educación, del Programa Nacional de Educación Superior y del Programa Estatal de Educación Superior;
 
-III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior de la entidad federativa; IV. Establecer la Comisión Estatal para la Planeación de la Educación Superior o instancia equivalente;
+III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior de la entidad federativa;
+
+IV. Establecer la Comisión Estatal para la Planeación de la Educación Superior o instancia equivalente;
 
 V. Trabajar de manera conjunta con la Secretaría, a través del Consejo Nacional para la Coordinación de la Educación Superior, para la planeación, evaluación y mejora continua de la educación superior;
 

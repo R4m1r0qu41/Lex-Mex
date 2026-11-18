@@ -27,6 +27,8 @@ III. Desarrollar políticas para reducir siniestros de tránsito, así como proy
 
 IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
 
-V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos; VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial, y
+V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
+
+VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial, y
 
 VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.

@@ -21,7 +21,9 @@ Son infracciones en las que pueden incurrir las entidades financieras o sociedad
 
 I. No anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y la clave que corresponda al primer titular de la cuenta.
 
-II. Pagar en efectivo o abonar en cuenta distinta a la del beneficiario un cheque que tenga inserta la expresión para abono en cuenta. III. Procesar incorrectamente las declaraciones de pago de contribuciones que reciban.
+II. Pagar en efectivo o abonar en cuenta distinta a la del beneficiario un cheque que tenga inserta la expresión para abono en cuenta.
+
+III. Procesar incorrectamente las declaraciones de pago de contribuciones que reciban.
 
 IV. No proporcionar o proporcionar en forma parcial la información relativa a depósitos, servicios, fideicomisos o cualquier tipo de operaciones, solicitada directamente a las entidades financieras y sociedades cooperativas de ahorro y préstamo por las autoridades fiscales en el ejercicio de sus facultades de comprobación o a través de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas.
 

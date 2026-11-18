@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LFSP — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf
 source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 ---
@@ -19,7 +19,9 @@ source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 
 El Registro deberá contemplar los apartados siguientes:
 
-I. La identificación de la autorización, revalidación o modificación de la autorización para prestar los servicios, o del trámite administrativo que se haya desechado, sobreseído, negado, revocado, suspendido o cancelado por parte de la [Dirección General](articulo-2.md); II. La identificación de la autorización, revalidación, modificación o cualquier otro acto administrativo similar por el que se permita prestar el servicio de seguridad privada, o en su caso, del trámite desechado, sobreseído, negado, revocado, suspendido o cancelado por las autoridades competentes de las entidades federativas;
+I. La identificación de la autorización, revalidación o modificación de la autorización para prestar los servicios, o del trámite administrativo que se haya desechado, sobreseído, negado, revocado, suspendido o cancelado por parte de la [Dirección General](articulo-2.md);
+
+II. La identificación de la autorización, revalidación, modificación o cualquier otro acto administrativo similar por el que se permita prestar el servicio de seguridad privada, o en su caso, del trámite desechado, sobreseído, negado, revocado, suspendido o cancelado por las autoridades competentes de las entidades federativas;
 
 III. Los datos generales del prestador de servicio;
 

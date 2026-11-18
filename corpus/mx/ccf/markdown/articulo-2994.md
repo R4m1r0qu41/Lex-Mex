@@ -21,7 +21,9 @@ Pagados los acreedores mencionados en los dos capítulos anteriores y con el val
 
 I. Los gastos judiciales comunes, en los términos que establezca el Código de Procedimientos;
 
-II. Los gastos de rigurosa conservación y administración de los bienes concursados; III. Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
+II. Los gastos de rigurosa conservación y administración de los bienes concursados;
+
+III. Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
 
 IV. Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento:
 

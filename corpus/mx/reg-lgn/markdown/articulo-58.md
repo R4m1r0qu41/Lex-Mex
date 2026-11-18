@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 El Enlace Jurídico de la Coordinación Estatal tiene las facultades siguientes:
 
-I. Asesorar en aspectos técnico jurídicos que conlleven a la toma de decisiones en actividades operativas, técnicas y administrativas de la Coordinación Estatal; II. Intervenir en la formulación, suscripción y trámite de los instrumentos legales en que participa el Titular de la Coordinación Estatal en el ejercicio de sus atribuciones
+I. Asesorar en aspectos técnico jurídicos que conlleven a la toma de decisiones en actividades operativas, técnicas y administrativas de la Coordinación Estatal;
+
+II. Intervenir en la formulación, suscripción y trámite de los instrumentos legales en que participa el Titular de la Coordinación Estatal en el ejercicio de sus atribuciones
 
 III. Proporcionar asesoría legal a los integrantes y a sus derechohabientes que se encuentren en el territorio de la Coordinación Estatal, para el trámite de los beneficios de seguridad social;
 

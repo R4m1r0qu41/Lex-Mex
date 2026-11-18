@@ -11,19 +11,19 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [46]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 312
 
-Las Instituciones podrán solicitar a sus clientes o Usuarios solo un Factor de Autenticación Categoría 1, de acuerdo con lo establecido en el Artículo [310](articulo-310.md) de las presentes disposiciones, en los casos siguientes:
+Las Instituciones podrán solicitar a sus clientes o [Usuarios](articulo-1.md) solo un [Factor de Autenticación](articulo-1.md) Categoría 1, de acuerdo con lo establecido en el Artículo [310](articulo-310.md) de las presentes disposiciones, en los casos siguientes:
 
-I. Para la Autenticación de sus Usuarios que pretendan utilizar Banca Telefónica Voz a Voz para realizar transacciones;
+I. Para la [Autenticación](articulo-1.md) de sus Usuarios que pretendan utilizar [Banca Telefónica Voz a Voz](articulo-1.md) para realizar transacciones;
 
-II. Para la contratación de Pago Móvil, y
+II. Para la contratación de [Pago Móvil](articulo-1.md), y
 
-III. Para el Desbloqueo de Factores de Autenticación, así como la reactivación o desactivación temporal del uso del servicio de Banca Electrónica, mediante centros de atención telefónica.
+III. Para el [Desbloqueo de Factores de Autenticación](articulo-1.md), así como la reactivación o desactivación temporal del uso del servicio de [Banca Electrónica](articulo-1.md), mediante centros de atención telefónica.
 
 Sin perjuicio de lo anterior, las Instituciones podrán prever que el procedimiento de Autenticación a través de centros de atención telefónica, se realice mediante enlaces a dispositivos de audio respuesta automática.

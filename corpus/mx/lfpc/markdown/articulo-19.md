@@ -23,7 +23,9 @@ Dicha Secretaría está facultada para expedir normas oficiales mexicanas y norm
 
 I. Productos que deban expresar los elementos, substancias o ingredientes de que estén elaborados o integrados así como sus propiedades, características, fecha de caducidad, contenido neto y peso ó masa drenados, y demás datos relevantes en los envases, empaques, envolturas, etiquetas o publicidad, que incluyan los términos y condiciones de los instructivos y advertencias para su uso ordinario y conservación;
 
-II. La tolerancia admitida en lo referente a peso y contenido de los productos ofrecidos en envases o empaques, así como lo relativo a distribución y manejo de gas L. P.; III. La forma y términos en que deberá incorporarse la información obligatoria correspondiente en los productos a que se refieren las fracciones anteriores;
+II. La tolerancia admitida en lo referente a peso y contenido de los productos ofrecidos en envases o empaques, así como lo relativo a distribución y manejo de gas L. P.;
+
+III. La forma y términos en que deberá incorporarse la información obligatoria correspondiente en los productos a que se refieren las fracciones anteriores;
 
 IV. Los requisitos de información a que se someterán las garantías de los productos y servicios, salvo que estén sujetos a la inspección o vigilancia de otra dependencia de la administración pública federal, en cuyo caso ésta ejercerá la presente atribución;
 

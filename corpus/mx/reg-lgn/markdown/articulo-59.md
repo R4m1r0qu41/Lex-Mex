@@ -31,7 +31,9 @@ V. Proponer las acciones necesarias para poner en ejecución el Plan de Contrain
 
 VI. Someter a la aprobación del Titular de la Coordinación Estatal, las solicitudes de vacaciones del personal de dicha Coordinación y supervisar su ejecución, atendiendo al rol previamente autorizado;
 
-VII. Proponer las medidas que juzgue convenientes para el correcto funcionamiento de la Coordinación Estatal; VIII. Organizar, coordinar y emplear los servicios técnicos que la integran, relacionados con necesidades de comunicaciones, medios de transporte y control del armamento de la Coordinación Estatal;
+VII. Proponer las medidas que juzgue convenientes para el correcto funcionamiento de la Coordinación Estatal;
+
+VIII. Organizar, coordinar y emplear los servicios técnicos que la integran, relacionados con necesidades de comunicaciones, medios de transporte y control del armamento de la Coordinación Estatal;
 
 IX. Organizar, coordinar y emplear los servicios especializados que la integran, en las áreas de análisis criminológico, investigación, plataformas de investigación criminal, seguridad de la información y análisis político, económico, social en la Coordinación Estatal;
 
@@ -57,7 +59,9 @@ XIX. Organizar, coordinar y dirigir el grupo de control vehicular y mantenimient
 
 XX. Organizar, emplear y operar los vehículos con que cuente la Coordinación Estatal;
 
-XXI. Apoyar a los integrantes y sus derechohabientes, en la realización de gestiones administrativas ante organismos públicos y empresas privadas que les proporcionen servicios de salud por disposición legal o por contrato; XXII. Apoyar a los integrantes de la institución y sus derechohabientes, en la realización de gestiones administrativas ante organismos públicos y empresas privadas que les proporcionen servicios de salud por disposición legal o por contrato;
+XXI. Apoyar a los integrantes y sus derechohabientes, en la realización de gestiones administrativas ante organismos públicos y empresas privadas que les proporcionen servicios de salud por disposición legal o por contrato;
+
+XXII. Apoyar a los integrantes de la institución y sus derechohabientes, en la realización de gestiones administrativas ante organismos públicos y empresas privadas que les proporcionen servicios de salud por disposición legal o por contrato;
 
 XXIII. Organizar, coordinar y dirigir al grupo responsable del control del armamento, municiones, explosivos, químicos, equipo menos letal y de protección de la Coordinación Estatal, y
 

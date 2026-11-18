@@ -51,7 +51,9 @@ X. Farmacopea Homeopática de los Estados Unidos Mexicanos, al documento institu
 
 X Bis. Información técnica, a los ensayos, análisis, estudios preclínicos y clínicos necesarios, en su caso, para demostrar la calidad, seguridad y eficacia requeridos por la Secretaría para la obtención del registro sanitario; Fracción adicionada DOF 19-10-2011
 
-XI. Insumos, a los Insumos para la salud a que se refiere el artículo 194 bis de la Ley; XII. Ley, a la Ley General de Salud; XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
+XI. Insumos, a los Insumos para la salud a que se refiere el artículo 194 bis de la Ley; XII. Ley, a la Ley General de Salud;
+
+XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
 
 XIII Bis 1. Medicamento biotecnológico biocomparable, al medicamento biotecnológico no innovador que demuestre ser biocomparable en términos de seguridad, calidad y eficacia al medicamento biotecnológico de referencia a través de las pruebas que establezca la Ley, este Reglamento y demás disposiciones aplicables; Fracción adicionada DOF 19-10-2011
 

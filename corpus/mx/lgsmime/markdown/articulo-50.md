@@ -7,8 +7,8 @@ provision_type: article
 number: "50"
 aliases: ["LGSMIME — Artículo 50"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf
 source_sha256: fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9
 ---
@@ -47,7 +47,9 @@ II. Las determinaciones sobre el otorgamiento de las Constancias de Mayoría y V
 
 III. Los resultados consignados en las actas de cómputo de entidad federativa, por error aritmético.
 
-e) En la elección de senadores por el principio de representación proporcional, los resultados consignados en las actas de cómputo de entidad federativa respectivas: I. Por nulidad de la votación recibida en una o varias casillas; o
+e) En la elección de senadores por el principio de representación proporcional, los resultados consignados en las actas de cómputo de entidad federativa respectivas:
+
+I. Por nulidad de la votación recibida en una o varias casillas; o
 
 II. Por error aritmético.
 

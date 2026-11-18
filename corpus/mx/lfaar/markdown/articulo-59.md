@@ -19,7 +19,9 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 La vigilancia interna del [Organismo Integrador](articulo-2o.md) estará a cargo de un Comisario, cuyas responsabilidades y obligaciones deberán determinarse en sus Estatutos.
 
-El Comisario realizará las siguientes funciones: I. Verificar que el Organismo Integrador cumpla con la regulación aplicable;
+El Comisario realizará las siguientes funciones:
+
+I. Verificar que el Organismo Integrador cumpla con la regulación aplicable;
 
 II. Recibir los informes del Consejo de Administración y los dictámenes de los auditores externos para su conocimiento y análisis;
 

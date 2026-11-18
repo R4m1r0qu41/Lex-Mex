@@ -15,4 +15,4 @@ source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 
 # SEGUNDO
 
-Se abroga el [Reglamento](articulo-3.md) de la Ley General de Población publicado en el Diario Oficial de la Federación el 31 de agosto de 1992, así como la Circular número INM/001/98 en la que se detallan las reglas a las que se sujetará el permiso de internación para visitantes miembros de organizaciones no gubernamentales interesados en conocer in situ la vigencia de los derechos humanos en México, publicada en dicho órgano informativo el 14 de octubre de 1998.
+Se abroga el [Reglamento](articulo-3.md) de la [Ley](articulo-3.md) General de Población publicado en el Diario Oficial de la Federación el 31 de agosto de 1992, así como la Circular número INM/001/98 en la que se detallan las reglas a las que se sujetará el permiso de internación para visitantes miembros de organizaciones no gubernamentales interesados en conocer in situ la vigencia de los derechos humanos en México, publicada en dicho órgano informativo el 14 de octubre de 1998.

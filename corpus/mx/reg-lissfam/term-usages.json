@@ -1,57 +1,57 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1182-1202",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1183-1203",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
     "span": "Secretaría de origen",
-    "start_char": 1182,
-    "end_char": 1202
+    "start_char": 1183,
+    "end_char": 1203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1450-1470",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1451-1471",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
     "span": "Secretaría de origen",
-    "start_char": 1450,
-    "end_char": 1470
+    "start_char": 1451,
+    "end_char": 1471
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1622-1632",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1623-1633",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
     "span": "Afiliación",
-    "start_char": 1622,
-    "end_char": 1632
+    "start_char": 1623,
+    "end_char": 1633
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1681-1701",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1682-1702",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
     "span": "Secretaría de origen",
-    "start_char": 1681,
-    "end_char": 1701
+    "start_char": 1682,
+    "end_char": 1702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1843-1853",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1844-1854",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
     "span": "Afiliación",
-    "start_char": 1843,
-    "end_char": 1853
+    "start_char": 1844,
+    "end_char": 1854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:2273-2293",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:2274-2294",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
     "span": "Secretaría de origen",
-    "start_char": 2273,
-    "end_char": 2293
+    "start_char": 2274,
+    "end_char": 2294
   },
   {
     "schema_version": "0.1.0",

@@ -7,8 +7,8 @@ provision_type: article
 number: "68"
 aliases: ["LFAFE — Artículo 68"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf
 source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 ---

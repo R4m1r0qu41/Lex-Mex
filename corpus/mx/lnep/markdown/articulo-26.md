@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Autoridades para la supervisión de libertad La autoridad para la supervisión de libertad condicionada, deberá ser distinta a la Autoridad Penitenciaria o instituciones policiales, dependerá orgánicamente del Poder Ejecutivo Federal y de las entidades federativas, y tendrá las siguientes atribuciones:
 
-I. Dar seguimiento a la ejecución de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución fuera de los Centros con motivo de la obtención de libertad condicionada; II. Realizar los informes relativos al cumplimiento de las condiciones impuestas por el Juez de Ejecución en los términos del artículo [129](articulo-129.md) de la presente Ley;
+I. Dar seguimiento a la ejecución de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución fuera de los Centros con motivo de la obtención de libertad condicionada;
+
+II. Realizar los informes relativos al cumplimiento de las condiciones impuestas por el Juez de Ejecución en los términos del artículo [129](articulo-129.md) de la presente Ley;
 
 III. Coordinar y ejecutar la aplicación del seguimiento de los programas para las personas que gozan de la medida de libertad condicionada en términos de lo que disponga la sentencia;
 

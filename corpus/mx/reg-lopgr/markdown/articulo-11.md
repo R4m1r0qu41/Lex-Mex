@@ -25,7 +25,9 @@ II. Nombrar a los Coordinadores, Titulares de Unidad, Directores Generales, Titu
 
 III. Llevar a cabo, en casos excepcionales, la designación especial de agentes del Ministerio Público de la Federación, agentes de la [Policía](articulo-2.md) y peritos, en términos de los artículos 37 y 38 de la Ley Orgánica y demás disposiciones aplicables;
 
-IV. Someter a consideración del Ejecutivo Federal el proyecto de Reglamento del [Servicio de Carrera](articulo-2.md) y demás normas reglamentarias; V. Fijar las condiciones generales de trabajo de la Procuraduría, en el marco de lo establecido en la ley aplicable;
+IV. Someter a consideración del Ejecutivo Federal el proyecto de Reglamento del [Servicio de Carrera](articulo-2.md) y demás normas reglamentarias;
+
+V. Fijar las condiciones generales de trabajo de la Procuraduría, en el marco de lo establecido en la ley aplicable;
 
 VI. Determinar mediante Acuerdo, en los casos no previstos en este Reglamento, la distribución de facultades de las unidades administrativas y los órganos desconcentrados;
 

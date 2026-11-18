@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["LGAMVLV — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -33,7 +33,9 @@ VI. Asegurar la difusión y promoción de los derechos de las mujeres indígenas
 
 VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
 
-VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres; IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios, con la finalidad de erradicar la violencia contra las mujeres; Fracción reformada DOF 20-01-2009, 11-01-2021
+VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
+
+IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios, con la finalidad de erradicar la violencia contra las mujeres; Fracción reformada DOF 20-01-2009, 11-01-2021
 
 X. Realizar, a través de la Secretaría de las Mujeres y con el apoyo de las instancias locales, campañas de información y de cambio cultural, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten; Fracción reformada DOF 15-01-2026
 

@@ -25,4 +25,6 @@ source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 
 I. Los Medios de Comunicación a utilizar;
 
-II. Los recursos a erogar, y III. Los requisitos adicionales que establezcan las autoridades correspondientes de conformidad con las disposiciones que para tal efecto emitan en el marco de sus respectivas competencias.] Párrafo derogado DOF 27-12-2022 Derogación declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Párrafo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023
+II. Los recursos a erogar, y
+
+III. Los requisitos adicionales que establezcan las autoridades correspondientes de conformidad con las disposiciones que para tal efecto emitan en el marco de sus respectivas competencias.] Párrafo derogado DOF 27-12-2022 Derogación declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023 Párrafo que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023

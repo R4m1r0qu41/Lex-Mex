@@ -19,7 +19,9 @@ source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 
 Las medidas precautorias previstas en el [artículo anterior](articulo-610.md) podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no se cause una afectación ruinosa al demandado.
 
-Para el otorgamiento de dichas medidas se requerirá: I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
+Para el otorgamiento de dichas medidas se requerirá:
+
+I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
 
 II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
 

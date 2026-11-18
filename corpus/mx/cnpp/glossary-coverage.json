@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
-      "provision_text_sha256": "11ef1e67f5262da42b96ef515feba978fd75c5b1c534d228f7ee92b2a4c70e31",
+      "provision_text_sha256": "eb877cc0a801599bd374d01aaf96e93edc718218b0a4d18542fb3ab6a86852f5",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -29,10 +30,10 @@
         "XVII"
       ],
       "unread_fractions": [],
-      "term_count": 16
+      "term_count": 17
     }
   ],
   "imports": [],
-  "term_count": 16,
-  "usage_count": 1272
+  "term_count": 17,
+  "usage_count": 1306
 }

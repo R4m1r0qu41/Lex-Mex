@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 115
 
@@ -25,6 +27,4 @@ III. La aeronave tenga el faro giratorio prendido;
 
 IV. La maniobra no constituya un riesgo para las personas o bienes que se encuentren en el área, y
 
-V. Se respeten los procedimientos establecidos para el aeródromo.
-
-En ningún caso se deben encender los motores de una aeronave dentro de un hangar o durante el suministro de combustible o el embarque de pasajeros, salvo los casos previstos en las normas básicas de seguridad.
+V. Se respeten los procedimientos establecidos para el aeródromo. En ningún caso se deben encender los motores de una aeronave dentro de un hangar o durante el suministro de combustible o el embarque de pasajeros, salvo los casos previstos en las normas básicas de seguridad.

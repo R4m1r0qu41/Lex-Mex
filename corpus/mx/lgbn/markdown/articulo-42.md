@@ -49,7 +49,9 @@ XIII.- Los acuerdos que destinen al servicio público o al uso común los terren
 
 XIV.- Los acuerdos administrativos que destinen inmuebles federales;
 
-XV.- Los acuerdos administrativos por los que los inmuebles federales se fusionen o subdividan; XVI.- La constitución del régimen de propiedad en condominio en los inmuebles federales;
+XV.- Los acuerdos administrativos por los que los inmuebles federales se fusionen o subdividan;
+
+XVI.- La constitución del régimen de propiedad en condominio en los inmuebles federales;
 
 XVII.- Los acuerdos administrativos que desincorporen inmuebles del régimen de dominio público de la Federación y autoricen su enajenación;
 

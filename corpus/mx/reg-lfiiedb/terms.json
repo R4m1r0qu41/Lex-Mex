@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "VI",
     "start_char": 1212,
-    "end_char": 2217,
+    "end_char": 2218,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "VIII",
-    "start_char": 2217,
-    "end_char": 2611,
+    "start_char": 2218,
+    "end_char": 2612,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "IX",
-    "start_char": 2611,
-    "end_char": 3363,
+    "start_char": 2612,
+    "end_char": 3364,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "XI",
-    "start_char": 3363,
-    "end_char": 3651,
+    "start_char": 3364,
+    "end_char": 3652,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "XII",
-    "start_char": 3651,
-    "end_char": 3885,
+    "start_char": 3652,
+    "end_char": 3886,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "XIII",
-    "start_char": 3885,
-    "end_char": 4213,
+    "start_char": 3886,
+    "end_char": 4214,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "XIV",
-    "start_char": 4213,
-    "end_char": 4653,
+    "start_char": 4214,
+    "end_char": 4654,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "fraction": "XV",
-    "start_char": 4653,
-    "end_char": 5452,
+    "start_char": 4654,
+    "end_char": 5453,
     "basis": "express_definition"
   }
 ]

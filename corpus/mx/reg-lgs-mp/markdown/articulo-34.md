@@ -29,7 +29,9 @@ IV. Atribuya al producto propiedades nutritivas, sedantes, estimulantes o desinh
 
 V. Asocie el consumo con actividades creativas, educativas, deportivas, del hogar o del trabajo;
 
-VI. Asocie el consumo con celebraciones cívicas o religiosas; VII. Haga exaltación del prestigio social, virilidad o femineidad del público a quien va dirigido;
+VI. Asocie el consumo con celebraciones cívicas o religiosas;
+
+VII. Haga exaltación del prestigio social, virilidad o femineidad del público a quien va dirigido;
 
 VIII. Presente al producto como elemento que permita o facilite la ejecución de cualquier actividad creativa;
 

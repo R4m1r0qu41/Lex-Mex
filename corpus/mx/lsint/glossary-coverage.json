@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-      "provision_text_sha256": "e25b41f650c576aaaea1da1598e93cfc8cb76ce6fcabe899cbed0bdf1da74f82",
+      "provision_text_sha256": "d0cb7b5384677f324156846466e6e7eb16cbeff685e0003a99b43c9cc67986f2",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -22,10 +23,10 @@
         "X"
       ],
       "unread_fractions": [],
-      "term_count": 9
+      "term_count": 10
     }
   ],
   "imports": [],
-  "term_count": 9,
-  "usage_count": 96
+  "term_count": 10,
+  "usage_count": 95
 }

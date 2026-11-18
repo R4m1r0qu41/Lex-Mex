@@ -7,8 +7,8 @@ provision_type: article
 number: "61"
 aliases: ["LGAAS — Artículo 61"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -39,7 +39,9 @@ IX. Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
 X. Secretaría de Bienestar;
 
-XI. Secretaría de Gobernación; XII. Secretaría de Hacienda y Crédito Público;
+XI. Secretaría de Gobernación;
+
+XII. Secretaría de Hacienda y Crédito Público;
 
 XIII. Secretaría de Relaciones Exteriores;
 

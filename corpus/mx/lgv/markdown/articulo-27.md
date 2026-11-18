@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["LGV — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,9 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 27
 
-Para los efectos de la presente Ley, la reparación integral comprenderá: I. La restitución busca devolver a la víctima a la situación anterior a la comisión del delito o a la violación de sus derechos humanos;
+Para los efectos de la presente [Ley](articulo-6.md), la reparación integral comprenderá:
+
+I. La restitución busca devolver a la víctima a la situación anterior a la comisión del delito o a la violación de sus derechos humanos;
 
 II. La rehabilitación busca facilitar a la víctima hacer frente a los efectos sufridos por causa del hecho punible o de las violaciones de derechos humanos;
 

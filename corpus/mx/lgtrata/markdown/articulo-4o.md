@@ -43,7 +43,7 @@ XI. El Fondo: El Fondo de Protección y Asistencia a las Víctimas de los Delito
 
 XII. Abuso de poder: Aprovechamiento que realiza el sujeto activo para la comisión del delito derivado de una relación o vínculo familiar, sentimental, de confianza, de custodia, laboral, formativo, educativo, de cuidado, religioso o de cualquier otro que implique dependencia o subordinación de la víctima respecto al victimario, incluyendo a quien tenga un cargo público o se ostente de él, o pertenecer a la delincuencia organizada.
 
-XIII. Daño grave o amenaza de daño grave: Cualquier daño físico, psicológico, financiero, sexual o a la reputación, o la sola amenaza para la víctima, capaz de hacerle creer que no tiene más LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS opción que someterse o seguir sometida a la conducta de explotación, y que el sujeto activo, conociéndola, la utilice para obtener el sometimiento de la víctima.
+XIII. Daño grave o amenaza de daño grave: Cualquier daño físico, psicológico, financiero, sexual o a la reputación, o la sola amenaza para la víctima, capaz de hacerle creer que no tiene más opción que someterse o seguir sometida a la conducta de explotación, y que el sujeto activo, conociéndola, la utilice para obtener el sometimiento de la víctima.
 
 XIV. Asistencia y protección a las víctimas: Conjunto de medidas de apoyo y protección de carácter integral que se brindan a las víctimas desde el momento de su identificación o rescate y hasta su reincorporación plena a la sociedad, que cumplen la función de orientarlas legalmente, otorgar apoyo médico, psicológico, económico temporal, así como protección para ella y su familia.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LPO — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf
 source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 ---
@@ -25,6 +25,8 @@ II. Integridad orgánica: Cualidad de un producto orgánico obtenido de acuerdo 
 
 III. Ley: La Ley de Productos Orgánicos;
 
-IV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la Secretaría; V. Operación orgánica: Actividad o conjunto de actividades relativas a la producción, elaboración, procesamiento, empacado, re-empacado, transportación, distribución, comercialización, etiquetado, re-etiquetado, exportación e importación de productos orgánicos, y
+IV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la Secretaría;
+
+V. Operación orgánica: Actividad o conjunto de actividades relativas a la producción, elaboración, procesamiento, empacado, re-empacado, transportación, distribución, comercialización, etiquetado, re-etiquetado, exportación e importación de productos orgánicos, y
 
 VI. Producto Orgánico: Aquel que se obtiene conforme a los sistemas de producción y procesamiento establecidos en la Ley y las disposiciones que de ella deriven.

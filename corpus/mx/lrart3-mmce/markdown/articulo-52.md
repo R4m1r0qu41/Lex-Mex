@@ -7,8 +7,8 @@ provision_type: article
 number: "52"
 aliases: ["LRART3-MMCE — Artículo 52"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf
 source_sha256: 6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014
 ---
@@ -25,7 +25,9 @@ II. Para ser consideradas por la Junta para formar parte del Consejo Ciudadano, 
 
 III. En la integración del Consejo Ciudadano, la Junta, contemplará a docentes de los diversos tipos y modalidades de la educación;
 
-IV. La Junta elegirá por la mayoría de sus integrantes presentes, a las personas que constituirán el Consejo Ciudadano, buscando siempre que su conformación sea plural, representativa y procurando la paridad de género; V. El encargo de los integrantes del Consejo Ciudadano será de doce años de manera escalonada;
+IV. La Junta elegirá por la mayoría de sus integrantes presentes, a las personas que constituirán el Consejo Ciudadano, buscando siempre que su conformación sea plural, representativa y procurando la paridad de género;
+
+V. El encargo de los integrantes del Consejo Ciudadano será de doce años de manera escalonada;
 
 VI. En caso de ausencia de alguno de sus integrantes, la Junta emitirá la convocatoria respectiva para la elección de la persona que integre al Consejo Ciudadano en los términos del presente artículo, y
 

@@ -19,7 +19,9 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero, así como para facilitar el adecuado cumplimiento de sus funciones, la [Secretaría](articulo-5o.md), las Comisiones Nacionales Bancaria y de Valores, de Seguros y Fianzas y del Sistema de Ahorro para el Retiro y el Banco de México deberán, a petición de parte interesada, y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
 
-I. En ejercicio de sus facultades; II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+I. En ejercicio de sus facultades;
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
 
 III. Directamente de otras autoridades.
 

@@ -8,17 +8,18 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfmped:article:2",
-      "provision_text_sha256": "c3c412941ebc5995a42d38956981829f8d1ee17ec41bc5e339997e4e67eac1bb",
+      "provision_text_sha256": "104e40f83dde78be7f7e51dc8edd4d5981e21d4c2487085ae2a7f9c07dbe40ba",
       "method": "established_pass",
       "fractions": [
         "I",
-        "II"
+        "II",
+        "III"
       ],
       "unread_fractions": [],
-      "term_count": 2
+      "term_count": 3
     }
   ],
   "imports": [],
-  "term_count": 2,
-  "usage_count": 93
+  "term_count": 3,
+  "usage_count": 102
 }

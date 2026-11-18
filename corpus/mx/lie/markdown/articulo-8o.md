@@ -7,8 +7,8 @@ provision_type: article
 number: "8o"
 aliases: ["LIE — Artículo 8o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf
 source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 ---
@@ -21,7 +21,9 @@ Se requiere resolución favorable de la [Comisión](articulo-2o.md) para que la 
 
 I.- Servicios portuarios a las embarcaciones para realizar sus operaciones de navegación interior, tales como el remolque, amarre de cabos y lanchaje;
 
-II.- Sociedades navieras dedicadas a la explotación de embarcaciones exclusivamente en tráfico de altura; III.- Sociedades concesionarias o permisionarias de aeródromos de servicio al público; Fracción reformada DOF 24-12-1996
+II.- Sociedades navieras dedicadas a la explotación de embarcaciones exclusivamente en tráfico de altura;
+
+III.- Sociedades concesionarias o permisionarias de aeródromos de servicio al público; Fracción reformada DOF 24-12-1996
 
 IV.- Servicios privados de educación preescolar, primaria, secundaria, media superior, superior y combinados;
 

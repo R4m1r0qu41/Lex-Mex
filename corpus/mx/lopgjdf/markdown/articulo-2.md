@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LOPGJDF — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -41,7 +41,9 @@ X. Requerir informes, documentos y opiniones de las dependencias y entidades de 
 
 XI. Realizar las actividades que, en materia de seguridad pública, le confiere la Ley de Seguridad Pública del Distrito Federal y la normativa en la materia;
 
-XII. Participar en el Consejo Local o las Instancias Regionales, del Sistema Nacional de Seguridad Pública, en los términos de la normativa vigente en la materia; XIII. Participar en el Sistema Nacional de Seguridad Pública, realizando las actividades, integrando los órganos e instancias de coordinación, así como todas las demás acciones que señale la normativa vigente en la materia;
+XII. Participar en el Consejo Local o las Instancias Regionales, del Sistema Nacional de Seguridad Pública, en los términos de la normativa vigente en la materia;
+
+XIII. Participar en el Sistema Nacional de Seguridad Pública, realizando las actividades, integrando los órganos e instancias de coordinación, así como todas las demás acciones que señale la normativa vigente en la materia;
 
 XIV. Recibir y compartir la información sobre Seguridad Pública que obre en sus bases de datos con las del Centro Nacional de Información, en los términos de las disposiciones legales y normativas aplicables;
 

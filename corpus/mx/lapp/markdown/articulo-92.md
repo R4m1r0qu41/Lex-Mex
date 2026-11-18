@@ -33,7 +33,9 @@ VI. La relación de los inmuebles, bienes y derechos afectos al proyecto y su de
 
 VII. El régimen financiero del proyecto, con las contraprestaciones a favor del desarrollador;
 
-VIII. La mención de que los inmuebles, bienes y derechos del proyecto sólo podrán ser afectados en términos del artículo [93](articulo-93.md) siguiente; IX. Los términos y condiciones conforme a los cuales el desarrollador deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control de la propia sociedad desarrolladora a los acreedores de ésta, previa autorización de la dependencia o entidad contratante; Fracción reformada DOF 21-04-2016
+VIII. La mención de que los inmuebles, bienes y derechos del proyecto sólo podrán ser afectados en términos del artículo [93](articulo-93.md) siguiente;
+
+IX. Los términos y condiciones conforme a los cuales el desarrollador deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control de la propia sociedad desarrolladora a los acreedores de ésta, previa autorización de la dependencia o entidad contratante; Fracción reformada DOF 21-04-2016
 
 X. El régimen de distribución de riesgos, técnicos, de ejecución de la obra, financieros, por caso fortuito o fuerza mayor y de cualquier otra naturaleza, entre las partes, que en todo caso deberá ser equilibrado. Las dependencias y entidades no podrán garantizar a los desarrolladores ningún pago por concepto de riesgos distintos de los establecidos en el contrato o bien establecidos por mecanismos diferentes de los señalados por esta ley y su reglamento;
 

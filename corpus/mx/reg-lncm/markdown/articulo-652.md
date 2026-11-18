@@ -31,7 +31,9 @@ IV. Se procurará montar a su máxima capacidad dicha unidad, mas nunca rebasarl
 
 B. En vuelo en paracaídas:
 
-I. Se realizará en Embarcaciones con plataforma integrada; II. La prestación del servicio desde zonas de playa, se realizará únicamente en aquellos lugares que estén libres de obstáculos físicos o naturales, y que no representen un riesgo para la seguridad de la vida humana en el mar, ni se perjudique a los bañistas;
+I. Se realizará en Embarcaciones con plataforma integrada;
+
+II. La prestación del servicio desde zonas de playa, se realizará únicamente en aquellos lugares que estén libres de obstáculos físicos o naturales, y que no representen un riesgo para la seguridad de la vida humana en el mar, ni se perjudique a los bañistas;
 
 III. Cuando se realice el servicio para vuelo con más de una persona, el peso total no podrá exceder de ciento sesenta kilogramos, siempre que éste sea acorde con las características de diseño del fabricante del paracaídas y del arnés;
 

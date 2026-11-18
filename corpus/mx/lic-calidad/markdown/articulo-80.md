@@ -23,7 +23,9 @@ I. Elaboración de la propuesta de Estándar por los Organismos Nacionales de Es
 
 II. Presentación de la propuesta de Estándar al comité técnico de estandarización correspondiente para su análisis, revisión y deliberación, en cuyo momento, se considerará como un anteproyecto de Estándar;
 
-III. En caso de que el comité técnico de estandarización correspondiente lo considere conveniente, constitución del grupo de trabajo para el análisis y revisión del anteproyecto de Estándar; IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
+III. En caso de que el comité técnico de estandarización correspondiente lo considere conveniente, constitución del grupo de trabajo para el análisis y revisión del anteproyecto de Estándar;
+
+IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
 
 V. En caso de que el resultado de la deliberación del comité técnico de estandarización sea afirmativo, quien haya elaborado la propuesta de Estándar lo enviará a la [Secretaría](articulo-4.md) para la publicación de un extracto del proyecto en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), para su consulta pública.
 

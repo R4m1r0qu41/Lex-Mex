@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo IV
@@ -23,8 +23,6 @@ Las personas que hayan ocupado el cargo de Ministra o Ministro de la Suprema Cor
 
 Durante dicho plazo, las personas que se hayan desempeñado como Ministras o Ministros de la Suprema Corte de Justicia de la Nación, Magistradas o Magistrados del Tribunal de Disciplina Judicial, Magistrados Electorales, Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito, no podrán ocupar los cargos señalados en la fracción VI del artículo [95](articulo-95.md) de esta Constitución. Párrafo reformado DOF 15-09-2024
 
-Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
-
-La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
 Artículo reformado DOF 10-08-1987, 31-12-1994

@@ -23,7 +23,9 @@ I. El 20% de los recursos se destinará para:
 
 a) Apoyar actividades de investigación para identificar áreas con potencial de hidrocarburos que, en el ámbito de sus atribuciones, lleve a cabo la Comisión Nacional de Hidrocarburos, y
 
-b) Apoyar la realización de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocadas en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos. Fracción reformada DOF 06-11-2020 II. El 15% para actividades de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, relacionadas con: Párrafo reformado DOF 06-11-2020
+b) Apoyar la realización de proyectos de investigación científica, desarrollo tecnológico e innovación, enfocadas en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos. Fracción reformada DOF 06-11-2020
+
+II. El 15% para actividades de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, relacionadas con: Párrafo reformado DOF 06-11-2020
 
 a) La investigación y desarrollo tecnológico aplicados, tanto a la exploración, extracción y refinación de hidrocarburos, como a la producción de petroquímicos, y
 

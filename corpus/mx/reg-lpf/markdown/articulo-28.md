@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["REG-LPF — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -35,7 +35,9 @@ VII. Analizar y evaluar procedimientos para el flujo de información y resultado
 
 VIII. Vincularse con autoridades de seguridad pública, de investigación y académicas, a nivel nacional e internacional, para acceder a la información y tecnologías en desarrollo que puedan incorporarse a los procesos de innovación tecnológica de la Institución;
 
-IX. Coordinar, conforme a las disposiciones aplicables, la elaboración de mecanismos para efectuar tareas de investigación científica orientadas a las áreas de la Institución; X. Promover la cooperación con los grupos de investigación científica nacionales o extranjeros para la adopción de tecnologías existentes o su desarrollo específico;
+IX. Coordinar, conforme a las disposiciones aplicables, la elaboración de mecanismos para efectuar tareas de investigación científica orientadas a las áreas de la Institución;
+
+X. Promover la cooperación con los grupos de investigación científica nacionales o extranjeros para la adopción de tecnologías existentes o su desarrollo específico;
 
 XI. Coordinar, conforme a las disposiciones aplicables, el funcionamiento de los laboratorios de investigación científica para el desarrollo de metodologías y herramientas útiles para las diversas áreas de la Institución;
 

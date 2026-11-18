@@ -19,7 +19,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 El juez deberá decretar de plano la retención de bienes, cuando el que lo pide cumpla con los siguientes requisitos:
 
-I. Pruebe la existencia de un crédito líquido y exigible a su favor; II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
+I. Pruebe la existencia de un crédito líquido y exigible a su favor;
+
+II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
 
 III. Manifieste, bajo protesta de decir verdad, las razones por las cuales tenga temor fundado de que los bienes consignados como garantía o respecto de los cuales se vaya a ejercitar la acción real serán ocultados, dilapidados, dispuestos o enajenados. En caso de que dichos bienes sean insuficientes para garantizar el adeudo, deberá acreditarlo con el avalúo o las constancias respectivas;
 

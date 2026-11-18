@@ -25,7 +25,9 @@ a) Omita comunicar a la [Capitanía de Puerto](articulo-10.md) las maniobras por
 
 b) Se presente hasta una hora después de la señalada para prestar el servicio de pilotaje, sin causa justificada, y
 
-c) Omita presentar su informe por escrito, en los casos de incidente o accidente marítimo durante el servicio de pilotaje; II. Con multa de cincuenta a mil días de salario al tripulante que:
+c) Omita presentar su informe por escrito, en los casos de incidente o accidente marítimo durante el servicio de pilotaje;
+
+II. Con multa de cincuenta a mil días de salario al tripulante que:
 
 a) Se encuentre a bordo de una Embarcación y no cuente con el documento que lo identifique como [Personal de la Marina Mercante](articulo-10.md) Mexicana, y
 

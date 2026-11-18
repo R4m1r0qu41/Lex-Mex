@@ -31,7 +31,9 @@ III. Conservarán el comprobante fiscal digital por Internet de retenciones e in
 
 IV. Expedirán el comprobante fiscal digital por Internet a los adquirentes de bienes o servicios.
 
-V. Presentarán un aviso de opción ante el Servicio de Administración Tributaria, conforme a las reglas de carácter general que para tal efecto emita dicho órgano, dentro de los treinta días siguientes a aquél en el que el contribuyente perciba el primer cobro por las actividades celebradas por conducto de las personas a que se refiere el artículo [18-J](articulo-18-J.md) de esta Ley. VI. Quedarán relevados de presentar declaraciones informativas.
+V. Presentarán un aviso de opción ante el Servicio de Administración Tributaria, conforme a las reglas de carácter general que para tal efecto emita dicho órgano, dentro de los treinta días siguientes a aquél en el que el contribuyente perciba el primer cobro por las actividades celebradas por conducto de las personas a que se refiere el artículo [18-J](articulo-18-J.md) de esta Ley.
+
+VI. Quedarán relevados de presentar declaraciones informativas.
 
 Una vez ejercida la opción a que se refiere este artículo, ésta no podrá variarse durante el período de cinco años contados a partir de la fecha en que el contribuyente haya presentado el aviso a que se refiere la fracción IV del párrafo anterior. Cuando el contribuyente deje de estar en los supuestos a que se refiere el artículo [18-L](articulo-18-L.md) de esta Ley, cesará el ejercicio de la opción prevista en el presente artículo y no podrá volver a ejercerla.
 

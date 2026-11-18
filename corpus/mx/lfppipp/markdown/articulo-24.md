@@ -7,8 +7,8 @@ provision_type: article
 number: "24"
 aliases: ["LFPPIPP — Artículo 24"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf
 source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 ---
@@ -29,6 +29,8 @@ III. Que la persona a proteger no esté motivado por interés distinto que el de
 
 IV. Que las [Medidas de Protección](articulo-2.md) sean las idóneas para garantizar la seguridad de la persona.
 
-V. Las obligaciones legales que tenga la persona con terceros. VI. Los antecedentes penales que tuviere.
+V. Las obligaciones legales que tenga la persona con terceros.
+
+VI. Los antecedentes penales que tuviere.
 
 VII. Que la admisión de la persona, no sea un factor que afecte la seguridad del Programa, del [Centro](articulo-2.md) o de la [Fiscalía General](articulo-2.md). Fracción reformada DOF 20-05-2021

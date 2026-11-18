@@ -402,12 +402,6 @@
         "text": "incisos f",
         "start_char": 325,
         "end_char": 334
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 369,
-        "end_char": 384
       }
     ],
     "basis": "express_cross_reference",
@@ -674,11 +668,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfsv:article:7-a:reference:2825-2826:7:direct",
+    "id": "urn:lex-mx:federal:statute:lfsv:article:7-a:reference:2826-2827:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfsv:article:7-a",
     "source_span": "7",
-    "start_char": 2825,
-    "end_char": 2826,
+    "start_char": 2826,
+    "end_char": 2827,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfsv",
     "target_provision_id": "urn:lex-mx:federal:statute:lfsv:article:7",
     "qualifiers": [],
@@ -690,11 +684,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfsv:article:7-a:reference:2829-2832:7-a:direct",
+    "id": "urn:lex-mx:federal:statute:lfsv:article:7-a:reference:2830-2833:7-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfsv:article:7-a",
     "source_span": "7-A",
-    "start_char": 2829,
-    "end_char": 2832,
+    "start_char": 2830,
+    "end_char": 2833,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfsv",
     "target_provision_id": "urn:lex-mx:federal:statute:lfsv:article:7-a",
     "qualifiers": [],

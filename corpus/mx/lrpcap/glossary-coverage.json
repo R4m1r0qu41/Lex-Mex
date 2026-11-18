@@ -8,12 +8,13 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-      "provision_text_sha256": "fe4424cda5b14ffe9642aeb596a2bb6bca57aa207db8a304d00f9e95c0f0ba83",
+      "provision_text_sha256": "014428a86d57bba1ae50352d2079722558dc81b676d4a771774812fa218ae971",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
         "III",
+        "IV",
         "V",
         "VI",
         "VII",
@@ -28,10 +29,10 @@
         "XVI"
       ],
       "unread_fractions": [],
-      "term_count": 15
+      "term_count": 16
     }
   ],
   "imports": [],
-  "term_count": 15,
-  "usage_count": 87
+  "term_count": 16,
+  "usage_count": 133
 }

@@ -17,7 +17,9 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 # Artículo 324
 
-Las solicitudes de autorización para organizarse y operar como proveedor de precios deberán acompañarse de lo siguiente: I. Proyecto de estatutos de una sociedad anónima.
+Las solicitudes de autorización para organizarse y operar como proveedor de precios deberán acompañarse de lo siguiente:
+
+I. Proyecto de estatutos de una sociedad anónima.
 
 II. Relación e información de los socios, así como los probables consejeros, director general y principales directivos.
 

@@ -19,7 +19,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 Los ejecutivos Federal, de las entidades federativas establecerán, en el ámbito de sus respectivas competencias, un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley. Párrafo reformado DOF 19-01-2018
 
-Los Fondos se constituirán en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. Recursos previstos para dicho fin en los presupuestos de egresos de la Federación y de las entidades federativas; Fracción reformada DOF 19-01-2018
+Los Fondos se constituirán en los términos y porcentajes que establezca el Reglamento respectivo y se integrarán de la siguiente manera:
+
+I. Recursos previstos para dicho fin en los presupuestos de egresos de la Federación y de las entidades federativas; Fracción reformada DOF 19-01-2018
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales que correspondan a los delitos materia de la presente Ley;
 

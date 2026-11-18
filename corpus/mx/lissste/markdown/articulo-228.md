@@ -29,7 +29,9 @@ IV. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de la
 
 V. El importe de las indemnizaciones, pensiones caídas e intereses que prescriban en favor del Instituto;
 
-VI. El producto de las sanciones pecuniarias derivadas de la aplicación de esta Ley; VII. Las donaciones, herencias y legados a favor del Instituto;
+VI. El producto de las sanciones pecuniarias derivadas de la aplicación de esta Ley;
+
+VII. Las donaciones, herencias y legados a favor del Instituto;
 
 VIII. Los bienes muebles e inmuebles que las [Dependencias](articulo-6.md) o [Entidades](articulo-6.md) destinen y entreguen para los servicios y prestaciones que establece la presente Ley, así como aquéllos que adquiera el Instituto y que puedan ser destinados a los mismos fines, y
 

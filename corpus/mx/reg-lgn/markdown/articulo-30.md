@@ -43,6 +43,8 @@ XI. Desarrollar, instrumentar y mantener los sistemas de información de las uni
 
 XII. Dictaminar los estudios de viabilidad que presenten las unidades de la Institución para la adquisición de bienes y servicios informáticos y de telecomunicaciones;
 
-XIII. Participar en los procedimientos de contratación de bienes y servicios informáticos y de telecomunicaciones de la Institución; XIV. Solicitar a la unidad correspondiente la elaboración de los requerimientos técnicos para la adquisición de bienes y servicios informáticos, equipos tecnológicos y servicios de transmisión de voz, datos e imágenes de la Institución, y
+XIII. Participar en los procedimientos de contratación de bienes y servicios informáticos y de telecomunicaciones de la Institución;
+
+XIV. Solicitar a la unidad correspondiente la elaboración de los requerimientos técnicos para la adquisición de bienes y servicios informáticos, equipos tecnológicos y servicios de transmisión de voz, datos e imágenes de la Institución, y
 
 XV. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.

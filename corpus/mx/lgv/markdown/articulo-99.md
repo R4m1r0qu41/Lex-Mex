@@ -7,8 +7,8 @@ provision_type: article
 number: "99"
 aliases: ["LGV — Artículo 99"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 99
 
-Para que las autoridades competentes de la Federación, las entidades federativas u otras que se faculten por la presente Ley, procedan a la inscripción de datos de la víctima en el [Registro](articulo-6.md) se deberá, como mínimo, tener la siguiente información:
+Para que las autoridades competentes de la Federación, las entidades federativas u otras que se faculten por la presente [Ley](articulo-6.md), procedan a la inscripción de datos de la víctima en el [Registro](articulo-6.md) se deberá, como mínimo, tener la siguiente información:
 
 I. Los datos de identificación de cada una de las víctimas que solicitan su ingreso o en cuyo nombre se solicita el ingreso. En caso que la víctima por cuestiones de seguridad solicite que sus datos personales no sean públicos, se deberá asegurar la confidencialidad de sus datos. En caso de que se cuente con ella, se deberá mostrar una identificación oficial;
 

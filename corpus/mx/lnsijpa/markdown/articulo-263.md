@@ -31,7 +31,9 @@ V. Alentar a las personas adolescentes a comprender y respetar opiniones y punto
 
 VI. Suministrar información y orientación en lo que se refiere a la formación profesional, las oportunidades de empleo y las perspectivas laborales;
 
-VII. Proporcionarles tratamiento psicológico; Fracción reformada DOF 20-12-2022 VIII. Reconocer, atender, erradicar y prevenir los distintos tipos de violencia, con el objeto de lograr una convivencia libre de violencia en el entorno escolar;
+VII. Proporcionarles tratamiento psicológico; Fracción reformada DOF 20-12-2022
+
+VIII. Reconocer, atender, erradicar y prevenir los distintos tipos de violencia, con el objeto de lograr una convivencia libre de violencia en el entorno escolar;
 
 IX. Erradicar las medidas disciplinarias severas, en particular los castigos corporales, y
 

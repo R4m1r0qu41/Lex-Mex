@@ -1,12 +1,12 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsc:article:3:term-usage:1800-1810",
+    "id": "urn:lex-mx:federal:statute:ldsc:article:3:term-usage:1801-1811",
     "provision_id": "urn:lex-mx:federal:statute:ldsc:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1800,
-    "end_char": 1810
+    "start_char": 1801,
+    "end_char": 1811
   },
   {
     "schema_version": "0.1.0",
@@ -37,21 +37,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsc:article:6:term-usage:2967-2977",
+    "id": "urn:lex-mx:federal:statute:ldsc:article:6:term-usage:2968-2978",
     "provision_id": "urn:lex-mx:federal:statute:ldsc:article:6",
     "term_id": "urn:lex-mx:federal:statute:ldsc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2967,
-    "end_char": 2977
+    "start_char": 2968,
+    "end_char": 2978
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsc:article:6:term-usage:4078-4090",
+    "id": "urn:lex-mx:federal:statute:ldsc:article:6:term-usage:4079-4091",
     "provision_id": "urn:lex-mx:federal:statute:ldsc:article:6",
     "term_id": "urn:lex-mx:federal:statute:ldsc:term:organizacion",
     "span": "Organización",
-    "start_char": 4078,
-    "end_char": 4090
+    "start_char": 4079,
+    "end_char": 4091
   },
   {
     "schema_version": "0.1.0",
@@ -127,12 +127,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsc:article:9:term-usage:978-988",
+    "id": "urn:lex-mx:federal:statute:ldsc:article:9:term-usage:979-989",
     "provision_id": "urn:lex-mx:federal:statute:ldsc:article:9",
     "term_id": "urn:lex-mx:federal:statute:ldsc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 978,
-    "end_char": 988
+    "start_char": 979,
+    "end_char": 989
   },
   {
     "schema_version": "0.1.0",

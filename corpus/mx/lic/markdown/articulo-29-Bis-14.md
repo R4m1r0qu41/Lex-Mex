@@ -25,7 +25,9 @@ En caso de que la institución de que se trate pertenezca a un grupo financiero,
 
 II. Suspender los programas de recompra de acciones representativas del capital social de la institución de banca múltiple de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
 
-III. Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo [73](articulo-73.md) de esta Ley; IV. Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple pague el crédito de última instancia otorgado por el Banco de México;
+III. Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo [73](articulo-73.md) de esta Ley;
+
+IV. Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple pague el crédito de última instancia otorgado por el Banco de México;
 
 V. Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
 

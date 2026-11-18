@@ -7,8 +7,8 @@ provision_type: article
 number: "5o"
 aliases: ["LIE — Artículo 5o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf
 source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 ---
@@ -25,7 +25,9 @@ II. (Se deroga.) Fracción derogada DOF 11-08-2014
 
 III. Planeación y control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, en términos de lo dispuesto por los artículos [27](../../cpeum/markdown/articulo-27.md), párrafo sexto y [28](../../cpeum/markdown/articulo-28.md), párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva; Fracción reformada DOF 11-08-2014
 
-IV.- Generación de energía nuclear; V.- Minerales radioactivos;
+IV.- Generación de energía nuclear;
+
+V.- Minerales radioactivos;
 
 VI.- (Se deroga). Fracción derogada DOF 07-06-1995
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["REG-LPF — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -33,7 +33,9 @@ VI. Diseñar las políticas para el uso y seguridad de la información que se re
 
 VII. Coordinar la elaboración, análisis y evaluación del Programa de Desarrollo Estratégico de la Institución en las Coordinaciones Estatales; analizar y evaluar sus resultados, así como interpretarlos para mantenerlos actualizados;
 
-VIII. Planear y programar las operaciones y la prestación de servicios de las Coordinaciones Estatales, estableciendo y adecuando los mecanismos que permitan su óptimo desarrollo; asimismo, elaborar planes de contingencia para casos específicos de seguridad pública, que orienten y apoyen al Comisionado General en la toma de decisiones; IX. Ordenar los cambios de adscripción de los [Integrantes](articulo-2.md) en las Coordinaciones Estatales, así como su asignación en las unidades e instalaciones en el territorio nacional que, por naturaleza propia de sus funciones y las necesidades del servicio, se requieran;
+VIII. Planear y programar las operaciones y la prestación de servicios de las Coordinaciones Estatales, estableciendo y adecuando los mecanismos que permitan su óptimo desarrollo; asimismo, elaborar planes de contingencia para casos específicos de seguridad pública, que orienten y apoyen al Comisionado General en la toma de decisiones;
+
+IX. Ordenar los cambios de adscripción de los [Integrantes](articulo-2.md) en las Coordinaciones Estatales, así como su asignación en las unidades e instalaciones en el territorio nacional que, por naturaleza propia de sus funciones y las necesidades del servicio, se requieran;
 
 X. Realizar en forma permanente la supervisión del despliegue operativo y funcional de los Integrantes de la Institución en las Coordinaciones Estatales;
 

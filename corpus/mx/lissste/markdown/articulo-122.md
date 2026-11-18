@@ -19,7 +19,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 El Trabajador contratará el [Seguro de Pensión](articulo-6.md) con la [Aseguradora](articulo-6.md) que elija, para gozar del beneficio de Pensión definitiva. El [Instituto](articulo-6.md) calculará el monto necesario, conforme a las reglas que para tal efecto expida la Comisión Nacional de Seguros y Fianzas, para la contratación del Seguro de Pensión y, el propio Instituto entregará dicha suma a la Aseguradora elegida por el Trabajador.
 
-La [Renta](articulo-6.md) otorgada al [Pensionado](articulo-6.md) por invalidez deberá cubrir: I. La Pensión, y
+La [Renta](articulo-6.md) otorgada al [Pensionado](articulo-6.md) por invalidez deberá cubrir:
+
+I. La Pensión, y
 
 II. Las [Cuotas](articulo-6.md) y [Aportaciones](articulo-6.md) a la [Cuenta Individual](articulo-6.md) del seguro de retiro, cesantía en edad avanzada y vejez en los términos de la presente Ley.
 

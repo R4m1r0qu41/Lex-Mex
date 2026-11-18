@@ -19,7 +19,9 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 Corresponde a la [SHCP](articulo-3.md) el ejercicio de las siguientes facultades, respecto de la importación de OGMs y de productos que los contengan:
 
-I. Revisar en las aduanas de entrada del territorio nacional, que los OGMs que se importen y destinen a su liberación al ambiente o a las finalidades establecidas en el artículo [91](articulo-91.md) de esta Ley, cuenten con el permiso y/o la autorización respectiva, según sea el caso en los términos de este ordenamiento; II. Revisar que la documentación que acompañe a los OGMs que se importen al país, contenga los requisitos de identificación establecidos en las normas oficiales mexicanas que deriven de esta Ley;
+I. Revisar en las aduanas de entrada del territorio nacional, que los OGMs que se importen y destinen a su liberación al ambiente o a las finalidades establecidas en el artículo [91](articulo-91.md) de esta Ley, cuenten con el permiso y/o la autorización respectiva, según sea el caso en los términos de este ordenamiento;
+
+II. Revisar que la documentación que acompañe a los OGMs que se importen al país, contenga los requisitos de identificación establecidos en las normas oficiales mexicanas que deriven de esta Ley;
 
 III. Participar, de manera conjunta con las [Secretarías](articulo-3.md), en la expedición de normas oficiales mexicanas relativas al almacenamiento o depósito de OGMs o de productos que los contengan en los recintos aduaneros del territorio nacional;
 

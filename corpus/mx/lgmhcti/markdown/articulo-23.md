@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LGMHCTI — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -29,7 +29,9 @@ IV. Promover la participación de los sectores social y privado, así como de la
 
 V. Definir lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública local para fomentar, realizar o apoyar actividades en la materia;
 
-VI. Elaborar y aprobar, en su caso, el proyecto local de presupuesto en la materia, así como evaluar la eficacia y eficiencia del gasto local correspondiente, sin perjuicio de lo establecido en las disposiciones locales y federales aplicables; VII. Promover y apoyar en la entidad federativa correspondiente las actividades en materia de humanidades, ciencias, tecnologías e innovación, incluyendo el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales;
+VI. Elaborar y aprobar, en su caso, el proyecto local de presupuesto en la materia, así como evaluar la eficacia y eficiencia del gasto local correspondiente, sin perjuicio de lo establecido en las disposiciones locales y federales aplicables;
+
+VII. Promover y apoyar en la entidad federativa correspondiente las actividades en materia de humanidades, ciencias, tecnologías e innovación, incluyendo el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales;
 
 VIII. Determinar los criterios para reconocer a las entidades paraestatales de la administración pública local como centros públicos locales de investigación humanística y científica, desarrollo tecnológico e innovación, así como coordinarlos y garantizar su adecuada articulación;
 

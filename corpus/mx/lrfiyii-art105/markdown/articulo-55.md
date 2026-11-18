@@ -17,6 +17,8 @@ source_sha256: b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb
 
 # Artículo 55
 
-El recurso de queja es procedente: I. Contra la parte demandada o cualquier otra autoridad, por violación, exceso o defecto en la ejecución del auto o resolución por el que se haya concedido la suspensión, y
+El recurso de queja es procedente:
+
+I. Contra la parte demandada o cualquier otra autoridad, por violación, exceso o defecto en la ejecución del auto o resolución por el que se haya concedido la suspensión, y
 
 II. Contra la parte condenada, por exceso o defecto en la ejecución de una sentencia.

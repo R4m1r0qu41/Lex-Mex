@@ -7,8 +7,8 @@ provision_type: article
 number: "79"
 aliases: ["REG-LOPGJDF — Artículo 79"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -27,7 +27,9 @@ III. Proporcionar orientación jurídica a los miembros de la comunidad para el 
 
 IV. Establecer mecanismos de coordinación y concertación con los sectores público, social y privado, en relación con las acciones de la Procuraduría en beneficio de la comunidad;
 
-V. Promover e impulsar acciones institucionales a efecto de facilitar a la comunidad el acceso a los servicios de la Procuraduría; VI. Coordinar, supervisar y evaluar el Sistema de Servicio Social, con el apoyo de las unidades administrativas de la Procuraduría;
+V. Promover e impulsar acciones institucionales a efecto de facilitar a la comunidad el acceso a los servicios de la Procuraduría;
+
+VI. Coordinar, supervisar y evaluar el Sistema de Servicio Social, con el apoyo de las unidades administrativas de la Procuraduría;
 
 VII. Brindar información general sobre las atribuciones y servicios de la Procuraduría, así como recoger las opiniones de la población en torno a la procuración de justicia;
 

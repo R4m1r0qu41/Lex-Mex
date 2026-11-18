@@ -10,16 +10,16 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
+
+> **Nota del revisor (JRH):** Artículo vigente a partir del proceso electoral 2028. Fundamento: «Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.»
 
 > Título Quinto
 
 # Artículo 122
 
-La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa.
-
-A. El gobierno de la Ciudad de México está a cargo de sus poderes locales, en los términos establecidos en la Constitución Política de la Ciudad de México, la cual se ajustará a lo dispuesto en la presente Constitución y a las bases siguientes:
+La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa. A. El gobierno de la Ciudad de México está a cargo de sus poderes locales, en los términos establecidos en la Constitución Política de la Ciudad de México, la cual se ajustará a lo dispuesto en la presente Constitución y a las bases siguientes:
 
 I. La Ciudad de México adoptará para su régimen interior la forma de gobierno republicano, representativo, democrático y laico. El poder público de la Ciudad de México se dividirá para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
 
@@ -33,9 +33,7 @@ En la Constitución Política de la Ciudad de México se establecerá que las pe
 
 La Constitución Política de la entidad establecerá las normas para garantizar el acceso de todos los grupos parlamentarios a los órganos de gobierno del Congreso local y, a los de mayor representación, a la Presidencia de los mismos.
 
-Corresponde a la Legislatura aprobar las adiciones o reformas a la Constitución Política de la Ciudad de México y ejercer las facultades que la misma establezca. Para que las adiciones o reformas lleguen a ser parte de la misma se requiere sean aprobadas por las dos terceras partes de los diputados presentes.
-
-Asimismo, corresponde a la Legislatura de la Ciudad de México revisar la cuenta pública del año anterior, por conducto de su entidad de fiscalización, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad.
+Corresponde a la Legislatura aprobar las adiciones o reformas a la Constitución Política de la Ciudad de México y ejercer las facultades que la misma establezca. Para que las adiciones o reformas lleguen a ser parte de la misma se requiere sean aprobadas por las dos terceras partes de los diputados presentes. Asimismo, corresponde a la Legislatura de la Ciudad de México revisar la cuenta pública del año anterior, por conducto de su entidad de fiscalización, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
 La cuenta pública del año anterior deberá ser enviada a la Legislatura a más tardar el 30 de abril del año siguiente. Este plazo solamente podrá ser ampliado cuando se formule una solicitud del Jefe de Gobierno de la Ciudad de México suficientemente justificada a juicio de la Legislatura.
 
@@ -45,7 +43,9 @@ El titular de la entidad de fiscalización de la Ciudad de México será electo 
 
 III. La persona titular del Poder Ejecutivo se denominará Jefa o Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electa por votación universal, libre, secreta y directa, no podrá durar en su encargo más de seis años y su mandato podrá ser revocado. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho. Tampoco podrá participar en la elección de este cargo, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo. Párrafo reformado DOF 20-12-2019, 01-04-2025
 
-La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
+La Constitución Política de la Ciudad de México establecerá las facultades del Jefe o Jefa de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo. En todo caso se requerirá ser ciudadana o ciudadano mexicano por nacimiento y no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley. Párrafo reformado DOF 07-10-2026
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de la Constitución Política de la Ciudad de México. Párrafo adicionado DOF 07-10-2026
 
 La Constitución Política de la Ciudad de México establecerá las normas relativas al proceso para la revocación de mandato del Jefe de Gobierno. Párrafo adicionado DOF 20-12-2019
 
@@ -75,13 +75,13 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 Las leyes federales no limitarán la facultad de la Ciudad de México para establecer las contribuciones sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles y las derivadas de la prestación de servicios públicos a su cargo, ni concederán exenciones en relación con las mismas. Las leyes de la Ciudad de México no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes del dominio público de la Federación, de las entidades federativas o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para propósitos distintos a los de su objeto público.
 
-Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. VI. La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
+Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+VI. La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
 
 El gobierno de las demarcaciones territoriales de la Ciudad de México estará a cargo de las Alcaldías. Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, la Legislatura aprobará el presupuesto de las Alcaldías, las cuales lo ejercerán de manera autónoma en los supuestos y términos que establezca la Constitución Política local.
 
-La integración, organización administrativa y facultades de las Alcaldías se establecerán en la Constitución Política y leyes locales, las que se sujetarán a los principios siguientes:
-
-a) Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
+La integración, organización administrativa y facultades de las Alcaldías se establecerán en la Constitución Política y leyes locales, las que se sujetarán a los principios siguientes: a) Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
 
 b) La Constitución Política de la Ciudad de México deberá establecer la prohibición de la reelección consecutiva para el mismo cargo de personas Alcaldes y Concejales. Las personas funcionarias antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio. Inciso reformado DOF 01-04-2025
 
@@ -95,9 +95,7 @@ Al aprobar el proyecto de presupuesto de egresos, los Concejos de las Alcaldías
 
 d) La Constitución Política de la Ciudad de México establecerá las bases para que la ley correspondiente prevea los criterios o fórmulas para la asignación del presupuesto de las demarcaciones territoriales, el cual se compondrá, al menos, de los montos que conforme a la ley les correspondan por concepto de participaciones federales, impuestos locales que recaude la hacienda de la Ciudad de México e ingresos derivados de la prestación de servicios a su cargo.
 
-e) Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos.
-
-f) Las personas Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México. En ningún caso, podrán participar en la elección de estos cargos la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula. Inciso reformado DOF 01-04-2025
+e) Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos. f) Las personas Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México. En ningún caso, podrán participar en la elección de estos cargos la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula. Inciso reformado DOF 01-04-2025
 
 VII. La Ciudad de México contará con los organismos constitucionales autónomos que esta Constitución prevé para las entidades federativas.
 
@@ -109,13 +107,13 @@ La ley establecerá las normas para garantizar la transparencia del proceso de n
 
 La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Tribunal de Disciplina Judicial local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos. Párrafo reformado DOF 15-09-2024
 
-IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo [116](articulo-116.md) de esta Constitución y las leyes generales correspondientes. X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos. Fracción reformada DOF 15-11-2024
+IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo [116](articulo-116.md) de esta Constitución y las leyes generales correspondientes.
+
+X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos. Fracción reformada DOF 15-11-2024
 
 XI. Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo [123](articulo-123.md) de esta Constitución y sus leyes reglamentarias.
 
-B. Los poderes federales tendrán respecto de la Ciudad de México, exclusivamente las facultades que expresamente les confiere esta Constitución.
-
-El Gobierno de la Ciudad de México, dado su carácter de Capital de los Estados Unidos Mexicanos y sede de los Poderes de la Unión, garantizará, en todo tiempo y en los términos de este artículo, las condiciones necesarias para el ejercicio de las facultades constitucionales de los poderes federales.
+B. Los poderes federales tendrán respecto de la Ciudad de México, exclusivamente las facultades que expresamente les confiere esta Constitución. El Gobierno de la Ciudad de México, dado su carácter de Capital de los Estados Unidos Mexicanos y sede de los Poderes de la Unión, garantizará, en todo tiempo y en los términos de este artículo, las condiciones necesarias para el ejercicio de las facultades constitucionales de los poderes federales.
 
 El Congreso de la Unión expedirá las leyes que establezcan las bases para la coordinación entre los poderes federales y los poderes locales de la Ciudad de México en virtud de su carácter de Capital de los Estados Unidos Mexicanos, la cual contendrá las disposiciones necesarias que aseguren las condiciones para el ejercicio de las facultades que esta Constitución confiere a los Poderes de la Unión.
 
@@ -135,9 +133,7 @@ La ley que emita el Congreso de la Unión establecerá la forma en la que se tom
 
 a) La delimitación de los ámbitos territoriales y las acciones de coordinación para la operación y funcionamiento de obras y servicios públicos de alcance metropolitano;
 
-b) Los compromisos que asuma cada una de las partes para la asignación de recursos a los proyectos metropolitanos; y
-
-c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
+b) Los compromisos que asuma cada una de las partes para la asignación de recursos a los proyectos metropolitanos; y c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
 
 D. Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
 

@@ -11,7 +11,7 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "1995-12-22",
   "expected_min_articles": 100,
-  "expected_articles": 100,
+  "expected_articles": 109,
   "expected_transitories": 7,
   "count_baseline": {
     "provenance": "machine-proposed",

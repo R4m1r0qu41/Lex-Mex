@@ -17,10 +17,6 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 # Artículo 203
 
-1. Si un dictamen que propone la aprobación total o parcial de una iniciativa o proyecto de ley o
-
-decreto es rechazado en lo general por el Pleno, y existe voto particular, éste se debate y vota en
-
-sus términos, sin que proceda el debate en lo particular del propio dictamen.
+1. Si un dictamen que propone la aprobación total o parcial de una iniciativa o proyecto de ley o decreto es rechazado en lo general por el Pleno, y existe voto particular, éste se debate y vota en sus términos, sin que proceda el debate en lo particular del propio dictamen.
 
 2. Si no existe voto particular, se da por concluido el debate y se procede de conformidad con lo que establece el artículo 72 de la Constitución.

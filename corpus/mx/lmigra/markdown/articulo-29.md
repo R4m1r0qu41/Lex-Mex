@@ -25,7 +25,9 @@ II. Otorgar facilidades de estancia y garantizar la protección y los derechos d
 
 III. El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial;
 
-IV. Coadyuvar con el [Instituto](articulo-3.md) en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad; V. Coadyuvar con defensores de derechos humanos y la Comisión Nacional de los Derechos Humanos para garantizar la protección integral de los derechos de niñas, niños y adolescentes;
+IV. Coadyuvar con el [Instituto](articulo-3.md) en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad;
+
+V. Coadyuvar con defensores de derechos humanos y la Comisión Nacional de los Derechos Humanos para garantizar la protección integral de los derechos de niñas, niños y adolescentes;
 
 VI. Establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios y demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas para garantizar la protección integral de los derechos de niñas, niños y adolescentes, y
 

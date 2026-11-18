@@ -1,0 +1,113 @@
+{
+ "case_ref": "g1-syn-19-no-fraction-incisos",
+ "projection": {
+  "artifact": "structural-projection",
+  "canonical_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898",
+  "nodes": [
+   {
+    "candidate_parent_node_ids": [],
+    "complete_span": {
+     "end_char": 35,
+     "start_char": 0
+    },
+    "complete_status": "resolved",
+    "intro_span": {
+     "end_char": 6,
+     "start_char": 0
+    },
+    "intro_status": "resolved",
+    "kind": "article_root",
+    "label_span": null,
+    "node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root",
+    "normalised_label": null,
+    "ordinal_in_parent": null,
+    "parent_node_id": null,
+    "parenthood_status": "root",
+    "path": "root",
+    "printed_label": null,
+    "scope": "statute_body"
+   },
+   {
+    "candidate_parent_node_ids": [],
+    "complete_span": {
+     "end_char": 16,
+     "start_char": 8
+    },
+    "complete_status": "resolved",
+    "intro_span": {
+     "end_char": 16,
+     "start_char": 11
+    },
+    "intro_status": "resolved",
+    "kind": "inciso",
+    "label_span": {
+     "end_char": 10,
+     "start_char": 8
+    },
+    "node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:i.a.1",
+    "normalised_label": "a",
+    "ordinal_in_parent": 1,
+    "parent_node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root",
+    "parenthood_status": "resolved",
+    "path": "i.a.1",
+    "printed_label": "a)",
+    "scope": "statute_body"
+   },
+   {
+    "candidate_parent_node_ids": [],
+    "complete_span": {
+     "end_char": 26,
+     "start_char": 18
+    },
+    "complete_status": "ambiguous",
+    "intro_span": {
+     "end_char": 26,
+     "start_char": 21
+    },
+    "intro_status": "resolved",
+    "kind": "inciso",
+    "label_span": {
+     "end_char": 20,
+     "start_char": 18
+    },
+    "node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:i.b.1",
+    "normalised_label": "b",
+    "ordinal_in_parent": 2,
+    "parent_node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root",
+    "parenthood_status": "resolved",
+    "path": "i.b.1",
+    "printed_label": "b)",
+    "scope": "statute_body"
+   }
+  ],
+  "projection_version": "pilot-v1",
+  "provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+  "provision_status": "structured",
+  "scans": [
+   {
+    "child_kind": "fraction",
+    "parent_node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root",
+    "reasons": [],
+    "status": "complete"
+   },
+   {
+    "child_kind": "inciso",
+    "parent_node_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root",
+    "reasons": [],
+    "status": "complete"
+   }
+  ],
+  "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+  "unresolved_segments": [
+   {
+    "candidate_owner_node_ids": [
+     "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:i.b.1",
+     "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos#pilot-v1:e1e3ec52d478:root"
+    ],
+    "end_char": 35,
+    "reason": "trailing_attachment",
+    "start_char": 28
+   }
+  ]
+ }
+}

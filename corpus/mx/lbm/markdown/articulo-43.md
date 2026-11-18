@@ -29,6 +29,8 @@ IV. No cumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en 
 
 V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización de la Junta de Gobierno;
 
-VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
+VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y
+
+VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
 
 El Gobernador podrá ser removido también por no cumplir con los acuerdos de la Comisión de Cambios.

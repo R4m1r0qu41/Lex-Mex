@@ -41,6 +41,8 @@ X. En el caso de los esquemas reportables a los que se refiere la fracción I de
 
 XI. En caso de las declaraciones informativas complementarias a las que se refiere el párrafo sexto del artículo [197](articulo-197.md) de este Código, indicar el número de identificación del esquema reportable que haya sido revelado por otro asesor fiscal y la información que considere pertinente para corregir o complementar la declaración informativa presentada.
 
-XII. Cualquier otra información que el asesor fiscal o contribuyente consideren relevante para fines de su revisión. XIII. Cualquier otra información adicional que se solicite en los términos del artículo [201](articulo-201.md) de este Código.
+XII. Cualquier otra información que el asesor fiscal o contribuyente consideren relevante para fines de su revisión.
+
+XIII. Cualquier otra información adicional que se solicite en los términos del artículo [201](articulo-201.md) de este Código.
 
 Adicionalmente, en el caso de los mecanismos que sean reportables conforme al último párrafo del artículo [199](articulo-199.md) de este Código, se deberá revelar el mecanismo a través del cual se evitó la referida aplicación, además de la información sobre el esquema que proporciona beneficios fiscales en México conforme a lo dispuesto en este artículo.

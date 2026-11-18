@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
-      "provision_text_sha256": "6075c7053d4b24e837a2451bff9cdfe045e6a9d32593d81f077645b994560a0d",
+      "provision_text_sha256": "1ad58ec740349316c6b2b644aae8e11c06c13be75af391f4692e45feeebba1d0",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -24,13 +24,14 @@
         "XI",
         "XII",
         "XIII",
-        "XIV"
+        "XIV",
+        "XV"
       ],
       "unread_fractions": [],
-      "term_count": 14
+      "term_count": 15
     }
   ],
   "imports": [],
-  "term_count": 14,
-  "usage_count": 1502
+  "term_count": 15,
+  "usage_count": 1503
 }

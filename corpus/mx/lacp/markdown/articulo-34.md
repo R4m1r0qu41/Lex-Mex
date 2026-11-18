@@ -37,7 +37,9 @@ V. La [Secretaría](articulo-3o.md), para efectos de lo dispuesto por el Artícu
 
 VI. El Tesorero de la Federación, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
 
-VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuáles se administren o ejerzan recursos públicos federales; VIII. El titular y los subsecretarios de la Secretaría de la Función Pública, en ejercicio de sus facultades de investigación o auditoría para verificar la evolución del patrimonio de los servidores públicos federales.
+VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuáles se administren o ejerzan recursos públicos federales;
+
+VIII. El titular y los subsecretarios de la Secretaría de la Función Pública, en ejercicio de sus facultades de investigación o auditoría para verificar la evolución del patrimonio de los servidores públicos federales.
 
 La solicitud de información y documentación a que se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los Artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
 

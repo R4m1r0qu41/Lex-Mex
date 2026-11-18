@@ -7,8 +7,8 @@ provision_type: article
 number: "67"
 aliases: ["REG-LAGRA-MOPR — Artículo 67"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf
 source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 ---
@@ -27,6 +27,8 @@ III. Clase y aprovechamiento de las tierras;
 
 IV. Asignación de los derechos individuales y de uso común de las tierras de que se trate;
 
-V. Descripción de los bienes distintos a la tierra, en su caso, y VI. Los elementos técnicos o legales que el comisionado obtenga y que puedan influir en el procedimiento expropiatorio.
+V. Descripción de los bienes distintos a la tierra, en su caso, y
+
+VI. Los elementos técnicos o legales que el comisionado obtenga y que puedan influir en el procedimiento expropiatorio.
 
 La promovente podrá aportar los trabajos señalados en las fracciones I y II del presente artículo, siempre y cuando se ajusten a las normas técnicas referidas en el primer párrafo del mismo.

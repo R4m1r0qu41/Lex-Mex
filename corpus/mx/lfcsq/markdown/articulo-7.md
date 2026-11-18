@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LFCSQ — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf
 source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 ---
@@ -41,4 +41,4 @@ c) Se podrá llevar a cabo la síntesis de sustancias químicas del Grupo 1 del 
 
 Las instalaciones alternas estarán exentas de las medidas de declaración e inspección a que se refiere la presente Ley, y
 
-V. Asignar la máxima prioridad a la seguridad de la población y la protección del medio ambiente, durante la realización de cualquiera de las Actividades Reguladas y procesos secundarios, conforme a las disposiciones aplicables, así como en las normas contenidas en los instrumentos internacionales de los que el Estado mexicano sea Parte.
+V. Asignar la máxima prioridad a la seguridad de la población y la protección del medio ambiente, durante la realización de cualquiera de las [Actividades Reguladas](articulo-2.md) y procesos secundarios, conforme a las disposiciones aplicables, así como en las normas contenidas en los instrumentos internacionales de los que el Estado mexicano sea Parte.

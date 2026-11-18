@@ -21,6 +21,8 @@ Inadmisibilidad del recurso El [Tribunal Superior Militar](articulo-3.md) declar
 
 I. Haya sido interpuesto fuera del plazo;
 
-II. Se deduzca en contra de resolución que no sea impugnable por medio de apelación; III. Lo interponga persona no legitimada para ello;
+II. Se deduzca en contra de resolución que no sea impugnable por medio de apelación;
+
+III. Lo interponga persona no legitimada para ello;
 
 IV. El escrito de interposición carezca de fundamentos de agravio o de peticiones concretas.

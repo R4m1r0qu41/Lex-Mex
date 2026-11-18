@@ -73,30 +73,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1378-1399",
+    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1379-1400",
     "provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 1378,
-    "end_char": 1399
+    "start_char": 1379,
+    "end_char": 1400
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1607-1616",
+    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1608-1617",
     "provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "term_id": "urn:lex-mx:federal:statute:less:term:instituto",
     "span": "Instituto",
-    "start_char": 1607,
-    "end_char": 1616
+    "start_char": 1608,
+    "end_char": 1617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1645-1655",
+    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:1646-1656",
     "provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "term_id": "urn:lex-mx:federal:statute:less:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1645,
-    "end_char": 1655
+    "start_char": 1646,
+    "end_char": 1656
   },
   {
     "schema_version": "0.1.0",
@@ -127,21 +127,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:8:term-usage:720-729",
+    "id": "urn:lex-mx:federal:statute:less:article:8:term-usage:721-730",
     "provision_id": "urn:lex-mx:federal:statute:less:article:8",
     "term_id": "urn:lex-mx:federal:statute:less:term:asociados",
     "span": "Asociados",
-    "start_char": 720,
-    "end_char": 729
+    "start_char": 721,
+    "end_char": 730
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:8:term-usage:737-758",
+    "id": "urn:lex-mx:federal:statute:less:article:8:term-usage:738-759",
     "provision_id": "urn:lex-mx:federal:statute:less:article:8",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 737,
-    "end_char": 758
+    "start_char": 738,
+    "end_char": 759
   },
   {
     "schema_version": "0.1.0",
@@ -415,165 +415,165 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:1258-1279",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:1259-1280",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 1258,
-    "end_char": 1279
+    "start_char": 1259,
+    "end_char": 1280
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:1497-1503",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:1498-1504",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 1497,
-    "end_char": 1503
+    "start_char": 1498,
+    "end_char": 1504
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2008-2029",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2009-2030",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 2008,
-    "end_char": 2029
+    "start_char": 2009,
+    "end_char": 2030
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2091-2111",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2092-2112",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismo del Sector",
-    "start_char": 2091,
-    "end_char": 2111
+    "start_char": 2092,
+    "end_char": 2112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2224-2230",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2225-2231",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 2224,
-    "end_char": 2230
+    "start_char": 2225,
+    "end_char": 2231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2419-2440",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2420-2441",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 2419,
-    "end_char": 2440
+    "start_char": 2420,
+    "end_char": 2441
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2581-2587",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2582-2588",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 2581,
-    "end_char": 2587
+    "start_char": 2582,
+    "end_char": 2588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2641-2647",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2642-2648",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 2641,
-    "end_char": 2647
+    "start_char": 2642,
+    "end_char": 2648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2747-2754",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2748-2755",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:acuerdo",
     "span": "Acuerdo",
-    "start_char": 2747,
-    "end_char": 2754
+    "start_char": 2748,
+    "end_char": 2755
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2879-2900",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:2880-2901",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 2879,
-    "end_char": 2900
+    "start_char": 2880,
+    "end_char": 2901
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3073-3079",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3074-3080",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 3073,
-    "end_char": 3079
+    "start_char": 3074,
+    "end_char": 3080
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3189-3195",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3190-3196",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 3189,
-    "end_char": 3195
+    "start_char": 3190,
+    "end_char": 3196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3463-3484",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3464-3485",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 3463,
-    "end_char": 3484
+    "start_char": 3464,
+    "end_char": 3485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3922-3943",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3923-3944",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 3922,
-    "end_char": 3943
+    "start_char": 3923,
+    "end_char": 3944
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3989-3998",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:3990-3999",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:instituto",
     "span": "Instituto",
-    "start_char": 3989,
-    "end_char": 3998
+    "start_char": 3990,
+    "end_char": 3999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4394-4415",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4395-4416",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 4394,
-    "end_char": 4415
+    "start_char": 4395,
+    "end_char": 4416
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4697-4706",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4698-4707",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:instituto",
     "span": "Instituto",
-    "start_char": 4697,
-    "end_char": 4706
+    "start_char": 4698,
+    "end_char": 4707
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4903-4910",
+    "id": "urn:lex-mx:federal:statute:less:article:14:term-usage:4904-4911",
     "provision_id": "urn:lex-mx:federal:statute:less:article:14",
     "term_id": "urn:lex-mx:federal:statute:less:term:acuerdo",
     "span": "Acuerdo",
-    "start_char": 4903,
-    "end_char": 4910
+    "start_char": 4904,
+    "end_char": 4911
   },
   {
     "schema_version": "0.1.0",
@@ -829,39 +829,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:793-799",
+    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:794-800",
     "provision_id": "urn:lex-mx:federal:statute:less:article:24",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",
     "span": "Sector",
-    "start_char": 793,
-    "end_char": 799
+    "start_char": 794,
+    "end_char": 800
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:909-917",
+    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:910-918",
     "provision_id": "urn:lex-mx:federal:statute:less:article:24",
     "term_id": "urn:lex-mx:federal:statute:less:term:programa",
     "span": "Programa",
-    "start_char": 909,
-    "end_char": 917
+    "start_char": 910,
+    "end_char": 918
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:1073-1082",
+    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:1074-1083",
     "provision_id": "urn:lex-mx:federal:statute:less:article:24",
     "term_id": "urn:lex-mx:federal:statute:less:term:instituto",
     "span": "Instituto",
-    "start_char": 1073,
-    "end_char": 1082
+    "start_char": 1074,
+    "end_char": 1083
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:1184-1205",
+    "id": "urn:lex-mx:federal:statute:less:article:24:term-usage:1185-1206",
     "provision_id": "urn:lex-mx:federal:statute:less:article:24",
     "term_id": "urn:lex-mx:federal:statute:less:term:organismos-del-sector",
     "span": "Organismos del Sector",
-    "start_char": 1184,
-    "end_char": 1205
+    "start_char": 1185,
+    "end_char": 1206
   },
   {
     "schema_version": "0.1.0",

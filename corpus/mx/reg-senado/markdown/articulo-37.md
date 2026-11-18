@@ -23,6 +23,8 @@ I. Aprobar, a propuesta de la Junta, las comisiones oficiales para atender invit
 
 II. Integrar el Consejo Directivo de la Gaceta;
 
-III. Autorizar el uso del salón de sesiones del Pleno y de las demás instalaciones del Senado no asignadas a fines específicos, para la realización de actos oficiales y de carácter educativo o cultural; y IV. Conocer de las faltas administrativas y a la disciplina parlamentaria en que incurran los senadores y participar, en su caso, con los grupos parlamentarios y en lo procedente con el Pleno, en la aplicación de las sanciones correspondientes.
+III. Autorizar el uso del salón de sesiones del Pleno y de las demás instalaciones del Senado no asignadas a fines específicos, para la realización de actos oficiales y de carácter educativo o cultural; y
+
+IV. Conocer de las faltas administrativas y a la disciplina parlamentaria en que incurran los senadores y participar, en su caso, con los grupos parlamentarios y en lo procedente con el Pleno, en la aplicación de las sanciones correspondientes.
 
 2. La Mesa podrá implementar mecanismos para facilitar trámites relacionados con las funciones de la Cámara, mediante el uso de las tecnologías de la información, medios digitales, el uso de firma digitalizada y digitalización de documentos, con características de identificación, seguridad de la información y certidumbre jurídica. Numeral adicionado DOF 11-11-2022

@@ -18,5 +18,3 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 # Artículo 216
 
 Las personas físicas o morales que reciban y ejerzan recursos públicos o ejerzan actos de autoridad deberán proporcionar la información que permita al sujeto obligado que corresponda, cumplir con sus obligaciones de transparencia y para atender las solicitudes de acceso correspondientes.
-
-Artículo Segundo a Artículo Cuarto.- …….

@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["REG-LDCMPME — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -29,7 +29,9 @@ IV. Analizar los mecanismos de participación transparente y oportuna del Sector
 
 V. Emitir opinión respecto a la creación o eliminación de subsistemas;
 
-VI. Crear y, en su caso, eliminar los Grupos de Trabajo, según se requiera para el cumplimiento de los objetivos de la Ley, así como establecer los lineamientos para su operación y funcionamiento; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA VII. Designar y, en su caso, sustituir a los representantes del Sector Público y de los Sectores que integren los Grupos de Trabajo, en caso de incumplimiento de sus actividades;
+VI. Crear y, en su caso, eliminar los Grupos de Trabajo, según se requiera para el cumplimiento de los objetivos de la Ley, así como establecer los lineamientos para su operación y funcionamiento;
+
+VII. Designar y, en su caso, sustituir a los representantes del Sector Público y de los Sectores que integren los Grupos de Trabajo, en caso de incumplimiento de sus actividades;
 
 VIII. Analizar los mecanismos que promuevan y faciliten la comunicación y vinculación con los Consejos Estatales;
 

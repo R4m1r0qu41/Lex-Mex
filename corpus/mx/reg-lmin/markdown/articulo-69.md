@@ -7,8 +7,8 @@ provision_type: article
 number: "69"
 aliases: ["REG-LMIN — Artículo 69"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -33,6 +33,8 @@ Asimismo, deberán entregar a la Secretaría el informe técnico a que hace refe
 
 I. Nombre del titular de la concesión o de quien lleve a cabo estas obras y trabajos mediante contrato;
 
-II. Nombre del lote y número de título o listado de los lotes pertenecientes a un agrupamiento; III. Situación del lote antes de iniciar las obras y trabajos mineros, y
+II. Nombre del lote y número de título o listado de los lotes pertenecientes a un agrupamiento;
+
+III. Situación del lote antes de iniciar las obras y trabajos mineros, y
 
 IV. Descripción genérica de las obras y trabajos ejecutados.

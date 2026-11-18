@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["REG-LGEEPA-MOE — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf
 source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 ---
@@ -19,7 +19,9 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 La [Secretaría](articulo-3o.md) deberá someter la propuesta del programa de ordenamiento ecológico general del territorio a un proceso de consulta pública, mediante la realización de las siguientes acciones:
 
-I. Publicar un aviso en el Diario Oficial de la Federación, en los diarios de mayor circulación nacional y en medios remotos o locales de comunicación electrónica, que señale el periodo y los lugares donde se pondrá a disposición del público la propuesta de programa de ordenamiento ecológico general del territorio; II. Poner a disposición del público durante 60 días hábiles en medios remotos o locales de comunicación electrónico, en las oficinas centrales, estatales y regionales de la Secretaría y en las oficinas de sus órganos desconcentrados;
+I. Publicar un aviso en el Diario Oficial de la Federación, en los diarios de mayor circulación nacional y en medios remotos o locales de comunicación electrónica, que señale el periodo y los lugares donde se pondrá a disposición del público la propuesta de programa de ordenamiento ecológico general del territorio;
+
+II. Poner a disposición del público durante 60 días hábiles en medios remotos o locales de comunicación electrónico, en las oficinas centrales, estatales y regionales de la Secretaría y en las oficinas de sus órganos desconcentrados;
 
 III. Establecer los espacios y los medios donde el público podrá manifestar sus observaciones;
 

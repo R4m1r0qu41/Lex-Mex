@@ -45,7 +45,9 @@ e). En relación con Federaciones de Colegios de Profesionistas. ...............
 
 f). Inscripción de asociado a una Federación de Colegios de Profesionistas que no figure en el registro original .............................................................................................. $1,585.81 Inciso adicionado DOF 31-12-2000
 
-VIII. Expedición de duplicado de cédula o de autorización para el ejercicio de una especialidad ............................................................................................................. $527.97 Fracción reformada DOF 18-12-1992, 15-12-1995 IX. Expedición de cédula profesional con efectos de patente o de cédula de grado académico ................................................................................................................ $525.34 Fracción reformada DOF 15-12-1995
+VIII. Expedición de duplicado de cédula o de autorización para el ejercicio de una especialidad ............................................................................................................. $527.97 Fracción reformada DOF 18-12-1992, 15-12-1995
+
+IX. Expedición de cédula profesional con efectos de patente o de cédula de grado académico ................................................................................................................ $525.34 Fracción reformada DOF 15-12-1995
 
 X. Expedición de autorización provisional para ejercer por estar el título profesional en trámite o para ejercer como pasante ...................................................................................... $525.34 Fracción reformada DOF 15-12-1995
 

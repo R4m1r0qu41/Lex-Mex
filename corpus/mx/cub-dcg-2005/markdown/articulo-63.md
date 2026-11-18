@@ -9,16 +9,15 @@ aliases: ["DCG-CUB-2005 — Artículo 63"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [178]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 63
 
-La Comisión conforme a lo previsto en el Artículo [4](articulo-4.md), fracción XIV y [7](articulo-7.md) de su ley, podrá (178)
-
-ordenar a las Instituciones que se ubiquen en alguno de los supuestos a que se refieren los Artículos 121 y 122 de la Ley o que infrinjan la normatividad aplicable en materia de crédito, suspendan la contratación de nuevas operaciones de Financiamiento, la renovación de estas a su vencimiento, o bien, la realización de nuevas operaciones de inversión en valores.
+La [Comisión](articulo-1.md) conforme a lo previsto en el Artículo [4](articulo-4.md), fracción XIV y [7](articulo-7.md) de su ley, podrá ordenar a las Instituciones que se ubiquen en alguno de los supuestos a que se refieren los Artículos 121 y 122 de la [Ley](articulo-1.md) o que infrinjan la normatividad aplicable en materia de crédito, suspendan la contratación de nuevas operaciones de [Financiamiento](articulo-1.md), la renovación de estas a su vencimiento, o bien, la realización de nuevas operaciones de inversión en valores.
 
 Lo previsto en este artículo será igualmente aplicable a las operaciones pasivas que celebren las Instituciones, cuando éstas se ubiquen en los supuestos ahí señalados.

@@ -35,7 +35,9 @@ c) La cuantía de la operación;
 
 d) La condición económica del infractor, a efecto de que la sanción no sea excesiva, y
 
-e) La naturaleza de la infracción cometida; IV. Tratándose de conductas calificadas por esta Ley como graves, además de lo establecido en la fracción III de este artículo, podrá tomar en cuenta cualquiera de los aspectos siguientes:
+e) La naturaleza de la infracción cometida;
+
+IV. Tratándose de conductas calificadas por esta Ley como graves, además de lo establecido en la fracción III de este artículo, podrá tomar en cuenta cualquiera de los aspectos siguientes:
 
 a) El monto del quebranto o perjuicio patrimonial causado;
 

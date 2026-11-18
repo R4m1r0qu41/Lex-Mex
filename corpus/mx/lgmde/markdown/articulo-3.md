@@ -23,7 +23,9 @@ I. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 II. Ley: Ley General en Materia de Delitos Electorales;
 
-III. Código Penal: Código Penal Federal; IV. Consulta Popular: Los mecanismos de participación mediante los cuales los ciudadanos ejercen su derecho reconocido por el artículo 35, fracción VIII de la [Constitución](articulo-3.md);
+III. Código Penal: Código Penal Federal;
+
+IV. Consulta Popular: Los mecanismos de participación mediante los cuales los ciudadanos ejercen su derecho reconocido por el artículo 35, fracción VIII de la [Constitución](articulo-3.md);
 
 V. Servidor Público: La persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o local centralizada, organismos descentralizados federales o locales, empresas de participación estatal mayoritaria federales o locales, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos federales o locales, en las legislaturas federal o locales, en los poderes judiciales federal o locales, o que manejen recursos económicos federales o locales, así como en los organismos a los que la Constitución o las constituciones de las entidades federativas otorguen autonomía. Párrafo reformado DOF 19-01-2018
 

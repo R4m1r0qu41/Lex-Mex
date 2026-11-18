@@ -24,6 +24,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:article:3:reference:326-329:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "source_span": "III",
+    "start_char": 326,
+    "end_char": 329,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lhheum",
+    "target_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 326,
+        "end_char": 329
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lhheum:article:3:reference:331-333:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
     "source_span": "IV",
@@ -83,28 +106,5 @@
     "resolution_status": "resolved",
     "reference_form": "relative",
     "resolution_rule": "relative_position"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lhheum:transitory:cuarto:reference:369-371:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:transitory:cuarto",
-    "source_span": "89",
-    "start_char": 369,
-    "end_char": 371,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 345,
-        "end_char": 355
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

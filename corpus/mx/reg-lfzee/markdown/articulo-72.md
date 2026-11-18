@@ -7,8 +7,8 @@ provision_type: article
 number: "72"
 aliases: ["REG-LFZEE — Artículo 72"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -47,4 +47,6 @@ VIII. Que el esquema para facilitar la expansión física de la Zona es apropiad
 
 IX. Que la evaluación del impacto ambiental que presente haya sido autorizada;
 
-X. Que los precios y tarifas que el Solicitante pretende cobrar por la prestación de los Servicios Asociados, son competitivos en comparación con los costos del mercado interno, y XI. Los demás establecidos en los [Lineamientos](articulo-4.md) para el otorgamiento de Permisos o, en su caso, en la convocatoria respectiva.
+X. Que los precios y tarifas que el Solicitante pretende cobrar por la prestación de los Servicios Asociados, son competitivos en comparación con los costos del mercado interno, y
+
+XI. Los demás establecidos en los [Lineamientos](articulo-4.md) para el otorgamiento de Permisos o, en su caso, en la convocatoria respectiva.

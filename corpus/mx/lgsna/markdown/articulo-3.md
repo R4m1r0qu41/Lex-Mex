@@ -31,7 +31,9 @@ V. Días: días hábiles;
 
 VI. Entes públicos: los Poderes Legislativo y Judicial, los organismos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal y sus homólogos de las entidades federativas; los municipios y las alcaldías de la Ciudad de México y sus dependencias y entidades; las fiscalías o procuradurías locales; los órganos jurisdiccionales que no formen parte de los poderes judiciales; las empresas productivas del Estado, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes citados de los tres órdenes de gobierno; Fracción reformada DOF 20-05-2021
 
-VII. Órganos internos de control: los Órganos internos de control en los [Entes públicos](articulo-3.md); VIII. Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técnico del [Comité Coordinador](articulo-3.md);
+VII. Órganos internos de control: los Órganos internos de control en los [Entes públicos](articulo-3.md);
+
+VIII. Secretaría Ejecutiva: el organismo que funge como órgano de apoyo técnico del [Comité Coordinador](articulo-3.md);
 
 IX. Secretario Técnico: el servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley;
 

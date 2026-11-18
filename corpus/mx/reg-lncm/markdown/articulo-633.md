@@ -25,7 +25,9 @@ II. Cuando la vigencia del permiso esté sujeta a una condición o término susp
 
 III. Acaecimiento de una condición resolutoria, prevista en el permiso;
 
-IV. Desaparición del objeto o de la finalidad del permiso; V. Renuncia del titular del permiso;
+IV. Desaparición del objeto o de la finalidad del permiso;
+
+V. Renuncia del titular del permiso;
 
 VI. Revocación, y
 

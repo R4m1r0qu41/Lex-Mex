@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LOIPN — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf
 source_sha256: c40f1697221f7ce6b0a9c9da729c2e95db5e1a9404151456b69fdc1be7f5c6ee
 ---
@@ -27,7 +27,9 @@ III.- Formar profesionales e investigadores en los diversos campos de la ciencia
 
 IV.- Coadyuvar a la preparación técnica de los trabajadores para su mejoramiento económico y social;
 
-V.- Investigar, crear, conservar y difundir la cultura para fortalecer la conciencia de la nacionalidad, procurar el desarrollo de un elevado sentido de convivencia humana y fomentar en los educandos el amor a la paz y los sentimientos de solidaridad hacia los pueblos que luchan por su Independencia; VI.- Promover en sus alumnos y egresados actitudes solidarias y democráticas que reafirmen nuestra independencia económica;
+V.- Investigar, crear, conservar y difundir la cultura para fortalecer la conciencia de la nacionalidad, procurar el desarrollo de un elevado sentido de convivencia humana y fomentar en los educandos el amor a la paz y los sentimientos de solidaridad hacia los pueblos que luchan por su Independencia;
+
+VI.- Promover en sus alumnos y egresados actitudes solidarias y democráticas que reafirmen nuestra independencia económica;
 
 VII.- Garantizar y ampliar el acceso de estudiantes de escasos recursos a todos los servicios de la enseñanza técnica que preste el instituto;
 

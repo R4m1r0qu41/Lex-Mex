@@ -7,8 +7,8 @@ provision_type: article
 number: "152"
 aliases: ["REG-LFSV — Artículo 152"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -47,7 +47,9 @@ f) El número de Acreditación;
 
 g) El nombre del responsable del Laboratorio de Pruebas, y
 
-h) El nombre de la persona encargada de realizar los trámites de Aprobación del Laboratorio de Pruebas, así como el cargo que ocupa en la organización, su teléfono y fax; III. El alcance de la Aprobación que solicita, lo cual se refiere a:
+h) El nombre de la persona encargada de realizar los trámites de Aprobación del Laboratorio de Pruebas, así como el cargo que ocupa en la organización, su teléfono y fax;
+
+III. El alcance de la Aprobación que solicita, lo cual se refiere a:
 
 a) Las materias a aprobar, y
 

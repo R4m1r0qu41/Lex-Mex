@@ -29,6 +29,8 @@ IV. Cuando las partes ofrezcan las pruebas testimonial o pericial, exhibirán co
 
 V. Al promoverse la prueba pericial, el juez hará la designación de un perito, o de los que estime necesarios, sin perjuicio de que cada parte pueda designar también un perito para que se asocie al nombrado por el juez o rinda dictamen por separado;
 
-VI. A fin de que las partes puedan rendir sus pruebas en la citada audiencia, los funcionarios o autoridades tienen obligación de expedir con toda prontitud a aquéllas, las copias o documentos que soliciten, apercibidas que de no hacerlo serán objeto de las medidas de apremio que el juez considere convenientes, y dejarán de recibirse las que no se hayan preparado oportunamente por falta de interés en su desahogo, y VII. Concluida la audiencia, sin necesidad de citación, el juez dictará la sentencia interlocutoria relativa dentro del plazo de tres días.
+VI. A fin de que las partes puedan rendir sus pruebas en la citada audiencia, los funcionarios o autoridades tienen obligación de expedir con toda prontitud a aquéllas, las copias o documentos que soliciten, apercibidas que de no hacerlo serán objeto de las medidas de apremio que el juez considere convenientes, y dejarán de recibirse las que no se hayan preparado oportunamente por falta de interés en su desahogo, y
+
+VII. Concluida la audiencia, sin necesidad de citación, el juez dictará la sentencia interlocutoria relativa dentro del plazo de tres días.
 
 Los incidentes planteados en términos de esta [Ley](articulo-4o.md) no suspenderán el procedimiento principal.

@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["REG-LGP — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
@@ -17,4 +17,4 @@ source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 
 # Artículo 49
 
-El Registro Nacional de Población determinará los datos y elementos que deberá contener la Cédula de Identidad Ciudadana, además de los señalados por el artículo [107](../../lgp/markdown/articulo-107.md) de la Ley.
+El Registro Nacional de Población determinará los datos y elementos que deberá contener la Cédula de Identidad Ciudadana, además de los señalados por el artículo [107](../../lgp/markdown/articulo-107.md) de la [Ley](articulo-3.md).

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
-      "provision_text_sha256": "c1148ff0559c3a33369097047650b88e8a953919ab9ab14cb19b8100304c54c6",
+      "provision_text_sha256": "33b532d3cf7395ceb5596dc2a7be9639811d4a6aa50f80bb877854e26db6e7de",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -19,13 +19,14 @@
         "VI",
         "VII",
         "VIII",
-        "IX"
+        "IX",
+        "X"
       ],
       "unread_fractions": [],
-      "term_count": 9
+      "term_count": 10
     }
   ],
   "imports": [],
-  "term_count": 9,
+  "term_count": 10,
   "usage_count": 157
 }

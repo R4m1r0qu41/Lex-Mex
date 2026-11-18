@@ -21,7 +21,9 @@ Son criterios obligatorios de política forestal de carácter ambiental y silví
 
 I. Orientarse hacia el mejoramiento ambiental del territorio nacional a través del manejo forestal sustentable, para que contribuyan al mantenimiento del capital natural y la biodiversidad, la calidad del entorno de los centros de población y vías de comunicación y que, del mismo modo, conlleve la defensa de los suelos y cursos de agua, la disminución de la contaminación y la provisión de espacios suficientes para la recreación;
 
-II. La sanidad y vitalidad de los ecosistemas forestales; III. El uso sustentable de los ecosistemas forestales;
+II. La sanidad y vitalidad de los ecosistemas forestales;
+
+III. El uso sustentable de los ecosistemas forestales;
 
 IV. La estabilización del uso del suelo forestal a través de acciones que impidan el cambio en su utilización;
 

@@ -53,7 +53,9 @@ XIV.- Regular y vigilar, de conformidad con las disposiciones aplicables, la pre
 
 XV. Fomentar el desarrollo del pequeño comercio rural y urbano, así como promover el desarrollo de lonjas, centros y sistemas comerciales de carácter regional o nacional en coordinación con la Secretaría de Agricultura y Desarrollo Rural; Fracción reformada DOF 28-12-1994, 30-11-2000, 30-11-2018
 
-XVI. Impulsar, en coordinación con las dependencias o entidades de la Administración Pública Federal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren necesarios para garantizar el abasto y el funcionamiento eficiente de los mercados; Fracción reformada DOF 30-11-2018 XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
+XVI. Impulsar, en coordinación con las dependencias o entidades de la Administración Pública Federal que tengan relación con las actividades específicas de que se trate, la producción de aquellos bienes y servicios que se consideren necesarios para garantizar el abasto y el funcionamiento eficiente de los mercados; Fracción reformada DOF 30-11-2018
+
+XVII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter industrial y comercial;
 
 XVIII.- Organizar la distribución y consumo a fin de evitar el acaparamiento y que las intermediaciones innecesarias o excesivas provoquen el encarecimiento de los productos y servicios;
 
@@ -77,7 +79,9 @@ XXVI. Se deroga. Fracción adicionada DOF 30-12-1983. Reformada DOF 21-02-1992. 
 
 XXVII. Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas y afromexicanas, así como de los sectores social y privado, de acuerdo con el artículo [32](articulo-32.md), fracción XIII de esta ley; Fracción recorrida DOF 30-12-1983. Reformada DOF 28-12-1994, 30-11-2018, 01-04-2024
 
-XXVIII. Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar; Fracción adicionada DOF 28-12-1994 XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y Fracción adicionada DOF 28-12-1994
+XXVIII. Fomentar el aprovechamiento de los recursos minerales y llevar el catastro minero, y regular la explotación de salinas ubicadas en terrenos de propiedad nacional y en las formadas directamente por las aguas del mar; Fracción adicionada DOF 28-12-1994
+
+XXIX. Otorgar contratos, concesiones, asignaciones, permisos, autorizaciones y asignaciones en materia minera, en los términos de la legislación correspondiente, y Fracción adicionada DOF 28-12-1994
 
 XXX. Impulsar la reubicación de la industria de zonas urbanas con graves problemas demográficos y ambientales en coordinación con las autoridades competentes, así como con las entidades federativas, para que se facilite su traslado con infraestructura industrial; Fracción adicionada DOF 10-06-2005. Reformada DOF 30-11-2018
 

@@ -27,6 +27,8 @@ III. La posibilidad del ejercicio del derecho de rectificación;
 
 IV. La confidencialidad en la administración, manejo y difusión de sus datos;
 
-V. La forma en que será divulgada o suministrada la [Información](articulo-2.md), y VI. El plazo para proporcionar los datos, el cual deberá fijarse conforme a la naturaleza y características de la información a rendir.
+V. La forma en que será divulgada o suministrada la [Información](articulo-2.md), y
+
+VI. El plazo para proporcionar los datos, el cual deberá fijarse conforme a la naturaleza y características de la información a rendir.
 
 Las anteriores previsiones deberán aparecer en los cuestionarios y documentos que se utilicen para recopilar datos estadísticos o geográficos.

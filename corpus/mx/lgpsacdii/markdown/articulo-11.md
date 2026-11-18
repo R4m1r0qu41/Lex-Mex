@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LGPSACDII — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -25,7 +25,9 @@ II. Al cuidado y protección contra actos u omisiones que puedan afectar su inte
 
 III. A la atención y promoción de la salud;
 
-IV. A recibir la alimentación que les permita tener una nutrición adecuada; V. A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
+IV. A recibir la alimentación que les permita tener una nutrición adecuada;
+
+V. A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
 
 VI. Al descanso, al juego y al esparcimiento;
 

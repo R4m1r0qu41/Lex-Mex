@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LFPPCPCIA — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf
 source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 ---
@@ -27,7 +27,9 @@ III. Autorizante: el o los pueblos o comunidades propietarias de los elementos d
 
 IV. Consentimiento: es la manifestación de la voluntad libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas respecto de medidas susceptibles de afectarles. Dichos pueblos y comunidades tienen en todo momento el derecho a otorgar o no su consentimiento, de conformidad con sus sistemas normativos.
 
-V. Contrato de autorización: acuerdo de voluntades que celebran el pueblo o la comunidad indígena o afromexicana propietaria del patrimonio cultural a que se refiere esta Ley y un tercero, mediante una autorización expresa para su uso, aprovechamiento o comercialización, mediante una distribución justa y equitativa de beneficios. VI. Copropietarios: dos o más pueblos o comunidades indígenas o afromexicanas que, teniendo su propia identidad, comparten la propiedad colectiva de uno o más elementos de su patrimonio cultural.
+V. Contrato de autorización: acuerdo de voluntades que celebran el pueblo o la comunidad indígena o afromexicana propietaria del patrimonio cultural a que se refiere esta Ley y un tercero, mediante una autorización expresa para su uso, aprovechamiento o comercialización, mediante una distribución justa y equitativa de beneficios.
+
+VI. Copropietarios: dos o más pueblos o comunidades indígenas o afromexicanas que, teniendo su propia identidad, comparten la propiedad colectiva de uno o más elementos de su patrimonio cultural.
 
 VII. Derecho de propiedad colectiva: es el derecho real o de dominio directo que los pueblos y comunidades indígenas y afromexicanas tienen sobre su patrimonio cultural, basado en sus saberes, conocimientos, manifestaciones de sus ciencias, tecnologías y expresiones culturales tradicionales.
 
@@ -49,4 +51,6 @@ XV. Pueblos y comunidades indígenas: aquellos que se reconocen y definen en los
 
 XVI. Registro: Registro Nacional del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.
 
-XVII. Sistema Nacional de Protección: Sistema Nacional de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas. XVIII. Sistemas Normativos Indígenas: son el conjunto de principios, normas orales o escritas, instituciones, acuerdos y decisiones que los pueblos y comunidades indígenas y afromexicanas reconocen como válidos y vigentes para el ejercicio de sus formas propias de gobierno, impartición de justicia y solución de conflictos.
+XVII. Sistema Nacional de Protección: Sistema Nacional de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.
+
+XVIII. Sistemas Normativos Indígenas: son el conjunto de principios, normas orales o escritas, instituciones, acuerdos y decisiones que los pueblos y comunidades indígenas y afromexicanas reconocen como válidos y vigentes para el ejercicio de sus formas propias de gobierno, impartición de justicia y solución de conflictos.

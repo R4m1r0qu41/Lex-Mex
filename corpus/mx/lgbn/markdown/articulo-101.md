@@ -27,7 +27,9 @@ III.- Las declaratorias que determinen que un bien está sujeto al régimen de d
 
 IV.- Las declaratorias por las que se determine que un bien forma parte del patrimonio de la Federación;
 
-V.- Los acuerdos administrativos que destinen inmuebles federales salvo aquéllos que contengan información reservada en los términos de la ley de la materia; VI.- Los acuerdos administrativos que desincorporen inmuebles del régimen de dominio público de la Federación y autoricen su enajenación;
+V.- Los acuerdos administrativos que destinen inmuebles federales salvo aquéllos que contengan información reservada en los términos de la ley de la materia;
+
+VI.- Los acuerdos administrativos que desincorporen inmuebles del régimen de dominio público de la Federación y autoricen su enajenación;
 
 VII.- Los convenios por los que se afecten inmuebles federales a actividades de organizaciones internacionales de las que México sea miembro;
 

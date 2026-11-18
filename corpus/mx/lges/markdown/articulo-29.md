@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LGES — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -19,7 +19,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 La educación superior universitaria tiene por objeto la formación integral de las personas para el desarrollo armónico de todas sus facultades, la construcción de saberes, la generación, aplicación, intercambio y transmisión del conocimiento, así como la difusión de la cultura y la extensión académica en los ámbitos nacional, regional y local, que faciliten la incorporación de las personas egresadas a los sectores social, productivo y laboral.
 
-El subsistema universitario se encuentra integrado por las universidades e instituciones de educación superior que realizan los objetivos establecidos en el párrafo anterior y se clasifican de la siguiente forma en razón de su naturaleza jurídica: I. En el ámbito federal:
+El subsistema universitario se encuentra integrado por las universidades e instituciones de educación superior que realizan los objetivos establecidos en el párrafo anterior y se clasifican de la siguiente forma en razón de su naturaleza jurídica:
+
+I. En el ámbito federal:
 
 a) Universidades e instituciones de educación superior autónomas por ley;
 

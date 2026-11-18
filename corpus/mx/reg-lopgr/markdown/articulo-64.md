@@ -39,6 +39,8 @@ IX. Promover la participación social para el apoyo de los servicios que presta 
 
 X. Establecer mecanismos para la recepción de información ciudadana sobre la posible comisión de delitos federales, así como canalizarlas a las unidades y órganos competentes;
 
-XI. Coordinar los programas de formación de capacitadores para la prevención de la farmacodependencia; XII. Realizar foros de consulta popular sobre temas relacionados con las funciones de la Procuraduría, en coordinación con las unidades administrativas competentes, y
+XI. Coordinar los programas de formación de capacitadores para la prevención de la farmacodependencia;
+
+XII. Realizar foros de consulta popular sobre temas relacionados con las funciones de la Procuraduría, en coordinación con las unidades administrativas competentes, y
 
 XIII. Proponer los criterios en materia de servicios a la comunidad y vinculación social, así como coordinar las instancias encargadas de los mismos dentro de la Procuraduría.

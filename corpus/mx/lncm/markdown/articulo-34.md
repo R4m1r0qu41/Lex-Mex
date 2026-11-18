@@ -31,6 +31,8 @@ V. Durante el plazo de ejecución de las obligaciones adquiridas de acuerdo con 
 
 VI. En caso de incumplimiento de las obligaciones adquiridas de conformidad con la fracción IV de este artículo, la [Secretaría](articulo-2.md) será la autoridad competente para coordinar las acciones tendientes a dar solución a la contingencia;
 
-VII. Una vez que la tripulación extranjera haya sido desembarcada y esté comprobado que se encuentra en buen estado de salud, el Instituto Nacional de Migración tramitará la repatriación a costa del naviero o del propietario de la embarcación de modo solidario. Entre tanto, el agente naviero consignatario y, en su caso, el propietario de la misma embarcación de modo solidario, sufragarán la manutención integral de los tripulantes a ser repatriados. La Secretaría verificará el cumplimiento de esta obligación, y VIII. En caso de que los tripulantes decidan implementar acciones legales por falta de pago de salarios, la capitanía de puerto turnará las actuaciones a la Secretaría del Trabajo y Previsión Social, para la resolución de los conflictos marítimos de naturaleza laboral.
+VII. Una vez que la tripulación extranjera haya sido desembarcada y esté comprobado que se encuentra en buen estado de salud, el Instituto Nacional de Migración tramitará la repatriación a costa del naviero o del propietario de la embarcación de modo solidario. Entre tanto, el agente naviero consignatario y, en su caso, el propietario de la misma embarcación de modo solidario, sufragarán la manutención integral de los tripulantes a ser repatriados. La Secretaría verificará el cumplimiento de esta obligación, y
+
+VIII. En caso de que los tripulantes decidan implementar acciones legales por falta de pago de salarios, la capitanía de puerto turnará las actuaciones a la Secretaría del Trabajo y Previsión Social, para la resolución de los conflictos marítimos de naturaleza laboral.
 
 Artículo reformado DOF 07-12-2020

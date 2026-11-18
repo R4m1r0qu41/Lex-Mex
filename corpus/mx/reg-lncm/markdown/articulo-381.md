@@ -25,7 +25,9 @@ II. Unidades de arqueo;
 
 III. Potencia propulsora;
 
-IV. Tipo de viaje para la que esté autorizada; V. Maniobras y operaciones de rutina, entendiéndose como tales, las actividades que ejecuta la Tripulación de acuerdo con sus categorías y especialidades, para garantizar las condiciones operativas normales de la Embarcación;
+IV. Tipo de viaje para la que esté autorizada;
+
+V. Maniobras y operaciones de rutina, entendiéndose como tales, las actividades que ejecuta la Tripulación de acuerdo con sus categorías y especialidades, para garantizar las condiciones operativas normales de la Embarcación;
 
 VI. Atención oportuna de contingencias, entendiéndose como tales, todo suceso imprevisto que pone en riesgo la seguridad de la Embarcación, tripulación, [Pasajeros](articulo-10.md), carga, bienes y la protección del medio marino, y
 

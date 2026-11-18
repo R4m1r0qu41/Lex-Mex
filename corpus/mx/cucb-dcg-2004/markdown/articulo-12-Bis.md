@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 12 Bis
 
-La fusión de dos o más casas de bolsa, o de cualquier sociedad con una casa de bolsa, deberá ser autorizada por la [Comisión](articulo-1.md) en términos de lo previsto en el artículo 132 de la Ley. Para tal efecto, deberá presentarse, en adición a lo previsto en dicho artículo, la información siguiente:
+La fusión de dos o más casas de bolsa, o de cualquier sociedad con una casa de bolsa, deberá ser autorizada por la [Comisión](articulo-1.md) en términos de lo previsto en el artículo 132 de la [Ley](articulo-1.md). Para tal efecto, deberá presentarse, en adición a lo previsto en dicho artículo, la información siguiente:
 
 I. La solicitud, en formato libre, suscrita por los representantes legales de la o las casas de bolsa involucradas, adjuntando los documentos que acrediten su personalidad, debiendo designar un representante común y señalar domicilio para oír y recibir notificaciones.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["LGAAS — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---

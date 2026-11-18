@@ -29,6 +29,8 @@ IV. Maquinaria naval;
 
 V. Instalaciones eléctricas, electrónicas y de control;
 
-VI. Mantenimiento y reparaciones; VII. Radiocomunicaciones, y
+VI. Mantenimiento y reparaciones;
+
+VII. Radiocomunicaciones, y
 
 VIII. Las demás que determine la [Dirección General](articulo-10.md).

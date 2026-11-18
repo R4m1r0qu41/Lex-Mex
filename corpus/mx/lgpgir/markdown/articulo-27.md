@@ -23,7 +23,9 @@ I. Promover la prevención de la generación y la valorización de los residuos 
 
 II. Establecer modalidades de manejo que respondan a las particularidades de los residuos y de los materiales que los constituyan;
 
-III. Atender a las necesidades específicas de ciertos generadores que presentan características peculiares; IV. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados; Fracción reformada DOF 08-05-2023
+III. Atender a las necesidades específicas de ciertos generadores que presentan características peculiares;
+
+IV. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados; Fracción reformada DOF 08-05-2023
 
 V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible, y Fracción reformada DOF 08-05-2023
 

@@ -29,7 +29,9 @@ IV.- Cambiar de destinatario.
 
 V.- Modificar las condiciones de su entrega.
 
-VI.- Ampliar o reducir el plazo de conservación para la entrega de su correspondencia y envíos en los términos que fijen las disposiciones reglamentarias. VII.- Obtener informes sobre envíos.
+VI.- Ampliar o reducir el plazo de conservación para la entrega de su correspondencia y envíos en los términos que fijen las disposiciones reglamentarias.
+
+VII.- Obtener informes sobre envíos.
 
 VIII.- Percibir las indemnizaciones siguientes:
 

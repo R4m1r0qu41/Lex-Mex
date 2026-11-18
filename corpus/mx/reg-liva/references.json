@@ -24,26 +24,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 37,
-        "end_char": 47
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso h",
-        "start_char": 49,
-        "end_char": 57
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 65,
-        "end_char": 77
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -59,20 +40,7 @@
     "end_char": 27,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 33,
-        "end_char": 43
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 45,
-        "end_char": 59
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -88,20 +56,7 @@
     "end_char": 1265,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1271,
-        "end_char": 1281
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 1283,
-        "end_char": 1297
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -117,20 +72,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 37,
-        "end_char": 48
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 50,
-        "end_char": 58
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -184,12 +126,6 @@
         "text": "último párrafo",
         "start_char": 35,
         "end_char": 49
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 168,
-        "end_char": 182
       }
     ],
     "basis": "express_cross_reference",
@@ -253,20 +189,7 @@
     "end_char": 290,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:5",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 296,
-        "end_char": 306
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 308,
-        "end_char": 316
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -282,20 +205,7 @@
     "end_char": 829,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:5",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 835,
-        "end_char": 846
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 848,
-        "end_char": 856
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -636,14 +546,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 37,
-        "end_char": 51
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -887,12 +790,6 @@
         "text": "segundo párrafo",
         "start_char": 53,
         "end_char": 68
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 172,
-        "end_char": 187
       }
     ],
     "basis": "express_cross_reference",
@@ -962,14 +859,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 37,
-        "end_char": 51
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -985,20 +875,7 @@
     "end_char": 171,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 177,
-        "end_char": 188
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 190,
-        "end_char": 198
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1542,20 +1419,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 37,
-        "end_char": 47
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 49,
-        "end_char": 57
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1606,12 +1470,6 @@
         "text": "último párrafo",
         "start_char": 34,
         "end_char": 48
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 391,
-        "end_char": 406
       }
     ],
     "basis": "express_cross_reference",
@@ -1716,20 +1574,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 37,
-        "end_char": 47
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 49,
-        "end_char": 57
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1862,20 +1707,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 37,
-        "end_char": 47
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 49,
-        "end_char": 57
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1914,20 +1746,7 @@
     "end_char": 31,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 37,
-        "end_char": 47
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 49,
-        "end_char": 57
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

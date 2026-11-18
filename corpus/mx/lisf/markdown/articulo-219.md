@@ -21,7 +21,9 @@ Para la constitución y valuación de las reservas técnicas a que se refieren l
 
 Dichos métodos actuariales deberán cumplir con los siguientes requisitos:
 
-I. Apegarse a las disposiciones de carácter general a que se refiere el artículo [218](articulo-218.md) de esta Ley; II. Ser elaborados y firmados por un actuario con cédula profesional, que además cuente con la certificación vigente emitida para este propósito por el colegio profesional de la especialidad o que acredite ante la Comisión que tiene los conocimientos requeridos para este efecto en la forma y términos que determine la propia Comisión mediante disposiciones de carácter general, y
+I. Apegarse a las disposiciones de carácter general a que se refiere el artículo [218](articulo-218.md) de esta Ley;
+
+II. Ser elaborados y firmados por un actuario con cédula profesional, que además cuente con la certificación vigente emitida para este propósito por el colegio profesional de la especialidad o que acredite ante la Comisión que tiene los conocimientos requeridos para este efecto en la forma y términos que determine la propia Comisión mediante disposiciones de carácter general, y
 
 III. Que cuenten con un dictamen favorable de que cumplen con lo establecido en las disposiciones de carácter general a que se refiere el artículo [218](articulo-218.md) de este ordenamiento, elaborado y firmado por un actuario independiente que cumpla con los requisitos previstos en la fracción anterior.
 

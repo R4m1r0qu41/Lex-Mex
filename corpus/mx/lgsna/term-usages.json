@@ -10,57 +10,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:778-794",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:779-795",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 778,
-    "end_char": 794
+    "start_char": 779,
+    "end_char": 795
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:799-817",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:800-818",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 799,
-    "end_char": 817
+    "start_char": 800,
+    "end_char": 818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:823-843",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:824-844",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:secretaria-ejecutiva",
     "span": "Secretaría Ejecutiva",
-    "start_char": 823,
-    "end_char": 843
+    "start_char": 824,
+    "end_char": 844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1011-1044",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1012-1045",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-de-participacion-ciudadana",
     "span": "Comité de Participación Ciudadana",
-    "start_char": 1011,
-    "end_char": 1044
+    "start_char": 1012,
+    "end_char": 1045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1396-1415",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1397-1416",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:servidores-publicos",
     "span": "Servidores públicos",
-    "start_char": 1396,
-    "end_char": 1415
+    "start_char": 1397,
+    "end_char": 1416
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1610-1643",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:2:term-usage:1611-1644",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional-de-fiscalizacion",
     "span": "Sistema Nacional de Fiscalización",
-    "start_char": 1610,
-    "end_char": 1643
+    "start_char": 1611,
+    "end_char": 1644
   },
   {
     "schema_version": "0.1.0",
@@ -100,21 +100,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:1542-1560",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:1543-1561",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1542,
-    "end_char": 1560
+    "start_char": 1543,
+    "end_char": 1561
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:1651-1671",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:3:term-usage:1652-1672",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:secretaria-ejecutiva",
     "span": "Secretaría Ejecutiva",
-    "start_char": 1651,
-    "end_char": 1671
+    "start_char": 1652,
+    "end_char": 1672
   },
   {
     "schema_version": "0.1.0",
@@ -307,48 +307,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2006-2024",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2007-2025",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 2006,
-    "end_char": 2024
+    "start_char": 2007,
+    "end_char": 2025
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2215-2231",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2216-2232",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistemas-locales",
     "span": "Sistemas Locales",
-    "start_char": 2215,
-    "end_char": 2231
+    "start_char": 2216,
+    "end_char": 2232
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2607-2625",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:2608-2626",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 2607,
-    "end_char": 2625
+    "start_char": 2608,
+    "end_char": 2626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:3146-3162",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:3147-3163",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 3146,
-    "end_char": 3162
+    "start_char": 3147,
+    "end_char": 3163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:3306-3333",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:9:term-usage:3307-3334",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:organos-internos-de-control",
     "span": "Órganos internos de control",
-    "start_char": 3306,
-    "end_char": 3333
+    "start_char": 3307,
+    "end_char": 3334
   },
   {
     "schema_version": "0.1.0",
@@ -955,111 +955,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1582-1600",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1583-1601",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1582,
-    "end_char": 1600
+    "start_char": 1583,
+    "end_char": 1601
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1637-1655",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1638-1656",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 1637,
-    "end_char": 1655
+    "start_char": 1638,
+    "end_char": 1656
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1904-1937",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:1905-1938",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-de-participacion-ciudadana",
     "span": "Comité de Participación Ciudadana",
-    "start_char": 1904,
-    "end_char": 1937
+    "start_char": 1905,
+    "end_char": 1938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2091-2109",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2092-2110",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 2091,
-    "end_char": 2109
+    "start_char": 2092,
+    "end_char": 2110
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2396-2412",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2397-2413",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 2396,
-    "end_char": 2412
+    "start_char": 2397,
+    "end_char": 2413
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2865-2883",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2866-2884",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 2865,
-    "end_char": 2883
+    "start_char": 2866,
+    "end_char": 2884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2950-2968",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:2951-2969",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 2950,
-    "end_char": 2968
+    "start_char": 2951,
+    "end_char": 2969
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3007-3025",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3008-3026",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 3007,
-    "end_char": 3025
+    "start_char": 3008,
+    "end_char": 3026
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3044-3062",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3045-3063",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 3044,
-    "end_char": 3062
+    "start_char": 3045,
+    "end_char": 3063
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3099-3117",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3100-3118",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 3099,
-    "end_char": 3117
+    "start_char": 3100,
+    "end_char": 3118
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3438-3454",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3439-3455",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 3438,
-    "end_char": 3454
+    "start_char": 3439,
+    "end_char": 3455
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3478-3496",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:21:term-usage:3479-3497",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:21",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 3478,
-    "end_char": 3496
+    "start_char": 3479,
+    "end_char": 3497
   },
   {
     "schema_version": "0.1.0",
@@ -1279,12 +1279,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:31:term-usage:1689-1705",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:31:term-usage:1690-1706",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:31",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistemas-locales",
     "span": "Sistemas Locales",
-    "start_char": 1689,
-    "end_char": 1705
+    "start_char": 1690,
+    "end_char": 1706
   },
   {
     "schema_version": "0.1.0",
@@ -1495,147 +1495,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:839-857",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:840-858",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 839,
-    "end_char": 857
+    "start_char": 840,
+    "end_char": 858
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:906-924",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:907-925",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 906,
-    "end_char": 924
+    "start_char": 907,
+    "end_char": 925
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:944-962",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:945-963",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 944,
-    "end_char": 962
+    "start_char": 945,
+    "end_char": 963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1236-1254",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1237-1255",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1236,
-    "end_char": 1254
+    "start_char": 1237,
+    "end_char": 1255
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1285-1303",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1286-1304",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 1285,
-    "end_char": 1303
+    "start_char": 1286,
+    "end_char": 1304
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1366-1384",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1367-1385",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1366,
-    "end_char": 1384
+    "start_char": 1367,
+    "end_char": 1385
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1417-1435",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1418-1436",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 1417,
-    "end_char": 1435
+    "start_char": 1418,
+    "end_char": 1436
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1487-1503",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1488-1504",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1487,
-    "end_char": 1503
+    "start_char": 1488,
+    "end_char": 1504
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1550-1568",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1551-1569",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 1550,
-    "end_char": 1568
+    "start_char": 1551,
+    "end_char": 1569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1585-1603",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1586-1604",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1585,
-    "end_char": 1603
+    "start_char": 1586,
+    "end_char": 1604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1842-1860",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1843-1861",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1842,
-    "end_char": 1860
+    "start_char": 1843,
+    "end_char": 1861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1923-1941",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:1924-1942",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 1923,
-    "end_char": 1941
+    "start_char": 1924,
+    "end_char": 1942
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2021-2039",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2022-2040",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
     "span": "Comité Coordinador",
-    "start_char": 2021,
-    "end_char": 2039
+    "start_char": 2022,
+    "end_char": 2040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2045-2063",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2046-2064",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 2045,
-    "end_char": 2063
+    "start_char": 2046,
+    "end_char": 2064
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2273-2291",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2274-2292",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 2273,
-    "end_char": 2291
+    "start_char": 2274,
+    "end_char": 2292
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2564-2582",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:term-usage:2565-2583",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 2564,
-    "end_char": 2582
+    "start_char": 2565,
+    "end_char": 2583
   },
   {
     "schema_version": "0.1.0",
@@ -1657,21 +1657,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:36:term-usage:948-964",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:36:term-usage:949-965",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 948,
-    "end_char": 964
+    "start_char": 949,
+    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:36:term-usage:1022-1035",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:36:term-usage:1023-1036",
     "provision_id": "urn:lex-mx:federal:statute:lgsna:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgsna:term:sistemas-locales",
     "span": "Sistema Local",
-    "start_char": 1022,
-    "end_char": 1035
+    "start_char": 1023,
+    "end_char": 1036
   },
   {
     "schema_version": "0.1.0",

@@ -23,7 +23,9 @@ Asimismo, los auditores externos deberán suministrar al Comité de Supervisión
 
 Las personas que proporcionen servicios de auditoría externa responderán por los daños y perjuicios que ocasionen a la Sociedad Cooperativa de Ahorro y Préstamo que los contrate, cuando:
 
-I. Cuando por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que, en razón de su profesión u oficio, debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión. II. Cuando intencionalmente, en el dictamen u opinión:
+I. Cuando por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que, en razón de su profesión u oficio, debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión.
+
+II. Cuando intencionalmente, en el dictamen u opinión:
 
 a) Omitan información relevante de la que tengan conocimiento, cuando deba contenerse en su dictamen u opinión.
 

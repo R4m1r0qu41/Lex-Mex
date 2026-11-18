@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["REG-LOPGJDF — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -33,7 +33,9 @@ VI. Mantener la confidencialidad del diálogo que se establezca durante el proce
 
 VII. Intervenir conjuntamente con el Instituto de Formación Profesional en el diseño del plan curricular de asignaturas del Programa de Capacitación de Formación de Mediadores;
 
-VIII. Propiciar la capacitación entre el personal de las unidades administrativas de la Institución que lo requieran, dentro del Programa de Capacitación de Formación de Mediadores; IX. Promover y difundir conjuntamente con el Instituto de Formación Profesional conferencias, coloquios, talleres, cursos, seminarios, simposios o similares, en materia de mediación y conciliación;
+VIII. Propiciar la capacitación entre el personal de las unidades administrativas de la Institución que lo requieran, dentro del Programa de Capacitación de Formación de Mediadores;
+
+IX. Promover y difundir conjuntamente con el Instituto de Formación Profesional conferencias, coloquios, talleres, cursos, seminarios, simposios o similares, en materia de mediación y conciliación;
 
 X. Seleccionar al personal que se adscriba a la Unidad, con base en la determinación del perfil del puesto;
 

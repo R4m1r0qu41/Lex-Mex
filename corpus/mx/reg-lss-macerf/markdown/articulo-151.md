@@ -31,7 +31,7 @@ IV. El patrón, al formular la aclaración, deberá presentar los cálculos corr
 
 V. El Instituto podrá desahogar la aclaración con base en la información y documentos presentados por el patrón, verificando la validez de los mismos.
 
-Si como resultado de la verificación de la información y documentos presentados por el patrón, se resuelve la aclaración como procedente, el Instituto cancelará el crédito emitido. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN En caso de que la aclaración se resuelva parcialmente procedente, el Instituto podrá emitir un nuevo crédito por las diferencias correspondientes. Cuando se resuelva que la aclaración es improcedente, quedará firme el crédito respectivo;
+Si como resultado de la verificación de la información y documentos presentados por el patrón, se resuelve la aclaración como procedente, el Instituto cancelará el crédito emitido. En caso de que la aclaración se resuelva parcialmente procedente, el Instituto podrá emitir un nuevo crédito por las diferencias correspondientes. Cuando se resuelva que la aclaración es improcedente, quedará firme el crédito respectivo;
 
 VI. La aclaración será resuelta en un plazo de veinte días hábiles. De no resolverse la aclaración en el plazo señalado, se suspenderá el plazo para efectuar el pago del importe sujeto a aclaración, y
 

@@ -19,4 +19,6 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 Para ser promovido a Subagente será necesario que el [Integrante de Carrera](articulo-2.md) cumpla con los requisitos siguientes:
 
-I. Haber servido cuando menos un año en la [Institución](articulo-2.md), y II. Reunir los requisitos señalados en las fracciones III, IV, VI, VII y X del artículo 85 del [Reglamento](articulo-2.md).
+I. Haber servido cuando menos un año en la [Institución](articulo-2.md), y
+
+II. Reunir los requisitos señalados en las fracciones III, IV, VI, VII y X del artículo 85 del [Reglamento](articulo-2.md).

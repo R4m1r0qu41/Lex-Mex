@@ -7,8 +7,8 @@ provision_type: article
 number: "59 Sexies"
 aliases: ["LGAMVLV — Artículo 59 Sexies"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -27,7 +27,9 @@ III. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres
 
 IV. No desempeñar ningún otro puesto, empleo, cargo o comisión, con excepción de los honoríficos y los relacionados con la docencia;
 
-V. No estar condenada por delito relacionado con violencia contra las mujeres en razón de género; VI. No estar inhabilitada para el ejercicio de un cargo público a nivel estatal o federal, y
+V. No estar condenada por delito relacionado con violencia contra las mujeres en razón de género;
+
+VI. No estar inhabilitada para el ejercicio de un cargo público a nivel estatal o federal, y
 
 VII. Los demás que establezcan otras disposiciones legales aplicables.
 

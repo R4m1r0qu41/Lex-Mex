@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LFSA — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf
 source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 ---
@@ -31,4 +31,6 @@ V. Establecer en coordinación con la Secretaría de Salud el sistema de alerta 
 
 VI. Retener o destruir bienes de origen animal o alimentos para animales con presencia de contaminantes;
 
-VII. Establecer los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos y otros productos equivalentes; y VIII. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.
+VII. Establecer los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos y otros productos equivalentes; y
+
+VIII. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.

@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["LUACH — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf
 source_sha256: eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5
 ---

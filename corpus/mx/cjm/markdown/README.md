@@ -40,6 +40,8 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 30 Ter](articulo-30-Ter.md)
 - [Artículo 30 Quáter](articulo-30-Quáter.md)
 - [Artículo 30 Quintus](articulo-30-Quintus.md)
+- [Artículo 30 Sextus](articulo-30-Sextus.md)
+- [Artículo 30 Séptimus](articulo-30-Séptimus.md)
 - [Artículo 31](articulo-31.md)
 - [Artículo 32](articulo-32.md)
 - [Artículo 33](articulo-33.md)

@@ -7,8 +7,8 @@ provision_type: article
 number: "204"
 aliases: ["REG-LPF — Artículo 204"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -23,7 +23,9 @@ I. Elaborar y proponer proyectos de resolución de los asuntos que le sean turna
 
 II. Participar en las sesiones, acuerdos y resoluciones del [Consejo Federal](articulo-2.md), con voz y voto;
 
-III. Formular voto particular en caso de estimarlo necesario; IV. Integrar las Comisiones que el Pleno determine;
+III. Formular voto particular en caso de estimarlo necesario;
+
+IV. Integrar las Comisiones que el Pleno determine;
 
 V. Dar cuenta, en la sesión del Pleno que corresponda, de los proyectos de resolución, señalando los argumentos y consideraciones jurídicas que sustenten el sentido de los mismos, y
 

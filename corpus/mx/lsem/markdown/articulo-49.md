@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["LSEM — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf
 source_sha256: 012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21
 ---
@@ -21,7 +21,9 @@ La [Secretaría](articulo-1-BIS.md) contratará, en los términos del [Reglament
 
 La contratación correspondiente se realizará sujeta a la disponibilidad presupuestaria y en términos de las disposiciones que resulten aplicables.
 
-La Secretaría hará extensivo el seguro de gastos médicos al cónyuge, concubina o concubinario y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el [Miembro del Servicio Exterior](articulo-1-BIS.md), o descendente, conforme a los siguientes criterios: I. Esta prestación se otorgará a los hijos o las hijas menores de edad del Miembro del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior;
+La Secretaría hará extensivo el seguro de gastos médicos al cónyuge, concubina o concubinario y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el [Miembro del Servicio Exterior](articulo-1-BIS.md), o descendente, conforme a los siguientes criterios:
+
+I. Esta prestación se otorgará a los hijos o las hijas menores de edad del Miembro del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior;
 
 II. Asimismo se otorgará a los hijos o las hijas menores de edad de los cónyuges, concubina o concubinario de los Miembros del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior, y
 

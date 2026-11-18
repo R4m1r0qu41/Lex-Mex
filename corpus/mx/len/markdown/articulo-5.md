@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LEN — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf
 source_sha256: 1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a
 ---

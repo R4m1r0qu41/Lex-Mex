@@ -7,8 +7,8 @@ provision_type: article
 number: "112"
 aliases: ["REG-LOPGJDF — Artículo 112"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -23,7 +23,9 @@ I. La antigüedad y antecedentes en el servicio;
 
 II. Los méritos y eficiencia demostrados en el desempeño de su cargo;
 
-III. Los cursos de actualización y especialización y los resultados obtenidos en los mismos; IV. La acreditación de los cursos de profesionalización que determine el Instituto de Formación Profesional;
+III. Los cursos de actualización y especialización y los resultados obtenidos en los mismos;
+
+IV. La acreditación de los cursos de profesionalización que determine el Instituto de Formación Profesional;
 
 V. Los resultados obtenidos en las evaluaciones que se practiquen;
 

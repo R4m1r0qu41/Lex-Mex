@@ -19,7 +19,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 Las autorizaciones para el funcionamiento de Centros de almacenamiento o de transformación, incluidos los móviles, así como de los Centros no integrados a un centro de transformación primaria, deberán contener, según sea el caso, lo siguiente:
 
-I. Nombre o denominación o razón social, domicilio y, en su caso, teléfono y correo electrónico del titular; II. Nombre y ubicación del Centro y coordenadas geográficas;
+I. Nombre o denominación o razón social, domicilio y, en su caso, teléfono y correo electrónico del titular;
+
+II. Nombre y ubicación del Centro y coordenadas geográficas;
 
 III. Giro mercantil específico del Centro;
 

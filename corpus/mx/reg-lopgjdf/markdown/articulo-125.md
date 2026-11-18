@@ -7,8 +7,8 @@ provision_type: article
 number: "125"
 aliases: ["REG-LOPGJDF — Artículo 125"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -39,7 +39,9 @@ IX. Presidente de la Cámara Nacional de Comercio;
 
 X. Presidente del Consejo Ciudadano de Seguridad Pública y Procuración de Justicia del Distrito Federal;
 
-XI. Académicos y representantes de instituciones públicas de educación superior; XII. Especialistas e Investigadores vinculados con el estudio de las áreas de procuración e impartición de justicia;
+XI. Académicos y representantes de instituciones públicas de educación superior;
+
+XII. Especialistas e Investigadores vinculados con el estudio de las áreas de procuración e impartición de justicia;
 
 XIII. Coordinador General del Instituto de Formación Profesional;
 

@@ -23,7 +23,9 @@ I. Denominación de la entidad pública o, en su caso, nombre o denominación o 
 
 II. Nombre del personal técnico y operativo designado para realizar la colecta;
 
-III. Fines de la colecta del Recurso biológico forestal y de su utilización; IV. Métodos, técnicas y equipo para la colecta;
+III. Fines de la colecta del Recurso biológico forestal y de su utilización;
+
+IV. Métodos, técnicas y equipo para la colecta;
 
 V. Duración de la colecta, la cual no podrá exceder de dos años;
 

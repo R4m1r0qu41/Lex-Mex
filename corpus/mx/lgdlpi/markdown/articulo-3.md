@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LGDLPI — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf
 source_sha256: c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d
 ---

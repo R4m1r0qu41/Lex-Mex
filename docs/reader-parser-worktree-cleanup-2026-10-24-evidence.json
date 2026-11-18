@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-24",
+  "deleted": [
+    {
+      "path": "/Users/jr/Dev/.work-backups/lex-mex-reader-retired-2026-10-24/reader-four/ignored/.work",
+      "allocated_kib_before": 9542220
+    },
+    {
+      "path": "/Users/jr/Dev/.work-backups/lex-mex-reader-retired-2026-10-24/reader-four/ignored/target",
+      "allocated_kib_before": 2074340
+    },
+    {
+      "path": "/Users/jr/Dev/.work-backups/lex-mex-reader-retired-2026-10-24/reader-five/ignored/.work",
+      "allocated_kib_before": 213412
+    },
+    {
+      "path": "/Users/jr/Dev/lex-mex-parser-split/.work",
+      "allocated_kib_before": 9175528
+    }
+  ],
+  "deleted_allocated_kib": 21005500,
+  "retained_store": "/Users/jr/Dev/lex-mex/.work/retained-reader-parser-evidence-2026-10-24",
+  "retained_compressed_unique_bytes": 551190901,
+  "retained_unique_objects": 3946,
+  "retained_file_mappings": 55914,
+  "review_documents_preserved": 10,
+  "protected": [
+    "/Users/jr/Dev/lex-mex/.work/reader-r7-review-20261024/publication",
+    "/Users/jr/Dev/lex-mex/derived/db",
+    "/Users/jr/Dev/lex-mex-db/derived/db",
+    "/Users/jr/Dev/lex-mex-reader/.work/r7-webpage-readiness/publication"
+  ],
+  "retained_manifest_sha256": "a97307171640ace766ce8bbe4f28edf7ffcee2bd965e7d7b3501f90948708d33",
+  "retired_worktrees": {
+    "windowed": {
+      "path": "/Users/jr/Dev/lex-mex-reader-windowed",
+      "branch_preserved": "spike/windowed-reader",
+      "unique_commits": 0,
+      "source_edits": 0
+    },
+    "parser": {
+      "path": "/Users/jr/Dev/lex-mex-parser-split",
+      "branch_preserved": "integration/r7-parser-sync-2026-10-24",
+      "unique_commits": 0,
+      "source_edits": 0
+    }
+  },
+  "top_level_project_directories": [
+    "/Users/jr/Dev/lex-mex",
+    "/Users/jr/Dev/lex-mex-db",
+    "/Users/jr/Dev/lex-mex-reader"
+  ]
+}

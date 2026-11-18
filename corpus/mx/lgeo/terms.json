@@ -150,7 +150,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "fraction": "XIV",
     "start_char": 3347,
-    "end_char": 3387,
+    "end_char": 3388,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgeo",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "fraction": "XV",
-    "start_char": 3387,
-    "end_char": 4024,
+    "start_char": 3388,
+    "end_char": 4025,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgeo",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "fraction": "XVI",
-    "start_char": 4024,
-    "end_char": 4261,
+    "start_char": 4025,
+    "end_char": 4262,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgeo",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "fraction": "XVII",
-    "start_char": 4261,
-    "end_char": 4576,
+    "start_char": 4262,
+    "end_char": 4577,
     "basis": "express_definition"
   }
 ]

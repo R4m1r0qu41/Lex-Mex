@@ -1,13 +1,24 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:actividades-turisticas",
+    "term": "Actividades Turísticas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 232,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgt:term:atlas-turistico-de-mexico",
     "term": "Atlas Turístico de México",
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "II",
-    "start_char": 231,
-    "end_char": 523,
+    "start_char": 232,
+    "end_char": 524,
     "basis": "express_definition"
   },
   {
@@ -17,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "III",
-    "start_char": 523,
-    "end_char": 573,
+    "start_char": 524,
+    "end_char": 574,
     "basis": "express_definition"
   },
   {
@@ -28,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "IV",
-    "start_char": 573,
-    "end_char": 621,
+    "start_char": 574,
+    "end_char": 622,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "VI",
-    "start_char": 669,
-    "end_char": 734,
+    "start_char": 670,
+    "end_char": 735,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "VII",
-    "start_char": 734,
-    "end_char": 796,
+    "start_char": 735,
+    "end_char": 797,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "VIII",
-    "start_char": 796,
-    "end_char": 848,
+    "start_char": 797,
+    "end_char": 849,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "IX",
-    "start_char": 848,
-    "end_char": 882,
+    "start_char": 849,
+    "end_char": 883,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "X",
-    "start_char": 882,
-    "end_char": 1302,
+    "start_char": 883,
+    "end_char": 1303,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XI",
-    "start_char": 1302,
-    "end_char": 1489,
+    "start_char": 1303,
+    "end_char": 1490,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XII",
-    "start_char": 1489,
-    "end_char": 1536,
+    "start_char": 1490,
+    "end_char": 1537,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XIII",
-    "start_char": 1536,
-    "end_char": 1692,
+    "start_char": 1537,
+    "end_char": 1693,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XIV",
-    "start_char": 1692,
-    "end_char": 1879,
+    "start_char": 1693,
+    "end_char": 1880,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XV",
-    "start_char": 1879,
-    "end_char": 1929,
+    "start_char": 1880,
+    "end_char": 1930,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XVI",
-    "start_char": 1929,
-    "end_char": 2100,
+    "start_char": 1930,
+    "end_char": 2101,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XVII",
-    "start_char": 2100,
-    "end_char": 2182,
+    "start_char": 2101,
+    "end_char": 2183,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XVIII",
-    "start_char": 2182,
-    "end_char": 2358,
+    "start_char": 2183,
+    "end_char": 2359,
     "basis": "express_definition"
   },
   {
@@ -182,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XIX",
-    "start_char": 2358,
-    "end_char": 3024,
+    "start_char": 2359,
+    "end_char": 3025,
     "basis": "express_definition"
   },
   {
@@ -193,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XX",
-    "start_char": 3024,
-    "end_char": 3285,
+    "start_char": 3025,
+    "end_char": 3286,
     "basis": "express_definition"
   },
   {
@@ -204,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgt",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
     "fraction": "XXI",
-    "start_char": 3285,
-    "end_char": 3639,
+    "start_char": 3286,
+    "end_char": 3640,
     "basis": "express_definition"
   }
 ]

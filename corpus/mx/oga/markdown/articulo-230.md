@@ -38,7 +38,9 @@ VI.- Noticiarán cuanto ocurra y fuere digno de notarse, ya sea en la población
 
 VII.- Cuidarán también de que las insignias y banderas estén siempre claras, y cuando se larguen banderas de señales vayan del mismo modo.
 
-VIII.- Tendrán a su inmediación un escandallo para cerciorarse frecuentemente, cuando hubiere mucho viento, de que el buque se mantiene firme sobre sus amarras, participando si alguna embarcación de las que estuvieren inmediatas se aproxima, bien sea por filar o por garrear. IX.- Deberán conocer por sus números y colores las banderas del plan de señales, la numeral de su buque y las de los demás de la Escuadra o División, y asimismo las banderas de las naciones extranjeras.
+VIII.- Tendrán a su inmediación un escandallo para cerciorarse frecuentemente, cuando hubiere mucho viento, de que el buque se mantiene firme sobre sus amarras, participando si alguna embarcación de las que estuvieren inmediatas se aproxima, bien sea por filar o por garrear.
+
+IX.- Deberán conocer por sus números y colores las banderas del plan de señales, la numeral de su buque y las de los demás de la Escuadra o División, y asimismo las banderas de las naciones extranjeras.
 
 X.- No permitirán atraque bote alguno sin previo permiso, obligándoles a aguantarse sobre los remos en caso de que tengan que esperar a las personas que hubieren conducido a bordo. Cuando se mande embarcar un bote será de su obligación avisar al Oficial de guardia hallarse listo.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "76"
 aliases: ["LFGR — Artículo 76"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
 source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 ---
@@ -17,7 +17,9 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 76
 
-[Para la imposición de las sanciones administrativas serán tomados en consideración los elementos siguientes: I. La gravedad de la conducta que se atribuya a la persona servidora pública;
+[Para la imposición de las sanciones administrativas serán tomados en consideración los elementos siguientes:
+
+I. La gravedad de la conducta que se atribuya a la persona servidora pública;
 
 II. La necesidad de suprimir conductas y/o prácticas que afecten la imagen y el debido funcionamiento de la [Fiscalía General](articulo-9.md);
 

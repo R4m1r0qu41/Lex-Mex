@@ -73,48 +73,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:974-986",
+    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:975-987",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:1",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 974,
-    "end_char": 986
+    "start_char": 975,
+    "end_char": 987
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:989-998",
+    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:990-999",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:1",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 989,
-    "end_char": 998
+    "start_char": 990,
+    "end_char": 999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1294-1303",
+    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1295-1304",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:1",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1294,
-    "end_char": 1303
+    "start_char": 1295,
+    "end_char": 1304
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1341-1362",
+    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1342-1363",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:1",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1341,
-    "end_char": 1362
+    "start_char": 1342,
+    "end_char": 1363
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1541-1550",
+    "id": "urn:lex-mx:federal:statute:lissste:article:1:term-usage:1542-1551",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:1",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1541,
-    "end_char": 1550
+    "start_char": 1542,
+    "end_char": 1551
   },
   {
     "schema_version": "0.1.0",
@@ -253,354 +253,354 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1523-1544",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1524-1545",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1523,
-    "end_char": 1544
+    "start_char": 1524,
+    "end_char": 1545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1678-1689",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1679-1690",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 1678,
-    "end_char": 1689
+    "start_char": 1679,
+    "end_char": 1690
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1770-1779",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1771-1780",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1770,
-    "end_char": 1779
+    "start_char": 1771,
+    "end_char": 1780
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1821-1832",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1822-1833",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 1821,
-    "end_char": 1832
+    "start_char": 1822,
+    "end_char": 1833
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1910-1922",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1911-1923",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 1910,
-    "end_char": 1922
+    "start_char": 1911,
+    "end_char": 1923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1924-1933",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1925-1934",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 1924,
-    "end_char": 1933
+    "start_char": 1925,
+    "end_char": 1934
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1946-1955",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:1947-1956",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1946,
-    "end_char": 1955
+    "start_char": 1947,
+    "end_char": 1956
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2198-2219",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2199-2220",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 2198,
-    "end_char": 2219
+    "start_char": 2199,
+    "end_char": 2220
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2552-2562",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2553-2563",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 2552,
-    "end_char": 2562
+    "start_char": 2553,
+    "end_char": 2563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2882-2892",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:2883-2893",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 2882,
-    "end_char": 2892
+    "start_char": 2883,
+    "end_char": 2893
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3164-3174",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3165-3175",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 3164,
-    "end_char": 3174
+    "start_char": 3165,
+    "end_char": 3175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3488-3497",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3489-3498",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 3488,
-    "end_char": 3497
+    "start_char": 3489,
+    "end_char": 3498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3859-3869",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:3860-3870",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 3859,
-    "end_char": 3869
+    "start_char": 3860,
+    "end_char": 3870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4026-4036",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4027-4037",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 4026,
-    "end_char": 4036
+    "start_char": 4027,
+    "end_char": 4037
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4322-4331",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4323-4332",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 4322,
-    "end_char": 4331
+    "start_char": 4323,
+    "end_char": 4332
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4348-4356",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4349-4357",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 4348,
-    "end_char": 4356
+    "start_char": 4349,
+    "end_char": 4357
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4589-4594",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4590-4595",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Renta",
-    "start_char": 4589,
-    "end_char": 4594
+    "start_char": 4590,
+    "end_char": 4595
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4600-4623",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4601-4624",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:seguro-de-sobrevivencia",
     "span": "Seguro de Sobrevivencia",
-    "start_char": 4600,
-    "end_char": 4623
+    "start_char": 4601,
+    "end_char": 4624
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4632-4643",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4633-4644",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aseguradora",
     "span": "Aseguradora",
-    "start_char": 4632,
-    "end_char": 4643
+    "start_char": 4633,
+    "end_char": 4644
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4677-4682",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4678-4683",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Renta",
-    "start_char": 4677,
-    "end_char": 4682
+    "start_char": 4678,
+    "end_char": 4683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4685-4702",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:4686-4703",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:retiro-programado",
     "span": "Retiro Programado",
-    "start_char": 4685,
-    "end_char": 4702
+    "start_char": 4686,
+    "end_char": 4703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5202-5207",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5203-5208",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 5202,
-    "end_char": 5207
+    "start_char": 5203,
+    "end_char": 5208
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5300-5309",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5301-5310",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5300,
-    "end_char": 5309
+    "start_char": 5301,
+    "end_char": 5310
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5442-5458",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5443-5459",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 5442,
-    "end_char": 5458
+    "start_char": 5443,
+    "end_char": 5459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5487-5504",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5488-5505",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:seguro-de-pension",
     "span": "Seguro de Pensión",
-    "start_char": 5487,
-    "end_char": 5504
+    "start_char": 5488,
+    "end_char": 5505
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5527-5538",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5528-5539",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aseguradora",
     "span": "Aseguradora",
-    "start_char": 5527,
-    "end_char": 5538
+    "start_char": 5528,
+    "end_char": 5539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5612-5621",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5613-5622",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5612,
-    "end_char": 5621
+    "start_char": 5613,
+    "end_char": 5622
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5832-5849",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5833-5850",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuenta-individual",
     "span": "Cuenta Individual",
-    "start_char": 5832,
-    "end_char": 5849
+    "start_char": 5833,
+    "end_char": 5850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5912-5923",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:5913-5924",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 5912,
-    "end_char": 5923
+    "start_char": 5913,
+    "end_char": 5924
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6175-6181",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6176-6182",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Rentas",
-    "start_char": 6175,
-    "end_char": 6181
+    "start_char": 6176,
+    "end_char": 6182
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6213-6223",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6214-6224",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 6213,
-    "end_char": 6223
+    "start_char": 6214,
+    "end_char": 6224
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6262-6278",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6263-6279",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 6262,
-    "end_char": 6278
+    "start_char": 6263,
+    "end_char": 6279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6338-6349",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6339-6350",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 6338,
-    "end_char": 6349
+    "start_char": 6339,
+    "end_char": 6350
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6424-6440",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6425-6441",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 6424,
-    "end_char": 6440
+    "start_char": 6425,
+    "end_char": 6441
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6522-6532",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6523-6533",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 6522,
-    "end_char": 6532
+    "start_char": 6523,
+    "end_char": 6533
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6632-6637",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6633-6638",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 6632,
-    "end_char": 6637
+    "start_char": 6633,
+    "end_char": 6638
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6788-6805",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:6789-6806",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuenta-individual",
     "span": "Cuenta Individual",
-    "start_char": 6788,
-    "end_char": 6805
+    "start_char": 6789,
+    "end_char": 6806
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:7036-7048",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:7038-7050",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 7036,
-    "end_char": 7048
+    "start_char": 7038,
+    "end_char": 7050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:7051-7060",
+    "id": "urn:lex-mx:federal:statute:lissste:article:6:term-usage:7053-7062",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 7051,
-    "end_char": 7060
+    "start_char": 7053,
+    "end_char": 7062
   },
   {
     "schema_version": "0.1.0",
@@ -766,48 +766,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:206-222",
+    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:207-223",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 206,
-    "end_char": 222
+    "start_char": 207,
+    "end_char": 223
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:380-392",
+    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:381-393",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 380,
-    "end_char": 392
+    "start_char": 381,
+    "end_char": 393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:395-404",
+    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:396-405",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 395,
-    "end_char": 404
+    "start_char": 396,
+    "end_char": 405
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:506-515",
+    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:507-516",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 506,
-    "end_char": 515
+    "start_char": 507,
+    "end_char": 516
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:559-575",
+    "id": "urn:lex-mx:federal:statute:lissste:article:8:term-usage:560-576",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 559,
-    "end_char": 575
+    "start_char": 560,
+    "end_char": 576
   },
   {
     "schema_version": "0.1.0",
@@ -1612,12 +1612,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:20-bis:term-usage:571-580",
+    "id": "urn:lex-mx:federal:statute:lissste:article:20-bis:term-usage:572-581",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:20-bis",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 571,
-    "end_char": 580
+    "start_char": 572,
+    "end_char": 581
   },
   {
     "schema_version": "0.1.0",
@@ -3637,174 +3637,174 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:369-381",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:370-382",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 369,
-    "end_char": 381
+    "start_char": 370,
+    "end_char": 382
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:384-393",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:385-394",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 384,
-    "end_char": 393
+    "start_char": 385,
+    "end_char": 394
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:901-912",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:902-913",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencia",
-    "start_char": 901,
-    "end_char": 912
+    "start_char": 902,
+    "end_char": 913
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:915-922",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:916-923",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidad",
-    "start_char": 915,
-    "end_char": 922
+    "start_char": 916,
+    "end_char": 923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:1103-1112",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:1104-1113",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1103,
-    "end_char": 1112
+    "start_char": 1104,
+    "end_char": 1113
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:1538-1551",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:1539-1552",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:sueldo-basico",
     "span": "Sueldo Básico",
-    "start_char": 1538,
-    "end_char": 1551
+    "start_char": 1539,
+    "end_char": 1552
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2142-2159",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2143-2160",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:seguro-de-pension",
     "span": "Seguro de Pensión",
-    "start_char": 2142,
-    "end_char": 2159
+    "start_char": 2143,
+    "end_char": 2160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2179-2184",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2180-2185",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Renta",
-    "start_char": 2179,
-    "end_char": 2184
+    "start_char": 2180,
+    "end_char": 2185
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2376-2388",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2377-2389",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 2376,
-    "end_char": 2388
+    "start_char": 2377,
+    "end_char": 2389
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2391-2400",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2392-2401",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 2391,
-    "end_char": 2400
+    "start_char": 2392,
+    "end_char": 2401
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2690-2704",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2691-2705",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:salario-minimo",
     "span": "Salario Mínimo",
-    "start_char": 2690,
-    "end_char": 2704
+    "start_char": 2691,
+    "end_char": 2705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2747-2757",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:2748-2758",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 2747,
-    "end_char": 2757
+    "start_char": 2748,
+    "end_char": 2758
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3047-3064",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3048-3065",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:seguro-de-pension",
     "span": "Seguro de Pensión",
-    "start_char": 3047,
-    "end_char": 3064
+    "start_char": 3048,
+    "end_char": 3065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3084-3089",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3085-3090",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Renta",
-    "start_char": 3084,
-    "end_char": 3089
+    "start_char": 3085,
+    "end_char": 3090
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3100-3113",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3101-3114",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:sueldo-basico",
     "span": "Sueldo Básico",
-    "start_char": 3100,
-    "end_char": 3113
+    "start_char": 3101,
+    "end_char": 3114
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3315-3329",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3316-3330",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:salario-minimo",
     "span": "Salario Mínimo",
-    "start_char": 3315,
-    "end_char": 3329
+    "start_char": 3316,
+    "end_char": 3330
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3336-3347",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3337-3348",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 3336,
-    "end_char": 3347
+    "start_char": 3337,
+    "end_char": 3348
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3609-3619",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3610-3620",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionado",
-    "start_char": 3609,
-    "end_char": 3619
+    "start_char": 3610,
+    "end_char": 3620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3757-3762",
+    "id": "urn:lex-mx:federal:statute:lissste:article:62:term-usage:3758-3763",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:62",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:renta",
     "span": "Renta",
-    "start_char": 3757,
-    "end_char": 3762
+    "start_char": 3758,
+    "end_char": 3763
   },
   {
     "schema_version": "0.1.0",
@@ -6535,84 +6535,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:186-198",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:187-199",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 186,
-    "end_char": 198
+    "start_char": 187,
+    "end_char": 199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:201-210",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:202-211",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 201,
-    "end_char": 210
+    "start_char": 202,
+    "end_char": 211
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:231-241",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:232-242",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportación",
-    "start_char": 231,
-    "end_char": 241
+    "start_char": 232,
+    "end_char": 242
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:364-377",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:365-378",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:sueldo-basico",
     "span": "Sueldo Básico",
-    "start_char": 364,
-    "end_char": 377
+    "start_char": 365,
+    "end_char": 378
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:432-444",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:433-445",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuota-social",
     "span": "Cuota Social",
-    "start_char": 432,
-    "end_char": 444
+    "start_char": 433,
+    "end_char": 445
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:963-969",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:964-970",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuotas",
     "span": "Cuotas",
-    "start_char": 963,
-    "end_char": 969
+    "start_char": 964,
+    "end_char": 970
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:972-984",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:973-985",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportaciones",
-    "start_char": 972,
-    "end_char": 984
+    "start_char": 973,
+    "end_char": 985
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:992-1003",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:993-1004",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionado",
     "span": "Pensionados",
-    "start_char": 992,
-    "end_char": 1003
+    "start_char": 993,
+    "end_char": 1004
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:1205-1215",
+    "id": "urn:lex-mx:federal:statute:lissste:article:102:term-usage:1206-1216",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:102",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:subcuenta",
     "span": "Subcuentas",
-    "start_char": 1205,
-    "end_char": 1215
+    "start_char": 1206,
+    "end_char": 1216
   },
   {
     "schema_version": "0.1.0",
@@ -7174,30 +7174,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1095-1108",
+    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1096-1109",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:110",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 1095,
-    "end_char": 1108
+    "start_char": 1096,
+    "end_char": 1109
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1158-1167",
+    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1159-1168",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:110",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1158,
-    "end_char": 1167
+    "start_char": 1159,
+    "end_char": 1168
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1447-1460",
+    "id": "urn:lex-mx:federal:statute:lissste:article:110:term-usage:1448-1461",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:110",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 1447,
-    "end_char": 1460
+    "start_char": 1448,
+    "end_char": 1461
   },
   {
     "schema_version": "0.1.0",
@@ -7291,48 +7291,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:588-601",
+    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:589-602",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:113",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 588,
-    "end_char": 601
+    "start_char": 589,
+    "end_char": 602
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:773-786",
+    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:774-787",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:113",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 773,
-    "end_char": 786
+    "start_char": 774,
+    "end_char": 787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1030-1043",
+    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1031-1044",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:113",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 1030,
-    "end_char": 1043
+    "start_char": 1031,
+    "end_char": 1044
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1165-1178",
+    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1166-1179",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:113",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 1165,
-    "end_char": 1178
+    "start_char": 1166,
+    "end_char": 1179
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1368-1381",
+    "id": "urn:lex-mx:federal:statute:lissste:article:113:term-usage:1369-1382",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:113",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 1368,
-    "end_char": 1381
+    "start_char": 1369,
+    "end_char": 1382
   },
   {
     "schema_version": "0.1.0",
@@ -7606,48 +7606,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:478-484",
+    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:479-485",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:122",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuotas",
     "span": "Cuotas",
-    "start_char": 478,
-    "end_char": 484
+    "start_char": 479,
+    "end_char": 485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:487-499",
+    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:488-500",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:122",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportaciones",
-    "start_char": 487,
-    "end_char": 499
+    "start_char": 488,
+    "end_char": 500
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:505-522",
+    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:506-523",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:122",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuenta-individual",
     "span": "Cuenta Individual",
-    "start_char": 505,
-    "end_char": 522
+    "start_char": 506,
+    "end_char": 523
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:654-671",
+    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:655-672",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:122",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:seguro-de-pension",
     "span": "Seguro de Pensión",
-    "start_char": 654,
-    "end_char": 671
+    "start_char": 655,
+    "end_char": 672
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:846-865",
+    "id": "urn:lex-mx:federal:statute:lissste:article:122:term-usage:847-866",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:122",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pension-garantizada",
     "span": "Pensión Garantizada",
-    "start_char": 846,
-    "end_char": 865
+    "start_char": 847,
+    "end_char": 866
   },
   {
     "schema_version": "0.1.0",
@@ -10081,21 +10081,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:174:term-usage:808-813",
+    "id": "urn:lex-mx:federal:statute:lissste:article:174:term-usage:809-814",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:174",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 808,
-    "end_char": 813
+    "start_char": 809,
+    "end_char": 814
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:174:term-usage:897-905",
+    "id": "urn:lex-mx:federal:statute:lissste:article:174:term-usage:898-906",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:174",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 897,
-    "end_char": 905
+    "start_char": 898,
+    "end_char": 906
   },
   {
     "schema_version": "0.1.0",
@@ -12187,372 +12187,372 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:366-375",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:367-376",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 366,
-    "end_char": 375
+    "start_char": 367,
+    "end_char": 376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:484-493",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:485-494",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 484,
-    "end_char": 493
+    "start_char": 485,
+    "end_char": 494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:539-548",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:540-549",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 539,
-    "end_char": 548
+    "start_char": 540,
+    "end_char": 549
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:688-696",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:689-697",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 688,
-    "end_char": 696
+    "start_char": 689,
+    "end_char": 697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1000-1009",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1001-1010",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1000,
-    "end_char": 1009
+    "start_char": 1001,
+    "end_char": 1010
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1096-1105",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1097-1106",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1096,
-    "end_char": 1105
+    "start_char": 1097,
+    "end_char": 1106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1187-1196",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1188-1197",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1187,
-    "end_char": 1196
+    "start_char": 1188,
+    "end_char": 1197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1204-1225",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1205-1226",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1204,
-    "end_char": 1225
+    "start_char": 1205,
+    "end_char": 1226
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1310-1331",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1311-1332",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1310,
-    "end_char": 1331
+    "start_char": 1311,
+    "end_char": 1332
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1358-1370",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1359-1371",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 1358,
-    "end_char": 1370
+    "start_char": 1359,
+    "end_char": 1371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1373-1382",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1374-1383",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 1373,
-    "end_char": 1382
+    "start_char": 1374,
+    "end_char": 1383
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1427-1443",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1428-1444",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 1427,
-    "end_char": 1443
+    "start_char": 1428,
+    "end_char": 1444
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1929-1938",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:1930-1939",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1929,
-    "end_char": 1938
+    "start_char": 1930,
+    "end_char": 1939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2193-2202",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2194-2203",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 2193,
-    "end_char": 2202
+    "start_char": 2194,
+    "end_char": 2203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2360-2365",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2361-2366",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 2360,
-    "end_char": 2365
+    "start_char": 2361,
+    "end_char": 2366
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2514-2519",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2515-2520",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 2514,
-    "end_char": 2519
+    "start_char": 2515,
+    "end_char": 2520
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2681-2686",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:2682-2687",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 2681,
-    "end_char": 2686
+    "start_char": 2682,
+    "end_char": 2687
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3004-3009",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3005-3010",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 3004,
-    "end_char": 3009
+    "start_char": 3005,
+    "end_char": 3010
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3175-3183",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3176-3184",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 3175,
-    "end_char": 3183
+    "start_char": 3176,
+    "end_char": 3184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3238-3243",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3239-3244",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 3238,
-    "end_char": 3243
+    "start_char": 3239,
+    "end_char": 3244
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3521-3526",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3522-3527",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 3521,
-    "end_char": 3526
+    "start_char": 3522,
+    "end_char": 3527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3569-3582",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3570-3583",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 3569,
-    "end_char": 3582
+    "start_char": 3570,
+    "end_char": 3583
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3711-3716",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3712-3717",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 3711,
-    "end_char": 3716
+    "start_char": 3712,
+    "end_char": 3717
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3905-3918",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:3906-3919",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 3905,
-    "end_char": 3918
+    "start_char": 3906,
+    "end_char": 3919
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4121-4134",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4122-4135",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 4121,
-    "end_char": 4134
+    "start_char": 4122,
+    "end_char": 4135
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4298-4311",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4299-4312",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 4298,
-    "end_char": 4311
+    "start_char": 4299,
+    "end_char": 4312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4390-4403",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4391-4404",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 4390,
-    "end_char": 4403
+    "start_char": 4391,
+    "end_char": 4404
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4420-4428",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4421-4429",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 4420,
-    "end_char": 4428
+    "start_char": 4421,
+    "end_char": 4429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4483-4496",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4484-4497",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 4483,
-    "end_char": 4496
+    "start_char": 4484,
+    "end_char": 4497
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4733-4746",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4734-4747",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 4733,
-    "end_char": 4746
+    "start_char": 4734,
+    "end_char": 4747
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4810-4819",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4811-4820",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 4810,
-    "end_char": 4819
+    "start_char": 4811,
+    "end_char": 4820
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4826-4842",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:4827-4843",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 4826,
-    "end_char": 4842
+    "start_char": 4827,
+    "end_char": 4843
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5176-5185",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5177-5186",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5176,
-    "end_char": 5185
+    "start_char": 5177,
+    "end_char": 5186
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5508-5517",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5509-5518",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5508,
-    "end_char": 5517
+    "start_char": 5509,
+    "end_char": 5518
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5653-5659",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5654-5660",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuotas",
     "span": "Cuotas",
-    "start_char": 5653,
-    "end_char": 5659
+    "start_char": 5654,
+    "end_char": 5660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5662-5674",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5663-5675",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportaciones",
-    "start_char": 5662,
-    "end_char": 5674
+    "start_char": 5663,
+    "end_char": 5675
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5768-5777",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:5769-5778",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 5768,
-    "end_char": 5777
+    "start_char": 5769,
+    "end_char": 5778
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6094-6110",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6095-6111",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:derechohabiente",
     "span": "Derechohabientes",
-    "start_char": 6094,
-    "end_char": 6110
+    "start_char": 6095,
+    "end_char": 6111
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6552-6561",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6553-6562",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 6552,
-    "end_char": 6561
+    "start_char": 6553,
+    "end_char": 6562
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6937-6946",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:6938-6947",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 6937,
-    "end_char": 6946
+    "start_char": 6938,
+    "end_char": 6947
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:7226-7235",
+    "id": "urn:lex-mx:federal:statute:lissste:article:214:term-usage:7227-7236",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:214",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 7226,
-    "end_char": 7235
+    "start_char": 7227,
+    "end_char": 7236
   },
   {
     "schema_version": "0.1.0",
@@ -12736,21 +12736,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:220:term-usage:3034-3039",
+    "id": "urn:lex-mx:federal:statute:lissste:article:220:term-usage:3035-3040",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:220",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:fondo",
     "span": "Fondo",
-    "start_char": 3034,
-    "end_char": 3039
+    "start_char": 3035,
+    "end_char": 3040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:220:term-usage:3061-3074",
+    "id": "urn:lex-mx:federal:statute:lissste:article:220:term-usage:3062-3075",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:220",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:pensionissste",
     "span": "PENSIONISSSTE",
-    "start_char": 3061,
-    "end_char": 3074
+    "start_char": 3062,
+    "end_char": 3075
   },
   {
     "schema_version": "0.1.0",
@@ -12790,66 +12790,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:751-760",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:752-761",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 751,
-    "end_char": 760
+    "start_char": 752,
+    "end_char": 761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:796-802",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:797-803",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuotas",
     "span": "Cuotas",
-    "start_char": 796,
-    "end_char": 802
+    "start_char": 797,
+    "end_char": 803
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:805-817",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:806-818",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportaciones",
-    "start_char": 805,
-    "end_char": 817
+    "start_char": 806,
+    "end_char": 818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:880-888",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:881-889",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:reserva",
     "span": "Reservas",
-    "start_char": 880,
-    "end_char": 888
+    "start_char": 881,
+    "end_char": 889
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:941-947",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:942-948",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:cuotas",
     "span": "Cuotas",
-    "start_char": 941,
-    "end_char": 947
+    "start_char": 942,
+    "end_char": 948
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:950-962",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:951-963",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:aportaciones",
     "span": "Aportaciones",
-    "start_char": 950,
-    "end_char": 962
+    "start_char": 951,
+    "end_char": 963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:1293-1302",
+    "id": "urn:lex-mx:federal:statute:lissste:article:224:term-usage:1294-1303",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:224",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1293,
-    "end_char": 1302
+    "start_char": 1294,
+    "end_char": 1303
   },
   {
     "schema_version": "0.1.0",
@@ -12988,48 +12988,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:909-918",
+    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:910-919",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:228",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 909,
-    "end_char": 918
+    "start_char": 910,
+    "end_char": 919
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:966-978",
+    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:967-979",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:228",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:dependencias",
     "span": "Dependencias",
-    "start_char": 966,
-    "end_char": 978
+    "start_char": 967,
+    "end_char": 979
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:981-990",
+    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:982-991",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:228",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:entidades",
     "span": "Entidades",
-    "start_char": 981,
-    "end_char": 990
+    "start_char": 982,
+    "end_char": 991
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:1111-1120",
+    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:1112-1121",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:228",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1111,
-    "end_char": 1120
+    "start_char": 1112,
+    "end_char": 1121
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:1226-1235",
+    "id": "urn:lex-mx:federal:statute:lissste:article:228:term-usage:1227-1236",
     "provision_id": "urn:lex-mx:federal:statute:lissste:article:228",
     "term_id": "urn:lex-mx:federal:statute:lissste:term:instituto",
     "span": "Instituto",
-    "start_char": 1226,
-    "end_char": 1235
+    "start_char": 1227,
+    "end_char": 1236
   },
   {
     "schema_version": "0.1.0",

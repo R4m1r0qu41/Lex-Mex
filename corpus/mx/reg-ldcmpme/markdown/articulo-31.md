@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["REG-LDCMPME — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -25,7 +25,9 @@ II. Integrar las propuestas que realicen los Municipios, las demarcaciones terri
 
 III. Instrumentar los mecanismos que promuevan y faciliten la comunicación y vinculación con el Consejo;
 
-IV. Someter a la consideración de los miembros del Consejo Estatal, en la primera sesión del año, el programa de trabajo, así como el calendario de sesiones ordinarias; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA V. Recibir los asuntos que se pretendan someter a la consideración del Consejo Estatal;
+IV. Someter a la consideración de los miembros del Consejo Estatal, en la primera sesión del año, el programa de trabajo, así como el calendario de sesiones ordinarias;
+
+V. Recibir los asuntos que se pretendan someter a la consideración del Consejo Estatal;
 
 VI. Elaborar los oficios de convocatoria a las sesiones;
 

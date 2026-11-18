@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 Las y los Inspectores del Trabajo tienen la atribución y deber de realizar visitas de inspección por lo menos una vez al año y en temporada o estación de producción para constatar el debido cumplimiento de las obligaciones establecidas en el presente Capítulo, y de manera especial, el cumplimiento de las siguientes:
 
-I. Verificar que el trabajo del campo se realice en adecuadas condiciones en materia de capacitación y adiestramiento y de seguridad y salud; II. Vigilar que los salarios no sean inferiores a los determinados conforme a esta Ley;
+I. Verificar que el trabajo del campo se realice en adecuadas condiciones en materia de capacitación y adiestramiento y de seguridad y salud;
+
+II. Vigilar que los salarios no sean inferiores a los determinados conforme a esta Ley;
 
 III. Verificar que no se utilicen los servicios de niñas y niños menores de edad;
 

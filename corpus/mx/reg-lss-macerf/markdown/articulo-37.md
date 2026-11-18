@@ -29,7 +29,7 @@ El significado de las variables, constantes y símbolos es:
 
 * = Símbolo de multiplicación.
 
-S = Total de días subsidiados a causa de incapacidad temporal. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN / = Símbolo de división.
+S = Total de días subsidiados a causa de incapacidad temporal. / = Símbolo de división.
 
 365 = Número de días naturales del año.
 

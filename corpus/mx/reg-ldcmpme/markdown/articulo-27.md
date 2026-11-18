@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["REG-LDCMPME — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -17,4 +17,4 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 27
 
-En los términos de los lineamientos que emita el Consejo se podrá establecer la integración de los Grupos de Trabajo que atenderá a criterios de desarrollo regional. REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+En los términos de los lineamientos que emita el Consejo se podrá establecer la integración de los Grupos de Trabajo que atenderá a criterios de desarrollo regional.

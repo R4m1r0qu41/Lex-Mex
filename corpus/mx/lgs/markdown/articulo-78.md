@@ -17,7 +17,9 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 # Artículo 78
 
-El ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a: I. La Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México; Fracción reformada DOF 29-05-2023
+El ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
+
+I. La Ley Reglamentaria del artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México; Fracción reformada DOF 29-05-2023
 
 II. Las bases de coordinación que, conforme a la ley, se definan entre las autoridades educativas y las autoridades sanitarias;
 

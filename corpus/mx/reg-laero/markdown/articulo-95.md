@@ -10,18 +10,28 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo IV
 
 # Artículo 95
 
-El administrador aeroportuario asignará los horarios de aterrizaje y despegue de las aeronaves y las prioridades de turno de las mismas, considerando las recomendaciones del comité de operación y horarios, atendiendo a:
+La persona administradora aeroportuaria debe asignar los horarios de aterrizaje y despegue de las aeronaves y las prioridades de turno de estas, considerando las recomendaciones del comité de operación y horarios, con base en: Párrafo reformado DOF 09-06-2026
 
 I. Criterios de eficiencia y seguridad, así como de acuerdo con las prioridades siguientes:
 
-a) Tendrán prioridad los vuelos en el orden siguiente: i) regulares de pasajeros, ii) de transporte aéreo no regular bajo la modalidad de fletamiento para pasajeros, iii) regulares de carga, y iv) de transporte aéreo no regular bajo la modalidad de fletamento de carga;
+a) Tienen prioridad los vuelos en el orden siguiente:
 
-b) Tendrá prioridad sobre un horario el transportista aéreo que lo ocupó en el periodo anterior;
+1. Regulares de personas pasajeras;
+
+2. De transporte aéreo no regular bajo la modalidad de fletamento de personas pasajeras;
+
+3. Regulares de carga, y
+
+4. De transporte aéreo no regular bajo la modalidad de fletamento de carga, y Inciso con numerales reformado DOF 09-06-2026
+
+b) Tiene prioridad sobre un horario la persona transportista aérea que lo ocupó en el periodo anterior; Inciso reformado DOF 09-06-2026
 
 II. El horario de operación del aeródromo;
 
@@ -32,3 +42,5 @@ IV. La capacidad de operación de los prestadores de servicios aeroportuarios y 
 V. La disponibilidad de horarios sin utilizar, y
 
 VI. Cumplimiento de los requisitos para el trámite de la solicitud de horarios.
+
+En los aeródromos civiles de servicio al público de transporte aéreo regular nacional e internacional que la [Secretaría](articulo-2.md) clasifique con Potencial de Saturación Nivel 2 o en Condiciones de Saturación Nivel 3, la persona administradora aeroportuaria debe sujetarse a las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación y demás disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil, previa aprobación de la Secretaría, las cuales deben observar las mejores prácticas internacionales en materia de asignación de horarios de aterrizaje y despegue. Párrafo adicionado DOF 09-06-2026

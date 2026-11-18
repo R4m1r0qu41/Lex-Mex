@@ -9,17 +9,15 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 89"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,219]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 89
 
-Las Instituciones podrán reconocer en el cálculo del requerimiento de capital, el (219)
+Las Instituciones podrán reconocer en el cálculo del requerimiento de capital, el efecto de cobertura del riesgo que otorguen las garantías reales, personales y derivados de crédito, mediante un ajuste a la Probabilidad de Incumplimiento, o bien, en la estimación de la [Severidad de la Pérdida](articulo-1.md) en caso de Incumplimiento. Estos ajustes podrán llevarse a cabo una vez que se cumpla con los requisitos establecidos en el subnumeral (ix) de la Sección IV del Anexo 15 de estas disposiciones.
 
-efecto de cobertura del riesgo que otorguen las garantías reales, personales y derivados de crédito, mediante un ajuste a la Probabilidad de Incumplimiento, o bien, en la estimación de la Severidad de la Pérdida en caso de Incumplimiento. Estos ajustes podrán llevarse a cabo una vez que se cumpla con los requisitos establecidos en el subnumeral (ix) de la Sección IV del Anexo 15 de estas disposiciones.
-
-Las Instituciones no deberán incluir en los ajustes que realicen el efecto del Doble Incumplimiento. De esta manera, la ponderación por riesgo ajustada no podrá ser inferior a la de una posición directa similar frente al garante. Asimismo, las Instituciones podrán optar por no reconocer la protección crediticia si al hacerlo generaran un requerimiento de capital más elevado.
+Las Instituciones no deberán incluir en los ajustes que realicen el efecto del [Doble Incumplimiento](articulo-1.md). De esta manera, la ponderación por riesgo ajustada no podrá ser inferior a la de una posición directa similar frente al garante. Asimismo, las Instituciones podrán optar por no reconocer la protección crediticia si al hacerlo generaran un requerimiento de capital más elevado.

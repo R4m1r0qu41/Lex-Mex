@@ -23,7 +23,9 @@ I. Aprobación del acta de la sesión anterior;
 
 II. Comunicaciones de senadores, comisiones y comités;
 
-III. Comunicaciones oficiales; IV. Solicitudes de licencia y, en su caso, toma de protesta a senadores;
+III. Comunicaciones oficiales;
+
+IV. Solicitudes de licencia y, en su caso, toma de protesta a senadores;
 
 V. Solicitudes o comunicaciones de particulares;
 

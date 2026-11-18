@@ -75,7 +75,9 @@ XX.- Usar una marca previamente registrada o semejante en grado de confusión co
 
 XXI.- Usar una marca registrada, sin el consentimiento de su titular o sin la licencia respectiva, en productos o servicios iguales o similares a los que la marca se aplique;
 
-XXII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada y que dichos productos o su etiquetado hayan sido alterados; XXIII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;
+XXII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada y que dichos productos o su etiquetado hayan sido alterados;
+
+XXIII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;
 
 XXIV.- Usar la combinación de signos distintivos, elementos operativos o de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a creer o suponer una asociación inexistente con quien acredite el derecho;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["LCEC — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -21,7 +21,7 @@ La administración del [SIEM](articulo-2.md) estará a cargo de la [Secretaría]
 
 I. La Secretaría asignará los recursos necesarios a fin de que sus alcances y desempeño correspondan al buen funcionamiento del mismo;
 
-II. La captura de la información para el SIEM será a través de las Cámaras, de acuerdo a las reglas de operación que para tal efecto emita la Secretaría, una vez consultadas las Cámaras y [Confederaciones](articulo-2.md);
+II. La captura de la información para el SIEM será a través de las [Cámaras](articulo-2.md), de acuerdo a las reglas de operación que para tal efecto emita la Secretaría, una vez consultadas las Cámaras y [Confederaciones](articulo-2.md);
 
 III. La Secretaría promoverá y formulará los acuerdos correspondientes a fin de que todas las instancias administrativas en los niveles federal, estatal y municipal, establezcan la obligatoriedad de las empresas de contar con el registro en el SIEM para la celebración de todo trámite administrativo ante ellas;
 

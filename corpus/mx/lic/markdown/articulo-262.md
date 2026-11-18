@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 262
 
-Se considerarán actos en fraude de acreedores: I. Los que se celebren a título gratuito, así como los pagos de obligaciones no vencidas hechas por la institución de banca múltiple;
+Se considerarán actos en fraude de acreedores:
+
+I. Los que se celebren a título gratuito, así como los pagos de obligaciones no vencidas hechas por la institución de banca múltiple;
 
 II. Las remisiones de deuda hechas por la institución de banca múltiple;
 

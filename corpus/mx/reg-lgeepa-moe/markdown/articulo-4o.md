@@ -7,8 +7,8 @@ provision_type: article
 number: "4o"
 aliases: ["REG-LGEEPA-MOE — Artículo 4o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf
 source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 ---
@@ -41,7 +41,9 @@ X. Establecer los mecanismos de promoción y difusión del Subsistema;
 
 XI. Celebrar convenios de coordinación con los gobiernos de las entidades federativas y del Distrito Federal, con la participación que corresponda a sus municipios y a sus delegaciones, respectivamente, para la determinación de acciones, lineamientos, criterios y estrategias, en materia de ordenamiento ecológico;
 
-XII. Celebrar convenios de concertación con personas, organizaciones, grupos e instituciones de los sectores privado y social para la realización de acciones conjuntas en materia de ordenamiento ecológico; XIII. Emitir los criterios, lineamientos y estrategias para determinar los requisitos, especificaciones, procedimientos, metas o parámetros que deberán observar las autoridades encargadas de la formulación e instrumentación de procesos de ordenamiento ecológico de competencia federal;
+XII. Celebrar convenios de concertación con personas, organizaciones, grupos e instituciones de los sectores privado y social para la realización de acciones conjuntas en materia de ordenamiento ecológico;
+
+XIII. Emitir los criterios, lineamientos y estrategias para determinar los requisitos, especificaciones, procedimientos, metas o parámetros que deberán observar las autoridades encargadas de la formulación e instrumentación de procesos de ordenamiento ecológico de competencia federal;
 
 XIV. Establecer los procedimientos e instrumentos que promuevan la participación social corresponsable en el proceso de ordenamiento ecológico en el ámbito de su competencia;
 

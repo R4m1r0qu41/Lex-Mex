@@ -7,7 +7,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "I",
     "start_char": 56,
-    "end_char": 569,
+    "end_char": 570,
     "basis": "express_definition"
   },
   {
@@ -17,8 +17,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "II",
-    "start_char": 569,
-    "end_char": 975,
+    "start_char": 570,
+    "end_char": 976,
     "basis": "express_definition"
   },
   {
@@ -28,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "III",
-    "start_char": 975,
-    "end_char": 1455,
+    "start_char": 976,
+    "end_char": 1456,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "IV",
-    "start_char": 1455,
-    "end_char": 1965,
+    "start_char": 1456,
+    "end_char": 1966,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "V",
-    "start_char": 1965,
-    "end_char": 2147,
+    "start_char": 1966,
+    "end_char": 2148,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "VI",
-    "start_char": 2147,
-    "end_char": 2302,
+    "start_char": 2148,
+    "end_char": 2303,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "VII",
-    "start_char": 2302,
-    "end_char": 2498,
+    "start_char": 2303,
+    "end_char": 2499,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "VIII",
-    "start_char": 2498,
-    "end_char": 2806,
+    "start_char": 2499,
+    "end_char": 2807,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "IX",
-    "start_char": 2806,
-    "end_char": 3029,
+    "start_char": 2807,
+    "end_char": 3030,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "X",
-    "start_char": 3029,
-    "end_char": 3121,
+    "start_char": 3030,
+    "end_char": 3122,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XI",
-    "start_char": 3121,
-    "end_char": 3382,
+    "start_char": 3122,
+    "end_char": 3383,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XII",
-    "start_char": 3382,
-    "end_char": 3654,
+    "start_char": 3383,
+    "end_char": 3655,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XIII",
-    "start_char": 3654,
-    "end_char": 3967,
+    "start_char": 3655,
+    "end_char": 3969,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XIV",
-    "start_char": 3967,
-    "end_char": 4302,
+    "start_char": 3969,
+    "end_char": 4304,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XV",
-    "start_char": 4302,
-    "end_char": 4742,
+    "start_char": 4304,
+    "end_char": 4744,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XVI",
-    "start_char": 4742,
-    "end_char": 4950,
+    "start_char": 4744,
+    "end_char": 4952,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XVII",
-    "start_char": 4950,
-    "end_char": 5353,
+    "start_char": 4952,
+    "end_char": 5355,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XVIII",
-    "start_char": 5353,
-    "end_char": 5566,
+    "start_char": 5355,
+    "end_char": 5568,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XIX",
-    "start_char": 5566,
-    "end_char": 5938,
+    "start_char": 5568,
+    "end_char": 5940,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XX",
-    "start_char": 5938,
-    "end_char": 6223,
+    "start_char": 5940,
+    "end_char": 6225,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXI",
-    "start_char": 6223,
-    "end_char": 6435,
+    "start_char": 6225,
+    "end_char": 6437,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXII",
-    "start_char": 6435,
-    "end_char": 6642,
+    "start_char": 6437,
+    "end_char": 6644,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXIII",
-    "start_char": 6642,
-    "end_char": 6702,
+    "start_char": 6644,
+    "end_char": 6704,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXIV",
-    "start_char": 6702,
-    "end_char": 6924,
+    "start_char": 6704,
+    "end_char": 6926,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXV",
-    "start_char": 6924,
-    "end_char": 7043,
+    "start_char": 6926,
+    "end_char": 7046,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXVI",
-    "start_char": 7043,
-    "end_char": 7257,
+    "start_char": 7046,
+    "end_char": 7260,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXVII",
-    "start_char": 7257,
-    "end_char": 7636,
+    "start_char": 7260,
+    "end_char": 7639,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXVIII",
-    "start_char": 7636,
-    "end_char": 8084,
+    "start_char": 7639,
+    "end_char": 8087,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXIX",
-    "start_char": 8084,
-    "end_char": 8302,
+    "start_char": 8087,
+    "end_char": 8305,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXX",
-    "start_char": 8302,
-    "end_char": 8365,
+    "start_char": 8305,
+    "end_char": 8368,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXXI",
-    "start_char": 8365,
-    "end_char": 8605,
+    "start_char": 8368,
+    "end_char": 8608,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXXII",
-    "start_char": 8605,
-    "end_char": 8734,
+    "start_char": 8608,
+    "end_char": 8737,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXXIII",
-    "start_char": 8734,
-    "end_char": 9084,
+    "start_char": 8737,
+    "end_char": 9087,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfzee",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "fraction": "XXXIV",
-    "start_char": 9084,
-    "end_char": 9343,
+    "start_char": 9087,
+    "end_char": 9346,
     "basis": "express_definition"
   }
 ]

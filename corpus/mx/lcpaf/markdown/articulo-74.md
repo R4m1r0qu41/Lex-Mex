@@ -21,7 +21,9 @@ Salvo lo dispuesto en el Artículo [74 Bis](articulo-74-Bis.md) de la presente L
 
 I. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
 
-II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos; III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
+II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
+
+III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
 
 IV. Incumplir con cualquiera de las disposiciones en materia de autotransporte federal, sus servicios auxiliares y transporte privado, con multa de hasta quinientos días de salario mínimo, y
 

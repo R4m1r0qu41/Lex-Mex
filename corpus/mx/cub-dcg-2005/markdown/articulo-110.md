@@ -9,17 +9,16 @@ aliases: ["DCG-CUB-2005 — Artículo 110"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [274]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo V
 
 # Artículo 110
 
-Las Instituciones previo a la calificación de los créditos de su Cartera Crediticia (274)
-
-Comercial, clasificarán cada uno de los créditos en alguno de los siguientes grupos, según sean otorgados a:
+Las Instituciones previo a la calificación de los créditos de su Cartera Crediticia Comercial, clasificarán cada uno de los créditos en alguno de los siguientes grupos, según sean otorgados a:
 
 274) I. Entidades federativas y municipios.
 
@@ -31,10 +30,8 @@ Comercial, clasificarán cada uno de los créditos en alguno de los siguientes g
 
 274) V. Personas morales no incluidas en las fracciones anteriores y físicas con actividad empresarial. A su vez, este grupo deberá dividirse en los siguientes subgrupos:
 
-274) a) Con Ingresos Netos o Ventas Netas anuales menores al equivalente en moneda nacional a 14 millones de UDIs.
+274) a) Con [Ingresos Netos o Ventas Netas](articulo-1.md) anuales menores al equivalente en moneda nacional a 14 millones de UDIs.
 
 274) b) Con Ingresos Netos o Ventas Netas anuales iguales o mayores al equivalente en moneda nacional a 14 millones de UDIs. Cuando los estados financieros del acreditado no cumplan con el requisito de antigüedad señalado en la fracción LXXXIV del Artículo [1](articulo-1.md) de las presentes disposiciones o dicho acreditado no disponga de estados financieros, las Instituciones lo calificarán utilizando la metodología del inciso a) anterior, según corresponda.
 
-Las personas morales o físicas con actividad empresarial para las que no se disponga de información (274)
-
-respecto de sus Ingresos Netos o Ventas Netas anuales, o dicha información no cumpla con los requisitos establecidos en las presentes disposiciones, deberán calificarse conforme la metodología aplicable a el inciso a) anterior.
+Las personas morales o físicas con actividad empresarial para las que no se disponga de información respecto de sus Ingresos Netos o Ventas Netas anuales, o dicha información no cumpla con los requisitos establecidos en las presentes disposiciones, deberán calificarse conforme la metodología aplicable a el inciso a) anterior.

@@ -7,8 +7,8 @@ provision_type: article
 number: "277"
 aliases: ["REG-LFSA — Artículo 277"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -21,7 +21,9 @@ El Consejo Técnico Consultivo Nacional de Sanidad Animal tendrá una junta dire
 
 A. Los Servidores públicos siguientes:
 
-I. Un representante de la Secretaría quien lo presidirá, con nivel jerárquico de Director General, y dos representantes más, uno de los cuales fungirá como Secretario Técnico, y II. Un representante de la Secretaría de Salud;
+I. Un representante de la Secretaría quien lo presidirá, con nivel jerárquico de Director General, y dos representantes más, uno de los cuales fungirá como Secretario Técnico, y
+
+II. Un representante de la Secretaría de Salud;
 
 B. Representantes del sector privado y social, que en su caso, acepten la invitación correspondiente, siguientes:
 

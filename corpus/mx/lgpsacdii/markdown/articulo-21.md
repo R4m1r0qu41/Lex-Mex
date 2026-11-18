@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LGPSACDII — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -31,7 +31,9 @@ V. Determinar los indicadores que permitan evaluar la aplicación del Programa N
 
 VI. Asesorar a los gobiernos locales, municipales o, en su caso, a la Ciudad de México y las alcaldías de sus demarcaciones territoriales que lo soliciten, en la elaboración y ejecución de sus respectivos programas; Fracción reformada DOF 23-06-2017
 
-VII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley; VIII. Promover y celebrar convenios de concertación con los sectores privado y social, para el impulso, fomento y desarrollo de los fines de la presente Ley;
+VII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+
+VIII. Promover y celebrar convenios de concertación con los sectores privado y social, para el impulso, fomento y desarrollo de los fines de la presente Ley;
 
 IX. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 

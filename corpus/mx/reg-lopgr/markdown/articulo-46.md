@@ -23,7 +23,9 @@ I. Coordinar el ejercicio de las atribuciones del Ministerio Público de la Fede
 
 II. Coordinar a las agregadurías y oficinas de enlace;
 
-III. Vigilar que las agregadurías y las oficinas de enlace establezcan mecanismos eficientes de coordinación y colaboración con las autoridades de los países en cuya circunscripción territorial ejerzan sus funciones; IV. Coordinar la intervención de la Procuraduría en los procedimientos internacionales;
+III. Vigilar que las agregadurías y las oficinas de enlace establezcan mecanismos eficientes de coordinación y colaboración con las autoridades de los países en cuya circunscripción territorial ejerzan sus funciones;
+
+IV. Coordinar la intervención de la Procuraduría en los procedimientos internacionales;
 
 V. Coordinar el ejercicio de las atribuciones previstas en el artículo 4 de la [Ley Orgánica](articulo-2.md) y demás disposiciones constitucionales y legales aplicables, respecto de los delitos cometidos en el extranjero, de conformidad con lo dispuesto en el artículo [4](../../cpf/markdown/articulo-4o.md) del Código Penal Federal, así como en los casos en que se encuentren involucrados diplomáticos, cónsules generales o miembros de organismos internacionales, cuando no existan inmunidades diplomáticas que respetar, velando por el estricto cumplimiento de la [Constitución](articulo-2.md), los tratados internacionales de los que México sea parte y demás ordenamientos legales aplicables;
 

@@ -29,6 +29,8 @@ IV. La constancia de haberse obtenido los informes de existencia o no de testame
 
 V. El reconocimiento de derechos hereditarios, la repudiación y aceptación de la herencia y de los legados en caso de la comparecencia de legatarios, el reconocimiento de la validez del testamento y la declaratoria de herederos;
 
-VI. Lo relativo al nombramiento y la aceptación o no del cargo de albacea; VII. Los incidentes que se promueven sobre remoción de albacea, interventores o albaceas judiciales o provisionales, y
+VI. Lo relativo al nombramiento y la aceptación o no del cargo de albacea;
+
+VII. Los incidentes que se promueven sobre remoción de albacea, interventores o albaceas judiciales o provisionales, y
 
 VIII. Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y la preferencia de derechos.

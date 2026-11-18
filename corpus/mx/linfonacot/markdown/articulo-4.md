@@ -19,7 +19,9 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 Para los efectos de esta [Ley](articulo-4.md), se entenderá por:
 
-I.- Comisión: La Comisión Nacional Bancaria y de Valores; II. Consejo: El Consejo Directivo del [Instituto](articulo-4.md);
+I.- Comisión: La Comisión Nacional Bancaria y de Valores;
+
+II. Consejo: El Consejo Directivo del [Instituto](articulo-4.md);
 
 III. Distribuidores: Las empresas y establecimientos afiliados al Instituto que presten servicios o comercialicen bienes para ser adquiridos por los trabajadores;
 

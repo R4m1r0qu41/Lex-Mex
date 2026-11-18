@@ -11,25 +11,25 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [47]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 316 Bis 2
 
-Las Instituciones deberán proveer lo necesario para que una vez autenticado el Usuario en el servicio de Banca Electrónica de que se trate, la Sesión no pueda ser utilizada por un tercero. Para efectos de lo anterior, las Instituciones deberán establecer, al menos, los mecanismos siguientes:
+Las Instituciones deberán proveer lo necesario para que una vez autenticado el [Usuario](articulo-1.md) en el servicio de [Banca Electrónica](articulo-1.md) de que se trate, la [Sesión](articulo-1.md) no pueda ser utilizada por un tercero. Para efectos de lo anterior, las Instituciones deberán establecer, al menos, los mecanismos siguientes:
 
 I. Dar por terminada la Sesión en forma automática, e informar al Usuario del motivo en cualquiera de los casos siguientes:
 
 a) Cuando exista inactividad por más de veinte minutos.
 
-Tratándose de operaciones realizadas mediante Pago Móvil, Cajeros Automáticos y Terminales Punto de Venta, el periodo de inactividad no podrá exceder de un minuto.
+Tratándose de operaciones realizadas mediante [Pago Móvil](articulo-1.md), [Cajeros Automáticos](articulo-1.md) y Terminales Punto de Venta, el periodo de inactividad no podrá exceder de un minuto.
 
-Para operaciones realizadas mediante Banca Host to Host, las Instituciones podrán definir el periodo de inactividad, con base en los riesgos asociados al servicio que las propias Instituciones determinen.
+Para operaciones realizadas mediante [Banca Host to Host](articulo-1.md), las Instituciones podrán definir el periodo de inactividad, con base en los riesgos asociados al servicio que las propias Instituciones determinen.
 
-b) Cuando en el curso de una Sesión del servicio de Banca por Internet, la Institución identifique cambios relevantes en los parámetros de comunicación del Medio Electrónico, tales como identificación del Dispositivo de Acceso, rango de direcciones de los protocolos de comunicación, ubicación geográfica, entre otros.
+b) Cuando en el curso de una Sesión del servicio de [Banca por Internet](articulo-1.md), la Institución identifique cambios relevantes en los parámetros de comunicación del [Medio Electrónico](articulo-1.md), tales como identificación del [Dispositivo de Acceso](articulo-1.md), rango de direcciones de los protocolos de comunicación, ubicación geográfica, entre otros.
 
-II. Impedir el acceso en forma simultánea, mediante la utilización de un mismo Identificador de Usuario a más de una Sesión en el servicio de Banca Electrónica de que se trate e informar al Usuario, cuando el Identificador de Usuario esté siendo utilizado en otra Sesión.
+II. Impedir el acceso en forma simultánea, mediante la utilización de un mismo [Identificador de Usuario](articulo-1.md) a más de una Sesión en el servicio de Banca Electrónica de que se trate e informar al Usuario, cuando el Identificador de Usuario esté siendo utilizado en otra Sesión.
 
 III. En el evento de que las Instituciones ofrezcan servicios de terceros mediante enlaces en el servicio de Banca Electrónica, deberán comunicar a sus Usuarios que al momento de ingresar a dichos servicios, se cerrará automáticamente la Sesión abierta con la Institución de que se trate y se ingresará a otra cuya seguridad no depende ni es responsabilidad de dicha Institución.

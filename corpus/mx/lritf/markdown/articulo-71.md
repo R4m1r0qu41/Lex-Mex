@@ -29,7 +29,9 @@ Las visitas ordinarias serán aquellas que se efectúen de conformidad con el pr
 
 Las visitas especiales serán aquellas que sin estar incluidas en el programa anual a que se refiere el párrafo anterior, se practiquen en cualquiera de los supuestos siguientes:
 
-I. Para examinar y, en su caso, corregir situaciones especiales operativas; II. Para dar seguimiento a los resultados obtenidos en una visita de inspección;
+I. Para examinar y, en su caso, corregir situaciones especiales operativas;
+
+II. Para dar seguimiento a los resultados obtenidos en una visita de inspección;
 
 III. Cuando se presenten cambios o modificaciones en la situación contable, jurídica, económica, financiera o administrativa de una ITF, o
 

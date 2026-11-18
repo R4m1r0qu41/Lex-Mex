@@ -21,7 +21,9 @@ La Comisión Nacional Bancaria y de Valores fijará las reglas máximas para la 
 
 Estas reglas se fundarán en los siguientes principios:
 
-I. Se estimarán por su valor nominal los créditos y documentos mercantiles pendientes de vencimiento o que hayan sido renovados; II. Los bienes o mercancías que tengan un mercado regular, se estimarán por su cotización;
+I. Se estimarán por su valor nominal los créditos y documentos mercantiles pendientes de vencimiento o que hayan sido renovados;
+
+II. Los bienes o mercancías que tengan un mercado regular, se estimarán por su cotización;
 
 III. Los bonos, obligaciones y otros títulos de naturaleza análoga que estén al corriente en el pago de sus intereses y amortización, se estimarán al valor presente de los futuros beneficios del título, calculando dicho valor presente al tipo efectivo de interés que devengue el título según el precio en bolsa de valores o, a falta de éste, en el mercado libre en el momento de su adquisición;
 

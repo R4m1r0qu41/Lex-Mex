@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 El pasajero que embarque o desembarque en muelles propiedad de la Federación, pagará el derecho de embarque o desembarque conforme a las siguientes cuotas:
 
-I. En instalaciones no dedicadas exclusivamente al servicio de pasajeros .................. $49.06 II. En instalaciones exclusivas para pasajeros .............................................................. $73.88
+I. En instalaciones no dedicadas exclusivamente al servicio de pasajeros .................. $49.06
+
+II. En instalaciones exclusivas para pasajeros .............................................................. $73.88
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 

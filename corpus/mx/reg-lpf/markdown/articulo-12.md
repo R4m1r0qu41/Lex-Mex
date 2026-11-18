@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LPF — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -39,7 +39,9 @@ IX. Coordinar y realizar acciones policiales específicas que aseguren la obtenc
 
 X. Participar en la detención de personas y en el aseguramiento de bienes que las autoridades competentes consideren se encuentren relacionados con hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
 
-XI. Reunir la información que pueda ser útil al [Ministerio Público](articulo-2.md), conforme a sus instrucciones, para acreditar que se ha cometido un hecho calificado por la [Ley](articulo-2.md) como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión; XII. Establecer líneas de investigación policial a partir del análisis de la información respecto de estructuras y modos de operación de las organizaciones criminales, en cumplimiento de los mandamientos ministeriales o judiciales;
+XI. Reunir la información que pueda ser útil al [Ministerio Público](articulo-2.md), conforme a sus instrucciones, para acreditar que se ha cometido un hecho calificado por la [Ley](articulo-2.md) como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+XII. Establecer líneas de investigación policial a partir del análisis de la información respecto de estructuras y modos de operación de las organizaciones criminales, en cumplimiento de los mandamientos ministeriales o judiciales;
 
 XIII. Aplicar, en el ámbito de competencia de la División de Investigación, los procedimientos de intercambio de información policial, en términos de las disposiciones aplicables;
 

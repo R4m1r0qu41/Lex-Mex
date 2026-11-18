@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LDRS — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -39,7 +39,9 @@ IX. Cuidado al medio ambiente rural, la sustentabilidad de las actividades socio
 
 X. Equidad de género, la protección de la familia, el impulso a los programas de la mujer, los jóvenes, la protección de los grupos vulnerables, en especial niños, discapacitados, personas con enfermedades terminales y de la tercera edad en las comunidades rurales;
 
-XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural; XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación; Fracción reformada DOF 01-04-2024
+XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
+
+XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación; Fracción reformada DOF 01-04-2024
 
 XIII. Seguridad en la tenencia y disposición de la tierra;
 

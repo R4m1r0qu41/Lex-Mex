@@ -23,7 +23,9 @@ I. Prohibición de acercarse o comunicarse con la víctima u ofendido;
 
 II. Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;
 
-III. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable; IV. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;
+III. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;
+
+IV. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;
 
 V. Vigilancia en el domicilio de la víctima u ofendido;
 

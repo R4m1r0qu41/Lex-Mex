@@ -23,7 +23,9 @@ I. Secretaría, la Secretaría de Economía; Fracción reformada DOF 24-01-2006
 
 II. Comisión, la Comisión de Comercio Exterior; Fracción reformada DOF 24-01-2006
 
-III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley; Fracción reformada DOF 24-01-2006 IV. Reglas, las de carácter general que emita la [Secretaría](articulo-3o.md), sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006
+III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley; Fracción reformada DOF 24-01-2006
+
+IV. Reglas, las de carácter general que emita la [Secretaría](articulo-3o.md), sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006
 
 V. Reglamento, el Reglamento de esta Ley. Fracción adicionada DOF 24-01-2006
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "87"
 aliases: ["REG-LPF — Artículo 87"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -41,7 +41,9 @@ X. Integrar grupos de trabajo con los diversos mandos para tratar los asuntos re
 
 XI. Proponer estrategias y políticas para garantizar la adecuada atención a las situaciones coyunturales en materia de seguridad pública en las que tenga que intervenir el personal operativo de las unidades de Reacción y Alerta Inmediata;
 
-XII. Evaluar las novedades diarias relacionadas al personal, material y servicios que se desarrollan en las unidades bajo su mando, debiendo así mismo rendir el informe correspondiente a su superior jerárquico; XIII. Cumplir los procedimientos operativos correspondientes, para que los [Integrantes](articulo-2.md) participen en operativos o acciones implementadas a restablecer la paz y el orden públicos;
+XII. Evaluar las novedades diarias relacionadas al personal, material y servicios que se desarrollan en las unidades bajo su mando, debiendo así mismo rendir el informe correspondiente a su superior jerárquico;
+
+XIII. Cumplir los procedimientos operativos correspondientes, para que los [Integrantes](articulo-2.md) participen en operativos o acciones implementadas a restablecer la paz y el orden públicos;
 
 XIV. Preservar y custodiar en apoyo de las unidades correspondientes, el lugar de los hechos, de conformidad con los protocolos y procedimientos sistemáticos operativos respectivos, y
 

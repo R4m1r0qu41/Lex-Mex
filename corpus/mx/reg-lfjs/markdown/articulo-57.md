@@ -25,6 +25,8 @@ II. Conservar dichas grabaciones por lo menos noventa días hábiles después de
 
 III. Contar con los lineamientos de operación del cruce de apuestas, que incluya la descripción de los sistemas de apuestas aceptadas en el establecimiento, los nombres de los corredores de apuestas y los supervisores de éstos, así como el nombre del juez y del intendente responsable del local;
 
-IV. Publicar el programa de partidos a jugar en el cual se incluya el nombre de los jugadores y la hora aproximada de juego, así como el récord de juegos de cada pelotari durante el año en curso y el año anterior; V. Contar con un libro de reclamaciones abierto al público que deberá hacer del conocimiento de la [Secretaría](articulo-3.md) a través del inspector, y
+IV. Publicar el programa de partidos a jugar en el cual se incluya el nombre de los jugadores y la hora aproximada de juego, así como el récord de juegos de cada pelotari durante el año en curso y el año anterior;
+
+V. Contar con un libro de reclamaciones abierto al público que deberá hacer del conocimiento de la [Secretaría](articulo-3.md) a través del inspector, y
 
 VI. Contar con un juez calificado que sancione los juegos con imparcialidad y apego a la reglamentación aplicable, y solucione cualquier conflicto que se presente durante la realización de éstos.

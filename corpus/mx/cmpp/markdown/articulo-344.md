@@ -33,6 +33,8 @@ VI. Los medios de pruebas que, en su caso, deban de desahogarse en la audiencia 
 
 VII. Las medidas de resguardo de identidad y datos personales que procedan en términos de este [Código](articulo-3.md).
 
-VIII. Las personas que deban ser citadas a la audiencia de debate. IX. Las medidas cautelares que hayan sido impuestas al acusado.
+VIII. Las personas que deban ser citadas a la audiencia de debate.
+
+IX. Las medidas cautelares que hayan sido impuestas al acusado.
 
 El Juez de control hará llegar el mismo al Tribunal Militar de Juicio Oral competente dentro de los cinco días siguientes de haberse dictado y pondrá a su disposición los registros, así como al acusado.

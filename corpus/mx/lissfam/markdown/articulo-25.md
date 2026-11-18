@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["LISSFAM — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
@@ -35,7 +35,9 @@ VI. Para los Mayores 56
 
 VII. Para los Tenientes Coroneles 58
 
-VIII. Para los Coroneles 60 IX. Para los Generales Brigadieres 61
+VIII. Para los Coroneles 60
+
+IX. Para los Generales Brigadieres 61
 
 X. Para los Generales de Brigada 63
 

@@ -21,7 +21,9 @@ Las autoridades jurisdiccionales se tendrán por forzosamente impedidas para con
 
 I. Cuando tengan interés directo o indirecto en el procedimiento;
 
-II. En los procedimientos que sean del mismo interés para su cónyuge, concubina, concubinario, conviviente o para sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado, y a los afines dentro del segundo; III. Siempre que, entre su cónyuge, concubina, concubinario, conviviente, ascendientes o sus descendientes, y alguno de las partes interesadas, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre, relación de amistad o económica, de subordinación o lealtad, sin importar su origen;
+II. En los procedimientos que sean del mismo interés para su cónyuge, concubina, concubinario, conviviente o para sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
+
+III. Siempre que, entre su cónyuge, concubina, concubinario, conviviente, ascendientes o sus descendientes, y alguno de las partes interesadas, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre, relación de amistad o económica, de subordinación o lealtad, sin importar su origen;
 
 IV. Si fuere pariente por consanguinidad o afinidad de la persona representante autorizada, abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
 
@@ -41,7 +43,9 @@ XI. Cuando la autoridad jurisdiccional, su cónyuge, concubina, concubinario, co
 
 XII. Cuando alguna de las personas representantes autorizadas, sigan o hayan seguido un juicio civil, o una causa criminal, y no ha pasado un año o más, de haber causado ejecutoria, un procedimiento jurisdiccional, en contra de la autoridad jurisdiccional de que se trate, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado;
 
-XIII. Cuando la persona servidora pública, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado, sea contrario a cualquiera de las partes en procedimiento administrativo que afecte a sus intereses; XIV. Si la persona servidora pública, su cónyuge, concubina, concubinario, conviviente o alguno de sus expresados parientes sigue algún procedimiento civil o criminal en que sea autoridad jurisdiccional, agente del Ministerio Público Federal o Local, Procurador o Representante Social, árbitro o arbitrador, de alguno de los litigantes;
+XIII. Cuando la persona servidora pública, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado, sea contrario a cualquiera de las partes en procedimiento administrativo que afecte a sus intereses;
+
+XIV. Si la persona servidora pública, su cónyuge, concubina, concubinario, conviviente o alguno de sus expresados parientes sigue algún procedimiento civil o criminal en que sea autoridad jurisdiccional, agente del Ministerio Público Federal o Local, Procurador o Representante Social, árbitro o arbitrador, de alguno de los litigantes;
 
 XV. Si es persona tutora, tutriz, curador o curadora de alguna de las partes interesadas, administra sus bienes, es gerente de alguna sociedad, asociación que tenga interés en la causa o no hayan pasado tres años de haberlo sido, y
 

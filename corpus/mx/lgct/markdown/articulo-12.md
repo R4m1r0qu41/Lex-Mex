@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LGCT — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
 source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 ---
@@ -23,7 +23,9 @@ I. Coordinar todas las acciones relativas al control de los productos del tabaco
 
 II. Establecer métodos de análisis para evaluar que la fabricación de productos del tabaco y sus accesorios se realice de conformidad con las disposiciones aplicables;
 
-III. Determinar a través de disposiciones de carácter general sobre la información que los fabricantes deben proporcionar a las autoridades correspondientes y al público acerca de los productos del tabaco y sus emisiones; IV. Determinar a través de disposiciones de carácter general lo relativo a las características, especificaciones y procedimientos relacionados con el envasado y etiquetado de los productos del tabaco, incluyendo lo relativo a paquetes individuales, cajetillas y al mayoreo;
+III. Determinar a través de disposiciones de carácter general sobre la información que los fabricantes deben proporcionar a las autoridades correspondientes y al público acerca de los productos del tabaco y sus emisiones;
+
+IV. Determinar a través de disposiciones de carácter general lo relativo a las características, especificaciones y procedimientos relacionados con el envasado y etiquetado de los productos del tabaco, incluyendo lo relativo a paquetes individuales, cajetillas y al mayoreo;
 
 V. Emitir las autorizaciones correspondientes para la producción, fabricación e importación de los productos del tabaco;
 

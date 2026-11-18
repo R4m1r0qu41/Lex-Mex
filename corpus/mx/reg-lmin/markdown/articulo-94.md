@@ -7,8 +7,8 @@ provision_type: article
 number: "94"
 aliases: ["REG-LMIN — Artículo 94"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -23,7 +23,9 @@ Cualquier interesado podrá solicitar información respecto de la cartografía m
 
 I. Se presentará la solicitud por escrito, señalando los datos específicos del lote o lotes respecto de los cuales se requiera información;
 
-II. La [Secretaría](articulo-1o.md) pondrá a disposición del interesado la información requerida, a partir de los quince días hábiles siguientes; III. Si se solicitan planos con información de la cartografía minera se deberá mencionar número y nombre de la carta topográfica [INEGI](articulo-1o.md) correspondiente, y
+II. La [Secretaría](articulo-1o.md) pondrá a disposición del interesado la información requerida, a partir de los quince días hábiles siguientes;
+
+III. Si se solicitan planos con información de la cartografía minera se deberá mencionar número y nombre de la carta topográfica [INEGI](articulo-1o.md) correspondiente, y
 
 IV. Los planos se entregarán al solicitante, dentro del plazo establecido en la fracción II de este artículo, contado a partir de la exhibición de la constancia del pago de derechos respectiva.
 

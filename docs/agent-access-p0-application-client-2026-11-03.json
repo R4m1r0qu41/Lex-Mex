@@ -1,0 +1,87 @@
+{
+  "at": "2026-11-04T03:45:22.132515+00:00",
+  "user_agent": "LexMexAccessAudit/1.0",
+  "requests": [
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/",
+      "status": 200,
+      "final_url": "https://www.leg4ll4bs.com/lex-mex/index.html",
+      "headers": {
+        "Date": "Wed, 04 Nov 2026 03:45:20 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "CF-Cache-Status": "HIT",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dKszLC%2F0UvCgIIxUhDWqwcXbsO31Qg5jFhbtuO%2F5POkI6Wsh96r4Au0x8cIDWpET5E8sNAal2jO9yVpAll9DMCxJNEa5R8S8xFC8p5khDwzdFJXwY0UNzK1GEND2DUIrFjmIlg%3D%3D\"}]}",
+        "Server": "cloudflare",
+        "CF-RAY": "a550a016ec792ea2-LAX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "bytes": 7827,
+      "body": "<!doctype html>\n<html lang=\"es\">\n<head>\n<meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"lex-mex-base\" content=\"/lex-mex/\">\n<meta name=\"description\" content=\"Corpus jur\u00eddico mexicano: art\u00edculos, referencias y sus fuentes oficiales, en una misma consulta.\">\n<link rel=\"describedby\" href=\"./llms.txt\"><link rel=\"stylesheet\" href=\"./reader.css\">\n<link rel=\"icon\" href=\"/favicon-monogram-square.png\" sizes=\"512x512\" type=\"image/png\">\n<link rel=\"shortcut icon\" href=\"/favicon-monogram-square.png\">\n<link rel=\"apple-touch-icon\" href=\"/avatar-dark-512.png\">\n<title>Lex-Mex \u00b7 Corpus jur\u00eddico</title>\n</head>\n<body>\n<a class=\"skip\" href=\"#article\">Ir al art\u00edculo</a>\n<header class=\"topbar\">\n  <a class=\"brand\" href=\"./\" aria-label=\"Lex-Mex inicio\"><span><img src=\"./lex-mex.svg\" width=\"115\" height=\"36\" alt=\"lex-mex\"><small>CORPUS JUR\u00cdDICO</small></span></a>\n  <div class=\"search-wrap\"><span aria-hidden=\"true\">\u2315</span><input id=\"search\" type=\"search\" placeholder=\"Buscar en esta colecci\u00f3n\" aria-label=\"Buscar art\u00edculos en la colecci\u00f3n\" autocomplete=\"off\"><kbd>/</kbd></div>\n  <span class=\"collection-badge\">Colecci\u00f3n financiera \u00b7 parcial</span>\n  <button id=\"about-open\" class=\"about-link\" type=\"button\">About</button>\n  <a class=\"firm-link\" href=\"https://www.leg4ll4bs.com/\">LEG4L L4BS \u2197</a>\n</header>\n<div class=\"workspace\">\n<aside class=\"sidebar\" id=\"index-sheet\" aria-label=\"\u00cdndice del corpus\">\n  <div class=\"sheet-bar\"><p class=\"eyebrow\">INSTRUMENTOS</p><button class=\"quiet sheet-close\" type=\"button\" data-close=\"index-sheet\">Cerrar</button></div><select id=\"instrument\" aria-label=\"Seleccionar instrumento\"></select>\n  <div id=\"instrument-summary\" class=\"instrument-summary\"></div>\n  <button id=\"download-instrument\" class=\"quiet download-instrument\" type=\"button\">Descargar norma completa \u00b7 .md</button>\n  <div class=\"index-label\"><span>\u00cdndice de disposiciones</span><span id=\"count\"></span></div>\n  <p id=\"search-summary\" class=\"muted small\" role=\"status\" hidden></p>\n  <nav id=\"provision-list\" aria-label=\"Disposiciones\"></nav>\n  <p class=\"index-hint muted small\">\u00cdndice desplazable \u00b7 sigue tu lectura</p>\n  <div class=\"sidebar-foot\"><a id=\"agent-index\" href=\"./llms.txt\" target=\"_blank\" rel=\"noopener\">Para agentes e IA \u00b7 llms.txt \u2197</a><span class=\"exports\">Disposici\u00f3n activa: <a id=\"markdown-link\">Markdown</a> \u00b7 <a id=\"text-link\" target=\"_blank\" rel=\"noopener\">Texto exacto</a> \u00b7 <a id=\"manifest-link\">Manifiesto</a></span><span id=\"release-tag\"></span></div>\n</aside>\n<main class=\"reading-column\" id=\"article\" tabindex=\"-1\" aria-label=\"Lectura continua\">\n  <div class=\"active-bar\" id=\"active-bar\">\n    <div class=\"compact-bar\"><button id=\"index-open\" class=\"quiet\" type=\"button\" aria-controls=\"index-sheet\">\u00cdndice</button><button id=\"source-open\" class=\"quiet\" type=\"button\" aria-controls=\"source-sheet\">Fuente oficial</button></div>\n    <div class=\"active-title\"><span class=\"eyebrow\" id=\"crumb-instrument\"></span><strong id=\"active-label\">Preparando el corpus\u2026</strong></div>\n    <div class=\"copy-actions\"><button id=\"copy-text\" class=\"quiet primary\" type=\"button\">Copiar art\u00edculo</button><button id=\"copy-citation\" class=\"quiet\" type=\"button\">Copiar cita</button><button id=\"share\" class=\"quiet\" type=\"button\">Copiar enlace</button></div>\n    <div class=\"view-options\"><button id=\"name-toggle\" class=\"toggle\" type=\"button\"></button><button id=\"size-toggle\" class=\"toggle\" type=\"button\"></button></div>\n  </div>\n  <p id=\"load-status\" class=\"muted small\" role=\"status\" aria-live=\"polite\"></p>\n  <div id=\"flow\" class=\"flow\"></div>\n  <footer class=\"reader-footer\"><span>Corpus de consulta. Nada aqu\u00ed constituye asesor\u00eda jur\u00eddica. La fuente de publicaci\u00f3n oficial de la normatividad federal es el DOF.</span><span>\u00a9 LEG4L L4BS 2026</span></footer>\n</main>\n<aside class=\"source-column\" id=\"source-sheet\" aria-label=\"Fuente oficial\">\n  <div class=\"sheet-bar\"><div><p class=\"eyebrow\">DOCUMENTO DE RESPALDO</p><h2>Fuente oficial</h2></div><button class=\"quiet sheet-close\" type=\"button\" data-close=\"source-sheet\">Cerrar</button></div>\n  <div class=\"source-meta\"><p id=\"reform-date\"></p><details><summary>Metadatos del documento</summary><strong id=\"source-publisher\"></strong><p id=\"retrieval-date\"></p><p>\u00daltima comprobaci\u00f3n peri\u00f3dica: <strong>no registrada</strong></p></details></div>\n  <div class=\"source-actions\"><a id=\"pdf-open\" class=\"quiet primary\" target=\"_blank\" rel=\"noopener\">Abrir PDF \u2197</a><button id=\"pdf-follow\" class=\"quiet\" type=\"button\" disabled aria-describedby=\"follow-note\">Seguimiento no disponible</button></div>\n  <div id=\"source-offer\" class=\"notice\" hidden><span id=\"source-offer-text\"></span> <button id=\"source-offer-open\" class=\"quiet\" type=\"button\">Abrir PDF de esta disposici\u00f3n</button></div>\n  <div class=\"pdf-area\"><iframe id=\"pdf\" title=\"PDF oficial de la norma seleccionada\"></iframe><div id=\"pdf-unavailable\" class=\"notice\" hidden>Esta versi\u00f3n no tiene una copia PDF verificada disponible.</div></div>\n  <div class=\"source-bottom\"><details><summary>Proveniencia y verificaci\u00f3n</summary><button id=\"verify-pdf\" class=\"quiet\" type=\"button\">Verificar copia PDF</button><p id=\"source-digest\" class=\"digest\"></p><p id=\"verification-result\" role=\"status\" hidden></p><a id=\"upstream-link\" target=\"_blank\" rel=\"noopener\">Consultar enlace oficial actual \u2197</a><p class=\"small muted\">La verificaci\u00f3n compara la copia PDF retenida con la huella registrada al recuperar la fuente. No comprueba el enlace actual ni compara una huella PDF con la del texto.</p><div class=\"follow-state\" id=\"follow-state\"><strong id=\"follow-title\"></strong><p id=\"follow-note\" class=\"small\"></p><p class=\"small muted\">La p\u00e1gina del PDF solo seguir\u00eda la lectura con un anclaje verificado, nunca por proporci\u00f3n ni por la aparici\u00f3n de una etiqueta. Esta publicaci\u00f3n no registra ninguno.</p></div></details></div>\n</aside>\n</div>\n<aside id=\"comparison\" class=\"comparison\" role=\"region\" aria-labelledby=\"comparison-title\" hidden><div class=\"section-title\"><h2 id=\"comparison-title\"></h2><button id=\"close-comparison\" class=\"quiet\" type=\"button\">Volver</button></div><p class=\"muted small\">Referencia consultada en vista secundaria. El art\u00edculo y la posici\u00f3n de origen se conservan.</p><p id=\"comparison-text\" class=\"comparison-text\"></p><div class=\"copy-actions\"><button id=\"comparison-copy\" class=\"quiet primary\" type=\"button\">Copiar art\u00edculo</button><button id=\"comparison-citation\" class=\"quiet\" type=\"button\">Copiar cita</button><button id=\"show-comparison\" class=\"quiet\" type=\"button\">Abrir como art\u00edculo principal \u2192</button></div></aside>\n<div id=\"sheet-backdrop\" class=\"sheet-backdrop\" hidden></div>\n<dialog id=\"about-dialog\" aria-labelledby=\"about-title\"><div class=\"section-title\"><h2 id=\"about-title\">About lex-mex</h2><button id=\"about-close\" class=\"quiet\" type=\"button\">Cerrar</button></div><p>lex-mex es un portal de LEG4L L4BS para consultar leyes y regulaciones mexicanas y acceder a sus textos en Markdown (.md).</p><p>Est\u00e1 pensado para la consulta humana y la b\u00fasqueda por agentes, con fuentes identificadas, fechas de recuperaci\u00f3n y huellas criptogr\u00e1ficas que permiten verificar la procedencia de cada publicaci\u00f3n.</p><p>La base de datos, las relaciones entre conceptos y las herramientas de b\u00fasqueda por agentes est\u00e1n en desarrollo activo. La colecci\u00f3n publicada es parcial; las referencias disponibles se muestran cuando est\u00e1n ancladas al texto.</p><p>Corpus de consulta. Nada aqu\u00ed constituye asesor\u00eda jur\u00eddica. La fuente de publicaci\u00f3n oficial de la normatividad federal es el DOF.</p><p class=\"small muted\">\u00a9 LEG4L L4BS 2026</p></dialog>\n<div id=\"message\" class=\"toast\" role=\"status\" aria-live=\"polite\" hidden></div>\n<script type=\"module\" src=\"./reader.js\"></script>\n</body></html>\n"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+      "status": 404,
+      "final_url": "https://www.leg4ll4bs.com/lex-mex/agents",
+      "headers": {
+        "Date": "Wed, 04 Nov 2026 03:45:21 GMT",
+        "Content-Type": "text/plain;charset=UTF-8",
+        "Content-Length": "9",
+        "Connection": "close",
+        "Vary": "RSC, Accept, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Next-Url, X-Vinext-Interception-Context, X-Vinext-Mounted-Slots, X-Vinext-Rsc-Render-Mode",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ghG1tc%2F1FQ28IB7xdaKNp3mHBI5FNHfg155vMEgkQz4DBAxwbpNr5i755Nonj59%2F1ucS1PdDU2A9G0PyjSxIgcs8xSekgz88PhPbTAK6XFKLs4H7%2Fy3dE6ydI5NNkYDFQtpbhg%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Server": "cloudflare",
+        "CF-RAY": "a550a01c3bcd0f27-LAX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "bytes": 9,
+      "body": "Not Found"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/robots.txt",
+      "status": 200,
+      "final_url": "https://www.leg4ll4bs.com/robots.txt",
+      "headers": {
+        "Date": "Wed, 04 Nov 2026 03:45:21 GMT",
+        "Content-Type": "text/plain",
+        "Content-Length": "388",
+        "Connection": "close",
+        "CF-Cache-Status": "HIT",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "ETag": "\"558d9dbae0515d94c0d79c347977e9f1\"",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FQNDCIAW28c6hLDhqW7b5qTvpaiFptwEJN3Iy%2Fe%2Fw9B%2BaupPLuSrJ%2BsUoK2Zx3Bo4W2X%2BAyFaySAeWtDRXGKoxgPtxPTdZ52FgiPDoBheR4L%2Fdlui%2B5ctOll6HX5%2B2fM1pnlfg%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Server": "cloudflare",
+        "CF-RAY": "a550a01ee8dac28f-LAX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "bytes": 388,
+      "body": "User-agent: *\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: Claude-SearchBot\nAllow: /\n\nUser-agent: Claude-User\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: Perplexity-User\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nSitemap: https://www.leg4ll4bs.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://www.leg4ll4bs.com/sitemap.xml",
+      "headers": {
+        "Date": "Wed, 04 Nov 2026 03:45:22 GMT",
+        "Content-Type": "application/xml",
+        "Content-Length": "597",
+        "Connection": "close",
+        "CF-Cache-Status": "HIT",
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "ETag": "\"eedd20e34fecd0192eeecb39626ea420\"",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CSUC632gQPAhBadiBsEDkru4o8WCc9wn2ddVkk4hbO8%2FGVyDutUeZTffj7Rco65Le98ShlGWjMASNcopbB%2B%2FGQMGeYdaId%2FWh2hIdlLplb0ou2%2B0vslTM%2BMfsvKwoXoCDzitJA%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Server": "cloudflare",
+        "CF-RAY": "a550a0211c761172-LAX",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "bytes": 597,
+      "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://www.leg4ll4bs.com/</loc>\n    <lastmod>2026-08-19</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>1.0</priority>\n  </url>\n  <url>\n    <loc>https://www.leg4ll4bs.com/en</loc>\n    <lastmod>2026-08-19</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.9</priority>\n  </url>\n  <url>\n    <loc>https://www.leg4ll4bs.com/lex-mex/</loc>\n    <lastmod>2026-10-13</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.8</priority>\n  </url>\n</urlset>\n"
+    }
+  ]
+}

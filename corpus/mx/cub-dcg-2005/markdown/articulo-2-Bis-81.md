@@ -11,7 +11,7 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
@@ -36,6 +36,6 @@ VI. Posiciones resultantes de la liquidación de efectivo mediante transferencia
 
 VII. Posiciones interbancarias procedentes de la liquidación de operaciones en divisas.
 
-El tratamiento de las diferencias en los plazos de vencimiento bajo el método basado en calificaciones internas básico y avanzado, será el mismo que en el Método Estándar señalado en el Artículo [2 Bis 48](articulo-2-Bis-48.md) de las presentes disposiciones.
+El tratamiento de las diferencias en los plazos de vencimiento bajo el método basado en calificaciones internas básico y avanzado, será el mismo que en el [Método Estándar](articulo-1.md) señalado en el Artículo [2 Bis 48](articulo-2-Bis-48.md) de las presentes disposiciones.
 
-Subapartado B Operaciones Sujetas a Riesgo de Crédito con las personas a que se refiere la fracción IV del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones
+Subapartado B [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) con las personas a que se refiere la fracción IV del Artículo [2 Bis 69](articulo-2-Bis-69.md) de las presentes disposiciones

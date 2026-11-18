@@ -27,7 +27,9 @@ III. Realizar las funciones de inspección y vigilancia de las [Instituciones](a
 
 IV. Presentar a la Junta de Gobierno un informe trimestral sobre la situación que guardan los sistemas asegurador y afianzador y las Instituciones y Sociedades Mutualistas que los conforman, así como las medidas pertinentes cuando a su juicio se presenten hechos o situaciones que afecten el buen funcionamiento de los mismos;
 
-V. Proponer a la Junta de Gobierno los proyectos de las disposiciones de carácter general que compete expedir a la Comisión con acuerdo de ese órgano de gobierno; VI. Emitir las disposiciones de carácter general necesarias para el ejercicio de las facultades que esta Ley y demás leyes y reglamentos le otorgan, y para el eficaz cumplimiento de las mismas y de las disposiciones que con base en ellas se expidan;
+V. Proponer a la Junta de Gobierno los proyectos de las disposiciones de carácter general que compete expedir a la Comisión con acuerdo de ese órgano de gobierno;
+
+VI. Emitir las disposiciones de carácter general necesarias para el ejercicio de las facultades que esta Ley y demás leyes y reglamentos le otorgan, y para el eficaz cumplimiento de las mismas y de las disposiciones que con base en ellas se expidan;
 
 VII. Emitir, en el ámbito de su competencia, las disposiciones y normas prudenciales de carácter general orientadas a preservar la solvencia, liquidez y estabilidad financiera de las Instituciones y Sociedades Mutualistas;
 
@@ -57,7 +59,9 @@ XIX. Emitir opinión a la [Secretaría](articulo-2.md) en materia de los delitos
 
 XX. Intervenir en los procedimientos de liquidación, así como en las solicitudes de concurso mercantil, de las Instituciones y Sociedades Mutualistas, en los términos previstos en esta Ley;
 
-XXI. Designar, con acuerdo de la Junta de Gobierno, a los liquidadores administrativos de las Instituciones y Sociedades Mutualistas; XXII. Otorgar, modificar o revocar las autorizaciones a que se refiere esta Ley, a las personas y entidades reguladas por la misma, distintas a las requeridas para organizarse y operar como Instituciones y Sociedades Mutualistas;
+XXI. Designar, con acuerdo de la Junta de Gobierno, a los liquidadores administrativos de las Instituciones y Sociedades Mutualistas;
+
+XXII. Otorgar, modificar o revocar las autorizaciones a que se refiere esta Ley, a las personas y entidades reguladas por la misma, distintas a las requeridas para organizarse y operar como Instituciones y Sociedades Mutualistas;
 
 XXIII. Investigar aquellos actos de personas físicas y de personas morales que no siendo Instituciones o Sociedades Mutualistas, hagan suponer la realización de operaciones violatorias de este ordenamiento, pudiendo al efecto, en términos de lo previsto en esta Ley, ordenar visitas de inspección a los presuntos responsables;
 
@@ -81,7 +85,9 @@ XXXI. Dirigir administrativamente a la Comisión;
 
 XXXII. Presentar para la aprobación de la Junta de Gobierno los proyectos de disposiciones relacionadas con la organización de la Comisión y con las atribuciones de sus unidades administrativas;
 
-XXXIII. Proponer a la Junta de Gobierno las condiciones generales de trabajo que deban observarse entre la Comisión y su personal; XXXIV. Proponer a la Junta de Gobierno el nombramiento y remoción de los vicepresidentes de la Comisión, así como nombrar y remover a los directores generales, directores y delegados regionales de la misma;
+XXXIII. Proponer a la Junta de Gobierno las condiciones generales de trabajo que deban observarse entre la Comisión y su personal;
+
+XXXIV. Proponer a la Junta de Gobierno el nombramiento y remoción de los vicepresidentes de la Comisión, así como nombrar y remover a los directores generales, directores y delegados regionales de la misma;
 
 XXXV. Proponer a la Junta de Gobierno el nombramiento y remoción del secretario y prosecretario de actas de la misma;
 

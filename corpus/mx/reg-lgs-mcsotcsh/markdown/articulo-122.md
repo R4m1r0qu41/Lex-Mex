@@ -7,8 +7,8 @@ provision_type: article
 number: "122"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 122"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -27,7 +27,9 @@ III.- Porque se dé un uso distinto a la autorización;
 
 IV.- Por incumplimiento grave a las disposiciones de la Ley, de este Reglamento o demás disposiciones aplicables;
 
-V.- Por reiterada renuencia a acatar las órdenes que dicte la Secretaría en los términos de la Ley, de este Reglamento y demás disposiciones aplicables; VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la Secretaría para otorgar la autorización correspondiente;
+V.- Por reiterada renuencia a acatar las órdenes que dicte la Secretaría en los términos de la Ley, de este Reglamento y demás disposiciones aplicables;
+
+VI.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la Secretaría para otorgar la autorización correspondiente;
 
 VII. Cuando el interesado no se ajuste a los términos, condiciones o requisitos bajo los cuales se le haya otorgado la autorización, o haga uso indebido de ella;
 

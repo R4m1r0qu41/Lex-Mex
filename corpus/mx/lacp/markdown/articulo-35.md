@@ -35,7 +35,9 @@ III. Los cónyuges y las personas que tengan parentesco con las personas señala
 
 IV. Las personas morales, así como los consejeros y funcionarios de éstas, en las que la Sociedad Financiera Popular posea directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital;
 
-V. Las personas morales en las que cualesquiera de las personas señaladas en las fracciones anteriores, así como los funcionarios, empleados, auditores externos y comisarios de la Sociedad Financiera Popular, los ascendientes y descendientes en primer grado, así como sus cónyuges, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital, y VI. Las personas morales en las que los funcionarios, auditores externos y comisarios de las Sociedades Financieras Populares sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales.
+V. Las personas morales en las que cualesquiera de las personas señaladas en las fracciones anteriores, así como los funcionarios, empleados, auditores externos y comisarios de la Sociedad Financiera Popular, los ascendientes y descendientes en primer grado, así como sus cónyuges, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital, y
+
+VI. Las personas morales en las que los funcionarios, auditores externos y comisarios de las Sociedades Financieras Populares sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales.
 
 Asimismo, se considerará una operación con persona relacionada, aquélla que se realice a través de cualquier persona o fideicomiso, cuando la contraparte y fuente de pago de dicha operación dependa de una de las personas relacionadas a que se refiere este artículo.
 

@@ -37,7 +37,9 @@ VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar 
 
 IX. Optar por recibir los cuidados paliativos en un domicilio particular;
 
-X. Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación; XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+X. Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
 
 XII. Los demás que las leyes señalen.
 

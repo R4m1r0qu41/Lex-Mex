@@ -29,7 +29,9 @@ IV.- Coordinar la formulación y promulgación de los contratos-ley de trabajo;
 
 V.- Promover el incremento de la productividad del trabajo;
 
-VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública; Fracción reformada DOF 30-12-1983 VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
+VI.- Promover el desarrollo de la capacitación y el adiestramiento en y para el trabajo, así como realizar investigaciones, prestar servicios de asesoría e impartir cursos de capacitación que para incrementar la productividad en el trabajo requieran los sectores productivos del país, en coordinación con la Secretaría de Educación Pública; Fracción reformada DOF 30-12-1983
+
+VII.- Establecer y dirigir el servicio nacional de empleo y vigilar su funcionamiento;
 
 VIII.- Coordinar la integración y establecimiento de las Juntas Federales de Conciliación, de la Federal de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción federal, así como vigilar su funcionamiento;
 

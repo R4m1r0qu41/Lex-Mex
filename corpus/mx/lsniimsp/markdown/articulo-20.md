@@ -7,8 +7,8 @@ provision_type: article
 number: "20"
 aliases: ["LSNIIMSP — Artículo 20"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
 source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 ---
@@ -27,7 +27,9 @@ III. Solicitar acuerdos y acciones concretas a los grupos de trabajo;
 
 IV. Aprobar los programas y las acciones de los grupos de trabajo;
 
-V. Informar de manera periódica al [Consejo Nacional](articulo-2.md) y a la [Secretaría](articulo-2.md), de las actividades de los grupos de trabajo; VI. Gestionar ante la Secretaría los recursos presupuestales, materiales y humanos que se requieran para las operaciones de sus grupos de trabajo, y encargarse de su administración;
+V. Informar de manera periódica al [Consejo Nacional](articulo-2.md) y a la [Secretaría](articulo-2.md), de las actividades de los grupos de trabajo;
+
+VI. Gestionar ante la Secretaría los recursos presupuestales, materiales y humanos que se requieran para las operaciones de sus grupos de trabajo, y encargarse de su administración;
 
 VII. Aprobar la invitación de representantes temporales de otras instituciones para el desarrollo de las actividades de los grupos de trabajo, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "160"
 aliases: ["LGE — Artículo 160"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -23,7 +23,9 @@ I. Abstenerse de impedir u obstaculizar por cualquier medio la visita;
 
 II. Acreditar la personalidad que ostente, así como señalar el carácter con el que atienda la visita;
 
-III. Permitir y brindar facilidades para el acceso oportuno y completo a las instalaciones del plantel, documentos, equipamiento, entre otras, que se habrán de verificar; IV. Exhibir los documentos que exijan las disposiciones aplicables en materia educativa, conforme al objeto de la orden de visita;
+III. Permitir y brindar facilidades para el acceso oportuno y completo a las instalaciones del plantel, documentos, equipamiento, entre otras, que se habrán de verificar;
+
+IV. Exhibir los documentos que exijan las disposiciones aplicables en materia educativa, conforme al objeto de la orden de visita;
 
 V. Proporcionar la información adicional que solicite el servidor público comisionado, conforme al objeto y alcance de la orden de visita;
 

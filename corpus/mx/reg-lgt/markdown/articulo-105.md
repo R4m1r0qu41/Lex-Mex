@@ -29,4 +29,6 @@ c) Las mejores prácticas de sustentabilidad en la Prestación de los Servicios 
 
 d) La accesibilidad para la atención de grupos poblacionales específicos;
 
-II. Los incentivos a los que se harán acreedores los Prestadores de Servicios Turísticos y [Destinos Turísticos](articulo-2.md) que obtengan el Distintivo Nacional de Calidad Turística, y III. Las demás disposiciones que contribuyan a elevar la calidad de los Servicios Turísticos.
+II. Los incentivos a los que se harán acreedores los Prestadores de Servicios Turísticos y [Destinos Turísticos](articulo-2.md) que obtengan el Distintivo Nacional de Calidad Turística, y
+
+III. Las demás disposiciones que contribuyan a elevar la calidad de los Servicios Turísticos.

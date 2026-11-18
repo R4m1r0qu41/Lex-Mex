@@ -7,8 +7,8 @@ provision_type: article
 number: "62"
 aliases: ["LGMDFP — Artículo 62"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -17,7 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 62
 
-El [Consejo Ciudadano](articulo-4.md) tiene las funciones siguientes: I. Proponer al [Sistema Nacional](articulo-4.md) y a la [Comisión Nacional de Búsqueda](articulo-4.md) acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
+El [Consejo Ciudadano](articulo-4.md) tiene las funciones siguientes:
+
+I. Proponer al [Sistema Nacional](articulo-4.md) y a la [Comisión Nacional de Búsqueda](articulo-4.md) acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
 
 II. Proponer acciones a las instituciones que forman el Sistema Nacional para ampliar sus capacidades, incluidos servicios periciales y forenses;
 

@@ -21,7 +21,9 @@ Al concluir el plazo del vencimiento del contrato o cuando las partes acuerden s
 
 I. La compra de los bienes a un precio inferior a su valor de adquisición, que quedará fijado en el contrato. En caso de que no se haya fijado, el precio debe ser inferior al valor de mercado a la fecha de compra, conforme a las bases que se establezcan en el contrato;
 
-II. A prorrogar el plazo para continuar con el uso o goce temporal, pagando una renta inferior a los pagos periódicos que venía haciendo, conforme a las bases que se establezcan en el contrato; y III. A participar con el arrendador en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
+II. A prorrogar el plazo para continuar con el uso o goce temporal, pagando una renta inferior a los pagos periódicos que venía haciendo, conforme a las bases que se establezcan en el contrato; y
+
+III. A participar con el arrendador en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
 
 Cuando en el contrato se convenga la obligación del arrendatario de adoptar, de antemano, alguna de las opciones antes señaladas, éste será responsable de los daños y perjuicios en caso de incumplimiento. El arrendador no podrá oponerse al ejercicio de dicha opción.
 

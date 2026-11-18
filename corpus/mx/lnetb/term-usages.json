@@ -136,12 +136,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:2:term-usage:842-845",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:2:term-usage:843-846",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 842,
-    "end_char": 845
+    "start_char": 843,
+    "end_char": 846
   },
   {
     "schema_version": "0.1.0",
@@ -307,291 +307,291 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3607-3615",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3608-3616",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3607,
-    "end_char": 3615
+    "start_char": 3608,
+    "end_char": 3616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3618-3627",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3619-3628",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3618,
-    "end_char": 3627
+    "start_char": 3619,
+    "end_char": 3628
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3645-3662",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3646-3663",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 3645,
-    "end_char": 3662
+    "start_char": 3646,
+    "end_char": 3663
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3777-3785",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3778-3786",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3777,
-    "end_char": 3785
+    "start_char": 3778,
+    "end_char": 3786
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3788-3797",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3789-3798",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3788,
-    "end_char": 3797
+    "start_char": 3789,
+    "end_char": 3798
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3869-3886",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3870-3887",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 3869,
-    "end_char": 3886
+    "start_char": 3870,
+    "end_char": 3887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3938-3946",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3939-3947",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3938,
-    "end_char": 3946
+    "start_char": 3939,
+    "end_char": 3947
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3949-3958",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:3950-3959",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3949,
-    "end_char": 3958
+    "start_char": 3950,
+    "end_char": 3959
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4205-4213",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4206-4214",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 4205,
-    "end_char": 4213
+    "start_char": 4206,
+    "end_char": 4214
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4216-4225",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4217-4226",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 4216,
-    "end_char": 4225
+    "start_char": 4217,
+    "end_char": 4226
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4684-4692",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4685-4693",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 4684,
-    "end_char": 4692
+    "start_char": 4685,
+    "end_char": 4693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4695-4704",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4696-4705",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 4695,
-    "end_char": 4704
+    "start_char": 4696,
+    "end_char": 4705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4909-4917",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4910-4918",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 4909,
-    "end_char": 4917
+    "start_char": 4910,
+    "end_char": 4918
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4920-4929",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:4921-4930",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 4920,
-    "end_char": 4929
+    "start_char": 4921,
+    "end_char": 4930
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5069-5077",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5070-5078",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 5069,
-    "end_char": 5077
+    "start_char": 5070,
+    "end_char": 5078
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5080-5089",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5081-5090",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 5080,
-    "end_char": 5089
+    "start_char": 5081,
+    "end_char": 5090
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5237-5279",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5238-5280",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:repositorio-nacional-de-tecnologia-publica",
     "span": "Repositorio Nacional de Tecnología Pública",
-    "start_char": 5237,
-    "end_char": 5279
+    "start_char": 5238,
+    "end_char": 5280
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5326-5336",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5327-5337",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:regulacion",
     "span": "Regulación",
-    "start_char": 5326,
-    "end_char": 5336
+    "start_char": 5327,
+    "end_char": 5337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5360-5375",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5361-5376",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujeto Obligado",
-    "start_char": 5360,
-    "end_char": 5375
+    "start_char": 5361,
+    "end_char": 5376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5416-5462",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5417-5463",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-de-simplificacion-y-digitalizacion",
     "span": "Autoridades de Simplificación y Digitalización",
-    "start_char": 5416,
-    "end_char": 5462
+    "start_char": 5417,
+    "end_char": 5463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5487-5490",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5488-5491",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 5487,
-    "end_char": 5490
+    "start_char": 5488,
+    "end_char": 5491
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5579-5594",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5580-5595",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujeto Obligado",
-    "start_char": 5579,
-    "end_char": 5594
+    "start_char": 5580,
+    "end_char": 5595
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5771-5774",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5772-5775",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 5771,
-    "end_char": 5774
+    "start_char": 5772,
+    "end_char": 5775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5952-5969",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:5953-5970",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 5952,
-    "end_char": 5969
+    "start_char": 5953,
+    "end_char": 5970
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6061-6078",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6062-6079",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 6061,
-    "end_char": 6078
+    "start_char": 6062,
+    "end_char": 6079
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6153-6170",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6154-6171",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 6153,
-    "end_char": 6170
+    "start_char": 6154,
+    "end_char": 6171
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6487-6495",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6488-6496",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 6487,
-    "end_char": 6495
+    "start_char": 6488,
+    "end_char": 6496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6498-6507",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:6499-6508",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 6498,
-    "end_char": 6507
+    "start_char": 6499,
+    "end_char": 6508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7128-7131",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7129-7132",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 7128,
-    "end_char": 7131
+    "start_char": 7129,
+    "end_char": 7132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7225-7240",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7227-7242",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujeto Obligado",
-    "start_char": 7225,
-    "end_char": 7240
+    "start_char": 7227,
+    "end_char": 7242
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7447-7470",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7449-7472",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:propuesta-regulatoria",
     "span": "Propuestas Regulatorias",
-    "start_char": 7447,
-    "end_char": 7470
+    "start_char": 7449,
+    "end_char": 7472
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7670-7687",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:3:term-usage:7672-7689",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 7670,
-    "end_char": 7687
+    "start_char": 7672,
+    "end_char": 7689
   },
   {
     "schema_version": "0.1.0",
@@ -1279,309 +1279,309 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2080-2088",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2081-2089",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2080,
-    "end_char": 2088
+    "start_char": 2081,
+    "end_char": 2089
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2091-2100",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2092-2101",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2091,
-    "end_char": 2100
+    "start_char": 2092,
+    "end_char": 2101
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2344-2352",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2345-2353",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2344,
-    "end_char": 2352
+    "start_char": 2345,
+    "end_char": 2353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2355-2364",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2356-2365",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2355,
-    "end_char": 2364
+    "start_char": 2356,
+    "end_char": 2365
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2741-2760",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2742-2761",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 2741,
-    "end_char": 2760
+    "start_char": 2742,
+    "end_char": 2761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2807-2810",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2808-2811",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 2807,
-    "end_char": 2810
+    "start_char": 2808,
+    "end_char": 2811
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2888-2891",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2889-2892",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 2888,
-    "end_char": 2891
+    "start_char": 2889,
+    "end_char": 2892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2981-2998",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:2982-2999",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2981,
-    "end_char": 2998
+    "start_char": 2982,
+    "end_char": 2999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3013-3027",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3014-3028",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:simplificacion",
     "span": "Simplificación",
-    "start_char": 3013,
-    "end_char": 3027
+    "start_char": 3014,
+    "end_char": 3028
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3030-3044",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3031-3045",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:digitalizacion",
     "span": "Digitalización",
-    "start_char": 3030,
-    "end_char": 3044
+    "start_char": 3031,
+    "end_char": 3045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3048-3056",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3049-3057",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3048,
-    "end_char": 3056
+    "start_char": 3049,
+    "end_char": 3057
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3059-3068",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3060-3069",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3059,
-    "end_char": 3068
+    "start_char": 3060,
+    "end_char": 3069
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3193-3239",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3194-3240",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:portal-ciudadano-unico-de-tramites-y-servicios",
     "span": "Portal Ciudadano Único de Trámites y Servicios",
-    "start_char": 3193,
-    "end_char": 3239
+    "start_char": 3194,
+    "end_char": 3240
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3378-3381",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3379-3382",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 3378,
-    "end_char": 3381
+    "start_char": 3379,
+    "end_char": 3382
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3417-3436",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3418-3437",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 3417,
-    "end_char": 3436
+    "start_char": 3418,
+    "end_char": 3437
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3467-3481",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3468-3482",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:simplificacion",
     "span": "Simplificación",
-    "start_char": 3467,
-    "end_char": 3481
+    "start_char": 3468,
+    "end_char": 3482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3484-3498",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3485-3499",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:digitalizacion",
     "span": "Digitalización",
-    "start_char": 3484,
-    "end_char": 3498
+    "start_char": 3485,
+    "end_char": 3499
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3502-3510",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3503-3511",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3502,
-    "end_char": 3510
+    "start_char": 3503,
+    "end_char": 3511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3513-3522",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3514-3523",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3513,
-    "end_char": 3522
+    "start_char": 3514,
+    "end_char": 3523
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3555-3572",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3556-3573",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 3555,
-    "end_char": 3572
+    "start_char": 3556,
+    "end_char": 3573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3694-3697",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3695-3698",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 3694,
-    "end_char": 3697
+    "start_char": 3695,
+    "end_char": 3698
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3852-3866",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3853-3867",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:simplificacion",
     "span": "Simplificación",
-    "start_char": 3852,
-    "end_char": 3866
+    "start_char": 3853,
+    "end_char": 3867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3869-3883",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3870-3884",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:digitalizacion",
     "span": "Digitalización",
-    "start_char": 3869,
-    "end_char": 3883
+    "start_char": 3870,
+    "end_char": 3884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3887-3895",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3888-3896",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 3887,
-    "end_char": 3895
+    "start_char": 3888,
+    "end_char": 3896
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3898-3907",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:3899-3908",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 3898,
-    "end_char": 3907
+    "start_char": 3899,
+    "end_char": 3908
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4044-4047",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4045-4048",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 4044,
-    "end_char": 4047
+    "start_char": 4045,
+    "end_char": 4048
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4066-4083",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4067-4084",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 4066,
-    "end_char": 4083
+    "start_char": 4067,
+    "end_char": 4084
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4086-4105",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4087-4106",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 4086,
-    "end_char": 4105
+    "start_char": 4087,
+    "end_char": 4106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4161-4175",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4162-4176",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:simplificacion",
     "span": "Simplificación",
-    "start_char": 4161,
-    "end_char": 4175
+    "start_char": 4162,
+    "end_char": 4176
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4178-4192",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4179-4193",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:digitalizacion",
     "span": "Digitalización",
-    "start_char": 4178,
-    "end_char": 4192
+    "start_char": 4179,
+    "end_char": 4193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4199-4216",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4200-4217",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 4199,
-    "end_char": 4216
+    "start_char": 4200,
+    "end_char": 4217
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4219-4238",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4220-4239",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 4219,
-    "end_char": 4238
+    "start_char": 4220,
+    "end_char": 4239
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4296-4299",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4297-4300",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 4296,
-    "end_char": 4299
+    "start_char": 4297,
+    "end_char": 4300
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4354-4357",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:9:term-usage:4355-4358",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:9",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 4354,
-    "end_char": 4357
+    "start_char": 4355,
+    "end_char": 4358
   },
   {
     "schema_version": "0.1.0",
@@ -1756,201 +1756,201 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1375-1392",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1376-1393",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 1375,
-    "end_char": 1392
+    "start_char": 1376,
+    "end_char": 1393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1582-1585",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1583-1586",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 1582,
-    "end_char": 1585
+    "start_char": 1583,
+    "end_char": 1586
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1660-1701",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1661-1702",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:agenda-de-simplificacion-y-digitalizacion",
     "span": "Agenda de Simplificación y Digitalización",
-    "start_char": 1660,
-    "end_char": 1701
+    "start_char": 1661,
+    "end_char": 1702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1709-1726",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1710-1727",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 1709,
-    "end_char": 1726
+    "start_char": 1710,
+    "end_char": 1727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1790-1798",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1791-1799",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 1790,
-    "end_char": 1798
+    "start_char": 1791,
+    "end_char": 1799
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1801-1810",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1802-1811",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 1801,
-    "end_char": 1810
+    "start_char": 1802,
+    "end_char": 1811
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1817-1834",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1818-1835",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 1817,
-    "end_char": 1834
+    "start_char": 1818,
+    "end_char": 1835
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1954-1977",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:1955-1978",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:soluciones-tecnologicas",
     "span": "Soluciones Tecnológicas",
-    "start_char": 1954,
-    "end_char": 1977
+    "start_char": 1955,
+    "end_char": 1978
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2087-2090",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2088-2091",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 2087,
-    "end_char": 2090
+    "start_char": 2088,
+    "end_char": 2091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2186-2194",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2187-2195",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2186,
-    "end_char": 2194
+    "start_char": 2187,
+    "end_char": 2195
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2197-2206",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2198-2207",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2197,
-    "end_char": 2206
+    "start_char": 2198,
+    "end_char": 2207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2246-2263",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2247-2264",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2246,
-    "end_char": 2263
+    "start_char": 2247,
+    "end_char": 2264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2372-2389",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2373-2390",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2372,
-    "end_char": 2389
+    "start_char": 2373,
+    "end_char": 2390
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2426-2434",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2427-2435",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2426,
-    "end_char": 2434
+    "start_char": 2427,
+    "end_char": 2435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2437-2446",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2438-2447",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2437,
-    "end_char": 2446
+    "start_char": 2438,
+    "end_char": 2447
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2621-2638",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2622-2639",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2621,
-    "end_char": 2638
+    "start_char": 2622,
+    "end_char": 2639
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2717-2763",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2718-2764",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:portal-ciudadano-unico-de-tramites-y-servicios",
     "span": "Portal Ciudadano Único de Trámites y Servicios",
-    "start_char": 2717,
-    "end_char": 2763
+    "start_char": 2718,
+    "end_char": 2764
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2884-2892",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2885-2893",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2884,
-    "end_char": 2892
+    "start_char": 2885,
+    "end_char": 2893
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2895-2904",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2896-2905",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2895,
-    "end_char": 2904
+    "start_char": 2896,
+    "end_char": 2905
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2946-2963",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:2947-2964",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2946,
-    "end_char": 2963
+    "start_char": 2947,
+    "end_char": 2964
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:3068-3071",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:3069-3072",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 3068,
-    "end_char": 3071
+    "start_char": 3069,
+    "end_char": 3072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:3293-3296",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:10:term-usage:3294-3297",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:10",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 3293,
-    "end_char": 3296
+    "start_char": 3294,
+    "end_char": 3297
   },
   {
     "schema_version": "0.1.0",
@@ -2485,39 +2485,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2685-2702",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2686-2703",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:13",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 2685,
-    "end_char": 2702
+    "start_char": 2686,
+    "end_char": 2703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2914-2922",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2915-2923",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:13",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2914,
-    "end_char": 2922
+    "start_char": 2915,
+    "end_char": 2923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2925-2934",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2926-2935",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:13",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2925,
-    "end_char": 2934
+    "start_char": 2926,
+    "end_char": 2935
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2980-2983",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:13:term-usage:2981-2984",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:13",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 2980,
-    "end_char": 2983
+    "start_char": 2981,
+    "end_char": 2984
   },
   {
     "schema_version": "0.1.0",
@@ -2809,201 +2809,201 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:325-328",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:326-329",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 325,
-    "end_char": 328
+    "start_char": 326,
+    "end_char": 329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:378-386",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:379-387",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 378,
-    "end_char": 386
+    "start_char": 379,
+    "end_char": 387
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:389-398",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:390-399",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 389,
-    "end_char": 398
+    "start_char": 390,
+    "end_char": 399
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:416-462",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:417-463",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:portal-ciudadano-unico-de-tramites-y-servicios",
     "span": "Portal Ciudadano Único de Trámites y Servicios",
-    "start_char": 416,
-    "end_char": 462
+    "start_char": 417,
+    "end_char": 463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:504-516",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:505-517",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:regulacion",
     "span": "Regulaciones",
-    "start_char": 504,
-    "end_char": 516
+    "start_char": 505,
+    "end_char": 517
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:735-743",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:736-744",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 735,
-    "end_char": 743
+    "start_char": 736,
+    "end_char": 744
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:746-755",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:747-756",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 746,
-    "end_char": 755
+    "start_char": 747,
+    "end_char": 756
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:966-974",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:967-975",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 966,
-    "end_char": 974
+    "start_char": 967,
+    "end_char": 975
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:977-986",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:978-987",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 977,
-    "end_char": 986
+    "start_char": 978,
+    "end_char": 987
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1046-1061",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1047-1062",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridad Local",
-    "start_char": 1046,
-    "end_char": 1061
+    "start_char": 1047,
+    "end_char": 1062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1191-1199",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1192-1200",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 1191,
-    "end_char": 1199
+    "start_char": 1192,
+    "end_char": 1200
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1202-1211",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1203-1212",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 1202,
-    "end_char": 1211
+    "start_char": 1203,
+    "end_char": 1212
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1245-1287",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1246-1288",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:repositorio-nacional-de-tecnologia-publica",
     "span": "Repositorio Nacional de Tecnología Pública",
-    "start_char": 1245,
-    "end_char": 1287
+    "start_char": 1246,
+    "end_char": 1288
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1313-1321",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1314-1322",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:llave-mx",
     "span": "Llave MX",
-    "start_char": 1313,
-    "end_char": 1321
+    "start_char": 1314,
+    "end_char": 1322
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1426-1434",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1427-1435",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:llave-mx",
     "span": "Llave MX",
-    "start_char": 1426,
-    "end_char": 1434
+    "start_char": 1427,
+    "end_char": 1435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1479-1502",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1480-1503",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:soluciones-tecnologicas",
     "span": "Soluciones Tecnológicas",
-    "start_char": 1479,
-    "end_char": 1502
+    "start_char": 1480,
+    "end_char": 1503
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1538-1546",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1539-1547",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 1538,
-    "end_char": 1546
+    "start_char": 1539,
+    "end_char": 1547
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1549-1558",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1550-1559",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 1549,
-    "end_char": 1558
+    "start_char": 1550,
+    "end_char": 1559
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1890-1898",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1891-1899",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 1890,
-    "end_char": 1898
+    "start_char": 1891,
+    "end_char": 1899
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1901-1910",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1902-1911",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 1901,
-    "end_char": 1910
+    "start_char": 1902,
+    "end_char": 1911
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1924-1961",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1925-1962",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:modelo-nacional-de-atencion-ciudadana",
     "span": "Modelo Nacional de Atención Ciudadana",
-    "start_char": 1924,
-    "end_char": 1961
+    "start_char": 1925,
+    "end_char": 1962
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1998-2001",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:16:term-usage:1999-2002",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 1998,
-    "end_char": 2001
+    "start_char": 1999,
+    "end_char": 2002
   },
   {
     "schema_version": "0.1.0",
@@ -3331,21 +3331,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:20:term-usage:253-299",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:20:term-usage:254-300",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:20",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:portal-ciudadano-unico-de-tramites-y-servicios",
     "span": "Portal Ciudadano Único de Trámites y Servicios",
-    "start_char": 253,
-    "end_char": 299
+    "start_char": 254,
+    "end_char": 300
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:20:term-usage:328-340",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:20:term-usage:329-341",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:20",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:regulacion",
     "span": "Regulaciones",
-    "start_char": 328,
-    "end_char": 340
+    "start_char": 329,
+    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
@@ -3601,48 +3601,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:740-748",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:741-749",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:24",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 740,
-    "end_char": 748
+    "start_char": 741,
+    "end_char": 749
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:751-760",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:752-761",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:24",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 751,
-    "end_char": 760
+    "start_char": 752,
+    "end_char": 761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:784-801",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:785-802",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:24",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 784,
-    "end_char": 801
+    "start_char": 785,
+    "end_char": 802
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:834-846",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:835-847",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:24",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:regulacion",
     "span": "Regulaciones",
-    "start_char": 834,
-    "end_char": 846
+    "start_char": 835,
+    "end_char": 847
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:1068-1112",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:24:term-usage:1069-1113",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:24",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-de-simplificacion-y-digitalizacion",
     "span": "Autoridad de Simplificación y Digitalización",
-    "start_char": 1068,
-    "end_char": 1112
+    "start_char": 1069,
+    "end_char": 1113
   },
   {
     "schema_version": "0.1.0",
@@ -4051,30 +4051,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:602-610",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:603-611",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:34",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 602,
-    "end_char": 610
+    "start_char": 603,
+    "end_char": 611
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:613-622",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:614-623",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:34",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 613,
-    "end_char": 622
+    "start_char": 614,
+    "end_char": 623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:896-899",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:34:term-usage:897-900",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:34",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:ley",
     "span": "Ley",
-    "start_char": 896,
-    "end_char": 899
+    "start_char": 897,
+    "end_char": 900
   },
   {
     "schema_version": "0.1.0",
@@ -4159,39 +4159,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:408-429",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:409-430",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:38",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:propuesta-regulatoria",
     "span": "Propuesta Regulatoria",
-    "start_char": 408,
-    "end_char": 429
+    "start_char": 409,
+    "end_char": 430
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:569-590",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:570-591",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:38",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:propuesta-regulatoria",
     "span": "Propuesta Regulatoria",
-    "start_char": 569,
-    "end_char": 590
+    "start_char": 570,
+    "end_char": 591
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:779-800",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:780-801",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:38",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:propuesta-regulatoria",
     "span": "Propuesta Regulatoria",
-    "start_char": 779,
-    "end_char": 800
+    "start_char": 780,
+    "end_char": 801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:940-961",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:38:term-usage:941-962",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:38",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:propuesta-regulatoria",
     "span": "Propuesta Regulatoria",
-    "start_char": 940,
-    "end_char": 961
+    "start_char": 941,
+    "end_char": 962
   },
   {
     "schema_version": "0.1.0",
@@ -4987,12 +4987,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:54:term-usage:864-879",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:54:term-usage:865-880",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:54",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujeto Obligado",
-    "start_char": 864,
-    "end_char": 879
+    "start_char": 865,
+    "end_char": 880
   },
   {
     "schema_version": "0.1.0",
@@ -6058,120 +6058,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:854-862",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:855-863",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 854,
-    "end_char": 862
+    "start_char": 855,
+    "end_char": 863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:865-874",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:866-875",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 865,
-    "end_char": 874
+    "start_char": 866,
+    "end_char": 875
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1070-1078",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1071-1079",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 1070,
-    "end_char": 1078
+    "start_char": 1071,
+    "end_char": 1079
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1081-1090",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1082-1091",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 1081,
-    "end_char": 1090
+    "start_char": 1082,
+    "end_char": 1091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1219-1238",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1220-1239",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 1219,
-    "end_char": 1238
+    "start_char": 1220,
+    "end_char": 1239
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1345-1387",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1346-1388",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:repositorio-nacional-de-tecnologia-publica",
     "span": "Repositorio Nacional de Tecnología Pública",
-    "start_char": 1345,
-    "end_char": 1387
+    "start_char": 1346,
+    "end_char": 1388
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1410-1429",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1411-1430",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:autoridades-locales",
     "span": "Autoridades Locales",
-    "start_char": 1410,
-    "end_char": 1429
+    "start_char": 1411,
+    "end_char": 1430
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1433-1447",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1434-1448",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:simplificacion",
     "span": "Simplificación",
-    "start_char": 1433,
-    "end_char": 1447
+    "start_char": 1434,
+    "end_char": 1448
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1450-1464",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1451-1465",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:digitalizacion",
     "span": "Digitalización",
-    "start_char": 1450,
-    "end_char": 1464
+    "start_char": 1451,
+    "end_char": 1465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1467-1484",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1468-1485",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:sujeto-obligado",
     "span": "Sujetos Obligados",
-    "start_char": 1467,
-    "end_char": 1484
+    "start_char": 1468,
+    "end_char": 1485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1583-1625",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:1584-1626",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:repositorio-nacional-de-tecnologia-publica",
     "span": "Repositorio Nacional de Tecnología Pública",
-    "start_char": 1583,
-    "end_char": 1625
+    "start_char": 1584,
+    "end_char": 1626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:2072-2080",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:2073-2081",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:tramite",
     "span": "Trámites",
-    "start_char": 2072,
-    "end_char": 2080
+    "start_char": 2073,
+    "end_char": 2081
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:2083-2092",
+    "id": "urn:lex-mx:federal:statute:lnetb:article:87:term-usage:2084-2093",
     "provision_id": "urn:lex-mx:federal:statute:lnetb:article:87",
     "term_id": "urn:lex-mx:federal:statute:lnetb:term:servicio",
     "span": "Servicios",
-    "start_char": 2083,
-    "end_char": 2092
+    "start_char": 2084,
+    "end_char": 2093
   },
   {
     "schema_version": "0.1.0",

@@ -63,11 +63,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:4545-4546:6:direct",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:4546-4547:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "source_span": "6",
-    "start_char": 4545,
-    "end_char": 4546,
+    "start_char": 4546,
+    "end_char": 4547,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:6",
     "qualifiers": [],
@@ -79,11 +79,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:4549-4554:6-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:4550-4555:6-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "source_span": "6 Bis",
-    "start_char": 4549,
-    "end_char": 4554,
+    "start_char": 4550,
+    "end_char": 4555,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
     "qualifiers": [],
@@ -95,19 +95,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:10453-10454:2:direct",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:reference:10455-10456:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "source_span": "2",
-    "start_char": 10453,
-    "end_char": 10454,
+    "start_char": 10455,
+    "end_char": 10456,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsct",
     "target_provision_id": "urn:lex-mx:federal:statute:lsct:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 10429,
-        "end_char": 10439
+        "start_char": 10431,
+        "end_char": 10441
       }
     ],
     "basis": "express_cross_reference",
@@ -834,36 +834,6 @@
         "text": "fracción VIII",
         "start_char": 30,
         "end_char": 43
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y VI",
-        "start_char": 50,
-        "end_char": 68
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 99,
-        "end_char": 109
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 111,
-        "end_char": 120
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 128,
-        "end_char": 147
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 165,
-        "end_char": 179
       }
     ],
     "basis": "express_cross_reference",

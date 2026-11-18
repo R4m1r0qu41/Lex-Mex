@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["REG-LIEG — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf
 source_sha256: 6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d
 ---
@@ -23,7 +23,9 @@ I. Las bases conforme a las cuales se aprueben los Planes Nacional, Sectoriales 
 
 II. La forma y términos en que las dependencias y entidades se integrarán a los sistemas nacionales, así como lo relativo a la homogenización de los procedimientos de captación de datos;
 
-III. Las bases para que el Ejecutivo Federal proponga a los gobiernos locales y municipales su integración a los sistemas nacionales, así como los procedimientos relativos a la forma y términos en que deberá pactarse esa integración; IV. Las medidas que coadyuven para que la adhesión a los sistemas nacionales por parte de los gobiernos locales y municipales sea integral;
+III. Las bases para que el Ejecutivo Federal proponga a los gobiernos locales y municipales su integración a los sistemas nacionales, así como los procedimientos relativos a la forma y términos en que deberá pactarse esa integración;
+
+IV. Las medidas que coadyuven para que la adhesión a los sistemas nacionales por parte de los gobiernos locales y municipales sea integral;
 
 V. Las bases que se propondrán a los Poderes Legislativo y Judicial de la Federación y Judicial del Distrito Federal, para que éstos presten la colaboración en su integración a dichos sistemas;
 

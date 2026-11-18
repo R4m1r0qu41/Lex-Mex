@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["LFZEE — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -45,7 +45,9 @@ XII. Requerir información y documentación al Administrador Integral y a los [I
 
 XIII. Coordinar acciones de promoción de las Zonas, sin perjuicio de las que correspondan al Administrador Integral;
 
-XIV. Suspender las actividades o la ejecución de obras en la Zona, en el caso previsto en el artículo [49](articulo-49.md) de esta Ley; XV. Coadyuvar en la coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
+XIV. Suspender las actividades o la ejecución de obras en la Zona, en el caso previsto en el artículo [49](articulo-49.md) de esta Ley;
+
+XV. Coadyuvar en la coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
 
 XVI. Autorizar los actos que impliquen el cambio del control de la persona moral titular del Permiso, de conformidad con lo dispuesto en esta Ley;
 

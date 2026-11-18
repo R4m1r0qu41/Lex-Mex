@@ -1,0 +1,88 @@
+[
+  {
+    "site": "Lex-Mex",
+    "url": "https://www.leg4ll4bs.com/lex-mex/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "site": "Lex-Mex",
+    "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+    "sample": 0,
+    "status": 200,
+    "bytes": 935,
+    "elapsed_ms": 1487,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "site": "Lex-Mex",
+    "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+    "sample": 1,
+    "status": 200,
+    "bytes": 935,
+    "elapsed_ms": 392,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "site": "Lex-Mex",
+    "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+    "sample": 2,
+    "status": 200,
+    "bytes": 935,
+    "elapsed_ms": 728,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/",
+    "sample": 0,
+    "status": 200,
+    "bytes": 133423,
+    "elapsed_ms": 786,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/",
+    "sample": 1,
+    "status": 200,
+    "bytes": 133423,
+    "elapsed_ms": 764,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/",
+    "sample": 2,
+    "status": 200,
+    "bytes": 133423,
+    "elapsed_ms": 952,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/llms.txt",
+    "sample": 0,
+    "status": 200,
+    "bytes": 4264,
+    "elapsed_ms": 442,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/llms.txt",
+    "sample": 1,
+    "status": 200,
+    "bytes": 4264,
+    "elapsed_ms": 428,
+    "content_type": "text/markdown; charset=utf-8"
+  },
+  {
+    "site": "mLey",
+    "url": "https://mley.mx/llms.txt",
+    "sample": 2,
+    "status": 200,
+    "bytes": 4264,
+    "elapsed_ms": 428,
+    "content_type": "text/markdown; charset=utf-8"
+  }
+]

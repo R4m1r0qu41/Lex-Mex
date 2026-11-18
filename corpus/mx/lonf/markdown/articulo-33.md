@@ -31,4 +31,6 @@ d).- Personalidad debidamente acreditada del representante del oferente, cuando 
 
 e).- Los demás que la Sociedad estime convenientes para la más adecuada evaluación de la propuesta;
 
-II.- La Sociedad podrá exigir a los oferentes, que constituyan garantía a su favor por lo menos de 10% del precio ofrecido; y III.- Corresponde al Consejo Directivo de la Sociedad, analizar las ofertas y decidir sobre las mismas para lo cual considerará la capacidad administrativa de los oferentes y su experiencia en la actividad que realice la empresa emisora, con miras a propiciar el adecuado desarrollo de la misma.
+II.- La Sociedad podrá exigir a los oferentes, que constituyan garantía a su favor por lo menos de 10% del precio ofrecido; y
+
+III.- Corresponde al Consejo Directivo de la Sociedad, analizar las ofertas y decidir sobre las mismas para lo cual considerará la capacidad administrativa de los oferentes y su experiencia en la actividad que realice la empresa emisora, con miras a propiciar el adecuado desarrollo de la misma.

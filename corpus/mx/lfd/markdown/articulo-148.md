@@ -77,7 +77,9 @@ II. Solicitud de categoría adicional, cambio de categoría o cambio de modalida
 
 III. Renovación de categoría .................................................................................... $212.63 Apartado reformado DOF 12-12-2011, 18-11-2015, 12-11-2021
 
-D. Servicios diversos: I. Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares. En el supuesto de arrendamiento: alta de vehículo automotor, remolque o semirremolque o automóvil para uso particular en el registro de arrendamiento; vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares. Alta de vehículo automotor, remolque o semirremolque por cambio de modalidad:
+D. Servicios diversos:
+
+I. Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares. En el supuesto de arrendamiento: alta de vehículo automotor, remolque o semirremolque o automóvil para uso particular en el registro de arrendamiento; vehículo automotor, remolque o semirremolque en arrendamiento, en el permiso de los servicios de autotransporte federal y servicios auxiliares. Alta de vehículo automotor, remolque o semirremolque por cambio de modalidad:
 
 a). Por cada vehículo motriz. Incluye alta de vehículo, dos placas, calcomanía de identificación vehicular y tarjeta de circulación ......................................... $4,359.10
 

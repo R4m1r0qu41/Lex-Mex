@@ -31,7 +31,9 @@ V. Conforme a lo previsto por los artículos [436](articulo-436.md) y [450](arti
 
 El pago de las obligaciones subordinadas obligatoriamente convertibles en acciones se hará en los mismos términos señalados en el párrafo anterior, y antes de repartir entre los titulares de las acciones el haber social;
 
-VI. En el acta de emisión relativa, en su caso en el prospecto de colocación, en cualquier otra clase de publicidad y en los títulos que se expidan, deberá constar en forma notoria lo dispuesto en las fracciones IV y V de este artículo; VII. Los títulos podrán emitirse en moneda nacional o extranjera, mediante declaración unilateral de voluntad de la emisora, que se hará constar ante la Comisión;
+VI. En el acta de emisión relativa, en su caso en el prospecto de colocación, en cualquier otra clase de publicidad y en los títulos que se expidan, deberá constar en forma notoria lo dispuesto en las fracciones IV y V de este artículo;
+
+VII. Los títulos podrán emitirse en moneda nacional o extranjera, mediante declaración unilateral de voluntad de la emisora, que se hará constar ante la Comisión;
 
 VIII. En el caso de la emisión de obligaciones subordinadas no susceptibles de convertirse en acciones, deberá establecerse un plazo determinado de vencimiento, el cual no podrá ser menor de cinco años. La amortización de estos títulos se apegará a las bases que se establezcan en las disposiciones de carácter general previstas en este artículo, para que la obligación no exceda en ningún momento la capacidad de pago de la Institución de Seguros;
 

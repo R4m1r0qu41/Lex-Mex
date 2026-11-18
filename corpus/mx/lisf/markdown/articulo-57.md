@@ -25,7 +25,9 @@ Los consejeros independientes y los miembros del comité de auditoría en ningú
 
 I. Empleados o directivos de la Institución de que se trate;
 
-II. Personas que se encuentren en alguno de los supuestos previstos en el artículo [71](articulo-71.md) de esta Ley, o que tengan [Poder de Mando](articulo-2.md); III. Socios o personas que ocupen un empleo, cargo o comisión en sociedades o asociaciones importantes que presten servicios a la Institución de que se trate o a las empresas que pertenezcan al mismo [Grupo Empresarial](articulo-2.md) del cual forme parte ésta.
+II. Personas que se encuentren en alguno de los supuestos previstos en el artículo [71](articulo-71.md) de esta Ley, o que tengan [Poder de Mando](articulo-2.md);
+
+III. Socios o personas que ocupen un empleo, cargo o comisión en sociedades o asociaciones importantes que presten servicios a la Institución de que se trate o a las empresas que pertenezcan al mismo [Grupo Empresarial](articulo-2.md) del cual forme parte ésta.
 
 Se considera que una sociedad o asociación es importante cuando los ingresos que recibe por la prestación de servicios a la Institución de que se trate o al mismo Grupo Empresarial del cual forme parte ésta, representan más del 5% de los ingresos totales de la sociedad o asociación respectiva;
 

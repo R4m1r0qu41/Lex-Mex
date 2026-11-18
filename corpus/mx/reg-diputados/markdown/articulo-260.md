@@ -19,7 +19,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 1. Compete a la [Mesa Directiva](articulo-2.md), realizar la interpretación de las normas y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de la sesión. Numeral reformado DOF 20-04-2011
 
-2. El Presidente de la Mesa Directiva o de la [Junta Directiva](articulo-2.md), según corresponda, tendrá en el desarrollo de las sesiones o reuniones como medios para promover la libre discusión y decisión parlamentaria, entre los diputados y diputadas, así como inhibir la interrupción de éstas, las siguientes acciones: I. Llamada al orden;
+2. El Presidente de la Mesa Directiva o de la [Junta Directiva](articulo-2.md), según corresponda, tendrá en el desarrollo de las sesiones o reuniones como medios para promover la libre discusión y decisión parlamentaria, entre los diputados y diputadas, así como inhibir la interrupción de éstas, las siguientes acciones:
+
+I. Llamada al orden;
 
 II. Declaración de falta de orden con mención en el acta;
 

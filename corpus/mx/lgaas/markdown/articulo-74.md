@@ -7,8 +7,8 @@ provision_type: article
 number: "74"
 aliases: ["LGAAS — Artículo 74"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -25,6 +25,8 @@ II. Hacer públicos los resultados enfocados al cumplimiento de los objetivos de
 
 III. Analizar la información correspondiente del municipio o demarcación territorial en la plataforma del SINSAMAC, para mejorar la toma de decisiones;
 
-IV. Representar los intereses legítimos de la población en el municipio o demarcación territorial ante los Consejos Intersectoriales Estatales, ante el Consejo Intersectorial Nacional o ante cualquier autoridad del Estado; V. Vigilar, en el ámbito de sus competencias, el cumplimiento de los objetivos de la Estrategia Nacional de Alimentación y del Programa Especial del Sistema Agroalimentario, y
+IV. Representar los intereses legítimos de la población en el municipio o demarcación territorial ante los Consejos Intersectoriales Estatales, ante el Consejo Intersectorial Nacional o ante cualquier autoridad del Estado;
+
+V. Vigilar, en el ámbito de sus competencias, el cumplimiento de los objetivos de la Estrategia Nacional de Alimentación y del Programa Especial del Sistema Agroalimentario, y
 
 VI. Las demás establecidas en la presente Ley, su Reglamento, o en la respectiva legislación estatal.

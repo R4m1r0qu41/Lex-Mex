@@ -21,4 +21,6 @@ Las personas extranjeras residentes temporales y permanentes deberán notificar 
 
 I. Carta firmada por la persona extranjera, en la que bajo protesta de decir verdad, manifieste, según sea el caso, su nuevo domicilio o lugar de trabajo;
 
-II. En el caso de cambio de estado civil, deberá presentar acta de matrimonio, sentencia de divorcio con fecha en que causó ejecutoria o acta de defunción del cónyuge, y III. En el caso de cambio de nacionalidad, deberá presentar pasaporte de la nueva nacionalidad, certificado de nacionalidad o carta de naturalización.
+II. En el caso de cambio de estado civil, deberá presentar acta de matrimonio, sentencia de divorcio con fecha en que causó ejecutoria o acta de defunción del cónyuge, y
+
+III. En el caso de cambio de nacionalidad, deberá presentar pasaporte de la nueva nacionalidad, certificado de nacionalidad o carta de naturalización.

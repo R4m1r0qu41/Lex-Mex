@@ -10,11 +10,11 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 # CUARTO
 
-Las Instituciones podrán, en su caso, solicitar a la Comisión, a más tardar 90 días después de la entrada en vigor de las presentes disposiciones, la ratificación de registros contables especiales cuyo período de aplicación excedía al 1° de enero de 2000, siempre que se hubieren satisfecho los supuestos a que se refiere la disposición tercera de la Circular 1448 de fecha 14 de octubre de 1999, expedida por esta Comisión1.
+Las Instituciones podrán, en su caso, solicitar a la [Comisión](articulo-1.md), a más tardar 90 días después de la entrada en vigor de las presentes disposiciones, la ratificación de registros contables especiales cuyo período de aplicación excedía al 1° de enero de 2000, siempre que se hubieren satisfecho los supuestos a que se refiere la disposición tercera de la Circular 1448 de fecha 14 de octubre de 1999, expedida por esta Comisión1.
 
 En todo caso, si transcurrido el plazo a que se refiere el párrafo primero del presente artículo, no se produce la solicitud respectiva, las Instituciones estarán obligadas a observar el contenido de las presentes disposiciones, sin que puedan aplicar los criterios o registros contables especiales previamente otorgados.

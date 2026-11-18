@@ -23,6 +23,8 @@ I. La contenida en la solicitud a que se refiere el artículo [191](articulo-191
 
 II. La descripción de las [Medidas fitosanitarias](articulo-2.md) exigidas por el país importador y la certificación de que fueron aplicadas;
 
-III. Declaraciones adicionales solicitadas por el país importador; IV. Hora y fecha de expedición, y
+III. Declaraciones adicionales solicitadas por el país importador;
+
+IV. Hora y fecha de expedición, y
 
 V. Los requisitos que exijan los instrumentos internacionales aplicables.

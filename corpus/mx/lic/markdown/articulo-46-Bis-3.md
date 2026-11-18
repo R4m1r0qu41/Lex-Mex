@@ -19,7 +19,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 Las instituciones de crédito al celebrar operaciones en las que puedan resultar deudores de éstas sus funcionarios o empleados o las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que las propias instituciones otorguen para la realización de las actividades que le son propias, deberán ajustarse a lo siguiente:
 
-I. Sólo podrán celebrar tales operaciones, cuando correspondan a prestaciones de carácter laboral otorgadas de manera general, o II. Cuando se trate de créditos denominados en moneda nacional documentados en tarjetas de crédito; para la adquisición de bienes de consumo duradero o destinados a la vivienda, siempre que en cualquiera de los casos señalados se celebren en las mismas condiciones que la institución de crédito tenga establecidas para el público en general.
+I. Sólo podrán celebrar tales operaciones, cuando correspondan a prestaciones de carácter laboral otorgadas de manera general, o
+
+II. Cuando se trate de créditos denominados en moneda nacional documentados en tarjetas de crédito; para la adquisición de bienes de consumo duradero o destinados a la vivienda, siempre que en cualquiera de los casos señalados se celebren en las mismas condiciones que la institución de crédito tenga establecidas para el público en general.
 
 La restricción a que se refiere este artículo, resulta igualmente aplicable a las operaciones que pretendan celebrar las instituciones de crédito con el o los comisarios propietarios o suplentes de la propia institución, así como los auditores externos independientes.
 

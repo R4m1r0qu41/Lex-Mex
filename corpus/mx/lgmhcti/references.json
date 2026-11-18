@@ -14,12 +14,6 @@
         "text": "fracción V",
         "start_char": 39,
         "end_char": 49
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 75,
-        "end_char": 88
       }
     ],
     "basis": "express_cross_reference",
@@ -140,19 +134,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1107-1108:3:direct",
+    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1108-1109:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
     "source_span": "3",
-    "start_char": 1107,
-    "end_char": 1108,
+    "start_char": 1108,
+    "end_char": 1109,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:3",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 1083,
-        "end_char": 1093
+        "start_char": 1084,
+        "end_char": 1094
       }
     ],
     "basis": "express_cross_reference",
@@ -163,19 +157,35 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1459-1461:25:direct",
+    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1460-1462:25:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
     "source_span": "25",
-    "start_char": 1459,
-    "end_char": 1461,
+    "start_char": 1460,
+    "end_char": 1462,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1613-1615:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
+    "source_span": "25",
+    "start_char": 1613,
+    "end_char": 1615,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:25",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "Párrafo Octavo",
-        "start_char": 1584,
-        "end_char": 1598
+        "start_char": 1585,
+        "end_char": 1599
       }
     ],
     "basis": "express_cross_reference",
@@ -186,42 +196,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:1612-1614:25:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
-    "source_span": "25",
-    "start_char": 1612,
-    "end_char": 1614,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:25",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "Párrafo Octavo",
-        "start_char": 1584,
-        "end_char": 1598
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:4588-4590:73:direct",
+    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:reference:4590-4592:73:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
     "source_span": "73",
-    "start_char": 4588,
-    "end_char": 4590,
+    "start_char": 4590,
+    "end_char": 4592,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XXIX",
-        "start_char": 4592,
-        "end_char": 4605
+        "start_char": 4594,
+        "end_char": 4607
       }
     ],
     "basis": "express_cross_reference",

@@ -23,6 +23,8 @@ I.- Ser mexicanos, mayores de 25 años de edad;
 
 II.- Saber leer y escribir y en lo posible ser Oficial de Complemento;
 
-III.- Pertenecer a las Reservas; IV.- Haber cumplido las obligaciones militares que de acuerdo con su edad se le exijan;
+III.- Pertenecer a las Reservas;
+
+IV.- Haber cumplido las obligaciones militares que de acuerdo con su edad se le exijan;
 
 V.- Ser de reconocida honorabilidad.

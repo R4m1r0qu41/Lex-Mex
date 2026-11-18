@@ -25,7 +25,9 @@ I. Rubro: mediante el cual se identificará el tema abordado en la tesis;
 
 II. Narración de los hechos: en este apartado se describirán de manera muy breve los hechos relevantes que dieron lugar al criterio adoptado por el tribunal para resolver el caso;
 
-III. Criterio jurídico: en el que se reflejará la respuesta jurídica adoptada para resolver el problema jurídico que se le planteaba al órgano jurisdiccional; IV. Justificación: se expondrán de manera sucinta los argumentos expuestos por el órgano jurisdiccional en la sentencia para sostener el criterio jurídico adoptado en la resolución, y
+III. Criterio jurídico: en el que se reflejará la respuesta jurídica adoptada para resolver el problema jurídico que se le planteaba al órgano jurisdiccional;
+
+IV. Justificación: se expondrán de manera sucinta los argumentos expuestos por el órgano jurisdiccional en la sentencia para sostener el criterio jurídico adoptado en la resolución, y
 
 V. Datos de identificación del asunto: comprenderán el número de tesis, el órgano jurisdiccional que la dictó y las votaciones emitidas al aprobar el asunto y, en su caso, en relación con el criterio sustentado en la tesis.
 

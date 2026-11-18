@@ -7,8 +7,8 @@ provision_type: article
 number: "24"
 aliases: ["REG-LGAMVLV — Artículo 24"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -19,7 +19,9 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 La Secretaría de Gobernación, a través de instrumentos de coordinación, establecerá [Modelos](articulo-2.md) de Sanción en los términos del artículo [8](../../lgamvlv/markdown/articulo-8.md) de la Ley. Párrafo reformado DOF 25-11-2013
 
-Los Modelos de Sanción deberán contener como mínimo: I. Las directrices de apoyo para los servidores públicos que conozcan de los tipos y modalidades de violencia contemplados en la Ley, para facilitar su actuación en la aplicación de sanciones conforme a la legislación aplicable que corresponda;
+Los Modelos de Sanción deberán contener como mínimo:
+
+I. Las directrices de apoyo para los servidores públicos que conozcan de los tipos y modalidades de violencia contemplados en la Ley, para facilitar su actuación en la aplicación de sanciones conforme a la legislación aplicable que corresponda;
 
 II. Las medidas de atención y rehabilitación para los Agresores, mismas que serán reeducativas, ausentes de cualquier estereotipo y tendrán como propósito la eliminación de rasgos violentos de los Agresores, así como la construcción de conductas no violentas y equitativas de los hombres mediante el otorgamiento de servicios integrales y especializados; Fracción reformada DOF 25-11-2013
 

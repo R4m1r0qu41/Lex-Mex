@@ -22,7 +22,7 @@ La [Comisión](articulo-1.md) podrá ordenar a las casas de bolsa que hayan sido
 
 I. Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
 
-Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo, en términos de lo dispuesto en la fracción III, inciso c) del artículo [136](articulo-136.md) dela Ley.
+Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo, en términos de lo dispuesto en la fracción III, inciso c) del artículo [136](articulo-136.md) dela [Ley](articulo-1.md).
 
 II. Abstenerse de otorgar bonos o compensaciones adicionales o extraordinarios al salario de sus funcionarios distintos de los señalados en la fracción V del artículo [204 Bis 9](articulo-204-Bis-9.md) anterior, cuyo otorgamiento sea discrecional para la casa de bolsa; respetando en todo momento los derechos laborales adquiridos.
 

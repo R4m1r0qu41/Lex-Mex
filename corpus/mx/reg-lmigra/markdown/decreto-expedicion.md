@@ -134,9 +134,5 @@ ID: urn:lex-mx:federal:regulation:reg-lmigra:enactment:2012-09-28:decree:transit
 
 Propietario: decreto expedidor. Tipo: Transitorio del decreto.
 
-La Secretaría de Gobernación, la Secretaría de Relaciones Exteriores y el Instituto Nacional de Migración realizarán las acciones necesarias para que la instrumentación del
-
-Decreto por el que se expide el Reglamento de la Ley de Migración y se reforman, derogan y adicionan
-
-diversas disposiciones del Reglamento de la Ley General de Población y del Reglamento de la Ley de Asociaciones Religiosas y Culto Público se realice con los recursos aprobados en sus presupuestos, por lo que no se requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
+La Secretaría de Gobernación, la Secretaría de Relaciones Exteriores y el Instituto Nacional de Migración realizarán las acciones necesarias para que la instrumentación del Decreto por el que se expide el Reglamento de la Ley de Migración y se reforman, derogan y adicionan diversas disposiciones del Reglamento de la Ley General de Población y del Reglamento de la Ley de Asociaciones Religiosas y Culto Público se realice con los recursos aprobados en sus presupuestos, por lo que no se requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
 

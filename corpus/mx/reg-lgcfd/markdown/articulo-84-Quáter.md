@@ -7,8 +7,8 @@ provision_type: article
 number: "84 Quáter"
 aliases: ["REG-LGCFD — Artículo 84 Quáter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -21,7 +21,9 @@ Para el otorgamiento del reconocimiento económico vitalicio o su actualización
 
 I. Recibir la solicitud de trámite para el reconocimiento económico vitalicio o de actualización de su monto, acompañada de la documentación anexa a la misma;
 
-II. Verificar que el nombre de la persona deportista y el tipo de medalla obtenida aparezca publicado en la memoria o página electrónica del Comité Olímpico Internacional o del Comité Paralímpico Internacional, según se trate; III. Elaborar la ficha técnica de la persona deportista y emitir el dictamen de la procedencia o no de la solicitud del otorgamiento del reconocimiento económico vitalicio o de su actualización;
+II. Verificar que el nombre de la persona deportista y el tipo de medalla obtenida aparezca publicado en la memoria o página electrónica del Comité Olímpico Internacional o del Comité Paralímpico Internacional, según se trate;
+
+III. Elaborar la ficha técnica de la persona deportista y emitir el dictamen de la procedencia o no de la solicitud del otorgamiento del reconocimiento económico vitalicio o de su actualización;
 
 IV. Determinar el monto mensual del reconocimiento económico vitalicio a otorgar a las personas deportistas de acuerdo al tipo de medalla obtenida: oro, plata o bronce;
 

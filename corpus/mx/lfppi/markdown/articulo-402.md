@@ -39,7 +39,9 @@ VII.- Producir, almacenar, transportar, distribuir o vender productos de origen 
 
 Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo.
 
-No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable; VIII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Párrafo reformado DOF 03-04-2026
+No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable;
+
+VIII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Párrafo reformado DOF 03-04-2026
 
 Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo.
 

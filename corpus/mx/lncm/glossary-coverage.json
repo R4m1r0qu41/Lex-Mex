@@ -8,12 +8,13 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
-      "provision_text_sha256": "a8b54cb27950c840c78447d2dff401307eab4f723fc9cf923be1c2888027e3b2",
+      "provision_text_sha256": "102d487b95f08ef74cb409ff0c20ea18a1e8d9bf6631f6583ce1ce25b6a2a0a8",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
         "III",
+        "IV",
         "V",
         "VI",
         "VII",
@@ -29,10 +30,10 @@
         "XV"
       ],
       "unread_fractions": [],
-      "term_count": 16
+      "term_count": 17
     }
   ],
   "imports": [],
-  "term_count": 16,
-  "usage_count": 176
+  "term_count": 17,
+  "usage_count": 177
 }

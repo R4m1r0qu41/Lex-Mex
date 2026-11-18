@@ -43,6 +43,8 @@ Para el caso de bienes a que hace referencia la fracción VII del artículo [1](
 
 III. Cuando la naturaleza de los bienes lo permita, identificar de manera individual con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
 
-IV. Acordar en su momento con el SAE, lugar, fecha y hora en que los bienes se entregarán a dicho organismo, y V. Exhibir las sentencias, resoluciones y demás documentos que señale la Junta de Gobierno como necesarios para realizar una transferencia ordenada y transparente de los bienes.
+IV. Acordar en su momento con el SAE, lugar, fecha y hora en que los bienes se entregarán a dicho organismo, y
+
+V. Exhibir las sentencias, resoluciones y demás documentos que señale la Junta de Gobierno como necesarios para realizar una transferencia ordenada y transparente de los bienes.
 
 El Ministerio Público y las autoridades judiciales federales, deberán cumplir con lo que al respecto señalen las disposiciones jurídicas de la materia.

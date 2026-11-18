@@ -19,6 +19,8 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 En virtud de él pertenecen al propietario:
 
-I. Los frutos naturales; II. Los frutos industriales;
+I. Los frutos naturales;
+
+II. Los frutos industriales;
 
 III. Los frutos civiles.

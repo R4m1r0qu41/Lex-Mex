@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LOPGJDF — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -25,7 +25,9 @@ II. Fiscalía Central de Investigación para la Atención del Delito de Homicidi
 
 III. Fiscalía Central de Investigación para la Atención de Delitos Sexuales;
 
-IV. Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes; V. Fiscalía Central de Investigación para la Atención del Delito de Robo de Vehículos y Transporte;
+IV. Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes;
+
+V. Fiscalía Central de Investigación para la Atención del Delito de Robo de Vehículos y Transporte;
 
 VI. Fiscalía Central de Investigación para la Atención de Delitos Financieros;
 

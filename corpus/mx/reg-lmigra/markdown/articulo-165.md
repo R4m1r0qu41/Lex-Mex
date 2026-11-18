@@ -17,7 +17,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 165
 
-El residente temporal podrá obtener permiso de trabajo conforme al procedimiento y requisitos que se indican a continuación: I. El solicitante deberá presentar los siguientes documentos:
+El residente temporal podrá obtener permiso de trabajo conforme al procedimiento y requisitos que se indican a continuación:
+
+I. El solicitante deberá presentar los siguientes documentos:
 
 a) Documento migratorio vigente que acredite su condición de estancia;
 

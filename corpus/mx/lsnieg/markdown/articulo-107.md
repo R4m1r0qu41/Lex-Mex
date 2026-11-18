@@ -19,6 +19,8 @@ source_sha256: bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab
 
 Las infracciones a lo dispuesto por el artículo [104](articulo-104.md) de esta Ley, tratándose de servidores públicos de las Unidades, serán sancionadas con multa de:
 
-I. Para las establecidas en las fracciones I, II y III, de 500 hasta 10,000 salarios; II. Para la establecida en la fracción IV, de 200 hasta 500 salarios, y
+I. Para las establecidas en las fracciones I, II y III, de 500 hasta 10,000 salarios;
+
+II. Para la establecida en la fracción IV, de 200 hasta 500 salarios, y
 
 III. Para las establecidas en las fracciones V y VI, de 500 hasta 1,000 salarios.

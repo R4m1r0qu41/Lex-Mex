@@ -25,7 +25,9 @@ Para oír previamente al presunto infractor, la Comisión deberá otorgarle un p
 
 Concluido el plazo señalado en el párrafo anterior y, en su caso, el de su ampliación, la Comisión notificará al presunto infractor la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo. Párrafo adicionado DOF 24-01-2024
 
-Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, y en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá: I. Expresar con precisión la acción u omisión constitutiva de la infracción y los preceptos legales o disposiciones administrativas infringidas;
+Una vez evaluados los argumentos hechos valer por el interesado y valoradas las pruebas aportadas por éste, y en su caso una vez valoradas las constancias que integran el expediente administrativo correspondiente, la Comisión para imponer la multa que corresponda, en la resolución que al efecto se dicte, deberá:
+
+I. Expresar con precisión la acción u omisión constitutiva de la infracción y los preceptos legales o disposiciones administrativas infringidas;
 
 II. Considerar las condiciones económicas e intención del infractor, y
 

@@ -17,7 +17,9 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 26
 
-Los anteproyectos de las entidades comprenderán un flujo de efectivo que deberá contener: I. La previsión de sus ingresos, incluyendo en su caso el endeudamiento neto, los subsidios y las transferencias, la disponibilidad inicial y la disponibilidad final;
+Los anteproyectos de las entidades comprenderán un flujo de efectivo que deberá contener:
+
+I. La previsión de sus ingresos, incluyendo en su caso el endeudamiento neto, los subsidios y las transferencias, la disponibilidad inicial y la disponibilidad final;
 
 II. La previsión del gasto corriente, la inversión física, la inversión financiera y otras erogaciones de capital;
 

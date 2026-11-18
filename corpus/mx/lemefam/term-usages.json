@@ -73,12 +73,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:9:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lemefam:article:9:term-usage:106-116",
     "provision_id": "urn:lex-mx:federal:statute:lemefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:lemefam:term:secretaria",
     "span": "Secretaría",
     "start_char": 106,
     "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:10:term-usage:327-347",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 327,
+    "end_char": 347
   },
   {
     "schema_version": "0.1.0",
@@ -127,6 +145,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:21:term-usage:139-159",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 139,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:23:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lemefam:article:24:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:statute:lemefam:article:24",
     "term_id": "urn:lex-mx:federal:statute:lemefam:term:secretaria",
@@ -136,12 +172,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:25:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:26:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lemefam:article:28:term-usage:112-115",
     "provision_id": "urn:lex-mx:federal:statute:lemefam:article:28",
     "term_id": "urn:lex-mx:federal:statute:lemefam:term:ley",
     "span": "Ley",
     "start_char": 112,
     "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:30:term-usage:158-178",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 158,
+    "end_char": 178
   },
   {
     "schema_version": "0.1.0",
@@ -199,12 +262,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:42:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:43:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:45:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lemefam:article:45:term-usage:241-244",
     "provision_id": "urn:lex-mx:federal:statute:lemefam:article:45",
     "term_id": "urn:lex-mx:federal:statute:lemefam:term:ley",
     "span": "Ley",
     "start_char": 241,
     "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:47:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 3,
+    "end_char": 23
   },
   {
     "schema_version": "0.1.0",
@@ -223,6 +322,15 @@
     "span": "Ley",
     "start_char": 241,
     "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:48:term-usage:512-532",
+    "provision_id": "urn:lex-mx:federal:statute:lemefam:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "span": "Dirección y Rectoría",
+    "start_char": 512,
+    "end_char": 532
   },
   {
     "schema_version": "0.1.0",

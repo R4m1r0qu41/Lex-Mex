@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "fraction": "V",
     "start_char": 1049,
-    "end_char": 1099,
+    "end_char": 1100,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnrd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "fraction": "VI",
-    "start_char": 1099,
-    "end_char": 1169,
+    "start_char": 1100,
+    "end_char": 1170,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnrd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "fraction": "VII",
-    "start_char": 1169,
-    "end_char": 1259,
+    "start_char": 1170,
+    "end_char": 1260,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnrd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "fraction": "VIII",
-    "start_char": 1259,
-    "end_char": 1475,
+    "start_char": 1260,
+    "end_char": 1476,
     "basis": "express_definition"
   }
 ]

@@ -23,7 +23,9 @@ I.- Resolver administrativamente todas las cuestiones que se susciten sobre la c
 
 II.- Colaborar con la [Secretaría](articulo-2.md) y, en su caso, ejercer las acciones legales y administrativas para la preservación y defensa de dichos bienes;
 
-III.- Presentar en forma coordinada con la Secretaría o directamente, las denuncias en el orden penal a que haya lugar para salvaguardar los inmuebles federales a que se refiere este artículo; IV.- Revisar, aprobar y, en su caso, ejecutar los proyectos de obra que le presente la asociación religiosa usuaria de cada inmueble, para su mantenimiento, conservación y óptimo aprovechamiento, así como vigilar y supervisar la ejecución de dichas obras; Fracción reformada DOF 10-01-2012
+III.- Presentar en forma coordinada con la Secretaría o directamente, las denuncias en el orden penal a que haya lugar para salvaguardar los inmuebles federales a que se refiere este artículo;
+
+IV.- Revisar, aprobar y, en su caso, ejecutar los proyectos de obra que le presente la asociación religiosa usuaria de cada inmueble, para su mantenimiento, conservación y óptimo aprovechamiento, así como vigilar y supervisar la ejecución de dichas obras; Fracción reformada DOF 10-01-2012
 
 V.- Requerir a los representantes de las asociaciones religiosas o a los responsables de los templos, la realización de obras de mantenimiento y conservación, así como tomar las medidas necesarias para tal efecto;
 

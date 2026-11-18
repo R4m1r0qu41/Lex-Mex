@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LISSFAM — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf
 source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 ---
@@ -25,7 +25,9 @@ II. Cédula de Identificación: Documento que expide el Instituto a las personas
 
 III. Certificado médico de incapacidad: El que se expide por dos personas médicas militares o navales especialistas, en términos de lo dispuesto por el artículo [183](../../lissfam/markdown/articulo-183.md) de la Ley, para determinar si la incapacidad física de la persona militar para desempeñar sus servicios, es total o parcial, y temporal o permanente;
 
-IV. Dictamen médico de relación de causalidad: El que se emite por dos personas médicas militares o navales especialistas, para determinar si los padecimientos que presenta la persona militar fueron contraídos en actos dentro del servicio, como consecuencia de ellos, o fuera de éstos; V. Dictamen pericial médico de imposibilidad para trabajar: El que se emite por dos personas médicas militares o navales especialistas designadas por la [Secretaría de origen](articulo-2.md), para determinar la imposibilidad para trabajar de las hijas, hijos, hermanas o hermanos de la persona militar, sea total o parcial, y temporal o permanente;
+IV. Dictamen médico de relación de causalidad: El que se emite por dos personas médicas militares o navales especialistas, para determinar si los padecimientos que presenta la persona militar fueron contraídos en actos dentro del servicio, como consecuencia de ellos, o fuera de éstos;
+
+V. Dictamen pericial médico de imposibilidad para trabajar: El que se emite por dos personas médicas militares o navales especialistas designadas por la [Secretaría de origen](articulo-2.md), para determinar la imposibilidad para trabajar de las hijas, hijos, hermanas o hermanos de la persona militar, sea total o parcial, y temporal o permanente;
 
 VI. Dirección: La Dirección encargada de tramitar administrativamente los retiros de la Secretaría de origen;
 

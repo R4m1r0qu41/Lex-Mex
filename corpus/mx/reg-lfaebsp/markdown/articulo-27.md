@@ -21,7 +21,9 @@ La operación y consulta de la base de datos de bienes transferidos al SAE, se s
 
 I. La base de datos se integrará, entre otros aspectos, con la información que proporcionen las entidades transferentes;
 
-II. La consulta de la base de datos será sobre bienes específicos y únicamente la podrán realizar las autoridades y personas que señala la [Ley](articulo-1.md); III. Las autoridades y personas que señala la Ley deberán fundar la solicitud de consulta en el ejercicio de sus atribuciones o en su interés jurídico, según corresponda. No procederá la consulta que se haga de manera general y sin estar justificada en los términos de esta fracción;
+II. La consulta de la base de datos será sobre bienes específicos y únicamente la podrán realizar las autoridades y personas que señala la [Ley](articulo-1.md);
+
+III. Las autoridades y personas que señala la Ley deberán fundar la solicitud de consulta en el ejercicio de sus atribuciones o en su interés jurídico, según corresponda. No procederá la consulta que se haga de manera general y sin estar justificada en los términos de esta fracción;
 
 IV. La administración, integración y operación de la base de datos le corresponde únicamente al SAE, y
 

@@ -76,12 +76,6 @@
         "text": "fracción I",
         "start_char": 762,
         "end_char": 772
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 790,
-        "end_char": 805
       }
     ],
     "basis": "express_cross_reference",

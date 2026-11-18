@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LCNE — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf
 source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 ---
@@ -19,7 +19,9 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 El Comité Técnico de la [Comisión](articulo-6.md) se integra por las personas titulares de:
 
-I. La [Secretaría](articulo-6.md), quien lo preside y tiene voto de calidad; II. La Subsecretaría de Electricidad de la Secretaría;
+I. La [Secretaría](articulo-6.md), quien lo preside y tiene voto de calidad;
+
+II. La Subsecretaría de Electricidad de la Secretaría;
 
 III. La Subsecretaría de Hidrocarburos de la Secretaría;
 

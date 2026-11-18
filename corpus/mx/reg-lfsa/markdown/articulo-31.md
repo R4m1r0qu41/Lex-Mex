@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["REG-LFSA — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -23,4 +23,6 @@ I. La prescripción, dosificación y administración de biológicos, químicos o
 
 II. Los tratamientos médicos, quirúrgicos, nutricionales o conductuales deben estar siempre supervisados por un médico veterinario y de acuerdo a las disposiciones de sanidad animal que emita la Secretaría;
 
-III. Las vacunaciones deberán ser programadas y realizadas, tomando en consideración las zoonosis y las campañas zoosanitarias oficiales, así como el criterio del médico veterinario, en cuanto al momento de aplicación y el tipo de vacuna a utilizar, y IV. Es obligación de los propietarios o responsables de los animales mantener un programa de desparasitación.
+III. Las vacunaciones deberán ser programadas y realizadas, tomando en consideración las zoonosis y las campañas zoosanitarias oficiales, así como el criterio del médico veterinario, en cuanto al momento de aplicación y el tipo de vacuna a utilizar, y
+
+IV. Es obligación de los propietarios o responsables de los animales mantener un programa de desparasitación.

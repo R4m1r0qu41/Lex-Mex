@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LGEO — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 ---
@@ -27,7 +27,9 @@ III. Datos geográficos, ubicación y delimitación del [Área Geotérmica](arti
 
 IV. Descripción general del proyecto;
 
-V. Cronogramas de inversiones y de los trabajos a realizarse durante la vigencia del Permiso o Concesión correspondiente; VI. La naturaleza y el monto de las garantías que, en su caso, debe otorgar la persona permisionaria o concesionaria para el cumplimiento de las obligaciones contenidas en el título correspondiente o en las disposiciones jurídicas aplicables, así como aquellas que garanticen la afectación al medio ambiente o a derechos de terceros;
+V. Cronogramas de inversiones y de los trabajos a realizarse durante la vigencia del Permiso o Concesión correspondiente;
+
+VI. La naturaleza y el monto de las garantías que, en su caso, debe otorgar la persona permisionaria o concesionaria para el cumplimiento de las obligaciones contenidas en el título correspondiente o en las disposiciones jurídicas aplicables, así como aquellas que garanticen la afectación al medio ambiente o a derechos de terceros;
 
 VII. Causales de caducidad, revocación y terminación del [Permiso de Exploración](articulo-2.md) o Concesión;
 

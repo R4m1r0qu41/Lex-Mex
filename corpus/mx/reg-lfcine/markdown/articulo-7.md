@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["REG-LFCINE — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf
 source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 ---
@@ -31,7 +31,9 @@ V. Aplicar las sanciones que correspondan por las infracciones previstas en la L
 
 VI. Hacer del conocimiento del Ministerio Público Federal todos aquellos actos que se presuman constitutivos de delito en los términos de la Ley, este Reglamento y demás disposiciones legales aplicables en la materia;
 
-VII. Realizar visitas de verificación en salas cinematográficas, videosalas o espacios dedicados a la exhibición pública de películas, así como a los establecimientos dedicados a la comercialización de películas; VIII. Enviar a la [Cineteca](articulo-3.md) la copia nueva de la película que aporten los productores o distribuidores, salvo lo dispuesto en tratados o acuerdos internacionales, así como en el segundo párrafo del artículo 39 de la Ley;
+VII. Realizar visitas de verificación en salas cinematográficas, videosalas o espacios dedicados a la exhibición pública de películas, así como a los establecimientos dedicados a la comercialización de películas;
+
+VIII. Enviar a la [Cineteca](articulo-3.md) la copia nueva de la película que aporten los productores o distribuidores, salvo lo dispuesto en tratados o acuerdos internacionales, así como en el segundo párrafo del artículo 39 de la Ley;
 
 IX. Editar las publicaciones y revistas de su competencia, y
 

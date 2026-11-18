@@ -23,6 +23,8 @@ I. Nadie puede ser obligado a formar o no parte de un sindicato, federación o c
 
 II. Los procedimientos de elección de sus directivas deberán salvaguardar el pleno ejercicio del voto personal, libre, directo y secreto de los miembros, así como ajustarse a reglas democráticas y de igualdad de género, en términos del artículo [371](articulo-371.md) de esta Ley. El periodo de duración de las directivas no podrá ser indefinido o de una temporalidad tal que obstaculice la participación democrática de los afiliados, y tampoco podrá ser lesivo al derecho de votar y ser votado;
 
-III. Las sanciones que impongan los sindicatos, federaciones y confederaciones a sus miembros deberán ceñirse a lo establecido en la Ley y en los estatutos; para tal efecto se deberá cumplir con los derechos de audiencia y debido proceso del involucrado, y IV. La directiva de los sindicatos, federaciones y confederaciones deberá rendirles cuenta completa y detallada de la administración de su patrimonio, en términos del artículo [373](articulo-373.md) de esta Ley. Párrafo con fracciones reformado DOF 01-05-2019
+III. Las sanciones que impongan los sindicatos, federaciones y confederaciones a sus miembros deberán ceñirse a lo establecido en la Ley y en los estatutos; para tal efecto se deberá cumplir con los derechos de audiencia y debido proceso del involucrado, y
+
+IV. La directiva de los sindicatos, federaciones y confederaciones deberá rendirles cuenta completa y detallada de la administración de su patrimonio, en términos del artículo [373](articulo-373.md) de esta Ley. Párrafo con fracciones reformado DOF 01-05-2019
 
 Cualquier estipulación que establezca multa convencional en caso de separación del sindicato o que desvirtúe de algún modo la disposición contenida en el párrafo anterior, se tendrá por no puesta.

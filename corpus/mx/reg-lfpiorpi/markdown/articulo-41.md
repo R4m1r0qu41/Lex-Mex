@@ -17,7 +17,9 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 41
 
-La Entidad Colegiada deberá proporcionar al representante a que se refiere la fracción IV del artículo 27 de la Ley capacitación de forma anual, para el cumplimiento de las obligaciones que establecen la Ley, este Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen. Párrafo reformado DOF 27-03-2026 REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA Dicha capacitación deberá contemplar, entre otros aspectos:
+La Entidad Colegiada deberá proporcionar al representante a que se refiere la fracción IV del artículo 27 de la Ley capacitación de forma anual, para el cumplimiento de las obligaciones que establecen la Ley, este Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen. Párrafo reformado DOF 27-03-2026
+
+Dicha capacitación deberá contemplar, entre otros aspectos:
 
 I. El contenido de las políticas, criterios, medidas y procedimientos internos que la Entidad Colegiada haya desarrollado para el debido cumplimiento de la Ley, este Reglamento, las reglas de carácter general y las demás disposiciones que de estos emanen; Fracción reformada DOF 27-03-2026
 

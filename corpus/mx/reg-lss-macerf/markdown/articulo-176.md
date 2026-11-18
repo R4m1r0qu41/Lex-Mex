@@ -23,7 +23,7 @@ I. Le amonestará:
 
 a).- Si presenta incompleta la información a que se refieren los artículos [163](articulo-163.md), [165](articulo-165.md), [166](articulo-166.md) y [167](articulo-167.md) del presente Reglamento;
 
-b).- En caso de que no cumpla con los requerimientos que le formule el Instituto o no presente la totalidad de la documentación o información solicitada en los términos de este Reglamento, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN c).- No cumpla con lo establecido en el artículo [154](articulo-154.md), fracciones I, II y III de este Reglamento.
+b).- En caso de que no cumpla con los requerimientos que le formule el Instituto o no presente la totalidad de la documentación o información solicitada en los términos de este Reglamento, y c).- No cumpla con lo establecido en el artículo [154](articulo-154.md), fracciones I, II y III de este Reglamento.
 
 II. Le suspenderá el registro ante el Instituto:
 
@@ -55,4 +55,4 @@ e).- Si omitiera informar al Instituto en el caso de encontrarse en los supuesto
 
 f).- Por no dar el aviso correspondiente al patrón en el caso de la suspensión, a que se refiere la fracción IV del artículo [154](articulo-154.md) de este Reglamento.
 
-El cómputo de las infracciones señaladas en las fracciones I y II de este artículo, se hará por ejercicio fiscal, periodo o patrón, aun cuando cuente con diferentes registros patronales y que el contador público esté dictaminando el cumplimiento de las obligaciones patronales o derivado del incumplimiento a los requisitos que le establece el Instituto para la vigencia y actualización de su registro de contador público autorizado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+El cómputo de las infracciones señaladas en las fracciones I y II de este artículo, se hará por ejercicio fiscal, periodo o patrón, aun cuando cuente con diferentes registros patronales y que el contador público esté dictaminando el cumplimiento de las obligaciones patronales o derivado del incumplimiento a los requisitos que le establece el Instituto para la vigencia y actualización de su registro de contador público autorizado.

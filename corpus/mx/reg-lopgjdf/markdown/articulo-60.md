@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["REG-LOPGJDF — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -41,7 +41,9 @@ X. Autorizar con el agente del Ministerio Público investigador, la solicitud de
 
 XI. Verificar que los bienes objeto, instrumento o producto del delito, sean asegurados, remitidos a la Dirección Ejecutiva de Administración de Bienes Asegurados, para su guarda y custodia y, en su momento, que se determine el destino final de los mismos;
 
-XII. Acordar con el Subprocurador, las solicitudes de auxilio o colaboración, que se hagan al Ministerio Público Federal o al de las entidades federativas, para la práctica de diligencias en averiguación previa, de conformidad con el artículo [119](../../cpeum/markdown/articulo-119.md) de la Constitución Política de los Estados Unidos Mexicanos, las demás disposiciones aplicables y los convenios de colaboración que suscriban las respectivas Procuradurías; XIII. Verificar que se remita, a la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, copia autorizada de las averiguaciones previas que se relacionen con niños, niñas y adolescentes, que se encuentren en situación de daño, peligro o conflicto, o a quienes se les atribuyan conductas previstas en las leyes penales como delitos, a efecto de que se determine lo que corresponda;
+XII. Acordar con el Subprocurador, las solicitudes de auxilio o colaboración, que se hagan al Ministerio Público Federal o al de las entidades federativas, para la práctica de diligencias en averiguación previa, de conformidad con el artículo [119](../../cpeum/markdown/articulo-119.md) de la Constitución Política de los Estados Unidos Mexicanos, las demás disposiciones aplicables y los convenios de colaboración que suscriban las respectivas Procuradurías;
+
+XIII. Verificar que se remita, a la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, copia autorizada de las averiguaciones previas que se relacionen con niños, niñas y adolescentes, que se encuentren en situación de daño, peligro o conflicto, o a quienes se les atribuyan conductas previstas en las leyes penales como delitos, a efecto de que se determine lo que corresponda;
 
 XIV. Supervisar que los niños o niñas menores de doce años que sean puestos a disposición del Ministerio Público por la posible realización de conductas tipificadas como delito por las leyes penales, sean canalizados de manera inmediata al Sistema para el Desarrollo Integral de la Familia, para la debida asistencia social y su correspondiente rehabilitación;
 

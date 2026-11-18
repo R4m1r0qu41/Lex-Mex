@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["LRPCAP — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 46
 
-La [Secretaría](articulo-2.md) podrá autorizar a un extranjero reconocido como refugiado en otro país, que no gozaba de protección efectiva, su internación como refugiado al territorio nacional, de conformidad con lo establecido en el reglamento de esta Ley.
+La [Secretaría](articulo-2.md) podrá autorizar a un extranjero reconocido como refugiado en otro país, que no gozaba de protección efectiva, su internación como refugiado al territorio nacional, de conformidad con lo establecido en el reglamento de esta [Ley](articulo-2.md).

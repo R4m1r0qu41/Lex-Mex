@@ -7,8 +7,8 @@ provision_type: article
 number: "114"
 aliases: ["LPERC — Artículo 114"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf
 source_sha256: 6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192
 ---
@@ -23,7 +23,9 @@ I.- Comunitaria;
 
 II.- Cultura y Comunicación Ambiental;
 
-III.- Educación Ambiental Formal; IV.- Educación Ambiental No Formal;
+III.- Educación Ambiental Formal;
+
+IV.- Educación Ambiental No Formal;
 
 V.- Individual, y
 

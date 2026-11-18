@@ -144,6 +144,7 @@ Fuente operativa: [cnbv](https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de
 - [Artículo 117 Bis 2](articulo-117-Bis-2.md)
 - [Artículo 117 Bis 3](articulo-117-Bis-3.md)
 - [Artículo 117 Bis 4](articulo-117-Bis-4.md)
+- [Artículo 117 Bis 5](articulo-117-Bis-5.md)
 - [Artículo 117 Bis 6](articulo-117-Bis-6.md)
 - [Artículo 117 Bis 7](articulo-117-Bis-7.md)
 - [Artículo 117 Bis 8](articulo-117-Bis-8.md)
@@ -455,4 +456,20 @@ Los números de margen `(N)` del documento compilado remiten a estas resolucione
 96. Reformado por Resolución publicada en el Diario Oficial de la Federación el 9 de noviembre de 2020.
 97. Reformado por Resolución publicada en el Diario Oficial de la Federación el 4 de noviembre de 2021.
 98. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 4 de noviembre de 2021.
-99. Se reforma el Anexo 5, Criterios Contables A-2, párrafo 14 y D-4, párrafos 32, 39, 40, 43 y 44 por Resolución publicada en el Diario Oficial de la Federación el 15 de diciembre de 2021. 100)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021. 101)   Adicionado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021. 102)   Abrogado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021. 103)   Se Sustituyen los ANEXOS 5, 6, 9 y 10 por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021. 104)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 1 de marzo de 2022. 105)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 16 de junio de 2022. 106)   Reformado por Resolución publicada en el Diario oficial de la Federación el 16 de abril de 2024. 107)   Por Resolución publicada en el Diario Oficial de la Federación el 16 de abril de 2024, se DEROGA el ANEXO 6. 108)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 23 de julio de 2025. 109)   Reformado por Resolución publicada en el Diario oficial de la Federación el 23 de julio de 2025. 110)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025. 111)   Adicionado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025. 112)   Se Sustituyen el Anexo 5 y del Anexo 9 la Serie R01 “Catálogo Mínimo”, Serie R10 “Reclasificaciones”, Serie R12 “Consolidación” y Serie R13 “Estados financieros”, por Resolución publicada en el Diario Oficial de la Federación el 03 de septiembre de 2025. 113)   Derogado, así como del Anexo 9, el reporte regulatorio A-1811, por Resolución publicada en el Diario Oficial de la Federación el 03 de septiembre de 2025. 114)   Reformado por Resolución publicada en el Diario Oficial de la Federación el 6 de julio de 2026. 115)   Por Resolución publicada en el Diario Oficial de la Federación el 6 de julio de 2026, se ADICIONO el ANEXO 20.
+99. Se reforma el Anexo 5, Criterios Contables A-2, párrafo 14 y D-4, párrafos 32, 39, 40, 43 y 44 por Resolución publicada en el Diario Oficial de la Federación el 15 de diciembre de 2021.
+100. Reformado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021.
+101. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021.
+102. Abrogado por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021.
+103. Se Sustituyen los ANEXOS 5, 6, 9 y 10 por Resolución publicada en el Diario Oficial de la Federación el 23 de diciembre de 2021.
+104. Reformado por Resolución publicada en el Diario Oficial de la Federación el 1 de marzo de 2022.
+105. Reformado por Resolución publicada en el Diario Oficial de la Federación el 16 de junio de 2022.
+106. Reformado por Resolución publicada en el Diario oficial de la Federación el 16 de abril de 2024.
+107. Por Resolución publicada en el Diario Oficial de la Federación el 16 de abril de 2024, se DEROGA el ANEXO 6.
+108. Reformado por Resolución publicada en el Diario Oficial de la Federación el 23 de julio de 2025.
+109. Reformado por Resolución publicada en el Diario oficial de la Federación el 23 de julio de 2025.
+110. Reformado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025.
+111. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025.
+112. Se Sustituyen el Anexo 5 y del Anexo 9 la Serie R01 “Catálogo Mínimo”, Serie R10 “Reclasificaciones”, Serie R12 “Consolidación” y Serie R13 “Estados financieros”, por Resolución publicada en el Diario Oficial de la Federación el 03 de septiembre de 2025.
+113. Derogado, así como del Anexo 9, el reporte regulatorio A-1811, por Resolución publicada en el Diario Oficial de la Federación el 03 de septiembre de 2025.
+114. Reformado por Resolución publicada en el Diario Oficial de la Federación el 6 de julio de 2026.
+115. Por Resolución publicada en el Diario Oficial de la Federación el 6 de julio de 2026, se ADICIONO el ANEXO 20.

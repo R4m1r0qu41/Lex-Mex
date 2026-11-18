@@ -17,7 +17,9 @@ source_sha256: d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424
 
 # Artículo 77
 
-El recurso de revocación se tramitará de conformidad a lo siguiente: I. El promovente interpondrá el recurso por escrito, expresando el acto que impugna, los agravios que fueron causados y las pruebas que considere pertinentes, siempre y cuando estén relacionadas con los puntos controvertidos;
+El recurso de revocación se tramitará de conformidad a lo siguiente:
+
+I. El promovente interpondrá el recurso por escrito, expresando el acto que impugna, los agravios que fueron causados y las pruebas que considere pertinentes, siempre y cuando estén relacionadas con los puntos controvertidos;
 
 II. Las pruebas que se ofrezcan deberán estar relacionadas con cada uno de los hechos controvertidos, siendo inadmisible la prueba confesional por parte de la autoridad;
 

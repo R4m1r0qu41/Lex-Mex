@@ -23,7 +23,9 @@ Se consideran causas para el desechamiento de las proposiciones, las siguientes:
 
 I. La falta de información o documentos que imposibiliten determinar su solvencia;
 
-II. El incumplimiento de las condiciones legales, técnicas y económicas respecto de las cuales se haya establecido expresamente en la convocatoria a la licitación pública que afectarían la solvencia de la proposición; III. Se acredite fehacientemente con la documentación idónea que la información o documentación proporcionada por los licitantes es falsa;
+II. El incumplimiento de las condiciones legales, técnicas y económicas respecto de las cuales se haya establecido expresamente en la convocatoria a la licitación pública que afectarían la solvencia de la proposición;
+
+III. Se acredite fehacientemente con la documentación idónea que la información o documentación proporcionada por los licitantes es falsa;
 
 IV. La ubicación del licitante en alguno de los supuestos señalados en los artículos [31](../../lopsrm/markdown/articulo-31.md), fracción XXIII, [51](../../lopsrm/markdown/articulo-51.md) y [78](../../lopsrm/markdown/articulo-78.md), penúltimo párrafo de la Ley;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "116"
 aliases: ["LGV — Artículo 116"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,9 +21,11 @@ Las instancias públicas, competentes en las materias de seguridad pública, des
 
 I. Organizar, desarrollar, dirigir y adecuar las medidas necesarias, a través de planes, programas, líneas de acción, convenios de cooperación y coordinación, entre otros, para garantizar los derechos de las víctimas de delitos o de violación a sus derechos humanos;
 
-II. Llevar a cabo las acciones necesarias tendientes a capacitar a su personal para asegurar el acceso a los servicios especializados que éstas proporcionen a las víctimas, y con ello lograr el pleno ejercicio de sus derechos y garantizar su reinserción a la vida cotidiana; III. Canalizar a las víctimas a las instituciones que les prestan ayuda, atención y protección especializada;
+II. Llevar a cabo las acciones necesarias tendientes a capacitar a su personal para asegurar el acceso a los servicios especializados que éstas proporcionen a las víctimas, y con ello lograr el pleno ejercicio de sus derechos y garantizar su reinserción a la vida cotidiana;
 
-IV. Generar, tomar, realizar e implementar las acciones que sean necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos y el respeto irrestricto de los derechos establecidos en la presente Ley;
+III. Canalizar a las víctimas a las instituciones que les prestan ayuda, atención y protección especializada;
+
+IV. Generar, tomar, realizar e implementar las acciones que sean necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos y el respeto irrestricto de los derechos establecidos en la presente [Ley](articulo-6.md);
 
 V. Implementar programas de prevención y erradicación de la violencia, especialmente la ejercida contra niñas, niños, jóvenes, mujeres, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, adultos mayores, dentro y fuera del seno familiar; Fracción reformada DOF 01-04-2024
 

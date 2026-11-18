@@ -91,138 +91,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:3539-3557",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:3540-3558",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3539,
-    "end_char": 3557
+    "start_char": 3540,
+    "end_char": 3558
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:3888-3906",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:3889-3907",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3888,
-    "end_char": 3906
+    "start_char": 3889,
+    "end_char": 3907
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4146-4164",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4147-4165",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4146,
-    "end_char": 4164
+    "start_char": 4147,
+    "end_char": 4165
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4546-4564",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4547-4565",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4546,
-    "end_char": 4564
+    "start_char": 4547,
+    "end_char": 4565
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4768-4786",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4769-4787",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4768,
-    "end_char": 4786
+    "start_char": 4769,
+    "end_char": 4787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4935-4953",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:4936-4954",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4935,
-    "end_char": 4953
+    "start_char": 4936,
+    "end_char": 4954
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:5082-5100",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:5083-5101",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 5082,
-    "end_char": 5100
+    "start_char": 5083,
+    "end_char": 5101
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:5448-5466",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:5449-5467",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 5448,
-    "end_char": 5466
+    "start_char": 5449,
+    "end_char": 5467
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:6352-6370",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:6353-6371",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 6352,
-    "end_char": 6370
+    "start_char": 6353,
+    "end_char": 6371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:6821-6839",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:6822-6840",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 6821,
-    "end_char": 6839
+    "start_char": 6822,
+    "end_char": 6840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:7174-7192",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:7175-7193",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 7174,
-    "end_char": 7192
+    "start_char": 7175,
+    "end_char": 7193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:7410-7420",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:7411-7421",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7410,
-    "end_char": 7420
+    "start_char": 7411,
+    "end_char": 7421
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:8999-9002",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:9000-9003",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 8999,
-    "end_char": 9002
+    "start_char": 9000,
+    "end_char": 9003
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:11698-11701",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:11700-11703",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 11698,
-    "end_char": 11701
+    "start_char": 11700,
+    "end_char": 11703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:12128-12138",
+    "id": "urn:lex-mx:federal:statute:lpf:article:8:term-usage:12130-12140",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:reglamento",
     "span": "Reglamento",
-    "start_char": 12128,
-    "end_char": 12138
+    "start_char": 12130,
+    "end_char": 12140
   },
   {
     "schema_version": "0.1.0",
@@ -325,39 +325,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:1782-1792",
+    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:1783-1793",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:10",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:secretario",
     "span": "Secretario",
-    "start_char": 1782,
-    "end_char": 1792
+    "start_char": 1783,
+    "end_char": 1793
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2113-2123",
+    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2114-2124",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:10",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:secretario",
     "span": "Secretario",
-    "start_char": 2113,
-    "end_char": 2123
+    "start_char": 2114,
+    "end_char": 2124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2273-2288",
+    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2274-2289",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:10",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:consejo-federal",
     "span": "Consejo Federal",
-    "start_char": 2273,
-    "end_char": 2288
+    "start_char": 2274,
+    "end_char": 2289
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2522-2532",
+    "id": "urn:lex-mx:federal:statute:lpf:article:10:term-usage:2523-2533",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:10",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:secretario",
     "span": "Secretario",
-    "start_char": 2522,
-    "end_char": 2532
+    "start_char": 2523,
+    "end_char": 2533
   },
   {
     "schema_version": "0.1.0",
@@ -469,66 +469,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2283-2286",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2284-2287",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 2283,
-    "end_char": 2286
+    "start_char": 2284,
+    "end_char": 2287
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2292-2302",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2293-2303",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2292,
-    "end_char": 2302
+    "start_char": 2293,
+    "end_char": 2303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2662-2677",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2663-2678",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:consejo-federal",
     "span": "Consejo Federal",
-    "start_char": 2662,
-    "end_char": 2677
+    "start_char": 2663,
+    "end_char": 2678
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2747-2763",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2748-2764",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:carrera-policial",
     "span": "Carrera Policial",
-    "start_char": 2747,
-    "end_char": 2763
+    "start_char": 2748,
+    "end_char": 2764
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2769-2785",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2770-2786",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:carrera-policial",
     "span": "Carrera Policial",
-    "start_char": 2769,
-    "end_char": 2785
+    "start_char": 2770,
+    "end_char": 2786
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2984-3000",
+    "id": "urn:lex-mx:federal:statute:lpf:article:16:term-usage:2985-3001",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:16",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:carrera-policial",
     "span": "Carrera Policial",
-    "start_char": 2984,
-    "end_char": 3000
+    "start_char": 2985,
+    "end_char": 3001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:17:term-usage:2016-2019",
+    "id": "urn:lex-mx:federal:statute:lpf:article:17:term-usage:2017-2020",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 2016,
-    "end_char": 2019
+    "start_char": 2017,
+    "end_char": 2020
   },
   {
     "schema_version": "0.1.0",
@@ -559,21 +559,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:19:term-usage:6587-6597",
+    "id": "urn:lex-mx:federal:statute:lpf:article:19:term-usage:6589-6599",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:19",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:reglamento",
     "span": "Reglamento",
-    "start_char": 6587,
-    "end_char": 6597
+    "start_char": 6589,
+    "end_char": 6599
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:19:term-usage:6613-6616",
+    "id": "urn:lex-mx:federal:statute:lpf:article:19:term-usage:6615-6618",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:19",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 6613,
-    "end_char": 6616
+    "start_char": 6615,
+    "end_char": 6618
   },
   {
     "schema_version": "0.1.0",
@@ -667,48 +667,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2278-2281",
+    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2279-2282",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 2278,
-    "end_char": 2281
+    "start_char": 2279,
+    "end_char": 2282
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2735-2738",
+    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2736-2739",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 2735,
-    "end_char": 2738
+    "start_char": 2736,
+    "end_char": 2739
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2834-2849",
+    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2835-2850",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:consejo-federal",
     "span": "Consejo Federal",
-    "start_char": 2834,
-    "end_char": 2849
+    "start_char": 2835,
+    "end_char": 2850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2874-2884",
+    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2875-2885",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2874,
-    "end_char": 2884
+    "start_char": 2875,
+    "end_char": 2885
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2893-2896",
+    "id": "urn:lex-mx:federal:statute:lpf:article:26:term-usage:2894-2897",
     "provision_id": "urn:lex-mx:federal:statute:lpf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpf:term:ley",
     "span": "Ley",
-    "start_char": 2893,
-    "end_char": 2896
+    "start_char": 2894,
+    "end_char": 2897
   },
   {
     "schema_version": "0.1.0",

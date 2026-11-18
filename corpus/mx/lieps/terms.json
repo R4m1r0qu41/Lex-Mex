@@ -6,8 +6,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "I",
-    "start_char": 46,
-    "end_char": 855,
+    "start_char": 47,
+    "end_char": 856,
     "basis": "express_definition"
   },
   {
@@ -18,8 +18,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "I",
     "inciso": "a",
-    "start_char": 165,
-    "end_char": 421,
+    "start_char": 166,
+    "end_char": 422,
     "basis": "express_definition"
   },
   {
@@ -30,8 +30,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "I",
     "inciso": "b",
-    "start_char": 421,
-    "end_char": 855,
+    "start_char": 422,
+    "end_char": 856,
     "basis": "express_definition"
   },
   {
@@ -41,8 +41,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "II",
-    "start_char": 855,
-    "end_char": 1142,
+    "start_char": 856,
+    "end_char": 1143,
     "basis": "express_definition"
   },
   {
@@ -52,8 +52,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "III",
-    "start_char": 1142,
-    "end_char": 1267,
+    "start_char": 1143,
+    "end_char": 1268,
     "basis": "express_definition"
   },
   {
@@ -63,8 +63,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "IV",
-    "start_char": 1267,
-    "end_char": 1710,
+    "start_char": 1268,
+    "end_char": 1711,
     "basis": "express_definition"
   },
   {
@@ -74,8 +74,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "V",
-    "start_char": 1710,
-    "end_char": 1921,
+    "start_char": 1711,
+    "end_char": 1922,
     "basis": "express_definition"
   },
   {
@@ -85,8 +85,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VI",
-    "start_char": 1921,
-    "end_char": 2146,
+    "start_char": 1922,
+    "end_char": 2147,
     "basis": "express_definition"
   },
   {
@@ -96,8 +96,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VII",
-    "start_char": 2146,
-    "end_char": 2483,
+    "start_char": 2147,
+    "end_char": 2484,
     "basis": "express_definition"
   },
   {
@@ -107,8 +107,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VIII",
-    "start_char": 2483,
-    "end_char": 3423,
+    "start_char": 2484,
+    "end_char": 3424,
     "basis": "express_definition"
   },
   {
@@ -119,8 +119,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VIII",
     "inciso": "a",
-    "start_char": 2549,
-    "end_char": 2728,
+    "start_char": 2550,
+    "end_char": 2729,
     "basis": "express_definition"
   },
   {
@@ -131,8 +131,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VIII",
     "inciso": "b",
-    "start_char": 2728,
-    "end_char": 2863,
+    "start_char": 2729,
+    "end_char": 2864,
     "basis": "express_definition"
   },
   {
@@ -143,8 +143,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VIII",
     "inciso": "c",
-    "start_char": 2863,
-    "end_char": 3065,
+    "start_char": 2864,
+    "end_char": 3066,
     "basis": "express_definition"
   },
   {
@@ -155,8 +155,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "VIII",
     "inciso": "d",
-    "start_char": 3065,
-    "end_char": 3423,
+    "start_char": 3066,
+    "end_char": 3424,
     "basis": "express_definition"
   },
   {
@@ -167,8 +167,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "IX",
     "inciso": "a",
-    "start_char": 3550,
-    "end_char": 3683,
+    "start_char": 3551,
+    "end_char": 3684,
     "basis": "express_definition"
   },
   {
@@ -179,8 +179,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "IX",
     "inciso": "b",
-    "start_char": 3683,
-    "end_char": 4148,
+    "start_char": 3684,
+    "end_char": 4149,
     "basis": "express_definition"
   },
   {
@@ -191,8 +191,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "IX",
     "inciso": "c",
-    "start_char": 4148,
-    "end_char": 4566,
+    "start_char": 4149,
+    "end_char": 4567,
     "basis": "express_definition"
   },
   {
@@ -203,8 +203,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "IX",
     "inciso": "d",
-    "start_char": 4566,
-    "end_char": 4808,
+    "start_char": 4567,
+    "end_char": 4809,
     "basis": "express_definition"
   },
   {
@@ -214,8 +214,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "X",
-    "start_char": 4808,
-    "end_char": 5105,
+    "start_char": 4809,
+    "end_char": 5106,
     "basis": "express_definition"
   },
   {
@@ -225,8 +225,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XII",
-    "start_char": 5208,
-    "end_char": 7165,
+    "start_char": 5209,
+    "end_char": 7166,
     "basis": "express_definition"
   },
   {
@@ -236,8 +236,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XIII",
-    "start_char": 7165,
-    "end_char": 7407,
+    "start_char": 7166,
+    "end_char": 7408,
     "basis": "express_definition"
   },
   {
@@ -247,8 +247,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XIV",
-    "start_char": 7407,
-    "end_char": 7818,
+    "start_char": 7408,
+    "end_char": 7819,
     "basis": "express_definition"
   },
   {
@@ -258,8 +258,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XV",
-    "start_char": 7818,
-    "end_char": 8284,
+    "start_char": 7819,
+    "end_char": 8285,
     "basis": "express_definition"
   },
   {
@@ -269,8 +269,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XVI",
-    "start_char": 8284,
-    "end_char": 8630,
+    "start_char": 8285,
+    "end_char": 8631,
     "basis": "express_definition"
   },
   {
@@ -280,8 +280,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XVII",
-    "start_char": 8630,
-    "end_char": 9114,
+    "start_char": 8631,
+    "end_char": 9115,
     "basis": "express_definition"
   },
   {
@@ -291,8 +291,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XVIII",
-    "start_char": 9114,
-    "end_char": 9607,
+    "start_char": 9115,
+    "end_char": 9608,
     "basis": "express_definition"
   },
   {
@@ -302,8 +302,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XIX",
-    "start_char": 9607,
-    "end_char": 9959,
+    "start_char": 9608,
+    "end_char": 9960,
     "basis": "express_definition"
   },
   {
@@ -313,8 +313,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XX",
-    "start_char": 9959,
-    "end_char": 10142,
+    "start_char": 9960,
+    "end_char": 10143,
     "basis": "express_definition"
   },
   {
@@ -324,8 +324,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XX Bis",
-    "start_char": 10142,
-    "end_char": 10383,
+    "start_char": 10143,
+    "end_char": 10384,
     "basis": "express_definition"
   },
   {
@@ -335,8 +335,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXI",
-    "start_char": 10383,
-    "end_char": 10610,
+    "start_char": 10384,
+    "end_char": 10611,
     "basis": "express_definition"
   },
   {
@@ -346,8 +346,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
-    "start_char": 10610,
-    "end_char": 13261,
+    "start_char": 10611,
+    "end_char": 13262,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "a",
-    "start_char": 10639,
-    "end_char": 10869,
+    "start_char": 10640,
+    "end_char": 10870,
     "basis": "express_definition"
   },
   {
@@ -370,8 +370,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "b",
-    "start_char": 10869,
-    "end_char": 10989,
+    "start_char": 10870,
+    "end_char": 10990,
     "basis": "express_definition"
   },
   {
@@ -382,8 +382,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "c",
-    "start_char": 10989,
-    "end_char": 11221,
+    "start_char": 10990,
+    "end_char": 11222,
     "basis": "express_definition"
   },
   {
@@ -394,8 +394,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "e",
-    "start_char": 11371,
-    "end_char": 11598,
+    "start_char": 11372,
+    "end_char": 11599,
     "basis": "express_definition"
   },
   {
@@ -406,8 +406,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "f",
-    "start_char": 11598,
-    "end_char": 11941,
+    "start_char": 11599,
+    "end_char": 11942,
     "basis": "express_definition"
   },
   {
@@ -418,8 +418,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "h",
-    "start_char": 12089,
-    "end_char": 12514,
+    "start_char": 12090,
+    "end_char": 12515,
     "basis": "express_definition"
   },
   {
@@ -430,8 +430,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "i",
-    "start_char": 12514,
-    "end_char": 12662,
+    "start_char": 12515,
+    "end_char": 12663,
     "basis": "express_definition"
   },
   {
@@ -442,8 +442,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "j",
-    "start_char": 12662,
-    "end_char": 12836,
+    "start_char": 12663,
+    "end_char": 12837,
     "basis": "express_definition"
   },
   {
@@ -454,8 +454,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "k",
-    "start_char": 12836,
-    "end_char": 13033,
+    "start_char": 12837,
+    "end_char": 13034,
     "basis": "express_definition"
   },
   {
@@ -466,8 +466,8 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXII",
     "inciso": "l",
-    "start_char": 13033,
-    "end_char": 13261,
+    "start_char": 13034,
+    "end_char": 13262,
     "basis": "express_definition"
   },
   {
@@ -477,8 +477,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXIII",
-    "start_char": 13261,
-    "end_char": 13645,
+    "start_char": 13262,
+    "end_char": 13646,
     "basis": "express_definition"
   },
   {
@@ -488,8 +488,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXIV",
-    "start_char": 13645,
-    "end_char": 14045,
+    "start_char": 13646,
+    "end_char": 14046,
     "basis": "express_definition"
   },
   {
@@ -499,8 +499,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXV",
-    "start_char": 14045,
-    "end_char": 14344,
+    "start_char": 14046,
+    "end_char": 14345,
     "basis": "express_definition"
   },
   {
@@ -510,8 +510,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXVI",
-    "start_char": 14344,
-    "end_char": 14866,
+    "start_char": 14345,
+    "end_char": 14867,
     "basis": "express_definition"
   },
   {
@@ -521,8 +521,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXVII",
-    "start_char": 14866,
-    "end_char": 15129,
+    "start_char": 14867,
+    "end_char": 15130,
     "basis": "express_definition"
   },
   {
@@ -532,8 +532,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXVIII",
-    "start_char": 15129,
-    "end_char": 15422,
+    "start_char": 15130,
+    "end_char": 15423,
     "basis": "express_definition"
   },
   {
@@ -543,8 +543,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXIX",
-    "start_char": 15422,
-    "end_char": 15559,
+    "start_char": 15423,
+    "end_char": 15560,
     "basis": "express_definition"
   },
   {
@@ -554,8 +554,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXX",
-    "start_char": 15559,
-    "end_char": 15868,
+    "start_char": 15560,
+    "end_char": 15869,
     "basis": "express_definition"
   },
   {
@@ -565,8 +565,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXI",
-    "start_char": 15868,
-    "end_char": 16004,
+    "start_char": 15869,
+    "end_char": 16005,
     "basis": "express_definition"
   },
   {
@@ -576,8 +576,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXII",
-    "start_char": 16004,
-    "end_char": 16326,
+    "start_char": 16005,
+    "end_char": 16327,
     "basis": "express_definition"
   },
   {
@@ -587,8 +587,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXIII",
-    "start_char": 16326,
-    "end_char": 16501,
+    "start_char": 16327,
+    "end_char": 16502,
     "basis": "express_definition"
   },
   {
@@ -598,8 +598,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXIV",
-    "start_char": 16501,
-    "end_char": 16622,
+    "start_char": 16502,
+    "end_char": 16623,
     "basis": "express_definition"
   },
   {
@@ -609,8 +609,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXV",
-    "start_char": 16622,
-    "end_char": 16876,
+    "start_char": 16623,
+    "end_char": 16877,
     "basis": "express_definition"
   },
   {
@@ -620,8 +620,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXVI",
-    "start_char": 16876,
-    "end_char": 17175,
+    "start_char": 16877,
+    "end_char": 17176,
     "basis": "express_definition"
   },
   {
@@ -631,8 +631,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXVII",
-    "start_char": 17175,
-    "end_char": 17575,
+    "start_char": 17176,
+    "end_char": 17576,
     "basis": "express_definition"
   },
   {
@@ -642,8 +642,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXVIII",
-    "start_char": 17575,
-    "end_char": 17948,
+    "start_char": 17576,
+    "end_char": 17949,
     "basis": "express_definition"
   },
   {
@@ -653,8 +653,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lieps",
     "defining_provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "fraction": "XXXIX",
-    "start_char": 17948,
-    "end_char": 18623,
+    "start_char": 17949,
+    "end_char": 18624,
     "basis": "express_definition"
   }
 ]

@@ -31,4 +31,6 @@ V. Emitirá oportunamente el laudo arbitral que ponga fin al procedimiento que l
 
 VI. Dará aviso por escrito a la Secretaría para ausentarse del ejercicio de sus funciones por un plazo mayor a quince días hábiles pero menor de noventa; cuando exceda de este plazo deberá solicitar la licencia respectiva;
 
-VII. Hará del conocimiento de la Secretaría, por escrito, en un plazo máximo de veinte días hábiles, cualquier cambio en los datos que obran en la Lista de Árbitros, y VIII. Lo previsto en las demás leyes y reglamentos.
+VII. Hará del conocimiento de la Secretaría, por escrito, en un plazo máximo de veinte días hábiles, cualquier cambio en los datos que obran en la Lista de Árbitros, y
+
+VIII. Lo previsto en las demás leyes y reglamentos.

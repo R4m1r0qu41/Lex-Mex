@@ -31,4 +31,6 @@ V. Elevación media del mar;
 
 VI. La estimación de los costos atribuibles al cambio climático en un año determinado, que se incluirá en el cálculo del Producto Interno Neto Ecológico;
 
-VII. La calidad de los suelos, incluyendo su contenido de carbono, y VIII. La protección, adaptación y manejo de la biodiversidad.
+VII. La calidad de los suelos, incluyendo su contenido de carbono, y
+
+VIII. La protección, adaptación y manejo de la biodiversidad.

@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LGEO — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 ---
@@ -45,7 +45,9 @@ XII. Recurso Geotérmico: Recurso renovable asociado al calor natural del subsue
 
 XIII. Reglamento: Reglamento de la Ley de Geotermia;
 
-XIV. Secretaría: Secretaría de Energía; XV. Usos Diversos: Toda actividad de aprovechamiento por medio del calor del subsuelo para beneficios de la energía geotérmica, diferentes a la generación de energía eléctrica, entre los que se encuentran la calefacción urbana o de invernaderos o ambos, secado de productos agrícolas o industriales, balneología, acuacultura, elaboración de conservas, diferentes tipos de deshielo, lavado de lana y tintes, refrigeración por absorción o por absorción con amoníaco, extracción de sustancias químicas, destilación de agua dulce, recuperación de metales, evaporación de soluciones concentradas, fabricación de pulpa de papel, entre otros;
+XIV. Secretaría: Secretaría de Energía;
+
+XV. Usos Diversos: Toda actividad de aprovechamiento por medio del calor del subsuelo para beneficios de la energía geotérmica, diferentes a la generación de energía eléctrica, entre los que se encuentran la calefacción urbana o de invernaderos o ambos, secado de productos agrícolas o industriales, balneología, acuacultura, elaboración de conservas, diferentes tipos de deshielo, lavado de lana y tintes, refrigeración por absorción o por absorción con amoníaco, extracción de sustancias químicas, destilación de agua dulce, recuperación de metales, evaporación de soluciones concentradas, fabricación de pulpa de papel, entre otros;
 
 XVI. Yacimiento Geotérmico: Depósito subterráneo de calor en la corteza terrestre, formado por agua, vapor geotérmico o rocas calientes, cuya energía térmica se puede aprovechar para generar energía eléctrica o Usos Diversos o ambos, y
 

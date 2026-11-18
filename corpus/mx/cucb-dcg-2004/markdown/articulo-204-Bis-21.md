@@ -18,6 +18,6 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 204 Bis 21
 
-La aplicación de lo previsto en el presente capítulo es sin perjuicio del ejercicio de las facultades que los artículos 137, 138 y 153 de la Ley atribuyen a la [Comisión](articulo-1.md), así como las demás facultades que dicho ordenamiento legal y la Ley de la Comisión Nacional Bancaria y de Valores le otorgan.
+La aplicación de lo previsto en el presente capítulo es sin perjuicio del ejercicio de las facultades que los artículos 137, 138 y 153 de la [Ley](articulo-1.md) atribuyen a la [Comisión](articulo-1.md), así como las demás facultades que dicho ordenamiento legal y la Ley de la Comisión Nacional Bancaria y de Valores le otorgan.
 
 Capítulo Segundo De la contratación de servicios con terceros

@@ -128,7 +128,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "X",
     "start_char": 2240,
-    "end_char": 2539,
+    "end_char": 2540,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XI",
-    "start_char": 2539,
-    "end_char": 3021,
+    "start_char": 2540,
+    "end_char": 3022,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XII",
-    "start_char": 3021,
-    "end_char": 3140,
+    "start_char": 3022,
+    "end_char": 3141,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XIII",
-    "start_char": 3140,
-    "end_char": 3210,
+    "start_char": 3141,
+    "end_char": 3211,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XIV",
-    "start_char": 3210,
-    "end_char": 3726,
+    "start_char": 3211,
+    "end_char": 3727,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XV",
-    "start_char": 3726,
-    "end_char": 4102,
+    "start_char": 3727,
+    "end_char": 4103,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "fraction": "XVI",
-    "start_char": 4102,
-    "end_char": 4377,
+    "start_char": 4103,
+    "end_char": 4378,
     "basis": "express_definition"
   }
 ]

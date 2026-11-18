@@ -18,7 +18,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lemefam:article:2",
     "fraction": "II",
     "start_char": 167,
-    "end_char": 401,
+    "end_char": 224,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:term:direccion-y-rectoria",
+    "term": "Dirección y Rectoría",
+    "instrument_id": "urn:lex-mx:federal:statute:lemefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lemefam:article:2",
+    "fraction": "III",
+    "start_char": 224,
+    "end_char": 402,
     "basis": "express_definition"
   }
 ]

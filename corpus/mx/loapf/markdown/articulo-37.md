@@ -29,7 +29,9 @@ IV. Emitir las normas que regulen los instrumentos y procedimientos en materia d
 
 V. Establecer mecanismos internos para la Administración Pública Federal que prevengan actos u omisiones que puedan constituir responsabilidades administrativas e impulsar la participación ciudadana y la cultura cívica y ética que contribuya a la mejora continua;
 
-VI. Organizar y coordinar el sistema de control interno y evaluar la gestión gubernamental y sus resultados, así como concertar con las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables; VII. Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales, así como la mejora continua;
+VI. Organizar y coordinar el sistema de control interno y evaluar la gestión gubernamental y sus resultados, así como concertar con las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables;
+
+VII. Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales, así como la mejora continua;
 
 VIII. Verificar el cumplimiento, por parte de las dependencias, incluidos sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal, de las disposiciones jurídicas aplicables a la gestión pública;
 

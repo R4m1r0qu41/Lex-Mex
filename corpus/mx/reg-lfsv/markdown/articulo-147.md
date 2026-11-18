@@ -7,8 +7,8 @@ provision_type: article
 number: "147"
 aliases: ["REG-LFSV — Artículo 147"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -49,7 +49,9 @@ XIV. El manual de organización con la descripción de las funciones y responsab
 
 XV. El manual de procedimientos de certificación;
 
-XVI. El organigrama; XVII. La documentación que acredite que cuenta con instalaciones adecuadas y suficientes para la prestación del servicio de certificación, incluyendo los servicios de teléfono, fax y correo electrónico;
+XVI. El organigrama;
+
+XVII. La documentación que acredite que cuenta con instalaciones adecuadas y suficientes para la prestación del servicio de certificación, incluyendo los servicios de teléfono, fax y correo electrónico;
 
 XVIII. El inventario del equipo y los materiales con que cuenta;
 

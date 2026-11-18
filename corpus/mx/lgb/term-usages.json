@@ -19,66 +19,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:650-660",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:421-431",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 650,
-    "end_char": 660
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Biblioteca",
+    "start_char": 421,
+    "end_char": 431
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:689-706",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:514-524",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Biblioteca",
+    "start_char": 514,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:651-661",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 651,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:690-707",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 689,
-    "end_char": 706
+    "start_char": 690,
+    "end_char": 707
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2380-2383",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:711-722",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 711,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2381-2384",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 2380,
-    "end_char": 2383
+    "start_char": 2381,
+    "end_char": 2384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2414-2445",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2397-2408",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 2397,
+    "end_char": 2408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2415-2446",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema-nacional-de-bibliotecas",
     "span": "Sistema Nacional de Bibliotecas",
-    "start_char": 2414,
-    "end_char": 2445
+    "start_char": 2415,
+    "end_char": 2446
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2956-2966",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2939-2950",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 2939,
+    "end_char": 2950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:2957-2967",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2956,
-    "end_char": 2966
+    "start_char": 2957,
+    "end_char": 2967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:4842-4878",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:4844-4880",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red-nacional-de-bibliotecas-publicas",
     "span": "Red Nacional de Bibliotecas Públicas",
-    "start_char": 4842,
-    "end_char": 4878
+    "start_char": 4844,
+    "end_char": 4880
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:5665-5696",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:4916-4927",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 4916,
+    "end_char": 4927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:2:term-usage:5667-5698",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema-nacional-de-bibliotecas",
     "span": "Sistema Nacional de Bibliotecas",
-    "start_char": 5665,
-    "end_char": 5696
+    "start_char": 5667,
+    "end_char": 5698
   },
   {
     "schema_version": "0.1.0",
@@ -97,6 +151,15 @@
     "span": "Dirección General",
     "start_char": 44,
     "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:8:term-usage:65-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 65,
+    "end_char": 76
   },
   {
     "schema_version": "0.1.0",
@@ -217,84 +280,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:630-633",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:631-634",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 630,
-    "end_char": 633
+    "start_char": 631,
+    "end_char": 634
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:716-719",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:717-720",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 716,
-    "end_char": 719
+    "start_char": 717,
+    "end_char": 720
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:856-873",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:857-874",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 856,
-    "end_char": 873
+    "start_char": 857,
+    "end_char": 874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1111-1114",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1112-1115",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1111,
-    "end_char": 1114
+    "start_char": 1112,
+    "end_char": 1115
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1280-1283",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1281-1284",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1280,
-    "end_char": 1283
+    "start_char": 1281,
+    "end_char": 1284
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1428-1431",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1429-1432",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1428,
-    "end_char": 1431
+    "start_char": 1429,
+    "end_char": 1432
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1584-1587",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1585-1588",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1584,
-    "end_char": 1587
+    "start_char": 1585,
+    "end_char": 1588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1623-1626",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1624-1627",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1623,
-    "end_char": 1626
+    "start_char": 1624,
+    "end_char": 1627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1985-1988",
+    "id": "urn:lex-mx:federal:statute:lgb:article:14:term-usage:1986-1989",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1985,
-    "end_char": 1988
+    "start_char": 1986,
+    "end_char": 1989
   },
   {
     "schema_version": "0.1.0",
@@ -316,30 +379,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:194-197",
+    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:195-198",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 194,
-    "end_char": 197
+    "start_char": 195,
+    "end_char": 198
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:1141-1152",
+    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:202-213",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 202,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:1142-1153",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red-estatal",
     "span": "Red Estatal",
-    "start_char": 1141,
-    "end_char": 1152
+    "start_char": 1142,
+    "end_char": 1153
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:1186-1189",
+    "id": "urn:lex-mx:federal:statute:lgb:article:16:term-usage:1187-1190",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:red",
     "span": "Red",
-    "start_char": 1186,
-    "end_char": 1189
+    "start_char": 1187,
+    "end_char": 1190
   },
   {
     "schema_version": "0.1.0",
@@ -349,6 +421,15 @@
     "span": "Red",
     "start_char": 123,
     "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:17:term-usage:130-141",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 130,
+    "end_char": 141
   },
   {
     "schema_version": "0.1.0",
@@ -514,6 +595,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:25:term-usage:880-891",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Bibliotecas",
+    "start_char": 880,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:43-50",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema",
@@ -532,39 +622,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:228-235",
+    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:229-236",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema",
     "span": "Sistema",
-    "start_char": 228,
-    "end_char": 235
+    "start_char": 229,
+    "end_char": 236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:455-462",
+    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:456-463",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema",
     "span": "Sistema",
-    "start_char": 455,
-    "end_char": 462
+    "start_char": 456,
+    "end_char": 463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:546-553",
+    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:547-554",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema",
     "span": "Sistema",
-    "start_char": 546,
-    "end_char": 553
+    "start_char": 547,
+    "end_char": 554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:819-826",
+    "id": "urn:lex-mx:federal:statute:lgb:article:26:term-usage:820-827",
     "provision_id": "urn:lex-mx:federal:statute:lgb:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgb:term:sistema",
     "span": "Sistema",
-    "start_char": 819,
-    "end_char": 826
+    "start_char": 820,
+    "end_char": 827
   },
   {
     "schema_version": "0.1.0",
@@ -736,6 +826,15 @@
     "span": "Libro",
     "start_char": 265,
     "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:transitory:tercero:term-usage:163-173",
+    "provision_id": "urn:lex-mx:federal:statute:lgb:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgb:term:biblioteca",
+    "span": "Biblioteca",
+    "start_char": 163,
+    "end_char": 173
   },
   {
     "schema_version": "0.1.0",

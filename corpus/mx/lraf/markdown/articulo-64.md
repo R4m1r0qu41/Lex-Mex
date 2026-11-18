@@ -35,10 +35,12 @@ Lo anterior, sin perjuicio de los avisos y autorizaciones relativos a adquisicio
 
 Cualquier cláusula estatutaria de las previstas en esta fracción que no cumpla con los requisitos antes señalados será nula de pleno derecho.
 
-II. Establezcan causales de exclusión de socios o para ejercer derechos de separación, de retiro, o bien, para amortizar acciones, en adición a lo dispuesto en la Ley General de Sociedades Mercantiles, así como el precio o las bases para su determinación. III. Implementen mecanismos a seguir en caso de que los accionistas no lleguen a acuerdos respecto de asuntos específicos.
+II. Establezcan causales de exclusión de socios o para ejercer derechos de separación, de retiro, o bien, para amortizar acciones, en adición a lo dispuesto en la Ley General de Sociedades Mercantiles, así como el precio o las bases para su determinación.
+
+III. Implementen mecanismos a seguir en caso de que los accionistas no lleguen a acuerdos respecto de asuntos específicos.
 
 IV. Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles. Al respecto, podrán estipularse medios de publicidad distintos de los señalados en dicho precepto legal.
 
-V. Permitan limitar la responsabilidad en los daños y perjuicios ocasionados por sus consejeros y Directivos Relevantes, derivados de los actos que ejecuten o por las decisiones que adopten, en términos de lo establecido en el artículo [49](articulo-49.md) de esta Ley.
+V. Permitan limitar la responsabilidad en los daños y perjuicios ocasionados por sus consejeros y [Directivos Relevantes](articulo-5o.md), derivados de los actos que ejecuten o por las decisiones que adopten, en términos de lo establecido en el artículo [49](articulo-49.md) de esta Ley.
 
 Los títulos relativos a las acciones representativas del capital social de las Sociedades Controladoras, deberán incorporar, en su caso, las estipulaciones que se pacten conforme a este artículo.

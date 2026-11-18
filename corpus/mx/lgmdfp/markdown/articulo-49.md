@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["LGMDFP — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -29,7 +29,9 @@ IV. Dar seguimiento y evaluar la aplicación del [Protocolo Homologado de Búsqu
 
 V. Evaluar permanentemente las políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
 
-VI. Generar mecanismos para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas y No Localizadas; VII. Generar los mecanismos y acuerdos necesarios para dar cumplimiento a las recomendaciones y requerimientos que hagan los integrantes del Sistema Nacional para el mejoramiento de políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
+VI. Generar mecanismos para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas y No Localizadas;
+
+VII. Generar los mecanismos y acuerdos necesarios para dar cumplimiento a las recomendaciones y requerimientos que hagan los integrantes del Sistema Nacional para el mejoramiento de políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
 
 VIII. Emitir los modelos de instrumentos rectores para el funcionamiento y la coordinación con las [Fiscalías Especializadas](articulo-4.md) de las Entidades Federativas;
 

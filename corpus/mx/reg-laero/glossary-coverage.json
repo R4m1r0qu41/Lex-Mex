@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "strategy_version": "glossary-extraction-6",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
-  "source_sha256": "ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776",
-  "extracted_text_sha256": "b4d067d1dd97b2df3073d7b9696700af1718d01a387b831f5061125f7ac40125",
+  "source_sha256": "e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a",
+  "extracted_text_sha256": "dc18eff839f78661a5fbd1e6700a0679b1d1cf61420eeb73efd6d817b7a6a603",
   "status": "detected",
   "glossaries": [
     {
@@ -22,5 +22,5 @@
   ],
   "imports": [],
   "term_count": 4,
-  "usage_count": 253
+  "usage_count": 257
 }

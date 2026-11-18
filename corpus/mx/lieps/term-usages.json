@@ -442,246 +442,246 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:87-106",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:88-107",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
     "span": "bebidas alcohólicas",
-    "start_char": 87,
-    "end_char": 106
+    "start_char": 88,
+    "end_char": 107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:113-133",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:114-134",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-refrescantes",
     "span": "bebidas refrescantes",
-    "start_char": 113,
-    "end_char": 133
+    "start_char": 114,
+    "end_char": 134
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1061-1069",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1062-1070",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
     "span": "azúcares",
-    "start_char": 1061,
-    "end_char": 1069
+    "start_char": 1062,
+    "end_char": 1070
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1392-1411",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1393-1412",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
     "span": "bebidas alcohólicas",
-    "start_char": 1392,
-    "end_char": 1411
+    "start_char": 1393,
+    "end_char": 1412
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1821-1840",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1822-1841",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
     "span": "bebidas alcohólicas",
-    "start_char": 1821,
-    "end_char": 1840
+    "start_char": 1822,
+    "end_char": 1841
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2083-2109",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2084-2110",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:etanol-para-uso-automotriz",
     "span": "etanol para uso automotriz",
-    "start_char": 2083,
-    "end_char": 2109
+    "start_char": 2084,
+    "end_char": 2110
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2420-2446",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2421-2447",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:etanol-para-uso-automotriz",
     "span": "etanol para uso automotriz",
-    "start_char": 2420,
-    "end_char": 2446
+    "start_char": 2421,
+    "end_char": 2447
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3580-3589",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3581-3590",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
     "span": "gasolinas",
-    "start_char": 3580,
-    "end_char": 3589
+    "start_char": 3581,
+    "end_char": 3590
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3591-3597",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3592-3598",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
     "span": "diésel",
-    "start_char": 3591,
-    "end_char": 3597
+    "start_char": 3592,
+    "end_char": 3598
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3599-3622",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3600-3623",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-no-fosiles",
     "span": "combustibles no fósiles",
-    "start_char": 3599,
-    "end_char": 3622
+    "start_char": 3600,
+    "end_char": 3623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:4736-4747",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:4737-4748",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
     "span": "gas natural",
-    "start_char": 4736,
-    "end_char": 4747
+    "start_char": 4737,
+    "end_char": 4748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7296-7304",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7297-7305",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
     "span": "azúcares",
-    "start_char": 7296,
-    "end_char": 7304
+    "start_char": 7297,
+    "end_char": 7305
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7450-7475",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7451-7476",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:red-de-telecomunicaciones",
     "span": "red de telecomunicaciones",
-    "start_char": 7450,
-    "end_char": 7475
+    "start_char": 7451,
+    "end_char": 7476
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7580-7620",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7581-7621",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:equipo-terminal-de-telecomunicaciones",
     "span": "equipos terminales de telecomunicaciones",
-    "start_char": 7580,
-    "end_char": 7620
+    "start_char": 7581,
+    "end_char": 7621
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7644-7671",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7645-7672",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:red-de-telecomunicaciones",
     "span": "redes de telecomunicaciones",
-    "start_char": 7644,
-    "end_char": 7671
+    "start_char": 7645,
+    "end_char": 7672
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9227-9235",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9228-9236",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
     "span": "azúcares",
-    "start_char": 9227,
-    "end_char": 9235
+    "start_char": 9228,
+    "end_char": 9236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9238-9250",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9239-9251",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
     "span": "edulcorantes",
-    "start_char": 9238,
-    "end_char": 9250
+    "start_char": 9239,
+    "end_char": 9251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9745-9757",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9746-9758",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
     "span": "edulcorantes",
-    "start_char": 9745,
-    "end_char": 9757
+    "start_char": 9746,
+    "end_char": 9758
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10072-10084",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10073-10085",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
     "span": "edulcorantes",
-    "start_char": 10072,
-    "end_char": 10084
+    "start_char": 10073,
+    "end_char": 10085
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10288-10296",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10289-10297",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
     "span": "azúcares",
-    "start_char": 10288,
-    "end_char": 10296
+    "start_char": 10289,
+    "end_char": 10297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13102-13116",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13103-13117",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:carbon-mineral",
     "span": "carbón mineral",
-    "start_char": 13102,
-    "end_char": 13116
+    "start_char": 13103,
+    "end_char": 13117
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13119-13130",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13120-13131",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
     "span": "gas natural",
-    "start_char": 13119,
-    "end_char": 13130
+    "start_char": 13120,
+    "end_char": 13131
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15268-15276",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15269-15277",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
     "span": "azúcares",
-    "start_char": 15268,
-    "end_char": 15276
+    "start_char": 15269,
+    "end_char": 15277
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15285-15297",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15286-15298",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
     "span": "edulcorantes",
-    "start_char": 15285,
-    "end_char": 15297
+    "start_char": 15286,
+    "end_char": 15298
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:16169-16181",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:16170-16182",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
     "span": "edulcorantes",
-    "start_char": 16169,
-    "end_char": 16181
+    "start_char": 16170,
+    "end_char": 16182
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:17488-17507",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:17489-17508",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
     "span": "bebidas alcohólicas",
-    "start_char": 17488,
-    "end_char": 17507
+    "start_char": 17489,
+    "end_char": 17508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:18074-18090",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:18075-18091",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
     "span": "contraprestación",
-    "start_char": 18074,
-    "end_char": 18090
+    "start_char": 18075,
+    "end_char": 18091
   },
   {
     "schema_version": "0.1.0",
@@ -2494,12 +2494,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:25:term-usage:352-371",
+    "id": "urn:lex-mx:federal:statute:lieps:article:25:term-usage:353-372",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:25",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
     "span": "bebidas alcohólicas",
-    "start_char": 352,
-    "end_char": 371
+    "start_char": 353,
+    "end_char": 372
   },
   {
     "schema_version": "0.1.0",

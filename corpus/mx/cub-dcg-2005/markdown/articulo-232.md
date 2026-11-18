@@ -9,23 +9,20 @@ aliases: ["DCG-CUB-2005 — Artículo 232"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [113,114]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo I
 
 # Artículo 232
 
-La Comisión únicamente podrá establecer las Medidas Correctivas Especiales Adicionales señaladas expresamente en la Ley y en las presentes disposiciones.
+La [Comisión](articulo-1.md) únicamente podrá establecer las [Medidas Correctivas Especiales Adicionales](articulo-1.md) señaladas expresamente en la [Ley](articulo-1.md) y en las presentes disposiciones.
 
-La Comisión podrá aplicar a las instituciones de banca múltiple que hayan sido clasificadas en la (113)
+La Comisión podrá aplicar a las instituciones de banca múltiple que hayan sido clasificadas en la categoría II a que se refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, cualesquiera de las Medidas Correctivas Especiales Adicionales establecidas en el Artículo [233](articulo-233.md) de las presentes disposiciones.
 
-categoría II a que se refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, cualesquiera de las Medidas Correctivas Especiales Adicionales establecidas en el Artículo [233](articulo-233.md) de las presentes disposiciones.
-
-Para aquellas instituciones de banca múltiple que hayan sido clasificadas en la categoría III a que se (114)
-
-refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, la Comisión podrá aplicar cualesquiera de las Medidas Correctivas Especiales Adicionales establecidas en los Artículos [233](articulo-233.md) y [234](articulo-234.md) de las presentes disposiciones.
+Para aquellas instituciones de banca múltiple que hayan sido clasificadas en la categoría III a que se refiere el Artículo [220](articulo-220.md) de las presentes disposiciones, la Comisión podrá aplicar cualesquiera de las Medidas Correctivas Especiales Adicionales establecidas en los Artículos [233](articulo-233.md) y [234](articulo-234.md) de las presentes disposiciones.
 
 Tratándose de instituciones de banca múltiple que hayan sido clasificadas en las categorías IV y V, les serán aplicables cualesquiera de las Medidas Correctivas Especiales Adicionales establecidas en los Artículos [233](articulo-233.md), [234](articulo-234.md) y [235](articulo-235.md) de las presentes disposiciones a juicio de la Comisión.
 

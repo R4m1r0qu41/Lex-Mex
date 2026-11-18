@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["LUACH — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf
 source_sha256: eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5
 ---
@@ -27,6 +27,8 @@ III.- Preservar, difundir y acrecentar la cultura y promover la realización del
 
 IV.- Propiciar la libre investigación a través de la participación de alumnos y personal académico en un proceso educativo abierto a todas las corrientes del pensamiento;
 
-V.- Promover la formación de profesionales de alto nivel conforme a programas académicos y de investigación que colaboren al establecimiento de una estrategia viable para combatir el subdesarrollo. VI.- Pugnar porque las innovaciones científicas y tecnológicas lleguen oportunamente al sector rural, a fin de promover el cambio social para lograr un mejor nivel económico y cultural de sus miembros;
+V.- Promover la formación de profesionales de alto nivel conforme a programas académicos y de investigación que colaboren al establecimiento de una estrategia viable para combatir el subdesarrollo.
+
+VI.- Pugnar porque las innovaciones científicas y tecnológicas lleguen oportunamente al sector rural, a fin de promover el cambio social para lograr un mejor nivel económico y cultural de sus miembros;
 
 VII.- Procurar, en coordinación con otras instituciones de carácter agrícola, una adecuada planificación de la agricultura, especialmente de la de temporal, atendiendo a los aspectos ecológicos, de crédito, mecanización agrícola, perfeccionamiento de sus técnicas de producción e industrialización, fertilizantes, sanidad vegetal, seguridad agrícola, comercialización agrícola, formas de organización, servicios asistenciales, y otros, a fin de elevar la productividad, ingresos y nivel de vida de los campesinos y otros trabajadores del campo.

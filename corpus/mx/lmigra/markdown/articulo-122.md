@@ -19,7 +19,9 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 En el procedimiento de deportación, los extranjeros tendrán derecho a:
 
-I. Ser notificados del inicio del procedimiento administrativo migratorio; II. Recibir protección de su representación consular y comunicarse con ésta, excepto en el caso de que hayan solicitado el asilo político o el reconocimiento de la condición de refugiado. En caso de que el extranjero desee recibir la protección de su representación consular, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+I. Ser notificados del inicio del procedimiento administrativo migratorio;
+
+II. Recibir protección de su representación consular y comunicarse con ésta, excepto en el caso de que hayan solicitado el asilo político o el reconocimiento de la condición de refugiado. En caso de que el extranjero desee recibir la protección de su representación consular, se le facilitarán los medios para comunicarse con ésta lo antes posible;
 
 III. Avisar a sus familiares o persona de confianza, ya sea en territorio nacional o fuera de éste, para tal efecto se le facilitarán los medios para comunicarse con ésta lo antes posible;
 

@@ -17,7 +17,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 # Artículo 1156
 
-La solicitud de restitución deberá estar acompañada de: I. Copia documento que acredite la custodia de la niña, niño o adolescente solicitado;
+La solicitud de restitución deberá estar acompañada de:
+
+I. Copia documento que acredite la custodia de la niña, niño o adolescente solicitado;
 
 II. Constancia de la residencia habitual de la niña, niño o adolescente solicitado;
 

@@ -31,7 +31,9 @@ III. Información respecto al tratamiento que se ha aplicado al paciente y el se
 
 IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento.
 
-V. Toda aquella información adicional que determine la Secretaría. VI. El Registro contará adicionalmente, con un rubro específico para la información a que se refiere el Capítulo II del Título Tercero de la Ley General para la Detención Oportuna del Cáncer en la Infancia y la Adolescencia. Fracción adicionada DOF 07-01-2021
+V. Toda aquella información adicional que determine la Secretaría.
+
+VI. El Registro contará adicionalmente, con un rubro específico para la información a que se refiere el Capítulo II del Título Tercero de la Ley General para la Detención Oportuna del Cáncer en la Infancia y la Adolescencia. Fracción adicionada DOF 07-01-2021
 
 La Secretaría integrará la información demográfica del Registro Nacional de Cáncer de todo el territorio nacional dividido en regiones norte, centro y sur.
 

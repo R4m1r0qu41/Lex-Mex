@@ -7,8 +7,8 @@ provision_type: article
 number: "78"
 aliases: ["REG-LGDS — Artículo 78"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf
 source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 ---

@@ -41,7 +41,9 @@ X. Transportar residuos peligrosos por vía aérea;
 
 XI. Disponer de residuos peligrosos en estado líquido o semisólido sin que hayan sido previamente estabilizados y neutralizados;
 
-XII. Transportar por el territorio nacional hacia otro país, residuos peligrosos cuya elaboración, uso o consumo se encuentren prohibidos; XIII. No llevar a cabo por sí o a través de un prestador de servicios autorizado, la gestión integral de los residuos que hubiere generado;
+XII. Transportar por el territorio nacional hacia otro país, residuos peligrosos cuya elaboración, uso o consumo se encuentren prohibidos;
+
+XIII. No llevar a cabo por sí o a través de un prestador de servicios autorizado, la gestión integral de los residuos que hubiere generado;
 
 XIV. No registrarse como generador de residuos peligrosos cuando tenga la obligación de hacerlo en los términos de esta Ley;
 

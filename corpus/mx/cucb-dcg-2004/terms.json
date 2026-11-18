@@ -194,7 +194,29 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XIX",
     "start_char": 4707,
-    "end_char": 5741,
+    "end_char": 5155,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:criterios-contables",
+    "term": "Criterios contables",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XX",
+    "start_char": 5155,
+    "end_char": 5371,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:deber-de-mejor-ejecucion",
+    "term": "Deber de mejor ejecución",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXI",
+    "start_char": 5371,
+    "end_char": 5729,
     "basis": "express_definition"
   },
   {
@@ -204,8 +226,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXII",
-    "start_char": 5741,
-    "end_char": 6213,
+    "start_char": 5729,
+    "end_char": 5924,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:distribucion-de-valores",
+    "term": "Distribución de valores",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXIII",
+    "start_char": 5924,
+    "end_char": 6195,
     "basis": "express_definition"
   },
   {
@@ -215,8 +248,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXIV",
-    "start_char": 6213,
-    "end_char": 7247,
+    "start_char": 6195,
+    "end_char": 6404,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:estabilizacion",
+    "term": "Estabilización",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXV",
+    "start_char": 6404,
+    "end_char": 7223,
     "basis": "express_definition"
   },
   {
@@ -226,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXVI",
-    "start_char": 7247,
-    "end_char": 7732,
+    "start_char": 7223,
+    "end_char": 7708,
     "basis": "express_definition"
   },
   {
@@ -237,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXVII",
-    "start_char": 7732,
-    "end_char": 7858,
+    "start_char": 7708,
+    "end_char": 7834,
     "basis": "express_definition"
   },
   {
@@ -248,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXVIII",
-    "start_char": 7858,
-    "end_char": 8245,
+    "start_char": 7834,
+    "end_char": 8221,
     "basis": "express_definition"
   },
   {
@@ -259,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXIX",
-    "start_char": 8245,
-    "end_char": 8341,
+    "start_char": 8221,
+    "end_char": 8317,
     "basis": "express_definition"
   },
   {
@@ -270,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXX",
-    "start_char": 8341,
-    "end_char": 8551,
+    "start_char": 8317,
+    "end_char": 8527,
     "basis": "express_definition"
   },
   {
@@ -281,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXXI",
-    "start_char": 8551,
-    "end_char": 8844,
+    "start_char": 8527,
+    "end_char": 8820,
     "basis": "express_definition"
   },
   {
@@ -292,8 +336,184 @@
     "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
     "fraction": "XXXII",
-    "start_char": 8844,
-    "end_char": 15234,
+    "start_char": 8820,
+    "end_char": 9026,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:intermediario-colocador",
+    "term": "Intermediario colocador",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXIII",
+    "start_char": 9026,
+    "end_char": 10184,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:inversionista-institucional",
+    "term": "Inversionista institucional",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXV",
+    "start_char": 10184,
+    "end_char": 10283,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXVI",
+    "start_char": 10283,
+    "end_char": 10329,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:lider-colocador",
+    "term": "Líder colocador",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXVII",
+    "start_char": 10329,
+    "end_char": 10666,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:organismo-autorregulatorio",
+    "term": "Organismo autorregulatorio",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXVIII",
+    "start_char": 10666,
+    "end_char": 10758,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:plan-de-accion-preventivo",
+    "term": "Plan de acción preventivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XXXIX",
+    "start_char": 10758,
+    "end_char": 11151,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:plan-de-continuidad-de-negocio",
+    "term": "Plan de continuidad de negocio",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XL",
+    "start_char": 11151,
+    "end_char": 11575,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLI",
+    "start_char": 11575,
+    "end_char": 11624,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:remuneracion-extraordinaria",
+    "term": "Remuneración extraordinaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLII",
+    "start_char": 11624,
+    "end_char": 12171,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:remuneracion-ordinaria",
+    "term": "Remuneración ordinaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLIII",
+    "start_char": 12171,
+    "end_char": 12694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLIV",
+    "start_char": 12694,
+    "end_char": 12760,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sistema-de-control-interno",
+    "term": "Sistema de control interno",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLV",
+    "start_char": 12760,
+    "end_char": 13811,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sistema-de-recepcion-y-asignacion",
+    "term": "Sistema de recepción y asignación",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLVI",
+    "start_char": 13811,
+    "end_char": 13969,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sistema-de-remuneracion",
+    "term": "Sistema de remuneración",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLVII",
+    "start_char": 13969,
+    "end_char": 14603,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:sobreasignacion",
+    "term": "Sobreasignación",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLVIII",
+    "start_char": 14603,
+    "end_char": 14861,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:valores",
+    "term": "Valores",
+    "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "fraction": "XLIX",
+    "start_char": 14861,
+    "end_char": 15108,
     "basis": "express_definition"
   }
 ]

@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Dirección General de Estudios y Proyectos tiene las atribuciones siguientes:
 
-I. Elaborar y proponer los estudios conducentes para la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, materiales, financieros, servicios generales, de obra pública y servicios relacionados con ésta última que determine el [Coordinador de Administración y Finanzas](articulo-2.md) y evaluar sus resultados; II. Instrumentar mecanismos de planeación para el adecuado funcionamiento y desarrollo de la [Institución](articulo-2.md);
+I. Elaborar y proponer los estudios conducentes para la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, materiales, financieros, servicios generales, de obra pública y servicios relacionados con ésta última que determine el [Coordinador de Administración y Finanzas](articulo-2.md) y evaluar sus resultados;
+
+II. Instrumentar mecanismos de planeación para el adecuado funcionamiento y desarrollo de la [Institución](articulo-2.md);
 
 III. Participar en el diseño de mecanismos integrales de supervisión de las estrategias, programas y acciones en el ámbito de competencia de la Institución;
 
@@ -47,6 +49,8 @@ XIV. Elaborar los estudios relativos a la asignación de sueldos y salarios para
 
 XV. Ejecutar la aplicación de los estímulos y recompensas que determinen las disposiciones jurídicas aplicables;
 
-XVI. Participar en la integración de los requerimientos de adquisiciones, arrendamientos y servicios de la Institución a fin de que se contemple en el programa anual correspondiente de la Secretaría; XVII. Asesorar a las Coordinaciones en el trámite de los asuntos que les corresponda atender en las materias a que se refiere este artículo, y
+XVI. Participar en la integración de los requerimientos de adquisiciones, arrendamientos y servicios de la Institución a fin de que se contemple en el programa anual correspondiente de la Secretaría;
+
+XVII. Asesorar a las Coordinaciones en el trámite de los asuntos que les corresponda atender en las materias a que se refiere este artículo, y
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.

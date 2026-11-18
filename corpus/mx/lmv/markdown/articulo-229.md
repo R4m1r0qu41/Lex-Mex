@@ -17,7 +17,9 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 # Artículo 229
 
-Los organismos autorregulatorios, en función del tipo y de las actividades que les son propias, podrán emitir normas relativas a: I. Los requisitos de ingreso, exclusión y separación de los miembros.
+Los organismos autorregulatorios, en función del tipo y de las actividades que les son propias, podrán emitir normas relativas a:
+
+I. Los requisitos de ingreso, exclusión y separación de los miembros.
 
 II. Las políticas y lineamientos que deben seguir en la contratación con la clientela a la cual presten sus servicios los miembros.
 

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo IV
@@ -25,9 +25,7 @@ II. Los Poderes de la Unión postularán el número de candidaturas que correspo
 
 a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
-
-Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos. Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
 Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y Inciso reformado DOF 02-06-2026
 
@@ -45,7 +43,9 @@ Para el caso de Ministras y Ministros de la Suprema Corte de Justicia de la Naci
 
 Para el caso de Magistradas y Magistrados de Circuito, así como Juezas y Jueces de Distrito, la elección se realizará por circuito y distrito judicial conforme a las siguientes bases y a lo que disponga la ley:
 
-I. El Instituto Nacional Electoral dividirá cada circuito judicial en los distritos judiciales necesarios para que, en ese ámbito territorial, la ciudadanía pueda elegir una candidatura por cada especialidad que corresponda a su circuito judicial de entre las propuestas que formule cada Poder y, en su caso, de las personas juzgadoras en funciones en el cargo a elegir; II. El Instituto Nacional Electoral generará una lista de candidaturas por especialidad en cada circuito judicial donde distinguirá el Poder postulante y el género. Posteriormente, en acto público, asignará aleatoriamente las candidaturas que correspondan a cada distrito judicial, garantizando que los Poderes postulen en cada distrito a dos personas del mismo género por especialidad;
+I. El Instituto Nacional Electoral dividirá cada circuito judicial en los distritos judiciales necesarios para que, en ese ámbito territorial, la ciudadanía pueda elegir una candidatura por cada especialidad que corresponda a su circuito judicial de entre las propuestas que formule cada Poder y, en su caso, de las personas juzgadoras en funciones en el cargo a elegir;
+
+II. El Instituto Nacional Electoral generará una lista de candidaturas por especialidad en cada circuito judicial donde distinguirá el Poder postulante y el género. Posteriormente, en acto público, asignará aleatoriamente las candidaturas que correspondan a cada distrito judicial, garantizando que los Poderes postulen en cada distrito a dos personas del mismo género por especialidad;
 
 III. Cuando el número de cargos por especialidad sea inferior al número de distritos judiciales en los que se divida un circuito, el Instituto Nacional Electoral asignará los cargos restantes con sus respectivas candidaturas en dos o más distritos de manera aleatoria, a efecto de garantizar que las personas electoras de cada distrito voten por todas las especialidades de su circuito, y
 

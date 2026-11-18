@@ -7,8 +7,8 @@ provision_type: article
 number: "148"
 aliases: ["LGDNNA — Artículo 148"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -23,7 +23,9 @@ I. Respecto de servidores públicos federales, personal de instituciones de salu
 
 II. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, ejerzan, permitan, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes; Fracción reformada DOF 26-03-2024
 
-III. Respecto de los concesionarios de radio, televisión, la difusión o transmisión de imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención al artículo [68](articulo-68.md) de esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos; IV. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere el artículo [77](articulo-77.md) de esta Ley;
+III. Respecto de los concesionarios de radio, televisión, la difusión o transmisión de imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención al artículo [68](articulo-68.md) de esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos;
+
+IV. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere el artículo [77](articulo-77.md) de esta Ley;
 
 V. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la realización de entrevistas o su difusión, sin la autorización a que se refiere el artículo [78](articulo-78.md) de esta Ley;
 

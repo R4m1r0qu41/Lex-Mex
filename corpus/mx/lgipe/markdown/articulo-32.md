@@ -47,7 +47,9 @@ V. Los escrutinios y cómputos en los términos que señale esta Ley;
 
 VI. El cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales;
 
-VII. La declaración de validez y el otorgamiento de constancias en las elecciones de diputados y senadores; VIII. La educación cívica en procesos electorales federales;
+VII. La declaración de validez y el otorgamiento de constancias en las elecciones de diputados y senadores;
+
+VIII. La educación cívica en procesos electorales federales;
 
 IX. Garantizar el cumplimiento del principio de paridad de género, así como el respeto de los derechos políticos y electorales de las mujeres, y
 

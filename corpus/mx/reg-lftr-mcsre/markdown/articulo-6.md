@@ -35,6 +35,8 @@ IV. Los servicios que prestará la persona titular de la Concesión o Autorizaci
 
 V. El período de vigencia que tendrá la Concesión o Autorización;
 
-VI. Las especificaciones técnicas del proyecto, y VII. Los programas y compromisos de inversión, calidad, de cobertura geográfica, poblacional o social, de conectividad en sitios públicos y de contribución a la cobertura universal que, en su caso, determine el Instituto.
+VI. Las especificaciones técnicas del proyecto, y
+
+VII. Los programas y compromisos de inversión, calidad, de cobertura geográfica, poblacional o social, de conectividad en sitios públicos y de contribución a la cobertura universal que, en su caso, determine el Instituto.
 
 Cuando el Instituto otorgue Concesiones bajo un esquema de asociación público-privada, en apego a lo dispuesto en la legislación aplicable, la CSRE debe ser determinada por la Secretaría, de conformidad a los fines del proyecto.

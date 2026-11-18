@@ -17,7 +17,9 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 92
 
-La solicitud de autorización de un OGM deberá acompañarse de los siguientes requisitos: I. El estudio de los posibles riesgos que el uso o consumo humano del OGM de que se trate pudiera representar a la salud humana, en el que se incluirá la información científica y técnica relativa a su inocuidad, y
+La solicitud de autorización de un OGM deberá acompañarse de los siguientes requisitos:
+
+I. El estudio de los posibles riesgos que el uso o consumo humano del OGM de que se trate pudiera representar a la salud humana, en el que se incluirá la información científica y técnica relativa a su inocuidad, y
 
 II. Los demás requisitos que se determinen en las normas oficiales mexicanas que deriven de esta Ley.
 

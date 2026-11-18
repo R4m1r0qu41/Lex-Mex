@@ -17,6 +17,6 @@ source_sha256: b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9
 
 # Artículo 7
 
-El [INFONAVIT](articulo-2.md) deberá llevar a cabo las acciones necesarias para que su Unidad de Enlace reciba y atienda las solicitudes de acceso a la información y a datos personales y de su corrección, mediante los [Sistemas de Solicitudes de Información](articulo-2.md).
+El [INFONAVIT](articulo-2.md) deberá llevar a cabo las acciones necesarias para que su [Unidad de Enlace](articulo-2.md) reciba y atienda las solicitudes de acceso a la información y a datos personales y de su corrección, mediante los [Sistemas de Solicitudes de Información](articulo-2.md).
 
 Los particulares podrán optar por utilizar el Sistema de Solicitudes de Información del [IFAI](articulo-2.md) que se encuentra en el sitio de Internet de este último, o bien, en el Sistema de Solicitudes de Información que adopte el INFONAVIT.

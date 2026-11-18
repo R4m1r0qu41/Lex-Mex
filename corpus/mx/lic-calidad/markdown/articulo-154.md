@@ -17,7 +17,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 154
 
-Sin perjuicio de las sanciones establecidas en otros ordenamientos legales, las sanciones aplicables por los incumplimientos a esta Ley y a las disposiciones que emanen de ella serán las siguientes: I. Apercibimiento;
+Sin perjuicio de las sanciones establecidas en otros ordenamientos legales, las sanciones aplicables por los incumplimientos a esta Ley y a las disposiciones que emanen de ella serán las siguientes:
+
+I. Apercibimiento;
 
 II. Multa;
 

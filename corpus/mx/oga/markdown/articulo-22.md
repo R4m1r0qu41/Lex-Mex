@@ -36,7 +36,9 @@ II.- Oficiales
 
 2o. Farmacéutico Segundo Teniente.
 
-1er. Farmacéutico Primer Teniente. III.- Jefes
+1er. Farmacéutico Primer Teniente.
+
+III.- Jefes
 
 Mayor Médico Cirujano Teniente Mayor.
 

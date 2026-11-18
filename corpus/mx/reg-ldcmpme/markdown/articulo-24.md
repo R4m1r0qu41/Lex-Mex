@@ -7,8 +7,8 @@ provision_type: article
 number: "24"
 aliases: ["REG-LDCMPME — Artículo 24"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -27,7 +27,9 @@ III. Evaluar el desempeño y verificar el desarrollo de las actividades de los G
 
 IV. Recibir, evaluar y en su caso, someter a la consideración del Consejo las propuestas del Sector Público y los Sectores para el desarrollo de la competitividad de las MIPYMES;
 
-V. Instrumentar los mecanismos de participación transparente y oportuna al Sector Público y los Sectores; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA VI. Someter a la consideración del Consejo los informes ejecutivos que rindan los Consejos Estatales sobre los resultados obtenidos en el desarrollo de sus actividades;
+V. Instrumentar los mecanismos de participación transparente y oportuna al Sector Público y los Sectores;
+
+VI. Someter a la consideración del Consejo los informes ejecutivos que rindan los Consejos Estatales sobre los resultados obtenidos en el desarrollo de sus actividades;
 
 VII. Establecer mecanismos de coordinación con los secretarios técnicos de los Consejos Estatales para el desempeño de sus funciones;
 

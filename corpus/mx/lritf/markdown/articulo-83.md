@@ -17,7 +17,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 83
 
-En la solicitud de autorización temporal, las sociedades que pretendan operar con [Modelos Novedosos](articulo-4.md) deberán incluir lo siguiente: I. El proyecto de estatutos sociales, el cual deberá contemplar lo siguiente:
+En la solicitud de autorización temporal, las sociedades que pretendan operar con [Modelos Novedosos](articulo-4.md) deberán incluir lo siguiente:
+
+I. El proyecto de estatutos sociales, el cual deberá contemplar lo siguiente:
 
 a) La realización de forma habitual o profesional, en su objeto social, de las actividades que pretenda llevar a cabo, y
 

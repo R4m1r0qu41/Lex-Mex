@@ -33,6 +33,8 @@ V. La confesión de la deuda hecha ante la autoridad jurisdiccional competente p
 
 VI. Los convenios celebrados en el curso de un juicio ante la autoridad jurisdiccional, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadoras, depositarias, o en cualquier otra forma;
 
-VII. El estado de liquidación de adeudos por cuotas ordinarias o extraordinarias, intereses moratorios o penas convencionales que se hayan aprobado en la Asamblea General de Condóminos; suscrito por quien tenga a su cargo la Administración o el Comité de Vigilancia o su equivalente, conforme a lo dispuesto en la ley de la materia de cada Entidad Federativa; VIII. Los convenios emanados del procedimiento de mediación o conciliación que cumplan con los requisitos previstos en la Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva, y
+VII. El estado de liquidación de adeudos por cuotas ordinarias o extraordinarias, intereses moratorios o penas convencionales que se hayan aprobado en la Asamblea General de Condóminos; suscrito por quien tenga a su cargo la Administración o el Comité de Vigilancia o su equivalente, conforme a lo dispuesto en la ley de la materia de cada Entidad Federativa;
+
+VIII. Los convenios emanados del procedimiento de mediación o conciliación que cumplan con los requisitos previstos en la Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva, y
 
 IX. Los demás a los que se les reconozca ese carácter por la Ley.

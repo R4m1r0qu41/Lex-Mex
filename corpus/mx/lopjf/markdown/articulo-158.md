@@ -7,8 +7,8 @@ provision_type: article
 number: "158"
 aliases: ["LOPJF — Artículo 158"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf
 source_sha256: 6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1
 ---

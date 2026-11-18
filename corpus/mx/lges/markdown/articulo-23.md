@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LGES — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -25,7 +25,9 @@ II. Ampliar la distribución territorial y la oferta de educación superior, a f
 
 III. Fortalecer las capacidades educativas locales y la coordinación con la Federación;
 
-IV. Sentar las bases, desde el ámbito local, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en esta Ley; V. Consolidar los procesos de evaluación y acreditación de programas e instituciones de educación superior;
+IV. Sentar las bases, desde el ámbito local, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en esta Ley;
+
+V. Consolidar los procesos de evaluación y acreditación de programas e instituciones de educación superior;
 
 VI. Fortalecer y articular la concurrencia financiera y la distribución de recursos públicos en el ámbito territorial correspondiente;
 

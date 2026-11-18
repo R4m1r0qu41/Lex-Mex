@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
     "fraction": "III",
     "start_char": 927,
-    "end_char": 1412,
+    "end_char": 1413,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
     "fraction": "IV",
-    "start_char": 1412,
-    "end_char": 1632,
+    "start_char": 1413,
+    "end_char": 1633,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
     "fraction": "V",
-    "start_char": 1632,
-    "end_char": 1802,
+    "start_char": 1633,
+    "end_char": 1803,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
     "fraction": "VI",
-    "start_char": 1802,
-    "end_char": 2109,
+    "start_char": 1803,
+    "end_char": 2110,
     "basis": "express_definition"
   }
 ]

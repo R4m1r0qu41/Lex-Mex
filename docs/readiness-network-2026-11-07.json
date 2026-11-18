@@ -1,0 +1,122 @@
+[
+  {
+    "round": 0,
+    "url": "https://www.leg4ll4bs.com/",
+    "status": 200,
+    "bytes": 47052,
+    "elapsed_ms": 525,
+    "cf_ray": "a56ea149de00163f-LAX"
+  },
+  {
+    "round": 0,
+    "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+    "status": 200,
+    "bytes": 440,
+    "elapsed_ms": 370,
+    "cf_ray": "a56ea14d1c4152cc-LAX"
+  },
+  {
+    "round": 0,
+    "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+    "status": 200,
+    "bytes": 1902,
+    "elapsed_ms": 356,
+    "cf_ray": "a56ea14f5cbe6ca9-LAX"
+  },
+  {
+    "round": 0,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/search?q=cuentas",
+    "status": 200,
+    "bytes": 3061,
+    "elapsed_ms": 1352,
+    "cf_ray": "a56ea1519b8ccb9a-LAX"
+  },
+  {
+    "round": 0,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+    "status": 200,
+    "bytes": 4419,
+    "elapsed_ms": 1524,
+    "cf_ray": "a56ea15a3bdb7c4f-LAX"
+  },
+  {
+    "round": 1,
+    "url": "https://www.leg4ll4bs.com/",
+    "status": 200,
+    "bytes": 47052,
+    "elapsed_ms": 586,
+    "cf_ray": "a56ea163f885d7a8-LAX"
+  },
+  {
+    "round": 1,
+    "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+    "status": 200,
+    "bytes": 440,
+    "elapsed_ms": 1238,
+    "cf_ray": "a56ea1674c37c3a8-LAX"
+  },
+  {
+    "round": 1,
+    "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+    "status": 200,
+    "bytes": 1902,
+    "elapsed_ms": 881,
+    "cf_ray": "a56ea16f08b92b7e-LAX"
+  },
+  {
+    "round": 1,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/search?q=cuentas",
+    "status": 200,
+    "bytes": 3061,
+    "elapsed_ms": 377,
+    "cf_ray": "a56ea1747b4f1f54-LAX"
+  },
+  {
+    "round": 1,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+    "status": 200,
+    "bytes": 4419,
+    "elapsed_ms": 405,
+    "cf_ray": "a56ea1773d79cd33-LAX"
+  },
+  {
+    "round": 2,
+    "url": "https://www.leg4ll4bs.com/",
+    "status": 200,
+    "bytes": 47052,
+    "elapsed_ms": 582,
+    "cf_ray": "a56ea1796902db62-LAX"
+  },
+  {
+    "round": 2,
+    "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+    "status": 200,
+    "bytes": 440,
+    "elapsed_ms": 375,
+    "cf_ray": "a56ea17cfa29cba2-LAX"
+  },
+  {
+    "round": 2,
+    "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+    "status": 200,
+    "bytes": 1902,
+    "elapsed_ms": 357,
+    "cf_ray": "a56ea17f5ab2d254-LAX"
+  },
+  {
+    "round": 2,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/search?q=cuentas",
+    "status": 200,
+    "bytes": 3061,
+    "elapsed_ms": 361,
+    "cf_ray": "a56ea1819c6f979e-LAX"
+  },
+  {
+    "round": 2,
+    "url": "https://www.leg4ll4bs.com/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+    "status": 200,
+    "bytes": 4419,
+    "elapsed_ms": 355,
+    "cf_ray": "a56ea183c851a102-LAX"
+  }
+]

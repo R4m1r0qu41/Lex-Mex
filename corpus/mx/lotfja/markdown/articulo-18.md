@@ -25,7 +25,9 @@ II. Dictar sentencia definitiva en los juicios que traten las materias señalada
 
 III. Resolver los juicios con características especiales, en términos de las disposiciones aplicables, con excepción de los que sean competencia exclusiva de la Tercera Sección;
 
-IV. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción; V. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones y determinar las medidas que sean procedentes para la efectiva ejecución de las sentencias que emitan;
+IV. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción;
+
+V. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones y determinar las medidas que sean procedentes para la efectiva ejecución de las sentencias que emitan;
 
 VI. Ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente a la Sala de origen, en que se advierta una violación substancial al procedimiento, o en que así lo amerite;
 

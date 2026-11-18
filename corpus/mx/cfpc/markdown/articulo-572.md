@@ -21,7 +21,9 @@ El exhorto del Juez o tribunal requirente deberá acompañarse de la siguiente d
 
 I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
 
-II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del [artículo anterior](articulo-571.md); III.- Las traducciones al idioma español que sean necesarias al efecto; y
+II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del [artículo anterior](articulo-571.md);
+
+III.- Las traducciones al idioma español que sean necesarias al efecto; y
 
 IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar del tribunal de la homologación.
 

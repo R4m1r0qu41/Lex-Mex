@@ -19,7 +19,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 Las definiciones del artículo 12 de la Ley serán aplicables a este Reglamento. Adicionalmente, para los efectos del mismo, se entenderá por:
 
-I. Agente: Persona que presta sus servicios para auxiliar a la dependencia o entidad dentro del procedimiento de concurso, en términos del tercer párrafo del artículo [38](../../lapp/markdown/articulo-38.md) de la Ley; II. Cartera: La cartera de programas y proyectos de inversión que integra la [Secretaría](articulo-11.md) en términos del artículo [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y 46 de su Reglamento;
+I. Agente: Persona que presta sus servicios para auxiliar a la dependencia o entidad dentro del procedimiento de concurso, en términos del tercer párrafo del artículo [38](../../lapp/markdown/articulo-38.md) de la Ley;
+
+II. Cartera: La cartera de programas y proyectos de inversión que integra la [Secretaría](articulo-11.md) en términos del artículo [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y 46 de su Reglamento;
 
 III. Comisión: Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
 

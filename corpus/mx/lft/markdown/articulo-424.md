@@ -17,7 +17,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 424
 
-En la formación del reglamento se observarán las normas siguientes: I. Se formulará por una comisión mixta de representantes de los trabajadores y del patrón;
+En la formación del reglamento se observarán las normas siguientes:
+
+I. Se formulará por una comisión mixta de representantes de los trabajadores y del patrón;
 
 II. Si las partes se ponen de acuerdo, cualquiera de ellas, dentro de los ocho días siguientes a su firma, lo depositará ante el Centro Federal de Conciliación y Registro Laboral; Fracción reformada DOF 01-05-2019
 

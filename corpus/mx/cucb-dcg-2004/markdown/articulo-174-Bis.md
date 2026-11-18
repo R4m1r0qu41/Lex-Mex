@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 174 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [100]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 174 Bis
 
-Las casas de bolsa reconocerán los Precios Actualizados para Valuación de manera diaria en su contabilidad para la determinación del valor razonable de los Valores y demás instrumentos financieros que conformen su estado de situación financiera, considerando el Precio Actualizado para Valuación que calculen diariamente los Proveedores de Precios o el calculado a través de Modelos de Valuación Internos cuando resulte aplicable en los términos de las presentes disposiciones.
-
-(101)
+Las casas de bolsa reconocerán los Precios Actualizados para Valuación de manera diaria en su contabilidad para la determinación del valor razonable de los [Valores](articulo-1.md) y demás instrumentos financieros que conformen su estado de situación financiera, considerando el Precio Actualizado para Valuación que calculen diariamente los Proveedores de Precios o el calculado a través de Modelos de Valuación Internos cuando resulte aplicable en los términos de las presentes disposiciones.

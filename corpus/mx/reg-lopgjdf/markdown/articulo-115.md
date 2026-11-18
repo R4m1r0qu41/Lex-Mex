@@ -7,8 +7,8 @@ provision_type: article
 number: "115"
 aliases: ["REG-LOPGJDF — Artículo 115"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -21,4 +21,6 @@ Para participar en el concurso de promoción en el Servicio Profesional de Carre
 
 I. Para ser promovido al cargo de Jefe de Grupo, cuatro años como agente en la Policía de Investigación del Distrito Federal;
 
-II. Para ser promovido al cargo de Comandante, cinco años en la corporación, de los cuales dos deberán ser en el cargo de Jefe de Grupo, y III. Para ser promovido al cargo de Comandante en Jefe, seis años en la corporación de los cuales dos deberán ser como Comandante.
+II. Para ser promovido al cargo de Comandante, cinco años en la corporación, de los cuales dos deberán ser en el cargo de Jefe de Grupo, y
+
+III. Para ser promovido al cargo de Comandante en Jefe, seis años en la corporación de los cuales dos deberán ser como Comandante.

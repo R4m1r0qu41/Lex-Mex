@@ -21,7 +21,9 @@ La Secretaría colaborará con las dependencias y entidades de la Administració
 
 I. El impulso, fomento y desarrollo del [Turismo](articulo-2.md);
 
-II. El cumplimiento de los instrumentos de política ambiental y Ordenamiento Turístico del Territorio, así como las acciones de planeación, programación, fomento y desarrollo del Turismo; III. La identificación, con base en las evaluaciones periódicas realizadas por la autoridad competente, de las necesidades que permitan fortalecer la comunicación con los diferentes [Destinos Turísticos](articulo-2.md) en:
+II. El cumplimiento de los instrumentos de política ambiental y Ordenamiento Turístico del Territorio, así como las acciones de planeación, programación, fomento y desarrollo del Turismo;
+
+III. La identificación, con base en las evaluaciones periódicas realizadas por la autoridad competente, de las necesidades que permitan fortalecer la comunicación con los diferentes [Destinos Turísticos](articulo-2.md) en:
 
 a) Rutas terrestres, aéreas o marítimas;
 
@@ -59,7 +61,9 @@ V. La formulación de las bases de coordinación entre los tres órdenes de gobi
 
 VI. La promoción de eventos turísticos que se celebren en territorio nacional e internacional, a fin de que los Prestadores de Servicios Turísticos comercialicen sus productos ante los mercados participantes;
 
-VII. La operación y seguimiento del Registro Nacional de Turismo; VIII. La promoción de la competitividad de la Actividad Turística;
+VII. La operación y seguimiento del Registro Nacional de Turismo;
+
+VIII. La promoción de la competitividad de la Actividad Turística;
 
 IX. La atención y protección a los Turistas, en su calidad de consumidores, ante los Prestadores de Servicios Turísticos, de conformidad con las disposiciones de la Ley Federal de Protección al Consumidor;
 

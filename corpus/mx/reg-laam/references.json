@@ -145,19 +145,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:reference:1523-1525:50:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:reference:1524-1526:50:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
     "source_span": "50",
-    "start_char": 1523,
-    "end_char": 1525,
+    "start_char": 1524,
+    "end_char": 1526,
     "target_instrument_id": "urn:lex-mx:federal:statute:ldparm",
     "target_provision_id": "urn:lex-mx:federal:statute:ldparm:article:50",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones IV, V y VI",
-        "start_char": 1488,
-        "end_char": 1509
+        "start_char": 1489,
+        "end_char": 1510
       }
     ],
     "basis": "express_cross_reference",

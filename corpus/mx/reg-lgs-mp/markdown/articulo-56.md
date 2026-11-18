@@ -21,4 +21,6 @@ La publicidad de los productos a que se refiere este Capítulo que vaya dirigida
 
 I. Ser clara, concisa y fácilmente comprensible para el sector del público al que va dirigida;
 
-II. Coadyuvar, mediante el empleo de leyendas, a la educación higiénica, y III. Expresar en el mensaje precautorio, en su caso, si el uso o consumo del producto representa un riesgo para la salud.
+II. Coadyuvar, mediante el empleo de leyendas, a la educación higiénica, y
+
+III. Expresar en el mensaje precautorio, en su caso, si el uso o consumo del producto representa un riesgo para la salud.

@@ -21,7 +21,9 @@ Resolución que ordena el cateo La resolución judicial que ordena el cateo debe
 
 I. El nombre y cargo del [Juez de control](articulo-3o.md) que lo autoriza y la identificación del proceso en el cual se ordena;
 
-II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en éstos; III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda la posibilidad de encontrar en el lugar la persona o personas que hayan de aprehenderse o los objetos que se buscan;
+II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en éstos;
+
+III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda la posibilidad de encontrar en el lugar la persona o personas que hayan de aprehenderse o los objetos que se buscan;
 
 IV. El día y la hora en que deba practicarse el cateo o la determinación que de no ejecutarse dentro de los tres días siguientes a su autorización, quedará sin efecto cuando no se precise fecha exacta de realización, y
 

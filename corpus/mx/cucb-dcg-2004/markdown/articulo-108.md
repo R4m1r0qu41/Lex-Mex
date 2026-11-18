@@ -20,4 +20,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 El o los comisarios de la casa de bolsa, en la realización de sus actividades, deberán evaluar el funcionamiento y observancia del sistema de control interno, con base en los informes que conforme a las presentes disposiciones elaboren el comité de auditoría, el responsable del área de auditoría interna y de las funciones de contraloría interna de la casa de bolsa, así como la suficiencia y razonabilidad de dicho sistema, lo anterior sin perjuicio de examinar adicionalmente, acorde a sus facultades, las operaciones de la casa de bolsa, su documentación y registro, así como cualquier evidencia comprobatoria que requieran al efecto.
 
-En caso de que los comisarios accedan a información protegida por el secreto bursátil a que se refiere la Ley, deberán guardar la debida confidencialidad.
+En caso de que los comisarios accedan a información protegida por el secreto bursátil a que se refiere la [Ley](articulo-1.md), deberán guardar la debida confidencialidad.

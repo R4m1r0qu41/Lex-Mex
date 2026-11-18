@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LFIV — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 ---
@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 11
 
-Corresponde la Presidencia de la Comisión a la Secretaría de Economía y la Secretaria Ejecutiva a la [Secretaría](articulo-3.md), y sus representantes fungirán como coordinadores de los trabajos y el funcionamiento en general de la Comisión.
+Corresponde la Presidencia de la [Comisión](articulo-3.md) a la Secretaría de Economía y la Secretaria Ejecutiva a la [Secretaría](articulo-3.md), y sus representantes fungirán como coordinadores de los trabajos y el funcionamiento en general de la Comisión.

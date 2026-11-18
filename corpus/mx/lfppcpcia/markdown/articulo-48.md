@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["LFPPCPCIA — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf
 source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 ---
@@ -25,7 +25,9 @@ II. Tomar decisiones, cuando corresponda, sobre el reconocimiento de la propieda
 
 III. Definir estrategias y mecanismos jurídicos para la defensa de los derechos de propiedad colectiva de los pueblos y comunidades respecto de los elementos de su patrimonio cultural;
 
-IV. Atender las solicitudes de los pueblos y comunidades respecto de las acciones que garanticen el registro, documentación, investigación, difusión y, en su caso, continuidad de los elementos del patrimonio cultural de los pueblos y comunidades; V. Establecer acciones y programas de carácter transversal y permanentes para la salvaguardia de los elementos del patrimonio cultural de los pueblos y comunidades;
+IV. Atender las solicitudes de los pueblos y comunidades respecto de las acciones que garanticen el registro, documentación, investigación, difusión y, en su caso, continuidad de los elementos del patrimonio cultural de los pueblos y comunidades;
+
+V. Establecer acciones y programas de carácter transversal y permanentes para la salvaguardia de los elementos del patrimonio cultural de los pueblos y comunidades;
 
 VI. Identificar, registrar, catalogar y documentar los elementos del patrimonio cultural de los pueblos y comunidades;
 

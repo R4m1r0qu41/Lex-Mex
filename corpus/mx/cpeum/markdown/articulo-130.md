@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Séptimo
@@ -35,9 +35,7 @@ Queda estrictamente prohibida la formación de toda clase de agrupaciones polít
 
 La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
 
-Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
-
-Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado. Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
 Las autoridades federales, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán en esta materia las facultades y responsabilidades que determine la ley. Párrafo reformado DOF 29-01-2016
 

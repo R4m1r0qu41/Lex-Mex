@@ -10,6 +10,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:1:term-usage:105-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 105,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:1:term-usage:295-302",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
@@ -28,12 +37,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:2:term-usage:84-87",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 84,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:2:term-usage:119-129",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
     "span": "Reglamento",
     "start_char": 119,
     "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:2:term-usage:792-795",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 792,
+    "end_char": 795
   },
   {
     "schema_version": "0.1.0",
@@ -55,21 +82,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:3:term-usage:474-483",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:3:term-usage:135-138",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:instituto",
-    "span": "Instituto",
-    "start_char": 474,
-    "end_char": 483
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 135,
+    "end_char": 138
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:3:term-usage:620-630",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:3:term-usage:475-484",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:instituto",
+    "span": "Instituto",
+    "start_char": 475,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:3:term-usage:621-631",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 620,
-    "end_char": 630
+    "start_char": 621,
+    "end_char": 631
   },
   {
     "schema_version": "0.1.0",
@@ -160,6 +196,24 @@
     "span": "Consejo",
     "start_char": 3,
     "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:9:term-usage:483-486",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 483,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:9:term-usage:528-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 528,
+    "end_char": 531
   },
   {
     "schema_version": "0.1.0",
@@ -271,6 +325,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:15:term-usage:311-314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 311,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:15:term-usage:328-338",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
@@ -295,6 +358,15 @@
     "span": "Consejo",
     "start_char": 187,
     "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:22:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
   },
   {
     "schema_version": "0.1.0",
@@ -469,6 +541,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:35:term-usage:944-947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 944,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:35:term-usage:961-971",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:35",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
@@ -541,6 +622,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:36:term-usage:522-525",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 522,
+    "end_char": 525
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:36:term-usage:532-542",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
@@ -568,39 +658,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:651-658",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:652-659",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 651,
-    "end_char": 658
+    "start_char": 652,
+    "end_char": 659
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1191-1201",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1182-1185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 1182,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1192-1202",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1191,
-    "end_char": 1201
+    "start_char": 1192,
+    "end_char": 1202
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1292-1299",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1293-1300",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 1292,
-    "end_char": 1299
+    "start_char": 1293,
+    "end_char": 1300
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1305-1312",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:37:term-usage:1306-1313",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 1305,
-    "end_char": 1312
+    "start_char": 1306,
+    "end_char": 1313
   },
   {
     "schema_version": "0.1.0",
@@ -676,93 +775,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:873-880",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:874-881",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 873,
-    "end_char": 880
+    "start_char": 874,
+    "end_char": 881
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:986-993",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:987-994",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 986,
-    "end_char": 993
+    "start_char": 987,
+    "end_char": 994
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1099-1109",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1100-1110",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1099,
-    "end_char": 1109
+    "start_char": 1100,
+    "end_char": 1110
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1366-1373",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1367-1374",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 1366,
-    "end_char": 1373
+    "start_char": 1367,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1632-1642",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1623-1626",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 1623,
+    "end_char": 1626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1633-1643",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1632,
-    "end_char": 1642
+    "start_char": 1633,
+    "end_char": 1643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1701-1708",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1702-1709",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 1701,
-    "end_char": 1708
+    "start_char": 1702,
+    "end_char": 1709
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1750-1760",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1751-1761",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretario",
     "span": "Secretario",
-    "start_char": 1750,
-    "end_char": 1760
+    "start_char": 1751,
+    "end_char": 1761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1773-1780",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1774-1781",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
     "span": "Consejo",
-    "start_char": 1773,
-    "end_char": 1780
+    "start_char": 1774,
+    "end_char": 1781
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1907-1917",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:1908-1918",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretario",
     "span": "Secretario",
-    "start_char": 1907,
-    "end_char": 1917
+    "start_char": 1908,
+    "end_char": 1918
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:2090-2100",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:39:term-usage:2091-2101",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretario",
     "span": "Secretario",
-    "start_char": 2090,
-    "end_char": 2100
+    "start_char": 2091,
+    "end_char": 2101
   },
   {
     "schema_version": "0.1.0",
@@ -802,6 +910,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:41:term-usage:127-130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 127,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:41:term-usage:137-147",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
@@ -829,6 +946,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:49:term-usage:172-175",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 172,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:article:62:term-usage:167-177",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretaria",
@@ -853,6 +979,15 @@
     "span": "Secretaría",
     "start_char": 113,
     "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:74:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
   },
   {
     "schema_version": "0.1.0",
@@ -898,6 +1033,33 @@
     "span": "Instituto",
     "start_char": 172,
     "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:83:term-usage:356-359",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 356,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:84:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:86:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
   },
   {
     "schema_version": "0.1.0",
@@ -1081,11 +1243,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:segundo:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:tercero:term-usage:223-233",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:tercero",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
     "span": "Reglamento",
     "start_char": 223,
     "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:cuarto:term-usage:324-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgp:term:ley",
+    "span": "Ley",
+    "start_char": 324,
+    "end_char": 327
   }
 ]

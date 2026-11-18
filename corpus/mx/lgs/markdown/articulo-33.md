@@ -19,7 +19,9 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 Las actividades de atención médica son:
 
-I. Preventivas, que incluyen las de promoción general y las de protección específica; II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; Fracción reformada DOF 05-01-2009
+I. Preventivas, que incluyen las de promoción general y las de protección específica;
+
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; Fracción reformada DOF 05-01-2009
 
 III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y Fracción reformada DOF 05-01-2009, 08-04-2013
 

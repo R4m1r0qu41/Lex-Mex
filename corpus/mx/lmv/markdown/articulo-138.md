@@ -29,7 +29,9 @@ IV. Incumpla con los requisitos necesarios para realizar operaciones específica
 
 V. Realice operaciones que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en aquéllas que están prohibidas en esta Ley o en las disposiciones que de ella emanen.
 
-VI. Omita reiteradamente dar cumplimiento a los requerimientos de las autoridades financieras con motivo del ejercicio de sus facultades. VII. Intervenga en operaciones con valores no inscritos en el [Registro](articulo-2.md), salvo los casos previstos en esta Ley.
+VI. Omita reiteradamente dar cumplimiento a los requerimientos de las autoridades financieras con motivo del ejercicio de sus facultades.
+
+VII. Intervenga en operaciones con valores no inscritos en el [Registro](articulo-2.md), salvo los casos previstos en esta Ley.
 
 VIII. Realice operaciones con valores fuera de bolsa, en contravención a lo establecido en esta Ley.
 

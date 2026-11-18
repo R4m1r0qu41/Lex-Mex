@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LGDS — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -23,4 +23,6 @@ I. El gasto social per cápita no será menor en términos reales al asignado el
 
 II. Estará orientado a la promoción de un desarrollo regional equilibrado;
 
-III. Se basará en indicadores y lineamientos generales de eficacia y de cantidad y calidad en la prestación de los servicios sociales, y IV. En el caso de los presupuestos federales descentralizados, las entidades federativas y municipios acordarán con la Administración Pública Federal el destino y los criterios del gasto, a través de los convenios de coordinación.
+III. Se basará en indicadores y lineamientos generales de eficacia y de cantidad y calidad en la prestación de los servicios sociales, y
+
+IV. En el caso de los presupuestos federales descentralizados, las entidades federativas y municipios acordarán con la Administración Pública Federal el destino y los criterios del gasto, a través de los convenios de coordinación.

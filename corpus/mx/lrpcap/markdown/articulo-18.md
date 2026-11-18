@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LRPCAP — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -23,4 +23,4 @@ En el supuesto previsto en el artículo [13](articulo-13.md), fracción III, el 
 
 En el caso en que al solicitante no le sea posible presentar la solicitud por escrito, la presentará verbalmente, debiéndose asentar en un acta las manifestaciones del solicitante. Si el extranjero no tiene posibilidad de comunicarse verbalmente, se tomarán las medidas necesarias para asentar en el acta correspondiente las manifestaciones del solicitante.
 
-En el supuesto de que el extranjero no comprenda el idioma español, se procederá conforme a lo establecido por el último párrafo del artículo [23](articulo-23.md) de esta Ley. El procedimiento para el reconocimiento de la condición de refugiado será gratuito.
+En el supuesto de que el extranjero no comprenda el idioma español, se procederá conforme a lo establecido por el último párrafo del artículo [23](articulo-23.md) de esta [Ley](articulo-2.md). El procedimiento para el reconocimiento de la condición de refugiado será gratuito.

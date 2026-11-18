@@ -23,7 +23,9 @@ I.- Administración: Ejecución de actividades y acciones orientadas al cumplimi
 
 II.- Aprovechamiento: Utilización de los recursos naturales de manera extractiva y no extractiva;
 
-III.- Autoconsumo: Aprovechamiento de ejemplares, partes y derivados extraídos del medio natural sin propósitos comerciales, con el fin de satisfacer las necesidades de alimentación, energía calorífica, vivienda, instrumentos de trabajo y otros usos tradicionales por parte de los pobladores que habitan en el área natural protegida; IV.- Capacidad de carga: Estimación de la tolerancia de un ecosistema al uso de sus componentes, tal que no rebase su capacidad de recuperarse en el corto plazo sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico;
+III.- Autoconsumo: Aprovechamiento de ejemplares, partes y derivados extraídos del medio natural sin propósitos comerciales, con el fin de satisfacer las necesidades de alimentación, energía calorífica, vivienda, instrumentos de trabajo y otros usos tradicionales por parte de los pobladores que habitan en el área natural protegida;
+
+IV.- Capacidad de carga: Estimación de la tolerancia de un ecosistema al uso de sus componentes, tal que no rebase su capacidad de recuperarse en el corto plazo sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico;
 
 V.- Comisión: Comisión Nacional de Áreas Naturales Protegidas;
 

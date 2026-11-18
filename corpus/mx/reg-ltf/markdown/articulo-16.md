@@ -23,7 +23,9 @@ El Comité de Continuidad Operativa de Funciones de Tesorería tendrá los miemb
 
 I. El titular de la Tesorería, quien lo presidirá;
 
-II. Los servidores públicos adscritos a la Tesorería, con el nivel jerárquico inmediato inferior al titular de la Tesorería; III. El titular de la unidad administrativa de la Secretaría encargada de evaluar los planes y procedimientos de continuidad de la operación en materia de tecnologías de información y comunicaciones y seguridad de la información;
+II. Los servidores públicos adscritos a la Tesorería, con el nivel jerárquico inmediato inferior al titular de la Tesorería;
+
+III. El titular de la unidad administrativa de la Secretaría encargada de evaluar los planes y procedimientos de continuidad de la operación en materia de tecnologías de información y comunicaciones y seguridad de la información;
 
 IV. El titular de la unidad administrativa competente para fungir como enlace entre la Tesorería y la Oficialía Mayor de la Secretaría para planear, presupuestar, organizar y administrar los asuntos relacionados con los recursos humanos, financieros, materiales y de tecnologías de información y comunicaciones, y
 

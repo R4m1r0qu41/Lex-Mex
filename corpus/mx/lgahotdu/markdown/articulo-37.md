@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["LGAHOTDU — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -31,7 +31,9 @@ V. Las prioridades para la ocupación de suelo urbano vacante, la urbanización 
 
 VI. Las políticas e instrumentos para la reestructuración, localización, [Mejoramiento](articulo-3.md) de la infraestructura y los equipamientos del ámbito metropolitano;
 
-VII. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y [Servicios Urbanos](articulo-3.md) que sean comunes a los Centros de Población de la zona conurbada; VIII. Las acciones de [Movilidad](articulo-3.md), incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
+VII. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y [Servicios Urbanos](articulo-3.md) que sean comunes a los Centros de Población de la zona conurbada;
+
+VIII. Las acciones de [Movilidad](articulo-3.md), incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
 
 IX. Las previsiones y acciones para mejorar las condiciones ambientales y el manejo integral de agua;
 

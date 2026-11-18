@@ -7,8 +7,8 @@ provision_type: article
 number: "80"
 aliases: ["REG-LOPGJDF — Artículo 80"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -27,7 +27,9 @@ III. Incorporar a los niños y niñas en programas de medicina preventiva y/o ac
 
 IV. Proponer la celebración de los convenios de colaboración con las instancias públicas y privadas de diversa índole, con el propósito de garantizar la atención a los niños y niñas bajo la atención del Centro;
 
-V. Realizar los trámites administrativos necesarios con la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, a efecto de tener los antecedentes de cada niño y niña cuyo ingreso al Centro haya sido solicitado; VI. Practicar los estudios psicosociales a las personas que solicitan la adopción de un infante, a fin de someter la solicitud al Consejo Técnico del Centro;
+V. Realizar los trámites administrativos necesarios con la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, a efecto de tener los antecedentes de cada niño y niña cuyo ingreso al Centro haya sido solicitado;
+
+VI. Practicar los estudios psicosociales a las personas que solicitan la adopción de un infante, a fin de someter la solicitud al Consejo Técnico del Centro;
 
 VII. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a este Centro, así como en la presentación de las promociones y los recursos que deban interponerse;
 

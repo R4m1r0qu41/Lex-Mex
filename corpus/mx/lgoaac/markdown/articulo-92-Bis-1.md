@@ -31,7 +31,9 @@ c) Por haber cesado los efectos del acto impugnado, y
 
 d) Las demás que conforme a la ley procedan.
 
-III. Confirmar el acto impugnado; IV. Revocar total o parcialmente el acto impugnado, y
+III. Confirmar el acto impugnado;
+
+IV. Revocar total o parcialmente el acto impugnado, y
 
 V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LGCFD — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf
 source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 ---
@@ -31,7 +31,9 @@ V. Coordinar la formulación de los anteproyectos de programas y presupuesto del
 
 VI. Denunciar ante las autoridades competentes los hechos de que tenga conocimiento y puedan ser constitutivos de delitos, e instar al área jurídica de la CONADE a formular cuando así se requiera, las querellas a que hubiere lugar;
 
-VII. Requerir a las unidades administrativas de la CONADE, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias; VIII. Instrumentar los sistemas de control establecidos por la Dirección General de la CONADE para alcanzar las metas u objetivos propuestos;
+VII. Requerir a las unidades administrativas de la CONADE, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias;
+
+VIII. Instrumentar los sistemas de control establecidos por la Dirección General de la CONADE para alcanzar las metas u objetivos propuestos;
 
 IX. Apoyar la función directiva y promover el mejoramiento de gestión de la CONADE;
 

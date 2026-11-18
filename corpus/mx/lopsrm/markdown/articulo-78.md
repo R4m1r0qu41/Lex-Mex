@@ -31,7 +31,9 @@ IV Bis. Los que actúen como interpósita persona en los procedimientos de contr
 
 V. Los contratistas que se encuentren en el supuesto de la fracción X del artículo [51](articulo-51.md) de la presente Ley, y Fracción adicionada DOF 07-07-2005. Reformada DOF 28-05-2009, 16-04-2025
 
-VI. Aquéllas que se encuentren en el supuesto del segundo párrafo del artículo [92](articulo-92.md) de esta Ley. Fracción adicionada DOF 28-05-2009 La inhabilitación que se imponga no será menor de tres meses ni mayor de siete años, plazo que comenzará a transcurrir a partir del día siguiente en que la Secretaría la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Diario Oficial de la Federación y se registre en la [Plataforma](articulo-2.md). Párrafo reformado DOF 28-05-2009, 16-04-2025
+VI. Aquéllas que se encuentren en el supuesto del segundo párrafo del artículo [92](articulo-92.md) de esta Ley. Fracción adicionada DOF 28-05-2009
+
+La inhabilitación que se imponga no será menor de tres meses ni mayor de siete años, plazo que comenzará a transcurrir a partir del día siguiente en que la Secretaría la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Diario Oficial de la Federación y se registre en la [Plataforma](articulo-2.md). Párrafo reformado DOF 28-05-2009, 16-04-2025
 
 Tratándose de los supuestos previstos en las fracciones I, II, III y IV de este artículo, la multa e inhabilitación que como sanción corresponda se aumentará hasta en un tercio más, cuando con motivo de la conducta se haya afectado o puesto en riesgo la salud, educación, seguridad social o la ejecución de programas prioritarios o proyectos estratégicos. Párrafo adicionado DOF 16-04-2025
 

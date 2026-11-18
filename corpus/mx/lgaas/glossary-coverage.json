@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
-      "provision_text_sha256": "dae6920a5c7768e6f8295ca8fb6860691f73ae3662807c8f1db8689988cb922a",
+      "provision_text_sha256": "2f26272faa4f6fd2fffd70e130b7b855e348fabe1110d62cd3875a7a5d5cb231",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -32,13 +32,14 @@
         "XIX",
         "XX",
         "XXI",
-        "XXII"
+        "XXII",
+        "XXIII"
       ],
       "unread_fractions": [],
-      "term_count": 22
+      "term_count": 23
     }
   ],
   "imports": [],
-  "term_count": 22,
+  "term_count": 23,
   "usage_count": 30
 }

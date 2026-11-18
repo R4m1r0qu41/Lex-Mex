@@ -19,7 +19,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Estarán sujetos al requisito de reconocimiento, [Inspección](articulo-10.md) y verificación de pruebas:
 
-I. Las Embarcaciones y Artefactos Navales mexicanos; II. Las Embarcaciones y Artefactos Navales extranjeros, cuando se sitúen en cualquiera de los supuestos siguientes:
+I. Las Embarcaciones y Artefactos Navales mexicanos;
+
+II. Las Embarcaciones y Artefactos Navales extranjeros, cuando se sitúen en cualquiera de los supuestos siguientes:
 
 a) Trate de matricularse y abanderarse como mexicanas y como requisito previo;
 

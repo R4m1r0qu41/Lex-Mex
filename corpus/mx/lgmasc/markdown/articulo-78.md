@@ -7,8 +7,8 @@ provision_type: article
 number: "78"
 aliases: ["LGMASC — Artículo 78"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -29,4 +29,6 @@ IV. Cuando la persona facilitadora constate que alguna de las partes mantiene ar
 
 V. Incurrir, cualquiera de las partes en un comportamiento irrespetuoso, agresivo o con intención notoriamente dilatoria;
 
-VI. Por la muerte de alguna de las partes, y VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con esta [Ley](articulo-5.md) o las correspondientes del ámbito federal o local.
+VI. Por la muerte de alguna de las partes, y
+
+VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con esta [Ley](articulo-5.md) o las correspondientes del ámbito federal o local.

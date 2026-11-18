@@ -35,7 +35,9 @@ VII. Participar en la elaboración y evaluación de los programas de la Instituc
 
 VIII. Planear y programar las operaciones y la prestación de servicios de los integrantes que tenga a su cargo, estableciendo y adecuando los mecanismos que permitan su óptimo desarrollo, así como elaborar planes de contingencia para casos específicos de seguridad pública, que orienten y apoyen al Comandante en la toma de decisiones;
 
-IX. Proponer los cambios de adscripción de los integrantes que tenga a su cargo, que por necesidades del servicio se requiera; X. Recibir y tramitar los avisos sobre denuncias que los particulares formulen ante las autoridades competentes sobre robo de vehículos y expedir las constancias correspondientes;
+IX. Proponer los cambios de adscripción de los integrantes que tenga a su cargo, que por necesidades del servicio se requiera;
+
+X. Recibir y tramitar los avisos sobre denuncias que los particulares formulen ante las autoridades competentes sobre robo de vehículos y expedir las constancias correspondientes;
 
 XI. Resolver, a través del personal bajo su adscripción, las impugnaciones que presenten los particulares con motivo de la imposición de sanciones por infracciones a las disposiciones legales y reglamentarias relativas al tránsito en caminos y puentes federales, así como aquéllas en materia de operación de los servicios de autotransporte federal, y sus servicios auxiliares y transporte privado, cuando los vehículos circulen en los caminos y puentes de jurisdicción federal, con la aprobación de la Unidad de Asuntos Jurídicos y Transparencia;
 
@@ -81,7 +83,9 @@ XXIII. Aplicar los criterios y lineamientos para resolver los recursos de revisi
 
 XXIV. Implementar acciones y operaciones en materia de seguridad en los aeropuertos, puertos marítimos y puntos fronterizos, a fin de prevenir y combatir actos ilícitos en el ámbito de su competencia, así como supervisar y brindar la seguridad en los mismos y en su área perimetral, en coordinación con las autoridades competentes;
 
-XXV. Supervisar e inspeccionar la entrada y salida de personas, y el manejo, transporte y tenencia de mercancías y objetos en las vías férreas, aeropuertos, puertos marítimos y puntos fronterizos, para prevenir y combatir los delitos, en el ámbito de su competencia; XXVI. Establecer los procedimientos y la seguridad para revisión de equipaje en aeropuertos, puertos marítimos y puntos fronterizos, así como las medidas de seguridad y control de las vialidades federales de ingreso y salida en los mismos, con el fin de prevenir y combatir los delitos, en términos de las disposiciones jurídicas aplicables;
+XXV. Supervisar e inspeccionar la entrada y salida de personas, y el manejo, transporte y tenencia de mercancías y objetos en las vías férreas, aeropuertos, puertos marítimos y puntos fronterizos, para prevenir y combatir los delitos, en el ámbito de su competencia;
+
+XXVI. Establecer los procedimientos y la seguridad para revisión de equipaje en aeropuertos, puertos marítimos y puntos fronterizos, así como las medidas de seguridad y control de las vialidades federales de ingreso y salida en los mismos, con el fin de prevenir y combatir los delitos, en términos de las disposiciones jurídicas aplicables;
 
 XXVII. Vigilar e inspeccionar, para fines de seguridad pública, la entrada y salida de mercancías en los aeropuertos, puertos marítimos autorizados para el tráfico internacional y los puntos fijos de verificación que determine el Comandante. Asimismo, en las aduanas, recintos fiscales, secciones aduaneras, garitas y puntos de revisión aduaneros en coordinación con la autoridad competente;
 

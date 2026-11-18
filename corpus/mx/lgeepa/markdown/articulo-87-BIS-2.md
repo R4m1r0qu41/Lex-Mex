@@ -17,7 +17,9 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 87 BIS 2
 
-El Gobierno Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales. Párrafo reformado DOF 19-01-2018 La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
+El Gobierno Federal, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales. Párrafo reformado DOF 19-01-2018
+
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
 I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
 

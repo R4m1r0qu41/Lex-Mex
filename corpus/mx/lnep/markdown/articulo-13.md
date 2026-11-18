@@ -23,7 +23,9 @@ I. En caso de necesitar cambio de residencia, solicitar autorización judicial;
 
 II. Cumplir con las resoluciones y medidas de seguimiento impuestas por el Juez de Ejecución para su liberación;
 
-III. Usar, conservar y mantener en óptimas condiciones todas las herramientas tecnológicas y recursos materiales que les proporcionen para el control y seguimiento de su liberación; IV. Colaborar con los supervisores de libertad a fin de darle cumplimiento a los objetivos del proceso de reinserción social;
+III. Usar, conservar y mantener en óptimas condiciones todas las herramientas tecnológicas y recursos materiales que les proporcionen para el control y seguimiento de su liberación;
+
+IV. Colaborar con los supervisores de libertad a fin de darle cumplimiento a los objetivos del proceso de reinserción social;
 
 V. Presentar los documentos que le sean requeridos por el Juez de Ejecución;
 

@@ -19,7 +19,9 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 
 Podrán darse en prenda sin transmisión de posesión los bienes muebles siguientes Párrafo reformado DOF 13-06-2014
 
-I. Aquellos bienes y derechos que obren en el patrimonio del deudor al momento de otorgar la prenda sin transmisión de posesión, incluyendo los nombres comerciales, las marcas y otros derechos; II. Los de naturaleza igual o semejante a los señalados en la fracción anterior, que adquiera el deudor en fecha posterior a la constitución de la prenda sin transmisión de posesión;
+I. Aquellos bienes y derechos que obren en el patrimonio del deudor al momento de otorgar la prenda sin transmisión de posesión, incluyendo los nombres comerciales, las marcas y otros derechos;
+
+II. Los de naturaleza igual o semejante a los señalados en la fracción anterior, que adquiera el deudor en fecha posterior a la constitución de la prenda sin transmisión de posesión;
 
 III. Los bienes que se deriven como frutos o productos futuros, pendientes o ya obtenidos, de los mencionados en las fracciones anteriores;
 

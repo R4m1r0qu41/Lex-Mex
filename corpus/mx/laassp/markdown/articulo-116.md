@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Séptimo · Capítulo Cuarto
+
 # Artículo 116
 
 El pago de los servicios a la persona que funja como árbitro no será materia de la presente Ley. Los costos y honorarios del arbitraje correrán por cuenta de las partes contratantes, salvo determinación en contrario en el laudo arbitral.

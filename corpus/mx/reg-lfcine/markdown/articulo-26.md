@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["REG-LFCINE — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf
 source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 ---
@@ -21,4 +21,6 @@ En cumplimiento de la [Ley](articulo-3.md) y este [Reglamento](articulo-3.md), l
 
 I. El número de copias que se explotaron para exhibición pública;
 
-II. El número de copias en su versión original o dobladas al español, en los casos en que la Ley lo permita, y III. En el caso de películas mexicanas de estreno, ubicación y nombre de las salas donde se exhibieron, para los efectos del segundo párrafo del artículo 19 de la Ley.
+II. El número de copias en su versión original o dobladas al español, en los casos en que la Ley lo permita, y
+
+III. En el caso de películas mexicanas de estreno, ubicación y nombre de las salas donde se exhibieron, para los efectos del segundo párrafo del artículo 19 de la Ley.

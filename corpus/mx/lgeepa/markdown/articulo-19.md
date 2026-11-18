@@ -23,7 +23,9 @@ I.- La naturaleza y características de los ecosistemas existentes en el territo
 
 II. La vocación de cada zona o región, en función de sus recursos naturales, la distribución de la población y las actividades económicas predominantes;
 
-III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales; IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; Fracción reformada DOF 12-02-2007
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; Fracción reformada DOF 12-02-2007
 
 V.- El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades; Fracción reformada DOF 13-12-1996, 12-02-2007, 11-04-2022
 

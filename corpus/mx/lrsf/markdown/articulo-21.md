@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LRSF — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf
 source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 ---
@@ -17,7 +17,9 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 # Artículo 21
 
-Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes: I. No ejercer los derechos conferidos en las concesiones o los permisos durante un periodo mayor de 180 días naturales, contado a partir de la fecha de su otorgamiento; Fracción reformada DOF 26-01-2015
+Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
+
+I. No ejercer los derechos conferidos en las concesiones o los permisos durante un periodo mayor de 180 días naturales, contado a partir de la fecha de su otorgamiento; Fracción reformada DOF 26-01-2015
 
 II. Ceder, gravar o transferir las concesiones o permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley; Fracción reformada DOF 26-01-2015
 

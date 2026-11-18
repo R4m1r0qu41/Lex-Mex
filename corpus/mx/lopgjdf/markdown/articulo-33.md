@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["LOPGJDF — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -23,4 +23,6 @@ I. Dirección General de Servicios a la Comunidad;
 
 II. Dirección General de Atención a Víctimas del Delito;
 
-III. Centro de Estancia Transitoria para Niños y Niñas; y, IV. Centros Especializados de Atención a Víctimas.
+III. Centro de Estancia Transitoria para Niños y Niñas; y,
+
+IV. Centros Especializados de Atención a Víctimas.

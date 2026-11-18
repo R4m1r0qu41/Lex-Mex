@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "V",
     "start_char": 708,
-    "end_char": 1105,
+    "end_char": 1106,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "VI",
-    "start_char": 1105,
-    "end_char": 1377,
+    "start_char": 1106,
+    "end_char": 1378,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "VII",
-    "start_char": 1377,
-    "end_char": 1498,
+    "start_char": 1378,
+    "end_char": 1499,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "VIII",
-    "start_char": 1498,
-    "end_char": 1690,
+    "start_char": 1499,
+    "end_char": 1691,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "IX",
-    "start_char": 1690,
-    "end_char": 1875,
+    "start_char": 1691,
+    "end_char": 1876,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "X",
-    "start_char": 1875,
-    "end_char": 2243,
+    "start_char": 1876,
+    "end_char": 2244,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XI",
-    "start_char": 2243,
-    "end_char": 2493,
+    "start_char": 2244,
+    "end_char": 2494,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XII",
-    "start_char": 2493,
-    "end_char": 2637,
+    "start_char": 2494,
+    "end_char": 2638,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XIII",
-    "start_char": 2637,
-    "end_char": 2894,
+    "start_char": 2638,
+    "end_char": 2895,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XIV",
-    "start_char": 2894,
-    "end_char": 3304,
+    "start_char": 2895,
+    "end_char": 3305,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XV",
-    "start_char": 3304,
-    "end_char": 3355,
+    "start_char": 3305,
+    "end_char": 3356,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XVI",
-    "start_char": 3355,
-    "end_char": 3474,
+    "start_char": 3356,
+    "end_char": 3475,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XVII",
-    "start_char": 3474,
-    "end_char": 3595,
+    "start_char": 3475,
+    "end_char": 3596,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XVIII",
-    "start_char": 3595,
-    "end_char": 3764,
+    "start_char": 3596,
+    "end_char": 3765,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XIX",
-    "start_char": 3764,
-    "end_char": 3938,
+    "start_char": 3765,
+    "end_char": 3939,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XX",
-    "start_char": 3938,
-    "end_char": 4141,
+    "start_char": 3939,
+    "end_char": 4143,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XXI",
-    "start_char": 4141,
-    "end_char": 4273,
+    "start_char": 4143,
+    "end_char": 4275,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfed",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
     "fraction": "XXII",
-    "start_char": 4273,
-    "end_char": 4756,
+    "start_char": 4275,
+    "end_char": 4758,
     "basis": "express_definition"
   }
 ]

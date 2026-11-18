@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LCEC — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 34
 
-La [Secretaría](articulo-2.md) establecerá conjuntamente con las Cámaras y sus [Confederaciones](articulo-2.md) las reglas de operación del [SIEM](articulo-2.md). Estas reglas de operación deberán considerar por lo menos los siguientes aspectos:
+La [Secretaría](articulo-2.md) establecerá conjuntamente con las [Cámaras](articulo-2.md) y sus [Confederaciones](articulo-2.md) las reglas de operación del [SIEM](articulo-2.md). Estas reglas de operación deberán considerar por lo menos los siguientes aspectos:
 
 I. Disponibilidad de acceso a la información por personas y organismos, nacionales y extranjeros;
 

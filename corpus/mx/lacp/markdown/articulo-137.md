@@ -47,6 +47,8 @@ Para efectos de lo previsto en el primer párrafo de la presente fracción, no s
 
 IV. Las personas que para obtener préstamos o créditos o con el fin de celebrar contratos de arrendamiento financiero o de factoraje financiero, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, bienes en arrendamiento o derechos del crédito, resultando quebranto o perjuicio patrimonial para la Sociedad u organismo;
 
-V. Los acreditados que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna Sociedad a fines distintos para los que se otorgó, si la fuente de recursos utilizada por la Sociedad u organismo proviene de fondos de fomento, fideicomisos públicos constituidos por el gobierno federal para el fomento económico u organismos internacionales, y VI. Los deudores que no destinen el importe del préstamo o crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la Sociedad u organismo.
+V. Los acreditados que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna Sociedad a fines distintos para los que se otorgó, si la fuente de recursos utilizada por la Sociedad u organismo proviene de fondos de fomento, fideicomisos públicos constituidos por el gobierno federal para el fomento económico u organismos internacionales, y
+
+VI. Los deudores que no destinen el importe del préstamo o crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la Sociedad u organismo.
 
 Artículo reformado DOF 13-08-2009

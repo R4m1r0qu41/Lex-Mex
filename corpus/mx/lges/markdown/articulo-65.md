@@ -7,8 +7,8 @@ provision_type: article
 number: "65"
 aliases: ["LGES — Artículo 65"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -25,7 +25,9 @@ II. Los planes de desarrollo de las instituciones de educación superior y la di
 
 III. Los planes y programas de la Secretaría relacionados con la educación superior;
 
-IV. La cobertura educativa en la entidad federativa y las necesidades financieras derivadas de la ampliación de la población escolar atendida, de la oferta educativa y la desconcentración geográfica; V. Las necesidades para garantizar el fortalecimiento académico y el cumplimiento de las funciones de docencia, investigación, extensión, difusión del conocimiento, la cultura y gestión institucional, y
+IV. La cobertura educativa en la entidad federativa y las necesidades financieras derivadas de la ampliación de la población escolar atendida, de la oferta educativa y la desconcentración geográfica;
+
+V. Las necesidades para garantizar el fortalecimiento académico y el cumplimiento de las funciones de docencia, investigación, extensión, difusión del conocimiento, la cultura y gestión institucional, y
 
 VI. El ejercicio responsable y transparente de los recursos públicos, de conformidad con la legislación aplicable.
 

@@ -19,66 +19,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:620-623",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:621-624",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 620,
-    "end_char": 623
+    "start_char": 621,
+    "end_char": 624
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:1477-1481",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:1478-1482",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:dgrh",
     "span": "DGRH",
-    "start_char": 1477,
-    "end_char": 1481
+    "start_char": 1478,
+    "end_char": 1482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:3177-3183",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:3178-3184",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:unidad",
     "span": "Unidad",
-    "start_char": 3177,
-    "end_char": 3183
+    "start_char": 3178,
+    "end_char": 3184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:3814-3817",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:3815-3818",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 3814,
-    "end_char": 3817
+    "start_char": 3815,
+    "end_char": 3818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:4128-4131",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:4129-4132",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 4128,
-    "end_char": 4131
+    "start_char": 4129,
+    "end_char": 4132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:4639-4642",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:4640-4643",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 4639,
-    "end_char": 4642
+    "start_char": 4640,
+    "end_char": 4643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:5385-5388",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2:term-usage:5386-5389",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 5385,
-    "end_char": 5388
+    "start_char": 5386,
+    "end_char": 5389
   },
   {
     "schema_version": "0.1.0",
@@ -100,12 +100,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:4:term-usage:1901-1904",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:4:term-usage:1902-1905",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
     "span": "Ley",
-    "start_char": 1901,
-    "end_char": 1904
+    "start_char": 1902,
+    "end_char": 1905
   },
   {
     "schema_version": "0.1.0",
@@ -577,21 +577,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63:term-usage:1245-1251",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63:term-usage:1246-1252",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:unidad",
     "span": "Unidad",
-    "start_char": 1245,
-    "end_char": 1251
+    "start_char": 1246,
+    "end_char": 1252
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63:term-usage:1975-1981",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63:term-usage:1976-1982",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:63",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:unidad",
     "span": "Unidad",
-    "start_char": 1975,
-    "end_char": 1981
+    "start_char": 1976,
+    "end_char": 1982
   },
   {
     "schema_version": "0.1.0",

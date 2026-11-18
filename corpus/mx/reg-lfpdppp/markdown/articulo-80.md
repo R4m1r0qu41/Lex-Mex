@@ -7,8 +7,8 @@ provision_type: article
 number: "80"
 aliases: ["REG-LFPDPPP — Artículo 80"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf
 source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 ---
@@ -31,7 +31,9 @@ V. Identificar a los responsables que cuenten con políticas de privacidad aline
 
 VI. Facilitar la coordinación entre los distintos esquemas de autorregulación reconocidos internacionalmente;
 
-VII. Facilitar las transferencias con responsables que cuenten con esquemas de autorregulación como puerto seguro; VIII. Promover el compromiso de los responsables con la rendición de cuentas y adopción de políticas internas consistentes con criterios externos, así como para auspiciar mecanismos para implementar políticas de privacidad, incluyendo herramientas, transparencia, supervisión interna continua, evaluaciones de riesgo, verificaciones externas y sistemas de remediación, y
+VII. Facilitar las transferencias con responsables que cuenten con esquemas de autorregulación como puerto seguro;
+
+VIII. Promover el compromiso de los responsables con la rendición de cuentas y adopción de políticas internas consistentes con criterios externos, así como para auspiciar mecanismos para implementar políticas de privacidad, incluyendo herramientas, transparencia, supervisión interna continua, evaluaciones de riesgo, verificaciones externas y sistemas de remediación, y
 
 IX. Encauzar mecanismos de solución alternativa de controversias entre responsables, titulares y terceras personas, como son los de conciliación y mediación.
 

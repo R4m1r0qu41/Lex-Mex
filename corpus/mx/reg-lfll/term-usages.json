@@ -37,30 +37,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1644-1651",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1645-1652",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
     "span": "Consejo",
-    "start_char": 1644,
-    "end_char": 1651
+    "start_char": 1645,
+    "end_char": 1652
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1685-1693",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1686-1694",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:registro",
     "span": "Registro",
-    "start_char": 1685,
-    "end_char": 1693
+    "start_char": 1686,
+    "end_char": 1694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1849-1852",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:2:term-usage:1850-1853",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
     "span": "Ley",
-    "start_char": 1849,
-    "end_char": 1852
+    "start_char": 1850,
+    "end_char": 1853
   },
   {
     "schema_version": "0.1.0",

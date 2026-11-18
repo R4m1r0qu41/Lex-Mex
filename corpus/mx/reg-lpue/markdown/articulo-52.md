@@ -25,7 +25,9 @@ II. Suministro de agua potable y energía eléctrica para las embarcaciones;
 
 III. Alumbrado general adecuado y vigilancia permanente;
 
-IV. Medios mínimos de varado y botadura; V. Mantenimiento y reparaciones menores de emergencia a las embarcaciones;
+IV. Medios mínimos de varado y botadura;
+
+V. Mantenimiento y reparaciones menores de emergencia a las embarcaciones;
 
 VI. Equipo de radiocomunicación para operar en las bandas de frecuencia que autorice la Secretaría, cuando a juicio de la misma sea necesario;
 

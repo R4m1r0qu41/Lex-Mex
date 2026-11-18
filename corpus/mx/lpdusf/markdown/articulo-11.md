@@ -69,7 +69,9 @@ XXI. Imponer las sanciones establecidas en esta Ley;
 
 XXII. Aplicar las medidas de apremio a que se refiere esta Ley;
 
-XXIII. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las resoluciones dictadas por la Comisión Nacional; XXIV. Determinar el monto, la forma y las condiciones de las garantías a las que se refiere esta Ley, así como el monto que deberá registrarse como pasivo contingente por parte de las Instituciones Financieras en términos del artículo [68](articulo-68.md) fracción X; Fracción reformada DOF 05-01-2000
+XXIII. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las resoluciones dictadas por la Comisión Nacional;
+
+XXIV. Determinar el monto, la forma y las condiciones de las garantías a las que se refiere esta Ley, así como el monto que deberá registrarse como pasivo contingente por parte de las Instituciones Financieras en términos del artículo [68](articulo-68.md) fracción X; Fracción reformada DOF 05-01-2000
 
 XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y
 
@@ -89,7 +91,9 @@ XXX. Requerir a las Instituciones Financieras que tomen medidas adecuadas para c
 
 XXXI. Promover nuevos o mejores sistemas y procedimientos que faciliten a los Usuarios el acceso a los productos o servicios que presten las Instituciones Financieras en mejores condiciones de mercado; Fracción adicionada DOF 25-06-2009
 
-XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios; Fracción adicionada DOF 25-06-2009 XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero; Fracción adicionada DOF 25-06-2009
+XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios; Fracción adicionada DOF 25-06-2009
+
+XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero; Fracción adicionada DOF 25-06-2009
 
 XXXIV. Emitir en el ámbito de su competencia la regulación a que se sujetarán las Instituciones Financieras, cuando tal atribución le esté conferida en las leyes del sistema financiero; Fracción adicionada DOF 25-06-2009
 
@@ -111,4 +115,6 @@ XLII. Emitir, con el acuerdo de su [Junta](articulo-2o.md) de Gobierno, disposic
 
 Dichas disposiciones no podrán oponerse a las demás disposiciones o reglas que emitan otras autoridades en el ejercicio de sus atribuciones. Fracción adicionada DOF 10-01-2014
 
-XLIII. Las disposiciones de carácter general, ordenamientos y recomendaciones contenidas en las fracciones IX, XV, XVIII, XIX y XLII, deberán ser difundidas a los Usuarios del sistema financiero a través del Buró de Entidades Financieras, y Fracción adicionada DOF 10-01-2014 XLIV. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento. Fracción adicionada DOF 15-06-2007. Reformada DOF 25-06-2009 (se recorre). Recorrida DOF 10-01-2014
+XLIII. Las disposiciones de carácter general, ordenamientos y recomendaciones contenidas en las fracciones IX, XV, XVIII, XIX y XLII, deberán ser difundidas a los Usuarios del sistema financiero a través del Buró de Entidades Financieras, y Fracción adicionada DOF 10-01-2014
+
+XLIV. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento. Fracción adicionada DOF 15-06-2007. Reformada DOF 25-06-2009 (se recorre). Recorrida DOF 10-01-2014

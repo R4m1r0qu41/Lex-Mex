@@ -21,7 +21,9 @@ Las solicitudes para que "[La Comisión](articulo-1o.md)" autorice la transmisi�
 
 I. Copia del título que ampare la explotación, uso o aprovechamiento objeto de la transmisión y constancia de su inscripción en el "[Registro](articulo-1o.md)", en caso de que haya sido objeto de transmisión anterior;
 
-II. En caso de que el adquirente sea persona moral, copia de su escritura constitutiva y del documento que acredite la personalidad del solicitante; III. Documentos que acrediten que se está al corriente en el pago de las contribuciones y aprovechamientos fiscales en materia de aguas nacionales, conforme a la legislación vigente, y
+II. En caso de que el adquirente sea persona moral, copia de su escritura constitutiva y del documento que acredite la personalidad del solicitante;
+
+III. Documentos que acrediten que se está al corriente en el pago de las contribuciones y aprovechamientos fiscales en materia de aguas nacionales, conforme a la legislación vigente, y
 
 IV. Copia de la carta intención o del proyecto de contrato o convenio que formalice la transmisión, el cual determinará la forma en que expresamente el adquirente asume solidariamente todos los derechos y obligaciones emanados de la concesión o asignación y, cuando la explotación, uso o aprovechamiento se va a efectuar en lugar distinto, responsabilidad solidaria, consistente en cerrar o destruir la obra de extracción y de sufragar los gastos que ello ocasione, por el que transmite y el que adquiere, tan pronto sea autorizada la transmisión de derechos.
 

@@ -31,7 +31,9 @@ V. Los medios de prueba admitidos que deberán ser desahogados en la audiencia d
 
 VI. Los medios de pruebas que, en su caso, deban de desahogarse en la audiencia de individualización de las sanciones y de reparación del daño;
 
-VII. Las medidas de resguardo de identidad y datos personales que procedan en términos de este [Código](articulo-3o.md); VIII. Las personas que deban ser citadas a la audiencia de debate, y
+VII. Las medidas de resguardo de identidad y datos personales que procedan en términos de este [Código](articulo-3o.md);
+
+VIII. Las personas que deban ser citadas a la audiencia de debate, y
 
 IX. Las medidas cautelares que hayan sido impuestas al acusado.
 

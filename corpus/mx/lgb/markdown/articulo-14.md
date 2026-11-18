@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LGB — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf
 source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 ---
@@ -23,7 +23,9 @@ I. Coordinar la [Red](articulo-2.md);
 
 II. Establecer los mecanismos participativos para planear y programar la expansión y modernización tecnológica de la Red;
 
-III. Emitir la normatividad técnica bibliotecaria para las bibliotecas integradas a la Red, y supervisar su cumplimiento; IV. Operar un programa de capacitación y certificación de bibliotecarias y bibliotecarios de las bibliotecas públicas a nivel nacional;
+III. Emitir la normatividad técnica bibliotecaria para las bibliotecas integradas a la Red, y supervisar su cumplimiento;
+
+IV. Operar un programa de capacitación y certificación de bibliotecarias y bibliotecarios de las bibliotecas públicas a nivel nacional;
 
 V. Establecer criterios para la selección, integración y desarrollo de las colecciones de las bibliotecas públicas;
 

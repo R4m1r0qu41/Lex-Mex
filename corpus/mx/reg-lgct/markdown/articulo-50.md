@@ -7,8 +7,8 @@ provision_type: article
 number: "50"
 aliases: ["REG-LGCT — Artículo 50"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf
 source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 ---
@@ -25,4 +25,6 @@ II. La leyenda “Venta prohibida de cigarrillos por unidad”;
 
 III. La leyenda “Se prohíbe el comercio, venta, distribución o suministro a menores de edad”;
 
-IV. El texto: “Reporta al” seguido del número telefónico para presentar denuncia ciudadana por incumplimiento, y V. Las demás que al efecto emita la Secretaría en los ordenamientos legales aplicables.
+IV. El texto: “Reporta al” seguido del número telefónico para presentar denuncia ciudadana por incumplimiento, y
+
+V. Las demás que al efecto emita la Secretaría en los ordenamientos legales aplicables.

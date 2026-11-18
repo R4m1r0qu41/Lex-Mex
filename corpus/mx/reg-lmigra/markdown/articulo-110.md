@@ -27,7 +27,9 @@ b) En caso de robo, extravío o destrucción total, el acta levantada ante la au
 
 c) En caso de destrucción parcial, el documento migratorio original correspondiente.
 
-II. La oficina consular deberá consultar al Instituto en un plazo máximo de dos días hábiles sobre la procedencia y términos en los que se deberá expedir la visa. La respuesta deberá emitirse en un plazo máximo de cinco días hábiles, y III. La oficina consular emitirá la visa a la persona extranjera, de acuerdo con la instrucción del Instituto, en un plazo de tres días hábiles.
+II. La oficina consular deberá consultar al Instituto en un plazo máximo de dos días hábiles sobre la procedencia y términos en los que se deberá expedir la visa. La respuesta deberá emitirse en un plazo máximo de cinco días hábiles, y
+
+III. La oficina consular emitirá la visa a la persona extranjera, de acuerdo con la instrucción del Instituto, en un plazo de tres días hábiles.
 
 En su caso, exclusivamente se cubrirán los derechos por la expedición de visa en la oficina consular. Los que genere la reposición de la tarjeta de visitante o de residente, según corresponda, se cubrirán directamente ante el Instituto.
 

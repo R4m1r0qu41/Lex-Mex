@@ -29,7 +29,9 @@ Para que los importadores y exportadores puedan compensar los saldos a favor, de
 
 I. El aviso correspondiente;
 
-II. El Pedimento que origina el saldo a su favor; III. Escrito o Pedimento de desistimiento o del Pedimento de rectificación, según corresponda;
+II. El Pedimento que origina el saldo a su favor;
+
+III. Escrito o Pedimento de desistimiento o del Pedimento de rectificación, según corresponda;
 
 IV. En el caso de aplicación de trato arancelario preferencial conforme a los tratados de los que México sea parte, cuando en la fecha de importación no se haya aplicado dicho trato, el certificado de origen válido del documento en el que conste la declaración en factura o la declaración de origen, según corresponda conforme al tratado correspondiente;
 

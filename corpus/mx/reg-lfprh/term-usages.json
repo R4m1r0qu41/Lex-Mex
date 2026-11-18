@@ -19,75 +19,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:1030-1033",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:1031-1034",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1030,
-    "end_char": 1033
+    "start_char": 1031,
+    "end_char": 1034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:1233-1236",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:1234-1237",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1233,
-    "end_char": 1236
+    "start_char": 1234,
+    "end_char": 1237
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:2139-2142",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:2140-2143",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 2139,
-    "end_char": 2142
+    "start_char": 2140,
+    "end_char": 2143
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:2366-2369",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:2367-2370",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 2366,
-    "end_char": 2369
+    "start_char": 2367,
+    "end_char": 2370
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:3158-3161",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:3159-3162",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 3158,
-    "end_char": 3161
+    "start_char": 3159,
+    "end_char": 3162
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:4661-4670",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2:term-usage:4662-4671",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:tesoreria",
     "span": "Tesorería",
-    "start_char": 4661,
-    "end_char": 4670
+    "start_char": 4662,
+    "end_char": 4671
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6:term-usage:386-389",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6:term-usage:387-390",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 386,
-    "end_char": 389
+    "start_char": 387,
+    "end_char": 390
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6:term-usage:599-602",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6:term-usage:600-603",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 599,
-    "end_char": 602
+    "start_char": 600,
+    "end_char": 603
   },
   {
     "schema_version": "0.1.0",
@@ -181,12 +181,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:10:term-usage:1667-1670",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:10:term-usage:1668-1671",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1667,
-    "end_char": 1670
+    "start_char": 1668,
+    "end_char": 1671
   },
   {
     "schema_version": "0.1.0",
@@ -199,30 +199,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:1819-1822",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:1820-1823",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1819,
-    "end_char": 1822
+    "start_char": 1820,
+    "end_char": 1823
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:2192-2195",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:2193-2196",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 2192,
-    "end_char": 2195
+    "start_char": 2193,
+    "end_char": 2196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:2563-2566",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11:term-usage:2564-2567",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 2563,
-    "end_char": 2566
+    "start_char": 2564,
+    "end_char": 2567
   },
   {
     "schema_version": "0.1.0",
@@ -442,57 +442,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:2732-2735",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:2733-2736",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 2732,
-    "end_char": 2735
+    "start_char": 2733,
+    "end_char": 2736
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:4223-4226",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:4224-4227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 4223,
-    "end_char": 4226
+    "start_char": 4224,
+    "end_char": 4227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:5189-5192",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:5190-5193",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 5189,
-    "end_char": 5192
+    "start_char": 5190,
+    "end_char": 5193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6136-6139",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6137-6140",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 6136,
-    "end_char": 6139
+    "start_char": 6137,
+    "end_char": 6140
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6405-6408",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6406-6409",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 6405,
-    "end_char": 6408
+    "start_char": 6406,
+    "end_char": 6409
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6626-6629",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a:term-usage:6627-6630",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 6626,
-    "end_char": 6629
+    "start_char": 6627,
+    "end_char": 6630
   },
   {
     "schema_version": "0.1.0",
@@ -955,12 +955,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46:term-usage:543-546",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46:term-usage:544-547",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 543,
-    "end_char": 546
+    "start_char": 544,
+    "end_char": 547
   },
   {
     "schema_version": "0.1.0",
@@ -1153,30 +1153,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:3084-3087",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:3085-3088",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 3084,
-    "end_char": 3087
+    "start_char": 3085,
+    "end_char": 3088
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:3944-3947",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:3945-3948",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 3944,
-    "end_char": 3947
+    "start_char": 3945,
+    "end_char": 3948
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:4123-4126",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56:term-usage:4124-4127",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 4123,
-    "end_char": 4126
+    "start_char": 4124,
+    "end_char": 4127
   },
   {
     "schema_version": "0.1.0",
@@ -1189,21 +1189,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57:term-usage:1318-1321",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57:term-usage:1319-1322",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1318,
-    "end_char": 1321
+    "start_char": 1319,
+    "end_char": 1322
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57:term-usage:1699-1702",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57:term-usage:1700-1703",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1699,
-    "end_char": 1702
+    "start_char": 1700,
+    "end_char": 1703
   },
   {
     "schema_version": "0.1.0",
@@ -1729,12 +1729,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:83:term-usage:1757-1760",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:83:term-usage:1758-1761",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 1757,
-    "end_char": 1760
+    "start_char": 1758,
+    "end_char": 1761
   },
   {
     "schema_version": "0.1.0",
@@ -1765,12 +1765,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:99:term-usage:4336-4339",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:99:term-usage:4337-4340",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:99",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 4336,
-    "end_char": 4339
+    "start_char": 4337,
+    "end_char": 4340
   },
   {
     "schema_version": "0.1.0",
@@ -1783,12 +1783,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:106:term-usage:1601-1610",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:106:term-usage:1602-1611",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:106",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:tesoreria",
     "span": "Tesorería",
-    "start_char": 1601,
-    "end_char": 1610
+    "start_char": 1602,
+    "end_char": 1611
   },
   {
     "schema_version": "0.1.0",
@@ -1891,12 +1891,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:118:term-usage:603-611",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:118:term-usage:604-612",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:118",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:comision",
     "span": "Comisión",
-    "start_char": 603,
-    "end_char": 611
+    "start_char": 604,
+    "end_char": 612
   },
   {
     "schema_version": "0.1.0",
@@ -1918,12 +1918,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:124:term-usage:886-889",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:124:term-usage:887-890",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:124",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 886,
-    "end_char": 889
+    "start_char": 887,
+    "end_char": 890
   },
   {
     "schema_version": "0.1.0",
@@ -2107,12 +2107,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:183-b:term-usage:2475-2484",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:183-b:term-usage:2476-2485",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:183-b",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:tesoreria",
     "span": "Tesorería",
-    "start_char": 2475,
-    "end_char": 2484
+    "start_char": 2476,
+    "end_char": 2485
   },
   {
     "schema_version": "0.1.0",
@@ -2350,21 +2350,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202:term-usage:455-458",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202:term-usage:456-459",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 455,
-    "end_char": 458
+    "start_char": 456,
+    "end_char": 459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202:term-usage:495-498",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202:term-usage:496-499",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:202",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:ley",
     "span": "Ley",
-    "start_char": 495,
-    "end_char": 498
+    "start_char": 496,
+    "end_char": 499
   },
   {
     "schema_version": "0.1.0",
@@ -2638,12 +2638,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:224:term-usage:4097-4106",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:224:term-usage:4098-4107",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:224",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:tesoreria",
     "span": "Tesorería",
-    "start_char": 4097,
-    "end_char": 4106
+    "start_char": 4098,
+    "end_char": 4107
   },
   {
     "schema_version": "0.1.0",

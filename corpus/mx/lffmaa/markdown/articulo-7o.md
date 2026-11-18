@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["LFFMAA — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf
 source_sha256: 31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa
 ---
@@ -27,4 +27,6 @@ III.- Elaborar programas de difusión, gestión, formación y capacitación empr
 
 IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal; Fracción adicionada DOF 22-07-1991. Reformada DOF 18-01-2012, 27-03-2023
 
-V.- Promoverá la participación del sector turístico en el desarrollo de acciones que permitan a las microindustrias en regiones turísticas mejorar su desempeño en la producción artesanal, y Fracción adicionada DOF 15-12-2011. Reformada DOF 18-01-2012, 27-03-2023 VI.- Podrá establecer programas emergentes de apoyo a la microindustria y la actividad artesanal en caso de que sea emitida una declaratoria de emergencia o desastre, que imposibiliten su desarrollo total o parcial. Fracción adicionada DOF 27-03-2023
+V.- Promoverá la participación del sector turístico en el desarrollo de acciones que permitan a las microindustrias en regiones turísticas mejorar su desempeño en la producción artesanal, y Fracción adicionada DOF 15-12-2011. Reformada DOF 18-01-2012, 27-03-2023
+
+VI.- Podrá establecer programas emergentes de apoyo a la microindustria y la actividad artesanal en caso de que sea emitida una declaratoria de emergencia o desastre, que imposibiliten su desarrollo total o parcial. Fracción adicionada DOF 27-03-2023

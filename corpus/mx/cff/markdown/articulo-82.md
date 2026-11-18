@@ -129,7 +129,9 @@ XXXI. De $231,010.00 a $328,900.00, a la establecida en la fracción XXXI. Multa
 
 XXXII. (Se deroga).
 
-XXXIII. (Se deroga) XXXIV. De $29,930.00 a $49,870.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+XXXIII. (Se deroga)
+
+XXXIV. De $29,930.00 a $49,870.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XXXV. (Se deroga).
 

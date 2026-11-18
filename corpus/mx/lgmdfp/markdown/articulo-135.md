@@ -7,8 +7,8 @@ provision_type: article
 number: "135"
 aliases: ["LGMDFP — Artículo 135"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -21,7 +21,9 @@ La elaboración del Programa Nacional de Exhumaciones e Identificación Forense,
 
 I. Diagnóstico, línea de base e información metodológica sobre la elaboración del programa;
 
-II. El proceso y metodologías multidisciplinarias para la revisión sistemática y exhaustiva, por parte de las autoridades competentes, de averiguaciones previas, carpetas de investigación y otros documentos oficiales que contengan información sobre las personas fallecidas sin identificar que permita aportar información sobre la hipótesis de identificación de las personas inhumadas; III. Información estadística sobre el número de cuerpos inhumados sin identificar;
+II. El proceso y metodologías multidisciplinarias para la revisión sistemática y exhaustiva, por parte de las autoridades competentes, de averiguaciones previas, carpetas de investigación y otros documentos oficiales que contengan información sobre las personas fallecidas sin identificar que permita aportar información sobre la hipótesis de identificación de las personas inhumadas;
+
+III. Información estadística sobre el número de cuerpos inhumados sin identificar;
 
 IV. El listado de todos los panteones y cementerios del país, así como información sobre el número de cuerpos sin identificar inhumados en cada uno y las circunstancias y contextos correspondientes;
 

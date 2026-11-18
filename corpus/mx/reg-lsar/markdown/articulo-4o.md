@@ -21,4 +21,6 @@ Se requerirá autorización previa de la Comisión para que personas físicas o 
 
 Para efectos de lo dispuesto por el segundo párrafo del artículo [23](../../lsar/markdown/articulo-23.md) de la [Ley](articulo-2o.md), se considerará como una sola persona a:
 
-I. La persona moral que sea accionista de una Administradora, las personas físicas o morales que, a su vez, participen directamente en un cinco por ciento o más del capital social de dicha persona moral accionista de la Administradora y a las personas morales subsidiarias de las personas que participen directamente en el capital social de la Administradora, o II. El cónyuge o las personas que tengan relación de parentesco civil, por consanguinidad o afinidad dentro de cualquier grado en la línea recta, o hasta el segundo grado en la colateral, con algún accionista de una Administradora.
+I. La persona moral que sea accionista de una Administradora, las personas físicas o morales que, a su vez, participen directamente en un cinco por ciento o más del capital social de dicha persona moral accionista de la Administradora y a las personas morales subsidiarias de las personas que participen directamente en el capital social de la Administradora, o
+
+II. El cónyuge o las personas que tengan relación de parentesco civil, por consanguinidad o afinidad dentro de cualquier grado en la línea recta, o hasta el segundo grado en la colateral, con algún accionista de una Administradora.

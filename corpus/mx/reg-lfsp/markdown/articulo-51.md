@@ -7,8 +7,8 @@ provision_type: article
 number: "51"
 aliases: ["REG-LFSP — Artículo 51"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf
 source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 ---
@@ -21,7 +21,9 @@ Toda persona que tenga conocimiento de irregularidades cometidas por los Centros
 
 La queja se resolverá conforme al siguiente procedimiento:
 
-I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo [46](../../lfpa/markdown/articulo-46.md) de la Ley Federal de Procedimiento Administrativo; II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos [1](../../lfsp/markdown/articulo-1.md) y [16](../../lfsp/markdown/articulo-16.md) de la [Ley](articulo-2.md);
+I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo [46](../../lfpa/markdown/articulo-46.md) de la Ley Federal de Procedimiento Administrativo;
+
+II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos [1](../../lfsp/markdown/articulo-1.md) y [16](../../lfsp/markdown/articulo-16.md) de la [Ley](articulo-2.md);
 
 III. Determinada la competencia, tanto territorial como por la materia, la Dirección General ordenará las diligencias pertinentes para hacerse de medios de prueba, sin más limitaciones que las establecidas en la Ley y, en su caso, ordenará la práctica de una visita de verificación para comprobar el cumplimiento de la normatividad en materia de seguridad privada;
 

@@ -21,4 +21,6 @@ La apelación en ambos efectos procede:
 
 I. Sentencias definitivas dictadas en juicios escritos, de acciones colectivas, y ordinarios orales civiles; en materia familiar, únicamente contra la sentencia definitiva o interlocutoria que cancele o disminuya alimentos;
 
-II. Sentencias o cualquier otra resolución judicial que por su naturaleza suspenda, impida la continuación del juicio, le pongan fin o haga imposible su continuación, cualquiera que sea la naturaleza del procedimiento, y III. Aquellas resoluciones judiciales señaladas expresamente por este [Código Nacional](articulo-2.md).
+II. Sentencias o cualquier otra resolución judicial que por su naturaleza suspenda, impida la continuación del juicio, le pongan fin o haga imposible su continuación, cualquiera que sea la naturaleza del procedimiento, y
+
+III. Aquellas resoluciones judiciales señaladas expresamente por este [Código Nacional](articulo-2.md).

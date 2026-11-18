@@ -9,7 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 125"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [19,55,56]
+amendment_marks: [19,55,56,105]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -116,7 +116,7 @@ VI. Implementar, en su caso, los mecanismos necesarios para dar cumplimiento a l
 
 VII. Cumplir las medidas correctivas y preventivas determinadas por el Consejo o el Comité de Auditoría, relacionadas con las deficiencias o desviaciones del Sistema de Control Interno, debiendo circunstanciar en un registro especial los actos y hechos que motiven dichas medidas.
 
-(105) VIII. Dictar las medidas necesarias para que, en el manejo de la información relativa a los Socios, de la unión de crédito, se observe lo relativo al secreto financiero y fiduciario.
+VIII. Dictar las medidas necesarias para que, en el manejo de la información relativa a los Socios, de la unión de crédito, se observe lo relativo al secreto financiero y fiduciario.
 
 Asimismo, el director general de las uniones de crédito será el encargado de elaborar y presentar al Consejo para su aprobación, las políticas para el adecuado empleo y aprovechamiento de los recursos humanos y materiales de la unión de crédito, conforme a lo señalado en las presentes disposiciones.
 

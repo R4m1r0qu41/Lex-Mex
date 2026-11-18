@@ -23,7 +23,9 @@ I. Los requisitos de ingreso, exclusión y separación de sus agremiados;
 
 II. Las políticas y lineamientos que deban seguir sus agremiados en la contratación con la clientela a la cual presten sus servicios;
 
-III. La revelación al público de información distinta o adicional a la que derive de esta Ley; IV. Las políticas y lineamientos de conducta tendientes a que sus agremiados y otras personas vinculadas a éstos con motivo de un empleo, cargo o comisión en ellos, conozcan y se apeguen a la normativa aplicable, así como a los sanos usos y prácticas en materia de seguros y de fianzas;
+III. La revelación al público de información distinta o adicional a la que derive de esta Ley;
+
+IV. Las políticas y lineamientos de conducta tendientes a que sus agremiados y otras personas vinculadas a éstos con motivo de un empleo, cargo o comisión en ellos, conozcan y se apeguen a la normativa aplicable, así como a los sanos usos y prácticas en materia de seguros y de fianzas;
 
 V. Los requisitos de calidad técnica, honorabilidad e historial crediticio satisfactorio aplicables a sus agremiados y su personal;
 

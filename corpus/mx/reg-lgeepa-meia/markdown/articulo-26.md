@@ -21,7 +21,9 @@ Iniciado el trámite de evaluación, la [Secretaría](articulo-3o.md) deberá ir
 
 I. La información adicional que se genere;
 
-II. Las opiniones técnicas que se hubiesen solicitado; III. Los comentarios y observaciones que realicen los interesados en el proceso de consulta pública, así como el extracto del proyecto que durante dicho proceso se haya publicado;
+II. Las opiniones técnicas que se hubiesen solicitado;
+
+III. Los comentarios y observaciones que realicen los interesados en el proceso de consulta pública, así como el extracto del proyecto que durante dicho proceso se haya publicado;
 
 IV. La resolución; V. Las garantías otorgadas, y
 

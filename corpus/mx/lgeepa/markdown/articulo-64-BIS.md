@@ -23,6 +23,8 @@ I.- Promoverán las inversiones públicas y privadas para el establecimiento y m
 
 II.- Establecerán o en su caso promoverán la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas;
 
-III.- Establecerán los incentivos económicos y los estímulos fiscales para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación en términos del artículo [59](articulo-59.md) de esta Ley, y IV.- Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las participaciones Federales a Estados o Municipios se considere como criterio, la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, en términos de lo dispuesto en el artículo [46](articulo-46.md) de esta Ley.
+III.- Establecerán los incentivos económicos y los estímulos fiscales para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación en términos del artículo [59](articulo-59.md) de esta Ley, y
+
+IV.- Promoverán ante la Secretaría de Hacienda y Crédito Público, que en las participaciones Federales a Estados o Municipios se considere como criterio, la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, en términos de lo dispuesto en el artículo [46](articulo-46.md) de esta Ley.
 
 Artículo adicionado DOF 13-12-1996

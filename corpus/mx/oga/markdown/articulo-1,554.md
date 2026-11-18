@@ -20,13 +20,9 @@ source_sha256: 25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3
 
 El número de los Cocineros, Mayordomos y Criados, que para las atenciones a bordo corresponden en la Armada, será proporcionado a la categoría y al número del personal de Oficiales y tripulantes de los buques y dependencias, en la forma siguiente:
 
-I.- A los Comandantes de Escuadra, División o Grupo, un Cocinero, un Mayordomo y dos Criados de
+I.- A los Comandantes de Escuadra, División o Grupo, un Cocinero, un Mayordomo y dos Criados de primera.
 
-primera.
-
-II.- A los Comandantes de buque, de la clase de Capitán de Navío, un Cocinero y un Criado de
-
-primera.
+II.- A los Comandantes de buque, de la clase de Capitán de Navío, un Cocinero y un Criado de primera.
 
 III.- A los Comandantes de buque, de la clase de Capitán de Fragata, abajo, un Criado de primera y el Cocinero si fuere posible.
 
@@ -40,7 +36,9 @@ VII.- A los Oficiales Generales en comisión en tierra, dos Criados de primera.
 
 VIII.- A los Oficiales Generales sin mando o comisión, un Criado de primera.
 
-IX.- A los Jefes y Oficiales en disponibilidad, ninguno. X.- A los Jefes de dependencia, cuando arranchen constantemente en sus Establecimientos, se les considerará en sus categorías como embarcados; pero cuando no arranchen en la forma expresada, no tendrán derecho al Cocinero y al Mayordomo.
+IX.- A los Jefes y Oficiales en disponibilidad, ninguno.
+
+X.- A los Jefes de dependencia, cuando arranchen constantemente en sus Establecimientos, se les considerará en sus categorías como embarcados; pero cuando no arranchen en la forma expresada, no tendrán derecho al Cocinero y al Mayordomo.
 
 TRATADO V
 

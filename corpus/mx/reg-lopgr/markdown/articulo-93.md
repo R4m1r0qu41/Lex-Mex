@@ -33,7 +33,9 @@ VI. Diseñar, concertar, coordinar y dar seguimiento a los sistemas y mecanismos
 
 VII. Realizar estudios criminógenos y geodelictivos y operar sistemas de procesamiento de información y dictar los lineamientos sobre incidencia delictiva georeferida para captar y sistematizar la información que le permitan la planeación integral del combate a la delincuencia, en coordinación con las unidades administrativas y órganos desconcentrados competentes de la Procuraduría;
 
-VIII. Diseñar y promover el intercambio de información, para la oportuna prevención, detección e investigación de la delincuencia, en coordinación con las unidades administrativas y órganos desconcentrados competentes; IX. Integrar y dar seguimiento, en coordinación con las unidades administrativas y órganos desconcentrados competentes de la Institución, a la ejecución de los instrumentos programáticos en materia de control de drogas;
+VIII. Diseñar y promover el intercambio de información, para la oportuna prevención, detección e investigación de la delincuencia, en coordinación con las unidades administrativas y órganos desconcentrados competentes;
+
+IX. Integrar y dar seguimiento, en coordinación con las unidades administrativas y órganos desconcentrados competentes de la Institución, a la ejecución de los instrumentos programáticos en materia de control de drogas;
 
 X. Operar los sistemas de seguimiento y evaluación de los diversos instrumentos programáticos que se establezcan para el control de la delincuencia, en coordinación con las unidades administrativas y órganos desconcentrados competentes;
 

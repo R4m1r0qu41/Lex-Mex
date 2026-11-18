@@ -1,12 +1,12 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:21:term-usage:1417-1435",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:21:term-usage:1318-1336",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
     "span": "Secretario Técnico",
-    "start_char": 1417,
-    "end_char": 1435
+    "start_char": 1318,
+    "end_char": 1336
   },
   {
     "schema_version": "0.1.0",

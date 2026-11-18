@@ -21,7 +21,9 @@ Esta [Ley](articulo-3o.md) tiene por objeto: Párrafo reformado DOF 13-07-2018
 
 I. Garantizar el derecho a un medio ambiente sano y establecer la concurrencia de facultades de la federación, las entidades federativas y los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero;
 
-II. Regular las emisiones de gases y compuestos de efecto invernadero para que México contribuya a lograr la estabilización de sus concentraciones en la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático considerando, en su caso, lo previsto por el artículo 2o. de la [Convención](articulo-3o.md) Marco de las Naciones Unidas sobre el Cambio Climático y demás disposiciones derivadas de la misma; Fracción reformada DOF 13-07-2018 III. Regular las acciones para la mitigación y adaptación al cambio climático;
+II. Regular las emisiones de gases y compuestos de efecto invernadero para que México contribuya a lograr la estabilización de sus concentraciones en la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático considerando, en su caso, lo previsto por el artículo 2o. de la [Convención](articulo-3o.md) Marco de las Naciones Unidas sobre el Cambio Climático y demás disposiciones derivadas de la misma; Fracción reformada DOF 13-07-2018
+
+III. Regular las acciones para la mitigación y adaptación al cambio climático;
 
 IV. Reducir la vulnerabilidad de la población y los ecosistemas del país frente a los efectos adversos del cambio climático, así como crear y fortalecer las capacidades nacionales de respuesta al fenómeno;
 

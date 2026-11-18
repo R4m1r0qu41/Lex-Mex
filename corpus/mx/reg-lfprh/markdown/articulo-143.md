@@ -21,7 +21,9 @@ El pago de las remuneraciones a los agregados navales o militares deberá estar 
 
 Para el ejercicio y pago de las remuneraciones al personal militar se deberá observar lo siguiente:
 
-I. El pago se realizará con base en las plantillas orgánicas que al efecto elaboren las secretarías de la Defensa Nacional y de Marina, según corresponda. Dichas plantillas se remitirán a la Secretaría, así como sus modificaciones, en los plazos que ésta determine; II. Las modificaciones al importe de haberes, sobrehaberes y asignaciones correspondientes a los miembros de las fuerzas armadas, salvo disposición expresa del Presidente de la República, requerirán de la conformidad de la Secretaría;
+I. El pago se realizará con base en las plantillas orgánicas que al efecto elaboren las secretarías de la Defensa Nacional y de Marina, según corresponda. Dichas plantillas se remitirán a la Secretaría, así como sus modificaciones, en los plazos que ésta determine;
+
+II. Las modificaciones al importe de haberes, sobrehaberes y asignaciones correspondientes a los miembros de las fuerzas armadas, salvo disposición expresa del Presidente de la República, requerirán de la conformidad de la Secretaría;
 
 III. Al dejar una zona insalubre o de vida cara con motivo del desempeño de una comisión, sólo se pagarán sobrehaberes durante 30 días como máximo. Después de este lapso, si continúa la comisión se suspenderá dicho pago;
 

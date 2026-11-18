@@ -15,5 +15,16 @@
   "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
   "extracted_text_sha256": "a8ffd55443f150970765e6866cde4c7720e3cd91b64db0622782518ff52d2b6a",
   "parser_version": "0.1.0",
-  "status": "in_force"
+  "status": "repealed",
+  "source_repeal_notice": {
+    "source_note": "Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023",
+    "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+    "formal_publication_url": "https://dof.gob.mx/nota_detalle.php?codigo=5709440&fecha=24/11/2023",
+    "formal_source_sha256": "12ebece74f64ac0a9380c71657edb1ece1b0508bc95386e031b985d1c5836a82",
+    "reviewer": "JRH",
+    "captured_at": "2026-11-13T01:52:54Z",
+    "rationale": "JRH decision 2026-11-12: declarada inválida por la SCJN (AI 71/2023 y acumuladas, DOF 24-11-2023), no abrogada; surte efectos a partir de la notificación al Congreso de la Unión, 23-06-2023. Recorded as repealed because the schema has no invalidity status; the revived law is lgsmime.",
+    "decision_source": "docs/federal-lgmime-invalidity-decision-2026-11-12.md",
+    "decision_source_sha256": "726683d321fc87e9acfadad7af92ca4e5f0e269faa1005f74ba2896d84f69c60"
+  }
 }

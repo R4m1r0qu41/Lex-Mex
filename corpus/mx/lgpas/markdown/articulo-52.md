@@ -7,8 +7,8 @@ provision_type: article
 number: "52"
 aliases: ["LGPAS — Artículo 52"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -19,7 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de permiso deberá contener la información siguiente:
 
-I. Nombre y domicilio del solicitante; II. Región donde pretenda llevar a cabo la actividad;
+I. Nombre y domicilio del solicitante;
+
+II. Región donde pretenda llevar a cabo la actividad;
 
 III. La duración que se pretenda;
 

@@ -23,7 +23,9 @@ I. Los acreedores por fianzas;
 
 II. Los acreedores por contratos de reafianzamiento;
 
-III. Los créditos que según las leyes que los rijan tengan un privilegio especial; IV. Los créditos laborales diferentes a los referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias;
+III. Los créditos que según las leyes que los rijan tengan un privilegio especial;
+
+IV. Los créditos laborales diferentes a los referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias;
 
 V. Los créditos fiscales;
 

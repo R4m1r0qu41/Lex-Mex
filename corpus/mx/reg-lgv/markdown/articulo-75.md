@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["REG-LGV — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -37,4 +37,6 @@ VII. Presentar al Pleno de la Comisión Ejecutiva los informes relacionados con 
 
 VIII. Someter al Pleno de la Comisión Ejecutiva la contratación de auditores externos para realizar la auditoría externa de manera anual al Fondo, y entregar para su conocimiento y aprobación el resultado de la misma;
 
-IX. Presentar para aprobación del Pleno de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar, y X. Las demás que señalen las disposiciones aplicables a los fideicomisos públicos.
+IX. Presentar para aprobación del Pleno de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar, y
+
+X. Las demás que señalen las disposiciones aplicables a los fideicomisos públicos.

@@ -19,6 +19,8 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por la revisión de los documentos y, en su caso, autorización como inspector naval privado a personas físicas o morales, se pagarán anualmente las siguientes cuotas:
 
-I. Por persona moral ............................................................................................ $35,473.27 II. Por persona física ............................................................................................... $4,702.93
+I. Por persona moral ............................................................................................ $35,473.27
+
+II. Por persona física ............................................................................................... $4,702.93
 
 Artículo adicionado DOF 09-12-2019

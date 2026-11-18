@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LFLL — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf
 source_sha256: 1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd
 ---
@@ -43,6 +43,8 @@ XI. Impulsar la participación ciudadana en todos los programas relacionados con
 
 XII. Fomentar la cultura de respeto a los derechos de autor;
 
-XIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades; XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y
+XIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades;
+
+XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y
 
 XV. Expedir su manual de operación conforme al cual regulará su organización, funcionamiento y trabajo.

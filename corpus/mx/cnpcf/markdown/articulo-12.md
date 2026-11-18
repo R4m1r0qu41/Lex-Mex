@@ -31,4 +31,6 @@ V. Las de prenda;
 
 VI. Las de herencia;
 
-VII. Las de posesión, y VIII. Las demás acciones que tiendan a ejercitar un derecho contra una persona a título de propietaria o poseedora y no de obligada.
+VII. Las de posesión, y
+
+VIII. Las demás acciones que tiendan a ejercitar un derecho contra una persona a título de propietaria o poseedora y no de obligada.

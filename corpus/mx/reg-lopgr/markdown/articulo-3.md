@@ -105,7 +105,9 @@ XV. Dirección General de Atención y Seguimiento a Recomendaciones y Conciliaci
 
 XVI. Dirección General de Promoción de la Cultura en Derechos Humanos, Quejas e Inspección;
 
-XVII. Dirección General de Prevención del Delito y Servicios a la Comunidad; XVIII. Dirección General de Programación y Presupuesto;
+XVII. Dirección General de Prevención del Delito y Servicios a la Comunidad;
+
+XVIII. Dirección General de Programación y Presupuesto;
 
 XIX. Dirección General de Recursos Materiales y Servicios Generales;
 
@@ -155,7 +157,9 @@ XLI. Dirección General de Laboratorios Criminalísticos;
 
 XLII. Dirección General de Políticas Públicas, Vinculación y Coordinación Interinstitucional;
 
-XLIII. Dirección General de Planeación y Proyectos Estratégicos; XLIV. Dirección General de Formación Profesional, y
+XLIII. Dirección General de Planeación y Proyectos Estratégicos;
+
+XLIV. Dirección General de Formación Profesional, y
 
 XLV. Dirección General del [Servicio de Carrera](articulo-2.md);
 

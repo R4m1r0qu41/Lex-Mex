@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LPF — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf
 source_sha256: fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885
 ---
@@ -29,7 +29,9 @@ IV. Condiciones socioeconómicas del infractor;
 
 V. Cargo, comisión, categoría jerárquica y antigüedad;
 
-VI. Conducta observada con anterioridad al hecho; VII. Circunstancias de ejecución;
+VI. Conducta observada con anterioridad al hecho;
+
+VII. Circunstancias de ejecución;
 
 VIII. Intencionalidad o negligencia;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["LGMDFP — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -21,7 +21,9 @@ Las sanciones para el delito de desaparición forzada de personas previstas en e
 
 I. Durante o después de la desaparición, la [Persona Desaparecida](articulo-4.md) muera debido a cualquier alteración de su salud que sea consecuencia de dicha desaparición, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito;
 
-II. La Persona Desaparecida sea niña, niño o adolescente, mujer, mujer embarazada, persona con discapacidad o persona mayor; III. La condición de persona migrante o afrodescendiente, la pertenencia a un pueblo o comunidad indígena o cualquier otro equiparable, sea la motivación para cometer el delito;
+II. La Persona Desaparecida sea niña, niño o adolescente, mujer, mujer embarazada, persona con discapacidad o persona mayor;
+
+III. La condición de persona migrante o afrodescendiente, la pertenencia a un pueblo o comunidad indígena o cualquier otro equiparable, sea la motivación para cometer el delito;
 
 IV. La identidad de género o la orientación sexual de la víctima sea la motivación para cometer el delito;
 

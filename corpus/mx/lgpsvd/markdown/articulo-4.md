@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LGPSVD — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf
 source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 ---
@@ -33,7 +33,9 @@ VI. Programa Nacional: El Programa Nacional para la Prevención Social de la [Vi
 
 VII. Programa anual: El programa de trabajo anual del [Centro Nacional](articulo-4.md);
 
-VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia; IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia;
+
+IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 X. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo, y
 

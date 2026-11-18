@@ -33,6 +33,8 @@ VI. Incumplan con la obligación de proporcionar en tiempo y forma la informaci�
 
 VII. Incumplan con la obligación de proporcionar información al Congreso de la Unión en los términos de esta Ley y otras disposiciones aplicables;
 
-VIII. Realicen acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de las dependencias, unidades responsables y programas; IX. Realicen acciones u omisiones que deliberadamente generen subejercicios por un incumplimiento de los objetivos y metas anuales en sus presupuestos, y
+VIII. Realicen acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de las dependencias, unidades responsables y programas;
+
+IX. Realicen acciones u omisiones que deliberadamente generen subejercicios por un incumplimiento de los objetivos y metas anuales en sus presupuestos, y
 
 X. Infrinjan las disposiciones generales que emitan la Secretaría, la Función Pública y la [Auditoría](articulo-2.md), en el ámbito de sus respectivas atribuciones.

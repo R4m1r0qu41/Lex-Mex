@@ -7,8 +7,8 @@ provision_type: article
 number: "76"
 aliases: ["LGMHCTI — Artículo 76"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -31,7 +31,9 @@ V. Aportar elementos e insumos para la construcción e implementación de polít
 
 VI. Impulsar el desarrollo de tecnologías estratégicas de vanguardia, así como la consolidación de un ecosistema nacional de innovación abierta, como motores de la transformación social del país;
 
-VII. Contribuir a que el conocimiento científico y sus aplicaciones tecnológicas sean de acceso público y se incorporen a los procesos productivos e industriales, el comercio, la prestación de servicios y el consumo popular, para el bienestar de la sociedad mexicana, con responsabilidad ética, social y ambiental; VIII. Promover la aplicación novedosa de las ciencias y las tecnologías en el mejoramiento o generación de nuevos productos, servicios, procesos productivos o sistemas de gestión, con responsabilidad ética, social y ambiental;
+VII. Contribuir a que el conocimiento científico y sus aplicaciones tecnológicas sean de acceso público y se incorporen a los procesos productivos e industriales, el comercio, la prestación de servicios y el consumo popular, para el bienestar de la sociedad mexicana, con responsabilidad ética, social y ambiental;
+
+VIII. Promover la aplicación novedosa de las ciencias y las tecnologías en el mejoramiento o generación de nuevos productos, servicios, procesos productivos o sistemas de gestión, con responsabilidad ética, social y ambiental;
 
 IX. Facilitar la planeación estratégica y participativa en el sector de humanidades, ciencias, tecnologías e innovación, así como promover una política integral de acceso universal al conocimiento humanístico y científico y a sus beneficios sociales;
 

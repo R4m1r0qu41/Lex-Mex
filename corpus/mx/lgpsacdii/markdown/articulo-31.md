@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["LGPSACDII — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -35,7 +35,9 @@ VII. Impulsar la investigación y la generación de estudios que contribuyan a l
 
 VIII. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios para la atención, cuidado y desarrollo integral infantil, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos;
 
-IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados; X. Promover la generación, actualización y aplicación de normas oficiales mexicanas que permitan la regulación de los servicios para la atención, cuidado y desarrollo integral infantil;
+IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados;
+
+X. Promover la generación, actualización y aplicación de normas oficiales mexicanas que permitan la regulación de los servicios para la atención, cuidado y desarrollo integral infantil;
 
 XI. Promover la participación de las familias, la sociedad civil y niñas y niños en la observación y acompañamiento de la política nacional y de los servicios, y
 

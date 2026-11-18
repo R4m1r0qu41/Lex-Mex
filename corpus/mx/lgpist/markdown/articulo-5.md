@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGPIST — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf
 source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 ---
@@ -63,7 +63,9 @@ XXI. Protocolo Homologado: Protocolo Homologado para la Investigación del Delit
 
 XXII. Registro Nacional: El Registro Nacional del Delito de Tortura.
 
-XXIII. Reporte: El Reporte Administrativo de Detención. XXIV. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, de las entidades federativas, municipal y de las demarcaciones territoriales de la Ciudad de México, incluyendo las administraciones centralizadas, los organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, empresas productivas del Estado, fideicomisos públicos considerados entidades paraestatales, en los órganos constitucionales autónomos, en el Congreso de la Unión y las legislaturas de las entidades federativas, o en los poderes judiciales federales y de las entidades federativas.
+XXIII. Reporte: El Reporte Administrativo de Detención.
+
+XXIV. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, de las entidades federativas, municipal y de las demarcaciones territoriales de la Ciudad de México, incluyendo las administraciones centralizadas, los organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, empresas productivas del Estado, fideicomisos públicos considerados entidades paraestatales, en los órganos constitucionales autónomos, en el Congreso de la Unión y las legislaturas de las entidades federativas, o en los poderes judiciales federales y de las entidades federativas.
 
 XXV. Víctimas: Aquellas a que se refiere el artículo [108](../../cnpp/markdown/articulo-108.md) del Código Nacional de Procedimientos Penales.
 

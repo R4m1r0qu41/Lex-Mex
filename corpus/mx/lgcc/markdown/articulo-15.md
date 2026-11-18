@@ -17,7 +17,9 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 15
 
-El Instituto Nacional de Ecología y Cambio Climático ([INECC](articulo-3o.md)) tiene por objeto: Párrafo reformado DOF 13-07-2018 I. Coordinar y realizar estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de cambio climático, protección al ambiente y preservación y restauración del equilibrio ecológico;
+El Instituto Nacional de Ecología y Cambio Climático ([INECC](articulo-3o.md)) tiene por objeto: Párrafo reformado DOF 13-07-2018
+
+I. Coordinar y realizar estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de cambio climático, protección al ambiente y preservación y restauración del equilibrio ecológico;
 
 II. Brindar apoyo técnico y científico a la secretaría para formular, conducir y evaluar la política nacional en materia de equilibrio ecológico y protección del medio ambiente;
 

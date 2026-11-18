@@ -7,7 +7,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "I",
     "start_char": 64,
-    "end_char": 736,
+    "end_char": 422,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "term": "Administración Integral de Riesgos",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "II",
+    "start_char": 422,
+    "end_char": 730,
     "basis": "express_definition"
   },
   {
@@ -17,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "III",
-    "start_char": 736,
-    "end_char": 1126,
+    "start_char": 730,
+    "end_char": 1120,
     "basis": "express_definition"
   },
   {
@@ -28,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "IV",
-    "start_char": 1126,
-    "end_char": 1508,
+    "start_char": 1120,
+    "end_char": 1502,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "V",
-    "start_char": 1508,
-    "end_char": 2051,
+    "start_char": 1502,
+    "end_char": 2045,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "VI",
-    "start_char": 2051,
-    "end_char": 2595,
+    "start_char": 2045,
+    "end_char": 2589,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "VII",
-    "start_char": 2595,
-    "end_char": 2894,
+    "start_char": 2589,
+    "end_char": 2888,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "VIII",
-    "start_char": 2894,
-    "end_char": 3361,
+    "start_char": 2888,
+    "end_char": 3355,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "IX",
-    "start_char": 3361,
-    "end_char": 3422,
+    "start_char": 3355,
+    "end_char": 3416,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "X",
-    "start_char": 3422,
-    "end_char": 3801,
+    "start_char": 3416,
+    "end_char": 3795,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XI",
-    "start_char": 3801,
-    "end_char": 3890,
+    "start_char": 3795,
+    "end_char": 3884,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XII",
-    "start_char": 3890,
-    "end_char": 4062,
+    "start_char": 3884,
+    "end_char": 4056,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XIII",
-    "start_char": 4062,
-    "end_char": 4660,
+    "start_char": 4056,
+    "end_char": 4654,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XIV",
-    "start_char": 4660,
-    "end_char": 5675,
+    "start_char": 4654,
+    "end_char": 5394,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:convenio-judicial",
+    "term": "Convenio Judicial",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XIV Bis",
+    "start_char": 5394,
+    "end_char": 5663,
     "basis": "express_definition"
   },
   {
@@ -149,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XV",
-    "start_char": 5675,
-    "end_char": 5957,
+    "start_char": 5663,
+    "end_char": 5945,
     "basis": "express_definition"
   },
   {
@@ -160,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XVI",
-    "start_char": 5957,
-    "end_char": 6281,
+    "start_char": 5945,
+    "end_char": 6269,
     "basis": "express_definition"
   },
   {
@@ -171,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XVIII",
-    "start_char": 6298,
-    "end_char": 6500,
+    "start_char": 6286,
+    "end_char": 6488,
     "basis": "express_definition"
   },
   {
@@ -182,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XIX",
-    "start_char": 6500,
-    "end_char": 6603,
+    "start_char": 6488,
+    "end_char": 6591,
     "basis": "express_definition"
   },
   {
@@ -193,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XX",
-    "start_char": 6603,
-    "end_char": 6840,
+    "start_char": 6591,
+    "end_char": 6828,
     "basis": "express_definition"
   },
   {
@@ -204,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXI",
-    "start_char": 6840,
-    "end_char": 7336,
+    "start_char": 6828,
+    "end_char": 7324,
     "basis": "express_definition"
   },
   {
@@ -215,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXII",
-    "start_char": 7336,
-    "end_char": 7477,
+    "start_char": 7324,
+    "end_char": 7465,
     "basis": "express_definition"
   },
   {
@@ -226,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXIII",
-    "start_char": 7477,
-    "end_char": 8073,
+    "start_char": 7465,
+    "end_char": 8061,
     "basis": "express_definition"
   },
   {
@@ -237,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXIII Bis",
-    "start_char": 8073,
-    "end_char": 8577,
+    "start_char": 8061,
+    "end_char": 8565,
     "basis": "express_definition"
   },
   {
@@ -248,8 +270,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXIV",
-    "start_char": 8577,
-    "end_char": 10320,
+    "start_char": 8565,
+    "end_char": 10173,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:firma-electronica-avanzada-o-fiable",
+    "term": "Firma Electrónica Avanzada o Fiable",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXIV Bis",
+    "start_char": 10173,
+    "end_char": 10302,
     "basis": "express_definition"
   },
   {
@@ -259,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXV",
-    "start_char": 10320,
-    "end_char": 11865,
+    "start_char": 10302,
+    "end_char": 11834,
     "basis": "express_definition"
   },
   {
@@ -270,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXV Bis",
-    "start_char": 11865,
-    "end_char": 12527,
+    "start_char": 11834,
+    "end_char": 12496,
     "basis": "express_definition"
   },
   {
@@ -281,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXVI",
-    "start_char": 12527,
-    "end_char": 12726,
+    "start_char": 12496,
+    "end_char": 12695,
     "basis": "express_definition"
   },
   {
@@ -292,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXVII",
-    "start_char": 12726,
-    "end_char": 12988,
+    "start_char": 12695,
+    "end_char": 12957,
     "basis": "express_definition"
   },
   {
@@ -303,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXVIII",
-    "start_char": 12988,
-    "end_char": 13193,
+    "start_char": 12957,
+    "end_char": 13162,
     "basis": "express_definition"
   },
   {
@@ -314,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXIX",
-    "start_char": 13193,
-    "end_char": 13424,
+    "start_char": 13162,
+    "end_char": 13393,
     "basis": "express_definition"
   },
   {
@@ -325,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXX",
-    "start_char": 13424,
-    "end_char": 13632,
+    "start_char": 13393,
+    "end_char": 13601,
     "basis": "express_definition"
   },
   {
@@ -336,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXX Bis",
-    "start_char": 13632,
-    "end_char": 14140,
+    "start_char": 13601,
+    "end_char": 14109,
     "basis": "express_definition"
   },
   {
@@ -347,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXI",
-    "start_char": 14140,
-    "end_char": 14210,
+    "start_char": 14109,
+    "end_char": 14179,
     "basis": "express_definition"
   },
   {
@@ -358,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXII",
-    "start_char": 14210,
-    "end_char": 14299,
+    "start_char": 14179,
+    "end_char": 14268,
     "basis": "express_definition"
   },
   {
@@ -369,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXIII",
-    "start_char": 14299,
-    "end_char": 14351,
+    "start_char": 14268,
+    "end_char": 14320,
     "basis": "express_definition"
   },
   {
@@ -380,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXIV",
-    "start_char": 14351,
-    "end_char": 14396,
+    "start_char": 14320,
+    "end_char": 14365,
     "basis": "express_definition"
   },
   {
@@ -391,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXV",
-    "start_char": 14396,
-    "end_char": 14685,
+    "start_char": 14365,
+    "end_char": 14654,
     "basis": "express_definition"
   },
   {
@@ -402,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXVI",
-    "start_char": 14685,
-    "end_char": 14986,
+    "start_char": 14654,
+    "end_char": 14955,
     "basis": "express_definition"
   },
   {
@@ -413,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXVII",
-    "start_char": 14986,
-    "end_char": 15170,
+    "start_char": 14955,
+    "end_char": 15139,
     "basis": "express_definition"
   },
   {
@@ -424,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXVIII",
-    "start_char": 15170,
-    "end_char": 15351,
+    "start_char": 15139,
+    "end_char": 15320,
     "basis": "express_definition"
   },
   {
@@ -435,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXXIX",
-    "start_char": 15351,
-    "end_char": 17238,
+    "start_char": 15320,
+    "end_char": 17207,
     "basis": "express_definition"
   },
   {
@@ -446,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XL",
-    "start_char": 17238,
-    "end_char": 17642,
+    "start_char": 17207,
+    "end_char": 17611,
     "basis": "express_definition"
   },
   {
@@ -457,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLI",
-    "start_char": 17642,
-    "end_char": 17805,
+    "start_char": 17611,
+    "end_char": 17774,
     "basis": "express_definition"
   },
   {
@@ -468,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLI Bis",
-    "start_char": 17805,
-    "end_char": 17967,
+    "start_char": 17774,
+    "end_char": 17936,
     "basis": "express_definition"
   },
   {
@@ -479,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLII",
-    "start_char": 17967,
-    "end_char": 18064,
+    "start_char": 17936,
+    "end_char": 18033,
     "basis": "express_definition"
   },
   {
@@ -490,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLIII",
-    "start_char": 18064,
-    "end_char": 18224,
+    "start_char": 18033,
+    "end_char": 18193,
     "basis": "express_definition"
   },
   {
@@ -501,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLIV",
-    "start_char": 18224,
-    "end_char": 18761,
+    "start_char": 18193,
+    "end_char": 18730,
     "basis": "express_definition"
   },
   {
@@ -512,8 +545,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLV",
-    "start_char": 18761,
-    "end_char": 21162,
+    "start_char": 18730,
+    "end_char": 21131,
     "basis": "express_definition"
   },
   {
@@ -523,8 +556,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLVI",
-    "start_char": 21162,
-    "end_char": 21291,
+    "start_char": 21131,
+    "end_char": 21260,
     "basis": "express_definition"
   },
   {
@@ -534,8 +567,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLVII",
-    "start_char": 21291,
-    "end_char": 21358,
+    "start_char": 21260,
+    "end_char": 21327,
     "basis": "express_definition"
   },
   {
@@ -545,8 +578,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLVIII",
-    "start_char": 21358,
-    "end_char": 21643,
+    "start_char": 21327,
+    "end_char": 21612,
     "basis": "express_definition"
   },
   {
@@ -556,8 +589,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLIX",
-    "start_char": 21643,
-    "end_char": 22673,
+    "start_char": 21612,
+    "end_char": 22642,
     "basis": "express_definition"
   },
   {
@@ -567,8 +600,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "L",
-    "start_char": 22673,
-    "end_char": 22934,
+    "start_char": 22642,
+    "end_char": 22903,
     "basis": "express_definition"
   },
   {
@@ -578,8 +611,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LI",
-    "start_char": 22934,
-    "end_char": 23201,
+    "start_char": 22903,
+    "end_char": 23170,
     "basis": "express_definition"
   },
   {
@@ -589,8 +622,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LII",
-    "start_char": 23201,
-    "end_char": 23913,
+    "start_char": 23170,
+    "end_char": 23870,
     "basis": "express_definition"
   },
   {
@@ -600,8 +633,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LIII",
-    "start_char": 23913,
-    "end_char": 24360,
+    "start_char": 23870,
+    "end_char": 24317,
     "basis": "express_definition"
   },
   {
@@ -611,8 +644,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LIV",
-    "start_char": 24360,
-    "end_char": 24512,
+    "start_char": 24317,
+    "end_char": 24469,
     "basis": "express_definition"
   },
   {
@@ -622,8 +655,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LV",
-    "start_char": 24512,
-    "end_char": 24713,
+    "start_char": 24469,
+    "end_char": 24670,
     "basis": "express_definition"
   },
   {
@@ -633,8 +666,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LVI",
-    "start_char": 24713,
-    "end_char": 24793,
+    "start_char": 24670,
+    "end_char": 24750,
     "basis": "express_definition"
   },
   {
@@ -644,8 +677,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "LVII",
-    "start_char": 24793,
-    "end_char": 25057,
+    "start_char": 24750,
+    "end_char": 25014,
     "basis": "express_definition"
   }
 ]

@@ -21,7 +21,9 @@ El monto que determine el juez para la reparación del daño deberá resarcir a 
 
 Ese resarcimiento comprenderá la devolución de los bienes o el pago por los daños o pérdidas sufridos, el reembolso de los gastos realizados como consecuencia de la victimización, la prestación de servicios y la restitución de sus derechos, incluyendo:
 
-I. Costos de tratamientos médicos, medicinas, exámenes clínicos e intervenciones necesarias, prótesis o aparatos ortopédicos, de ser el caso, hasta la total recuperación de la víctima y su rehabilitación; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. Costos de terapias o tratamientos psiquiátrico, psicológico y rehabilitación física, social y ocupacional hasta la total recuperación de la víctima;
+I. Costos de tratamientos médicos, medicinas, exámenes clínicos e intervenciones necesarias, prótesis o aparatos ortopédicos, de ser el caso, hasta la total recuperación de la víctima y su rehabilitación;
+
+II. Costos de terapias o tratamientos psiquiátrico, psicológico y rehabilitación física, social y ocupacional hasta la total recuperación de la víctima;
 
 III. Costos de transporte, incluido el de retorno a su lugar de origen, si así lo decide la víctima, gastos de alimentación, vivienda provisional, vestido y los que sean necesarios;
 

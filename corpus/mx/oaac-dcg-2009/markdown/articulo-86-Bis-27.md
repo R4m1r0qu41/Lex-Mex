@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 86 Bis 27
 
-Las uniones de crédito llevarán a cabo una auditoría interna en materia de crédito, que permita establecer y dar seguimiento a procedimientos y controles relativos a las operaciones que impliquen algún riesgo y a la observancia de los límites de exposición al riesgo que las uniones definan en su Administración Integral de Riesgos. El área encargada de realizar las funciones a que se refiere el presente artículo será la misma a que hace referencia el artículo [121](articulo-121.md) de las presentes disposiciones.
+Las uniones de crédito llevarán a cabo una auditoría interna en materia de crédito, que permita establecer y dar seguimiento a procedimientos y controles relativos a las operaciones que impliquen algún riesgo y a la observancia de los límites de exposición al riesgo que las uniones definan en su [Administración Integral de Riesgos](articulo-1.md). El área encargada de realizar las funciones a que se refiere el presente artículo será la misma a que hace referencia el artículo [121](articulo-121.md) de las presentes disposiciones.

@@ -21,7 +21,7 @@ Los presidentes de los comités que ejerzan las funciones en materia de práctic
 
 I. En materia de prácticas societarias:
 
-a) Las observaciones respecto del desempeño de los Directivos Relevantes.
+a) Las observaciones respecto del desempeño de los [Directivos Relevantes](articulo-5o.md).
 
 b) Los actos con [Personas Relacionadas](articulo-5o.md), durante el ejercicio que se informa, detallando las características de los que resulten significativos.
 

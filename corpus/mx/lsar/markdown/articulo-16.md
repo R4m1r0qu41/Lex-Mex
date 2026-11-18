@@ -25,7 +25,9 @@ II. Vigilar el desarrollo de los sistemas de ahorro para el retiro para prevenir
 
 III. Conocer lo referente a la administración de cuentas individuales y a los procedimientos a través de los cuales se transmitan los recursos o la información entre las dependencias, entidades públicas, institutos de seguridad social y participantes en los sistemas de ahorro para el retiro;
 
-IV. Conocer sobre las autorizaciones para la constitución de las administradoras y sociedades de inversión; V. Conocer sobre las modificaciones y revocaciones de las autorizaciones otorgadas a las administradoras y sociedades de inversión;
+IV. Conocer sobre las autorizaciones para la constitución de las administradoras y sociedades de inversión;
+
+V. Conocer sobre las modificaciones y revocaciones de las autorizaciones otorgadas a las administradoras y sociedades de inversión;
 
 VI. Aprobar los nombramientos de los contralores normativos y de los consejeros independientes de las administradoras y de las sociedades de inversión;
 
@@ -53,4 +55,6 @@ XVII. Conocer de la Información relativa a las reclamaciones presentadas ante l
 
 XVIII. Dar seguimiento a las publicaciones que está obligada a realizar la Comisión;
 
-XIX. Presentar un informe anual por escrito sobre el desarrollo de sus actividades a la Junta de Gobierno de la Comisión con las recomendaciones pertinentes para el mejor funcionamiento de los sistemas; y XX. Someter a consideración de la Junta de Gobierno los demás asuntos que estime pertinentes.
+XIX. Presentar un informe anual por escrito sobre el desarrollo de sus actividades a la Junta de Gobierno de la Comisión con las recomendaciones pertinentes para el mejor funcionamiento de los sistemas; y
+
+XX. Someter a consideración de la Junta de Gobierno los demás asuntos que estime pertinentes.

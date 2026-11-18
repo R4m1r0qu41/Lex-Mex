@@ -33,7 +33,7 @@ V. El trabajo o servicios forzados, en los términos del artículo [22](articulo
 
 VI. La mendicidad forzosa, en los términos del artículo [24](articulo-24.md) de la presente Ley;
 
-VII. La utilización de personas menores de dieciocho años o que no tenga la capacidad de comprender el significado del hecho, o no tenga la capacidad de resistir la conducta, en actividades delictivas, en los términos del artículo [25](articulo-25.md) de la presente Ley; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Fracción reformada DOF 07-06-2024
+VII. La utilización de personas menores de dieciocho años o que no tenga la capacidad de comprender el significado del hecho, o no tenga la capacidad de resistir la conducta, en actividades delictivas, en los términos del artículo [25](articulo-25.md) de la presente Ley; Fracción reformada DOF 07-06-2024
 
 VIII. La adopción ilegal de persona menor de dieciocho años, en los términos de los artículos [26](articulo-26.md) y [27](articulo-27.md) de la presente Ley;
 

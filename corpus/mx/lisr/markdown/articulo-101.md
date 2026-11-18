@@ -17,7 +17,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 # Artículo 101
 
-Para los efectos de esta Sección, se consideran ingresos acumulables por la realización de actividades empresariales o por la prestación de servicios profesionales, además de los señalados en el [artículo anterior](articulo-100.md) y en otros artículos de esta Ley, los siguientes: I. Tratándose de condonaciones, quitas o remisiones, de deudas relacionadas con la actividad empresarial o con el servicio profesional, así como de las deudas antes citadas que se dejen de pagar por prescripción de la acción del acreedor, la diferencia que resulte de restar del principal actualizado por inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
+Para los efectos de esta Sección, se consideran ingresos acumulables por la realización de actividades empresariales o por la prestación de servicios profesionales, además de los señalados en el [artículo anterior](articulo-100.md) y en otros artículos de esta Ley, los siguientes:
+
+I. Tratándose de condonaciones, quitas o remisiones, de deudas relacionadas con la actividad empresarial o con el servicio profesional, así como de las deudas antes citadas que se dejen de pagar por prescripción de la acción del acreedor, la diferencia que resulte de restar del principal actualizado por inflación, el monto de la quita, condonación o remisión, al momento de su liquidación o reestructuración, siempre y cuando la liquidación total sea menor al principal actualizado y se trate de quitas, condonaciones o remisiones otorgadas por instituciones del sistema financiero.
 
 En el caso de condonaciones, quitas o remisiones de deudas otorgadas por personas distintas a instituciones del sistema financiero, se acumulará el monto total en dichas condonaciones, quitas o remisiones.
 

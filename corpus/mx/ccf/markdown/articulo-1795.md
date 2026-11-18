@@ -17,7 +17,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1795
 
-El contrato puede ser invalidado: I. Por incapacidad legal de las partes o de una de ellas;
+El contrato puede ser invalidado:
+
+I. Por incapacidad legal de las partes o de una de ellas;
 
 II. Por vicios del consentimiento;
 

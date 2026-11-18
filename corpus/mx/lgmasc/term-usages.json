@@ -154,30 +154,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5977-6047",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5978-6048",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
     "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 5977,
-    "end_char": 6047
+    "start_char": 5978,
+    "end_char": 6048
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6223-6243",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6224-6244",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
     "span": "Sistema de Convenios",
-    "start_char": 6223,
-    "end_char": 6243
+    "start_char": 6224,
+    "end_char": 6244
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6560-6563",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6561-6564",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 6560,
-    "end_char": 6563
+    "start_char": 6561,
+    "end_char": 6564
   },
   {
     "schema_version": "0.1.0",
@@ -352,48 +352,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:253-298",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:254-299",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
     "span": "Plataforma Nacional de Personas Facilitadoras",
-    "start_char": 253,
-    "end_char": 298
+    "start_char": 254,
+    "end_char": 299
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:624-645",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:625-646",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
     "span": "Sistemas de Convenios",
-    "start_char": 624,
-    "end_char": 645
+    "start_char": 625,
+    "end_char": 646
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:724-732",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:725-733",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
     "span": "Consejos",
-    "start_char": 724,
-    "end_char": 732
+    "start_char": 725,
+    "end_char": 733
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:982-985",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:983-986",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 982,
-    "end_char": 985
+    "start_char": 983,
+    "end_char": 986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:1406-1409",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:1407-1410",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 1406,
-    "end_char": 1409
+    "start_char": 1407,
+    "end_char": 1410
   },
   {
     "schema_version": "0.1.0",
@@ -451,30 +451,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1396-1448",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1397-1449",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
     "span": "Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 1396,
-    "end_char": 1448
+    "start_char": 1397,
+    "end_char": 1449
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1535-1538",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1536-1539",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 1535,
-    "end_char": 1538
+    "start_char": 1536,
+    "end_char": 1539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1751-1756",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1752-1757",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Leyes",
-    "start_char": 1751,
-    "end_char": 1756
+    "start_char": 1752,
+    "end_char": 1757
   },
   {
     "schema_version": "0.1.0",
@@ -523,30 +523,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1201-1235",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1202-1236",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
     "span": "Registro de Personas Facilitadoras",
-    "start_char": 1201,
-    "end_char": 1235
+    "start_char": 1202,
+    "end_char": 1236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1652-1696",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1653-1697",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
     "span": "Sistema Nacional de Información de Convenios",
-    "start_char": 1652,
-    "end_char": 1696
+    "start_char": 1653,
+    "end_char": 1697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1783-1803",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1784-1804",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
     "span": "Sistema de Convenios",
-    "start_char": 1783,
-    "end_char": 1803
+    "start_char": 1784,
+    "end_char": 1804
   },
   {
     "schema_version": "0.1.0",
@@ -649,57 +649,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:724-733",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:725-734",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
     "span": "Convenios",
-    "start_char": 724,
-    "end_char": 733
+    "start_char": 725,
+    "end_char": 734
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1145-1190",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1146-1191",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
     "span": "Plataforma Nacional de Personas Facilitadoras",
-    "start_char": 1145,
-    "end_char": 1190
+    "start_char": 1146,
+    "end_char": 1191
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1477-1484",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1478-1485",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
     "span": "Consejo",
-    "start_char": 1477,
-    "end_char": 1484
+    "start_char": 1478,
+    "end_char": 1485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1676-1683",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1677-1684",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
     "span": "Consejo",
-    "start_char": 1676,
-    "end_char": 1683
+    "start_char": 1677,
+    "end_char": 1684
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1917-1962",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1918-1963",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
     "span": "Plataforma Nacional de Personas Facilitadoras",
-    "start_char": 1917,
-    "end_char": 1962
+    "start_char": 1918,
+    "end_char": 1963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:2149-2152",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:2150-2153",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 2149,
-    "end_char": 2152
+    "start_char": 2150,
+    "end_char": 2153
   },
   {
     "schema_version": "0.1.0",
@@ -739,39 +739,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:733-736",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:734-737",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 733,
-    "end_char": 736
+    "start_char": 734,
+    "end_char": 737
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:884-954",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:885-955",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
     "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
-    "start_char": 884,
-    "end_char": 954
+    "start_char": 885,
+    "end_char": 955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:1383-1390",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:1384-1391",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
     "span": "Consejo",
-    "start_char": 1383,
-    "end_char": 1390
+    "start_char": 1384,
+    "end_char": 1391
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:2376-2379",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:2377-2380",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 2376,
-    "end_char": 2379
+    "start_char": 2377,
+    "end_char": 2380
   },
   {
     "schema_version": "0.1.0",
@@ -784,12 +784,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:32:term-usage:244-247",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:32:term-usage:245-248",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 244,
-    "end_char": 247
+    "start_char": 245,
+    "end_char": 248
   },
   {
     "schema_version": "0.1.0",
@@ -1018,21 +1018,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:898-901",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:899-902",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 898,
-    "end_char": 901
+    "start_char": 899,
+    "end_char": 902
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:961-964",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:962-965",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 961,
-    "end_char": 964
+    "start_char": 962,
+    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
@@ -1090,12 +1090,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:48:term-usage:618-621",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:48:term-usage:619-622",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:48",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 618,
-    "end_char": 621
+    "start_char": 619,
+    "end_char": 622
   },
   {
     "schema_version": "0.1.0",
@@ -1315,12 +1315,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:78:term-usage:744-747",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:78:term-usage:745-748",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 744,
-    "end_char": 747
+    "start_char": 745,
+    "end_char": 748
   },
   {
     "schema_version": "0.1.0",
@@ -2188,30 +2188,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2105-2108",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2106-2109",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 2105,
-    "end_char": 2108
+    "start_char": 2106,
+    "end_char": 2109
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2513-2548",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2514-2549",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
     "span": "Tribunal de Justicia Administrativa",
-    "start_char": 2513,
-    "end_char": 2548
+    "start_char": 2514,
+    "end_char": 2549
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2777-2812",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2778-2813",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
     "span": "Tribunal de Justicia Administrativa",
-    "start_char": 2777,
-    "end_char": 2812
+    "start_char": 2778,
+    "end_char": 2813
   },
   {
     "schema_version": "0.1.0",
@@ -2422,12 +2422,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:2093-2096",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:2094-2097",
     "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
     "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
     "span": "Ley",
-    "start_char": 2093,
-    "end_char": 2096
+    "start_char": 2094,
+    "end_char": 2097
   },
   {
     "schema_version": "0.1.0",

@@ -8,7 +8,7 @@ number: "42"
 aliases: ["LCID — Artículo 42"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf
 source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 ---

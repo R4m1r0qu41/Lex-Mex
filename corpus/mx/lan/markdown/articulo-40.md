@@ -19,7 +19,9 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 Los decretos por los que se establezcan, modifiquen o supriman zonas de veda contendrán la ubicación y delimitación de la misma, así como sus consecuencias o modalidades.
 
-El decreto de veda correspondiente deberá señalar: I. La declaratoria de utilidad pública;
+El decreto de veda correspondiente deberá señalar:
+
+I. La declaratoria de utilidad pública;
 
 II. Las características de la veda, de su modificación o de su supresión;
 

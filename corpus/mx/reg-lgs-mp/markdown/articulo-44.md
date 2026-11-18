@@ -19,7 +19,9 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 No se autorizará la publicidad de medicamentos y remedios herbolarios dirigida a la población en general cuando:
 
-I. Los presente como solución definitiva en el tratamiento preventivo, curativo o rehabilitatorio de una determinada enfermedad; II. Indique o sugiera su uso en relación con sintomatologías distintas a las expresadas en la autorización sanitaria del producto;
+I. Los presente como solución definitiva en el tratamiento preventivo, curativo o rehabilitatorio de una determinada enfermedad;
+
+II. Indique o sugiera su uso en relación con sintomatologías distintas a las expresadas en la autorización sanitaria del producto;
 
 III. Altere la información sobre posología que haya autorizado la [Secretaría](articulo-2.md);
 

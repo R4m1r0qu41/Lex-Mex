@@ -21,7 +21,9 @@ I.- Abrir y cerrar las sesiones a las horas señaladas por este Reglamento;
 
 II.- Cuidar de que así los miembros de la Cámara, como los espectadores, guarden orden y silencio;
 
-III.- Dar curso reglamentario a los negocios y dictar los trámites que deban recaer en los asuntos con que se dé cuenta a la Cámara; IV.- Determinar qué asuntos deben ponerse a discusión, prefiriendo los de utilidad general; a no ser que, por moción que hiciere algún individuo de la Cámara, acuerde ésta dar la preferencia a otro negocio;
+III.- Dar curso reglamentario a los negocios y dictar los trámites que deban recaer en los asuntos con que se dé cuenta a la Cámara;
+
+IV.- Determinar qué asuntos deben ponerse a discusión, prefiriendo los de utilidad general; a no ser que, por moción que hiciere algún individuo de la Cámara, acuerde ésta dar la preferencia a otro negocio;
 
 V.- Conceder la palabra alternativamente, en contra y en pro a los miembros de la Cámara, en el turno en que la pidieren;
 

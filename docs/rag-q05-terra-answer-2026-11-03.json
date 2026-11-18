@@ -1,0 +1,63 @@
+{
+  "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+  "status": "answered",
+  "claims": [
+    {
+      "kind": "interpretation",
+      "text": "El artículo 22, fracción I, contempla una o más cuentas de fondos de pago electrónico por cliente. Son las cuentas en que se registran los fondos de pago electrónico; el texto no las identifica como cuentas bancarias de depósito individuales.",
+      "citations": [
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+          "quote": "Abrir y llevar una o más cuentas de fondos de pago electrónico por cada Cliente, en las que se realicen registros de abonos equivalentes a la cantidad de fondos de pago electrónico emitidos contra la recepción de una cantidad de dinero, en moneda nacional o extranjera, o de activos virtuales determinados;"
+        }
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": "El artículo 46 permite interpretar que el dinero de varios clientes puede concentrarse en una o más cuentas de depósito a la vista a nombre de la IFPE: no exige en el texto recuperado una cuenta de depósito bancaria distinta por cliente. Deben identificarse los recursos por cliente y mantenerse segregados de los propios; las cuentas de depósito deben ser distintas de las que contienen recursos propios de la operación.",
+      "citations": [
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "estarán obligadas a mantener los recursos propios segregados de los de sus Clientes, así como mantener estos últimos identificados por cada Cliente."
+        },
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "en cuentas de depósito de dinero a la vista abiertas a nombre de la institución de que se trate en una Entidad Financiera autorizada para recibir depósitos de dinero, las cuales deberán ser distintas a aquellas donde se mantengan los recursos propios de la operación de la ITF"
+        },
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "Tratándose de instituciones de fondos de pago electrónico, el monto total que cada una de ellas pueda mantener en una o más cuentas de depósito de dinero a la vista, respecto del dinero que reciban de sus Clientes"
+        }
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": "Mientras las cantidades permanezcan a disposición de la ITF sin entregarse al beneficiario o destinatario ni transferirse a otra entidad facultada, el artículo dispone su depósito a más tardar al final del día de recepción, o su empleo en el reporto o fideicomiso de administración descritos, con las condiciones ahí indicadas.",
+      "citations": [
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "mientras las ITF mantengan dichas cantidades bajo su disposición sin que las hayan entregado al beneficiario o destinatario, o bien, transferido a otra entidad facultada para participar en servicios de pago a que haya lugar, deberán depositar dichas cantidades, a más tardar al final del día en que las hayan recibido"
+        },
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "o emplearse en operaciones de reporto solo con Valores emitidos por el Gobierno Federal o el Banco de México celebradas con instituciones de crédito a plazo de un día renovable conforme a lo que convengan al efecto, o bien afectarse en un fideicomiso de administración constituido para tal fin, que únicamente lleve a cabo las referidas operaciones de reporto."
+        }
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": "Para una IFPE, el total mantenido en una o más cuentas de depósito a la vista por dinero recibido de clientes no puede superar en ningún momento el mayor de un millón de UDIS y el doble de la cantidad más alta de fondos de pago electrónico redimida a clientes en períodos de 24 horas consecutivas durante los últimos 365 días.",
+      "citations": [
+        {
+          "provision_id": "urn:lex-mx:federal:statute:lritf:article:46",
+          "quote": "Tratándose de instituciones de fondos de pago electrónico, el monto total que cada una de ellas pueda mantener en una o más cuentas de depósito de dinero a la vista, respecto del dinero que reciban de sus Clientes, en ningún momento podrá superar el equivalente al máximo entre un millón de UDIS y el equivalente al doble de la cantidad más alta de fondos de pago electrónico que dicha institución haya redimido a sus Clientes en plazos de 24 horas consecutivas comprendidos en los últimos trescientos sesenta y cinco días."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "La publicación tiene cobertura seleccionada y parcial; se excedió el presupuesto de recuperación y no se incluyó el texto de todos los resultados. No puede concluirse que ninguna otra disposición exija condiciones adicionales o una estructura distinta.",
+    "La fuente se recuperó el 12 de julio de 2026 y registra una reforma del 14 de noviembre de 2025. Esta versión no comprueba la vigencia actual ni constituye el corpus federal completo.",
+    "La conclusión se limita a los textos recuperados y es una evaluación del modelo, no una aprobación jurídica."
+  ]
+}

@@ -17,7 +17,9 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 3o
 
-Para los efectos de esta Ley se entiende por: I. Bebidas con contenido alcohólico, las [bebidas alcohólicas](articulo-3o.md) y las [bebidas refrescantes](articulo-3o.md), de acuerdo con lo siguiente:
+Para los efectos de esta Ley se entiende por:
+
+I. Bebidas con contenido alcohólico, las [bebidas alcohólicas](articulo-3o.md) y las [bebidas refrescantes](articulo-3o.md), de acuerdo con lo siguiente:
 
 a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 

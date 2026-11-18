@@ -25,7 +25,9 @@ II. Durante el proceso de verificación se detecte que existen condiciones que p
 
 III. Los servicios de transporte aéreo o la operación de los talleres aeronáuticos no cumplan con los requisitos y condiciones que señale el título de concesión, asignación o permiso correspondiente; Fracción reformada DOF 31-05-2023
 
-IV. El personal técnico aeronáutico presente incapacidad psicofísica temporal o permanente que impida el adecuado desempeño de sus funciones asignadas; V. La tripulación de vuelo y el personal de tierra que desempeñe funciones de control de tránsito aéreo no permanezca en su puesto hasta ser reemplazado por personal autorizado, salvo caso fortuito o de fuerza mayor;
+IV. El personal técnico aeronáutico presente incapacidad psicofísica temporal o permanente que impida el adecuado desempeño de sus funciones asignadas;
+
+V. La tripulación de vuelo y el personal de tierra que desempeñe funciones de control de tránsito aéreo no permanezca en su puesto hasta ser reemplazado por personal autorizado, salvo caso fortuito o de fuerza mayor;
 
 VI. La operación de una institución educativa no se ajuste a los requerimientos de la Agencia Federal de Aviación Civil en lo concerniente a la enseñanza, expedición de títulos, diplomas, constancias y certificados de estudios; Fracción reformada DOF 31-05-2023
 

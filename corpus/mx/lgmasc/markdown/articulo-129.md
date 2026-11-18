@@ -7,8 +7,8 @@ provision_type: article
 number: "129"
 aliases: ["LGMASC — Artículo 129"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -21,7 +21,9 @@ La persona facilitadora citará a las partes para la realización de una sesión
 
 I. La persona facilitadora proporcionará a las partes toda la información relativa al procedimiento, principios que rigen, tratamiento de la información aportada durante el procedimiento, efecto de suspensión de términos, efectos en la ejecución del acto administrativo, modo en que se realizan las sesiones, el derecho de asistirse de peritos o especialistas, alcance y efectos de los convenios emanados del procedimiento;
 
-II. La persona facilitadora verificará la identidad y personalidad de las partes. Las partes que concurran deberán acreditar ante el Centro Público su personalidad jurídica, así como sus facultades suficientes para representar y transigir en los mecanismos alternativos de solución de controversias; III. Las autoridades administrativas deberán exhibir el dictamen técnico-jurídico de conformidad con las disposiciones aplicables;
+II. La persona facilitadora verificará la identidad y personalidad de las partes. Las partes que concurran deberán acreditar ante el Centro Público su personalidad jurídica, así como sus facultades suficientes para representar y transigir en los mecanismos alternativos de solución de controversias;
+
+III. Las autoridades administrativas deberán exhibir el dictamen técnico-jurídico de conformidad con las disposiciones aplicables;
 
 IV. Las partes deberán manifestar bajo protesta de decir verdad si conocen la existencia de derechos de terceros. Cuando se conozca la existencia de derechos de terceros, la persona facilitadora citará al mismo para que manifieste su conformidad u oposición al procedimiento.
 

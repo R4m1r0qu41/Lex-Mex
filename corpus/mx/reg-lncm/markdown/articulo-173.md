@@ -21,7 +21,9 @@ La persona interesada en obtener un [Certificado de Competencia](articulo-10.md)
 
 I. Copia certificada del acta de nacimiento;
 
-II. Original del certificado vencido o por vencerse; III. [Libreta de Mar](articulo-10.md), sólo cuando la certificación se pretenda obtener por ascenso en la categoría de Marinero Turístico o Certificado de Competencia como Patrón de Embarcaciones de recreo y deportivas nivel II;
+II. Original del certificado vencido o por vencerse;
+
+III. [Libreta de Mar](articulo-10.md), sólo cuando la certificación se pretenda obtener por ascenso en la categoría de Marinero Turístico o Certificado de Competencia como Patrón de Embarcaciones de recreo y deportivas nivel II;
 
 IV. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente;
 

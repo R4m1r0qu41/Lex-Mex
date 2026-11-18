@@ -17,7 +17,9 @@ source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 
 # Artículo 45
 
-Los integrantes del [Sistema Nacional de Fiscalización](articulo-3.md) en el ámbito de sus respectivas facultades y atribuciones: I. Identificarán áreas comunes de auditoría y fiscalización para que contribuyan a la definición de sus respectivos programas anuales de trabajo y el cumplimiento de los mismos de manera coordinada;
+Los integrantes del [Sistema Nacional de Fiscalización](articulo-3.md) en el ámbito de sus respectivas facultades y atribuciones:
+
+I. Identificarán áreas comunes de auditoría y fiscalización para que contribuyan a la definición de sus respectivos programas anuales de trabajo y el cumplimiento de los mismos de manera coordinada;
 
 II. Revisarán los ordenamientos legales que regulan su actuación para que, en su caso, realicen propuestas de mejora a los mismos que permitan un mayor impacto en el combate a la corrupción, y
 

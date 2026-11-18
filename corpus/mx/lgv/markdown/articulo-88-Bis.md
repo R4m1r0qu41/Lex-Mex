@@ -7,8 +7,8 @@ provision_type: article
 number: "88 Bis"
 aliases: ["LGV — Artículo 88 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 88 Bis
 
-La [Comisión Ejecutiva](articulo-6.md) podrá ayudar, atender, asistir y, en su caso, cubrir una compensación subsidiaria en términos de esta Ley, en aquellos casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en los siguientes supuestos:
+La [Comisión Ejecutiva](articulo-6.md) podrá ayudar, atender, asistir y, en su caso, cubrir una compensación subsidiaria en términos de esta [Ley](articulo-6.md), en aquellos casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en los siguientes supuestos:
 
 I. Cuando en el lugar de la comisión del delito o de la violación a derechos humanos no se cuente con el Fondo respectivo o carezca de fondos suficientes;
 

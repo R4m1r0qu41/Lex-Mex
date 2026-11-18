@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LRPCAP — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 4
 
-La [Secretaría](articulo-2.md) en la aplicación e interpretación de esta Ley deberá observar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de observancia obligatoria en México y demás ordenamientos aplicables, sin perjuicio de la intervención de otras autoridades de conformidad con las disposiciones antes referidas y demás aplicables.
+La [Secretaría](articulo-2.md) en la aplicación e interpretación de esta [Ley](articulo-2.md) deberá observar las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de observancia obligatoria en México y demás ordenamientos aplicables, sin perjuicio de la intervención de otras autoridades de conformidad con las disposiciones antes referidas y demás aplicables.

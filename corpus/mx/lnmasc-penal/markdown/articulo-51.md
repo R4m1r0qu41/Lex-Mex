@@ -41,7 +41,9 @@ X. Mantener el buen desarrollo de los Mecanismos Alternativos y solicitar respet
 
 XI. Asegurarse de que los Acuerdos a los que lleguen los Intervinientes sean apegados a la legalidad;
 
-XII. Abstenerse de coaccionar a los Intervinientes para acudir, permanecer o retirarse del Mecanismo Alternativo; XIII. Mantener la confidencialidad de la información a la que tengan acceso en el ejercicio de su función, salvo las excepciones previstas en esta Ley;
+XII. Abstenerse de coaccionar a los Intervinientes para acudir, permanecer o retirarse del Mecanismo Alternativo;
+
+XIII. Mantener la confidencialidad de la información a la que tengan acceso en el ejercicio de su función, salvo las excepciones previstas en esta Ley;
 
 XIV. No ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, convivientes, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado, y
 

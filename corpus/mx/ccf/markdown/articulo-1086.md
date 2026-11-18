@@ -25,4 +25,6 @@ II. Acreditar que el paso que solicita es el más conveniente para el uso a que 
 
 III. Acreditar que dicho paso es el menos oneroso para los predios por donde debe pasar el agua;
 
-IV. Pagar el valor del terreno que ha de ocupar el canal, según estimación de peritos y un diez por ciento más; V. Resarcir los daños inmediatos, con inclusión del que resulte por dividirse en dos o más partes el predio sirviente, y de cualquier otro deterioro.
+IV. Pagar el valor del terreno que ha de ocupar el canal, según estimación de peritos y un diez por ciento más;
+
+V. Resarcir los daños inmediatos, con inclusión del que resulte por dividirse en dos o más partes el predio sirviente, y de cualquier otro deterioro.

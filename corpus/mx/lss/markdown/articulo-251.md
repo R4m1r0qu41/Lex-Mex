@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 251
 
-El [Instituto](articulo-5-A.md) Mexicano del Seguro Social tiene las facultades y atribuciones siguientes: I. Administrar los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia, adicionales y otros, así como prestar los servicios de beneficio colectivo que señala esta [Ley](articulo-5-A.md); Fracción reformada DOF 20-12-2001
+El [Instituto](articulo-5-A.md) Mexicano del Seguro Social tiene las facultades y atribuciones siguientes:
+
+I. Administrar los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia, adicionales y otros, así como prestar los servicios de beneficio colectivo que señala esta [Ley](articulo-5-A.md); Fracción reformada DOF 20-12-2001
 
 II. Satisfacer las prestaciones que se establecen en esta Ley;
 
@@ -41,7 +43,9 @@ XI. Dar de baja del régimen obligatorio a los patrones, sujetos obligados y ase
 
 XII. Recaudar y cobrar las cuotas de los seguros de riesgos de trabajo, enfermedades y maternidad, invalidez y vida, guarderías y prestaciones sociales, salud para la familia y adicionales, los capitales constitutivos, así como sus accesorios legales, percibir los demás recursos del Instituto, y llevar a cabo programas de regularización de pago de cuotas. De igual forma, recaudar y cobrar las cuotas y sus accesorios legales del seguro de retiro, cesantía en edad avanzada y vejez; Fracción reformada DOF 20-12-2001
 
-XIII. Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones; XIV. Determinar los créditos a favor del Instituto y las bases para la liquidación de cuotas y recargos, así como sus accesorios y fijarlos en cantidad líquida, cobrarlos y percibirlos, de conformidad con la presente Ley y demás disposiciones aplicables.
+XIII. Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones;
+
+XIV. Determinar los créditos a favor del Instituto y las bases para la liquidación de cuotas y recargos, así como sus accesorios y fijarlos en cantidad líquida, cobrarlos y percibirlos, de conformidad con la presente Ley y demás disposiciones aplicables.
 
 Las liquidaciones de las cuotas del seguro de retiro, cesantía en edad avanzada y vejez podrán ser emitidas y notificadas conjuntamente con las liquidaciones de las aportaciones y descuentos correspondientes al Fondo Nacional de la Vivienda por el personal del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, previo convenio de coordinación con el citado Instituto;
 
@@ -61,7 +65,9 @@ XX. Establecer coordinación con las dependencias y entidades de las Administrac
 
 XXI. Revisar los dictámenes formulados por contadores públicos sobre el cumplimiento de las disposiciones contenidas en esta Ley y sus reglamentos, así como imponer a dichos contadores públicos, en su caso, las sanciones administrativas establecidas en el reglamento respectivo; Fracción reformada DOF 20-12-2001
 
-XXII. Realizar inversiones en sociedades y empresas que tengan objeto social complementario o afín al del propio Instituto; Fracción reformada DOF 20-12-2001 XXIII. Celebrar convenios de coordinación con la Federación, entidades federativas, municipios y sus respectivas administraciones públicas, así como de colaboración con el sector social y privado, para el intercambio de información relacionada con el cumplimiento de sus objetivos, en los términos previstos en esta Ley; Fracción reformada DOF 20-12-2001
+XXII. Realizar inversiones en sociedades y empresas que tengan objeto social complementario o afín al del propio Instituto; Fracción reformada DOF 20-12-2001
+
+XXIII. Celebrar convenios de coordinación con la Federación, entidades federativas, municipios y sus respectivas administraciones públicas, así como de colaboración con el sector social y privado, para el intercambio de información relacionada con el cumplimiento de sus objetivos, en los términos previstos en esta Ley; Fracción reformada DOF 20-12-2001
 
 XXIV. Promover y propiciar la realización de investigación en salud y seguridad social, utilizándola como una herramienta para la generación de nuevos conocimientos, para la mejoría de la calidad de la atención que se otorga y para la formación y capacitación del personal; Fracción adicionada DOF 20-12-2001
 
@@ -79,7 +85,9 @@ XXIX. Autorizar el registro a los contadores públicos, para dictaminar el cumpl
 
 XXX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro o la incosteabilidad del mismo. La cancelación de estos créditos no libera al deudor de su obligación de pago; Fracción adicionada DOF 20-12-2001
 
-XXXI. Celebrar convenios con entidades o instituciones extranjeras para la asistencia técnica, intercambio de información relacionada con el cumplimiento de sus objetivos y la atención de derechohabientes, bajo el principio de reciprocidad, con las restricciones pactadas en los convenios que al efecto se suscriban, los cuales invariablemente tendrán una cláusula de confidencialidad y no difusión; Fracción adicionada DOF 20-12-2001 XXXII. Celebrar convenios de cooperación e intercambio en materia de medicina preventiva, atención médica, manejo y atención hospitalaria y rehabilitación de cualquier nivel con otras instituciones de seguridad social o de salud de los sectores públicos federal, estatal o municipal o del sector social; Fracción adicionada DOF 20-12-2001
+XXXI. Celebrar convenios con entidades o instituciones extranjeras para la asistencia técnica, intercambio de información relacionada con el cumplimiento de sus objetivos y la atención de derechohabientes, bajo el principio de reciprocidad, con las restricciones pactadas en los convenios que al efecto se suscriban, los cuales invariablemente tendrán una cláusula de confidencialidad y no difusión; Fracción adicionada DOF 20-12-2001
+
+XXXII. Celebrar convenios de cooperación e intercambio en materia de medicina preventiva, atención médica, manejo y atención hospitalaria y rehabilitación de cualquier nivel con otras instituciones de seguridad social o de salud de los sectores públicos federal, estatal o municipal o del sector social; Fracción adicionada DOF 20-12-2001
 
 XXXIII. Celebrar convenios de reconocimiento de adeudos y facilidades de pago, relativos a cuotas obrero patronales, capitales constitutivos, actualización, recargos y multas; aprobar el cambio de garantía de dichos convenios, y la cancelación, de conformidad con las disposiciones aplicables, de créditos fiscales a favor del Instituto y a cargo de patrones no localizados o insolventes de acuerdo a los montos autorizados por el Consejo Técnico del Instituto; Fracción adicionada DOF 20-12-2001
 

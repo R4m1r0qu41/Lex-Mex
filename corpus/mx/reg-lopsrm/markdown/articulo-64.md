@@ -27,7 +27,9 @@ En los aspectos referentes a la experiencia y capacidad técnica que deben cumpl
 
 III. Que los licitantes cuenten con la maquinaria y equipo de construcción adecuado, suficiente y necesario, sea o no propio, para desarrollar los trabajos que se convocan;
 
-IV. Que la planeación integral propuesta por el licitante para el desarrollo y organización de los trabajos, sea congruente con las características, complejidad y magnitud de los mismos; V. Que el procedimiento constructivo descrito por el licitante demuestre que éste conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente; dicho procedimiento debe ser acorde con el programa de ejecución considerado en su proposición;
+IV. Que la planeación integral propuesta por el licitante para el desarrollo y organización de los trabajos, sea congruente con las características, complejidad y magnitud de los mismos;
+
+V. Que el procedimiento constructivo descrito por el licitante demuestre que éste conoce los trabajos a realizar y que tiene la capacidad y la experiencia para ejecutarlos satisfactoriamente; dicho procedimiento debe ser acorde con el programa de ejecución considerado en su proposición;
 
 VI. Las dependencias y entidades, de acuerdo con las características, complejidad y magnitud de los trabajos, determinarán en la convocatoria a la licitación pública, los aspectos que se verificarán en los estados financieros de los licitantes, entre otros:
 
@@ -83,4 +85,6 @@ II. De la maquinaria y equipo:
 
 a) Que la maquinaria y el equipo de construcción sean los adecuados, necesarios y suficientes para ejecutar los trabajos objeto de la licitación pública, y que los datos coincidan con el listado de maquinaria y equipo presentado por el licitante, y
 
-b) Que las características y capacidad de la maquinaria y equipo de construcción considerada por el licitante sean las adecuadas para desarrollar el trabajo en las condiciones particulares donde deberá ejecutarse y que sean congruentes con el procedimiento de construcción y el programa de ejecución propuesto por el licitante, y III. Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente sean las requeridas en la convocatoria a la licitación pública para cumplir con los trabajos.
+b) Que las características y capacidad de la maquinaria y equipo de construcción considerada por el licitante sean las adecuadas para desarrollar el trabajo en las condiciones particulares donde deberá ejecutarse y que sean congruentes con el procedimiento de construcción y el programa de ejecución propuesto por el licitante, y
+
+III. Que las características, especificaciones y calidad de los materiales y equipos de instalación permanente sean las requeridas en la convocatoria a la licitación pública para cumplir con los trabajos.

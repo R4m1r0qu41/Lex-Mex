@@ -21,7 +21,9 @@ Son causales de improcedencia de la legitimación en el procedimiento, los sigui
 
 I. Que las partes promoventes de la colectividad no hayan otorgado su consentimiento en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
 
-II. Que los actos en contra de los cuales se endereza la acción constituyan procesos judiciales; III. Que la representación no cumpla los requisitos previstos en este Libro;
+II. Que los actos en contra de los cuales se endereza la acción constituyan procesos judiciales;
+
+III. Que la representación no cumpla los requisitos previstos en este Libro;
 
 IV. Que la colectividad en la acción colectiva en sentido estricto o individual homogénea, no pueda ser determinable o determinada en atención a la afectación a sus miembros, así como a las circunstancias comunes de hecho o de derecho de dicha afectación;
 

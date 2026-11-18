@@ -21,7 +21,9 @@ Para efectos de esta Ley, se establecen dentro del territorio nacional las sigui
 
 I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich, que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en las fracciones II, III, IV y V de este artículo;
 
-II. Zona Pacífico: Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora; III. Zona Noroeste: Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;
+II. Zona Pacífico: Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora;
+
+III. Zona Noroeste: Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;
 
 IV. Zona Sureste: Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "137"
 aliases: ["REG-LOPGJDF — Artículo 137"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -27,7 +27,9 @@ III. Informar al Procurador sobre los resultados de las evaluaciones para el ing
 
 IV. Promover, ante las instancias competentes, la certificación de los procesos de evaluación que aplique el Centro;
 
-V. Proponer al Consejo Directivo políticas, lineamientos y criterios generales para el funcionamiento y organización del Centro, conforme a la legislación y normatividad de la materia; VI. Presentar al Consejo Directivo para su aprobación, proyectos de manuales administrativos y demás disposiciones que rijan al Centro, así como someterlos a la autorización de las instancias competentes cuando la normatividad así lo determine;
+V. Proponer al Consejo Directivo políticas, lineamientos y criterios generales para el funcionamiento y organización del Centro, conforme a la legislación y normatividad de la materia;
+
+VI. Presentar al Consejo Directivo para su aprobación, proyectos de manuales administrativos y demás disposiciones que rijan al Centro, así como someterlos a la autorización de las instancias competentes cuando la normatividad así lo determine;
 
 VII. Elaborar los programas de trabajo y los proyectos estratégicos del Centro;
 

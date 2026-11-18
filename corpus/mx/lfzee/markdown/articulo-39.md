@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["LFZEE — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -35,6 +35,8 @@ VII. Establecer mecanismos de coordinación para agilizar la ejecución de polí
 
 VIII. Proponer al Titular del Ejecutivo Federal, por conducto de la Presidencia de la Comisión Intersecretarial, los mecanismos para la coordinación de acciones y esfuerzos de los sectores público, privado y social en materia de información, inversiones, producción y demás factores que promuevan el desarrollo de las Zonas;
 
-IX. Solicitar, cuando lo considere pertinente, la opinión·de académicos, especialistas o representantes de organismos de los sectores privado y social; X. Solicitar a las dependencias y entidades paraestatales la información que sea necesaria para el ejercicio de sus funciones, y
+IX. Solicitar, cuando lo considere pertinente, la opinión·de académicos, especialistas o representantes de organismos de los sectores privado y social;
+
+X. Solicitar a las dependencias y entidades paraestatales la información que sea necesaria para el ejercicio de sus funciones, y
 
 XI. Las demás que establezcan las disposiciones jurídicas aplicables.

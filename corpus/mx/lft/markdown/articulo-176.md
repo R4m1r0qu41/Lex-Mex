@@ -71,7 +71,9 @@ II. Labores:
 
 III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema musculo-esquelético.
 
-IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas. V. Manejo, operación y mantenimiento de maquinaria, equipo o herramientas mecánicas, eléctricas, neumáticas o motorizadas, que puedan generar amputaciones, fracturas o lesiones graves.
+IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
+
+V. Manejo, operación y mantenimiento de maquinaria, equipo o herramientas mecánicas, eléctricas, neumáticas o motorizadas, que puedan generar amputaciones, fracturas o lesiones graves.
 
 VI. Manejo de vehículos motorizados, incluido su mantenimiento mecánico y eléctrico.
 

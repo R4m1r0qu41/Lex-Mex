@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LGAHOTDU — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -45,7 +45,9 @@ XII. Proponer esquemas generales de organización para la eficaz atención, coor
 
 XIII. Solicitar y recibir información de las distintas dependencias y entidades que realizan programas y acciones de Desarrollo Urbano;
 
-XIV. Emitir los lineamientos para su operación y funcionamiento; XV. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación, y
+XIV. Emitir los lineamientos para su operación y funcionamiento;
+
+XV. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación, y
 
 XVI. Las demás que le señale esta Ley.
 

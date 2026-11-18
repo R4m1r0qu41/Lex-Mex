@@ -37,21 +37,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:457-460",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:458-461",
     "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
     "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
     "span": "UMA",
-    "start_char": 457,
-    "end_char": 460
+    "start_char": 458,
+    "end_char": 461
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:547-550",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:548-551",
     "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
     "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
     "span": "UMA",
-    "start_char": 547,
-    "end_char": 550
+    "start_char": 548,
+    "end_char": 551
   },
   {
     "schema_version": "0.1.0",

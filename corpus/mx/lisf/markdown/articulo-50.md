@@ -25,7 +25,9 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando la participación
 
 La [Comisión](articulo-2.md) podrá autorizar a las instituciones de crédito para que adquieran acciones de Instituciones y de las sociedades a que se refiere el artículo [52](articulo-52.md) de este ordenamiento, actuando como fiduciarias en fideicomisos que no se utilicen como medio para contravenir lo dispuesto en esta Ley.
 
-Las entidades aseguradoras, afianzadoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el primer párrafo de esta fracción, podrán adquirir acciones representativas del capital de estas Instituciones. Párrafo reformado DOF 10-01-2014 Párrafo Quinto.- Se deroga Párrafo derogado DOF 10-01-2014
+Las entidades aseguradoras, afianzadoras, reaseguradoras o reafianzadoras del exterior, así como las personas físicas o morales extranjeras distintas de las excluidas en el primer párrafo de esta fracción, podrán adquirir acciones representativas del capital de estas Instituciones. Párrafo reformado DOF 10-01-2014
+
+Párrafo Quinto.- Se deroga Párrafo derogado DOF 10-01-2014
 
 Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital de las Instituciones, con excepción de los casos siguientes:
 
@@ -67,4 +69,6 @@ b) Tratándose de sociedades que tengan el Control de una Institución de Fianza
 
 Lo dispuesto en esta fracción deberá hacerse constar en los estatutos de las sociedades correspondientes;
 
-IV. Las personas que adquieran o transmitan acciones por más del 2% del capital social pagado de una Institución, deberán dar aviso a la Comisión, dentro de los tres días hábiles siguientes a la adquisición o transmisión, y V. Las Instituciones deberán proporcionar a la Comisión la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que dicha Comisión establezca mediante disposiciones de carácter general.
+IV. Las personas que adquieran o transmitan acciones por más del 2% del capital social pagado de una Institución, deberán dar aviso a la Comisión, dentro de los tres días hábiles siguientes a la adquisición o transmisión, y
+
+V. Las Instituciones deberán proporcionar a la Comisión la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social pagado, en la forma y sujetándose a las condiciones que dicha Comisión establezca mediante disposiciones de carácter general.

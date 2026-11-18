@@ -29,4 +29,6 @@ IV. Permita que los registros se efectúen considerando la base acumulativa para
 
 V. Refleje un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivados de la gestión económico-financiera de los entes públicos;
 
-VI. Genere, en tiempo real, estados financieros, de ejecución presupuestaria y otra información que coadyuve a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas, y VII. Facilite el registro y control de los inventarios de los bienes muebles e inmuebles de los entes públicos.
+VI. Genere, en tiempo real, estados financieros, de ejecución presupuestaria y otra información que coadyuve a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas, y
+
+VII. Facilite el registro y control de los inventarios de los bienes muebles e inmuebles de los entes públicos.

@@ -27,7 +27,9 @@ I. El carácter intencional o no de la acción u omisión constitutiva de la inf
 
 II. La gravedad de la infracción;
 
-III. Los daños que se hubieren producido o puedan producirse; IV. La capacidad económica del infractor; y
+III. Los daños que se hubieren producido o puedan producirse;
+
+IV. La capacidad económica del infractor; y
 
 V. La reincidencia del infractor.
 

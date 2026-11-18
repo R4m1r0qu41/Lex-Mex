@@ -23,7 +23,9 @@ I.- Nombrar tres vecinos caracterizadas de cada Municipio de su jurisdicción pa
 
 II.- Remediar las deficiencias del empadronamiento;
 
-III.- Exigir a las Juntas Municipales de Reclutamiento procedan contra los que no cumplan con el deber de inscribirse en el Registro; IV.- Ordenar se practique el examen médico para resolver las reclamaciones que eleven ante ella los individuos que no estén conformes con el dictamen médico efectuado acerca de su aptitud física para el servicio de las armas, en las Juntas Municipales de Reclutamiento;
+III.- Exigir a las Juntas Municipales de Reclutamiento procedan contra los que no cumplan con el deber de inscribirse en el Registro;
+
+IV.- Ordenar se practique el examen médico para resolver las reclamaciones que eleven ante ella los individuos que no estén conformes con el dictamen médico efectuado acerca de su aptitud física para el servicio de las armas, en las Juntas Municipales de Reclutamiento;
 
 V.- Elevar con su informe a la Oficina de Reclutamiento de Zona todas las reclamaciones que no guarden relación sobre dictamen de aptitud física;
 

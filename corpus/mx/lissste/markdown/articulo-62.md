@@ -17,7 +17,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 # Artículo 62
 
-En caso de riesgo del trabajo, el Trabajador tendrá derecho a las siguientes prestaciones en dinero: I. Al ser declarada una incapacidad temporal, se otorgará licencia con goce del cien por ciento del sueldo, cuando el riesgo del trabajo imposibilite al Trabajador para desempeñar sus labores. El pago se hará desde el primer día de incapacidad y será cubierto por las [Dependencias](articulo-6.md) o [Entidades](articulo-6.md) hasta que termine la incapacidad cuando ésta sea temporal, o bien hasta que se declare la incapacidad permanente del Trabajador.
+En caso de riesgo del trabajo, el Trabajador tendrá derecho a las siguientes prestaciones en dinero:
+
+I. Al ser declarada una incapacidad temporal, se otorgará licencia con goce del cien por ciento del sueldo, cuando el riesgo del trabajo imposibilite al Trabajador para desempeñar sus labores. El pago se hará desde el primer día de incapacidad y será cubierto por las [Dependencias](articulo-6.md) o [Entidades](articulo-6.md) hasta que termine la incapacidad cuando ésta sea temporal, o bien hasta que se declare la incapacidad permanente del Trabajador.
 
 Para los efectos de la determinación de la incapacidad producida por riesgo del trabajo, se estará a lo dispuesto por la Ley Federal del Trabajo por lo que respecta a los exámenes trimestrales a que deberá someterse el Trabajador y en la inteligencia de que si a los tres meses de iniciada dicha incapacidad no está el Trabajador en aptitud de volver al trabajo, él mismo o la Dependencia o Entidad, podrán solicitar en vista de los certificados médicos correspondientes, que sea declarada la incapacidad permanente. No excederá de un año, contado a partir de la fecha en que el [Instituto](articulo-6.md) tenga conocimiento del riesgo, el plazo para que se determine si el Trabajador está apto para volver al servicio o bien procede declarar su incapacidad permanente, en cuyo caso se estará a lo dispuesto en las fracciones siguientes;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LGSCMM — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 ---
@@ -57,4 +57,6 @@ XVIII. Sistema: al Sistema para la Carrera de las Maestras y los Maestros;
 
 XIX. Tutor: al docente y técnico docente con funciones adicionales que, en la educación básica y media superior, tiene la responsabilidad de proporcionar un conjunto de acciones sistemáticas de acompañamiento, de apoyo y seguimiento personalizado al nuevo docente o técnico docente en su incorporación al servicio público educativo;
 
-XX. Tutoría: a la estrategia de profesionalización, como parte de un reconocimiento, que atiende la necesidad de fortalecer las competencias del personal docente y técnico docente de nuevo ingreso, y XXI. Unidad del Sistema: a la Unidad del Sistema para la Carrera de las Maestras y los Maestros.
+XX. Tutoría: a la estrategia de profesionalización, como parte de un reconocimiento, que atiende la necesidad de fortalecer las competencias del personal docente y técnico docente de nuevo ingreso, y
+
+XXI. Unidad del Sistema: a la Unidad del Sistema para la Carrera de las Maestras y los Maestros.

@@ -23,7 +23,9 @@ I. Garantizar un nivel adecuado y eficiente de protección de la salud humana, d
 
 II. Definir los principios y la política nacional en materia de bioseguridad de los OGMs y los instrumentos para su aplicación;
 
-III. Determinar las competencias de las diversas dependencias de la Administración Pública Federal en materia de bioseguridad de los OGMs; IV. Establecer las bases para la celebración de convenios o acuerdos de coordinación entre la Federación, por conducto de las [Secretarías](articulo-3.md) competentes y los gobiernos de las entidades federativas, para el mejor cumplimiento del objeto de esta Ley;
+III. Determinar las competencias de las diversas dependencias de la Administración Pública Federal en materia de bioseguridad de los OGMs;
+
+IV. Establecer las bases para la celebración de convenios o acuerdos de coordinación entre la Federación, por conducto de las [Secretarías](articulo-3.md) competentes y los gobiernos de las entidades federativas, para el mejor cumplimiento del objeto de esta Ley;
 
 V. Establecer las bases para el funcionamiento de la Comisión Intersecretarial de Bioseguridad de los Organismos Genéticamente Modificados, a través de la cual las Secretarías que la integran deban colaborar de manera coordinada, en el ámbito de sus competencias, en lo relativo a la bioseguridad de los organismos genéticamente modificados;
 

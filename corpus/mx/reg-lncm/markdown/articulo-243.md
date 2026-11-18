@@ -23,7 +23,9 @@ I. Vigilar el cumplimiento de la [Ley](articulo-10.md), de la Ley de Puertos y d
 
 II. Auxiliar a las autoridades federales que ejerzan atribuciones dentro de los puertos, cuando éstas lo soliciten;
 
-III. Participar en la verificación del funcionamiento de las señales de ayuda a la Navegación marítima, fluvial y lacustre; IV. Vigilar que el embarque o desembarque de personas y bienes se efectúe con seguridad, conforme a los ordenamientos en materia portuaria;
+III. Participar en la verificación del funcionamiento de las señales de ayuda a la Navegación marítima, fluvial y lacustre;
+
+IV. Vigilar que el embarque o desembarque de personas y bienes se efectúe con seguridad, conforme a los ordenamientos en materia portuaria;
 
 V. Vigilar que las operaciones, obras, dragado y sondeos que se realicen en la zona portuaria integrante de las vías generales de comunicación por agua, cuenten con las autorizaciones y permisos correspondientes;
 

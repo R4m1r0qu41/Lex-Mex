@@ -17,4 +17,6 @@ source_sha256: 5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277
 
 Se aplicará prisión de un mes a dos años y multa de cien a cinco mil pesos:
 
-I.- A los que alquilen a sabiendas un local para juegos prohibidos, o con apuestas, o para efectuar sorteos sin permiso de la Secretaría de Gobernación; II.- A los jugadores y espectadores que asistan a un local en donde se juegue en forma ilícita.
+I.- A los que alquilen a sabiendas un local para juegos prohibidos, o con apuestas, o para efectuar sorteos sin permiso de la Secretaría de Gobernación;
+
+II.- A los jugadores y espectadores que asistan a un local en donde se juegue en forma ilícita.

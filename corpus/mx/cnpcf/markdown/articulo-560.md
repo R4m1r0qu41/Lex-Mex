@@ -25,7 +25,9 @@ II. En cualquier estado o instancia del procedimiento, ordenar la comparecencia 
 
 III. Rechazar de plano cualquier incidente o solicitud que merezca calificarse de frívola, notoriamente improcedente, intrascendente o dilatoria, en relación con el asunto que se ventile, lo que deberá ser hecho de manera fundada, razonada y motivada;
 
-IV. Para el solo efecto de regularizar el proceso, ordenar en cualquier etapa del juicio que se subsane toda omisión o deficiencia formal que se notare; V. Suplir la deficiencia de los planteamientos de derecho y de las pretensiones, así como de los agravios respecto de las niñas, niños, adolescentes; víctimas de cualquier tipo o modalidad de violencia de género y grupos de atención prioritaria;
+IV. Para el solo efecto de regularizar el proceso, ordenar en cualquier etapa del juicio que se subsane toda omisión o deficiencia formal que se notare;
+
+V. Suplir la deficiencia de los planteamientos de derecho y de las pretensiones, así como de los agravios respecto de las niñas, niños, adolescentes; víctimas de cualquier tipo o modalidad de violencia de género y grupos de atención prioritaria;
 
 VI. Allegarse de los medios de prueba legales que estime necesarios para la resolución del asunto, de acuerdo con la naturaleza de los derechos en conflicto, y
 

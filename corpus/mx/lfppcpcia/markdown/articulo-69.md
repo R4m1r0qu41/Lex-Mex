@@ -7,8 +7,8 @@ provision_type: article
 number: "69"
 aliases: ["LFPPCPCIA — Artículo 69"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf
 source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 ---
@@ -27,6 +27,8 @@ III. Incumplir los términos de la autorización otorgada para el uso, aprovecha
 
 IV. Autorizar el uso, aprovechamiento, comercialización o industrialización de elementos del patrimonio cultural a terceros, sin haber sido designado para ello por algún pueblo o comunidad indígenas o afromexicanas titular de una manifestación;
 
-V. Ostentarse como titular de algún derecho colectivo sobre elementos del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas, sin tener la calidad o representación de los mismos; VI. Poner a disposición del público a través de cualquier medio electrónico conocido o por conocer elementos del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas sin su consentimiento, y
+V. Ostentarse como titular de algún derecho colectivo sobre elementos del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas, sin tener la calidad o representación de los mismos;
+
+VI. Poner a disposición del público a través de cualquier medio electrónico conocido o por conocer elementos del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas sin su consentimiento, y
 
 VII. Las que deriven de la interpretación de la Ley y su reglamento.

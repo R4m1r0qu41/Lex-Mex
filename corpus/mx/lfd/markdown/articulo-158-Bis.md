@@ -17,7 +17,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 # Artículo 158 Bis
 
-Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos: I. Por el otorgamiento ............................................................................................. $99,740.47 Fracción reformada DOF 07-11-2025
+Por las verificaciones, y en su caso, la certificación como explotador de servicios aéreos:
+
+I. Por el otorgamiento ............................................................................................. $99,740.47 Fracción reformada DOF 07-11-2025
 
 II. Por la renovación .................................................................................................. $7,565.57 Fracción reformada DOF 07-11-2025
 

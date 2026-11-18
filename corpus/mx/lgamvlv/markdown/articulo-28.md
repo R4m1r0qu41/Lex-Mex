@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LGAMVLV — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -17,7 +17,9 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 # Artículo 28
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser: I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas y/o dictadas de forma directa por cualquier autoridad policial, y Fracción reformada DOF 16-12-2024
+Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+
+I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas y/o dictadas de forma directa por cualquier autoridad policial, y Fracción reformada DOF 16-12-2024
 
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 

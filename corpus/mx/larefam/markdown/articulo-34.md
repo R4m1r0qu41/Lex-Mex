@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LAREFAM — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---

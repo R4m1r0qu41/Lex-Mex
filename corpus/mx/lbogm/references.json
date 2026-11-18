@@ -79,19 +79,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:117:reference:1446-1463:116:relative",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:117:reference:1447-1464:116:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lbogm:article:117",
     "source_span": "artículo anterior",
-    "start_char": 1446,
-    "end_char": 1463,
+    "start_char": 1447,
+    "end_char": 1464,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbogm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbogm:article:116",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1426,
-        "end_char": 1441
+        "start_char": 1427,
+        "end_char": 1442
       }
     ],
     "basis": "express_cross_reference",
@@ -253,19 +253,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1149-1151:11:direct",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1150-1152:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lbogm:article:15",
     "source_span": "11",
-    "start_char": 1149,
-    "end_char": 1151,
+    "start_char": 1150,
+    "end_char": 1152,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbogm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbogm:article:11",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones I, II, IV, V, VII y VIII",
-        "start_char": 1100,
-        "end_char": 1135
+        "start_char": 1101,
+        "end_char": 1136
       }
     ],
     "basis": "express_cross_reference",
@@ -276,19 +276,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1223-1224:15:direct",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1224-1225:15:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lbogm:article:15",
     "source_span": "I",
-    "start_char": 1223,
-    "end_char": 1224,
+    "start_char": 1224,
+    "end_char": 1225,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbogm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbogm:article:15",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1223,
-        "end_char": 1224
+        "start_char": 1224,
+        "end_char": 1225
       }
     ],
     "basis": "express_cross_reference",
@@ -299,11 +299,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1392-1394:66:direct",
+    "id": "urn:lex-mx:federal:statute:lbogm:article:15:reference:1393-1395:66:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lbogm:article:15",
     "source_span": "66",
-    "start_char": 1392,
-    "end_char": 1394,
+    "start_char": 1393,
+    "end_char": 1395,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbogm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbogm:article:66",
     "qualifiers": [],
@@ -720,28 +720,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbogm:transitory:decimosegundo:reference:382-384:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lbogm:transitory:decimosegundo",
-    "source_span": "89",
-    "start_char": 382,
-    "end_char": 384,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 358,
-        "end_char": 368
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

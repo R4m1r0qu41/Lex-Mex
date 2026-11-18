@@ -23,7 +23,9 @@ I. Deberá registrar e inscribir a la persona trabajadora del hogar a la fecha d
 
 II. Con base en la información proporcionada por la persona empleadora de la persona trabajadora del hogar, el Instituto calculará la propuesta de cédula de determinación de las cuotas obrero patronales correspondientes, distinguiendo la cuota obrera de la patronal. La persona empleadora no determinará las cuotas obrero patronales. La persona empleadora deberá retener la cuota obrera que corresponde a la persona trabajadora del hogar por su aseguramiento y enterarla junto con la cuota patronal a su cargo;
 
-III. La persona empleadora de la persona trabajadora del hogar está obligada a pagar los importes determinados de las cuotas obrero patronales en los formatos impresos o usando el programa informático autorizado por el Instituto; IV. El pago de las cuotas obrero patronales correspondientes al mes de inicio de la relación laboral deberá efectuarse en términos de la periodicidad establecida en el artículo [39](articulo-39.md) de esta Ley;
+III. La persona empleadora de la persona trabajadora del hogar está obligada a pagar los importes determinados de las cuotas obrero patronales en los formatos impresos o usando el programa informático autorizado por el Instituto;
+
+IV. El pago de las cuotas obrero patronales correspondientes al mes de inicio de la relación laboral deberá efectuarse en términos de la periodicidad establecida en el artículo [39](articulo-39.md) de esta Ley;
 
 V. El aseguramiento y el entero de las cuotas obrero patronales correspondientes a los meses subsecuentes al mes de inicio de la relación laboral, se deberá hacer por anticipado, con la periodicidad por la que opte la persona empleadora, ya sea periodo mensual, bimestral, semestral o anual;
 

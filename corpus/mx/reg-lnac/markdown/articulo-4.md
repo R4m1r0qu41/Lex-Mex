@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["REG-LNAC — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNac.pdf
 source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 ---
@@ -23,6 +23,8 @@ I.- Copia certificada expedida por la oficina del registro civil mexicano del ac
 
 II.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento de un hermano mayor, si nació en territorio nacional y fue registrado dentro del primer año de edad;
 
-III.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento del padre o madre mexicano, si fueron registrados durante el primer año de edad; IV.- Constancia expedida por la autoridad migratoria, de la fecha de internación al país del padre o de la madre extranjeros, si esto ocurrió antes de la fecha de nacimiento del interesado, o
+III.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento del padre o madre mexicano, si fueron registrados durante el primer año de edad;
+
+IV.- Constancia expedida por la autoridad migratoria, de la fecha de internación al país del padre o de la madre extranjeros, si esto ocurrió antes de la fecha de nacimiento del interesado, o
 
 V.- Cotejo notarial de la partida religiosa, si dicho acto se realizó durante el primer año de edad y en territorio nacional.

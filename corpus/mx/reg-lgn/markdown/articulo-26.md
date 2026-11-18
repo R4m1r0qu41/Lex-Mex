@@ -17,7 +17,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 26
 
-La Dirección General de Recursos Humanos tiene las atribuciones siguientes: I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, así como ejecutar las mismas, difundir las vigentes y vigilar que las unidades de la [Institución](articulo-2.md) se apeguen a las mismas;
+La Dirección General de Recursos Humanos tiene las atribuciones siguientes:
+
+I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, así como ejecutar las mismas, difundir las vigentes y vigilar que las unidades de la [Institución](articulo-2.md) se apeguen a las mismas;
 
 II. Intervenir en la elaboración del anteproyecto de presupuesto anual de la Institución, respecto a los recursos humanos;
 
@@ -43,7 +45,9 @@ XII. Integrar, controlar y mantener actualizados los expedientes personales y ad
 
 XIII. Controlar y evaluar la operación del sistema de administración y desarrollo de personal;
 
-XIV. Participar en el establecimiento de sistemas de reclutamiento, selección, contratación, nombramiento, inducción, remuneración, servicios sociales, motivación, capacitación, formas de identificación y movimientos de los servidores públicos de la Institución; XV. Participar en la formulación y actualización del Catálogo Institucional de Puestos y el Tabulador de Sueldos de la Institución;
+XIV. Participar en el establecimiento de sistemas de reclutamiento, selección, contratación, nombramiento, inducción, remuneración, servicios sociales, motivación, capacitación, formas de identificación y movimientos de los servidores públicos de la Institución;
+
+XV. Participar en la formulación y actualización del Catálogo Institucional de Puestos y el Tabulador de Sueldos de la Institución;
 
 XVI. Dar seguimiento a las acciones e incidencias propias de las relaciones laborales de la Institución con sus trabajadores;
 

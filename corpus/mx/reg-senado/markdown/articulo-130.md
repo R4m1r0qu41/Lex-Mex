@@ -33,7 +33,9 @@ VI. Firmar junto con los secretarios las actas de las reuniones de la comisión 
 
 VII. Formular, a nombre de la comisión, las solicitudes de información o documentación a las dependencias y entidades de la Administración Pública Federal que corresponda, con fundamento en los artículos 93 de la Constitución y 97 de la Ley;
 
-VIII. Solicitar al Presidente de la Mesa, previo acuerdo de la comisión, convoque a servidores de las dependencias o entidades de la Administración Pública Federal o de órganos constitucionales autónomos, su presencia en reunión de trabajo para tratar los asuntos de su competencia, en términos de los artículos 93 de la Constitución y 98 de la Ley; IX. Nombrar al Secretario Técnico, con la aprobación de la comisión, así como dirigir sus trabajos y evaluar su desempeño;
+VIII. Solicitar al Presidente de la Mesa, previo acuerdo de la comisión, convoque a servidores de las dependencias o entidades de la Administración Pública Federal o de órganos constitucionales autónomos, su presencia en reunión de trabajo para tratar los asuntos de su competencia, en términos de los artículos 93 de la Constitución y 98 de la Ley;
+
+IX. Nombrar al Secretario Técnico, con la aprobación de la comisión, así como dirigir sus trabajos y evaluar su desempeño;
 
 X. Nombrar al personal de apoyo y administrar el presupuesto que se asigna a la comisión, de acuerdo a la normatividad aplicable;
 

@@ -414,7 +414,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XXXVIII",
     "start_char": 13257,
-    "end_char": 13767,
+    "end_char": 13768,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XXXIX",
-    "start_char": 13767,
-    "end_char": 14175,
+    "start_char": 13768,
+    "end_char": 14176,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XL",
-    "start_char": 14175,
-    "end_char": 14479,
+    "start_char": 14176,
+    "end_char": 14480,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLI",
-    "start_char": 14479,
-    "end_char": 14794,
+    "start_char": 14480,
+    "end_char": 14795,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLII",
-    "start_char": 14794,
-    "end_char": 14923,
+    "start_char": 14795,
+    "end_char": 14924,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLIII",
-    "start_char": 14923,
-    "end_char": 15063,
+    "start_char": 14924,
+    "end_char": 15064,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLIV",
-    "start_char": 15063,
-    "end_char": 15222,
+    "start_char": 15064,
+    "end_char": 15223,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLV",
-    "start_char": 15222,
-    "end_char": 15536,
+    "start_char": 15223,
+    "end_char": 15537,
     "basis": "express_definition"
   },
   {
@@ -501,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLVI",
-    "start_char": 15536,
-    "end_char": 15577,
+    "start_char": 15537,
+    "end_char": 15578,
     "basis": "express_definition"
   },
   {
@@ -512,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLVII",
-    "start_char": 15577,
-    "end_char": 15868,
+    "start_char": 15578,
+    "end_char": 15869,
     "basis": "express_definition"
   },
   {
@@ -523,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLVIII",
-    "start_char": 15868,
-    "end_char": 16127,
+    "start_char": 15869,
+    "end_char": 16128,
     "basis": "express_definition"
   },
   {
@@ -534,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "XLIX",
-    "start_char": 16127,
-    "end_char": 16519,
+    "start_char": 16128,
+    "end_char": 16520,
     "basis": "express_definition"
   },
   {
@@ -545,8 +545,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "L",
-    "start_char": 16519,
-    "end_char": 16862,
+    "start_char": 16520,
+    "end_char": 16863,
     "basis": "express_definition"
   },
   {
@@ -556,8 +556,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LI",
-    "start_char": 16862,
-    "end_char": 17340,
+    "start_char": 16863,
+    "end_char": 17341,
     "basis": "express_definition"
   },
   {
@@ -567,8 +567,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LII",
-    "start_char": 17340,
-    "end_char": 17766,
+    "start_char": 17341,
+    "end_char": 17767,
     "basis": "express_definition"
   },
   {
@@ -578,8 +578,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LIII",
-    "start_char": 17766,
-    "end_char": 18080,
+    "start_char": 17767,
+    "end_char": 18081,
     "basis": "express_definition"
   },
   {
@@ -589,8 +589,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LIV",
-    "start_char": 18080,
-    "end_char": 18328,
+    "start_char": 18081,
+    "end_char": 18329,
     "basis": "express_definition"
   },
   {
@@ -600,8 +600,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LV",
-    "start_char": 18328,
-    "end_char": 18572,
+    "start_char": 18329,
+    "end_char": 18573,
     "basis": "express_definition"
   },
   {
@@ -611,8 +611,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LVI",
-    "start_char": 18572,
-    "end_char": 18782,
+    "start_char": 18573,
+    "end_char": 18783,
     "basis": "express_definition"
   },
   {
@@ -622,8 +622,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LVII",
-    "start_char": 18782,
-    "end_char": 18910,
+    "start_char": 18783,
+    "end_char": 18911,
     "basis": "express_definition"
   },
   {
@@ -633,8 +633,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LVIII",
-    "start_char": 18910,
-    "end_char": 19028,
+    "start_char": 18911,
+    "end_char": 19029,
     "basis": "express_definition"
   },
   {
@@ -644,8 +644,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LIX",
-    "start_char": 19028,
-    "end_char": 19320,
+    "start_char": 19029,
+    "end_char": 19321,
     "basis": "express_definition"
   },
   {
@@ -655,8 +655,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LX",
-    "start_char": 19320,
-    "end_char": 19941,
+    "start_char": 19321,
+    "end_char": 19942,
     "basis": "express_definition"
   },
   {
@@ -666,8 +666,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXI",
-    "start_char": 19941,
-    "end_char": 20203,
+    "start_char": 19942,
+    "end_char": 20204,
     "basis": "express_definition"
   },
   {
@@ -677,8 +677,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXII",
-    "start_char": 20203,
-    "end_char": 20440,
+    "start_char": 20204,
+    "end_char": 20441,
     "basis": "express_definition"
   },
   {
@@ -688,8 +688,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXIII",
-    "start_char": 20440,
-    "end_char": 20557,
+    "start_char": 20441,
+    "end_char": 20558,
     "basis": "express_definition"
   },
   {
@@ -699,8 +699,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXIV",
-    "start_char": 20557,
-    "end_char": 20757,
+    "start_char": 20558,
+    "end_char": 20758,
     "basis": "express_definition"
   },
   {
@@ -710,8 +710,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXV",
-    "start_char": 20757,
-    "end_char": 20843,
+    "start_char": 20758,
+    "end_char": 20845,
     "basis": "express_definition"
   },
   {
@@ -721,8 +721,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lse",
     "defining_provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "fraction": "LXVI",
-    "start_char": 20843,
-    "end_char": 21081,
+    "start_char": 20845,
+    "end_char": 21083,
     "basis": "express_definition"
   }
 ]

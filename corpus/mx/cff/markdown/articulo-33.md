@@ -59,7 +59,9 @@ La Secretaría de Hacienda y Crédito Público podrá expedir las reglas de car�
 
 III. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, para el mejor ejercicio de sus facultades y las de asistencia al contribuyente, podrá generar la clave de Registro Federal de Contribuyentes con base en la información de la Clave Única de Registro de Población a fin de facilitar la inscripción a dicho Registro; podrá realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y aduaneras y promover su incorporación voluntaria o actualización de sus datos en el registro federal de contribuyentes.
 
-No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Federal de Contribuyentes. IV. Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de:
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Federal de Contribuyentes.
+
+IV. Promover el cumplimiento en materia de presentación de declaraciones, así como las correcciones a su situación fiscal mediante el envío de:
 
 a) Propuestas de pago o declaraciones prellenadas.
 

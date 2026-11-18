@@ -19,7 +19,9 @@ El Ejecutivo Federal, en un plazo de trescientos sesenta días contados a partir
 
 I. Los consejos directivos, tomando en cuenta la opinión de las comisiones consultivas y los dictámenes de los comisarios, someterán a la autorización de la Secretaría de Hacienda y Crédito Público, los acuerdos de transformación, mismos que deberán contener los estados financieros de las sociedades, las bases para realizar el canje de los certificados de aportación patrimonial por acciones y los acuerdos para llevar a cabo la transformación;
 
-II. La Secretaría de Hacienda y Crédito Público señalará la forma y términos en que deberá llevarse a cabo la transformación, cuidando en todo tiempo la adecuada protección de los intereses del público; III. Los acuerdos de transformación se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tenga su domicilio la sociedad. Las transformaciones surtirán efectos en la fecha que se indique en los decretos respectivos;
+II. La Secretaría de Hacienda y Crédito Público señalará la forma y términos en que deberá llevarse a cabo la transformación, cuidando en todo tiempo la adecuada protección de los intereses del público;
+
+III. Los acuerdos de transformación se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tenga su domicilio la sociedad. Las transformaciones surtirán efectos en la fecha que se indique en los decretos respectivos;
 
 IV. Los acreedores de las sociedades no podrán oponerse a la transformación.
 
@@ -45,7 +47,9 @@ Por las operaciones previstas en los incisos anteriores, así como por las permu
 
 Para efectos fiscales, el costo de adquisición de la acción será el correspondiente al del certificado de aportación patrimonial que fue objeto de cambio.
 
-IX. Los directores generales, así como los consejeros y comisarios de las series "A" y "B", de las sociedades nacionales de crédito, instituciones de banca múltiple, continuarán en el desempeño de sus funciones mientras no se realicen nuevas designaciones y los designados tomen posesión de sus cargos; X. Al transformarse las instituciones de banca múltiple conservarán su misma personalidad jurídica y patrimonio, por lo que los bienes y derechos de que es titular la institución, así como sus obligaciones, incluyendo las de carácter laboral y fiscal, no tendrán modificación;
+IX. Los directores generales, así como los consejeros y comisarios de las series "A" y "B", de las sociedades nacionales de crédito, instituciones de banca múltiple, continuarán en el desempeño de sus funciones mientras no se realicen nuevas designaciones y los designados tomen posesión de sus cargos;
+
+X. Al transformarse las instituciones de banca múltiple conservarán su misma personalidad jurídica y patrimonio, por lo que los bienes y derechos de que es titular la institución, así como sus obligaciones, incluyendo las de carácter laboral y fiscal, no tendrán modificación;
 
 XI. Los derechos y obligaciones de los trabajadores de las sociedades que se transformen no sufrirán, por ese acto, modificación alguna;
 

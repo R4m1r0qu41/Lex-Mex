@@ -19,6 +19,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 El Poder Judicial de la Federación contará con juzgados de Distrito con jurisdicción especial en materia ambiental. En ausencia de los anteriores serán competentes para conocer de los procedimientos judiciales de responsabilidad ambiental a que hace referencia el presente Título los jueces de distrito que correspondan según la materia.
 
-SECCIÓN 2
-
-De la tutela anticipada y medidas cautelares
+SECCIÓN 2 De la tutela anticipada y medidas cautelares

@@ -7,8 +7,8 @@ provision_type: article
 number: "77"
 aliases: ["REG-LIEG — Artículo 77"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf
 source_sha256: 6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d
 ---

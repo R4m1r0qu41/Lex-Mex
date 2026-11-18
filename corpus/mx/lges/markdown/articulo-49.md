@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["LGES — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -27,7 +27,9 @@ III. Propiciar la interrelación entre el Sistema Nacional de Educación Superio
 
 IV. Diseñar e instrumentar programas para el desarrollo de la educación superior en los ámbitos nacional y estatal, articulados con los instrumentos de planeación del desarrollo, procurando la más amplia participación social;
 
-V. Promover, fomentar y coordinar acciones programáticas que vinculen la planeación institucional e interinstitucional de la educación superior con los objetivos y prioridades que demande el desarrollo comunitario, municipal, estatal y nacional; VI. Impulsar y apoyar la celebración de convenios y acuerdos para el fomento y desarrollo armónico de la educación superior y evaluar su impacto en los sectores sociales y productivos;
+V. Promover, fomentar y coordinar acciones programáticas que vinculen la planeación institucional e interinstitucional de la educación superior con los objetivos y prioridades que demande el desarrollo comunitario, municipal, estatal y nacional;
+
+VI. Impulsar y apoyar la celebración de convenios y acuerdos para el fomento y desarrollo armónico de la educación superior y evaluar su impacto en los sectores sociales y productivos;
 
 VII. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, en los términos de la presente Ley y de las demás disposiciones aplicables;
 
@@ -53,7 +55,9 @@ XVII. Establecer, en forma coordinada, las acciones y procesos para fortalecer l
 
 XVIII. Establecer los lineamientos de la educación superior impartida por particulares conforme a las disposiciones de esta Ley y las que emita la Secretaría, así como ejercer las facultades de vigilancia respecto a esos servicios de educación superior;
 
-XIX. Coordinar las acciones necesarias para integrar, ordenar y actualizar el sistema de información del Sistema Nacional de Educación Superior; XX. Elaborar de manera coordinada un informe anual sobre el estado que guarda la educación superior en el país, el cual deberá incluir un enfoque de mejora continua, la definición de áreas estratégicas y programas prioritarios, así como la información contable, presupuestaria y programática del sector. El informe será remitido al H. Congreso de la Unión, a las Legislaturas de las entidades federativas y al Consejo Nacional para la Coordinación de la Educación Superior;
+XIX. Coordinar las acciones necesarias para integrar, ordenar y actualizar el sistema de información del Sistema Nacional de Educación Superior;
+
+XX. Elaborar de manera coordinada un informe anual sobre el estado que guarda la educación superior en el país, el cual deberá incluir un enfoque de mejora continua, la definición de áreas estratégicas y programas prioritarios, así como la información contable, presupuestaria y programática del sector. El informe será remitido al H. Congreso de la Unión, a las Legislaturas de las entidades federativas y al Consejo Nacional para la Coordinación de la Educación Superior;
 
 XXI. Promover la internacionalización del Sistema Nacional de Educación Superior y de los Sistemas Locales, a través de convenios de movilidad y de otras formas de cooperación académica;
 

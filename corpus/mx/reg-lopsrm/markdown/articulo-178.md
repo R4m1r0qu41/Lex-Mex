@@ -27,4 +27,6 @@ II. El presupuesto de los trabajos pendientes de ejecutar, de acuerdo al program
 
 III. El programa de ejecución de los trabajos pendientes de ejecutar, acorde al programa de ejecución convenido, a partir del inicio del periodo en el cual se produzca el incremento en los costos;
 
-IV. El análisis de la determinación del factor de ajuste, y V. Las matrices de precios unitarios actualizados que determinen conjuntamente el contratista y la dependencia o entidad, en función de los trabajos a realizar en el periodo de ajuste.
+IV. El análisis de la determinación del factor de ajuste, y
+
+V. Las matrices de precios unitarios actualizados que determinen conjuntamente el contratista y la dependencia o entidad, en función de los trabajos a realizar en el periodo de ajuste.

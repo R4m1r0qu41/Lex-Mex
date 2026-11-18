@@ -7,8 +7,8 @@ provision_type: article
 number: "106"
 aliases: ["REG-LPF — Artículo 106"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -37,7 +37,9 @@ VIII. Formular los proyectos de adecuación y mejoras al régimen de estímulos 
 
 IX. Realizar propuestas de instituciones similares nacionales e internacionales, con las que sea posible el intercambio de información tendiente a optimizar las atribuciones de la Unidad de Asuntos Internos;
 
-X. Elaborar estudios en materia de Investigación, supervisión y vigilancia; XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos;
+X. Elaborar estudios en materia de Investigación, supervisión y vigilancia;
+
+XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
 XII. Asentar constancia por escrito de todas sus actuaciones;
 

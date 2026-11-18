@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LGEO — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 ---
@@ -47,7 +47,9 @@ XIII. Establecer la obligación de que las partes, a que hace referencia la frac
 
 XIV. Llevar y actualizar el registro de información en materia de geotermia;
 
-XV. Verificar el cumplimiento de la presente Ley y su Reglamento e imponer las sanciones administrativas derivadas de su incumplimiento; XVI. Coordinarse con otras dependencias y entidades de la Administración Pública Federal, a efecto de resolver cuestiones técnicas relacionadas en el ámbito de su competencia y derivadas de la aplicación de las disposiciones de esta Ley y su Reglamento;
+XV. Verificar el cumplimiento de la presente Ley y su Reglamento e imponer las sanciones administrativas derivadas de su incumplimiento;
+
+XVI. Coordinarse con otras dependencias y entidades de la Administración Pública Federal, a efecto de resolver cuestiones técnicas relacionadas en el ámbito de su competencia y derivadas de la aplicación de las disposiciones de esta Ley y su Reglamento;
 
 XVII. Resolver los recursos administrativos que se interpongan conforme a lo previsto por esta Ley;
 

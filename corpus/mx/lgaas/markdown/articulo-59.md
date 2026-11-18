@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["LGAAS — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -21,7 +21,9 @@ El [SINSAMAC](articulo-2.md) estará organizado en los tres niveles de gobierno,
 
 I. Una persona titular, que recae en la persona titular del Ejecutivo Federal;
 
-II. Una Dirección, que será ejercida por la persona titular de la Secretaría de Salud; III. Un Consejo Intersectorial Nacional;
+II. Una Dirección, que será ejercida por la persona titular de la Secretaría de Salud;
+
+III. Un Consejo Intersectorial Nacional;
 
 IV. Consejos Intersectoriales Estatales y de la Ciudad de México;
 

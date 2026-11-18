@@ -45,7 +45,9 @@ b) Apoyar a las Instituciones de Seguros fideicomitentes que demuestren, a satis
 
 3. Cuando, por cualquier motivo, las Instituciones de Seguros presenten problemas que pongan en peligro su estabilidad o solvencia;
 
-IV. Los apoyos previstos en el inciso b) de la fracción III de este artículo, tendrá como único propósito salvaguardar los intereses de los asegurados y beneficiarios, por lo que dichos apoyos sólo podrán destinarse a complementar los recursos que respalden la reserva de riesgos en curso a que se refiere el numeral 4, del inciso a), de la fracción I del artículo [217](articulo-217.md) de esta Ley, respecto de las prestaciones establecidas en las leyes de seguridad social respectivas; V. En el supuesto previsto en el numeral 1 del inciso b) de la fracción III de este artículo, previo al otorgamiento del apoyo del fondo especial se deberá agotar el saldo de las reservas matemática especial y de contingencia de la Institución de Seguros respectiva;
+IV. Los apoyos previstos en el inciso b) de la fracción III de este artículo, tendrá como único propósito salvaguardar los intereses de los asegurados y beneficiarios, por lo que dichos apoyos sólo podrán destinarse a complementar los recursos que respalden la reserva de riesgos en curso a que se refiere el numeral 4, del inciso a), de la fracción I del artículo [217](articulo-217.md) de esta Ley, respecto de las prestaciones establecidas en las leyes de seguridad social respectivas;
+
+V. En el supuesto previsto en el numeral 1 del inciso b) de la fracción III de este artículo, previo al otorgamiento del apoyo del fondo especial se deberá agotar el saldo de las reservas matemática especial y de contingencia de la Institución de Seguros respectiva;
 
 VI. En el supuesto a que se refiere el numeral 2 del inciso b) de la fracción III de este artículo, el apoyo del fondo especial sólo podrá otorgarse una vez que se haya agotado el saldo de la reserva para fluctuación de inversiones de la Institución de Seguros de que se trate;
 

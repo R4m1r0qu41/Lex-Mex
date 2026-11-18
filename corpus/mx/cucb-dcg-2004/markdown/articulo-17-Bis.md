@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 17 Bis"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -17,6 +18,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 17 Bis
 
-El Líder colocador o Intermediario colocador en una Oferta pública no podrá fungir como (108)
-
-Formador de mercado de los Valores objeto de la oferta o de aquéllos respecto de los cuales haya tenido acceso a información privilegiada con motivo de la colocación, sino hasta después de la fecha de conclusión del plazo de la oferta previsto en el prospecto de información y, en su caso, una vez concluido el período de Estabilización.
+El [Líder colocador](articulo-1.md) o [Intermediario colocador](articulo-1.md) en una Oferta pública no podrá fungir como [Formador de mercado](articulo-1.md) de los [Valores](articulo-1.md) objeto de la oferta o de aquéllos respecto de los cuales haya tenido acceso a información privilegiada con motivo de la colocación, sino hasta después de la fecha de conclusión del plazo de la oferta previsto en el prospecto de información y, en su caso, una vez concluido el período de [Estabilización](articulo-1.md).

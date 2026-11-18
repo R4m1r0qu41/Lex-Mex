@@ -23,7 +23,9 @@ I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizado
 
 II. Explotar, usar o aprovechar aguas nacionales sin cumplir con las [Normas Oficiales Mexicanas](articulo-3.md) en materia de calidad;
 
-III. Descargar en forma permanente o intermitente aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente; IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga, excepto cuando se trate de aguas residuales provenientes de procesos de desalinización; Fracción reformada DOF 11-12-2025
+III. Descargar en forma permanente o intermitente aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente;
+
+IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga, excepto cuando se trate de aguas residuales provenientes de procesos de desalinización; Fracción reformada DOF 11-12-2025
 
 V. Ejecutar obras para alumbrar, extraer o disponer de aguas del subsuelo en zonas reglamentadas, de veda o reservadas, sin el permiso de "la Autoridad del Agua";
 

@@ -37,7 +37,9 @@ VIII. Proporcionar la asesoría y apoyo que, en materia de relaciones laborales 
 
 IX. Expedir los nombramientos, licencias, reubicación y baja del personal de la Procuraduría, de conformidad con la normativa aplicable, en coordinación con el Centro de Evaluación y Control de Confianza y las demás unidades administrativas y órganos desconcentrados competentes, con excepción del personal ministerial, policial y pericial;
 
-X. Realizar la liquidación y pago de las remuneraciones al personal, así como la aplicación de descuentos procedentes; XI. Efectuar las liquidaciones, reinstalaciones, reincorporaciones, tramitación del pago de salarios caídos y otras prestaciones que ordenen las autoridades administrativas o judiciales, previa consulta con la Dirección General de Asuntos Jurídicos;
+X. Realizar la liquidación y pago de las remuneraciones al personal, así como la aplicación de descuentos procedentes;
+
+XI. Efectuar las liquidaciones, reinstalaciones, reincorporaciones, tramitación del pago de salarios caídos y otras prestaciones que ordenen las autoridades administrativas o judiciales, previa consulta con la Dirección General de Asuntos Jurídicos;
 
 XII. Cubrir los importes a favor de las dependencias y entidades de la Administración Pública Federal, de la representación sindical autorizada y de terceros, de las cantidades que les correspondan con motivo de deducciones efectuadas por su cuenta al personal de la Procuraduría;
 

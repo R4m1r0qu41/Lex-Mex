@@ -23,7 +23,9 @@ I. Los navieros y operadores por carecer del seguro a que se refiere el artícul
 
 II. Las personas físicas o morales que actúen como agente naviero u operador, sin estar autorizados o inscritos en el Registro Público Marítimo Nacional, respectivamente;
 
-III. Por prestar los servicios a que se refiere el artículo [42](articulo-42.md) de esta Ley, sin permiso de la Secretaría; IV. Los solicitantes de permisos temporales de navegación que de cualquier manera realicen actos u omisiones con el propósito de obtener aquél de modo ilícito;
+III. Por prestar los servicios a que se refiere el artículo [42](articulo-42.md) de esta Ley, sin permiso de la Secretaría;
+
+IV. Los solicitantes de permisos temporales de navegación que de cualquier manera realicen actos u omisiones con el propósito de obtener aquél de modo ilícito;
 
 V. Los capitanes y patrones de embarcaciones por no utilizar el servicio de pilotaje o remolque cuando éste sea obligatorio;
 

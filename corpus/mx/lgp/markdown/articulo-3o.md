@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["LGP — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf
 source_sha256: 15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780
 ---
@@ -25,7 +25,9 @@ II.- Realizar programas de planeación familiar a través de los servicios educa
 
 III.- Disminuir la mortalidad;
 
-IV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan; V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural; Fracción adicionada DOF 31-12-1974
+IV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan;
+
+V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural; Fracción adicionada DOF 31-12-1974
 
 VI.- Promover la plena integración de los grupos marginados al desarrollo nacional; Fracción recorrida DOF 31-12-1974
 

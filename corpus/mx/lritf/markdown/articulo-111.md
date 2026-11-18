@@ -29,7 +29,9 @@ II. Domicilio para oír y recibir toda clase de citas y notificaciones, el cual 
 
 III. Los documentos con los que se acredita la personalidad de quien promueve;
 
-IV. El acto que se recurre y la fecha de su notificación; V. Los agravios que se le causen con motivo del acto señalado en la fracción IV de este artículo, y
+IV. El acto que se recurre y la fecha de su notificación;
+
+V. Los agravios que se le causen con motivo del acto señalado en la fracción IV de este artículo, y
 
 VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
 

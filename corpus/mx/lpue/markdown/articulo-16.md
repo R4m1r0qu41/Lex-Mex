@@ -23,7 +23,9 @@ I. Formular y conducir las políticas y programas para el desarrollo del sistema
 
 II. Fomentar la participación de los sectores social y privado, así como de los gobiernos estatales y municipales, en la explotación de puertos, terminales, marinas e instalaciones portuarias, así como impulsar la competitividad de los puertos mexicanos en sus instalaciones, servicios y tarifas, atendiendo a los intereses de la Nación; Fracción reformada DOF 11-06-2012
 
-II. Bis. Fomentar que los distintos tipos de servicios de transporte que convergen en los puertos nacionales se interconecten de manera eficiente; Fracción adicionada DOF 11-06-2012 II. Ter. Fomentar que los servicios mediante los cuales se atiendan embarcaciones, personas y bienes en navegación entre puertos o puntos nacionales, sean prestados de manera eficiente; Fracción adicionada DOF 11-06-2012
+II. Bis. Fomentar que los distintos tipos de servicios de transporte que convergen en los puertos nacionales se interconecten de manera eficiente; Fracción adicionada DOF 11-06-2012
+
+II. Ter. Fomentar que los servicios mediante los cuales se atiendan embarcaciones, personas y bienes en navegación entre puertos o puntos nacionales, sean prestados de manera eficiente; Fracción adicionada DOF 11-06-2012
 
 III. Autorizar para navegación de altura terminales de uso particular y marinas, cuando no se encuentren dentro de un puerto;
 

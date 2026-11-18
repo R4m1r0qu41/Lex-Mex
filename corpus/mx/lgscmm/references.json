@@ -111,19 +111,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:reference:2756-2757:14:direct",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:reference:2757-2758:14:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "source_span": "I",
-    "start_char": 2756,
-    "end_char": 2757,
+    "start_char": 2757,
+    "end_char": 2758,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgscmm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 2756,
-        "end_char": 2757
+        "start_char": 2757,
+        "end_char": 2758
       }
     ],
     "basis": "express_cross_reference",

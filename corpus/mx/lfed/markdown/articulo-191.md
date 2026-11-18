@@ -41,7 +41,9 @@ X. La solicitud de las medidas cautelares necesarias en los términos que establ
 
 XI. Las constancias, documentos y demás instrumentos a su disposición con los que sustente la acción;
 
-XII. Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales o señalar el archivo donde se encuentren, cumpliendo para tal efecto con los requisitos legales correspondientes; XIII. El número de copias simples necesario para correr traslado a cada una de las personas demandadas, tanto de la demanda, como de los documentos que se anexan, pudiendo realizar dicha entrega con los medios electrónicos disponibles, previa constancia de su recepción.
+XII. Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales o señalar el archivo donde se encuentren, cumpliendo para tal efecto con los requisitos legales correspondientes;
+
+XIII. El número de copias simples necesario para correr traslado a cada una de las personas demandadas, tanto de la demanda, como de los documentos que se anexan, pudiendo realizar dicha entrega con los medios electrónicos disponibles, previa constancia de su recepción.
 
 Si excedieren los documentos de cincuenta hojas, quedarán en el tribunal para que se instruya a la Parte Demandada o a la [Persona Afectada](articulo-2.md) que corresponda, y
 

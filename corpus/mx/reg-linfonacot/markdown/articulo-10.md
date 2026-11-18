@@ -19,7 +19,9 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 En la formulación de su programa operativo anual, el Instituto deberá considerar lo siguiente:
 
-I. La congruencia con las estrategias, políticas y los objetivos del Gobierno Federal y de la Secretaría del Trabajo; II. La evaluación de los resultados de la ejecución de sus programas de ejercicios anteriores, y el análisis de desempeño entre las acciones realizadas y sus objetivos y metas;
+I. La congruencia con las estrategias, políticas y los objetivos del Gobierno Federal y de la Secretaría del Trabajo;
+
+II. La evaluación de los resultados de la ejecución de sus programas de ejercicios anteriores, y el análisis de desempeño entre las acciones realizadas y sus objetivos y metas;
 
 III. La integración y actualización de los proyectos que integran su programa financiero anual, y
 

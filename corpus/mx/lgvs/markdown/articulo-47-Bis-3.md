@@ -21,7 +21,9 @@ La [Secretaría](articulo-3o.md) negará la autorización de aprovechamiento, o 
 
 I. Se solicite la creación de Unidades de Manejo que involucre el aprovechamiento extractivo de especies en peligro de extinción o amenazadas dentro del polígono de áreas naturales protegidas, excepto en aquellos casos en que el plan de manejo del área natural protegida así lo permita;
 
-II. Se obstaculice por cualquier medio, el libre tránsito o movimiento de ejemplares de vida silvestre en corredores biológicos o áreas naturales protegidas; III. El responsable técnico no acredite la capacidad técnica y operativa para ejercer el cargo;
+II. Se obstaculice por cualquier medio, el libre tránsito o movimiento de ejemplares de vida silvestre en corredores biológicos o áreas naturales protegidas;
+
+III. El responsable técnico no acredite la capacidad técnica y operativa para ejercer el cargo;
 
 IV. Exista duplicidad, inconsistencias o falsedad en los datos proporcionados sobre la especie o los estudios poblacionales;
 

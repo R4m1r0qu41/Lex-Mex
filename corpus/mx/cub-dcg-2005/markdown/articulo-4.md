@@ -10,14 +10,14 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
 
 # Artículo 4
 
-Las Instituciones deberán considerar como parte de la Actividad Crediticia, cuando menos, los conceptos siguientes:
+Las Instituciones deberán considerar como parte de la [Actividad Crediticia](articulo-1.md), cuando menos, los conceptos siguientes:
 
 I. Fundamentos del ejercicio de crédito, que incluyen:
 
@@ -31,4 +31,4 @@ a) Originación del crédito.
 
 b) Administración del crédito.
 
-En el desarrollo de los mencionados fundamentos y funciones deberá especificarse la participación de los distintos órganos sociales y áreas de la Institución, procurando en todo momento Independencia en la realización de sus respectivas actividades, para evitar conflictos de interés.
+En el desarrollo de los mencionados fundamentos y funciones deberá especificarse la participación de los distintos órganos sociales y áreas de la Institución, procurando en todo momento [Independencia](articulo-1.md) en la realización de sus respectivas actividades, para evitar conflictos de interés.

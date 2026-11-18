@@ -23,7 +23,9 @@ I. Deberán contar con una integración y atribuciones equivalentes a las que es
 
 II. Tendrán acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones;
 
-III. Las recomendaciones, políticas públicas e informes que emita deberán tener respuesta de los sujetos públicos a quienes se dirija; IV. Deberán contar con las atribuciones y procedimientos adecuados para dar seguimiento a las recomendaciones, informes y políticas que emitan;
+III. Las recomendaciones, políticas públicas e informes que emita deberán tener respuesta de los sujetos públicos a quienes se dirija;
+
+IV. Deberán contar con las atribuciones y procedimientos adecuados para dar seguimiento a las recomendaciones, informes y políticas que emitan;
 
 V. Rendirán un informe público a los titulares de los poderes en el que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional;
 

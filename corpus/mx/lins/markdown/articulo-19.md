@@ -33,7 +33,9 @@ V. Formular denuncias y querellas, así como otorgar el perdón legal;
 
 VI. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
 
-VII. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje; VIII. Proponer a la Junta de Gobierno los estímulos que deban otorgarse al personal del Instituto;
+VII. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje;
+
+VIII. Proponer a la Junta de Gobierno los estímulos que deban otorgarse al personal del Instituto;
 
 IX. Otorgar reconocimientos no económicos a personas físicas o morales benefactoras del Instituto, incluidos aquellos que consistan en testimonios públicos permanentes;
 

@@ -62,7 +62,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:2",
     "fraction": "VI",
     "start_char": 761,
-    "end_char": 1302,
+    "end_char": 1022,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftaipg:term:servidores-publicos-habilitados",
+    "term": "Servidores públicos habilitados",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lftaipg",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:2",
+    "fraction": "VII",
+    "start_char": 1022,
+    "end_char": 1303,
     "basis": "express_definition"
   }
 ]

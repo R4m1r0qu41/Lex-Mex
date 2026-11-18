@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 8"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [275]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
@@ -23,7 +24,7 @@ I. Las funciones y responsabilidades de los distintos órganos sociales, áreas 
 
 II. Las facultades de los órganos sociales y/o funcionarios autorizados para la originación de los diferentes tipos de crédito, estableciendo los niveles de autorización o de otorgamiento tanto por monto como por tipo.
 
-III. Las estrategias y políticas de originación de la Actividad Crediticia, las cuales, además de guardar congruencia con las características y capacidades de la Institución, deberán considerar los elementos siguientes:
+III. Las estrategias y políticas de originación de la [Actividad Crediticia](articulo-1.md), las cuales, además de guardar congruencia con las características y capacidades de la Institución, deberán considerar los elementos siguientes:
 
 a) Segmentos o sectores a los que se enfocará la Institución.
 
@@ -43,4 +44,4 @@ c) Las quitas, castigos, quebrantos o bonificaciones.
 
 d) La recuperación tanto administrativa como judicial de los distintos tipos de crédito.
 
-(275) e) Identificación de la etapa de riesgo de crédito según se establece en el Criterio B-6 “Cartera de Crédito” de los Criterios Contables y en las metodologías a que hacen referencia el Capítulo V Bis y en el Capítulo V Bis 1 del Título Segundo de las presentes disposiciones.
+e) Identificación de la etapa de riesgo de crédito según se establece en el Criterio B-6 “Cartera de Crédito” de los [Criterios Contables](articulo-1.md) y en las metodologías a que hacen referencia el Capítulo V Bis y en el Capítulo V Bis 1 del Título Segundo de las presentes disposiciones.

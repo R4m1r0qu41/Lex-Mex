@@ -19,7 +19,9 @@ source_sha256: 04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6
 
 La solicitud de protección de datos será sobreseída cuando:
 
-I. La persona titular fallezca; II. La persona titular se desista de manera expresa;
+I. La persona titular fallezca;
+
+II. La persona titular se desista de manera expresa;
 
 III. Admitida la solicitud de protección de datos, sobrevenga una causal de improcedencia, y
 

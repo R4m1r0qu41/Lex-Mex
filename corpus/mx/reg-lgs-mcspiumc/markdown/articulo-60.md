@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["REG-LGS-MCSPIUMC — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf
 source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 ---
@@ -21,7 +21,9 @@ Para obtener el permiso previo de [Importación](articulo-3.md) de [Derivados Fa
 
 I. Licencia sanitaria;
 
-II. Aviso de responsable sanitario en términos del artículo [259](../../lgs/markdown/articulo-259.md) de la [Ley](articulo-3.md); III. [Libros de Control](articulo-3.md) autorizados e informar sus previsiones anuales;
+II. Aviso de responsable sanitario en términos del artículo [259](../../lgs/markdown/articulo-259.md) de la [Ley](articulo-3.md);
+
+III. [Libros de Control](articulo-3.md) autorizados e informar sus previsiones anuales;
 
 IV. Copia del [Protocolo de Investigación](articulo-3.md) autorizado por la [COFEPRIS](articulo-3.md), cuando la Importación sea para fines de investigación, y
 

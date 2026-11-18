@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfed:article:2",
-      "provision_text_sha256": "f32d297195a04c9e6a31836b8d7540084bff77f4fa4044e0e74ddb9433712d28",
+      "provision_text_sha256": "a2d98576c98dc6080ba78f8316f5f1e58e9f091958d03283e2ca8ee16a268071",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -40,5 +40,5 @@
   ],
   "imports": [],
   "term_count": 22,
-  "usage_count": 680
+  "usage_count": 679
 }

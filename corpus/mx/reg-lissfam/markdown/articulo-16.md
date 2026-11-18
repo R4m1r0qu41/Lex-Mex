@@ -8,7 +8,7 @@ number: "16"
 aliases: ["REG-LISSFAM — Artículo 16"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf
 source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 ---

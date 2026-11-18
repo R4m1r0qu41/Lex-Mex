@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LGV — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -27,7 +27,7 @@ Los familiares de las víctimas tienen el derecho a estar presentes en las exhum
 
 La [Comisión Ejecutiva](articulo-6.md) con cargo a los recursos autorizados para tal fin, así como las [Comisiones de víctimas](articulo-6.md) de las entidades federativas con cargo a su Fondo Estatal, según corresponda, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia. Párrafo adicionado DOF 03-01-2017. Reformado DOF 06-11-2020
 
-Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley, en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el [Reglamento](articulo-6.md) de esta Ley. Párrafo reformado DOF 03-01-2017
+Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta [Ley](articulo-6.md), en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el [Reglamento](articulo-6.md) de esta Ley. Párrafo reformado DOF 03-01-2017
 
 En caso necesario, a efecto de garantizar las investigaciones, la autoridad deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto haya una sentencia ejecutoriada. Las autoridades ministeriales tampoco podrán autorizar ni procesar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, hasta en tanto no haya sentencia ejecutoriada. Párrafo reformado DOF 03-01-2017
 

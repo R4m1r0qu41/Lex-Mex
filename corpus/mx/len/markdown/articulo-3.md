@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LEN — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf
 source_sha256: 1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a
 ---
@@ -19,7 +19,9 @@ source_sha256: 1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a
 
 Para los efectos de esta [Ley](articulo-3.md) y su Reglamento, se entenderá por:
 
-I. Autoridad Educativa Naval:·El Secretario de Marina, Oficial Mayor de Marina y [Rector](articulo-3.md) de la [Universidad Naval](articulo-3.md); II. Cultura Naval: Tradiciones y costumbres, que se han forjado como rasgo de identidad, reflejados en la memoria histórica a través de hechos heroicos, así como en los valores en el actuar del marino;
+I. Autoridad Educativa Naval:·El Secretario de Marina, Oficial Mayor de Marina y [Rector](articulo-3.md) de la [Universidad Naval](articulo-3.md);
+
+II. Cultura Naval: Tradiciones y costumbres, que se han forjado como rasgo de identidad, reflejados en la memoria histórica a través de hechos heroicos, así como en los valores en el actuar del marino;
 
 III. Director: El titular de cada [Establecimiento Educativo Naval](articulo-3.md);
 

@@ -150,7 +150,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
     "fraction": "XIV",
     "start_char": 2700,
-    "end_char": 3164,
+    "end_char": 2889,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:zona-rural",
+    "term": "Zona Rural",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "XV",
+    "start_char": 2889,
+    "end_char": 3165,
     "basis": "express_definition"
   }
 ]

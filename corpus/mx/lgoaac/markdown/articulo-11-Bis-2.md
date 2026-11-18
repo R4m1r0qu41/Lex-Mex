@@ -19,7 +19,9 @@ source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 
 Además de las actividades señaladas en el artículo [11](articulo-11.md), los almacenes generales de depósito podrán realizar las siguientes actividades, sin que éstas constituyan su actividad preponderante, salvo que se trate de los servicios previstos en la fracción IX:
 
-I. Prestar servicios de acopio, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, incluyendo los previstos por el artículo [20](articulo-20.md) de esta Ley, cumpliendo con las normas de inocuidad, sanidad, calidad, almacenamiento y refrigeración para el caso de bienes agropecuarios y pesqueros; II. Certificar la calidad así como valuar los bienes o mercancías;
+I. Prestar servicios de acopio, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, incluyendo los previstos por el artículo [20](articulo-20.md) de esta Ley, cumpliendo con las normas de inocuidad, sanidad, calidad, almacenamiento y refrigeración para el caso de bienes agropecuarios y pesqueros;
+
+II. Certificar la calidad así como valuar los bienes o mercancías;
 
 III. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 

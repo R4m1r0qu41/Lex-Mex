@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["LDRS — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -27,7 +27,9 @@ I. El impulso a la investigación y desarrollo tecnológico agropecuario, la apr
 
 II. El desarrollo de los recursos humanos, la asistencia técnica y el fomento a la organización económica y social de los agentes de la sociedad rural;
 
-III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura hidroagrícola, el mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales; IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
+III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura hidroagrícola, el mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales;
+
+IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
 
 V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los productos;
 

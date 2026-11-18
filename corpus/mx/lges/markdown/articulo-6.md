@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LGES — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -31,7 +31,9 @@ V. Autorización, al acuerdo previo y expreso de la autoridad educativa de las e
 
 VI. Estado, a la Federación, las entidades federativas y los municipios;
 
-VII. Fondo, al Fondo Federal Especial para la obligatoriedad y gratuidad de la educación superior; VIII. Gratuidad, a las acciones que promueva el [Estado](articulo-6.md) para eliminar progresivamente los cobros de las instituciones públicas de educación superior a estudiantes por conceptos de inscripción, reinscripción y cuotas escolares ordinarias, en los programas educativos de técnico superior universitario, licenciatura y posgrado, así como para fortalecer la situación financiera de las mismas, ante la disminución de ingresos que se observe derivado de la implementación de la gratuidad;
+VII. Fondo, al Fondo Federal Especial para la obligatoriedad y gratuidad de la educación superior;
+
+VIII. Gratuidad, a las acciones que promueva el [Estado](articulo-6.md) para eliminar progresivamente los cobros de las instituciones públicas de educación superior a estudiantes por conceptos de inscripción, reinscripción y cuotas escolares ordinarias, en los programas educativos de técnico superior universitario, licenciatura y posgrado, así como para fortalecer la situación financiera de las mismas, ante la disminución de ingresos que se observe derivado de la implementación de la gratuidad;
 
 IX. Instituciones públicas de educación superior con autonomía constitucional y legal, a las universidades y demás instituciones de educación superior autónomas que cuenten con la facultad de autogobierno o de gobernarse a sí mismas, derivada de la Constitución Política de los Estados Unidos Mexicanos, una constitución de una entidad federativa o de una ley en sentido formal y material;
 

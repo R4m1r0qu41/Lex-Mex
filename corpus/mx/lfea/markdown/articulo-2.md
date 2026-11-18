@@ -21,7 +21,9 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Federal, y de las unidades administrativas de la Presidencia de la República, utilicen la firma electrónica avanzada; Fracción reformada DOF 20-05-2021
 
-II. Actuaciones Electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y, en su caso, las resoluciones administrativas definitivas que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos; III. Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de medios de comunicación electrónica para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por esta Ley;
+II. Actuaciones Electrónicas: las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y, en su caso, las resoluciones administrativas definitivas que se emitan en los actos a que se refiere esta Ley que sean comunicadas por medios electrónicos;
+
+III. Acuse de Recibo Electrónico: el mensaje de datos que se emite o genera a través de medios de comunicación electrónica para acreditar de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos establecidos por esta Ley;
 
 IV. Autoridad Certificadora: las dependencias y entidades de la Administración Pública Federal y los prestadores de servicios de certificación que conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos;
 
@@ -45,7 +47,9 @@ XIII. Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite
 
 XIV. Firmante: toda persona que utiliza su firma electrónica avanzada para suscribir documentos electrónicos y, en su caso, mensajes de datos;
 
-XV. Medios de Comunicación Electrónica: los dispositivos tecnológicos que permiten efectuar la transmisión y recepción de mensajes de datos y documentos electrónicos; XVI. Medios Electrónicos: los dispositivos tecnológicos para el procesamiento, impresión, despliegue, conservación y, en su caso, modificación de información;
+XV. Medios de Comunicación Electrónica: los dispositivos tecnológicos que permiten efectuar la transmisión y recepción de mensajes de datos y documentos electrónicos;
+
+XVI. Medios Electrónicos: los dispositivos tecnológicos para el procesamiento, impresión, despliegue, conservación y, en su caso, modificación de información;
 
 XVII. Mensaje de Datos: la información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
 

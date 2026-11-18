@@ -23,7 +23,9 @@ I. El engaño;
 
 II. La violencia física o moral;
 
-III. El abuso de poder; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS IV. El aprovechamiento de una situación de vulnerabilidad;
+III. El abuso de poder;
+
+IV. El aprovechamiento de una situación de vulnerabilidad;
 
 V. Daño grave o amenaza de daño grave; o
 

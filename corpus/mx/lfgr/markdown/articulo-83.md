@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["LFGR — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
 source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 ---
@@ -25,7 +25,9 @@ II. Los bienes muebles o inmuebles con los que cuente, así como los que adquier
 
 III. Los bienes que le sean transferidos para el cumplimiento de sus funciones constitucionales y legales;
 
-IV. Los derechos de los fideicomisos o fondos destinados al cumplimiento de las funciones de la Fiscalía General; V. Las utilidades, intereses, dividendos, rentas y aprovechamientos de sus bienes muebles e inmuebles;
+IV. Los derechos de los fideicomisos o fondos destinados al cumplimiento de las funciones de la Fiscalía General;
+
+V. Las utilidades, intereses, dividendos, rentas y aprovechamientos de sus bienes muebles e inmuebles;
 
 VI. Los que reciba por concepto de los bienes o productos que enajene, y los trámites y servicios que preste, así como de otras actividades que redunden en un ingreso propio;
 

@@ -78,5 +78,10 @@
     "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:amendment:2021-05-20:transitory:decimo-sexto",
     "label": "Transitorio Décimo Sexto — Decreto DOF 2021-05-20",
     "text": "Quedan derogadas todas las disposiciones que se opongan a este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:amendment:2024-04-01:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2024-04-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   }
 ]

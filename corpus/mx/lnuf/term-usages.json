@@ -28,12 +28,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnuf:article:2:term-usage:952-955",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:2:term-usage:953-956",
     "provision_id": "urn:lex-mx:federal:statute:lnuf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
     "span": "Ley",
-    "start_char": 952,
-    "end_char": 955
+    "start_char": 953,
+    "end_char": 956
   },
   {
     "schema_version": "0.1.0",

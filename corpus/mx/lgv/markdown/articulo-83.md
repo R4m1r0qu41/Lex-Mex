@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["LGV — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 83
 
-Quienes integren el [Sistema](articulo-6.md) se reunirán en Pleno o en comisiones las cuales se deberán crear de conformidad con lo establecido en el [Reglamento](articulo-6.md) de esta Ley.
+Quienes integren el [Sistema](articulo-6.md) se reunirán en Pleno o en comisiones las cuales se deberán crear de conformidad con lo establecido en el [Reglamento](articulo-6.md) de esta [Ley](articulo-6.md).
 
 El Pleno se reunirá por lo menos una vez cada seis meses a convocatoria de su Presidencia quien integrará la agenda de los asuntos a tratar y en forma extraordinaria, cada que una situación urgente así lo requiera. Las personas integrantes tienen obligación de comparecer a las sesiones. El quórum para las reuniones del Sistema se conformará con la mitad más una de sus personas integrantes. Los acuerdos se tomarán por la mayoría de las personas presentes con derecho a voto.
 

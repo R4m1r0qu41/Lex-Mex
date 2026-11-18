@@ -35,7 +35,9 @@ b) Contratar una renta vitalicia por una cuantía mayor; o
 
 c) Aplicar el excedente a un pago de sobreprima para incrementar los beneficios del seguro de sobrevivencia.
 
-Los seguros de renta vitalicia y de sobrevivencia se sujetarán a lo dispuesto en el artículo [159](articulo-159.md) fracciones IV y VI de esta Ley; III. Si la incapacidad declarada es permanente parcial, superior al cincuenta por ciento, el asegurado recibirá una pensión que será otorgada por la institución de seguros que elija en los términos de la fracción anterior.
+Los seguros de renta vitalicia y de sobrevivencia se sujetarán a lo dispuesto en el artículo [159](articulo-159.md) fracciones IV y VI de esta Ley;
+
+III. Si la incapacidad declarada es permanente parcial, superior al cincuenta por ciento, el asegurado recibirá una pensión que será otorgada por la institución de seguros que elija en los términos de la fracción anterior.
 
 El monto de la pensión se calculará conforme a la tabla de valuación de incapacidad contenida en la Ley Federal de Trabajo, tomando como base el monto de la pensión que correspondería a la incapacidad permanente total. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecidos en dicha tabla teniendo en cuenta la edad del trabajador, la importancia de la incapacidad, si ésta es absoluta para el ejercicio de su profesión aun cuando quede habilitado para dedicarse a otra, o que simplemente hayan disminuido sus aptitudes para el desempeño de la misma o para ejercer actividades remuneradas semejantes a su profesión u oficio.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "55"
 aliases: ["LDRS — Artículo 55"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -33,4 +33,6 @@ VI. Promover la adopción de tecnologías que conserven y mejoren la productivid
 
 VII. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
 
-VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
+VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y
+
+IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.

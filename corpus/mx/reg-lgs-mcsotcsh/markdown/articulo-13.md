@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -27,6 +27,8 @@ III.- El Ministerio Público, en relación a los órganos, tejidos y cadáveres 
 
 IV.- La autoridad judicial;
 
-V.- Los representantes legales de menores e incapaces, únicamente en relación a la disposición de cadáveres; VI.- Las instituciones educativas con respecto a los órganos, tejidos y cadáveres que les sean proporcionados para investigación o docencia, una vez que venza en plazo de reclamación sin que ésta se haya efectuado, y
+V.- Los representantes legales de menores e incapaces, únicamente en relación a la disposición de cadáveres;
+
+VI.- Las instituciones educativas con respecto a los órganos, tejidos y cadáveres que les sean proporcionados para investigación o docencia, una vez que venza en plazo de reclamación sin que ésta se haya efectuado, y
 
 VII.- Los además a quienes las disposiciones generales aplicables les confieren tal carácter, con las condiciones y requisitos que se señalan en las mismas.

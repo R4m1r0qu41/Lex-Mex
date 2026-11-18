@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 18"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [242]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
@@ -23,6 +24,4 @@ En el caso de las resoluciones de los comités de crédito, éstas se harán con
 
 En el caso de las resoluciones de funcionarios de la Institución facultados para aprobar créditos, éstas se harán constar en los documentos que especifique el manual de crédito para tal efecto, los cuales deberán estar suscritos por el funcionario que emitió la correspondiente resolución.
 
-El manual de crédito deberá designar al área responsable de la guarda y custodia de las actas o (242)
-
-minutas y documentos referidos en el párrafo anterior, los cuales deberán estar a disposición de los responsables de las funciones de contraloría interna y auditoría interna. Lo anterior, sin perjuicio de que, conforme al manual de crédito, deba hacerse llegar a otras áreas de la Institución copia de tales actas y documentos. Las autoridades competentes podrán, en todo momento, requerir a las Instituciones los documentos señalados en este párrafo.
+El manual de crédito deberá designar al área responsable de la guarda y custodia de las actas o minutas y documentos referidos en el párrafo anterior, los cuales deberán estar a disposición de los responsables de las funciones de contraloría interna y auditoría interna. Lo anterior, sin perjuicio de que, conforme al manual de crédito, deba hacerse llegar a otras áreas de la Institución copia de tales actas y documentos. Las autoridades competentes podrán, en todo momento, requerir a las Instituciones los documentos señalados en este párrafo.

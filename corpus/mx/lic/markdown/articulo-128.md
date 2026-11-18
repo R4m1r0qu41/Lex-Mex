@@ -25,7 +25,9 @@ II. Se deje de cumplir o se incumpla con alguno de los requisitos para el inicio
 
 III. Se realicen operaciones distintas a las autorizadas;
 
-IV. Se incumpla con los requisitos necesarios para realizar operaciones o proporcionar servicios específicos, establecidos en disposiciones de carácter general; V. Se realicen operaciones o proporcionen servicios que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en actividades que estén prohibidas en esta Ley o en las disposiciones que de ella emanen, y
+IV. Se incumpla con los requisitos necesarios para realizar operaciones o proporcionar servicios específicos, establecidos en disposiciones de carácter general;
+
+V. Se realicen operaciones o proporcionen servicios que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en actividades que estén prohibidas en esta Ley o en las disposiciones que de ella emanen, y
 
 VI. En los demás casos que señalen ésta u otras leyes.
 

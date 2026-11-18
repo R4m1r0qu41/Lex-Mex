@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LSEM — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf
 source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 ---
@@ -21,7 +21,9 @@ El rango de los Miembros del Servicio Exterior y la fecha de arribo a la [Adscri
 
 I. Embajador o Representante Permanente;
 
-II. Jefe de Cancillería o Representante Alterno; III. Agregados militares y aéreos o navales; ministros o consejeros de carrera y asimilados en estos rangos, así como jefes de Sección Consular;
+II. Jefe de Cancillería o Representante Alterno;
+
+III. Agregados militares y aéreos o navales; ministros o consejeros de carrera y asimilados en estos rangos, así como jefes de Sección Consular;
 
 IV. Secretarios de carrera y asimilados en estos rangos y agregados militares y aéreos o navales adjuntos, y
 

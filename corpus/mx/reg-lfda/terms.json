@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:2",
     "fraction": "VIII",
     "start_char": 470,
-    "end_char": 611,
+    "end_char": 612,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:2",
     "fraction": "IX",
-    "start_char": 611,
-    "end_char": 733,
+    "start_char": 612,
+    "end_char": 734,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:2",
     "fraction": "X",
-    "start_char": 733,
-    "end_char": 787,
+    "start_char": 734,
+    "end_char": 788,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:2",
     "fraction": "XI",
-    "start_char": 787,
-    "end_char": 839,
+    "start_char": 788,
+    "end_char": 840,
     "basis": "express_definition"
   }
 ]

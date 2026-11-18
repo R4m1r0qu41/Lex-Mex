@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LFIV — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 ---
@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 26
 
-La Secretaría de Relaciones Exteriores, en coordinación con la Comisión, apoyará al [Sector](articulo-3.md) promocionando al [Vino Mexicano](articulo-3.md) a través de todas sus representaciones, embajadas y consulados, dentro y fuera del territorio nacional, promoviendo la oferta y calidad del Vino Mexicano en el extranjero.
+La Secretaría de Relaciones Exteriores, en coordinación con la [Comisión](articulo-3.md), apoyará al [Sector](articulo-3.md) promocionando al [Vino Mexicano](articulo-3.md) a través de todas sus representaciones, embajadas y consulados, dentro y fuera del territorio nacional, promoviendo la oferta y calidad del Vino Mexicano en el extranjero.

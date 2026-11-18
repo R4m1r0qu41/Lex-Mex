@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LIH — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
 source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 ---
@@ -23,7 +23,9 @@ I. Fondear sus actividades;
 
 II. Entregar al [Fondo Mexicano del Petróleo](articulo-3.md) las [Contraprestaciones](articulo-3.md) a favor del Estado Mexicano, conforme a los términos del Contrato, cuando corresponda;
 
-III. Para aquellos Contratos que incluyan como Contraprestación la recuperación de costos, gastos e inversiones, observar las reglas y bases que al respecto se incluyan en los Contratos. Dichas reglas y bases se sujetarán a los lineamientos que emita la [Secretaría](articulo-3.md); IV. Observar las reglas y bases sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de los Contratos que se incluyan en cada uno de ellos. Dichas reglas y bases se sujetarán a principios de transparencia, economía y eficiencia conforme a los lineamientos que emita la Secretaría;
+III. Para aquellos Contratos que incluyan como Contraprestación la recuperación de costos, gastos e inversiones, observar las reglas y bases que al respecto se incluyan en los Contratos. Dichas reglas y bases se sujetarán a los lineamientos que emita la [Secretaría](articulo-3.md);
+
+IV. Observar las reglas y bases sobre la procura de bienes y servicios para las actividades llevadas a cabo al amparo de los Contratos que se incluyan en cada uno de ellos. Dichas reglas y bases se sujetarán a principios de transparencia, economía y eficiencia conforme a los lineamientos que emita la Secretaría;
 
 V. Cumplir con los requerimientos de información que las distintas instituciones les soliciten de conformidad con lo previsto en esta Ley;
 

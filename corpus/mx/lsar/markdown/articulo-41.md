@@ -39,4 +39,6 @@ V. Unicamente podrán participar en su capital social variable los trabajadores 
 
 VI. Podrán mantener acciones en tesorería, que serán puestas en circulación en la forma y términos que señale el consejo de administración;
 
-VII. En caso de aumento de capital, las acciones se pondrán en circulación sin que rija el derecho de preferencia establecido por el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles; y VIII. Podrán adquirir las acciones que emitan, procediendo a la disminución de su capital variable de inmediato.
+VII. En caso de aumento de capital, las acciones se pondrán en circulación sin que rija el derecho de preferencia establecido por el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles; y
+
+VIII. Podrán adquirir las acciones que emitan, procediendo a la disminución de su capital variable de inmediato.

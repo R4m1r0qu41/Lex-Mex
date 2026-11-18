@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LCNBV — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf
 source_sha256: b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8
 ---
@@ -25,7 +25,9 @@ II.- Declarar, con acuerdo de la Junta de Gobierno en su caso, la intervención 
 
 III.- Designar interventor en los casos previstos en las leyes que regulan a las entidades;
 
-IV.- Imponer las sanciones que corresponda de acuerdo a las facultades que le delegue la Junta de Gobierno, así como conocer y resolver sobre el recurso de revocación, en los términos de las leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta la condonación total o parcial de las multas; V.- Autorizar, suspender o cancelar la inscripción de valores en la sección de valores del Registro Nacional de Valores e Intermediarios;
+IV.- Imponer las sanciones que corresponda de acuerdo a las facultades que le delegue la Junta de Gobierno, así como conocer y resolver sobre el recurso de revocación, en los términos de las leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta la condonación total o parcial de las multas;
+
+V.- Autorizar, suspender o cancelar la inscripción de valores en la sección de valores del Registro Nacional de Valores e Intermediarios;
 
 VI.- Ejecutar los acuerdos de la Junta de Gobierno;
 

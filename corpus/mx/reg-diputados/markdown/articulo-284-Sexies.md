@@ -35,7 +35,9 @@ VII. El titular del Centro de Estudios Sociales y de Opinión Pública;
 
 VIII. Hasta cinco representantes de instituciones de educación superior;
 
-IX. Hasta cinco representantes de organizaciones de la sociedad civil, y X. Hasta cinco representantes de organizaciones del sector productivo.
+IX. Hasta cinco representantes de organizaciones de la sociedad civil, y
+
+X. Hasta cinco representantes de organizaciones del sector productivo.
 
 2. Los integrantes del Consejo a que se refiere la fracción II, deberán ser designados por acuerdo de la [Junta](articulo-2.md) de Coordinación Política.
 

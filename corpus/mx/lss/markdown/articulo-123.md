@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 123
 
-No se tiene derecho a disfrutar de pensión de invalidez, cuando el asegurado: I. Por sí o de acuerdo con otra persona se haya provocado intencionalmente la invalidez;
+No se tiene derecho a disfrutar de pensión de invalidez, cuando el asegurado:
+
+I. Por sí o de acuerdo con otra persona se haya provocado intencionalmente la invalidez;
 
 II. Resulte responsable del delito intencional que originó la invalidez, y
 

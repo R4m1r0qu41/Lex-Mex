@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["REG-LGDS — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf
 source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 ---
@@ -23,7 +23,9 @@ I. Requisitos de participación;
 
 II. La aportación gubernamental, señalando en su caso, el monto máximo;
 
-III. Porcentajes de coinversión; IV. Criterios de elegibilidad de los proyectos y de priorización aplicables;
+III. Porcentajes de coinversión;
+
+IV. Criterios de elegibilidad de los proyectos y de priorización aplicables;
 
 V. Lugares y plazos de recepción de proyectos;
 

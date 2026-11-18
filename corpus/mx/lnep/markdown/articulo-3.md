@@ -41,7 +41,9 @@ X. Juez de Control: Al Órgano Jurisdiccional del fuero federal o del fuero com�
 
 XI. Juez de Ejecución: A la autoridad judicial especializada del fuero federal o local, competente para resolver las controversias en materia de ejecución penal, así como aquellas atribuciones que prevé la presente Ley;
 
-XII. Ley: A la Ley Nacional de Ejecución Penal; XIII. Ley Orgánica: A la Ley Orgánica del Poder Judicial de la Federación o la ley orgánica del poder judicial de cada entidad federativa;
+XII. Ley: A la Ley Nacional de Ejecución Penal;
+
+XIII. Ley Orgánica: A la Ley Orgánica del Poder Judicial de la Federación o la ley orgánica del poder judicial de cada entidad federativa;
 
 XIV. Leyes Penales: Al Código Penal Federal, los códigos penales o leyes que prevén tipos penales y sanciones, de la Federación o de las entidades federativas;
 
@@ -65,6 +67,8 @@ XXIII. Sistema Nacional de Información Estadística Penitenciaria: Al compendio
 
 XXIV. Sistema Penitenciario: Al conjunto de normas jurídicas y de instituciones del Estado que tiene por objeto la supervisión de la prisión preventiva y la ejecución de sanciones penales, así como de las medidas de seguridad derivadas de una sentencia, el cual está organizado sobre la base del respeto de los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción de la persona sentenciada a la sociedad y procurar que no vuelva a delinquir;
 
-XXV. Suministros: A todos aquellos bienes que deben ofrecer los Centros Penitenciarios, gratuitamente, entre ellos, el agua corriente y potable, alimentos, medicinas, anticonceptivos ordinarios y de emergencia; ropa, colchones y ropa de cama, artículos de aseo personal y de limpieza, libros y útiles escolares, así como los instrumentos de trabajo y artículos para el deporte y la recreación; XXVI. Supervisor de libertad condicionada: A la autoridad administrativa que depende del Poder Ejecutivo Federal o de los poderes ejecutivos de las entidades federativas, que da seguimiento a las personas sentenciadas que gozan de libertad condicionada, y
+XXV. Suministros: A todos aquellos bienes que deben ofrecer los Centros Penitenciarios, gratuitamente, entre ellos, el agua corriente y potable, alimentos, medicinas, anticonceptivos ordinarios y de emergencia; ropa, colchones y ropa de cama, artículos de aseo personal y de limpieza, libros y útiles escolares, así como los instrumentos de trabajo y artículos para el deporte y la recreación;
+
+XXVI. Supervisor de libertad condicionada: A la autoridad administrativa que depende del Poder Ejecutivo Federal o de los poderes ejecutivos de las entidades federativas, que da seguimiento a las personas sentenciadas que gozan de libertad condicionada, y
 
 XXVII. Visitantes: A las personas que ingresan a los Centros Penitenciarios, o que solicitan su ingreso, para realizar una visita personal, familiar, íntima, cultural, deportiva, recreativa, religiosa, humanitaria u otras similares.

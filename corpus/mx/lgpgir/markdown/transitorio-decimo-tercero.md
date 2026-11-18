@@ -16,7 +16,3 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 # DÉCIMO TERCERO
 
 Para los efectos de la expedición de autorizaciones, hasta en tanto no se expida el [Reglamento](articulo-5.md) de la presente [Ley](articulo-5.md), continuarán aplicándose los requisitos, términos, condiciones y plazos establecidos en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de [Residuos Peligrosos](articulo-5.md).
-
-México, D.F., a 28 de abril de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Armando Salinas Torre, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip. Ma. de las Nieves García Fernández, Secretario.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo [89](../../cpeum/markdown/articulo-89.md) de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.

@@ -7,8 +7,8 @@ provision_type: article
 number: "144"
 aliases: ["LDRS — Artículo 144"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -21,7 +21,9 @@ La organización y asociación económica y social en el medio rural, tanto del 
 
 I. La participación de los agentes de la sociedad rural en la formulación, diseño e instrumentación de las políticas de fomento del desarrollo rural;
 
-II. El establecimiento de mecanismos para la concertación y el consenso entre la sociedad rural y los órdenes de Gobierno Federal, estatal y municipal; III. El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva;
+II. El establecimiento de mecanismos para la concertación y el consenso entre la sociedad rural y los órdenes de Gobierno Federal, estatal y municipal;
+
+III. El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva;
 
 IV. La promoción y articulación de las cadenas de producción-consumo, para lograr una vinculación eficiente y equitativa de la producción entre los agentes económicos participantes en ellas;
 

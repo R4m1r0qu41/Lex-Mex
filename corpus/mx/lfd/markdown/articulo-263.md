@@ -29,7 +29,9 @@ III. Durante el quinto y sexto año de vigencia. $32.55
 
 IV. Durante el séptimo y octavo año de vigencia. $65.47
 
-V. Durante el noveno y décimo año de vigencia. $130.94 VI. A partir del décimo primer año de vigencia. $230.41
+V. Durante el noveno y décimo año de vigencia. $130.94
+
+VI. A partir del décimo primer año de vigencia. $230.41
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
 

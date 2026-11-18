@@ -25,7 +25,9 @@ No se pagará el derecho que se establece en esta fracción cuando se trate del 
 
 II. Por el trámite y, en su caso, expedición de cada licencia de prestadores de servicios de aprovechamiento en caza deportiva ...................................................................... $1,903.77 Reforma DOF 12-12-2011: Derogó de la fracción el entonces párrafo segundo Fracción reformada DOF 21-12-2005
 
-III. Por la expedición de cintillo de aprovechamiento cinegético .................................... $441.34 IV. Por la expedición o reposición de cada licencia de caza deportiva:
+III. Por la expedición de cintillo de aprovechamiento cinegético .................................... $441.34
+
+IV. Por la expedición o reposición de cada licencia de caza deportiva:
 
 a). De modalidad anual ......................................................................................... $857.12
 

@@ -29,7 +29,9 @@ IV. Nombre, denominación o razón social de la parte demandada, y su domicilio;
 
 V. Las pretensiones, el objeto u objetos que se reclamen con sus accesorios;
 
-VI. La exposición clara y sucinta de los hechos en que el actor funde la demanda, relacionándolos a su vez con el título o títulos de las acciones que se ejerzan; VII. Los fundamentos de derecho, procurando citar la clase de acción intentada, los preceptos legales y, en su caso, convencionales, los criterios jurisprudenciales o doctrinales, o principios jurídicos aplicables;
+VI. La exposición clara y sucinta de los hechos en que el actor funde la demanda, relacionándolos a su vez con el título o títulos de las acciones que se ejerzan;
+
+VII. Los fundamentos de derecho, procurando citar la clase de acción intentada, los preceptos legales y, en su caso, convencionales, los criterios jurisprudenciales o doctrinales, o principios jurídicos aplicables;
 
 VIII. En su caso, el valor de lo demandado para determinar la competencia de la autoridad jurisdiccional;
 

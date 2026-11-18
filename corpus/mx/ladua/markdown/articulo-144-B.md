@@ -23,7 +23,9 @@ I. El no arribo de las mercancías a la aduana o al almacén general de depósit
 
 II. Cuando con motivo del ejercicio de facultades de comprobación la autoridad aduanera detecte que la empresa transportista no lleva la contabilidad o registros de sus operaciones de comercio exterior, ni conserve la documentación que acredite las mismas, o altere datos consignados en la documentación de comercio exterior.
 
-III. Cuando no cumpla con los requerimientos de documentación relativa al comercio exterior formulados por la autoridad aduanera. IV. Cuando presente irregularidades o inconsistencias en el Registro Federal de Contribuyentes.
+III. Cuando no cumpla con los requerimientos de documentación relativa al comercio exterior formulados por la autoridad aduanera.
+
+IV. Cuando presente irregularidades o inconsistencias en el Registro Federal de Contribuyentes.
 
 V. Cuando la empresa transportista inscrita no sea localizable en los domicilios señalados para el efecto.
 

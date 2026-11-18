@@ -43,7 +43,9 @@ XI. Interpretar y aplicar las disposiciones del Protocolo 1996 relativo al Conve
 
 XII. Se deroga. Fracción derogada DOF 13-04-2020
 
-XIII. Determinar la zona de tiro, o en su caso autorizar la zona propuesta por el interesado; XIV. Fungir como autoridad responsable ante los organismos internacionales, en materia de prevención de la contaminación de las zonas marinas mexicanas por vertimiento de residuos y otras materias, para lo cual deberá coordinarse, en su caso, con las dependencias del Ejecutivo Federal que, en el ámbito nacional, tengan competencia sobre materias vinculadas al cumplimiento de los compromisos internacionales correspondientes;
+XIII. Determinar la zona de tiro, o en su caso autorizar la zona propuesta por el interesado;
+
+XIV. Fungir como autoridad responsable ante los organismos internacionales, en materia de prevención de la contaminación de las zonas marinas mexicanas por vertimiento de residuos y otras materias, para lo cual deberá coordinarse, en su caso, con las dependencias del Ejecutivo Federal que, en el ámbito nacional, tengan competencia sobre materias vinculadas al cumplimiento de los compromisos internacionales correspondientes;
 
 XV. Participar en los foros nacionales e internacionales en materia de vertimientos, así como informar anualmente o cuando sea requerido por la Organización Marítima Internacional de los vertimientos autorizados por la Secretaría;
 

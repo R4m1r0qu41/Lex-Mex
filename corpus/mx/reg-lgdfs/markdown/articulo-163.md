@@ -23,7 +23,9 @@ I. La Secretaría notificará al Prestador de Servicios forestales para que, en 
 
 II. Transcurrido el plazo a que se refiere la fracción anterior, la autoridad resolverá lo conducente dentro de los quince días hábiles siguientes;
 
-III. La Secretaría deberá notificar personalmente la resolución al Prestador de Servicios forestales dentro de los diez días hábiles siguientes, y IV. Cuando se declare procedente la suspensión o revocación se hará la anotación correspondiente en el Registro.
+III. La Secretaría deberá notificar personalmente la resolución al Prestador de Servicios forestales dentro de los diez días hábiles siguientes, y
+
+IV. Cuando se declare procedente la suspensión o revocación se hará la anotación correspondiente en el Registro.
 
 La Secretaría en un plazo de quince días hábiles contado a partir de la fecha en que cause efectos la revocación o suspensión de la inscripción del Prestador de Servicios forestales en el Registro, lo notificará al Titular o Titulares de aprovechamientos forestales, de Plantaciones forestales comerciales o de autorización de Cambio de uso de suelo, respectivos, para que se abstengan de recibir los Servicios forestales de la persona cuya inscripción haya sido revocada o suspendida.
 

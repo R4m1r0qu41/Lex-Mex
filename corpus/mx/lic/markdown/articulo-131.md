@@ -27,7 +27,9 @@ II. Las que correspondan al consejo de administración de la institución y a su
 
 III. Formular y presentar para aprobación del Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario, el presupuesto necesario para la consecución de los objetivos de la administración cautelar;
 
-IV. Presentar al Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario informes periódicos sobre la situación financiera en que se encuentre la institución, así como de la operación administrativa de la misma y su posible resolución; V. Autorizar la contratación de pasivos, incluyendo el crédito de última instancia otorgado por el Banco de México, inversiones, gastos, adquisiciones, enajenaciones y, en general, cualquier erogación que realice la institución;
+IV. Presentar al Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario informes periódicos sobre la situación financiera en que se encuentre la institución, así como de la operación administrativa de la misma y su posible resolución;
+
+V. Autorizar la contratación de pasivos, incluyendo el crédito de última instancia otorgado por el Banco de México, inversiones, gastos, adquisiciones, enajenaciones y, en general, cualquier erogación que realice la institución;
 
 VI. Autorizar el otorgamiento de las garantías que sean necesarias para la contratación de pasivos, incluyendo las acciones de la propia institución;
 

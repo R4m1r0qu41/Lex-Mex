@@ -25,4 +25,6 @@ II. Los proyectos que recibe el Senado en su condición de Cámara revisora por 
 
 III. Las iniciativas del Presidente de la República para obtener permiso a fin de ausentarse del territorio nacional por más de siete días; y
 
-IV. (Se deroga). Fracción derogada DOF 09-10-2017 2. Cuando se presenta al Senado alguna iniciativa que conforme al artículo 72 de la Constitución debe discutirse primero en la Cámara de Diputados, el Presidente la remite a la colegisladora y da cuenta de ello al Pleno y a su autor.
+IV. (Se deroga). Fracción derogada DOF 09-10-2017
+
+2. Cuando se presenta al Senado alguna iniciativa que conforme al artículo 72 de la Constitución debe discutirse primero en la Cámara de Diputados, el Presidente la remite a la colegisladora y da cuenta de ello al Pleno y a su autor.

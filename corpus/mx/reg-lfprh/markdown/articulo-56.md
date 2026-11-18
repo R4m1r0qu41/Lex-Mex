@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 56
 
-Las dependencias y entidades deberán elaborar sus anteproyectos con sujeción al calendario establecido en el artículo [22](articulo-22.md) de este Reglamento y a lo siguiente: I. Los programas presupuestarios que contengan los objetivos y metas con base en indicadores de desempeño;
+Las dependencias y entidades deberán elaborar sus anteproyectos con sujeción al calendario establecido en el artículo [22](articulo-22.md) de este Reglamento y a lo siguiente:
+
+I. Los programas presupuestarios que contengan los objetivos y metas con base en indicadores de desempeño;
 
 II. Los techos siguientes, en función del gasto neto total:
 

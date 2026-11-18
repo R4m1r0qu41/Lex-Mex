@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LCEC — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 17
 
-La afiliación a las Cámaras será un acto voluntario de los [Comerciantes](articulo-2.md) e [Industriales](articulo-2.md).
+La afiliación a las [Cámaras](articulo-2.md) será un acto voluntario de los [Comerciantes](articulo-2.md) e [Industriales](articulo-2.md).
 
 Los afiliados tendrán los siguientes derechos y obligaciones ante su Cámara:
 

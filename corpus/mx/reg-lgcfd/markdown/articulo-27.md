@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["REG-LGCFD — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -37,7 +37,9 @@ VIII. Los Mediadores y Conciliadores Independientes en Materia Deportiva;
 
 IX. Los estatutos, los reglamentos de los estatutos y los reglamentos técnicos deportivos de las asociaciones y sociedades deportivas previstas en las Secciones Primera, Segunda y Tercera del Capítulo II del Título Segundo de la Ley;
 
-X. Las instalaciones deportivas públicas y privadas; XI. Los beneficiarios de becas vitalicias, reconocimientos o premios otorgados en materia de Cultura Física y Deporte por la Federación, los Estados, el Distrito Federal y los municipios;
+X. Las instalaciones deportivas públicas y privadas;
+
+XI. Los beneficiarios de becas vitalicias, reconocimientos o premios otorgados en materia de Cultura Física y Deporte por la Federación, los Estados, el Distrito Federal y los municipios;
 
 XII. Los programas, Eventos Deportivos y académicos, encuentros y congresos en materia de Cultura Física y Deporte;
 

@@ -37,7 +37,9 @@ VIII. Rectificación de hechos, hasta por cinco minutos;
 
 IX. Formulación de proposiciones con punto de acuerdo, hasta por cinco minutos;
 
-X. Intervenciones en agenda política, hasta por diez minutos; y XI. Conmemoración de efemérides, hasta por diez minutos.
+X. Intervenciones en agenda política, hasta por diez minutos; y
+
+XI. Conmemoración de efemérides, hasta por diez minutos.
 
 2. Los senadores hacen uso de la palabra desde su escaño, previa autorización del Presidente, por no más de tres minutos, en los siguientes casos:
 

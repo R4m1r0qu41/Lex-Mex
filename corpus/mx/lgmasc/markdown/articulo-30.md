@@ -7,8 +7,8 @@ provision_type: article
 number: "30"
 aliases: ["LGMASC — Artículo 30"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -23,7 +23,9 @@ I. Determinar si el asunto que le corresponde conocer es susceptible de ser resu
 
 II. Conducir el mecanismo alternativo de solución de controversias conforme los principios y disposiciones de esta Ley y las demás disposiciones que expida el [Consejo](articulo-5.md) Nacional y a través de acuerdos generales los Consejos de la Judicatura Federal y locales;
 
-III. Verificar la identidad y personalidad de las partes y terceros relacionados; IV. Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen;
+III. Verificar la identidad y personalidad de las partes y terceros relacionados;
+
+IV. Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen;
 
 V. Verificar que los convenios reúnen los requisitos de existencia y validez;
 

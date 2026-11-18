@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Segundo · Capítulo Cuarto
+
 # Artículo 59
 
 La asignación de contratos específicos que derivan de un acuerdo marco, se realizará conforme al procedimiento que al efecto se establezca en el Reglamento de esta Ley.

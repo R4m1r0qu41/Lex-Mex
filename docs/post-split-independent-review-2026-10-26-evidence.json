@@ -1,0 +1,6352 @@
+{
+  "date": "2026-10-26",
+  "verdict": "hold integration: R-001 parser boundary and R-002/R-003 query defects; R-004 nonblocking",
+  "parser_tip": "6a5121964368d11d51b4bd2112cff70c44c2d7b0",
+  "corpus_tip": "bcd17a4e406e92949cbc5decd2f655623621a6e2",
+  "query_tip": "134e4e3816aea6fb09e16a0548b71d5b1800a938",
+  "native_gates": {
+    "tested_commit": "e71a2f02516e0e1361db5c801228f7fdb8210e59",
+    "fmt_exit": 0,
+    "strict_clippy_exit": 0,
+    "workspace_test_exit": 0,
+    "tests_passed": 439,
+    "lritf_exit": 0,
+    "ifpe_exit": 0,
+    "checkseed_exit": 0,
+    "inspect_inputs_exit": 0,
+    "fresh_db_builds": 2,
+    "fresh_db_sha256": "5c057b43bdd8db0deef124b539cb612853113a69d3413282d60e9246f9a11064",
+    "fresh_db_logical_sha256": "90f320c6bad248fa98d03dac5579e31f587f83f80115fb8166c7354bffdd1ab2",
+    "each_verify_and_21_goldens": "pass",
+    "link_all": {
+      "exit": 0,
+      "relinked": 0,
+      "unchanged": 466,
+      "held": [
+        "lftr",
+        "socap-sofipo-dcg-2006"
+      ],
+      "references": 36077,
+      "git_diff_empty": true
+    }
+  },
+  "final_checks": {
+    "source_equal_to_e71": true,
+    "strict_clippy_1_99_exit": 0,
+    "fmt_exit": 0,
+    "lritf_exit": 0,
+    "ifpe_exit": 0,
+    "final_db_artifacts": {
+      "a": {
+        "database": "/Users/jr/Dev/lex-mex-parser-repair/derived/db/repair-a/caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c/corpus.sqlite",
+        "database_sha256": "8ec847d9de9708eb61be414b57268dcb2ef991e99b902fbc709f88135d562a06",
+        "manifest_sha256": "b9d8ff19571319c1767f085015786f0da7fd1cc734f3587aa9d7396a257df3ae",
+        "logical_content_sha256": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
+        "verify_exit": 0,
+        "goldens_exit": 0,
+        "goldens_count": 21
+      },
+      "b": {
+        "database": "/Users/jr/Dev/lex-mex-parser-repair/derived/db/repair-b/caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c/corpus.sqlite",
+        "database_sha256": "8ec847d9de9708eb61be414b57268dcb2ef991e99b902fbc709f88135d562a06",
+        "manifest_sha256": "b9d8ff19571319c1767f085015786f0da7fd1cc734f3587aa9d7396a257df3ae",
+        "logical_content_sha256": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
+        "verify_exit": 0,
+        "goldens_exit": 0,
+        "goldens_count": 21
+      }
+    }
+  },
+  "parser_boundary_probe": {
+    "baseline": {
+      "exit": 0,
+      "provisions": [
+        {
+          "id": "urn:lex-mx:federal:statute:probe:article:1",
+          "text": "Norma principal."
+        },
+        {
+          "id": "urn:lex-mx:federal:statute:probe:transitory:primero",
+          "text": "Texto sin punto"
+        }
+      ]
+    },
+    "candidate": {
+      "exit": 0,
+      "provisions": [
+        {
+          "id": "urn:lex-mx:federal:statute:probe:article:1",
+          "text": "Norma principal."
+        },
+        {
+          "id": "urn:lex-mx:federal:statute:probe:transitory:primero",
+          "text": "Texto sin punto\n\nTRANSITORIOS"
+        },
+        {
+          "id": "urn:lex-mx:federal:statute:probe:transitory:segundo",
+          "text": "Texto de otra sección."
+        }
+      ]
+    }
+  },
+  "query_probe": {
+    "release": "caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c",
+    "pagination": {
+      "limit": 7,
+      "pages": 143,
+      "total_items": 1001,
+      "expected_max": 1000
+    },
+    "invalid_cursor_unknown_filter": 200,
+    "unsafe_reference_route": {
+      "status": 503,
+      "body": {
+        "schema_version": "public-retrieval-v1",
+        "release": {
+          "id": "caead5ed59fe23fe0acdc260511d3576d126f154f4ce39987fe4c1e0d30f2a8c",
+          "corpus_commit": "bcd17a4e406e92949cbc5decd2f655623621a6e2",
+          "fixture": false
+        },
+        "result": {
+          "kind": "error",
+          "data": {
+            "code": "unavailable",
+            "message": "No se pudo completar la consulta; no es evidencia de ausencia normativa."
+          }
+        }
+      }
+    }
+  },
+  "query_checks": {
+    "earlier_tip_node_passed": 61,
+    "final_tip_node_passed": 63,
+    "final_tip_node_failed": 0,
+    "final_rust_public_query_passed": 4,
+    "accepted_db_specific_tests_passed": 14,
+    "accepted_db_expected_failures": [
+      "standalone retired LFD heading absent in old release"
+    ]
+  },
+  "source_replay": {
+    "binaries": {
+      "B": "5c4a3f29acb7e5a1de6766f011a9d48f387178c2f38a592cfb11f2aef03c7730",
+      "C3": "31e21bc7c7afe31435486a942cad36de44db5dc6712c131f16eddbea83508235",
+      "CAND": "af51e26d4e950fcbeed6986312f92175dc1b5e3e9fc7f533247a35a15999225d"
+    },
+    "instruments": 102,
+    "B_vs_C3_drift": [],
+    "candidate_drift": [
+      "lrascap",
+      "lscs"
+    ],
+    "complete_context_followups": {
+      "lpdusf": {
+        "all_exits_zero": true,
+        "exact_parity": true
+      },
+      "reg-lgeepa-maaa": {
+        "all_exits_zero": true,
+        "exact_parity": true
+      }
+    },
+    "all_12_touched_parse_and_validate_pass": true,
+    "touched_structural_parity": {
+      "laero": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "lfd": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "lfdo": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "lfpa": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "cucb-dcg-2004": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "oaac-dcg-2009": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "lscs": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "reg-laero": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "reg-lfda": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "ligie": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "cub-dcg-2005": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      },
+      "lrascap": {
+        "same_ids": true,
+        "non_temporal_field_differences": {}
+      }
+    },
+    "acquisition_rehashed_pairs": 107,
+    "exact_editions": 102,
+    "changed_editions": 5,
+    "hash_mismatches": 0
+  },
+  "debt": {
+    "active": 0,
+    "retired": 17,
+    "accepted_row_union_exact": true,
+    "only_changed_goldens": [
+      "G6 LFD standalone/no active LFD debt",
+      "G5 cited-but-missing2/4"
+    ],
+    "other_goldens_unchanged": 19
+  },
+  "temporal_diff": {
+    "instruments": 166,
+    "other_nonmarkdown_files": [],
+    "rows_changed": 12211,
+    "ids_changed": 0,
+    "texts_changed": 0,
+    "changed_field_counts": {
+      "temporal_status": 12211,
+      "review_status": 12211,
+      "temporal_basis": 12211,
+      "temporal_confidence": 12211,
+      "effective_from": 10811
+    },
+    "transitions": {
+      "('unknown', 'effective', 'not_analyzed', 'machine_accepted')": 12211
+    },
+    "cases": [
+      {
+        "slug": "laem",
+        "provisions": 22
+      },
+      {
+        "slug": "lagra",
+        "provisions": 209
+      },
+      {
+        "slug": "lamni",
+        "provisions": 6
+      },
+      {
+        "slug": "lansi",
+        "provisions": 47
+      },
+      {
+        "slug": "larcp",
+        "provisions": 44
+      },
+      {
+        "slug": "lasoc",
+        "provisions": 71
+      },
+      {
+        "slug": "lbio",
+        "provisions": 59
+      },
+      {
+        "slug": "lcacsam",
+        "provisions": 26
+      },
+      {
+        "slug": "lcacsefam",
+        "provisions": 41
+      },
+      {
+        "slug": "lcec",
+        "provisions": 53
+      },
+      {
+        "slug": "lcjpjf",
+        "provisions": 79
+      },
+      {
+        "slug": "lcmopfih",
+        "provisions": 20
+      },
+      {
+        "slug": "lcnbv",
+        "provisions": 42
+      },
+      {
+        "slug": "lcndh",
+        "provisions": 94
+      },
+      {
+        "slug": "lcne",
+        "provisions": 41
+      },
+      {
+        "slug": "lcpro",
+        "provisions": 26
+      },
+      {
+        "slug": "ldcmpme",
+        "provisions": 32
+      },
+      {
+        "slug": "ldpam",
+        "provisions": 58
+      },
+      {
+        "slug": "ldparm",
+        "provisions": 82
+      },
+      {
+        "slug": "ldrs",
+        "provisions": 203
+      },
+      {
+        "slug": "ldsca",
+        "provisions": 158
+      },
+      {
+        "slug": "lec",
+        "provisions": 17
+      },
+      {
+        "slug": "lei",
+        "provisions": 40
+      },
+      {
+        "slug": "lemefam",
+        "provisions": 54
+      },
+      {
+        "slug": "len",
+        "provisions": 28
+      },
+      {
+        "slug": "lepecfe",
+        "provisions": 149
+      },
+      {
+        "slug": "lepepm",
+        "provisions": 147
+      },
+      {
+        "slug": "lfcc",
+        "provisions": 20
+      },
+      {
+        "slug": "lfcp",
+        "provisions": 28
+      },
+      {
+        "slug": "lfcsq",
+        "provisions": 86
+      },
+      {
+        "slug": "lfdeapd",
+        "provisions": 36
+      },
+      {
+        "slug": "lfdefp",
+        "provisions": 49
+      },
+      {
+        "slug": "lffaosc",
+        "provisions": 38
+      },
+      {
+        "slug": "lffmaa",
+        "provisions": 48
+      },
+      {
+        "slug": "lffpmn",
+        "provisions": 19
+      },
+      {
+        "slug": "lfgr",
+        "provisions": 117
+      },
+      {
+        "slug": "lfiiedb",
+        "provisions": 142
+      },
+      {
+        "slug": "lfiv",
+        "provisions": 38
+      },
+      {
+        "slug": "lfll",
+        "provisions": 33
+      },
+      {
+        "slug": "lfm",
+        "provisions": 69
+      },
+      {
+        "slug": "lfmped",
+        "provisions": 27
+      },
+      {
+        "slug": "lfmzaah",
+        "provisions": 66
+      },
+      {
+        "slug": "lfpccs",
+        "provisions": 45
+      },
+      {
+        "slug": "lfppcpcia",
+        "provisions": 80
+      },
+      {
+        "slug": "lfppipp",
+        "provisions": 56
+      },
+      {
+        "slug": "lfpsdmh",
+        "provisions": 29
+      },
+      {
+        "slug": "lfsa",
+        "provisions": 187
+      },
+      {
+        "slug": "lfsp",
+        "provisions": 58
+      },
+      {
+        "slug": "lfvv",
+        "provisions": 54
+      },
+      {
+        "slug": "lfzee",
+        "provisions": 54
+      },
+      {
+        "slug": "lgaas",
+        "provisions": 118
+      },
+      {
+        "slug": "lgag",
+        "provisions": 47
+      },
+      {
+        "slug": "lgahotdu",
+        "provisions": 134
+      },
+      {
+        "slug": "lgappcea",
+        "provisions": 24
+      },
+      {
+        "slug": "lgb",
+        "provisions": 49
+      },
+      {
+        "slug": "lgcdc",
+        "provisions": 48
+      },
+      {
+        "slug": "lgcfd",
+        "provisions": 168
+      },
+      {
+        "slug": "lgct",
+        "provisions": 61
+      },
+      {
+        "slug": "lgdlpi",
+        "provisions": 33
+      },
+      {
+        "slug": "lgdnna",
+        "provisions": 195
+      },
+      {
+        "slug": "lgdocia",
+        "provisions": 39
+      },
+      {
+        "slug": "lge",
+        "provisions": 200
+      },
+      {
+        "slug": "lgec",
+        "provisions": 56
+      },
+      {
+        "slug": "lgeo",
+        "provisions": 74
+      },
+      {
+        "slug": "lges",
+        "provisions": 98
+      },
+      {
+        "slug": "lgimh",
+        "provisions": 54
+      },
+      {
+        "slug": "lgipd",
+        "provisions": 67
+      },
+      {
+        "slug": "lgmasc",
+        "provisions": 161
+      },
+      {
+        "slug": "lgmdfp",
+        "provisions": 212
+      },
+      {
+        "slug": "lgmhcti",
+        "provisions": 122
+      },
+      {
+        "slug": "lgmime",
+        "provisions": 100
+      },
+      {
+        "slug": "lgpas",
+        "provisions": 177
+      },
+      {
+        "slug": "lgpisdme",
+        "provisions": 53
+      },
+      {
+        "slug": "lgpist",
+        "provisions": 112
+      },
+      {
+        "slug": "lgpp",
+        "provisions": 106
+      },
+      {
+        "slug": "lgpsacdii",
+        "provisions": 84
+      },
+      {
+        "slug": "lgpsvd",
+        "provisions": 34
+      },
+      {
+        "slug": "lgscmm",
+        "provisions": 131
+      },
+      {
+        "slug": "lgsmime",
+        "provisions": 123
+      },
+      {
+        "slug": "liispcen",
+        "provisions": 28
+      },
+      {
+        "slug": "limj",
+        "provisions": 24
+      },
+      {
+        "slug": "linpi",
+        "provisions": 38
+      },
+      {
+        "slug": "lissfam",
+        "provisions": 237
+      },
+      {
+        "slug": "lnac",
+        "provisions": 42
+      },
+      {
+        "slug": "lnetb",
+        "provisions": 131
+      },
+      {
+        "slug": "loam",
+        "provisions": 106
+      },
+      {
+        "slug": "log",
+        "provisions": 32
+      },
+      {
+        "slug": "loipn",
+        "provisions": 38
+      },
+      {
+        "slug": "lopgjdf",
+        "provisions": 90
+      },
+      {
+        "slug": "lopjf",
+        "provisions": 328
+      },
+      {
+        "slug": "loscm",
+        "provisions": 18
+      },
+      {
+        "slug": "lota",
+        "provisions": 35
+      },
+      {
+        "slug": "louam",
+        "provisions": 43
+      },
+      {
+        "slug": "lounam",
+        "provisions": 26
+      },
+      {
+        "slug": "lpcinecdi",
+        "provisions": 10
+      },
+      {
+        "slug": "lpeam",
+        "provisions": 30
+      },
+      {
+        "slug": "lpf",
+        "provisions": 60
+      },
+      {
+        "slug": "lpo",
+        "provisions": 55
+      },
+      {
+        "slug": "lpte",
+        "provisions": 108
+      },
+      {
+        "slug": "lram",
+        "provisions": 74
+      },
+      {
+        "slug": "lrart27-mn",
+        "provisions": 58
+      },
+      {
+        "slug": "lrart3-mmce",
+        "provisions": 82
+      },
+      {
+        "slug": "lrcdn",
+        "provisions": 32
+      },
+      {
+        "slug": "lrpcap",
+        "provisions": 84
+      },
+      {
+        "slug": "lrpv",
+        "provisions": 31
+      },
+      {
+        "slug": "lsh",
+        "provisions": 189
+      },
+      {
+        "slug": "lsint",
+        "provisions": 39
+      },
+      {
+        "slug": "lsniimsp",
+        "provisions": 57
+      },
+      {
+        "slug": "lsss",
+        "provisions": 44
+      },
+      {
+        "slug": "ltpcpimcp",
+        "provisions": 14
+      },
+      {
+        "slug": "luach",
+        "provisions": 21
+      },
+      {
+        "slug": "luefa",
+        "provisions": 10
+      },
+      {
+        "slug": "lupdecr",
+        "provisions": 22
+      },
+      {
+        "slug": "lviv",
+        "provisions": 102
+      },
+      {
+        "slug": "reg-ccomer-mpsc",
+        "provisions": 30
+      },
+      {
+        "slug": "reg-lagra-fodmc",
+        "provisions": 17
+      },
+      {
+        "slug": "reg-lagra-mcdets",
+        "provisions": 70
+      },
+      {
+        "slug": "reg-lagra-mopr",
+        "provisions": 169
+      },
+      {
+        "slug": "reg-larcp",
+        "provisions": 51
+      },
+      {
+        "slug": "reg-lcec",
+        "provisions": 52
+      },
+      {
+        "slug": "reg-ldcmpme",
+        "provisions": 39
+      },
+      {
+        "slug": "reg-ldrs-moirsse",
+        "provisions": 51
+      },
+      {
+        "slug": "reg-lebhn",
+        "provisions": 47
+      },
+      {
+        "slug": "reg-lecampo",
+        "provisions": 23
+      },
+      {
+        "slug": "reg-len",
+        "provisions": 54
+      },
+      {
+        "slug": "reg-lfa",
+        "provisions": 81
+      },
+      {
+        "slug": "reg-lfafe",
+        "provisions": 107
+      },
+      {
+        "slug": "reg-lfce",
+        "provisions": 76
+      },
+      {
+        "slug": "reg-lfcine",
+        "provisions": 78
+      },
+      {
+        "slug": "reg-lffarosc",
+        "provisions": 65
+      },
+      {
+        "slug": "reg-lfll",
+        "provisions": 36
+      },
+      {
+        "slug": "reg-lfmn",
+        "provisions": 122
+      },
+      {
+        "slug": "reg-lfpccs",
+        "provisions": 130
+      },
+      {
+        "slug": "reg-lfpdppp",
+        "provisions": 149
+      },
+      {
+        "slug": "reg-lfrt-mcpctrt",
+        "provisions": 63
+      },
+      {
+        "slug": "reg-lfsa",
+        "provisions": 381
+      },
+      {
+        "slug": "reg-lfsp",
+        "provisions": 83
+      },
+      {
+        "slug": "reg-lfsv",
+        "provisions": 204
+      },
+      {
+        "slug": "reg-lftaipg",
+        "provisions": 106
+      },
+      {
+        "slug": "reg-lfvv",
+        "provisions": 91
+      },
+      {
+        "slug": "reg-lfzee",
+        "provisions": 150
+      },
+      {
+        "slug": "reg-lgappcea",
+        "provisions": 37
+      },
+      {
+        "slug": "reg-lgcdc",
+        "provisions": 27
+      },
+      {
+        "slug": "reg-lgdnna",
+        "provisions": 122
+      },
+      {
+        "slug": "reg-lgds",
+        "provisions": 86
+      },
+      {
+        "slug": "reg-lgeepa-moe",
+        "provisions": 83
+      },
+      {
+        "slug": "reg-lgife",
+        "provisions": 83
+      },
+      {
+        "slug": "reg-lgipd",
+        "provisions": 98
+      },
+      {
+        "slug": "reg-lgpsacdii",
+        "provisions": 72
+      },
+      {
+        "slug": "reg-lgpsvd",
+        "provisions": 46
+      },
+      {
+        "slug": "reg-lgs-mcspiumc",
+        "provisions": 84
+      },
+      {
+        "slug": "reg-lgv",
+        "provisions": 104
+      },
+      {
+        "slug": "reg-lgvs",
+        "provisions": 164
+      },
+      {
+        "slug": "reg-lieg",
+        "provisions": 95
+      },
+      {
+        "slug": "reg-lmin",
+        "provisions": 115
+      },
+      {
+        "slug": "reg-lnac",
+        "provisions": 51
+      },
+      {
+        "slug": "reg-logan",
+        "provisions": 118
+      },
+      {
+        "slug": "reg-loinah",
+        "provisions": 61
+      },
+      {
+        "slug": "reg-lopgjdf",
+        "provisions": 145
+      },
+      {
+        "slug": "reg-lpf",
+        "provisions": 234
+      },
+      {
+        "slug": "reg-lpo",
+        "provisions": 77
+      },
+      {
+        "slug": "reg-lppddhp",
+        "provisions": 121
+      },
+      {
+        "slug": "reg-lrpc",
+        "provisions": 99
+      },
+      {
+        "slug": "reg-lrpv",
+        "provisions": 52
+      },
+      {
+        "slug": "reg-lupdecr",
+        "provisions": 20
+      },
+      {
+        "slug": "reg-pmimss",
+        "provisions": 173
+      }
+    ]
+  },
+  "temporal_rule_replay": {
+    "as_of": "2026-10-25",
+    "cases": [
+      {
+        "dates_repaired": 0,
+        "determinations": 17,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "laem"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 201,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lagra"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 4,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lamni"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 38,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lansi"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 37,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "larcp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 68,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lasoc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 46,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lbio"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 25,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcacsam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 37,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcacsefam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 45,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcec"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 74,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcjpjf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 15,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcmopfih"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 31,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcnbv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 86,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcndh"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 28,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcne"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 22,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lcpro"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 26,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ldcmpme"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 52,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ldpam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 80,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ldparm"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 193,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ldrs"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 150,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ldsca"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 14,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lec"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 38,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lei"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 52,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lemefam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 24,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "len"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 131,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lepecfe"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 126,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lepepm"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 17,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfcc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 23,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfcp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 75,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfcsq"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 33,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfdeapd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 42,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfdefp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 32,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lffaosc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 45,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lffmaa"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 13,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lffpmn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 101,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfgr"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 141,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfiiedb"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 35,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfiv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 28,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfll"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 65,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfm"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 25,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfmped"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 62,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfmzaah"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 42,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfpccs"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 75,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfppcpcia"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 52,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfppipp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 24,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfpsdmh"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 177,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfsa"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfsp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 48,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfvv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lfzee"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 111,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgaas"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 45,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgag"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 119,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgahotdu"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 18,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgappcea"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 45,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgb"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 42,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgcdc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 157,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgcfd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 57,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgct"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 25,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgdlpi"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 182,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgdnna"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 32,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgdocia"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 183,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lge"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 49,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgec"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 66,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgeo"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 77,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lges"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 52,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgimh"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 60,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgipd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 144,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgmasc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 191,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgmdfp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 100,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgmhcti"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 70,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgmime"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 167,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpas"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 43,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpisdme"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 96,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpist"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 97,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 76,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpsacdii"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 30,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgpsvd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 107,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgscmm"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 118,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lgsmime"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 21,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "liispcen"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 20,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "limj"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 29,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "linpi"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 231,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lissfam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 37,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lnac"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 114,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lnetb"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 101,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "loam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 26,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "log"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 34,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "loipn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 84,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lopgjdf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 307,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lopjf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 16,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "loscm"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 30,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lota"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 37,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "louam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 18,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lounam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 9,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lpcinecdi"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 26,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lpeam"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 55,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lpf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lpo"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 100,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lpte"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 71,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lram"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 52,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lrart27-mn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 68,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lrart3-mmce"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 31,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lrcdn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 79,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lrpcap"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 27,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lrpv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 166,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lsh"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 34,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lsint"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 51,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lsniimsp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 43,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lsss"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 13,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "ltpcpimcp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 16,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "luach"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 7,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "luefa"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 20,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lupdecr"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 97,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "lviv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 29,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-ccomer-mpsc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 15,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lagra-fodmc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 68,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lagra-mcdets"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 164,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lagra-mopr"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-larcp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lcec"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 37,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-ldcmpme"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 46,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-ldrs-moirsse"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 43,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lebhn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 21,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lecampo"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 50,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-len"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 71,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfa"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 99,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfafe"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 72,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfce"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 72,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfcine"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 58,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lffarosc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 32,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfll"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 118,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfmn"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 122,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfpccs"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 144,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfpdppp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 54,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfrt-mcpctrt"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 373,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfsa"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 77,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfsp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 193,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfsv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 95,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lftaipg"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 89,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfvv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 146,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lfzee"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 34,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgappcea"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 22,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgcdc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 114,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgdnna"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 83,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgds"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 79,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgeepa-moe"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 77,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgife"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 93,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgipd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 66,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgpsacdii"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 42,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgpsvd"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 80,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgs-mcspiumc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 93,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 154,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lgvs"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 92,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lieg"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 108,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lmin"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 46,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lnac"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 114,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-logan"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 57,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-loinah"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 137,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lopgjdf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 226,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lpf"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 70,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lpo"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 114,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lppddhp"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 96,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lrpc"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 44,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lrpv"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 17,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-lupdecr"
+      },
+      {
+        "dates_repaired": 0,
+        "determinations": 171,
+        "exact_json_value_match": true,
+        "partial_repeals_repaired": 0,
+        "slug": "reg-pmimss"
+      }
+    ],
+    "count": 166,
+    "failed": [],
+    "scope": "same core functions/order as CLI; canonical JSON-value comparison; no repeated Markdown export"
+  },
+  "audited_state_comparison": {
+    "legal_operator_reviews": {
+      "counts": {
+        "accepted": 16,
+        "final": 16
+      },
+      "exact_equal": true
+    },
+    "outdated_reference_approvals": {
+      "counts": {
+        "accepted": 17,
+        "final": 17
+      },
+      "exact_equal": true
+    },
+    "protected_provisions": {
+      "counts": {
+        "accepted": 3,
+        "final": 3
+      },
+      "exact_equal": true
+    }
+  },
+  "corpus_observations": {
+    "laero": {
+      "before": 107,
+      "after": 116,
+      "added": [
+        "urn:lex-mx:federal:statute:laero:article:73-decies",
+        "urn:lex-mx:federal:statute:laero:article:73-duodecies",
+        "urn:lex-mx:federal:statute:laero:article:73-octodecies",
+        "urn:lex-mx:federal:statute:laero:article:73-quaterdecies",
+        "urn:lex-mx:federal:statute:laero:article:73-quinquiesdecies",
+        "urn:lex-mx:federal:statute:laero:article:73-septdecies",
+        "urn:lex-mx:federal:statute:laero:article:73-sexiesdecies",
+        "urn:lex-mx:federal:statute:laero:article:73-terdecies",
+        "urn:lex-mx:federal:statute:laero:article:73-undecies"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {},
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 109,
+        "transitory": 7
+      }
+    },
+    "lfd": {
+      "before": 793,
+      "after": 796,
+      "added": [
+        "urn:lex-mx:federal:statute:lfd:article:257-octavus",
+        "urn:lex-mx:federal:statute:lfd:article:257-septimus",
+        "urn:lex-mx:federal:statute:lfd:article:257-sextus"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 787,
+        "transitory": 9
+      }
+    },
+    "lfdo": {
+      "before": 57,
+      "after": 58,
+      "added": [
+        "urn:lex-mx:federal:statute:lfdo:article:12-quintus"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 57,
+        "transitory": 1
+      }
+    },
+    "lfpa": {
+      "before": 122,
+      "after": 123,
+      "added": [
+        "urn:lex-mx:federal:statute:lfpa:article:69-c-bis"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 119,
+        "transitory": 4
+      }
+    },
+    "cucb-dcg-2004": {
+      "before": 345,
+      "after": 346,
+      "added": [
+        "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {},
+      "temporal_changes": [
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:13",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:131",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:14",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:16",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:17-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:172",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:178",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:18",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:19",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:20",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:22",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:23",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:24",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:25",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:26-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:42",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:44",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2004-09-07",
+            null
+          ]
+        }
+      ],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 338,
+        "transitory": 8
+      }
+    },
+    "oaac-dcg-2009": {
+      "before": 303,
+      "after": 306,
+      "added": [
+        "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
+        "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:106",
+        "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:12-bis"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {},
+      "temporal_changes": [
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-12",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-13",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-43",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-44",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-45",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-47",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-9",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-31",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-47",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2009-01-20",
+            null
+          ]
+        }
+      ],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 298,
+        "transitory": 8
+      }
+    },
+    "lscs": {
+      "before": 210,
+      "after": 210,
+      "added": [],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [
+        {
+          "id": "urn:lex-mx:federal:statute:lscs:article:207",
+          "status": [
+            "repealed",
+            "unknown"
+          ],
+          "effective_from": [
+            null,
+            null
+          ]
+        }
+      ],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 210
+      }
+    },
+    "reg-laero": {
+      "before": 200,
+      "after": 200,
+      "added": [],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [
+        {
+          "id": "urn:lex-mx:federal:regulation:reg-laero:article:101",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2000-02-18",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:reg-laero:article:95",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2000-02-18",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:reg-laero:article:96",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2000-02-18",
+            null
+          ]
+        }
+      ],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 191,
+        "transitory": 9
+      }
+    },
+    "reg-lfda": {
+      "before": 194,
+      "after": 202,
+      "added": [
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-bis",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-nonies",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-octies",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-quater",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-quinquies",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-septies",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-sexies",
+        "urn:lex-mx:federal:regulation:reg-lfda:article:37-ter"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 196,
+        "transitory": 6
+      }
+    },
+    "ligie": {
+      "before": 9,
+      "after": 9,
+      "added": [],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 2,
+        "transitory": 7
+      }
+    },
+    "cub-dcg-2005": {
+      "before": 715,
+      "after": 722,
+      "added": [
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:140",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-4",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-1",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-2",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-3",
+        "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-5"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:100",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:102",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:110",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:110-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:111",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:112",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:113",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:114",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:115",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:115-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:116",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:117",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:118",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:119",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:12",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:120",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:121",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:122",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:123",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:128-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:128-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:128-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:129",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:132",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:133",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:136",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:137",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:138",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:139-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:142",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:144",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:145",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:148",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:149",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:15-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:151",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:154",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:155",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:156",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:159",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:160",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:161",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:164",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:164-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:164-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:165",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:166",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:167",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-12",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-13",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-14",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-15",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-16",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-17",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:168-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:169",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:170",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:171",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:171-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:171-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-34",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-35",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-36",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-37",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-38",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-39",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-40",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:172-bis-41",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:173",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:174",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:174-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:174-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:174-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:175-bis-9",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:177",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:178",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:179",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:18",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:180",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:181",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:185",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:186",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-105",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-108",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-115",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-17",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-20",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-21",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-31",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-33",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-36",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-43",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-53",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-55",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-57",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-66",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-68",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-74",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-76",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-83",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-84",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-85",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-87",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-92",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-98",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:207",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:207-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:208",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:209",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:210",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:211",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:216",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:218-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:219",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:22",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:220",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:221",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:223",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:225",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:225-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:226",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:228",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:229",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:23",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:230",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:231",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:232",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:234",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:236",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:237",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:237-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:24",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:247",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:251",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:258",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:26",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-10",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:263-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:267-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:273",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:275-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:275-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:275-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:276",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:284",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:287",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:287-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:287-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:30",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:307-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:31",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:314-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:315-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:316-bis-14",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:316-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:316-bis-9",
+          "status": [
+            "effective",
+            "repealed"
+          ],
+          "effective_from": [
+            null,
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:317-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:318",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:318-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:318-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:320",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:321",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:321-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:321-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:321-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:321-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:322",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:333",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:337-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:354-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:355",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:356",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:39",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:39-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:40",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:41",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:45",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:46-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-10",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-12",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-13",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-14",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-5",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:51-bis-9",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:54",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:54-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:56",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:57",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:57-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:57-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:57-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:58",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:60",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:61",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:63",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:65",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:68",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:69",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:70",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:71",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:74",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:75",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:76",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:77",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:78",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:80",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:81",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:82",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:83",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:84",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:86-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:86-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:87",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:88",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:89-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91-bis-3",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:91-bis-4",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:92",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:92-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-10",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-11",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-12",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-13",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-14",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-6",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-7",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-8",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:97-bis-9",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-1",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        },
+        {
+          "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
+          "status": [
+            "effective",
+            "effective"
+          ],
+          "effective_from": [
+            "2005-12-03",
+            null
+          ]
+        }
+      ],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 712,
+        "transitory": 10
+      }
+    },
+    "lrascap": {
+      "before": 144,
+      "after": 165,
+      "added": [
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-cuarto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo-cuarto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo-primero",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo-quinto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo-segundo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-decimo-tercero",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-noveno",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-octavo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-primero",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-quinto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-segundo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-septimo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-sexto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:articulo-primero-tercero",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-cuarto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-primero",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-quinto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-segundo",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-sexto",
+        "urn:lex-mx:federal:statute:lrascap:transitory:decreto-tercero"
+      ],
+      "removed": [],
+      "acquisition_hashes_match": {
+        "pdf": true,
+        "text": true
+      },
+      "temporal_changes": [],
+      "audited_field_changes": [],
+      "types_after": {
+        "article": 144,
+        "transitory": 21
+      }
+    }
+  },
+  "raw_artifacts": {
+    "/private/tmp/lex-separator-independent-20261025/logs/project-help.log": {
+      "bytes": 708,
+      "sha256": "2af63f8d594d1bf0a7c29b423ff15d352405a0d978146aff1f53bbc957fe066f"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/inspect-help.log": {
+      "bytes": 576,
+      "sha256": "4ba67e192a5c1f86ea41bb46ab9bec92c963ba2e6783a4f7e520db92e5c44054"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/ifpe.log": {
+      "bytes": 281,
+      "sha256": "c5e62d7bd55269f957e2392cf6b870b255b5ca29561eaccefb113f93c69e1c10"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/fmt.log": {
+      "bytes": 29,
+      "sha256": "c807fa00485c07efa34b81c327cbf485edc480120f47c86d37686566d18d8fa3"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/test.log": {
+      "bytes": 48760,
+      "sha256": "590ca378ec4fe2681fab2e05e2d6988c419ea375c1aab543348bdd5d40a60dac"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/verify-help.log": {
+      "bytes": 676,
+      "sha256": "1e3836300dcc1013a6983441279e7dd3481ab90e1a098f6d1e6e9ebe50f287c9"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/clippy.log": {
+      "bytes": 7776,
+      "sha256": "ed4aa9c821384b315d833924d68eba2657165f81731fae3359eb2f798ffda528"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/verify-a.log": {
+      "bytes": 1695,
+      "sha256": "2ee871f447fc8eb304a5f395114d9c7248339299f6a45944a979fb51aee343bc"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/link-diff-names.txt": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/verify-b.log": {
+      "bytes": 1695,
+      "sha256": "b02b5368864acb2d865e56ee8336f07da78dc4335d8af9b9bf58b7b596a90f9d"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/db-help.log": {
+      "bytes": 1075,
+      "sha256": "5304cb70f43e41dd94075fa4e9ad4902779e11fc18c52e833717ea9ecde6e9d6"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/lritf.log": {
+      "bytes": 275,
+      "sha256": "c480c57aac67b925eed51016dc829f1c7592a20b05a4c1d7b2b5662837b89cf9"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/link-all.log": {
+      "bytes": 14896,
+      "sha256": "4c7ffafd0ee6013668b3568191b1fbf285f184c3b06a1fb9d01bcf01da791c43"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/inspect.log": {
+      "bytes": 1009965,
+      "sha256": "f90899042e3227578fc5c39b8df671db376d314b5152a81000a567d86842f10f"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/project-a.log": {
+      "bytes": 1331,
+      "sha256": "0d72e0e862605edd7b68f9d2ec67b3e56419be2d51cee34d8dcba1000293f06b"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/golden-help.log": {
+      "bytes": 522,
+      "sha256": "e4f250cb1064f26512fb9447ae5849ccf2888ef6133877c08e5b330abf2f54e3"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/link-help.log": {
+      "bytes": 909,
+      "sha256": "102aa74ec5ce27a9184898f7f4cd05c85b4e5266cb54208659f7b590a9a7da03"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/project-b.log": {
+      "bytes": 1331,
+      "sha256": "77dd6b7a085e8d08cab8dc44937d58efe0b9b5d828c21f32ac24b37ca6f90fdb"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/golden-b.log": {
+      "bytes": 1144,
+      "sha256": "c5621d107b56dbe2545036e9b3f28a8d3586c7dd0551ab364e8a4c47da83c5bd"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/checkseed.log": {
+      "bytes": 469,
+      "sha256": "a444562221d28e74461f531f2017d5c805324597f5ade7a7eb47d076d99b1b66"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/checkseed-help.log": {
+      "bytes": 618,
+      "sha256": "f0889f455176bd7fca11b142ddcad84919d1e025dd5a3ab12b6bd410abd609c4"
+    },
+    "/private/tmp/lex-separator-independent-20261025/logs/golden-a.log": {
+      "bytes": 1144,
+      "sha256": "304bfbdefff717a281386d54e16d0fbfc73023020d663bff38fb052608b6219a"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-verify-a.log": {
+      "bytes": 1185,
+      "sha256": "7c61ea056cff94d498e7f2040b3ead3e6a9e81b10c4fbedcaba4a08b6d61d257"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-verify-b.log": {
+      "bytes": 1185,
+      "sha256": "7c61ea056cff94d498e7f2040b3ead3e6a9e81b10c4fbedcaba4a08b6d61d257"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-clippy.log": {
+      "bytes": 7795,
+      "sha256": "6bb8e19161cc3002809b3cd461a9f5c7eef1feb70273c1ed9427261377300603"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-fmt.log": {
+      "bytes": 29,
+      "sha256": "260e6cc55fd919820bcc4895e9ce869e85000a6c2df934bd2009588569300bca"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-ifpe.log": {
+      "bytes": 281,
+      "sha256": "88d372eae7f89a35fcceb5df720eff93fa18101fbd42ea59b94a84995bf03275"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-golden-b.log": {
+      "bytes": 770,
+      "sha256": "682385ca836d8d6e9cfd7e96461a7b2b5779fe5b3ad46c23fedb6eb57d4cbcdd"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-golden-a.log": {
+      "bytes": 770,
+      "sha256": "682385ca836d8d6e9cfd7e96461a7b2b5779fe5b3ad46c23fedb6eb57d4cbcdd"
+    },
+    "/private/tmp/lex-separator-independent-20261025/final-logs/temporal-lritf.log": {
+      "bytes": 7192,
+      "sha256": "09a240c3101ca79d869b4f388b5f72be0677963f25d915b704ae12ac9af1117a"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/final-adversarial.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/probes.stdout": {
+      "bytes": 672,
+      "sha256": "dbca02daf468e7fb2b96d4d61d2119434a218f55a1e63d8d8998e4005ce40774"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/node.stdout": {
+      "bytes": 7080,
+      "sha256": "26ad4524bac9d5567e8aebcefd08292e4ed7ba7b853eb5630e92740b56ff4ec8"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/accepted.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/node-loopback.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/final-adversarial.json": {
+      "bytes": 764,
+      "sha256": "c256defb925756c92c3b53636b949090e3aba464facc5fa743ae2d1eec0f120d"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/rust-public-query.log": {
+      "bytes": 3719,
+      "sha256": "504d84470a31ef56dc78d60c5c4218900cce80e516a344a70b29e156dd029003"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/final-node.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/final-node.stdout": {
+      "bytes": 6205,
+      "sha256": "ad0aed802d05f90c3f36df9e63636b2d1d19f81ea331466e1375073c42624482"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/node-loopback.stdout": {
+      "bytes": 6054,
+      "sha256": "66b1c2e23010f02d321df88c9d807a39c1c9efccd2b90c299b4a4ba9c274700a"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/node.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-separator-independent-20261025/query-logs/accepted.stdout": {
+      "bytes": 2285,
+      "sha256": "0e8b31561661d98f1d4b1f40795bc405f4cada0002f4ab5a137fdd11b51cad7a"
+    },
+    "/private/tmp/lex-separator-independent-20261025/header-probe.rs": {
+      "bytes": 743,
+      "sha256": "1014b5e7caed98638eb9129b3d48f8f88505c6fa01b420a1536ba7c497a1f6de"
+    },
+    "/private/tmp/lex-separator-independent-20261025/header-probe.stdout": {
+      "bytes": 426,
+      "sha256": "7b21dc9aa5f720da8aaf18eeef9c182eced7f189ff6fa50db2f324b9c0d279b6"
+    },
+    "/private/tmp/lex-separator-independent-20261025/header-boundary-probe.json": {
+      "bytes": 3966,
+      "sha256": "a5c85f96221cf002863dfdd2f1f542c2e6df0b6bbc88afb9e13a203b1ede1d18"
+    },
+    "/private/tmp/lex-separator-independent-20261025/replay-all-result.json": {
+      "bytes": 41314,
+      "sha256": "f856546417c8ea4605f80b6381ca3e078e53ea23b764a4311ae67c3629df9938"
+    },
+    "/private/tmp/lex-separator-independent-20261025/replay-ctx-result.json": {
+      "bytes": 15870,
+      "sha256": "d203d591f9b453a5c73d09c3bcb7092abce69d1f558d53721697cda14a441368"
+    },
+    "/private/tmp/lex-separator-independent-20261025/full-context-replay.json": {
+      "bytes": 9748,
+      "sha256": "f306ea1cf2c7f9d1bfccfb038926323b57a2f62f38a75cea18b5b83e13ca555d"
+    },
+    "/private/tmp/lex-separator-independent-20261025/touched-reparse.json": {
+      "bytes": 8582,
+      "sha256": "827f1574fa37afdeab0883645e7ae47042350492ab996ee2e061eee193fdbf1e"
+    },
+    "/private/tmp/lex-separator-independent-20261025/touched-structural-parity.json": {
+      "bytes": 1002,
+      "sha256": "9356e16cd4ec8df9825b404fa562d3f37a3934623f1181d0611cca80ba80186d"
+    },
+    "/private/tmp/lex-separator-independent-20261025/corpus-inspection.json": {
+      "bytes": 91305,
+      "sha256": "0bcefbe111b29afe7df1a6387061f3fecc208f277c6798f94ba2ae77be52cee7"
+    },
+    "/private/tmp/lex-separator-independent-20261025/temporal-diff-inspection.json": {
+      "bytes": 10576,
+      "sha256": "df189fc6086a7ffc6608a2dea3d640c56d58a9a0a37f0bf5041fb544961f9644"
+    },
+    "/private/tmp/lex-separator-independent-20261025/temporal-core-rederive.json": {
+      "bytes": 27926,
+      "sha256": "ea30e27d6a8e34342fd1db3f2dff97da261cd4344f1b6b916603d206870f9e6a"
+    },
+    "/private/tmp/lex-separator-independent-20261025/temporal-clause-samples.json": {
+      "bytes": 2348,
+      "sha256": "651c97b04e794ba941c95dabeaf8441ddd637a82601e5239dfdd8162207de939"
+    },
+    "/private/tmp/lex-separator-independent-20261025/audited-state-comparison.json": {
+      "bytes": 371,
+      "sha256": "8246c7fb0102766e0b488e29ea1b558380aa868d89b8f338709dc01847ba6ad4"
+    },
+    "/private/tmp/lex-separator-independent-20261025/rederive-core.rs": {
+      "bytes": 2288,
+      "sha256": "0a91e63af7ee65664bd054943518a8b07b0ca2061fd13f6a1ec5465d2772ef3f"
+    }
+  },
+  "limits": [
+    "No legal applicability ruling or new JRH approval",
+    "Full166 CLI Markdown/backlink export not repeated: slow driver intentionally stopped; all166 rule results independently recomputed via compiled core functions and canonical serialization",
+    "CUB454/19 classification and89.1% static posting coverage not independently reclassified/benchmarked",
+    "Browser DOM/mutation campaigns not rerun",
+    "No active branch or accepted artifact edited; no merge,push,deploy,commit"
+  ]
+}

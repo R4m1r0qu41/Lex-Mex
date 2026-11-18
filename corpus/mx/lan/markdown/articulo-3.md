@@ -21,7 +21,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. "Aguas Nacionales": Son aquellas referidas en el Párrafo Quinto del Artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. "Acuífero": Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre sí, por las que circulan o se almacenan aguas del subsuelo que pueden ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo; III. "Aguas claras" o "Aguas de primer uso": Aquellas provenientes de distintas fuentes naturales y de almacenamientos artificiales que no han sido objeto de uso previo alguno;
+II. "Acuífero": Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre sí, por las que circulan o se almacenan aguas del subsuelo que pueden ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo;
+
+III. "Aguas claras" o "Aguas de primer uso": Aquellas provenientes de distintas fuentes naturales y de almacenamientos artificiales que no han sido objeto de uso previo alguno;
 
 III BIS. “Aguas de Laboreo”: Aquéllas del subsuelo que necesariamente deban extraerse para permitir la realización de obras y trabajos de exploración y explotación minera. Fracción adicionada DOF 08-05-2023
 
@@ -75,7 +77,9 @@ XXII. "Descarga": La acción de verter, infiltrar, depositar o inyectar aguas re
 
 XXIII. "Disponibilidad media anual de aguas superficiales": En una cuenca hidrológica, es el valor que resulta de la diferencia entre el volumen medio anual de escurrimiento de una cuenca hacia aguas abajo y el volumen medio anual actual comprometido aguas abajo;
 
-XXIV. "Disponibilidad media anual de aguas del subsuelo": En una unidad hidrogeológica - entendida ésta como el conjunto de estratos geológicos hidráulicamente conectados entre sí, cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales subterráneas-, es el volumen medio anual de agua subterránea que puede ser extraído de esa unidad hidrogeológica para diversos usos, adicional a la extracción ya concesionada y a la descarga natural comprometida, sin poner en peligro el equilibrio de los ecosistemas; XXV. a. "Distrito de Riego": Es el establecido mediante Decreto Presidencial, el cual está conformado por una o varias superficies previamente delimitadas y dentro de cuyo perímetro se ubica la zona de riego, el cual cuenta con las obras de infraestructura hidráulica, aguas superficiales y del subsuelo, así como con sus vasos de almacenamiento, su zona federal, de protección y demás bienes y obras conexas, pudiendo establecerse también con una o varias unidades de riego;
+XXIV. "Disponibilidad media anual de aguas del subsuelo": En una unidad hidrogeológica - entendida ésta como el conjunto de estratos geológicos hidráulicamente conectados entre sí, cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales subterráneas-, es el volumen medio anual de agua subterránea que puede ser extraído de esa unidad hidrogeológica para diversos usos, adicional a la extracción ya concesionada y a la descarga natural comprometida, sin poner en peligro el equilibrio de los ecosistemas;
+
+XXV. a. "Distrito de Riego": Es el establecido mediante Decreto Presidencial, el cual está conformado por una o varias superficies previamente delimitadas y dentro de cuyo perímetro se ubica la zona de riego, el cual cuenta con las obras de infraestructura hidráulica, aguas superficiales y del subsuelo, así como con sus vasos de almacenamiento, su zona federal, de protección y demás bienes y obras conexas, pudiendo establecerse también con una o varias unidades de riego;
 
 b. "Distrito de Temporal Tecnificado": Área geográfica destinada normalmente a las actividades agrícolas que no cuenta con infraestructura de riego, en la cual mediante el uso de diversas técnicas y obras, se aminoran los daños a la producción por causa de ocurrencia de lluvias fuertes y prolongadas -éstos también denominados Distritos de Drenaje- o en condiciones de escasez, se aprovecha con mayor eficiencia la lluvia y la humedad en los terrenos agrícolas; el distrito de temporal tecnificado está integrado por unidades de temporal;
 
@@ -93,7 +97,9 @@ XXXI. "La Comisión": La [Comisión Nacional del Agua](articulo-3.md);
 
 XXXII. "La Ley": Ley de Aguas Nacionales;
 
-XXXIII. "La Procuraduría": La Procuraduría Federal de Protección al Ambiente; XXXIV. "La Secretaría": La Secretaría del Medio Ambiente y Recursos Naturales;
+XXXIII. "La Procuraduría": La Procuraduría Federal de Protección al Ambiente;
+
+XXXIV. "La Secretaría": La Secretaría del Medio Ambiente y Recursos Naturales;
 
 XXXV. "Los Consejos": Los Consejos de Cuenca;
 

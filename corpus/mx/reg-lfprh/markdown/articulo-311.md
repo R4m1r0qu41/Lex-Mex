@@ -31,7 +31,9 @@ II. Antes de realizarse la auditoría o visita, la orden para su ejecución se e
 
 III. Se especificarán en la orden los aspectos que deberá cubrir la auditoría o visita, tales como el objeto y el periodo que se revisará;
 
-IV. Se levantará acta de inicio en la que se harán constar los hechos; V. Se formulará acta o informe en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendientes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado, y
+IV. Se levantará acta de inicio en la que se harán constar los hechos;
+
+V. Se formulará acta o informe en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendientes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado, y
 
 VI. Las observaciones resultantes deberán solventarse por las dependencias y entidades en un plazo de 45 días hábiles.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "90"
 aliases: ["REG-LGDNNA — Artículo 90"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
 source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 ---
@@ -37,7 +37,9 @@ VII. Condición e historia médica;
 
 VIII. Condición psicológica;
 
-IX. Evolución pedagógica; X. Requerimiento de atención especial, y
+IX. Evolución pedagógica;
+
+X. Requerimiento de atención especial, y
 
 XI. Información sobre los motivos por los cuales no se pudo encontrar a una familia nacional que pudiera adoptar a la niña, niño o adolescente.
 

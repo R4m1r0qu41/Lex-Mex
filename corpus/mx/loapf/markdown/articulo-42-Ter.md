@@ -41,7 +41,9 @@ h) La cobertura universal y social de servicios de telecomunicaciones a cargo de
 
 i) El desarrollo e implementación de software y soluciones tecnológicas en la Administración Pública Federal, así como la fábrica de software público;
 
-III. Elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal; IV. Definir la capacidad satelital que, en su caso, se requiera de las personas concesionarias de recursos orbitales y de las autorizadas para explotar los derechos de emisión y recepción de señales de satélites extranjeros para prestar servicios en el territorio nacional, como reserva del Estado para redes de seguridad nacional, servicios de carácter social y demás necesidades del gobierno, así como vigilar el uso eficiente de la capacidad satelital propia, ya sea concesionada o adquirida o aquella establecida como reserva del Estado;
+III. Elaborar y conducir las políticas de telecomunicaciones y radiodifusión del Gobierno Federal;
+
+IV. Definir la capacidad satelital que, en su caso, se requiera de las personas concesionarias de recursos orbitales y de las autorizadas para explotar los derechos de emisión y recepción de señales de satélites extranjeros para prestar servicios en el territorio nacional, como reserva del Estado para redes de seguridad nacional, servicios de carácter social y demás necesidades del gobierno, así como vigilar el uso eficiente de la capacidad satelital propia, ya sea concesionada o adquirida o aquella establecida como reserva del Estado;
 
 V. Regular, inspeccionar y vigilar la prestación de servicios públicos de correos, telégrafos, giros telegráficos y radiotelegrafía por parte de la Administración Pública Federal, de conformidad con las disposiciones aplicables;
 

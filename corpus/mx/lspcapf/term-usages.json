@@ -361,84 +361,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:575-583",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:576-584",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
     "span": "Registro",
-    "start_char": 575,
-    "end_char": 583
+    "start_char": 576,
+    "end_char": 584
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:781-803",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:782-804",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
     "span": "Administración Pública",
-    "start_char": 781,
-    "end_char": 803
+    "start_char": 782,
+    "end_char": 804
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:926-933",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:927-934",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
     "span": "Sistema",
-    "start_char": 926,
-    "end_char": 933
+    "start_char": 927,
+    "end_char": 934
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1020-1027",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1021-1028",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
     "span": "Sistema",
-    "start_char": 1020,
-    "end_char": 1027
+    "start_char": 1021,
+    "end_char": 1028
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1132-1154",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1133-1155",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
     "span": "Administración Pública",
-    "start_char": 1132,
-    "end_char": 1154
+    "start_char": 1133,
+    "end_char": 1155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1295-1302",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1296-1303",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
     "span": "Sistema",
-    "start_char": 1295,
-    "end_char": 1302
+    "start_char": 1296,
+    "end_char": 1303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1379-1387",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1380-1388",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
     "span": "Catálogo",
-    "start_char": 1379,
-    "end_char": 1387
+    "start_char": 1380,
+    "end_char": 1388
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1602-1624",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1603-1625",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
     "span": "Administración Pública",
-    "start_char": 1602,
-    "end_char": 1624
+    "start_char": 1603,
+    "end_char": 1625
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1677-1684",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1678-1685",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
     "span": "Sistema",
-    "start_char": 1677,
-    "end_char": 1684
+    "start_char": 1678,
+    "end_char": 1685
   },
   {
     "schema_version": "0.1.0",
@@ -1747,30 +1747,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:751-761",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:752-762",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 751,
-    "end_char": 761
+    "start_char": 752,
+    "end_char": 762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:893-903",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:894-904",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 893,
-    "end_char": 903
+    "start_char": 894,
+    "end_char": 904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:1135-1145",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:1136-1146",
     "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
     "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1135,
-    "end_char": 1145
+    "start_char": 1136,
+    "end_char": 1146
   },
   {
     "schema_version": "0.1.0",

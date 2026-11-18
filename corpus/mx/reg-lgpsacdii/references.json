@@ -465,14 +465,7 @@
     "end_char": 190,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:59",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 413,
-        "end_char": 425
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

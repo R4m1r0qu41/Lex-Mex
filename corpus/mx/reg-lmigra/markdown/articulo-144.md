@@ -19,7 +19,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 La regularización de situación migratoria podrá autorizarse a la persona extranjera que se encuentre en situación migratoria irregular por incumplimiento a las disposiciones jurídicas aplicables, cuando demuestre alguno de los siguientes supuestos:
 
-I. Tener vínculo con mexicano o con persona extranjera residente temporal o permanente en el territorio nacional, conforme a las hipótesis de unidad familiar previstas en la Ley en el artículo [111](articulo-111.md) de este Reglamento; II. Ser identificado por la autoridad migratoria o por la autoridad competente como víctima o testigo de algún delito grave cometido en el territorio nacional;
+I. Tener vínculo con mexicano o con persona extranjera residente temporal o permanente en el territorio nacional, conforme a las hipótesis de unidad familiar previstas en la Ley en el artículo [111](articulo-111.md) de este Reglamento;
+
+II. Ser identificado por la autoridad migratoria o por la autoridad competente como víctima o testigo de algún delito grave cometido en el territorio nacional;
 
 III. Ser niña, niño o adolescente que se encuentre sujeto a un procedimiento de sustracción y restitución internacional, siempre y cuando el trámite sea solicitado por sus padres o tutores;
 

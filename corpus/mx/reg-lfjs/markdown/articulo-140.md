@@ -17,7 +17,9 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 140
 
-Para ser designado inspector se deberán reunir los siguientes requisitos: I. Ser ciudadano mexicano, mayor de edad, en pleno ejercicio de sus derechos civiles;
+Para ser designado inspector se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, mayor de edad, en pleno ejercicio de sus derechos civiles;
 
 II. No estar sujeto a proceso penal ni haber sido condenado por delito doloso de índole patrimonial, fiscal o relacionado con el crimen organizado o de operaciones con recursos de procedencia ilícita;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["REG-LPF — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -21,7 +21,9 @@ Corresponde a la Dirección General del Centro de Alertas y Atención de Riesgos
 
 I. Implementar acciones estratégicas para identificar el tráfico aéreo ilícito y potenciales objetivos aéreos que puedan ser generadores de delitos;
 
-II. Establecer, planear y coordinar tareas de monitoreo del espacio aéreo nacional mediante equipo satelital para captar información en tiempo real de vuelos dentro del territorio nacional; III. Coordinar acciones operativas, en el ámbito de su competencia, con diferentes autoridades nacionales para identificar e interceptar objetivos aéreos, terrestres y/o marítimos;
+II. Establecer, planear y coordinar tareas de monitoreo del espacio aéreo nacional mediante equipo satelital para captar información en tiempo real de vuelos dentro del territorio nacional;
+
+III. Coordinar acciones operativas, en el ámbito de su competencia, con diferentes autoridades nacionales para identificar e interceptar objetivos aéreos, terrestres y/o marítimos;
 
 IV. Establecer la coordinación de acciones, en el ámbito de su competencia, con corporaciones policiales a nivel internacional para identificar e interceptar objetivos aéreos y/o marítimos dentro del territorio nacional;
 

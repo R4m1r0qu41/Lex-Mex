@@ -21,7 +21,9 @@ Para la salvaguarda de los Recursos forestales, la [Procuraduría](articulo-2.md
 
 Los Comités a que se refiere el párrafo anterior se integrarán con por lo menos cinco vigilantes ambientales.
 
-Para ser vigilante ambiental se deberá contar con los requisitos siguientes: I. Ser persona mayor de edad;
+Para ser vigilante ambiental se deberá contar con los requisitos siguientes:
+
+I. Ser persona mayor de edad;
 
 II. Conocer su localidad y los Recursos forestales;
 

@@ -1,0 +1,92 @@
+{
+  "reviewed_commit": "8fbfd9137b27137b249b6b84801013ef900de33e",
+  "head": "87df2e98325f06547b38828cac34a97249954e11",
+  "disposition": "bounded-review-accepted-with-deferred-limits",
+  "tests": {
+    "analysis_passed": 44,
+    "failed": 0,
+    "filtered": 8,
+    "fmt_exit": 0,
+    "build_exit": 0
+  },
+  "probes": [
+    {
+      "commencement": "Some(Resolved { effective_from: 2020-03-21, pattern: \"day_after_publication\", matched_text: \"entrará en vigor al día siguiente de su publicación\", provenance: None })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": "2020-03-21",
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause resolves to 2020-03-21"
+          ]
+        }
+      ],
+      "name": "legacy-conditional-day",
+      "synthetic_clause": "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, siempre que el Consejo haya emitido la autorización correspondiente."
+    },
+    {
+      "commencement": "Some(Resolved { effective_from: 2020-04-19, pattern: \"relative_days\", matched_text: \"entrará en vigor a los treinta días siguientes de su publicación\", provenance: None })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": "2020-04-19",
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause resolves to 2020-04-19"
+          ]
+        }
+      ],
+      "name": "legacy-negated-whitespace",
+      "synthetic_clause": "La presente Ley no  entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación."
+    },
+    {
+      "commencement": "Some(Skipped { reason: BusinessDaysCalendarInsufficient { detail: \"no statutory text version is supplied for the counting rule\" }, matched_text: Some(\"La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación.\") })",
+      "determinations": [],
+      "name": "plain-business",
+      "synthetic_clause": "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación."
+    },
+    {
+      "commencement": "Some(Skipped { reason: BusinessDaysPeriod, matched_text: Some(\"La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación, siempre que el Consejo haya emitido la autorización correspondiente.\") })",
+      "determinations": [],
+      "name": "conditional-business",
+      "synthetic_clause": "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación, siempre que el Consejo haya emitido la autorización correspondiente."
+    },
+    {
+      "commencement": "Some(Skipped { reason: UnsupportedRelativePeriodUnit { unit: \"mes\" }, matched_text: Some(\"entrará en vigor un mes después de su publicación\") })",
+      "determinations": [],
+      "name": "conditional-month",
+      "synthetic_clause": "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación, siempre y cuando se haya expedido el reglamento correspondiente."
+    },
+    {
+      "commencement": "Some(Skipped { reason: ExceptionOrConditionalLanguage { marker: \"no entrará en vigor\" }, matched_text: Some(\"La presente Ley no entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.\") })",
+      "determinations": [],
+      "name": "negated-month",
+      "synthetic_clause": "La presente Ley no entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación."
+    }
+  ],
+  "corpus": {
+    "instrument": "reg-lfpc-art122",
+    "changed_provisions": 14,
+    "changed_fields": [
+      "temporal_status",
+      "temporal_basis",
+      "temporal_confidence",
+      "review_status"
+    ],
+    "id_text_date_changes": 0
+  },
+  "limits": [
+    "legacy fragment parsing",
+    "unverified historical calendar window",
+    "open-ended sexennial holiday",
+    "permissive calendar input validation"
+  ],
+  "db_rebuild": false,
+  "artifacts": {
+    "/private/tmp/lex-commencement-repair-review-20261028/probe.rs": "68a71c0e8424e52979d53bf7d429f59fdaccf7e4724d137415e19487d8163161",
+    "/private/tmp/lex-commencement-repair-review-20261028/conditional-probes.json": "c8ec691e5cb7f40a11e281297676f825e27d75cb85c17e868feb5e2167c6382b"
+  }
+}

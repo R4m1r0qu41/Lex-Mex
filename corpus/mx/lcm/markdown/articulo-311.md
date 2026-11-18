@@ -41,7 +41,9 @@ X. Promover la capacitación y actualización de los visitadores, conciliadores 
 
 XI. Realizar y apoyar análisis, estudios e investigaciones relacionados con sus funciones; Fracción reformada DOF 27-12-2007 (se recorre)
 
-XII. Difundir sus funciones, objetivos y procedimientos, así como las disposiciones que expida conforme a esta Ley; Fracción reformada DOF 27-12-2007 (se recorre) XIII. Elaborar y dar a conocer estadísticas relativas a los concursos mercantiles; Fracción reformada DOF 27-12-2007 (se recorre)
+XII. Difundir sus funciones, objetivos y procedimientos, así como las disposiciones que expida conforme a esta Ley; Fracción reformada DOF 27-12-2007 (se recorre)
+
+XIII. Elaborar y dar a conocer estadísticas relativas a los concursos mercantiles; Fracción reformada DOF 27-12-2007 (se recorre)
 
 XIV. Expedir las reglas de carácter general necesarias para el ejercicio de las atribuciones señaladas en las fracciones IV, V, VII y XII de este artículo; Fracción reformada DOF 27-12-2007 (se recorre)
 

@@ -31,7 +31,9 @@ d) Presentación de hechos notoriamente falsos en el juicio laboral, por cualqui
 
 e) Negar el acceso a un establecimiento o centro de trabajo al actuario o notificador de la autoridad laboral, cuando éste solicite realizar una notificación o diligencia. Asimismo, negarse a recibir los documentos relativos a la notificación ordenada por la autoridad laboral cuando se trate del domicilio de la razón social o de la persona física o moral buscada. También se considera conducta infractora simular con cédulas fiscales o documentación oficial de otras razones sociales, aun cuando tengan el mismo domicilio, con objeto de evadir la citación al procedimiento de conciliación prejudicial, el emplazamiento a juicio o el desahogo de una prueba, y
 
-f) Demandar la titularidad de un contrato colectivo de trabajo sin tener trabajadores afiliados al sindicato que labore en el centro de trabajo de cuyo contrato se reclame. II. Tratándose de servidores públicos se considerarán actuaciones notoriamente improcedentes:
+f) Demandar la titularidad de un contrato colectivo de trabajo sin tener trabajadores afiliados al sindicato que labore en el centro de trabajo de cuyo contrato se reclame.
+
+II. Tratándose de servidores públicos se considerarán actuaciones notoriamente improcedentes:
 
 a) Levantar razón de una notificación haciendo constar que se constituyó en el domicilio que se le ordenó realizar la notificación, sin haberse constituido en el mismo;
 

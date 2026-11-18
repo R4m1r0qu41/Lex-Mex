@@ -1,0 +1,39 @@
+{
+  "four": {
+    "head": "f11beebce06b90a2d590acab80078b09fbd254c4",
+    "branch": "feat/four-instrument-reader-design",
+    "status_before": " M docs/plans/four-instrument-reader-design-release.md\n?? docs/four-instrument-reader-r5-codex-review-2026-10-22-evidence.json\n?? docs/four-instrument-reader-r5-codex-review-2026-10-22.md\n?? docs/four-instrument-reader-r6-code-review-findings-2026-10-22.md\n?? docs/four-instrument-reader-r6-codex-review-2026-10-22-evidence.json\n?? docs/four-instrument-reader-r6-codex-review-2026-10-22.md\n?? docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22-evidence.json\n?? docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md\n?? docs/reader-r5-account-switch-2026-10-22.md\n",
+    "untracked": {
+      "docs/four-instrument-reader-r5-codex-review-2026-10-22-evidence.json": "2790e7a7f26ce23cc7f848b1a2b5b697cb553983e95e1d327621e10585b87f24",
+      "docs/four-instrument-reader-r5-codex-review-2026-10-22.md": "e4d8a2b8c6d8c46145536c89b40e41f536d85da6ed285ce542be515b754f3ac6",
+      "docs/four-instrument-reader-r6-code-review-findings-2026-10-22.md": "7b3aadbd7ef8276fb6755fba54c831c7c4e1384c0eb1c1152d240a47b9f6205c",
+      "docs/four-instrument-reader-r6-codex-review-2026-10-22-evidence.json": "51b4d6fdd689e2232bc5dbcb0530fc93382fa34e77e9cc863011ebbc4af864bb",
+      "docs/four-instrument-reader-r6-codex-review-2026-10-22.md": "a0d05fc247e4e2b02fb4c259ae897df93d78e361603bdef36fe28ce07e1f10e4",
+      "docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22-evidence.json": "1760c3619d75ba4b8f35c69e1aac3f8284f4df207d3f956c4ab2d84c2bab98d9",
+      "docs/four-instrument-reader-r6-findings-codex-ruling-2026-10-22.md": "16d5e5e99ee3d934afe6e9c065798a406e28d303901911394ce4e04f52a2570e",
+      "docs/reader-r5-account-switch-2026-10-22.md": "d1db193d62d7862cdeffb5cab4559c4f63036442b506b343bc20ca38f57e3c1e"
+    },
+    "dirty_tracked": {
+      "docs/plans/four-instrument-reader-design-release.md": "889ae01d0471b1d0de2acdeac6e97b58e1ccd6bbc45b7dd7321847e31d9f53da"
+    },
+    "ignored_moved": [
+      ".DS_Store",
+      ".work",
+      "docs/.DS_Store",
+      "target"
+    ]
+  },
+  "five": {
+    "head": "0661d5ef0ff61517287c4de0437b90f6bb60ffcc",
+    "branch": "feat/reader-tweaks-r7",
+    "status_before": "?? docs/four-instrument-reader-r7-codex-review-2026-10-23-evidence.json\n?? docs/four-instrument-reader-r7-codex-review-2026-10-23.md\n",
+    "untracked": {
+      "docs/four-instrument-reader-r7-codex-review-2026-10-23-evidence.json": "eeb5a27d5cba2adfd657c0e14c383f1faec986f835a386cdc68b1f87b5e058bd",
+      "docs/four-instrument-reader-r7-codex-review-2026-10-23.md": "ac6611474ceafe5782b156896f61ab6fd156c3c4f2f6bc7f3f8b49bf660e4e8f"
+    },
+    "dirty_tracked": {},
+    "ignored_moved": [
+      ".work"
+    ]
+  }
+}

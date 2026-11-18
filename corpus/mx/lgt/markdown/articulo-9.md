@@ -53,7 +53,9 @@ XVI. Atender los asuntos que afecten el desarrollo de la actividad turística de
 
 XVII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
 
-XVIII. Vigilar el cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos; XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a esta Ley y a las disposiciones reglamentarias;
+XVIII. Vigilar el cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+
+XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a esta Ley y a las disposiciones reglamentarias;
 
 XX. Emitir opiniones a la [Secretaría](articulo-3.md) en la materia, y
 

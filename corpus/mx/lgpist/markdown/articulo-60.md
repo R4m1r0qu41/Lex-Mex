@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["LGPIST — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf
 source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 ---
@@ -25,7 +25,9 @@ II. Desarrollar programas de formación, actualización, capacitación y profesi
 
 III. Implementar el [Protocolo Homologado](articulo-5.md) en todas las instituciones de procuración de justicia para la investigación y persecución del delito de tortura;
 
-IV. Establecer mecanismos para la revisión y actualización del Protocolo Homologado; V. Establecer mecanismos para la sistematización e intercambio de información relativa a la investigación del delito de tortura entre las Instituciones de Seguridad Pública, Instituciones Policiales e Instituciones de Procuración de Justicia;
+IV. Establecer mecanismos para la revisión y actualización del Protocolo Homologado;
+
+V. Establecer mecanismos para la sistematización e intercambio de información relativa a la investigación del delito de tortura entre las Instituciones de Seguridad Pública, Instituciones Policiales e Instituciones de Procuración de Justicia;
 
 VI. Desarrollar protocolos de actuación, campañas de sensibilización y difusión, manuales, capacitaciones, protocolos y cualquier otro mecanismo o normatividad, para prevenir el empleo de la tortura y otros tratos o penas crueles, inhumanas o degradantes hacia toda persona y, especialmente, hacia personas sujetas a cualquier régimen de privación de la libertad;
 

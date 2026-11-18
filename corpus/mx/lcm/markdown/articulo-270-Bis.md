@@ -25,7 +25,9 @@ II. Favorezcan, a sabiendas, a un determinado accionista o grupo de accionistas 
 
 III. Cuando, sin causa legítima, por virtud de su empleo, cargo o comisión, obtengan beneficios económicos para sí o los procuren en favor de terceros, incluyendo a un determinado accionista o grupo de accionistas;
 
-IV. Generen, difundan, publiquen, proporcionen u ordenen información, a sabiendas de que es falsa; V. Ordenen u ocasionen que se omita el registro de operaciones efectuadas por el Comerciante, así como alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones celebradas, afectando cualquier concepto de los estados financieros;
+IV. Generen, difundan, publiquen, proporcionen u ordenen información, a sabiendas de que es falsa;
+
+V. Ordenen u ocasionen que se omita el registro de operaciones efectuadas por el Comerciante, así como alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones celebradas, afectando cualquier concepto de los estados financieros;
 
 VI. Ordenen o acepten que se inscriban datos falsos en la contabilidad del Comerciante. Se presumirá, salvo prueba en contrario, que los datos incluidos en la contabilidad son falsos cuando las autoridades, en ejercicio de sus facultades, requieran información relacionada con los registros contables y el Comerciante no cuente con ella, y no se pueda acreditar la información que sustente los registros contables;
 

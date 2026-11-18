@@ -23,7 +23,9 @@ I. Las sanciones a que se haya hecho acreedor el responsable;
 
 II. Las medidas que el responsable deba llevar a cabo para corregir las deficiencias, violaciones o irregularidades observadas;
 
-III. El reconocimiento de los términos y obligaciones derivados del convenio previsto en el [artículo anterior](articulo-168.md), y las medidas que el responsable deba llevar a cabo para su cumplimiento. En este supuesto, la resolución del procedimiento será pública, y IV. Los plazos para el cumplimiento de las obligaciones del infractor que se deriven de la resolución.
+III. El reconocimiento de los términos y obligaciones derivados del convenio previsto en el [artículo anterior](articulo-168.md), y las medidas que el responsable deba llevar a cabo para su cumplimiento. En este supuesto, la resolución del procedimiento será pública, y
+
+IV. Los plazos para el cumplimiento de las obligaciones del infractor que se deriven de la resolución.
 
 El infractor deberá informar a la autoridad ordenadora, por escrito, en forma detallada y dentro de los cinco días siguientes al vencimiento del plazo correspondiente, sobre el cumplimiento de las obligaciones a que se refiere el presente artículo.
 

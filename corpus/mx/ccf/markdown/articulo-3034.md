@@ -19,6 +19,8 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
 
-I. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y II. Cuando se reduzca el derecho inscrito o anotado.
+I. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
+
+II. Cuando se reduzca el derecho inscrito o anotado.
 
 Artículo reformado DOF 18-01-1952, 03-01-1979

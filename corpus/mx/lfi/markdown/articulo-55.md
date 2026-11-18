@@ -33,7 +33,9 @@ IV. Las autoridades hacendarias federales, para fines fiscales;
 
 V. La Secretaría de Hacienda y Crédito Público, para efectos de lo dispuesto por el artículo [91](articulo-91.md) de la presente Ley;
 
-VI. El Tesorero de la Federación, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate; VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuales se administren o ejerzan recursos públicos federales;
+VI. El Tesorero de la Federación, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
+
+VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuales se administren o ejerzan recursos públicos federales;
 
 VIII. El titular y los subsecretarios de la Secretaría de la Función Pública, en ejercicio de sus facultades de investigación o auditoría para verificar la evolución del patrimonio de los servidores públicos federales.
 

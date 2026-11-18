@@ -23,7 +23,9 @@ I. La mención de ser bonos bancarios y títulos al portador;
 
 II. La expresión de lugar y fecha en que se suscriban;
 
-III. El nombre y la firma de la emisora; IV. El importe de la emisión, con especificación del número y el valor nominal de cada bono;
+III. El nombre y la firma de la emisora;
+
+IV. El importe de la emisión, con especificación del número y el valor nominal de cada bono;
 
 V. El tipo de interés que en su caso devengarán;
 

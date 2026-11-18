@@ -40,14 +40,7 @@
     "end_char": 757,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:78",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IX",
-        "start_char": 821,
-        "end_char": 834
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -500,19 +493,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:260:reference:1005-1006:8:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:260:reference:1006-1007:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:260",
     "source_span": "8",
-    "start_char": 1005,
-    "end_char": 1006,
+    "start_char": 1006,
+    "end_char": 1007,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:8",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XVIII",
-        "start_char": 977,
-        "end_char": 991
+        "start_char": 978,
+        "end_char": 992
       }
     ],
     "basis": "express_cross_reference",
@@ -555,11 +548,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1251-1253:35:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1252-1254:35:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:3",
     "source_span": "35",
-    "start_char": 1251,
-    "end_char": 1253,
+    "start_char": 1252,
+    "end_char": 1254,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:35",
     "qualifiers": [],
@@ -571,19 +564,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1825-1827:71:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1826-1828:71:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:3",
     "source_span": "71",
-    "start_char": 1825,
-    "end_char": 1827,
+    "start_char": 1826,
+    "end_char": 1828,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:71",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1796,
-        "end_char": 1811
+        "start_char": 1797,
+        "end_char": 1812
       }
     ],
     "basis": "express_cross_reference",
@@ -594,11 +587,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:301:reference:3304-3307:113:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:301:reference:3305-3308:113:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:301",
     "source_span": "113",
-    "start_char": 3304,
-    "end_char": 3307,
+    "start_char": 3305,
+    "end_char": 3308,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:113",
     "qualifiers": [],
@@ -610,11 +603,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:301:reference:3683-3686:114:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:301:reference:3684-3687:114:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:301",
     "source_span": "114",
-    "start_char": 3683,
-    "end_char": 3686,
+    "start_char": 3684,
+    "end_char": 3687,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:114",
     "qualifiers": [],
@@ -626,11 +619,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:306:reference:115-118:144:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:306:reference:116-119:144:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:306",
     "source_span": "144",
-    "start_char": 115,
-    "end_char": 118,
+    "start_char": 116,
+    "end_char": 119,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:144",
     "qualifiers": [],

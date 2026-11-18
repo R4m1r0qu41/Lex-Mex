@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGMASC — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -49,7 +49,9 @@ XIV. Persona Facilitadora. La persona física certificada, para el ejercicio pú
 
 XV. Procesos de Justicia Restaurativa. Conjunto de sesiones, encuentros e intervenciones metodológicas, multidisciplinarias y especializadas enfocadas en gestionar el conflicto mediante el reconocimiento de su existencia y los daños que se generaron, así como la identificación de las necesidades de las partes, su momento de vida y sus mutuas responsabilidades, con la finalidad de adoptar y acordar el despliegue de conductas enfocadas en reparar los daños existentes y prevenir los futuros, bajo la expectativa de no repetición;
 
-XVI. Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto; XVII. Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas;
+XVI. Procesos de Justicia Terapéutica. Herramientas metodológicas e interdisciplinarias aplicadas en el abordaje y resolución de conflictos, mediante el acompañamiento, guía e interacción de agentes terapéuticos con las personas involucradas en el conflicto, ello con la finalidad de fomentar el bienestar físico, psicológico y emocional de las personas interesadas en la solución del conflicto;
+
+XVII. Registro de Personas Facilitadoras. Resguardo electrónico de datos respecto del otorgamiento o modificación de la certificación de las personas facilitadoras públicas y privadas, así como de las personas abogadas colaborativas, a cargo de la instancia que determinen los Poderes Judiciales Federal o de las entidades federativas;
 
 XVIII. Plataforma Nacional de Personas Facilitadoras. Resguardo electrónico a cargo del Consejo de la Judicatura Federal, que contiene los datos e información respecto del otorgamiento de certificación de las personas facilitadoras públicas y privadas en todo el territorio nacional, así como de las personas abogadas colaborativas;
 

@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # DÉCIMO PRIMERO
 
-Las Instituciones Federales, Estatales, del Distrito Federal y Municipales deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley.
+Las Instituciones Federales, Estatales, del Distrito Federal y Municipales deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente [Ley](articulo-6.md).

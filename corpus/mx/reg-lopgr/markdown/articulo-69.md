@@ -29,7 +29,9 @@ IV. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a l
 
 V. Proponer la normatividad y metodología necesarios para el correcto funcionamiento y empleo de la telefonía, telecomunicaciones, informática, Internet, infraestructura electrónica y de seguridad informática de la Institución;
 
-VI. Desarrollar e implementar el programa de mantenimiento preventivo y correctivo y reemplazo de los equipos de telefonía, telecomunicaciones, informática, Internet, e infraestructura electrónica; VII. Proponer y realizar acciones de capacitación y especialización en materia de telecomunicaciones e informática, en coordinación con la Dirección General de Formación Profesional y demás unidades administrativas y órganos desconcentrados competentes;
+VI. Desarrollar e implementar el programa de mantenimiento preventivo y correctivo y reemplazo de los equipos de telefonía, telecomunicaciones, informática, Internet, e infraestructura electrónica;
+
+VII. Proponer y realizar acciones de capacitación y especialización en materia de telecomunicaciones e informática, en coordinación con la Dirección General de Formación Profesional y demás unidades administrativas y órganos desconcentrados competentes;
 
 VIII. Brindar apoyo técnico a las unidades administrativas y órganos desconcentrados competentes, para atender las necesidades de innovación tecnológica, en el ámbito de su competencia e implementar las acciones autorizadas;
 

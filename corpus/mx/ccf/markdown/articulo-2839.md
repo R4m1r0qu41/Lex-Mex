@@ -17,7 +17,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2839
 
-El beneficio de división no tiene lugar entre los fiadores: I. Cuando se renuncia expresamente;
+El beneficio de división no tiene lugar entre los fiadores:
+
+I. Cuando se renuncia expresamente;
 
 II. Cuando cada uno se ha obligado mancomunadamente con el deudor;
 

@@ -41,6 +41,8 @@ IX. Celebrar operaciones en corto, con títulos opcionales, futuros y derivados 
 
 X. Celebrar operaciones que de manera directa o indirecta tengan como resultado adquirir valores, por más de un cinco por ciento del valor de la cartera de la sociedad de inversión de que se trate, emitidos o avalados por personas físicas o morales con quienes tenga nexos patrimoniales o de control administrativo.
 
-[La Comisión](articulo-3o.md) en casos excepcionales y atendiendo a las consideraciones del caso concreto, podrá autorizar la adquisición de los valores a que se refiere el párrafo anterior hasta por un diez por ciento; XI. Adquirir valores extranjeros distintos a los autorizados por la Comisión en el régimen de inversión. Estos valores no deberán exceder el 20% del activo total de la sociedad de inversión, y Fracción reformada DOF 10-12-2002
+[La Comisión](articulo-3o.md) en casos excepcionales y atendiendo a las consideraciones del caso concreto, podrá autorizar la adquisición de los valores a que se refiere el párrafo anterior hasta por un diez por ciento;
+
+XI. Adquirir valores extranjeros distintos a los autorizados por la Comisión en el régimen de inversión. Estos valores no deberán exceder el 20% del activo total de la sociedad de inversión, y Fracción reformada DOF 10-12-2002
 
 XII. Las demás que señalen ésta u otras leyes.

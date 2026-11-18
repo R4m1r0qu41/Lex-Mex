@@ -17,7 +17,9 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 19
 
-La solicitud para obtener la concesión a que se refiere el [artículo anterior](articulo-18.md) debe estar acompañada de los documentos que permitan acreditar lo siguiente: I. Por lo que respecta a la capacidad técnica, un estudio técnico operativo, que contenga lo siguiente:
+La solicitud para obtener la concesión a que se refiere el [artículo anterior](articulo-18.md) debe estar acompañada de los documentos que permitan acreditar lo siguiente:
+
+I. Por lo que respecta a la capacidad técnica, un estudio técnico operativo, que contenga lo siguiente:
 
 a) La descripción de las características principales del servicio o servicios que pretende proporcionar;
 

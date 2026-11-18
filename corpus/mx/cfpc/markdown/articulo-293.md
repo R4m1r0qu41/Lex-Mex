@@ -21,7 +21,9 @@ En caso de que hubieren de practicarse diligencias o aportarse pruebas de fuera 
 
 I.- Dos meses si el lugar está comprendido dentro del territorio nacional;
 
-II.- Cuatro meses si lo está en los Estados Unidos de Norteamérica, en Canadá o en las Antillas; III.- Cinco meses si está comprendido en Centroamérica;
+II.- Cuatro meses si lo está en los Estados Unidos de Norteamérica, en Canadá o en las Antillas;
+
+III.- Cinco meses si está comprendido en Centroamérica;
 
 IV.- Seis meses si estuviere en Europa o en la América del Sur, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "178"
 aliases: ["REG-LFSV — Artículo 178"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -21,7 +21,9 @@ Los puntos de Inspección internacional en Sanidad Vegetal deberán cumplir como
 
 I. Área de las oficinas administrativas;
 
-II. Ventanilla de atención al público; III. Área de maniobras;
+II. Ventanilla de atención al público;
+
+III. Área de maniobras;
 
 IV. Área de desconsolidación;
 

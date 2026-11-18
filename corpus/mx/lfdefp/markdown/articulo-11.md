@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LFDEFP — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf
 source_sha256: 603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262
 ---
@@ -23,7 +23,9 @@ I. Atender inmediatamente las solicitudes formuladas por el destinatario de los 
 
 II. Solicitar al Agente del Ministerio Público de la Federación correspondiente la libertad caucional o medida cautelar distinta a la prisión preventiva, si procediera o el no ejercicio de la acción penal en favor de su defendido, cuando no existan elementos suficientes para su consignación;
 
-III. Analizar la procedencia y proporcionalidad, así como promover lo que corresponda, en los casos en que se aplique una medida cautelar a su defendido; IV. Entrevistar en privado y cuantas veces sea necesario al defendido, para conocer la versión personal de los hechos que motivan la averiguación previa o investigación en su contra, los argumentos, datos, medios de prueba y pruebas, así como todo aquello que sea necesario para plantear y llevar a cabo la defensa que corresponda;
+III. Analizar la procedencia y proporcionalidad, así como promover lo que corresponda, en los casos en que se aplique una medida cautelar a su defendido;
+
+IV. Entrevistar en privado y cuantas veces sea necesario al defendido, para conocer la versión personal de los hechos que motivan la averiguación previa o investigación en su contra, los argumentos, datos, medios de prueba y pruebas, así como todo aquello que sea necesario para plantear y llevar a cabo la defensa que corresponda;
 
 V. Asistir jurídicamente al defendido en toda entrevista, declaración o diligencia que ocurra dentro del procedimiento penal o establezca la Ley;
 

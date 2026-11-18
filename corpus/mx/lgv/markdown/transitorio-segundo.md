@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # SEGUNDO
 
-Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+Se derogan todas las disposiciones legales que se opongan a la presente [Ley](articulo-6.md).

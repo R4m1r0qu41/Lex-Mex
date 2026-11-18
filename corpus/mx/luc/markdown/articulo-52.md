@@ -25,4 +25,6 @@ II. Sin satisfacer más formalidades que las señaladas en la fracción anterior
 
 III. Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del deudor en los términos establecidos en el artículo [329](../../lgtoc/markdown/articulo-329.md) de la Ley General de Títulos y Operaciones de Crédito;
 
-IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte en el contrato, y V. Podrá exceder del cincuenta por ciento la parte de los créditos refaccionarios que se destine a cubrir los pasivos a que se refiere el párrafo segundo el artículo [323](../../lgtoc/markdown/articulo-323.md) de la Ley General de Títulos y Operaciones de Crédito, sólo en los casos que la [Comisión](articulo-3.md) autorice a la unión para ello, siempre que se acredite el cumplimiento de los requisitos señalados en el artículo [51](articulo-51.md) de esta Ley.
+IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte en el contrato, y
+
+V. Podrá exceder del cincuenta por ciento la parte de los créditos refaccionarios que se destine a cubrir los pasivos a que se refiere el párrafo segundo el artículo [323](../../lgtoc/markdown/articulo-323.md) de la Ley General de Títulos y Operaciones de Crédito, sólo en los casos que la [Comisión](articulo-3.md) autorice a la unión para ello, siempre que se acredite el cumplimiento de los requisitos señalados en el artículo [51](articulo-51.md) de esta Ley.

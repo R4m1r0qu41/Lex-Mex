@@ -18,7 +18,9 @@ source_sha256: 25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3
 
 # Artículo 121
 
-En los Jefes, Oficiales y gente de mar, serán acciones distinguidas todas las previstas en la Ordenanza General del Ejército que puedan llevar a cabo cuando presten sus servicios en tierra, y además las que se clasifican a continuación, cuando los presten a bordo de los buques de la Armada. I.- Batir con la tercera parte menos de fuerza, a un enemigo que abandone el combate después de una tenaz resistencia, por efecto de las pérdidas de gente y gruesas averías que se le han causado.
+En los Jefes, Oficiales y gente de mar, serán acciones distinguidas todas las previstas en la Ordenanza General del Ejército que puedan llevar a cabo cuando presten sus servicios en tierra, y además las que se clasifican a continuación, cuando los presten a bordo de los buques de la Armada.
+
+I.- Batir con la tercera parte menos de fuerza, a un enemigo que abandone el combate después de una tenaz resistencia, por efecto de las pérdidas de gente y gruesas averías que se le han causado.
 
 II.- Sostener un combate hasta perder la mitad de la gente.
 
@@ -50,7 +52,9 @@ XV.- Destruir o causar grandes estragos en Arsenales u otros establecimientos ma
 
 XVI.- Apagar con acertados fuegos los de las baterías de una plaza, en el momento de ser embestida, facilitando de este modo su asalto y rendición.
 
-XVII.- Varado bajo el fuego de baterías enemigas que lo hostilicen, poner su buque a flote y salvarlo, a favor de arriesgadas y difíciles maniobras. XVIII.- Sostener el bloqueo de un puerto, bahía o ensenada, logrando impedir completamente la entrada de auxilios, si para ello ha tenido que sufrir algunas veces el fuego de las baterías enemigas o sostenido combate con buque que intentase forzarlo.
+XVII.- Varado bajo el fuego de baterías enemigas que lo hostilicen, poner su buque a flote y salvarlo, a favor de arriesgadas y difíciles maniobras.
+
+XVIII.- Sostener el bloqueo de un puerto, bahía o ensenada, logrando impedir completamente la entrada de auxilios, si para ello ha tenido que sufrir algunas veces el fuego de las baterías enemigas o sostenido combate con buque que intentase forzarlo.
 
 XIX.- Ser de los tres primeros individuos de Marinería que en caso de incendio en paraje de gran peligro se arrojen a sofocarlo y continúen distinguiéndose hasta su extinción.
 

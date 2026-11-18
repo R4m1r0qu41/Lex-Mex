@@ -7,8 +7,8 @@ provision_type: article
 number: "90"
 aliases: ["REG-LGCFD — Artículo 90"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -17,7 +17,9 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 90
 
-A la Comisión Permanente del Comité Nacional Antidopaje le corresponde: I. La ejecución de los acuerdos adoptados por el Pleno;
+A la Comisión Permanente del Comité Nacional Antidopaje le corresponde:
+
+I. La ejecución de los acuerdos adoptados por el Pleno;
 
 II. El estudio y traslado al Pleno de las propuestas, resoluciones o seguimientos efectuados por el Panel de Autorización de Uso Terapéutico, el Panel de Gestión de Resultados, el Panel de Educación, y el Panel Disciplinario;
 

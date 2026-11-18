@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
     "fraction": "VIII",
     "start_char": 1251,
-    "end_char": 1486,
+    "end_char": 1487,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
     "fraction": "IX",
-    "start_char": 1486,
-    "end_char": 1674,
+    "start_char": 1487,
+    "end_char": 1675,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
     "fraction": "X",
-    "start_char": 1674,
-    "end_char": 1818,
+    "start_char": 1675,
+    "end_char": 1819,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:40",
     "fraction": "XI",
-    "start_char": 1818,
-    "end_char": 1955,
+    "start_char": 1819,
+    "end_char": 1956,
     "basis": "express_definition"
   }
 ]

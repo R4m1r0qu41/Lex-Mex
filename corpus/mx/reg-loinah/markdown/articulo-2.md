@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LOINAH — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -33,7 +33,9 @@ VI. INAH: el Instituto Nacional de Antropología e Historia;
 
 VII. Ley de la Materia: la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
 
-VIII. Ley Orgánica: la Ley Orgánica del Instituto Nacional de Antropología e Historia; IX. Normativa Interna: conjunto de normas, políticas, criterios, lineamientos, manuales, acuerdos, bases y circulares, publicados en la Normateca del Instituto, que establecen la forma en que deben desarrollarse las acciones del Instituto;
+VIII. Ley Orgánica: la Ley Orgánica del Instituto Nacional de Antropología e Historia;
+
+IX. Normativa Interna: conjunto de normas, políticas, criterios, lineamientos, manuales, acuerdos, bases y circulares, publicados en la Normateca del Instituto, que establecen la forma en que deben desarrollarse las acciones del Instituto;
 
 X. Patrimonio Cultural: el señalado en el artículo 2o. de la [Ley Orgánica](articulo-2.md);
 

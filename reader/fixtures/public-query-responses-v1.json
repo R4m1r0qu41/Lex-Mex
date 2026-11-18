@@ -1,0 +1,180 @@
+[
+  {
+    "path": "instruments",
+    "status": 200,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "catalog",
+        "data": {
+          "items": [
+            {
+              "slug": "norma-demo",
+              "id": "urn:lex-mx:fixture:norma-demo",
+              "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+              "short_name": "DEMO"
+            }
+          ],
+          "next_cursor": null
+        }
+      }
+    }
+  },
+  {
+    "path": "search?q=cuentas",
+    "status": 200,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "search",
+        "data": {
+          "items": [
+            {
+              "id": "urn:lex-mx:fixture:norma-demo:article:1",
+              "instrument": {
+                "slug": "norma-demo",
+                "id": "urn:lex-mx:fixture:norma-demo",
+                "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+                "short_name": "DEMO"
+              },
+              "provision_type": "article",
+              "number": "1",
+              "label": "Artículo 1",
+              "excerpt": "Texto sintético: las cuentas de prueba conservan recursos identificados. No establece obligaciones legales."
+            }
+          ],
+          "next_cursor": null,
+          "query": "cuentas"
+        }
+      }
+    }
+  },
+  {
+    "path": "mx/norma-demo/article/2-bis",
+    "status": 200,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "article",
+        "data": {
+          "provision": {
+            "id": "urn:lex-mx:fixture:norma-demo:article:2-bis",
+            "instrument": {
+              "slug": "norma-demo",
+              "id": "urn:lex-mx:fixture:norma-demo",
+              "title": "Norma sintética para pruebas de transporte — NO ES LEY",
+              "short_name": "DEMO"
+            },
+            "provision_type": "article",
+            "number": "2-bis",
+            "label": "Artículo 2 Bis",
+            "text": "Texto de prueba con acentos: obligación, obligación. Literal <script>no ejecutar</script> & espacios.\n\n  Segunda línea.",
+            "text_sha256": "fb0a1cd7156652c0682ea72863d5bf1b89965312672ae3b3eca2a15a9f4423fe",
+            "source": {
+              "official_url": "https://example.invalid/source-demo.pdf",
+              "publisher": "FUENTE SINTÉTICA — NO OFICIAL",
+              "retrieved_at": "2026-10-20T00:00:00Z",
+              "source_sha256": "39631bb5e5dc9326b23f8c00bf43440a84ce711315c6b799de554c56aa04d133",
+              "recorded_reform_date": null
+            },
+            "temporal_status": "unknown",
+            "review_status": "not_analyzed"
+          }
+        }
+      }
+    }
+  },
+  {
+    "path": "mx/norma-demo/article/1/references",
+    "status": 200,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "references",
+        "data": {
+          "items": [
+            {
+              "target_id": "urn:lex-mx:fixture:norma-demo:article:2-bis",
+              "target": {
+                "slug": "norma-demo",
+                "provision_type": "article",
+                "number": "2-bis"
+              },
+              "source_span": "referencia sintética a 2 Bis",
+              "resolution_status": "resolved",
+              "resolution_rule": "named_instrument",
+              "qualifiers": []
+            },
+            {
+              "target_id": "urn:lex-mx:fixture:outside:article:1",
+              "target": null,
+              "source_span": "referencia histórica sintética",
+              "resolution_status": "historical_target_unavailable",
+              "resolution_rule": null,
+              "qualifiers": []
+            }
+          ],
+          "next_cursor": null
+        }
+      }
+    }
+  },
+  {
+    "path": "coverage",
+    "status": 200,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "coverage",
+        "data": {
+          "scope": "selected_partial",
+          "notice": "Solo datos sintéticos de transporte. Ninguna norma real incluida; no evalúa cobertura ni corrección del corpus federal."
+        }
+      }
+    }
+  },
+  {
+    "path": "mx/norma-demo/article/999",
+    "status": 404,
+    "body": {
+      "schema_version": "public-retrieval-v1",
+      "release": {
+        "id": "d87a0f6836954e1d876babb994b2408aaa8034ba14571fe03190f1bc204f7fe4",
+        "corpus_commit": "0000000000000000000000000000000000000000",
+        "fixture": true
+      },
+      "result": {
+        "kind": "error",
+        "data": {
+          "code": "not_found",
+          "message": "No encontrado en esta publicación; cobertura no establecida. No demuestra inexistencia jurídica."
+        }
+      }
+    }
+  }
+]

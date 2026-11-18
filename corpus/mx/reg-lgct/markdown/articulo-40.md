@@ -7,8 +7,8 @@ provision_type: article
 number: "40"
 aliases: ["REG-LGCT — Artículo 40"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf
 source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 ---
@@ -55,7 +55,9 @@ XVII. La promoción de productos del tabaco, marcas o fabricantes de éstos, a t
 
 XVIII. Establecer en el diseño externo de los cigarrillos, puros y otros productos del tabaco algún elemento gráfico que puedan dar un atractivo visual a su apariencia;
 
-XIX. La elaboración, venta y entrega de alimentos, golosinas, juguetes y otros objetos que se asemejen a un producto del tabaco y que puedan resultar atractivos para promover su venta o alentar su consumo entre personas menores de edad; XX. El uso de dibujos de tipo animado en publicidad o envases de productos del tabaco, y
+XIX. La elaboración, venta y entrega de alimentos, golosinas, juguetes y otros objetos que se asemejen a un producto del tabaco y que puedan resultar atractivos para promover su venta o alentar su consumo entre personas menores de edad;
+
+XX. El uso de dibujos de tipo animado en publicidad o envases de productos del tabaco, y
 
 XXI. Las demás que establezca la Secretaría, en términos de la Ley, de este Reglamento, y demás disposiciones aplicables.
 

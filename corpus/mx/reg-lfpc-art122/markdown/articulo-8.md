@@ -19,7 +19,9 @@ source_sha256: 2dfa51f94d75486bd712aa9316cbf39a898abd46e0c45e6133e2fea8fa3352f0
 
 El examen de conocimientos se presentará conforme a lo siguiente:
 
-I. Resolver el cuestionario que elabore el Comité Técnico previsto en el artículo [14](articulo-14.md) de este Reglamento; II. Redactar un convenio por el que se establezcan reglas arbitrales de un caso hipotético, y
+I. Resolver el cuestionario que elabore el Comité Técnico previsto en el artículo [14](articulo-14.md) de este Reglamento;
+
+II. Redactar un convenio por el que se establezcan reglas arbitrales de un caso hipotético, y
 
 III. Elaborar el laudo del caso hipotético planteado.
 

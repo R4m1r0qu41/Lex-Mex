@@ -17,7 +17,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 276
 
-Las reglas a que se refiere la fracción V del artículo [275](articulo-275.md) deberán contener lo siguiente: I.- Las especificaciones técnicas que definan las cualidades o características particulares del producto tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado, entre otros;
+Las reglas a que se refiere la fracción V del artículo [275](articulo-275.md) deberán contener lo siguiente:
+
+I.- Las especificaciones técnicas que definan las cualidades o características particulares del producto tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado, entre otros;
 
 II.- El procedimiento de comprobación de las cualidades o características específicas señaladas en la fracción anterior;
 

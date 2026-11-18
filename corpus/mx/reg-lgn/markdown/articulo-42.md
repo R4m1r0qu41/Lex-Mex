@@ -19,7 +19,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Dirección General de Desarrollo Profesional tiene las atribuciones siguientes:
 
-I. Elaborar, en el marco del Sistema y de conformidad con las disposiciones jurídicas aplicables, las propuestas de:
+I. Elaborar, en el marco del [Sistema](articulo-2.md) y de conformidad con las disposiciones jurídicas aplicables, las propuestas de:
 
 a) Las políticas y lineamientos relativos a la Carrera de la Guardia Nacional;
 
@@ -51,6 +51,8 @@ X. Proponer a la Coordinación de Administración y Finanzas, los mecanismos de 
 
 XI. Participar en la elaboración de las disposiciones internas para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás que se consideren necesarios, en congruencia con los criterios y lineamientos que en la materia expida el Centro Nacional de Certificación y Acreditación;
 
-XII. Proponer a la Coordinación de Administración y Finanzas los lineamientos para asegurar la cadena de custodia de las muestras recabadas a los integrantes con motivo de la aplicación de las evaluaciones respectivas; XIII. Someter a consideración de su superior las propuestas relativas al desarrollo policial, en el marco del Sistema, de conformidad con las disposiciones jurídica aplicables, y
+XII. Proponer a la Coordinación de Administración y Finanzas los lineamientos para asegurar la cadena de custodia de las muestras recabadas a los integrantes con motivo de la aplicación de las evaluaciones respectivas;
+
+XIII. Someter a consideración de su superior las propuestas relativas al desarrollo policial, en el marco del Sistema, de conformidad con las disposiciones jurídica aplicables, y
 
 XIV. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior:

@@ -7,8 +7,8 @@ provision_type: article
 number: "70"
 aliases: ["REG-LFVV — Artículo 70"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf
 source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 ---
@@ -29,7 +29,9 @@ IV.- Nombre y carácter, denominación o razón social del afectado, así como d
 
 V.- Nombre y domicilio de los testigos;
 
-VI.- Relación sucinta de hechos y datos relativos a la actuación; VII.- Inventario y destino de los bienes asegurados, en su caso, así como el nombre de los depositarios;
+VI.- Relación sucinta de hechos y datos relativos a la actuación;
+
+VII.- Inventario y destino de los bienes asegurados, en su caso, así como el nombre de los depositarios;
 
 VIII.- Observaciones formuladas por el solicitante de las medidas;
 

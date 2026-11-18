@@ -9,20 +9,20 @@ aliases: ["DCG-CUB-2005 — Artículo 53"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,320]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 53
 
-Las Instituciones, podrán excluir del concepto de Riesgo Común, los Financiamientos otorgados a:
+Las Instituciones, podrán excluir del concepto de [Riesgo Común](articulo-1.md), los [Financiamientos](articulo-1.md) otorgados a:
 
 I. Personas físicas que, sin perjuicio de ejercer el control de una persona moral, Grupo Empresarial o Consorcio, cumplan con los requisitos siguientes:
 
-a) Cuenten con una fuente primaria de pago que sea Independiente de la persona, Grupo Empresarial o Consorcio que, en su caso, controlen, y
+a) Cuenten con una fuente primaria de pago que sea [Independiente](articulo-1.md) de la persona, Grupo Empresarial o Consorcio que, en su caso, controlen, y
 
 b) El pago del Financiamiento que les fue otorgado, no dependa de la situación financiera de la persona moral, Grupo Empresarial o Consorcio, sobre los cuales ejerza el control, de forma tal que estén en posibilidad de cumplir con sus obligaciones de pago, con independencia de dicha situación financiera.
 
@@ -32,7 +32,7 @@ a) Que no existan obligaciones por adeudos o garantías a cargo del Grupo Empres
 
 Para efectos de lo previsto en este inciso, quedarán excluidas las obligaciones por adeudos o garantías, derivadas de la compraventa de bienes o la prestación de servicios, entre dichos Grupos Empresariales, que se hubieren contraído en condiciones de mercado prevalecientes en la fecha de celebración de la operación.
 
-(320) b) Derogado.
+b) Derogado.
 
 c) Que la fuente de pago del Financiamiento otorgado al Grupo Empresarial, no dependa de la situación financiera o de cualquier otro evento relacionado con las demás personas, entidades o grupos integrantes del Consorcio distintas a dicho Grupo Empresarial acreditado.
 

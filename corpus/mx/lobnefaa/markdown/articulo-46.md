@@ -27,7 +27,9 @@ II. Ejecutar las resoluciones del Consejo Directivo;
 
 III. Llevar la firma social;
 
-IV. Actuar como Delegado Fiduciario General; IV Bis. Decidir la designación y contratación de los servidores públicos de la Sociedad, distintos de los señalados en el artículo [42](../../lic/markdown/articulo-42.md) de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución; Fracción adicionada DOF 10-01-2014
+IV. Actuar como Delegado Fiduciario General;
+
+IV Bis. Decidir la designación y contratación de los servidores públicos de la Sociedad, distintos de los señalados en el artículo [42](../../lic/markdown/articulo-42.md) de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la institución; Fracción adicionada DOF 10-01-2014
 
 V. Las que le señale el Reglamento Orgánico; y
 

@@ -37,6 +37,8 @@ VIII. Indicarán las medidas legales o administrativas que las partes se obligue
 
 IX. Establecerán las normas y procedimientos de control que corresponderán a la Secretaría de Salud; Fracción reformada DOF 27-05-1987
 
-X. Establecerán la duración del Acuerdo y las causas de terminación anticipada del mismo; XI. Indicarán el procedimiento para la resolución de las controversias y responsabilidad civil que, en su caso, se susciten con relación al cumplimiento y ejecución del acuerdo, con sujeción a las disposiciones legales aplicables, y Fracción reformada DOF 29-05-2023
+X. Establecerán la duración del Acuerdo y las causas de terminación anticipada del mismo;
+
+XI. Indicarán el procedimiento para la resolución de las controversias y responsabilidad civil que, en su caso, se susciten con relación al cumplimiento y ejecución del acuerdo, con sujeción a las disposiciones legales aplicables, y Fracción reformada DOF 29-05-2023
 
 XII. Contendrán las demás estipulaciones que las partes consideren necesarias para la mejor prestación de los servicios.

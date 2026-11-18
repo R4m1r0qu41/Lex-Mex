@@ -95,7 +95,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
     "fraction": "IX",
     "start_char": 553,
-    "end_char": 615,
+    "end_char": 616,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
     "fraction": "X",
-    "start_char": 615,
-    "end_char": 660,
+    "start_char": 616,
+    "end_char": 661,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
     "fraction": "XI",
-    "start_char": 660,
-    "end_char": 742,
+    "start_char": 661,
+    "end_char": 743,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
     "fraction": "XII",
-    "start_char": 742,
-    "end_char": 796,
+    "start_char": 743,
+    "end_char": 797,
     "basis": "express_definition"
   }
 ]

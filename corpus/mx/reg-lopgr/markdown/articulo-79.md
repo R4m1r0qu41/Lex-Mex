@@ -23,7 +23,9 @@ I. Auxiliar al Ministerio Público de la Federación en la investigación y pers
 
 II. Proponer al Titular de la [Policía](articulo-2.md) estándares de rendimiento en el cumplimiento de mandamientos judiciales y ministeriales por parte de las unidades administrativas que integren su organización regional;
 
-III. Proponer para autorización del Titular de la Policía de manera conjunta con la Dirección General de Apoyo Técnico y Logístico, las herramientas y mecanismos para el control y seguimiento de los mandamientos judiciales y ministeriales y su cumplimiento; IV. Participar de manera coordinada con las autoridades federales, del Distrito Federal, estatales y municipales para la ejecución de los mandamientos judiciales y ministeriales, así como otras acciones para combatir la delincuencia;
+III. Proponer para autorización del Titular de la Policía de manera conjunta con la Dirección General de Apoyo Técnico y Logístico, las herramientas y mecanismos para el control y seguimiento de los mandamientos judiciales y ministeriales y su cumplimiento;
+
+IV. Participar de manera coordinada con las autoridades federales, del Distrito Federal, estatales y municipales para la ejecución de los mandamientos judiciales y ministeriales, así como otras acciones para combatir la delincuencia;
 
 V. Generar de manera periódica informes sobre la recepción, registro, asignación y cumplimiento de mandamientos judiciales y ministeriales;
 

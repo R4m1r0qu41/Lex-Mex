@@ -31,7 +31,9 @@ V. Secretaría de Hacienda y Crédito Público;
 
 VI. Cinco personas representantes de las organizaciones nacionales de personas productoras de café y del sector productor, atendiendo el principio de igualdad de género, que serán acreditados en forma individual por cada organización;
 
-VII. Dos personas representantes de los comercializadores y exportadores con representación a nivel nacional; VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y
+VII. Dos personas representantes de los comercializadores y exportadores con representación a nivel nacional;
+
+VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y
 
 IX. La persona representante del Comité Nacional del Sistema Producto Café.
 

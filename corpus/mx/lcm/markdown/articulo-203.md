@@ -19,7 +19,9 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 El juez o, en su caso, el secretario de acuerdos del juzgado presidirá la subasta en la fecha, hora y lugar autorizados por el juez, observando lo siguiente:
 
-I. El acceso a la subasta será público; II. A la hora señalada para la subasta, quien la presida la declarará iniciada y; enseguida, procederá, a abrir ante los presentes los sobres con las posturas recibidas, desechando aquellas que no cumplan con los requisitos señalados en el artículo [201](articulo-201.md) anterior o sean por un precio menor al mínimo señalado en la convocatoria;
+I. El acceso a la subasta será público;
+
+II. A la hora señalada para la subasta, quien la presida la declarará iniciada y; enseguida, procederá, a abrir ante los presentes los sobres con las posturas recibidas, desechando aquellas que no cumplan con los requisitos señalados en el artículo [201](articulo-201.md) anterior o sean por un precio menor al mínimo señalado en la convocatoria;
 
 III. De no haberse recibido ninguna postura válida, se declarará desierta la subasta;
 

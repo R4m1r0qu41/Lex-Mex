@@ -210,25 +210,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfped:article:9:reference:7297-7298:1:direct",
+    "id": "urn:lex-mx:federal:statute:lfped:article:9:reference:7298-7299:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:9",
     "source_span": "1",
-    "start_char": 7297,
-    "end_char": 7298,
+    "start_char": 7298,
+    "end_char": 7299,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
     "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",
-        "start_char": 7300,
-        "end_char": 7315
+        "start_char": 7301,
+        "end_char": 7316
       },
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 7317,
-        "end_char": 7329
+        "start_char": 7318,
+        "end_char": 7330
       }
     ],
     "basis": "express_cross_reference",

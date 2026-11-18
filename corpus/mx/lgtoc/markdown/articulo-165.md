@@ -19,4 +19,6 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 
 La acción cambiaria prescribe en tres años contados:
 
-I.- A partir del día del vencimiento de la letra, o en su defecto; II.- Desde que concluyan los plazos a que se refieren los artículos [93](articulo-93.md) y [128](articulo-128.md).
+I.- A partir del día del vencimiento de la letra, o en su defecto;
+
+II.- Desde que concluyan los plazos a que se refieren los artículos [93](articulo-93.md) y [128](articulo-128.md).

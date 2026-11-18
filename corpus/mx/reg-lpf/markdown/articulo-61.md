@@ -7,8 +7,8 @@ provision_type: article
 number: "61"
 aliases: ["REG-LPF — Artículo 61"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -27,7 +27,9 @@ III. Implementar, conforme a las disposiciones aplicables, directrices en la inv
 
 IV. Crear, dirigir y aplicar técnicas, métodos y estrategias de investigación policial que permitan recabar la información necesaria para la prevención y, en el ámbito de su competencia, el combate a los delitos de su competencia;
 
-V. Aplicar técnicas, métodos y estrategias de investigación policial que permitan el desarrollo de estrategias de prevención delictiva; VI. Dirigir, en el ámbito de su competencia, los mecanismos de investigación de manera eficiente para recabar las pruebas que tiendan a la acreditación de los elementos de tipo penal y la probable responsabilidad de las personas o [Integrantes](articulo-2.md) de organizaciones criminales dedicadas a la comisión de delitos federales;
+V. Aplicar técnicas, métodos y estrategias de investigación policial que permitan el desarrollo de estrategias de prevención delictiva;
+
+VI. Dirigir, en el ámbito de su competencia, los mecanismos de investigación de manera eficiente para recabar las pruebas que tiendan a la acreditación de los elementos de tipo penal y la probable responsabilidad de las personas o [Integrantes](articulo-2.md) de organizaciones criminales dedicadas a la comisión de delitos federales;
 
 VII. Coadyuvar en la investigación policial con otras autoridades federales, estatales y municipales que lo requieran, de conformidad con las disposiciones aplicables;
 

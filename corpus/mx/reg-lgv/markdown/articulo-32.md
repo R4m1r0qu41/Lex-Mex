@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["REG-LGV — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -47,7 +47,9 @@ XIII. Aprobar, de conformidad con las disposiciones aplicables, las políticas, 
 
 XIV. Aprobar el [Estatuto Orgánico](articulo-3.md), que contiene la estructura de organización de la Comisión Ejecutiva, así como las modificaciones que procedan;
 
-XV. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión Ejecutiva requiera para la prestación de sus servicios; XVI. Aprobar los informes de desempeño de las actividades de la Comisión Ejecutiva, incluido el informe anual sobre el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes que rinda el Comisionado Presidente, en términos de las normas aplicables;
+XV. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión Ejecutiva requiera para la prestación de sus servicios;
+
+XVI. Aprobar los informes de desempeño de las actividades de la Comisión Ejecutiva, incluido el informe anual sobre el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes que rinda el Comisionado Presidente, en términos de las normas aplicables;
 
 XVII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados;
 

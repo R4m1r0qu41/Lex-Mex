@@ -46,30 +46,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4094-4097",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4096-4099",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 4094,
-    "end_char": 4097
+    "start_char": 4096,
+    "end_char": 4099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4201-4204",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4203-4206",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:utm",
     "span": "UTM",
-    "start_char": 4201,
-    "end_char": 4204
+    "start_char": 4203,
+    "end_char": 4206
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4929-4932",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2:term-usage:4931-4934",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 4929,
-    "end_char": 4932
+    "start_char": 4931,
+    "end_char": 4934
   },
   {
     "schema_version": "0.1.0",
@@ -136,12 +136,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:10:term-usage:580-583",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:10:term-usage:581-584",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 580,
-    "end_char": 583
+    "start_char": 581,
+    "end_char": 584
   },
   {
     "schema_version": "0.1.0",
@@ -271,30 +271,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:238-241",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:239-242",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 238,
-    "end_char": 241
+    "start_char": 239,
+    "end_char": 242
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:346-349",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:347-350",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 346,
-    "end_char": 349
+    "start_char": 347,
+    "end_char": 350
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:528-531",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21:term-usage:529-532",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 528,
-    "end_char": 531
+    "start_char": 529,
+    "end_char": 532
   },
   {
     "schema_version": "0.1.0",
@@ -460,66 +460,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:427-447",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:428-448",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjuntos de predios",
-    "start_char": 427,
-    "end_char": 447
+    "start_char": 428,
+    "end_char": 448
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:1474-1493",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:1475-1494",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjunto de predios",
-    "start_char": 1474,
-    "end_char": 1493
+    "start_char": 1475,
+    "end_char": 1494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:1522-1542",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:1523-1543",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjuntos de predios",
-    "start_char": 1522,
-    "end_char": 1542
+    "start_char": 1523,
+    "end_char": 1543
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:2623-2629",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:2624-2630",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:puntas",
     "span": "Puntas",
-    "start_char": 2623,
-    "end_char": 2629
+    "start_char": 2624,
+    "end_char": 2630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:2844-2854",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:2845-2855",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:area-basal",
     "span": "Área basal",
-    "start_char": 2844,
-    "end_char": 2854
+    "start_char": 2845,
+    "end_char": 2855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:4528-4538",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:4529-4539",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:area-basal",
     "span": "Área basal",
-    "start_char": 4528,
-    "end_char": 4538
+    "start_char": 4529,
+    "end_char": 4539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:5292-5298",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39:term-usage:5293-5299",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:puntas",
     "span": "Puntas",
-    "start_char": 5292,
-    "end_char": 5298
+    "start_char": 5293,
+    "end_char": 5299
   },
   {
     "schema_version": "0.1.0",
@@ -622,12 +622,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:56:term-usage:924-951",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:56:term-usage:925-952",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:titular-del-aprovechamiento",
     "span": "Titular del aprovechamiento",
-    "start_char": 924,
-    "end_char": 951
+    "start_char": 925,
+    "end_char": 952
   },
   {
     "schema_version": "0.1.0",
@@ -775,12 +775,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:70:term-usage:1150-1171",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:70:term-usage:1151-1172",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:70",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:plano-georeferenciado",
     "span": "Plano georeferenciado",
-    "start_char": 1150,
-    "end_char": 1171
+    "start_char": 1151,
+    "end_char": 1172
   },
   {
     "schema_version": "0.1.0",
@@ -856,21 +856,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75:term-usage:259-278",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75:term-usage:260-279",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjunto de predios",
-    "start_char": 259,
-    "end_char": 278
+    "start_char": 260,
+    "end_char": 279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75:term-usage:325-344",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75:term-usage:326-345",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjunto de predios",
-    "start_char": 325,
-    "end_char": 344
+    "start_char": 326,
+    "end_char": 345
   },
   {
     "schema_version": "0.1.0",
@@ -964,12 +964,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:84:term-usage:1223-1226",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:84:term-usage:1224-1227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:84",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 1223,
-    "end_char": 1226
+    "start_char": 1224,
+    "end_char": 1227
   },
   {
     "schema_version": "0.1.0",
@@ -1054,21 +1054,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99:term-usage:333-352",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99:term-usage:334-353",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:conjunto-de-predios",
     "span": "Conjunto de predios",
-    "start_char": 333,
-    "end_char": 352
+    "start_char": 334,
+    "end_char": 353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99:term-usage:1227-1251",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99:term-usage:1228-1252",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:99",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:codigo-de-identificacion",
     "span": "Código de identificación",
-    "start_char": 1227,
-    "end_char": 1251
+    "start_char": 1228,
+    "end_char": 1252
   },
   {
     "schema_version": "0.1.0",
@@ -1234,12 +1234,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:130:term-usage:1243-1267",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:130:term-usage:1244-1268",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:130",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:codigo-de-identificacion",
     "span": "Código de identificación",
-    "start_char": 1243,
-    "end_char": 1267
+    "start_char": 1244,
+    "end_char": 1268
   },
   {
     "schema_version": "0.1.0",
@@ -1270,12 +1270,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:137:term-usage:777-792",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:137:term-usage:778-793",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:137",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:madera-en-rollo",
     "span": "Madera en rollo",
-    "start_char": 777,
-    "end_char": 792
+    "start_char": 778,
+    "end_char": 793
   },
   {
     "schema_version": "0.1.0",
@@ -1333,12 +1333,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:141:term-usage:3097-3118",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:141:term-usage:3098-3119",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:141",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:plano-georeferenciado",
     "span": "Plano georeferenciado",
-    "start_char": 3097,
-    "end_char": 3118
+    "start_char": 3098,
+    "end_char": 3119
   },
   {
     "schema_version": "0.1.0",
@@ -1585,21 +1585,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154:term-usage:1374-1401",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154:term-usage:1375-1402",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:titular-del-aprovechamiento",
     "span": "Titular del aprovechamiento",
-    "start_char": 1374,
-    "end_char": 1401
+    "start_char": 1375,
+    "end_char": 1402
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154:term-usage:2110-2113",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154:term-usage:2111-2114",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:154",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 2110,
-    "end_char": 2113
+    "start_char": 2111,
+    "end_char": 2114
   },
   {
     "schema_version": "0.1.0",
@@ -1999,12 +1999,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:212:term-usage:1041-1044",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:212:term-usage:1042-1045",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:212",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:ley",
     "span": "Ley",
-    "start_char": 1041,
-    "end_char": 1044
+    "start_char": 1042,
+    "end_char": 1045
   },
   {
     "schema_version": "0.1.0",
@@ -2152,39 +2152,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:616-628",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:617-629",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 616,
-    "end_char": 628
+    "start_char": 617,
+    "end_char": 629
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1009-1021",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1010-1022",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1009,
-    "end_char": 1021
+    "start_char": 1010,
+    "end_char": 1022
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1115-1127",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1116-1128",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1115,
-    "end_char": 1127
+    "start_char": 1116,
+    "end_char": 1128
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1566-1578",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222:term-usage:1567-1579",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:222",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgdfs:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1566,
-    "end_char": 1578
+    "start_char": 1567,
+    "end_char": 1579
   },
   {
     "schema_version": "0.1.0",

@@ -235,30 +235,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:340-343",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:341-344",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfea:term:ley",
     "span": "Ley",
-    "start_char": 340,
-    "end_char": 343
+    "start_char": 341,
+    "end_char": 344
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:394-417",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:395-418",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfea:term:disposiciones-generales",
     "span": "Disposiciones Generales",
-    "start_char": 394,
-    "end_char": 417
+    "start_char": 395,
+    "end_char": 418
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:1624-1647",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:term-usage:1625-1648",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfea:term:disposiciones-generales",
     "span": "Disposiciones Generales",
-    "start_char": 1624,
-    "end_char": 1647
+    "start_char": 1625,
+    "end_char": 1648
   },
   {
     "schema_version": "0.1.0",

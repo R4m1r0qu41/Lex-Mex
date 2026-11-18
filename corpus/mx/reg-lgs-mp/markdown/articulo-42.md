@@ -33,7 +33,9 @@ V. La farmacocinética y farmacodinamia;
 
 VI. Las contraindicaciones;
 
-VII. Las precauciones generales; VIII. Las restricciones de uso durante el embarazo y la lactancia;
+VII. Las precauciones generales;
+
+VIII. Las restricciones de uso durante el embarazo y la lactancia;
 
 IX. Las reacciones secundarias y adversas;
 

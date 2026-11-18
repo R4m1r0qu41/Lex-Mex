@@ -7,8 +7,8 @@ provision_type: article
 number: "105"
 aliases: ["LFCE — Artículo 105"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -23,7 +23,9 @@ I. La identidad de los Agentes Económicos afectados y una dirección de contact
 
 II. Las cuestiones específicas sobre las que se solicita la opinión;
 
-III. Información completa y exhaustiva sobre todos los puntos relevantes para una evaluación con conocimiento de causa de las cuestiones planteadas, incluida la documentación pertinente; IV. Una explicación motivada razonando el por qué la solicitud de opinión formal plantea una o varias cuestiones nuevas;
+III. Información completa y exhaustiva sobre todos los puntos relevantes para una evaluación con conocimiento de causa de las cuestiones planteadas, incluida la documentación pertinente;
+
+IV. Una explicación motivada razonando el por qué la solicitud de opinión formal plantea una o varias cuestiones nuevas;
 
 V. Cualquier otra información que permita realizar una evaluación a la luz de lo establecido en el presente Capítulo de esta ley y, en particular, una declaración de que la conducta a la que se refiere la solicitud de opinión formal no se encuentra pendiente en un procedimiento ante un órgano jurisdiccional;
 

@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 El Secretariado Técnico de la Comisión Consultiva tendrá los deberes y atribuciones siguientes:
 
-I. Practicar las investigaciones y realizar los estudios previstos en el Plan de Trabajo aprobado por la Comisión Consultiva y los que posteriormente se le encomienden; II. Solicitar toda clase de informes y estudios de dependencias e instituciones oficiales y entidades públicas y privadas relacionadas con la materia objeto de sus trabajos;
+I. Practicar las investigaciones y realizar los estudios previstos en el Plan de Trabajo aprobado por la Comisión Consultiva y los que posteriormente se le encomienden;
+
+II. Solicitar toda clase de informes y estudios de dependencias e instituciones oficiales y entidades públicas y privadas relacionadas con la materia objeto de sus trabajos;
 
 III. Recibir y considerar los estudios, informes y sugerencias que le presenten los trabajadores y los patrones;
 

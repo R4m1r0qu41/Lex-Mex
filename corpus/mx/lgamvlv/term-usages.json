@@ -298,21 +298,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:1179-1195",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:1180-1196",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1179,
-    "end_char": 1195
+    "start_char": 1180,
+    "end_char": 1196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:1440-1456",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:36:term-usage:1441-1457",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:36",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1440,
-    "end_char": 1456
+    "start_char": 1441,
+    "end_char": 1457
   },
   {
     "schema_version": "0.1.0",
@@ -334,30 +334,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:3668-3704",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:3669-3705",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:38",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 3668,
-    "end_char": 3704
+    "start_char": 3669,
+    "end_char": 3705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:4133-4169",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:4134-4170",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:38",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 4133,
-    "end_char": 4169
+    "start_char": 4134,
+    "end_char": 4170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:4291-4327",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:38:term-usage:4292-4328",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:38",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 4291,
-    "end_char": 4327
+    "start_char": 4292,
+    "end_char": 4328
   },
   {
     "schema_version": "0.1.0",
@@ -388,30 +388,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:2737-2745",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:2738-2746",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:41",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 2737,
-    "end_char": 2745
+    "start_char": 2738,
+    "end_char": 2746
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:2885-2893",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:2886-2894",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:41",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 2885,
-    "end_char": 2893
+    "start_char": 2886,
+    "end_char": 2894
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:3313-3349",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:41:term-usage:3314-3350",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:41",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 3313,
-    "end_char": 3349
+    "start_char": 3314,
+    "end_char": 3350
   },
   {
     "schema_version": "0.1.0",
@@ -424,210 +424,210 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:271-279",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:272-280",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 271,
-    "end_char": 279
+    "start_char": 272,
+    "end_char": 280
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:338-354",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:339-355",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 338,
-    "end_char": 354
+    "start_char": 339,
+    "end_char": 355
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1037-1045",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1038-1046",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1037,
-    "end_char": 1045
+    "start_char": 1038,
+    "end_char": 1046
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1966-1982",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1967-1983",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1966,
-    "end_char": 1982
+    "start_char": 1967,
+    "end_char": 1983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1989-1997",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:1990-1998",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1989,
-    "end_char": 1997
+    "start_char": 1990,
+    "end_char": 1998
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2417-2453",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2418-2454",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 2417,
-    "end_char": 2453
+    "start_char": 2418,
+    "end_char": 2454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2711-2747",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2712-2748",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 2711,
-    "end_char": 2747
+    "start_char": 2712,
+    "end_char": 2748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2880-2916",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:2881-2917",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 2880,
-    "end_char": 2916
+    "start_char": 2881,
+    "end_char": 2917
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:3294-3310",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:3296-3312",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 3294,
-    "end_char": 3310
+    "start_char": 3296,
+    "end_char": 3312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:5620-5656",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:5622-5658",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 5620,
-    "end_char": 5656
+    "start_char": 5622,
+    "end_char": 5658
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:5690-5706",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:5692-5708",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 5690,
-    "end_char": 5706
+    "start_char": 5692,
+    "end_char": 5708
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:6429-6432",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:6432-6435",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
     "span": "Ley",
-    "start_char": 6429,
-    "end_char": 6432
+    "start_char": 6432,
+    "end_char": 6435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:6643-6659",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:6646-6662",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 6643,
-    "end_char": 6659
+    "start_char": 6646,
+    "end_char": 6662
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7527-7544",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7530-7547",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 7527,
-    "end_char": 7544
+    "start_char": 7530,
+    "end_char": 7547
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7635-7652",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7638-7655",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 7635,
-    "end_char": 7652
+    "start_char": 7638,
+    "end_char": 7655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7933-7950",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7936-7953",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 7933,
-    "end_char": 7950
+    "start_char": 7936,
+    "end_char": 7953
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7992-8009",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:7995-8012",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 7992,
-    "end_char": 8009
+    "start_char": 7995,
+    "end_char": 8012
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8083-8100",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8086-8103",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 8083,
-    "end_char": 8100
+    "start_char": 8086,
+    "end_char": 8103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8218-8234",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8221-8237",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 8218,
-    "end_char": 8234
+    "start_char": 8221,
+    "end_char": 8237
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8241-8249",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8244-8252",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 8241,
-    "end_char": 8249
+    "start_char": 8244,
+    "end_char": 8252
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8307-8310",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:term-usage:8310-8313",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
     "span": "Ley",
-    "start_char": 8307,
-    "end_char": 8310
+    "start_char": 8310,
+    "end_char": 8313
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:43:term-usage:274-305",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:43:term-usage:275-306",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:43",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:derechos-humanos-de-las-mujeres",
     "span": "Derechos Humanos de las Mujeres",
-    "start_char": 274,
-    "end_char": 305
+    "start_char": 275,
+    "end_char": 306
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:43:term-usage:1037-1045",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:43:term-usage:1038-1046",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:43",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1037,
-    "end_char": 1045
+    "start_char": 1038,
+    "end_char": 1046
   },
   {
     "schema_version": "0.1.0",
@@ -640,93 +640,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:1464-1472",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:1465-1473",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1464,
-    "end_char": 1472
+    "start_char": 1465,
+    "end_char": 1473
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2291-2327",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2292-2328",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 2291,
-    "end_char": 2327
+    "start_char": 2292,
+    "end_char": 2328
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2370-2379",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2371-2380",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programas",
-    "start_char": 2370,
-    "end_char": 2379
+    "start_char": 2371,
+    "end_char": 2380
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2836-2853",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2837-2854",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 2836,
-    "end_char": 2853
+    "start_char": 2837,
+    "end_char": 2854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2910-2927",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:2911-2928",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 2910,
-    "end_char": 2927
+    "start_char": 2911,
+    "end_char": 2928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:3302-3319",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:3303-3320",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 3302,
-    "end_char": 3319
+    "start_char": 3303,
+    "end_char": 3320
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:4029-4046",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:4030-4047",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 4029,
-    "end_char": 4046
+    "start_char": 4030,
+    "end_char": 4047
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:4196-4213",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:term-usage:4197-4214",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 4196,
-    "end_char": 4213
+    "start_char": 4197,
+    "end_char": 4214
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:45:term-usage:2773-2782",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:45:term-usage:2774-2783",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programas",
-    "start_char": 2773,
-    "end_char": 2782
+    "start_char": 2774,
+    "end_char": 2783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:45:term-usage:3224-3232",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:45:term-usage:3225-3233",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 3224,
-    "end_char": 3232
+    "start_char": 3225,
+    "end_char": 3233
   },
   {
     "schema_version": "0.1.0",
@@ -739,21 +739,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:46:term-usage:1515-1523",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:46:term-usage:1516-1524",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:46",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1515,
-    "end_char": 1523
+    "start_char": 1516,
+    "end_char": 1524
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:46-bis:term-usage:1244-1252",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:46-bis:term-usage:1245-1253",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:46-bis",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
     "span": "Programa",
-    "start_char": 1244,
-    "end_char": 1252
+    "start_char": 1245,
+    "end_char": 1253
   },
   {
     "schema_version": "0.1.0",
@@ -856,21 +856,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:4970-5006",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:4972-5008",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 4970,
-    "end_char": 5006
+    "start_char": 4972,
+    "end_char": 5008
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:5300-5317",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:49:term-usage:5302-5319",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 5300,
-    "end_char": 5317
+    "start_char": 5302,
+    "end_char": 5319
   },
   {
     "schema_version": "0.1.0",
@@ -892,21 +892,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:50:term-usage:1978-1995",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:50:term-usage:1979-1996",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:50",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1978,
-    "end_char": 1995
+    "start_char": 1979,
+    "end_char": 1996
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:52:term-usage:1594-1630",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:52:term-usage:1595-1631",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 1594,
-    "end_char": 1630
+    "start_char": 1595,
+    "end_char": 1631
   },
   {
     "schema_version": "0.1.0",
@@ -946,21 +946,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis:term-usage:1901-1937",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis:term-usage:1902-1938",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 1901,
-    "end_char": 1937
+    "start_char": 1902,
+    "end_char": 1938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis:term-usage:2396-2432",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis:term-usage:2397-2433",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-bis",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 2396,
-    "end_char": 2432
+    "start_char": 2397,
+    "end_char": 2433
   },
   {
     "schema_version": "0.1.0",
@@ -1009,12 +1009,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-quinquies:term-usage:1615-1651",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-quinquies:term-usage:1616-1652",
     "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-quinquies",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 1615,
-    "end_char": 1651
+    "start_char": 1616,
+    "end_char": 1652
   },
   {
     "schema_version": "0.1.0",

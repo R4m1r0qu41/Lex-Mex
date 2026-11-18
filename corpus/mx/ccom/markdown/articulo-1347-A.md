@@ -29,7 +29,9 @@ IV.- Que el demandado haya sido notificado o emplazado en forma personal a efect
 
 V.- Que tenga el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
 
-VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva; VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
+VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el Tribunal Mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
+
+VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
 
 VIII.- Que llenen los requisitos para ser considerados como auténticos.
 

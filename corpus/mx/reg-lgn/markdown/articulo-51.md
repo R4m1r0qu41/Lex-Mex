@@ -47,6 +47,8 @@ XIII. Coadyuvar en materia de transparencia, acceso a la información y protecci
 
 XIV. Proponer las acciones para la actualización de los sistemas de datos personales e índice de expedientes reservados de la Institución;
 
-XV. Diseñar y proponer los mecanismos y acciones encaminados a brindar atención a las peticiones que se presenten en los aspectos de la competencia de la Institución; XVI. Establecer criterios jurídicos a los enlaces jurídicos de las unidades de la Institución en las materias de su competencia, así como brindarles apoyo para el eficiente desempeño de sus atribuciones, y
+XV. Diseñar y proponer los mecanismos y acciones encaminados a brindar atención a las peticiones que se presenten en los aspectos de la competencia de la Institución;
+
+XVI. Establecer criterios jurídicos a los enlaces jurídicos de las unidades de la Institución en las materias de su competencia, así como brindarles apoyo para el eficiente desempeño de sus atribuciones, y
 
 XVII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.

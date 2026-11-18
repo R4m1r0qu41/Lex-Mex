@@ -7,8 +7,8 @@ provision_type: article
 number: "94"
 aliases: ["REG-LPF — Artículo 94"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -33,7 +33,9 @@ VI. Entregar la infraestructura, equipo y material necesario para la imposición
 
 VII. Informar a su coordinador sobre el destino que se de a los recursos a que se refiere la fracción anterior;
 
-VIII. Asesorar a las unidades de administración de las Coordinaciones Estatales en el trámite de los asuntos que les corresponda atender; IX. Aplicar las normas y supervisar los sistemas de control de inventarios de bienes muebles, así como dictaminar y vigilar la afectación, baja y destino final de los mismos;
+VIII. Asesorar a las unidades de administración de las Coordinaciones Estatales en el trámite de los asuntos que les corresponda atender;
+
+IX. Aplicar las normas y supervisar los sistemas de control de inventarios de bienes muebles, así como dictaminar y vigilar la afectación, baja y destino final de los mismos;
 
 X. Proponer a su coordinador lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes al servicio de las unidades administrativas de la Institución;
 

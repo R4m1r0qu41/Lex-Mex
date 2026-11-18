@@ -21,7 +21,9 @@ Las bases que regulen los procedimientos de subasta o licitación, deberán pone
 
 I. Información relacionada con los bienes objeto del proceso de subasta o licitación;
 
-II. Forma en que se acreditará la existencia y personalidad jurídica del participante; III. Fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas; comunicación del fallo y firma del contrato;
+II. Forma en que se acreditará la existencia y personalidad jurídica del participante;
+
+III. Fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas; comunicación del fallo y firma del contrato;
 
 IV. Los términos en que se desarrollará el acto de presentación y apertura de propuestas, mismos que deberán realizarse ante fedatario público;
 

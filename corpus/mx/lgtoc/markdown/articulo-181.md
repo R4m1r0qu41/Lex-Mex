@@ -23,4 +23,6 @@ I.- Dentro de los quince días naturales que sigan al de su fecha, si fueren pag
 
 II.- Dentro de un mes, si fueren expedidos y pagaderos en diversos lugares del territorio nacional;
 
-III.- Dentro de tres meses, si fueren expedidos en el extranjero y pagaderos en el territorio nacional; y IV.- Dentro de tres meses, si fueren expedidos dentro del territorio nacional para ser pagaderos en el extranjero, siempre que no fijen otro plazo las leyes del lugar de presentación.
+III.- Dentro de tres meses, si fueren expedidos en el extranjero y pagaderos en el territorio nacional; y
+
+IV.- Dentro de tres meses, si fueren expedidos dentro del territorio nacional para ser pagaderos en el extranjero, siempre que no fijen otro plazo las leyes del lugar de presentación.

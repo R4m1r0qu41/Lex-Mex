@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "command": [
+        "cargo",
+        "test",
+        "--workspace"
+      ],
+      "exit_code": 0,
+      "log": ".work/final-native-validation/test.log"
+    },
+    {
+      "command": [
+        "cargo",
+        "run",
+        "--locked",
+        "-p",
+        "lex-cli",
+        "--",
+        "validate",
+        "lritf"
+      ],
+      "exit_code": 0,
+      "log": ".work/final-native-validation/validate-lritf.log"
+    },
+    {
+      "command": [
+        "cargo",
+        "run",
+        "--locked",
+        "-p",
+        "lex-cli",
+        "--",
+        "validate",
+        "ifpe-dcg-2021"
+      ],
+      "exit_code": 0,
+      "log": ".work/final-native-validation/validate-ifpe.log"
+    }
+  ],
+  "test_counts": {
+    "passed": 447,
+    "failed": 0,
+    "ignored": 0,
+    "suites": 22
+  },
+  "fmt": "passed in mechanical run",
+  "clippy": "passed in mechanical run",
+  "observation": "Previous runs were confirmed absent before this captured rerun; parent executed because mechanical observer lost handle."
+}

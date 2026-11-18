@@ -170,12 +170,6 @@
         "text": "fracción II",
         "start_char": 103,
         "end_char": 114
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 134,
-        "end_char": 145
       }
     ],
     "basis": "express_cross_reference",
@@ -209,19 +203,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lonf:article:30:reference:1478-1479:6:direct",
+    "id": "urn:lex-mx:federal:statute:lonf:article:30:reference:1479-1480:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lonf:article:30",
     "source_span": "6",
-    "start_char": 1478,
-    "end_char": 1479,
+    "start_char": 1479,
+    "end_char": 1480,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
     "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:6",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1482,
-        "end_char": 1497
+        "start_char": 1483,
+        "end_char": 1498
       }
     ],
     "basis": "express_cross_reference",

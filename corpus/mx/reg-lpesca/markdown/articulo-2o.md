@@ -7,8 +7,8 @@ provision_type: article
 number: "2o"
 aliases: ["REG-LPESCA — Artículo 2o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf
 source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 ---
@@ -31,7 +31,9 @@ V. Esfuerzo pesquero: el número de individuos, embarcaciones y/o artes de pesca
 
 VI. Ley: Ley de Pesca;
 
-VII. Método de pesca: el conjunto de técnicas que basado en algún principio de captura, aprovecha las características biológicas y ecológicas de las especies y el comportamiento físico de las artes de pesca; VIII. Norma: la disposición de carácter obligatorio expedida por la [Secretaría](articulo-2o.md), de conformidad con lo previsto en la [Ley](articulo-2o.md) Federal sobre Metrología y Normalización;
+VII. Método de pesca: el conjunto de técnicas que basado en algún principio de captura, aprovecha las características biológicas y ecológicas de las especies y el comportamiento físico de las artes de pesca;
+
+VIII. Norma: la disposición de carácter obligatorio expedida por la [Secretaría](articulo-2o.md), de conformidad con lo previsto en la [Ley](articulo-2o.md) Federal sobre Metrología y Normalización;
 
 IX. Planta flotante: la embarcación sin propulsión propia, que disponga de equipos para la industrialización de materia prima proveniente de otras embarcaciones;
 

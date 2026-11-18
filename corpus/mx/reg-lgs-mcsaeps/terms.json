@@ -6,8 +6,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:1268",
     "fraction": "I",
-    "start_char": 49,
-    "end_char": 221,
+    "start_char": 50,
+    "end_char": 222,
     "basis": "express_definition"
   },
   {
@@ -17,8 +17,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:1268",
     "fraction": "II",
-    "start_char": 221,
-    "end_char": 359,
+    "start_char": 222,
+    "end_char": 360,
     "basis": "express_definition"
   }
 ]

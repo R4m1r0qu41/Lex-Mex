@@ -247,3 +247,73 @@ fn resolving_an_archived_review_is_rejected_without_mutation() {
     );
     assert_eq!(before, snapshot(root));
 }
+
+/// The provisions file of the scratch corpus, parsed.
+fn provisions(root: &Path) -> Vec<Value> {
+    serde_json::from_slice(&fs::read(corpus_dir(root).join("provisions.json")).unwrap()).unwrap()
+}
+
+#[test]
+fn derive_saves_a_partial_repeal_reclassification_even_when_it_is_the_only_change() {
+    // Codex audit 2026-11-17, C4: the split was printed and then lost because
+    // the save gate ignored it when no new determination was produced.
+    let scratch = scratch_root();
+    let root = scratch.path();
+    let mut records = provisions(root);
+    let target = records
+        .iter()
+        .position(|item| item["provision_type"] == "article" && item["number"] == "1")
+        .unwrap();
+    let original = records[target]["text"].as_str().unwrap().to_owned();
+    records[target]["text"] = json!(format!("(Se deroga el primer párrafo)\n{original}"));
+    records[target]["temporal_status"] = json!("repealed");
+    assert_eq!(records[target]["temporal_basis"], "deterministic_rule");
+    assert_eq!(records[target]["review_status"], "machine_accepted");
+    fs::write(
+        corpus_dir(root).join("provisions.json"),
+        serde_json::to_vec_pretty(&records).unwrap(),
+    )
+    .unwrap();
+
+    let output = run(root, &["derive-temporal", SLUG]);
+    assert!(output.status.success(), "{}", stderr(&output));
+    let stdout = String::from_utf8_lossy(&output.stdout);
+    assert!(
+        stdout.contains("reclassified 1 partially repealed"),
+        "{stdout}"
+    );
+    let saved = &provisions(root)[target];
+    assert_eq!(saved["temporal_status"], "partially_repealed", "{saved}");
+    assert!(
+        saved["repeals"]
+            .as_array()
+            .is_some_and(|repeals| !repeals.is_empty()),
+        "{saved}"
+    );
+}
+
+#[test]
+fn derive_rejects_a_misspelled_calendar_key_and_leaves_the_corpus_untouched() {
+    // Codex audit 2026-11-17, C2: a typo used to be read as an empty list.
+    let scratch = scratch_root();
+    let root = scratch.path();
+    let path = root.join("adapters/shared/_business-day-calendar.json");
+    let mut calendar: Value = serde_json::from_slice(&fs::read(&path).unwrap()).unwrap();
+    let periods = calendar
+        .as_object_mut()
+        .unwrap()
+        .remove("suspension_periods")
+        .unwrap();
+    calendar["suspension_period"] = periods;
+    fs::write(&path, serde_json::to_vec_pretty(&calendar).unwrap()).unwrap();
+    let before = snapshot(root);
+
+    let output = run(root, &["derive-temporal", SLUG]);
+    assert!(!output.status.success());
+    assert!(
+        stderr(&output).contains("business-day calendar"),
+        "{}",
+        stderr(&output)
+    );
+    assert_eq!(before, snapshot(root));
+}

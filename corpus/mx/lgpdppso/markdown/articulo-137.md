@@ -18,5 +18,3 @@ source_sha256: a184d451e59d0c5663e14a41c8211d6f5309b15f82d0a6a2e45ed599c44364b9
 # Artículo 137
 
 La [Autoridad garante](articulo-3.md) deberá denunciar el incumplimiento de las determinaciones que ésta emita y que impliquen la presunta comisión de un delito ante la autoridad competente.
-
-Artículo Tercero y Artículo Cuarto.- ………

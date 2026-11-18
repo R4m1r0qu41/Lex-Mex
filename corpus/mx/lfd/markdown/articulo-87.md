@@ -17,7 +17,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 # Artículo 87
 
-Por los servicios que se presten al obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas: I.- Por el estudio y trámite de la solicitud de protección de derechos del obtentor ............................................................................................................... $24,390.83 Fracción reformada DOF 30-12-1996
+Por los servicios que se presten al obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas:
+
+I.- Por el estudio y trámite de la solicitud de protección de derechos del obtentor ............................................................................................................... $24,390.83 Fracción reformada DOF 30-12-1996
 
 II.- Por la expedición de la constancia de presentación ............................................. $1,297.12 Fracción reformada DOF 30-12-1996
 

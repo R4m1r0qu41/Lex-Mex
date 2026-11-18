@@ -23,7 +23,9 @@ Sin perjuicio de lo anterior, la autoridad jurisdiccional podrá imponer a la pe
 
 La medida de sanción privativa de libertad impuesta a la persona adolescente no podrá exceder del límite máximo que esta [Ley](articulo-3.md) establece, de acuerdo con el grupo etario al que pertenece al momento de la comisión del hecho que la ley señale como delito.
 
-Son formas de participación las siguientes: I. Los que dolosamente presten ayuda;
+Son formas de participación las siguientes:
+
+I. Los que dolosamente presten ayuda;
 
 II. Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito, y
 

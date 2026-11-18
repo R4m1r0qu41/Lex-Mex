@@ -82,21 +82,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7:term-usage:1169-1176",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7:term-usage:1170-1177",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:comite",
     "span": "Comités",
-    "start_char": 1169,
-    "end_char": 1176
+    "start_char": 1170,
+    "end_char": 1177
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7:term-usage:1332-1335",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7:term-usage:1333-1336",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 1332,
-    "end_char": 1335
+    "start_char": 1333,
+    "end_char": 1336
   },
   {
     "schema_version": "0.1.0",
@@ -352,12 +352,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:27:term-usage:416-419",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:27:term-usage:417-420",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 416,
-    "end_char": 419
+    "start_char": 417,
+    "end_char": 420
   },
   {
     "schema_version": "0.1.0",
@@ -433,39 +433,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:1029-1032",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:1030-1033",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 1029,
-    "end_char": 1032
+    "start_char": 1030,
+    "end_char": 1033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:1900-1903",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:1901-1904",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 1900,
-    "end_char": 1903
+    "start_char": 1901,
+    "end_char": 1904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:2508-2511",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:2509-2512",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 2508,
-    "end_char": 2511
+    "start_char": 2509,
+    "end_char": 2512
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:3024-3027",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38:term-usage:3025-3028",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
     "span": "Ley",
-    "start_char": 3024,
-    "end_char": 3027
+    "start_char": 3025,
+    "end_char": 3028
   },
   {
     "schema_version": "0.1.0",
@@ -568,12 +568,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57:term-usage:512-518",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57:term-usage:513-519",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:57",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:comite",
     "span": "Comité",
-    "start_char": 512,
-    "end_char": 518
+    "start_char": 513,
+    "end_char": 519
   },
   {
     "schema_version": "0.1.0",

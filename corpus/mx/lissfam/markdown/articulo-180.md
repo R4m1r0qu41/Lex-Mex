@@ -7,8 +7,8 @@ provision_type: article
 number: "180"
 aliases: ["LISSFAM — Artículo 180"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
@@ -27,7 +27,9 @@ III. Grado, arma, rama, servicio o cuerpo;
 
 IV. Matrícula;
 
-V. Antigüedad; VI. Corporaciones y dependencias en que ha servido;
+V. Antigüedad;
+
+VI. Corporaciones y dependencias en que ha servido;
 
 VII. Tiempo de servicios efectivos, abonos y deducciones; Fracción reformada DOF 08-05-2006
 

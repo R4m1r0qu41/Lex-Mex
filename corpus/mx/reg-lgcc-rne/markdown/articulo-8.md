@@ -23,6 +23,8 @@ I. Señalar las particularidades técnicas y las fórmulas correspondientes para
 
 II. Determinar los factores de Emisión específicos para el cálculo o estimación de Emisiones del Gas o Compuesto de Efecto Invernadero;
 
-III. Establecer el [Potencial de Calentamiento Global](articulo-2.md) que se deberá considerar en el cálculo de las Emisiones equivalentes para aquellos Gases o Compuestos de Efecto Invernadero distintos al bióxido de carbono, y IV. Identificar los Establecimientos Sujetos a Reporte que deban utilizar métodos de medición directa, en aquellos casos en los que no sea técnicamente posible aplicar las metodologías previstas en el artículo [7](articulo-7.md) del presente Reglamento o que, siendo técnicamente posible su aplicación, no pueda precisarse el contenido de carbono de los materiales o sustancias utilizadas como combustibles.
+III. Establecer el [Potencial de Calentamiento Global](articulo-2.md) que se deberá considerar en el cálculo de las Emisiones equivalentes para aquellos Gases o Compuestos de Efecto Invernadero distintos al bióxido de carbono, y
+
+IV. Identificar los Establecimientos Sujetos a Reporte que deban utilizar métodos de medición directa, en aquellos casos en los que no sea técnicamente posible aplicar las metodologías previstas en el artículo [7](articulo-7.md) del presente Reglamento o que, siendo técnicamente posible su aplicación, no pueda precisarse el contenido de carbono de los materiales o sustancias utilizadas como combustibles.
 
 Ante la ausencia o inviabilidad técnica en la aplicación de los factores de Emisión determinados por la Secretaría conforme a la fracción II del presente artículo, podrán aplicarse aquéllos que haya determinado el [Panel Intergubernamental](articulo-2.md).

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Reviewer-authored note on one provision",
+  "description": "A short note a named reviewer attaches to a provision, kept apart from the official text. It never changes the provision text or its temporal fields. It is bound to the whitespace-normalized provision text, to the acquired source and to a source quote.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "provision_id",
+    "provision_text_sha256",
+    "note",
+    "source_sha256",
+    "source_basis",
+    "reviewer",
+    "captured_at",
+    "rationale",
+    "decision_source",
+    "decision_source_sha256"
+  ],
+  "properties": {
+    "provision_id": { "type": "string", "pattern": "^urn:lex-mx:federal:" },
+    "provision_text_sha256": {
+      "description": "SHA-256 of the provision text with whitespace runs collapsed to one space.",
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "note": { "type": "string", "minLength": 1, "maxLength": 300, "pattern": "\\S" },
+    "source_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "source_basis": {
+      "description": "Exact quote from the retained source (whitespace-normalized) that grounds the note.",
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "reviewer": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "captured_at": { "type": "string", "format": "date-time" },
+    "rationale": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "decision_source": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "decision_source_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+  }
+}

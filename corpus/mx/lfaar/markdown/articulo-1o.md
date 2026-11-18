@@ -23,7 +23,9 @@ I. Fomentar, promover y facilitar el servicio de aseguramiento por parte de los 
 
 II. Regular las actividades y operaciones que los Fondos de Aseguramiento Agropecuario y Rural podrán realizar, así como establecer el servicio de Asesoría Técnica y Seguimiento de Operaciones que deberán recibir, con el propósito de lograr su sano y equilibrado desarrollo;
 
-III. Regular la organización, funcionamiento y operaciones de los Organismos Integradores de los Fondos de Aseguramiento Agropecuario y Rural; IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y
+III. Regular la organización, funcionamiento y operaciones de los Organismos Integradores de los Fondos de Aseguramiento Agropecuario y Rural;
+
+IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y
 
 V. Establecer los términos en que se llevará a cabo el seguimiento de operaciones del Sistema de Fondos de Aseguramiento Agropecuario y Rural.
 

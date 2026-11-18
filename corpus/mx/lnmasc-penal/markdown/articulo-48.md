@@ -21,7 +21,9 @@ Requisitos para ser [Facilitador](articulo-3.md) Los Facilitadores deberán:
 
 I. Poseer grado de Licenciatura afín a las labores que deberán desarrollar, con cédula profesional con registro federal;
 
-II. Acreditar la certificación que establece esta [Ley](articulo-3.md); III. Acreditar las evaluaciones de control de confianza que establecen las disposiciones aplicables para los miembros de instituciones de procuración de justicia;
+II. Acreditar la certificación que establece esta [Ley](articulo-3.md);
+
+III. Acreditar las evaluaciones de control de confianza que establecen las disposiciones aplicables para los miembros de instituciones de procuración de justicia;
 
 IV. No haber sido sentenciados por delito doloso, y
 

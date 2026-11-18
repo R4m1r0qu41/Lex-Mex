@@ -23,7 +23,9 @@ I. Monto autorizado de la [Deuda Pública](articulo-2.md) u Obligación a incurr
 
 II. Plazo máximo autorizado para el pago;
 
-III. Destino de los recursos; IV. En su caso, la [Fuente de pago](articulo-2.md) o la contratación de una [Garantía de pago](articulo-2.md) de la Deuda Pública u Obligación, y
+III. Destino de los recursos;
+
+IV. En su caso, la [Fuente de pago](articulo-2.md) o la contratación de una [Garantía de pago](articulo-2.md) de la Deuda Pública u Obligación, y
 
 V. En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 

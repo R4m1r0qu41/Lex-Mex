@@ -21,7 +21,9 @@ Para los efectos del artículo [66](../../lan/markdown/articulo-66.md) de la "[L
 
 Además de lo dispuesto en el artículo [51](../../lan/markdown/articulo-51.md) de la "Ley", el reglamento del distrito deberá contener lo siguiente:
 
-I. Referencia de la constitución y circunscripción del distrito, describiendo los recursos hidráulicos de que dispone para el suministro de los servicios; II. La forma en que las asociaciones o sociedades de usuarios administrarán, operarán, conservarán y mantendrán la infraestructura y bienes concesionados, así como las responsabilidades que asumen, indicando su estructura y funciones;
+I. Referencia de la constitución y circunscripción del distrito, describiendo los recursos hidráulicos de que dispone para el suministro de los servicios;
+
+II. La forma en que las asociaciones o sociedades de usuarios administrarán, operarán, conservarán y mantendrán la infraestructura y bienes concesionados, así como las responsabilidades que asumen, indicando su estructura y funciones;
 
 III. Definición de los derechos y obligaciones de usuarios, asociaciones y sociedades que para la operación y administración del distrito se requieran, así como de las sanciones en los casos de violación de las disposiciones del reglamento del distrito;
 

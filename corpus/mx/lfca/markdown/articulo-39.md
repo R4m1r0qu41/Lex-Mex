@@ -17,4 +17,6 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Artículo 39
 
-Para el cumplimiento de las atribuciones señaladas en el presente Capítulo, el Instituto Mexicano de Cinematografía contará con: I. Recursos que anualmente señale el Presupuesto de Egresos de la Federación; II. Aportaciones que efectúen los sectores público, privado y social; III. Donaciones de personas físicas o morales; IV. Las sanciones pecuniarias administrativas que se apliquen con motivo del incumplimiento de esta Ley, y V. Recursos que para tal efecto se señalen en otras leyes.
+Para el cumplimiento de las atribuciones señaladas en el presente Capítulo, el Instituto Mexicano de Cinematografía contará con: I. Recursos que anualmente señale el Presupuesto de Egresos de la Federación; II. Aportaciones que efectúen los sectores público, privado y social; III. Donaciones de personas físicas o morales;
+
+IV. Las sanciones pecuniarias administrativas que se apliquen con motivo del incumplimiento de esta Ley, y V. Recursos que para tal efecto se señalen en otras leyes.

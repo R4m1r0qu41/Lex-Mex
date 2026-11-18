@@ -23,7 +23,9 @@ I. Emitir, administrar y registrar certificados digitales, así como prestar ser
 
 II. Llevar un registro de los certificados digitales que emitan y de los que revoquen, así como proveer los servicios de consulta a los interesados;
 
-III. Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de certificados digitales, así como de los servicios relacionados con la firma electrónica avanzada; IV. Revocar los certificados de firma electrónica avanzada, cuando se actualice alguno de los supuestos previstos en el artículo [19](articulo-19.md) de esta Ley conforme a los procedimientos a que se refiere el artículo [18](articulo-18.md) de la misma;
+III. Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de certificados digitales, así como de los servicios relacionados con la firma electrónica avanzada;
+
+IV. Revocar los certificados de firma electrónica avanzada, cuando se actualice alguno de los supuestos previstos en el artículo [19](articulo-19.md) de esta Ley conforme a los procedimientos a que se refiere el artículo [18](articulo-18.md) de la misma;
 
 V. Garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada, así como de los servicios relacionados con la misma;
 

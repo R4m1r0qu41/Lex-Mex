@@ -7,8 +7,8 @@ provision_type: article
 number: "9o"
 aliases: ["LCNDH — Artículo 9o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf
 source_sha256: 4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c
 ---
@@ -23,7 +23,9 @@ I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de su
 
 II. Tener cumplidos treinta y cinco años de edad, el día de su elección;
 
-III. Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales; IV. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
+III. Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales;
+
+IV. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
 
 V. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, Gobernador, o procurador o Fiscal general de justicia de alguna entidad federativa o jefe de gobierno de la Ciudad de México, en el año anterior a su elección; Fracción reformada DOF 20-05-2021
 

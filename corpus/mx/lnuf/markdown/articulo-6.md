@@ -19,7 +19,9 @@ source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 
 El impacto del uso de la fuerza en las personas estará graduado de la siguiente manera:
 
-I. Persuasión: cese de la resistencia a través del uso de indicaciones verbales o de la simple presencia de la autoridad, para lograr la cooperación de las personas con la autoridad; II. Restricción de desplazamiento: determinar un perímetro con la finalidad de controlar la agresión;
+I. Persuasión: cese de la resistencia a través del uso de indicaciones verbales o de la simple presencia de la autoridad, para lograr la cooperación de las personas con la autoridad;
+
+II. Restricción de desplazamiento: determinar un perímetro con la finalidad de controlar la agresión;
 
 III. Sujeción: utilizar la fuerza física con moderación para lograr el control o aseguramiento de los individuos;
 

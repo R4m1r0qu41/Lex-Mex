@@ -19,7 +19,9 @@ source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 
 Son obligaciones de los administradores de la sociedad de gestión colectiva:
 
-I. Responsabilizarse del cumplimiento de las obligaciones de la sociedad a que se refiere el [artículo anterior](articulo-203.md); II. Responder civil y penalmente por los actos realizados por ellos durante su administración;
+I. Responsabilizarse del cumplimiento de las obligaciones de la sociedad a que se refiere el [artículo anterior](articulo-203.md);
+
+II. Responder civil y penalmente por los actos realizados por ellos durante su administración;
 
 III. Entregar a los socios la copia de la documentación a que se refiere la fracción VIII del [artículo anterior](articulo-203.md);
 

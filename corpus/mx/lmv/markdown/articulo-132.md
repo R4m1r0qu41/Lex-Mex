@@ -25,7 +25,9 @@ II. Los acuerdos de fusión, así como las actas de asamblea respectivas, se ins
 
 III. Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela.
 
-IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales extraordinarias de accionistas, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades, una vez hecha la inscripción en el Registro Público de Comercio. V. Los acreedores de las sociedades podrán oponerse judicialmente a la fusión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de ésta.
+IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales extraordinarias de accionistas, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades, una vez hecha la inscripción en el Registro Público de Comercio.
+
+V. Los acreedores de las sociedades podrán oponerse judicialmente a la fusión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de ésta.
 
 VI. La Comisión, previo acuerdo de su Junta de Gobierno, podrá establecer mediante disposiciones de carácter general, la demás documentación e información que en relación con las fracciones anteriores deba proporcionarse.
 

@@ -25,6 +25,8 @@ II. Regular el catálogo normativo de funciones, derechos, obligaciones y prohib
 
 III. Establecer las reglas para el control y administración del equipamiento oficial de los integrantes de las instituciones de seguridad;
 
-IV. Normar los esquemas de coordinación operativa para las instituciones de seguridad en el uso de la fuerza y del armamento oficial; V. Brindar certeza jurídica y transparencia a la ciudadanía en relación con el uso de la fuerza que realicen las instituciones de seguridad en el ejercicio de sus funciones, y
+IV. Normar los esquemas de coordinación operativa para las instituciones de seguridad en el uso de la fuerza y del armamento oficial;
+
+V. Brindar certeza jurídica y transparencia a la ciudadanía en relación con el uso de la fuerza que realicen las instituciones de seguridad en el ejercicio de sus funciones, y
 
 VI. El establecimiento del régimen de responsabilidades por la inobservancia de esta Ley.

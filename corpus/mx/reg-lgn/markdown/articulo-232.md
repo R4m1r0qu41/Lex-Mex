@@ -25,7 +25,9 @@ II. Participar en las sesiones, acuerdos y resoluciones del [Consejo de Carrera]
 
 III. Formular voto particular en caso de estimarlo necesario;
 
-IV. Integrar las comisiones que el Consejo de Carrera determine; V. Dar cuenta, en la sesión del Consejo de Carrera que corresponda, de los proyectos de resolución, señalando los argumentos y consideraciones jurídicas que sustenten el sentido de los mismos, y
+IV. Integrar las comisiones que el Consejo de Carrera determine;
+
+V. Dar cuenta, en la sesión del Consejo de Carrera que corresponda, de los proyectos de resolución, señalando los argumentos y consideraciones jurídicas que sustenten el sentido de los mismos, y
 
 VI. Las demás que le confieran otras disposiciones jurídicas.
 

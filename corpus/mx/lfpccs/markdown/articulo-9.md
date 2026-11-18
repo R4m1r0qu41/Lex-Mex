@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LFPCCS — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf
 source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 ---
@@ -27,7 +27,9 @@ III. Un representante propietario y un suplente del Instituto Nacional de Invest
 
 IV. Tres representantes propietarios y sus respectivos suplentes de las instituciones de enseñanza superior, investigación y extensión;
 
-V. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de productores y comercializadores de semillas; VI. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de obtentores, fitomejoradores y mantenedores de semillas;
+V. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de productores y comercializadores de semillas;
+
+VI. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de obtentores, fitomejoradores y mantenedores de semillas;
 
 VII. Tres representantes propietarios y sus respectivos suplentes de las asociaciones y/o cámaras de agricultores consumidores de semillas; y
 

@@ -29,7 +29,9 @@ IV. Interés superior de la infancia: Entendido como la obligación del Estado d
 
 Los procedimientos señalados en esta Ley reconocerán sus necesidades como sujetos de derecho en desarrollo.
 
-El ejercicio de los derechos de los adultos no podrá condicionar el ejercicio de los derechos de las niñas, niños y adolescentes. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS V. Debida diligencia: Obligación de los servidores públicos de dar respuesta inmediata, oportuna, eficiente, eficaz y responsable en la prevención, investigación, persecución y sanción, así como en la reparación del daño de los delitos previstos por esta Ley, incluyendo la protección y asistencia a las víctimas de estos delitos.
+El ejercicio de los derechos de los adultos no podrá condicionar el ejercicio de los derechos de las niñas, niños y adolescentes.
+
+V. Debida diligencia: Obligación de los servidores públicos de dar respuesta inmediata, oportuna, eficiente, eficaz y responsable en la prevención, investigación, persecución y sanción, así como en la reparación del daño de los delitos previstos por esta Ley, incluyendo la protección y asistencia a las víctimas de estos delitos.
 
 VI. Prohibición de devolución o expulsión: Las víctimas de los delitos previstos en esta Ley no serán repatriadas a su país o enviadas a su lugar de origen en territorio nacional, cuando su vida, libertad, integridad, seguridad o las de sus familias, corra algún peligro. La autoridad deberá cerciorarse de esta condición.
 
@@ -47,7 +49,7 @@ X. Presunción de minoría de edad: En los casos que no pueda determinarse o exi
 
 XI. Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas de los delitos previstos por esta Ley, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima.
 
-XII. Interseccionalidad: Herramienta analítica que reconoce que las desigualdades sistemáticas se configuran a partir de la superposición de diferentes factores sociales como el género, la etnia y la clase social. En consecuencia, tanto las desventajas como los privilegios que tiene una persona en un momento y lugar determinados no pueden entenderse de su identidad. Por el contrario, se debe prestar atención al conjunto de relaciones de poder que le afectan, incluidas aquellas fuerzas a nivel macro como el pasado colonial y la pobreza; y las fuerzas a nivel micro, entre ellas el estado de salud de una persona y la estructura de su familia o comunidad. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Fracción adicionada DOF 07-06-2024
+XII. Interseccionalidad: Herramienta analítica que reconoce que las desigualdades sistemáticas se configuran a partir de la superposición de diferentes factores sociales como el género, la etnia y la clase social. En consecuencia, tanto las desventajas como los privilegios que tiene una persona en un momento y lugar determinados no pueden entenderse de su identidad. Por el contrario, se debe prestar atención al conjunto de relaciones de poder que le afectan, incluidas aquellas fuerzas a nivel macro como el pasado colonial y la pobreza; y las fuerzas a nivel micro, entre ellas el estado de salud de una persona y la estructura de su familia o comunidad. Fracción adicionada DOF 07-06-2024
 
 XIII. Interculturalidad: Es una metodología que permite la interacción respetuosa entre diferentes culturas y grupos étnicos, mediante la cual se reconoce y valora la diversidad cultural, buscando la igualdad de derechos y oportunidades para todas las personas, independientemente de su origen cultural o étnico. Fracción adicionada DOF 07-06-2024
 

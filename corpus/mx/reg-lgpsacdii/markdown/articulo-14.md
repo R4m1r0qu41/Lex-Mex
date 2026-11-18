@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["REG-LGPSACDII — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 14
 
-La prestación de servicios para la atención, cuidado y desarrollo integral infantil que deban brindar las [Autoridades Competentes](articulo-3.md), podrá otorgarse por sí mismas o a través de las personas físicas o morales de los sectores social y privado que, previamente hayan obtenido la Autorización señalada en el Capítulo X de este Reglamento.
+La prestación de servicios para la atención, cuidado y desarrollo integral infantil que deban brindar las [Autoridades Competentes](articulo-3.md), podrá otorgarse por sí mismas o a través de las personas físicas o morales de los sectores social y privado que, previamente hayan obtenido la [Autorización](articulo-3.md) señalada en el Capítulo X de este Reglamento.

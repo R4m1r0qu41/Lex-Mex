@@ -33,7 +33,9 @@ El monto para liquidar el adeudo a que se hace referencia en el párrafo anterio
 
 III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo [66](articulo-66.md) de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
 
-La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale el Servicio de Administración Tributaria mediante reglas de carácter general. IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
+La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
 
 a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
 

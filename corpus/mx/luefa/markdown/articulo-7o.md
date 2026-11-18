@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["LUEFA — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf
 source_sha256: 1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf
 ---

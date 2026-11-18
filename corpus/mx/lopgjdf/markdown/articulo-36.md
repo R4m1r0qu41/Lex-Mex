@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["LOPGJDF — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -27,7 +27,9 @@ III. Tener acreditado, en su caso, el Servicio Militar Nacional;
 
 IV. No haber sido condenado por sentencia irrevocable como responsable de delito doloso, o por delito culposo calificado como grave por la ley;
 
-V. Poseer título de licenciado en derecho; VI. Acreditar experiencia profesional como licenciado en derecho cuando menos de dos años, en la materia penal;
+V. Poseer título de licenciado en derecho;
+
+VI. Acreditar experiencia profesional como licenciado en derecho cuando menos de dos años, en la materia penal;
 
 VII. Aprobar el concurso de ingreso y cursar satisfactoriamente en el Instituto de Formación Profesional, un Diplomado cuyo programa de estudios considere por lo menos materias vinculadas con el Derecho Constitucional, Derecho Penal, Derecho Procesal Penal y Derechos Humanos;
 

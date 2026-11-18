@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LGAHOTDU — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -25,6 +25,8 @@ II. La custodia y aprovechamiento de las zonas de valor ambiental no urbanizable
 
 III. La homologación de terminología para la jerarquización de espacios públicos y equipamientos en los planes o programas de Desarrollo Urbano;
 
-IV. La homologación de contenidos, metodologías y expresión gráfica para la elaboración de los planes y programas en la materia, y los criterios para su actualización con una visión de largo plazo, y V. La prevención y atención de contingencias en los Centros de Población para el fortalecimiento de la Resiliencia.
+IV. La homologación de contenidos, metodologías y expresión gráfica para la elaboración de los planes y programas en la materia, y los criterios para su actualización con una visión de largo plazo, y
+
+V. La prevención y atención de contingencias en los Centros de Población para el fortalecimiento de la Resiliencia.
 
 Mismas que deberán ser observadas por los tres órdenes de gobierno.

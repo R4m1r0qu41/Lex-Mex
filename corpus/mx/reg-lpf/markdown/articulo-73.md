@@ -7,8 +7,8 @@ provision_type: article
 number: "73"
 aliases: ["REG-LPF — Artículo 73"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 73
 
-Corresponde a la Dirección General de Especialidades: I. Desarrollar y aplicar los procesos necesarios, conforme a las disposiciones aplicables, para apoyar técnica y científicamente la labor de investigación policial;
+Corresponde a la Dirección General de Especialidades:
+
+I. Desarrollar y aplicar los procesos necesarios, conforme a las disposiciones aplicables, para apoyar técnica y científicamente la labor de investigación policial;
 
 II. Canalizar los servicios solicitados por la autoridad competente de acuerdo a la especialidad correspondiente;
 
@@ -45,7 +47,9 @@ XIII. Implementar, conforme a las disposiciones aplicables, un sistema emergente
 
 XIV. Realizar análisis técnicos y científicos especializados, bajo la conducción y mando del Ministerio Público y conforme a las disposiciones aplicables, sobre objetos relacionados con la comisión de delitos de alto impacto;
 
-XV. Actualizar las bases de datos que para los fines de esta Dirección se utilicen, conforme a los lineamientos establecidos; XVI. Aplicar las guías y manuales técnicos que deban observarse en la formulación de opiniones que requieran las autoridades competentes, dentro del marco de la autonomía técnica de estos servicios;
+XV. Actualizar las bases de datos que para los fines de esta Dirección se utilicen, conforme a los lineamientos establecidos;
+
+XVI. Aplicar las guías y manuales técnicos que deban observarse en la formulación de opiniones que requieran las autoridades competentes, dentro del marco de la autonomía técnica de estos servicios;
 
 XVII. Aplicar los manuales de procedimientos de operación para asegurar que las funciones se realicen según las normativas internacionales vigentes;
 

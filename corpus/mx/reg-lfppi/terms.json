@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
     "fraction": "VIII",
     "start_char": 1899,
-    "end_char": 1991,
+    "end_char": 1992,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfppi",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
     "fraction": "IX",
-    "start_char": 1991,
-    "end_char": 2037,
+    "start_char": 1992,
+    "end_char": 2038,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfppi",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
     "fraction": "X",
-    "start_char": 2037,
-    "end_char": 2208,
+    "start_char": 2038,
+    "end_char": 2209,
     "basis": "express_definition"
   }
 ]

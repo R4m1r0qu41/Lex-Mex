@@ -21,7 +21,9 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I. Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-II. Si son mayores de edad; Fracción reformada DOF 03-06-2019 III. Los nombres, apellidos, ocupación y domicilio de los padres;
+II. Si son mayores de edad; Fracción reformada DOF 03-06-2019
+
+III. Los nombres, apellidos, ocupación y domicilio de los padres;
 
 IV. El consentimiento de las personas contrayentes; Fracción reformada DOF 03-06-2019
 

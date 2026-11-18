@@ -8,11 +8,12 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
-      "provision_text_sha256": "6ce6860e1698e2c26aaab739861b19b1ef453a4fe2c7b156afa43a4c8143a221",
+      "provision_text_sha256": "084fbd4bad43bb5580c0ac8fd97b0625898d7dc4107bbf35378dafd900fbb609",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
+        "III",
         "IV",
         "V",
         "VI",
@@ -22,10 +23,10 @@
         "X"
       ],
       "unread_fractions": [],
-      "term_count": 9
+      "term_count": 10
     }
   ],
   "imports": [],
-  "term_count": 9,
-  "usage_count": 57
+  "term_count": 10,
+  "usage_count": 58
 }

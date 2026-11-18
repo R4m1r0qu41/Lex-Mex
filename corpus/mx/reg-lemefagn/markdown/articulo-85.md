@@ -7,8 +7,8 @@ provision_type: article
 number: "85"
 aliases: ["REG-LEMEFAGN — Artículo 85"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -23,4 +23,6 @@ I. Las necesidades de la Secretaría;
 
 II. El resultado de las evaluaciones institucionales de los planes y programas de estudio vigentes;
 
-III. La disponibilidad de recursos humanos, materiales, técnicos y financieros; y IV. La modificación de la doctrina militar y los avances en las áreas humanística, científica y tecnológica.
+III. La disponibilidad de recursos humanos, materiales, técnicos y financieros; y
+
+IV. La modificación de la doctrina militar y los avances en las áreas humanística, científica y tecnológica.

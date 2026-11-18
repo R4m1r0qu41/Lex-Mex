@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf
 source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 ---
 
-> Capítulo III
+> Capítulo III · Sección tercera
 
 # Artículo 25
 
@@ -35,7 +35,9 @@ VII. Los requisitos para el inicio de operaciones;
 
 VIII. Los servicios que podrá prestar el concesionario o permisionario;
 
-IX. La facultad para arrendar los espacios en los aeródromos civiles para la prestación de los servicios de que se trate; X. Los derechos y obligaciones del concesionario o permisionario;
+IX. La facultad para arrendar los espacios en los aeródromos civiles para la prestación de los servicios de que se trate;
+
+X. Los derechos y obligaciones del concesionario o permisionario;
 
 XI. El periodo de vigencia;
 

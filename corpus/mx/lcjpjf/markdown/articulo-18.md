@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LCJPJF — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf
 source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 ---

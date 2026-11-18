@@ -1,0 +1,13 @@
+{
+  "result": {
+    "publicationId": "ee6bc12b4f17170ea4ef325d9c10075582674c46de5945ce2f503b9291d35070",
+    "releaseId": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "output": "/private/tmp/lex-agent-real-OciyUc/publication"
+  },
+  "staged": {
+    "publicationId": "ee6bc12b4f17170ea4ef325d9c10075582674c46de5945ce2f503b9291d35070",
+    "releaseId": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "destination": "/private/tmp/lex-agent-real-OciyUc/staged"
+  },
+  "unchanged_release_files": 1783
+}

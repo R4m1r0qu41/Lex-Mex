@@ -23,6 +23,8 @@ I. Los nombres y apellidos de los otorgantes que son capaces de obligarse;
 
 II. La razón social;
 
-III. El objeto de la sociedad; IV. El importe del capital social y la aportación con que cada socio debe contribuir;
+III. El objeto de la sociedad;
+
+IV. El importe del capital social y la aportación con que cada socio debe contribuir;
 
 Si falta alguno de estos requisitos se aplicará lo que dispone el Artículo [2691](articulo-2691.md).

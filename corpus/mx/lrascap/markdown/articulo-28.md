@@ -19,7 +19,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 Las Sociedades Cooperativas de Ahorro y Préstamo estarán obligadas a:
 
-I. Proporcionar al [Comité de Supervisión Auxiliar](articulo-2.md) todos los documentos, información y registros que les sean solicitados. II. Permitir la revisión, por parte del Comité de Supervisión Auxiliar, del cumplimiento de los requisitos del registro, en las instalaciones de las sociedades.
+I. Proporcionar al [Comité de Supervisión Auxiliar](articulo-2.md) todos los documentos, información y registros que les sean solicitados.
+
+II. Permitir la revisión, por parte del Comité de Supervisión Auxiliar, del cumplimiento de los requisitos del registro, en las instalaciones de las sociedades.
 
 III. Tratándose de Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV:
 

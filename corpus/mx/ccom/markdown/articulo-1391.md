@@ -35,4 +35,6 @@ VI. La decisión de los peritos designados en los seguros para fijar el importe 
 
 VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor; Fracción reformada DOF 24-05-1996, 17-04-2012
 
-VIII. Los convenios celebrados en los procedimientos conciliatorios tramitados ante la Procuraduría Federal del Consumidor o ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, así como los laudos arbitrales que éstas emitan, y Fracción adicionada DOF 17-04-2012. Reformada DOF 10-01-2014 IX. Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución. Fracción adicionada DOF 24-05-1996. Reformada y recorrida DOF 17-04-2012
+VIII. Los convenios celebrados en los procedimientos conciliatorios tramitados ante la Procuraduría Federal del Consumidor o ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, así como los laudos arbitrales que éstas emitan, y Fracción adicionada DOF 17-04-2012. Reformada DOF 10-01-2014
+
+IX. Los demás documentos que por disposición de la Ley tienen el carácter de ejecutivos o que por sus características traen aparejada ejecución. Fracción adicionada DOF 24-05-1996. Reformada y recorrida DOF 17-04-2012

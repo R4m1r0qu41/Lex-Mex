@@ -25,7 +25,9 @@ II. El carácter del procedimiento de contratación;
 
 III. Descripción del objeto de la contratación;
 
-IV. Si previo a la publicación de la convocatoria a la licitación pública, se difundirá el [Proyecto de convocatoria](articulo-2.md) correspondiente, si éste será revisado por el subcomité que se constituya al efecto y las fechas probables para ello; V. Programa que contenga el lugar y fecha de celebración de los eventos relativos a la convocatoria a la licitación pública, la visita al sitio de los trabajos, la junta de aclaraciones, el acto de presentación y apertura de propuestas, el acto de fallo y la firma del contrato, así como, en su caso, la fecha de la reunión del [Comité](articulo-2.md), y
+IV. Si previo a la publicación de la convocatoria a la licitación pública, se difundirá el [Proyecto de convocatoria](articulo-2.md) correspondiente, si éste será revisado por el subcomité que se constituya al efecto y las fechas probables para ello;
+
+V. Programa que contenga el lugar y fecha de celebración de los eventos relativos a la convocatoria a la licitación pública, la visita al sitio de los trabajos, la junta de aclaraciones, el acto de presentación y apertura de propuestas, el acto de fallo y la firma del contrato, así como, en su caso, la fecha de la reunión del [Comité](articulo-2.md), y
 
 VI. Nombre, cargo, domicilio, dirección de correo electrónico y número telefónico tanto del solicitante, como de la persona que fungirá como enlace con el o los testigos sociales que, en su caso, se designen.
 

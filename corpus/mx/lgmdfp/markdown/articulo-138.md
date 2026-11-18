@@ -7,8 +7,8 @@ provision_type: article
 number: "138"
 aliases: ["LGMDFP — Artículo 138"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -27,7 +27,9 @@ III. Acceder, directamente o mediante sus representantes, a los expedientes que 
 
 IV. Obtener copia simple gratuita de las diligencias que integren los expedientes de búsqueda;
 
-V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial; VI. Beneficiarse de los programas o acciones de protección que para salvaguarda de su integridad física y emocional emita la [Comisión Nacional de Búsqueda](articulo-4.md) o promueva ante autoridad competente;
+V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial;
+
+VI. Beneficiarse de los programas o acciones de protección que para salvaguarda de su integridad física y emocional emita la [Comisión Nacional de Búsqueda](articulo-4.md) o promueva ante autoridad competente;
 
 VII. Solicitar la intervención de expertos o peritos independientes, nacionales o internacionales en las acciones de búsqueda, en términos de lo dispuesto en la normativa aplicable;
 

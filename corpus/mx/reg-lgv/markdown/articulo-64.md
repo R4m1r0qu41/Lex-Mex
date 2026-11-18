@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["REG-LGV — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -21,4 +21,6 @@ La Junta Directiva de la Asesoría Jurídica Federal aprobará el Plan Anual de 
 
 I. Atender los requerimientos de capacitación que formulen los asesores jurídicos federales, así como las necesidades de actualización y especialización para la prestación del servicio;
 
-II. Otorgar amplia participación a los peritos y demás servidores públicos de la Asesoría Jurídica Federal, en el ámbito de sus funciones, para optimizar su preparación y el servicio a su cargo, y III. Prever estímulos para el personal cuyo desempeño lo amerite, de conformidad con las disposiciones aplicables.
+II. Otorgar amplia participación a los peritos y demás servidores públicos de la Asesoría Jurídica Federal, en el ámbito de sus funciones, para optimizar su preparación y el servicio a su cargo, y
+
+III. Prever estímulos para el personal cuyo desempeño lo amerite, de conformidad con las disposiciones aplicables.

@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 216"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [56,60,83]
+amendment_marks: [56,60,83,100]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -22,13 +22,13 @@ Las casas de bolsa deberán presentar anualmente a la [Comisión](articulo-1.md)
 
 I. Para cada escenario supervisor, las estimaciones de por lo menos los 12 trimestres que concluyen en los meses de marzo, junio, septiembre y diciembre, contados a partir de diciembre del año anterior al que corresponda la evaluación, de los elementos que a continuación se describen:
 
-(100) a) Estado de situación financiera y estado de resultado integral;
+a) Estado de situación financiera y estado de resultado integral;
 
 b) Volúmenes de operación a cuenta propia y a cuenta de terceros;
 
 c) Índice de capitalización, capital neto y activos ponderados sujetos a riesgo totales; y
 
-d) En su caso, las desviaciones a los límites de exposición al riesgo establecidos por la casa de bolsa y a los demás límites regulatorios establecidos en la Ley y en las presentes disposiciones.
+d) En su caso, las desviaciones a los límites de exposición al riesgo establecidos por la casa de bolsa y a los demás límites regulatorios establecidos en la [Ley](articulo-1.md) y en las presentes disposiciones.
 
 II. Los supuestos del plan de negocios de la casa de bolsa para el periodo de proyección, que incluya al menos, la emisión bruta de pasivos, la política de reparto de dividendos u otras distribuciones patrimoniales, el comportamiento de gastos de administración y promoción, el crecimiento del personal y las sucursales, el perfil de apetito de riesgo, así como las actividades fuera de balance.
 

@@ -25,4 +25,6 @@ II.- Ropas, muebles u objetos en tal forma que puedan causar graves daños perso
 
 III.- Archivos públicos o notariales;
 
-IV.- Bibliotecas, museos, templos, escuelas o edificios y monumentos públicos, y V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
+IV.- Bibliotecas, museos, templos, escuelas o edificios y monumentos públicos, y
+
+V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.

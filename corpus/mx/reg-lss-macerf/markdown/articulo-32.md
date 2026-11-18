@@ -25,7 +25,7 @@ II. Para la fijación de la prima se considerará el valor del grado de siniestr
 
 El valor obtenido deberá expresarse en por ciento y se comparará con la prima en que la empresa cubre sus cuotas al momento de la revisión. Si el valor es el mismo, se continuará aplicando la misma prima.
 
-En caso de que sean diferentes procederá la nueva prima, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento del salario base de cotización, con respecto a la prima REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN del año inmediato anterior con que la empresa venía cubriendo sus cuotas, en los términos del artículo [74](../../lss/markdown/articulo-74.md) de la Ley;
+En caso de que sean diferentes procederá la nueva prima, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento del salario base de cotización, con respecto a la prima del año inmediato anterior con que la empresa venía cubriendo sus cuotas, en los términos del artículo [74](../../lss/markdown/articulo-74.md) de la Ley;
 
 III. La prima obtenida de conformidad con las fracciones anteriores, tendrá vigencia desde el primero de marzo del año siguiente a aquel en que concluyó el periodo computado y hasta el día último de febrero del año subsecuente;
 
@@ -45,6 +45,8 @@ Para el periodo subsecuente realizará su nueva determinación, si el lapso tran
 
 Cuando un patrón deje de tener trabajadores a su servicio durante más de seis meses y no haya comunicado baja patronal, al reanudar la relación obrero-patronal, será colocado en la prima media de la clase que corresponda a su actividad.
 
-Si el periodo fuera de seis meses o menos será colocado en la prima en que venía cubriendo sus cuotas, siempre y cuando conserve la misma actividad, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN VIII. Cuando la empresa tenga asignados diversos números de registro patronal en un mismo municipio o en el Distrito Federal, con excepción de los casos señalados en el artículo [21](articulo-21.md) de este Reglamento, para el cálculo de la prima se tomarán las consecuencias de los casos de riesgos de trabajo acaecidos al personal de la empresa en un mismo municipio o en el Distrito Federal y terminados durante el periodo de cómputo.
+Si el periodo fuera de seis meses o menos será colocado en la prima en que venía cubriendo sus cuotas, siempre y cuando conserve la misma actividad, y
+
+VIII. Cuando la empresa tenga asignados diversos números de registro patronal en un mismo municipio o en el Distrito Federal, con excepción de los casos señalados en el artículo [21](articulo-21.md) de este Reglamento, para el cálculo de la prima se tomarán las consecuencias de los casos de riesgos de trabajo acaecidos al personal de la empresa en un mismo municipio o en el Distrito Federal y terminados durante el periodo de cómputo.
 
 En caso de que la empresa tenga registrados centros de trabajo en distintos municipios determinará la prima de dichos centros, inclusive aquellos que cuenten únicamente con trabajadores eventuales, con independencia de los que se encuentran en otro municipio.

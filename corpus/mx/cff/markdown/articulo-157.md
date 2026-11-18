@@ -31,7 +31,9 @@ V. Las armas, vehículos y caballos que los militares en servicio deban usar con
 
 VI. Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras.
 
-VII. El derecho de usufructo, pero no los frutos de éste. VIII. Los derechos de uso o de habitación.
+VII. El derecho de usufructo, pero no los frutos de éste.
+
+VIII. Los derechos de uso o de habitación.
 
 IX. El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad.
 

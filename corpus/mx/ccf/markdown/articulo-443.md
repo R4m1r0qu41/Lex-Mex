@@ -21,4 +21,6 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. (Se deroga). Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019 III. Por la mayor edad del hijo.
+II. (Se deroga). Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019
+
+III. Por la mayor edad del hijo.

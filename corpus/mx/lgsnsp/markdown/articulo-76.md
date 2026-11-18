@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf
 source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo II
 
 # Artículo 76
 
-Los niveles escalafonarios y procedimientos de ascenso dentro del servicio profesional de carrera de las [Instituciones de Procuración de Justicia](articulo-4.md) y de la Guardia Nacional se deberán establecer en sus propias leyes. Sección IV Permanencia
+Los niveles escalafonarios y procedimientos de ascenso dentro del servicio profesional de carrera de las [Instituciones de Procuración de Justicia](articulo-4.md) y de la Guardia Nacional se deberán establecer en sus propias leyes.

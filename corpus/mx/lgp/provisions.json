@@ -12,12 +12,12 @@
     },
     "text": "Las disposiciones de esta Ley son de orden público y de observancia general en la República. Su objeto es regular los fenómenos que afectan a la población en cuanto a su volumen, estructura, dinámica y distribución en el territorio nacional, con el fin de lograr que participe justa y equitativamente de los beneficios del desarrollo económico y social.",
     "publication_date": "1974-01-07",
-    "effective_from": null,
+    "effective_from": "1974-02-06",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -33,12 +33,12 @@
     },
     "text": "El Ejecutivo Federal, por conducto de la Secretaría de Gobernación, dictará, promoverá y coordinará en su caso, las medidas adecuadas para resolver los problemas demográficos nacionales.",
     "publication_date": "1974-01-07",
-    "effective_from": null,
+    "effective_from": "1974-02-06",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -52,14 +52,14 @@
       "title": null,
       "chapter": "Capítulo I"
     },
-    "text": "Para los fines de esta Ley, la Secretaría de Gobernación dictará y ejecutará o en su caso promoverá ante las dependencias competentes o entidades correspondientes, las medidas necesarias para:\n\nI.- Adecuar los programas de desarrollo económico y social a las necesidades que planteen el volumen, estructura, dinámica y distribución de la población;\n\nII.- Realizar programas de planeación familiar a través de los servicios educativos y de salud pública de que disponga el sector público y vigilar que dichos programas y los que realicen organismos privados, se lleven a cabo con absoluto respeto a los derechos fundamentales del hombre y preserven la dignidad de las familias, con el objeto de regular racionalmente y estabilizar el crecimiento de la población, así como lograr el mejor aprovechamiento de los recursos humanos y naturales del país;\n\nIII.- Disminuir la mortalidad;\n\nIV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan; V.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural; Fracción adicionada DOF 31-12-1974\n\nVI.- Promover la plena integración de los grupos marginados al desarrollo nacional; Fracción recorrida DOF 31-12-1974\n\nVII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011\n\nVIII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011\n\nIX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran; Fracción recorrida DOF 31-12-1974\n\nX.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados; Fracción recorrida DOF 31-12-1974\n\nXI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población; Fracción recorrida DOF 31-12-1974\n\nXII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados; Fracción recorrida DOF 31-12-1974\n\nXIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y Fracción reformada y recorrida DOF 31-12-1974\n\nXIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen. Fracción recorrida DOF 31-12-1974",
+    "text": "Para los fines de esta Ley, la Secretaría de Gobernación dictará y ejecutará o en su caso promoverá ante las dependencias competentes o entidades correspondientes, las medidas necesarias para:\n\nI.- Adecuar los programas de desarrollo económico y social a las necesidades que planteen el volumen, estructura, dinámica y distribución de la población;\n\nII.- Realizar programas de planeación familiar a través de los servicios educativos y de salud pública de que disponga el sector público y vigilar que dichos programas y los que realicen organismos privados, se lleven a cabo con absoluto respeto a los derechos fundamentales del hombre y preserven la dignidad de las familias, con el objeto de regular racionalmente y estabilizar el crecimiento de la población, así como lograr el mejor aprovechamiento de los recursos humanos y naturales del país;\n\nIII.- Disminuir la mortalidad;\n\nIV.- Influir en la dinámica de la población a través de los sistemas educativos, de salud pública, de capacitación profesional y técnica, y de protección a la infancia, y obtener la participación de la colectividad en la solución de los problemas que la afectan;\n\nV.- Promover la plena integración de la mujer al proceso económico, educativo, social y cultural; Fracción adicionada DOF 31-12-1974\n\nVI.- Promover la plena integración de los grupos marginados al desarrollo nacional; Fracción recorrida DOF 31-12-1974\n\nVII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011\n\nVIII.- (Se deroga) Fracción recorrida DOF 31-12-1974. Derogada DOF 25-05-2011\n\nIX.- Procurar la planificación de los centros de población urbanos, para asegurar una eficaz prestación de los servicios públicos que se requieran; Fracción recorrida DOF 31-12-1974\n\nX.- Estimular el establecimiento de fuertes núcleos de población nacional en los lugares fronterizos que se encuentren escasamente poblados; Fracción recorrida DOF 31-12-1974\n\nXI.- Procurar la movilización de la población entre distintas regiones de la República con objeto de adecuar su distribución geográfica a las posibilidades de desarrollo regional, con base en programas especiales de asentamiento de dicha población; Fracción recorrida DOF 31-12-1974\n\nXII.- Promover la creación de poblados, con la finalidad de agrupar a los núcleos que viven geográficamente aislados; Fracción recorrida DOF 31-12-1974\n\nXIII.- Coordinar las actividades de las dependencias del sector público federal, estatal y municipal, así como las de los organismos privados para el auxilio de la población en las áreas en que se prevea u ocurra algún desastre; y Fracción reformada y recorrida DOF 31-12-1974\n\nXIV.- Las demás finalidades que esta Ley u otras disposiciones legales determinen. Fracción recorrida DOF 31-12-1974",
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -75,12 +75,12 @@
     },
     "text": "Para los efectos del artículo anterior, corresponde a las dependencias del Poder Ejecutivo y a las demás entidades del Sector Público, según las atribuciones que les confieran las leyes, la aplicación y ejecución de los procedimientos necesarios para la realización de cada uno de los fines de la política demográfica nacional; pero la definición de normas, las iniciativas de conjunto y la coordinación de programas de dichas dependencias en materia demográfica, competen exclusivamente a la Secretaría de Gobernación.",
     "publication_date": "1974-01-07",
-    "effective_from": null,
+    "effective_from": "1974-02-06",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -96,12 +96,12 @@
     },
     "text": "Se crea el Consejo Nacional de Población que tendrá a su cargo la planeación demográfica del país, con objeto de incluir a la población en los programas de desarrollo económico y social que se formulen dentro del sector gubernamental y vincular los objetivos de éstos con las necesidades que plantean los fenómenos demográficos.",
     "publication_date": "1974-01-07",
-    "effective_from": null,
+    "effective_from": "1974-02-06",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -119,10 +119,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -141,9 +141,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -162,9 +162,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -183,9 +183,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -203,10 +203,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -225,9 +225,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -246,9 +246,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -267,9 +267,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -288,9 +288,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -309,9 +309,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -330,9 +330,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -351,9 +351,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -372,9 +372,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -393,9 +393,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -414,9 +414,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -435,9 +435,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -456,9 +456,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -477,9 +477,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -498,9 +498,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -519,9 +519,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -540,9 +540,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -561,9 +561,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -582,9 +582,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -603,9 +603,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -624,9 +624,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -645,9 +645,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -666,9 +666,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -687,9 +687,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -708,9 +708,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -729,9 +729,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -750,9 +750,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -771,9 +771,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -792,9 +792,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -813,9 +813,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -834,9 +834,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -855,9 +855,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -876,9 +876,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -897,9 +897,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -918,9 +918,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -939,9 +939,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -960,9 +960,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -981,9 +981,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1002,9 +1002,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1023,9 +1023,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1044,9 +1044,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1065,9 +1065,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1086,9 +1086,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1107,9 +1107,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1128,9 +1128,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1149,9 +1149,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1170,9 +1170,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1191,9 +1191,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1212,9 +1212,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1233,9 +1233,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1254,9 +1254,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1275,9 +1275,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1296,9 +1296,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1317,9 +1317,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1338,9 +1338,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1359,9 +1359,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1380,9 +1380,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1401,9 +1401,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1422,9 +1422,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1443,9 +1443,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1464,9 +1464,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1485,9 +1485,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1506,9 +1506,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1527,9 +1527,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1548,9 +1548,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1569,9 +1569,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1589,10 +1589,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1610,10 +1610,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1632,9 +1632,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1653,9 +1653,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1674,9 +1674,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1690,14 +1690,14 @@
       "title": null,
       "chapter": "Capítulo IV"
     },
-    "text": "El Gobierno Federal, en coordinación con los Gobiernos de las Entidades Federativas y Municipales deberá:\n\nI. Promover el desarrollo y fomentar el arraigo de los mexicanos al territorio nacional; II. Crear programas para atender los impactos de la emigración en las comunidades de origen, especialmente en lo relacionado con la problemática de la desintegración familiar y con la atención de personas en situación de vulnerabilidad.\n\nArtículo adicionado DOF 25-05-2011",
+    "text": "El Gobierno Federal, en coordinación con los Gobiernos de las Entidades Federativas y Municipales deberá:\n\nI. Promover el desarrollo y fomentar el arraigo de los mexicanos al territorio nacional;\n\nII. Crear programas para atender los impactos de la emigración en las comunidades de origen, especialmente en lo relacionado con la problemática de la desintegración familiar y con la atención de personas en situación de vulnerabilidad.\n\nArtículo adicionado DOF 25-05-2011",
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1715,10 +1715,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1737,9 +1737,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1757,10 +1757,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1778,10 +1778,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1799,10 +1799,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1820,10 +1820,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1841,10 +1841,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1862,10 +1862,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1883,10 +1883,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1904,10 +1904,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1921,14 +1921,14 @@
       "title": null,
       "chapter": "Capítulo VI"
     },
-    "text": "Al incorporar a una persona en el Registro Nacional de Población, se le asignará una clave que se denominará Clave Unica de Registro de Población. Esta servirá para registrarla e identificarla en forma individual.\n\nLa Clave Única de Registro de Población es la fuente única de identidad de las personas, de nacionalidad mexicana, o extranjera que se encuentre en condición de estancia regular en el país, integrada de una secuencia alfanumérica de 18 caracteres que permite identificarlas, la cual contará con, al menos, los siguientes datos:\n\nI. Nombres y apellidos, según corresponda;\n\nII. Fecha de nacimiento, empezando por año, mes y día;\n\nIII. Sexo o género; IV. Lugar de nacimiento, y\n\nV. Nacionalidad. Párrafo con fracciones adicionado DOF 16-07-2025\n\nArtículo reformado DOF 22-07-1992",
+    "text": "Al incorporar a una persona en el Registro Nacional de Población, se le asignará una clave que se denominará Clave Unica de Registro de Población. Esta servirá para registrarla e identificarla en forma individual.\n\nLa Clave Única de Registro de Población es la fuente única de identidad de las personas, de nacionalidad mexicana, o extranjera que se encuentre en condición de estancia regular en el país, integrada de una secuencia alfanumérica de 18 caracteres que permite identificarlas, la cual contará con, al menos, los siguientes datos:\n\nI. Nombres y apellidos, según corresponda;\n\nII. Fecha de nacimiento, empezando por año, mes y día;\n\nIII. Sexo o género;\n\nIV. Lugar de nacimiento, y\n\nV. Nacionalidad. Párrafo con fracciones adicionado DOF 16-07-2025\n\nArtículo reformado DOF 22-07-1992",
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1946,10 +1946,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1967,10 +1967,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1988,10 +1988,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2009,10 +2009,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2030,10 +2030,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2051,10 +2051,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2072,10 +2072,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2093,10 +2093,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2114,10 +2114,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2135,10 +2135,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2156,10 +2156,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2177,10 +2177,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2194,14 +2194,14 @@
       "title": null,
       "chapter": "Capítulo VII"
     },
-    "text": "Para cumplir con la obligación establecida en el artículo anterior los ciudadanos deben satisfacer los siguientes requisitos: I. Presentar la solicitud de inscripción correspondiente; y\n\nII. Entregar copia certificada del acta de nacimiento o, en su caso, del certificado de nacionalidad o de la carta de naturalización.\n\nArtículo adicionado DOF 22-07-1992",
+    "text": "Para cumplir con la obligación establecida en el artículo anterior los ciudadanos deben satisfacer los siguientes requisitos:\n\nI. Presentar la solicitud de inscripción correspondiente; y\n\nII. Entregar copia certificada del acta de nacimiento o, en su caso, del certificado de nacionalidad o de la carta de naturalización.\n\nArtículo adicionado DOF 22-07-1992",
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2219,10 +2219,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2240,10 +2240,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2261,10 +2261,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2282,10 +2282,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2303,10 +2303,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2324,10 +2324,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2345,10 +2345,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2362,14 +2362,14 @@
       "title": null,
       "chapter": "Capítulo VII"
     },
-    "text": "La Cédula de Identidad Ciudadana contendrá cuando menos los siguientes datos y elementos de identificación:\n\nI. Apellido paterno, apellido materno y nombre (s);\n\nII. Clave Unica de Registro de Población;\n\nIII. Fotografía del titular; IV. Lugar de nacimiento;\n\nV. Fecha de nacimiento; y\n\nVI. Firma y huella dactilar.\n\nArtículo adicionado DOF 22-07-1992",
+    "text": "La Cédula de Identidad Ciudadana contendrá cuando menos los siguientes datos y elementos de identificación:\n\nI. Apellido paterno, apellido materno y nombre (s);\n\nII. Clave Unica de Registro de Población;\n\nIII. Fotografía del titular;\n\nIV. Lugar de nacimiento;\n\nV. Fecha de nacimiento; y\n\nVI. Firma y huella dactilar.\n\nArtículo adicionado DOF 22-07-1992",
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2387,10 +2387,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2408,10 +2408,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2429,10 +2429,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2450,10 +2450,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2471,10 +2471,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2492,10 +2492,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2513,10 +2513,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2534,10 +2534,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2555,10 +2555,10 @@
     "publication_date": "1974-01-07",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2577,9 +2577,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2598,9 +2598,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2619,9 +2619,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2640,9 +2640,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2661,9 +2661,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2682,9 +2682,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2703,9 +2703,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2724,9 +2724,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2745,9 +2745,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2766,9 +2766,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2787,9 +2787,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2808,9 +2808,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2829,9 +2829,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2850,9 +2850,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2871,9 +2871,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2892,9 +2892,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2913,9 +2913,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2934,9 +2934,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2955,9 +2955,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2976,9 +2976,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2997,9 +2997,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3018,9 +3018,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3039,9 +3039,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3060,9 +3060,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3081,9 +3081,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3102,9 +3102,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3123,9 +3123,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3144,9 +3144,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3165,9 +3165,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3186,9 +3186,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3207,9 +3207,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3228,9 +3228,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3249,9 +3249,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3270,9 +3270,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3291,9 +3291,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3312,9 +3312,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3333,9 +3333,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3354,9 +3354,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3375,9 +3375,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3396,9 +3396,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3417,9 +3417,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3438,9 +3438,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3459,9 +3459,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {

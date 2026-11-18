@@ -7,8 +7,8 @@ provision_type: article
 number: "118"
 aliases: ["LGDNNA — Artículo 118"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -33,7 +33,9 @@ VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
 VII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el [Sistema Nacional de Protección Integral](articulo-4.md) un informe anual sobre los avances;
 
-VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen; IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
+VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+
+IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
 
 X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
 

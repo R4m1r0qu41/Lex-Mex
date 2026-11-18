@@ -21,3 +21,9 @@
 
 # Derived database releases (docs/plans/sqlite-corpus-database.md)
 /derived/
+
+# Reader protocol dependencies (lockfile is tracked)
+/reader/node_modules/
+
+# Local Wrangler account cache and runtime state
+/.wrangler/

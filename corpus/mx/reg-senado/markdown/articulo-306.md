@@ -47,7 +47,9 @@ XI. Las observaciones sobre proyectos de ley o decreto enviadas por el Titular d
 
 XII. Las actas, informes, resoluciones, acuerdos, declaraciones y pronunciamientos del Pleno, la Mesa, la Junta, las comisiones y los comités;
 
-XIII. Los dictámenes de las comisiones y los votos particulares; XIV. Los informes de las representaciones y delegaciones del Senado que asistan a reuniones interparlamentarias o internacionales;
+XIII. Los dictámenes de las comisiones y los votos particulares;
+
+XIV. Los informes de las representaciones y delegaciones del Senado que asistan a reuniones interparlamentarias o internacionales;
 
 XV. La información sobre administración y los servicios del Senado;
 

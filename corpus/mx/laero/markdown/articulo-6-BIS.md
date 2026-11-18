@@ -39,7 +39,9 @@ IX. Llevar y administrar el Registro Aeronáutico Mexicano;
 
 X. Imponer las sanciones que correspondan previa substanciación del procedimiento administrativo correspondiente;
 
-XI. Otorgar las excepciones, exenciones y extensiones en materia aeroportuaria, siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico; XII. Proteger la aviación civil contra los actos de interferencia ilícita descritos en el artículo [73 BIS](articulo-73-BIS.md) de esta Ley, con el apoyo de las autoridades competentes;
+XI. Otorgar las excepciones, exenciones y extensiones en materia aeroportuaria, siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico;
+
+XII. Proteger la aviación civil contra los actos de interferencia ilícita descritos en el artículo [73 BIS](articulo-73-BIS.md) de esta Ley, con el apoyo de las autoridades competentes;
 
 XIII. Expedir y aplicar las medidas y disposiciones técnico-administrativas para salvaguardar la aviación civil contra los actos de interferencia ilícita descritos en el artículo [73 BIS](articulo-73-BIS.md) de esta Ley;
 

@@ -8,7 +8,7 @@ number: "25"
 aliases: ["LSM — Artículo 25"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf
 source_sha256: 09cfa3f2c0feead6685bda1dd439f07db0a0d105acc1ef0e6669cf0df82ce3f0
 ---

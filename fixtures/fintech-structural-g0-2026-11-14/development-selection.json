@@ -1,0 +1,413 @@
+[
+  {
+    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1020,
+          "qualifier_type": "fraction",
+          "start_char": 1019,
+          "text": "I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:article:22:reference:1019-1020:22:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+      "source_span": "I",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    },
+    "reason": "Ordinary fraction sequence and references back to the first fraction.",
+    "sample_id": "dev-01",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "ordinary_fractions",
+      "cited_numeral_not_label"
+    ]
+  },
+  {
+    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 750,
+          "qualifier_type": "fraction",
+          "start_char": 749,
+          "text": "I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:article:23:reference:749-750:23:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+      "source_span": "I",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:23"
+    },
+    "reason": "A fraction introduces nested incisos.",
+    "sample_id": "dev-02",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "nested_incisos"
+    ]
+  },
+  {
+    "canonical_text_sha256": "c17fb34f9d833f58a4c3f1c3bfc313fd0382c69b69bebd257990a9aea7878eb5",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:36",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 340,
+          "qualifier_type": "fraction",
+          "start_char": 329,
+          "text": "fracción IV"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera:reference:325-327:36:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera",
+      "source_span": "36",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:36"
+    },
+    "reason": "Short ordinary enumeration with a multi-sentence final fraction.",
+    "sample_id": "dev-03",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "ordinary_fractions"
+    ]
+  },
+  {
+    "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:61",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1736,
+          "qualifier_type": "fraction",
+          "start_char": 1735,
+          "text": "I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:article:61:reference:1735-1736:61:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:article:61",
+      "source_span": "I",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:61"
+    },
+    "reason": "Continuation paragraphs occur between fraction headings.",
+    "sample_id": "dev-04",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "intervening_continuation"
+    ]
+  },
+  {
+    "canonical_text_sha256": "717f2a088debcd2ed85c01e014e07ffb53e8e4501f3df3dac7c5a078afe22630",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:82",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 416,
+          "qualifier_type": "fraction",
+          "start_char": 405,
+          "text": "fracción VI"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:transitory:cuarta:reference:401-403:82:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:transitory:cuarta",
+      "source_span": "82",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:82"
+    },
+    "reason": "Short numbered list with a cited last fraction.",
+    "sample_id": "dev-05",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "ordinary_fractions"
+    ]
+  },
+  {
+    "canonical_text_sha256": "3be1e4ad6d6f4e44720e3f47cab7f4235c49bef18da9aaa14084b6ef97956cc9",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:89",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 664,
+          "qualifier_type": "fraction",
+          "start_char": 653,
+          "text": "fracción IV"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera:reference:649-651:89:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera",
+      "source_span": "89",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:89"
+    },
+    "reason": "Unlabelled closing paragraph follows the last fraction; complete-mode attachment requires G1.",
+    "sample_id": "dev-06",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "trailing_attachment"
+    ]
+  },
+  {
+    "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 81,
+          "qualifier_type": "fraction",
+          "start_char": 64,
+          "text": "fracciones I y II"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lritf:article:68:reference:60-62:98:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lritf:article:68",
+      "source_span": "98",
+      "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:98"
+    },
+    "reason": "Repeated inciso labels under fractions III and IV, and closing paragraphs.",
+    "sample_id": "dev-07",
+    "slug": "lritf",
+    "split": "development",
+    "strata": [
+      "repeated_child_labels",
+      "nested_incisos",
+      "trailing_attachment"
+    ]
+  },
+  {
+    "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 3218,
+          "qualifier_type": "fraction",
+          "start_char": 3208,
+          "text": "fracción I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lic:transitory:septimo:reference:3232-3234:11:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:transitory:septimo",
+      "source_span": "11",
+      "target_provision_id": "urn:lex-mx:federal:statute:lic:article:11"
+    },
+    "reason": "An incoming citation requests fraction I, absent from this entire current article.",
+    "sample_id": "dev-08",
+    "slug": "lic",
+    "split": "development",
+    "strata": [
+      "absent_label",
+      "ordinary_paragraphs",
+      "reference_is_not_gold"
+    ]
+  },
+  {
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1304,
+          "qualifier_type": "fraction",
+          "start_char": 1303,
+          "text": "I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lic:article:24:reference:1303-1304:24:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+      "source_span": "I",
+      "target_provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "reason": "Closing paragraph contains a citation, not a new structural marker.",
+    "sample_id": "dev-09",
+    "slug": "lic",
+    "split": "development",
+    "strata": [
+      "cited_numeral_not_label",
+      "trailing_attachment"
+    ]
+  },
+  {
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1621,
+          "qualifier_type": "fraction",
+          "start_char": 1604,
+          "text": "fracciones I y II"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lic:article:100:reference:1635-1637:46:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:100",
+      "source_span": "46",
+      "target_provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "reason": "Nested incisos, lowercase bis qualifier and continuation/trailing text.",
+    "sample_id": "dev-10",
+    "slug": "lic",
+    "split": "development",
+    "strata": [
+      "nested_incisos",
+      "bis",
+      "trailing_attachment"
+    ]
+  },
+  {
+    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1518,
+          "qualifier_type": "fraction",
+          "start_char": 1506,
+          "text": "fracción III"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lmv:article:117:reference:1503-1504:2:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lmv:article:117",
+      "source_span": "2",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:2"
+    },
+    "reason": "Existing definition spans, qualified fractions and repeated incisos.",
+    "sample_id": "dev-11",
+    "slug": "lmv",
+    "split": "development",
+    "strata": [
+      "defined_term_witness",
+      "bis",
+      "nested_incisos",
+      "repeated_child_labels"
+    ]
+  },
+  {
+    "canonical_text_sha256": "88b7a365dfaf710f030ba3139c144ad67dadad106fbc8b2b46ede056d9d24328",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:32",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 9574,
+          "qualifier_type": "fraction",
+          "start_char": 9563,
+          "text": "fracción II"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lmv:article:392:reference:9588-9590:32:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lmv:article:392",
+      "source_span": "32",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:32"
+    },
+    "reason": "Compact three-fraction article for an ordinary positive label query.",
+    "sample_id": "dev-12",
+    "slug": "lmv",
+    "split": "development",
+    "strata": [
+      "ordinary_fractions"
+    ]
+  },
+  {
+    "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:71",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 145,
+          "qualifier_type": "fraction",
+          "start_char": 123,
+          "text": "fracciones I, II y III"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lmv:article:81:reference:119-121:71:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lmv:article:81",
+      "source_span": "71",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:71"
+    },
+    "reason": "Final unnumbered paragraph supplies attachment challenge.",
+    "sample_id": "dev-13",
+    "slug": "lmv",
+    "split": "development",
+    "strata": [
+      "trailing_attachment"
+    ]
+  },
+  {
+    "canonical_text_sha256": "31b8dd9d8e6aeee9bd5e271a9748eed4546c7f93bc033555ee5bd0528be23072",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:128",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 820,
+          "qualifier_type": "fraction",
+          "start_char": 808,
+          "text": "fracción III"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:statute:lmv:article:129:reference:834-837:128:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lmv:article:129",
+      "source_span": "128",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:128"
+    },
+    "reason": "Citation numerals inside last fraction must not become sibling labels.",
+    "sample_id": "dev-14",
+    "slug": "lmv",
+    "split": "development",
+    "strata": [
+      "cited_numeral_not_label"
+    ]
+  },
+  {
+    "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
+    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 1765,
+          "qualifier_type": "fraction",
+          "start_char": 1753,
+          "text": "fracción III"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:23:reference:1749-1751:18:direct",
+      "source_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:23",
+      "source_span": "18",
+      "target_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18"
+    },
+    "reason": "CNBV format is an explicit unsupported-scope control for this pilot.",
+    "sample_id": "dev-15",
+    "slug": "itf-dcg-2018",
+    "split": "development",
+    "strata": [
+      "dcg_scope_abstention"
+    ]
+  },
+  {
+    "canonical_text_sha256": "f74ee76bd9127fa6c04d4276006fc7d74ea7a977cf9dac3511b809883f2138c7",
+    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "query_seed": {
+      "qualifiers": [
+        {
+          "end_char": 856,
+          "qualifier_type": "fraction",
+          "start_char": 855,
+          "text": "I"
+        }
+      ],
+      "reference_edge_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8:reference:855-856:8:direct",
+      "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+      "source_span": "I",
+      "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8"
+    },
+    "reason": "Second DCG control, even though visible Roman labels exist.",
+    "sample_id": "dev-16",
+    "slug": "ifpe-dcg-2021",
+    "split": "development",
+    "strata": [
+      "dcg_scope_abstention"
+    ]
+  }
+]

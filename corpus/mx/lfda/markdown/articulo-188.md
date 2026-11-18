@@ -33,7 +33,9 @@ d) Reproduzcan o imiten sin autorización, escudos, banderas, emblemas o signos 
 
 e) Incluyan el nombre, seudónimo o imagen de alguna persona determinada, sin consentimiento expreso del interesado, o
 
-f) Sean iguales o semejantes en grado de confusión con otro que el Instituto estime notoriamente conocido en México, salvo que el solicitante sea el titular del derecho notoriamente conocido; II. Los subtítulos;
+f) Sean iguales o semejantes en grado de confusión con otro que el Instituto estime notoriamente conocido en México, salvo que el solicitante sea el titular del derecho notoriamente conocido;
+
+II. Los subtítulos;
 
 III. Las características gráficas;
 

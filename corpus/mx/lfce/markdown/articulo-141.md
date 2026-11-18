@@ -7,8 +7,8 @@ provision_type: article
 number: "141"
 aliases: ["LFCE — Artículo 141"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -25,7 +25,9 @@ Previo a la emisión del proyecto de declaratoria, la Comisión solicitará a la
 
 La CRT tendrá un plazo de cuarenta días para presentar su dictamen técnico. Transcurrido el plazo anterior sin que la CRT emita el dictamen técnico correspondiente, la Comisión continuará el trámite correspondiente;
 
-II. El presunto Agente Económico Preponderante tendrá un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación mencionada en la fracción anterior, para que manifieste lo que a su derecho convenga y ofrezca los elementos de prueba que considere necesarios, los cuales deberán estar relacionados con el proyecto de Declaratoria de Preponderancia. En caso de no comparecer dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna del presunto Agente Económico con el proyecto de declaratoria y el expediente será turnado inmediatamente al [Pleno](articulo-3.md) para el dictado de resolución definitiva; III. Una vez concluido el plazo establecido en la fracción anterior, la Comisión se pronunciará sobre la admisión de las pruebas ofrecidas y, en su caso, ordenará abrir un periodo para su preparación y desahogo por un plazo de hasta quince días hábiles.
+II. El presunto Agente Económico Preponderante tendrá un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación mencionada en la fracción anterior, para que manifieste lo que a su derecho convenga y ofrezca los elementos de prueba que considere necesarios, los cuales deberán estar relacionados con el proyecto de Declaratoria de Preponderancia. En caso de no comparecer dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna del presunto Agente Económico con el proyecto de declaratoria y el expediente será turnado inmediatamente al [Pleno](articulo-3.md) para el dictado de resolución definitiva;
+
+III. Una vez concluido el plazo establecido en la fracción anterior, la Comisión se pronunciará sobre la admisión de las pruebas ofrecidas y, en su caso, ordenará abrir un periodo para su preparación y desahogo por un plazo de hasta quince días hábiles.
 
 Se recibirán toda clase de pruebas, excepto la confesional y la testimonial a cargo de autoridades, ni aquellas que sean improcedentes, innecesarias o contrarias a la moral y al derecho.
 

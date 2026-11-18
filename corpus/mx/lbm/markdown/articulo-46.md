@@ -25,7 +25,9 @@ II. Autorizar las órdenes de acuñación de moneda y de fabricación de billete
 
 III. Resolver sobre la desmonetización de billetes y los procedimientos para la inutilización y destrucción de moneda;
 
-IV. Resolver sobre el otorgamiento de crédito del Banco al Gobierno Federal; V. Fijar las políticas y criterios conforme a los cuales el Banco realice sus operaciones, pudiendo determinar las características de éstas y las que por su importancia deban someterse en cada caso a su previa aprobación;
+IV. Resolver sobre el otorgamiento de crédito del Banco al Gobierno Federal;
+
+V. Fijar las políticas y criterios conforme a los cuales el Banco realice sus operaciones, pudiendo determinar las características de éstas y las que por su importancia deban someterse en cada caso a su previa aprobación;
 
 VI. Autorizar las emisiones de bonos de regulación monetaria y fijar las características de éstos;
 
@@ -53,6 +55,8 @@ XVII. Aprobar las Condiciones Generales de Trabajo que deban observarse en las r
 
 XVIII. Nombrar y remover al secretario de la Junta de Gobierno, así como a su suplente, quienes deberán ser funcionarios del Banco;
 
-XIX. Nombrar y remover a los funcionarios que ocupen los tres primeros niveles jerárquicos del personal de la Institución; XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y
+XIX. Nombrar y remover a los funcionarios que ocupen los tres primeros niveles jerárquicos del personal de la Institución;
+
+XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y
 
 XXI. Resolver sobre otros asuntos que el Gobernador someta a su consideración.

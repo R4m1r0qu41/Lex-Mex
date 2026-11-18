@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
-      "provision_text_sha256": "34dbe867a7586040428d14d67a38795b590953b9f7c79afc5b8cba0b0b9326cb",
+      "provision_text_sha256": "87707b6f6c999948914493f055af8f998e7bc1003bce71d35aa501b99d746619",
       "method": "established_pass",
       "fractions": [
         "III",
@@ -17,7 +17,8 @@
         "XI",
         "XIII",
         "XIV",
-        "XV"
+        "XV",
+        "XVI"
       ],
       "unread_fractions": [],
       "invalidated_fractions": [
@@ -30,10 +31,10 @@
         "X",
         "XII"
       ],
-      "term_count": 7
+      "term_count": 8
     }
   ],
   "imports": [],
-  "term_count": 7,
-  "usage_count": 43
+  "term_count": 8,
+  "usage_count": 48
 }

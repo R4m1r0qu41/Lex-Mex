@@ -23,7 +23,9 @@ I. Iniciar leyes, decretos y presentar proposiciones ante la [Cámara](articulo-
 
 II. Asistir con voz y voto a las sesiones del Pleno;
 
-III. Integrar las comisiones y los comités, participar en sus trabajos, así como en la formulación de sus dictámenes y recomendaciones. IV. Hacer uso de la tribuna cuando el Presidente así lo autorice en los tiempos establecidos en este [Reglamento](articulo-2.md). En sus intervenciones podrá hacer las manifestaciones que considere pertinentes.
+III. Integrar las comisiones y los comités, participar en sus trabajos, así como en la formulación de sus dictámenes y recomendaciones.
+
+IV. Hacer uso de la tribuna cuando el Presidente así lo autorice en los tiempos establecidos en este [Reglamento](articulo-2.md). En sus intervenciones podrá hacer las manifestaciones que considere pertinentes.
 
 V. Asistir, con voz pero sin voto, a reuniones de comisiones o comités de las que no forme parte;
 

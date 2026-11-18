@@ -21,7 +21,9 @@ El documento en el que el Donador exprese su consentimiento para la donación en
 
 I. Nombre del Donador;
 
-II. Domicilio del Donador; III. Edad del Donador;
+II. Domicilio del Donador;
+
+III. Edad del Donador;
 
 IV. Sexo del Donador;
 

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo IV
@@ -43,7 +43,9 @@ VI. Las ausencias del Fiscal General serán suplidas en los términos que determ
 
 Corresponde al Ministerio Público de la Federación la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios federales en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine. Párrafo reformado DOF 29-01-2016
 
-La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General de la República. El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Senado de la República por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Senado no se pronunciare en este plazo, se entenderá que no tiene objeción. La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General de la República. El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Senado de la República por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Senado no se pronunciare en este plazo, se entenderá que no tiene objeción.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo de la Unión un informe de actividades. Comparecerá ante cualquiera de las Cámaras cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
@@ -61,7 +63,9 @@ Las Constituciones de las entidades federativas establecerán y garantizarán la
 
 La Comisión Nacional de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán substituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
 
-El Presidente de la Comisión Nacional de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución. La elección del titular de la presidencia de la Comisión Nacional de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, y de titulares de los organismos de protección de los derechos humanos de las entidades federativas, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley. Párrafo adicionado DOF 10-06-2011
+El Presidente de la Comisión Nacional de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+
+La elección del titular de la presidencia de la Comisión Nacional de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, y de titulares de los organismos de protección de los derechos humanos de las entidades federativas, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley. Párrafo adicionado DOF 10-06-2011
 
 El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente a los Poderes de la Unión un informe de actividades. Al efecto comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
 

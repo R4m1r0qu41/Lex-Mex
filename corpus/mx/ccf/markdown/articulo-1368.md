@@ -23,7 +23,9 @@ I. A los descendientes menores de 18 años respecto de los cuales tenga obligaci
 
 II. A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior; Fracción reformada DOF 31-12-1974
 
-III. Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente; Fracción reformada DOF 31-12-1974 IV. A los ascendientes;
+III. Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente; Fracción reformada DOF 31-12-1974
+
+IV. A los ascendientes;
 
 V. A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos; Fracción reformada DOF 31-12-1974
 

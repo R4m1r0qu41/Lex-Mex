@@ -17,7 +17,9 @@ source_sha256: f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc
 
 # Artículo 31
 
-Respecto de la correspondencia y los envíos no se asumirá responsabilidad alguna: I.- Cuando se haya entregado a las personas que tengan derecho a recibirla.
+Respecto de la correspondencia y los envíos no se asumirá responsabilidad alguna:
+
+I.- Cuando se haya entregado a las personas que tengan derecho a recibirla.
 
 II.- Por haber transcurrido seis meses a partir de la fecha de su depósito, sin que se haya hecho reclamación.
 

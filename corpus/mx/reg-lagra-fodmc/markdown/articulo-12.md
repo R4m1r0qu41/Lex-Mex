@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LAGRA-FODMC — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_FODMC.pdf
 source_sha256: 8f260ce1817a60db6bf98c15f8ddf05b57321d6b78c67eaf1e0b987f8bcc70b1
 ---

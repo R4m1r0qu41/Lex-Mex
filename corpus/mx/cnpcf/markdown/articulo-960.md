@@ -21,7 +21,9 @@ Cuando la autoridad jurisdiccional advierta en cualquier etapa del procedimiento
 
 I. Tener acceso a una computadora o dispositivo electrónico similar que tenga la capacidad de realizar videoconferencias, para lo cual es necesario que dicho equipo cuente con micrófono y cámara web;
 
-II. Contar con conexión a Internet con al menos una velocidad de 1.5 megabytes por segundo; III. Señalar un correo electrónico que esté registrado o señalado ante la autoridad jurisdiccional para ser notificado, así como para recibir el enlace o método de acceso a la sala virtual designada para llevar la audiencia o diligencia virtual, y
+II. Contar con conexión a Internet con al menos una velocidad de 1.5 megabytes por segundo;
+
+III. Señalar un correo electrónico que esté registrado o señalado ante la autoridad jurisdiccional para ser notificado, así como para recibir el enlace o método de acceso a la sala virtual designada para llevar la audiencia o diligencia virtual, y
 
 IV. Quienes comparezcan vía remota o electrónica deberán indicar el lugar y área de transmisión que ocuparán, así como los demás intervinientes a su cargo, lo que deberán hacer bajo protesta de decir verdad, cumpliendo además con lo dispuesto en este [Código Nacional](articulo-2.md).
 

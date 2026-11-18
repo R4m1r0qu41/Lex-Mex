@@ -31,7 +31,9 @@ V. Las tarifas y los precios;
 
 VI. Las reglas de operación;
 
-VII. Las medidas necesarias para la eficiente operación aeroportuaria; VIII. La solución de los conflictos entre la administración del aeropuerto y los prestadores de servicios, y
+VII. Las medidas necesarias para la eficiente operación aeroportuaria;
+
+VIII. La solución de los conflictos entre la administración del aeropuerto y los prestadores de servicios, y
 
 IX. Las quejas de los usuarios.
 

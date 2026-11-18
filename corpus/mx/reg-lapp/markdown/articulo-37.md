@@ -31,7 +31,9 @@ d) La resolución de la Comisión de Presupuesto y Cuenta Pública de la Cámara
 
 Lo dispuesto en el párrafo anterior no será aplicable para los proyectos de Asociación Público Privada que hayan sido aprobados por la Cámara de Diputados en el anexo correspondiente del Presupuesto de Egresos;
 
-II. Los proyectos que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos, deberán cumplir con lo señalado en los incisos a) y b) de la fracción anterior, y III. Los proyectos que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad señalado en el inciso a) de la fracción I de este artículo.
+II. Los proyectos que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos, deberán cumplir con lo señalado en los incisos a) y b) de la fracción anterior, y
+
+III. Los proyectos que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad señalado en el inciso a) de la fracción I de este artículo.
 
 Cuando los proyectos requieran recursos federales presupuestarios, las Dependencias o [Entidades Federales](articulo-11.md) podrán proceder conforme a lo previsto en el artículo [35](../../lfprh/markdown/articulo-35.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el objeto de iniciar el procedimiento de contratación y, en su caso, celebrar el contrato en forma oportuna.
 

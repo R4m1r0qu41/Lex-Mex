@@ -21,4 +21,6 @@ Promovida la suspensión del acto reclamado, el órgano jurisdiccional deberá a
 
 I. Concederá o negará la suspensión provisional; en el primer caso, fijará los requisitos y efectos de la medida; en el segundo caso, la autoridad responsable podrá ejecutar el acto reclamado;
 
-II. Señalará fecha y hora para la celebración de la audiencia incidental que deberá efectuarse dentro del plazo de cinco días; y III. Solicitará informe previo a las autoridades responsables, que deberán rendirlo dentro del plazo de cuarenta y ocho horas, para lo cual en la notificación correspondiente se les acompañará copia de la demanda y anexos que estime pertinentes.
+II. Señalará fecha y hora para la celebración de la audiencia incidental que deberá efectuarse dentro del plazo de cinco días; y
+
+III. Solicitará informe previo a las autoridades responsables, que deberán rendirlo dentro del plazo de cuarenta y ocho horas, para lo cual en la notificación correspondiente se les acompañará copia de la demanda y anexos que estime pertinentes.

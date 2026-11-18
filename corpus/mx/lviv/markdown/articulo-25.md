@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["LVIV — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf
 source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 ---
@@ -21,7 +21,9 @@ El Director General de la [Comisión](articulo-4.md) tendrá la representación 
 
 I. Ejercer las funciones de su competencia por acuerdo del Presidente de la República y asistir a las reuniones a que se refiere el Artículo [7](../../loapf/markdown/articulo-7o.md)o. de la Ley Orgánica de la Administración Pública Federal;
 
-II. Administrar los recursos humanos, materiales y financieros asignados a la Comisión; III. Proponer a la Junta de Gobierno la designación de los servidores públicos de las dos jerarquías inmediatas inferiores a la del propio Titular;
+II. Administrar los recursos humanos, materiales y financieros asignados a la Comisión;
+
+III. Proponer a la Junta de Gobierno la designación de los servidores públicos de las dos jerarquías inmediatas inferiores a la del propio Titular;
 
 IV. Celebrar los actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de las funciones de la Comisión;
 

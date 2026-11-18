@@ -19,7 +19,9 @@ source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 
 Quienes promuevan el despacho de las mercancías sin la intervención de una agencia aduanal o agente aduanal, deberán cumplir, sin perjuicio de las demás obligaciones previstas en esta Ley y su Reglamento, con las siguientes: Párrafo reformado DOF 25-06-2018
 
-I. Solicitar ante el Servicio de Administración Tributaria, cumpliendo con los términos y condiciones que se establezcan en el Reglamento, se les asigne un número de autorización con la finalidad de que puedan transmitir pedimentos a través del sistema electrónico aduanero. II. Transmitir al sistema electrónico aduanero en la forma y periodicidad que el Servicio de Administración Tributaria determine en reglas, la información estadística de los pedimentos.
+I. Solicitar ante el Servicio de Administración Tributaria, cumpliendo con los términos y condiciones que se establezcan en el Reglamento, se les asigne un número de autorización con la finalidad de que puedan transmitir pedimentos a través del sistema electrónico aduanero.
+
+II. Transmitir al sistema electrónico aduanero en la forma y periodicidad que el Servicio de Administración Tributaria determine en reglas, la información estadística de los pedimentos.
 
 III. Realizar los actos que le correspondan conforme a esta Ley en el despacho de las mercancías, empleando el sistema electrónico aduanero y su firma electrónica avanzada o sello digital, o bien, con el medio tecnológico de identificación que corresponda. Fracción reformada DOF 25-06-2018
 

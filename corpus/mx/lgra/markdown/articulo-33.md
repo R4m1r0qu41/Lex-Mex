@@ -23,7 +23,9 @@ I. Declaración inicial, dentro de los sesenta días naturales siguientes a la t
 
 a) Ingreso al servicio público por primera vez;
 
-b) Reingreso al servicio público después de sesenta días naturales de la conclusión de su último encargo; II. Declaración de modificación patrimonial, durante el mes de mayo de cada año, y
+b) Reingreso al servicio público después de sesenta días naturales de la conclusión de su último encargo;
+
+II. Declaración de modificación patrimonial, durante el mes de mayo de cada año, y
 
 III. Declaración de conclusión del encargo, dentro de los sesenta días naturales siguientes a la conclusión.
 

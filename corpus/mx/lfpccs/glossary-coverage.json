@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-      "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+      "provision_text_sha256": "186702b109508087d623936099abbc1805a39a01dc169b821be4c3f9496ed228",
       "method": "auto_whole",
       "fractions": [
         "I",
@@ -44,9 +44,9 @@
       "repeal_placeholders": [],
       "profile": {
         "strategy_version": "glossary-extraction-6",
-        "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+        "provision_text_sha256": "186702b109508087d623936099abbc1805a39a01dc169b821be4c3f9496ed228",
         "rationale": "Fraction XXVII writes its term before a period (`SNICS. El Servicio…`) where every other fraction uses a colon.",
-        "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
+        "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1); re-confirmed by JRH against re-spaced text (docs/held-instruments-review-2026-11-12.md, 2026-11-12)",
         "entries": [
           {
             "fraction": "XXVII",
@@ -54,7 +54,7 @@
             "terms": [
               {
                 "text": "SNICS",
-                "start_char": 6725
+                "start_char": 6727
               }
             ]
           }

@@ -21,7 +21,7 @@ Sujetos de procedimiento penal Son sujetos del procedimiento penal los siguiente
 
 I. La víctima u ofendido;
 
-II. El Asesor jurídico;
+II. El [Asesor jurídico](articulo-3o.md);
 
 III. El imputado;
 

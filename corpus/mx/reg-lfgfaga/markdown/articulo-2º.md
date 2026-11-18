@@ -29,7 +29,9 @@ IV.- Un representante del Banco Nacional de Comercio Exterior, S.N.C, Instituci�
 
 V.- Un representante de la Asociación de Bancos de México, A.C.;
 
-VI.- Un representante del Consorcio Mexicano del Seguro Agrícola Integral y Ganadero, S.A. de C.V., o aquel que lo sustituya; y VII.- Tres representantes, uno por cada uno de ellos, de los ejidatarios, pequeños agricultores y ganaderos, respectivamente, que serán designados por el Ejecutivo Federal, por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+VI.- Un representante del Consorcio Mexicano del Seguro Agrícola Integral y Ganadero, S.A. de C.V., o aquel que lo sustituya; y
+
+VII.- Tres representantes, uno por cada uno de ellos, de los ejidatarios, pequeños agricultores y ganaderos, respectivamente, que serán designados por el Ejecutivo Federal, por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 Por cada miembro propietario se designará un suplente, quien deberá suplirlo en sus ausencias y que, tratándose de servidores públicos, tendrá preferentemente el nivel jerárquico de Director General Adjunto o su equivalente en la Administración Pública Federal.
 

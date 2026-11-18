@@ -43,7 +43,9 @@ VIII. Establecimiento sujeto a reporte: Toda instalación que de acuerdo con la 
 
 IX. Ley: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-X. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos; XI. Registro: El Registro de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Medio Ambiente y Recursos Naturales, a través de la unidad administrativa correspondiente;
+X. Reciclaje: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+
+XI. Registro: El Registro de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría de Medio Ambiente y Recursos Naturales, a través de la unidad administrativa correspondiente;
 
 XII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 

@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 201"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [72]
+amendment_marks: [72,100,113]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -42,25 +42,25 @@ A-0711 Impuestos diferidos
 
 Serie R10 Reclasificaciones
 
-(100) A-1011 Reclasificaciones en el estado de situación financiera
+A-1011 Reclasificaciones en el estado de situación financiera
 
-(100) A-1012 Reclasificaciones en el estado de resultado integral
+A-1012 Reclasificaciones en el estado de resultado integral
 
 Serie R12 Consolidación
 
-(100) A-1219 Consolidación del estado de situación financiera de la casa de bolsa con sus subsidiarias
+A-1219 Consolidación del estado de situación financiera de la casa de bolsa con sus subsidiarias
 
-(100) A-1220 Consolidación del estado de resultado integral de la casa de bolsa con sus subsidiarias
+A-1220 Consolidación del estado de resultado integral de la casa de bolsa con sus subsidiarias
 
 Serie R13 Estados financieros
 
-(100) A-1311 Estado de cambios en el capital contable de la casa de bolsa
+A-1311 Estado de cambios en el capital contable de la casa de bolsa
 
 A-1316 Estado de flujos de efectivo de la casa de bolsa
 
-(100) B-1321 Estado de situación financiera de la casa de bolsa
+B-1321 Estado de situación financiera de la casa de bolsa
 
-(100) B-1322 Estado de resultado integral de la casa de bolsa
+B-1322 Estado de resultado integral de la casa de bolsa
 
 Serie R14 Información cualitativa
 
@@ -70,8 +70,8 @@ A-1414 Número de empleados
 
 Serie R18 Cuentas por pagar
 
-(113) A-1811 (Derogado)
+A-1811 (Derogado)
 
-B-1821 Desagregado de acreedores diversos y otras cuentas por pagar Las casas de bolsa requerirán de la previa autorización de la Comisión para la apertura de nuevos conceptos o niveles que no se encuentren contemplados en las series que correspondan, exclusivamente para el envío de información de las nuevas operaciones que les sean autorizadas al efecto por la Secretaría, en términos de la legislación relativa. Asimismo, en caso de que por cambios en la normativa aplicable, se requiera establecer conceptos o niveles adicionales a los previstos en las presentes disposiciones, la Comisión hará del conocimiento de las casas de bolsa la apertura de los nuevos conceptos o niveles respectivos.
+B-1821 Desagregado de acreedores diversos y otras cuentas por pagar Las casas de bolsa requerirán de la previa autorización de la Comisión para la apertura de nuevos conceptos o niveles que no se encuentren contemplados en las series que correspondan, exclusivamente para el envío de información de las nuevas operaciones que les sean autorizadas al efecto por la [Secretaría](articulo-1.md), en términos de la legislación relativa. Asimismo, en caso de que por cambios en la normativa aplicable, se requiera establecer conceptos o niveles adicionales a los previstos en las presentes disposiciones, la Comisión hará del conocimiento de las casas de bolsa la apertura de los nuevos conceptos o niveles respectivos.
 
 En los dos casos previstos en el párrafo anterior, la Comisión a través del Sistema Interinstitucional de Transferencia de Información (SITI), notificará a las casas de bolsa el mecanismo de registro y envío de la información correspondiente.

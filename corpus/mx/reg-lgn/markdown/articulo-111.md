@@ -23,4 +23,6 @@ I. Nombres, apellidos y número de expediente del [Integrante de Carrera](articu
 
 II. Motivo de la promoción;
 
-III. Fecha de otorgamiento del grado, y IV. Expresión de la clasificación Operativa o de Servicio a que pertenezcan.
+III. Fecha de otorgamiento del grado, y
+
+IV. Expresión de la clasificación Operativa o de Servicio a que pertenezcan.

@@ -21,7 +21,9 @@ Para los efectos de este Capítulo, se entenderá por consorcio, control, direct
 
 I. Actividad empresarial, la señalada en el artículo [16](../../cff/markdown/articulo-16.md) del Código Fiscal de la Federación. Quedarán excluidas las actividades habituales y profesionales de crédito que en un ejercicio representen la proporción de activos crediticios o ingresos asociados a dicha actividad, conforme a lo señalado en el artículo [8](../../lisr/markdown/articulo-8.md) de la Ley del Impuesto sobre la Renta.
 
-II. Influencia significativa, la titularidad de derechos que permitan, directa o indirectamente ejercer el voto respecto de cuando menos el veinte por ciento del capital social de una persona moral. III. Vínculo de negocio, el que derive de la celebración de convenios de inversión en el capital de otras personas morales, en virtud de los cuales se obtenga influencia significativa, quedando incluidos cualquier otro tipo de actos jurídicos que produzcan efectos similares a tales convenios de inversión.
+II. Influencia significativa, la titularidad de derechos que permitan, directa o indirectamente ejercer el voto respecto de cuando menos el veinte por ciento del capital social de una persona moral.
+
+III. Vínculo de negocio, el que derive de la celebración de convenios de inversión en el capital de otras personas morales, en virtud de los cuales se obtenga influencia significativa, quedando incluidos cualquier otro tipo de actos jurídicos que produzcan efectos similares a tales convenios de inversión.
 
 IV. Vínculo patrimonial, el que derive de la pertenencia por parte de la institución de banca múltiple a un consorcio o grupo empresarial, al que también pertenezca la persona moral.
 

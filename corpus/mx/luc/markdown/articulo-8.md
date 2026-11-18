@@ -23,6 +23,8 @@ I. Las leyes mercantiles;
 
 II. Los usos mercantiles imperantes entre las uniones;
 
-III. El Código Civil Federal; IV. La Ley Federal de Procedimiento Administrativo respecto de la tramitación de los recursos a que se refiere esta Ley, y
+III. El Código Civil Federal;
+
+IV. La Ley Federal de Procedimiento Administrativo respecto de la tramitación de los recursos a que se refiere esta Ley, y
 
 V. El Código Fiscal de la Federación respecto de la actualización de multas.

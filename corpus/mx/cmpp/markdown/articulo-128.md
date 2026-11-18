@@ -19,7 +19,9 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 Obligaciones del [Ministerio Público](articulo-3.md) Militar Para los efectos del presente [Código](articulo-3.md), el Ministerio Público tendrá las siguientes obligaciones:
 
-I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la [Constitución](articulo-3.md) y en los [Tratados](articulo-3.md); II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la [Constitución](articulo-3.md) y en los [Tratados](articulo-3.md);
+
+II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 
 III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las [Policías](articulo-3.md) y a los peritos durante ésta;
 
@@ -45,7 +47,9 @@ XIII. Decidir la aplicación de criterios de oportunidad en los casos previstos 
 
 XIV. Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, Policías, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
 
-XV. Ejercer la acción penal cuando proceda; XVI. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
+XV. Ejercer la acción penal cuando proceda;
+
+XVI. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
 
 XVII. Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
 

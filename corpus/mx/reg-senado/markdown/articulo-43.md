@@ -23,7 +23,9 @@ I. El impugnado deja de fungir como integrante de la Mesa durante el desarrollo 
 
 II. El Presidente de la Mesa precisa los términos de la moción presentada;
 
-III. Se forma una lista en la que se inscriben hasta tres oradores a favor y tres en contra, que intervienen cada uno de ellos por un lapso no mayor de diez minutos; IV. El impugnado puede inscribirse como uno de los oradores en su defensa;
+III. Se forma una lista en la que se inscriben hasta tres oradores a favor y tres en contra, que intervienen cada uno de ellos por un lapso no mayor de diez minutos;
+
+IV. El impugnado puede inscribirse como uno de los oradores en su defensa;
 
 V. No se permite ninguna otra intervención adicional a la de los oradores inscritos en el debate;
 

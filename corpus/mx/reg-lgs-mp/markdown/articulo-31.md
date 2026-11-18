@@ -19,7 +19,9 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 Cuando en el patrocinio se utilice la marca, logotipo o imagen de identificación de alguno de los productos a que se refiere este Título, se deberá cumplir con las disposiciones que para la publicidad de bebidas alcohólicas o tabaco, según sea el caso, se establecen en la [Ley](articulo-2.md) y en este Reglamento, y no se deberá incurrir en alguno de los siguientes supuestos:
 
-I. Incluir en el mensaje imperativos, imágenes, sonidos, expresiones o lemas publicitarios que se asocien con la publicidad del producto; II. Relacionar al producto con el deportista, artista o evento a patrocinar;
+I. Incluir en el mensaje imperativos, imágenes, sonidos, expresiones o lemas publicitarios que se asocien con la publicidad del producto;
+
+II. Relacionar al producto con el deportista, artista o evento a patrocinar;
 
 III. Promover el consumo del producto;
 

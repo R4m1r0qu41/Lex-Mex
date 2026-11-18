@@ -7,8 +7,8 @@ provision_type: article
 number: "30"
 aliases: ["LOPGJDF — Artículo 30"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -51,7 +51,9 @@ XV. Fiscalía Desconcentrada de Investigación en Venustiano Carranza;
 
 XVI. Fiscalía Desconcentrada de Investigación en Xochimilco;
 
-XVII. Fiscalía Desconcentrada de Investigación en Delitos Ambientales y en Materia de Protección Urbana; XVIII. Fiscalía Desconcentrada de Investigación en Agencias de Atención Especializadas;
+XVII. Fiscalía Desconcentrada de Investigación en Delitos Ambientales y en Materia de Protección Urbana;
+
+XVIII. Fiscalía Desconcentrada de Investigación en Agencias de Atención Especializadas;
 
 XIX. Unidades de Recepción por Internet (URI); y,
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["LDSCA — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf
 source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 ---
@@ -21,7 +21,9 @@ Las organizaciones nacionales, entre otros, tendrán por objeto:
 
 I. Representar los intereses de sus afiliados ante cualquier autoridad u organismo de carácter público o privado;
 
-II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas; III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
+II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
+
+III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 
 IV. Promover la instrumentación de políticas que impulsen el desarrollo equilibrado de la actividad cañera en nuestro país;
 

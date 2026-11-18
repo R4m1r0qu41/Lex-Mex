@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Séptimo · Capítulo Cuarto
+
 # Artículo 120
 
 Lo dispuesto por este Capítulo se aplicará a las entidades sólo cuando sus leyes no regulen de manera expresa la forma en que podrán resolver sus controversias.

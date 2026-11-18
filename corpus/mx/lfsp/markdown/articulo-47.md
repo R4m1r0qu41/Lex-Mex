@@ -7,8 +7,8 @@ provision_type: article
 number: "47"
 aliases: ["LFSP — Artículo 47"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf
 source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 ---
@@ -29,7 +29,9 @@ IV. Cumplir con los reglamentos y normas de seguridad emitidas para la seguridad
 
 V. Contar con equipos y programas informáticos de gestión de supervisión de alarmas y eventos, que permitan llevar un adecuado registro de dichas señales;
 
-VI. Tener un generador de energía eléctrica de servicio continuo y/o sistema alternativo que garantice un servicio de energía ininterrumpido, así como sistemas de iluminación de emergencia; VII. Tener de manera obligatoria un mínimo de dos operadores por turno, destinados a las tareas específicas de supervisión, administración y control de las señales;
+VI. Tener un generador de energía eléctrica de servicio continuo y/o sistema alternativo que garantice un servicio de energía ininterrumpido, así como sistemas de iluminación de emergencia;
+
+VII. Tener de manera obligatoria un mínimo de dos operadores por turno, destinados a las tareas específicas de supervisión, administración y control de las señales;
 
 VIII. Mantener el sistema de redundancia para asegurar la continuidad de la prestación del servicio, y
 

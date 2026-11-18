@@ -7,8 +7,8 @@ provision_type: article
 number: "100"
 aliases: ["LGV — Artículo 100"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -29,7 +29,7 @@ IV. Remitir el original de las declaraciones tomadas en forma directa, el siguie
 
 V. Orientar a la persona que solicite el ingreso sobre el trámite y efectos de la diligencia;
 
-VI. Recabar la información necesaria sobre las circunstancias de tiempo, modo y lugar que generaron el hecho victimizante, así como su caracterización socioeconómica, con el propósito de contar con información precisa que facilite su valoración, de conformidad con el principio de participación conjunta consagrado en esta Ley;
+VI. Recabar la información necesaria sobre las circunstancias de tiempo, modo y lugar que generaron el hecho victimizante, así como su caracterización socioeconómica, con el propósito de contar con información precisa que facilite su valoración, de conformidad con el principio de participación conjunta consagrado en esta [Ley](articulo-6.md);
 
 VII. Indagar las razones por las cuales no se llevó a cabo con anterioridad la solicitud de registro;
 

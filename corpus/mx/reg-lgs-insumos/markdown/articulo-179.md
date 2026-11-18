@@ -25,7 +25,9 @@ II. El proyecto de [Etiqueta](articulo-2o.md) en idioma español, en los términ
 
 III. El instructivo, si procede, para su uso o manual de operación en idioma español;
 
-IV. La descripción del proceso de fabricación que se lleva a cabo para obtener el producto; V. La descripción de la estructura, materiales, partes y funciones, cuando se trate de equipos médicos;
+IV. La descripción del proceso de fabricación que se lleva a cabo para obtener el producto;
+
+V. La descripción de la estructura, materiales, partes y funciones, cuando se trate de equipos médicos;
 
 VI. La constancia de buenas prácticas de fabricación;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "90"
 aliases: ["LGPAS — Artículo 90"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -25,6 +25,8 @@ La solicitud deberá contener, al menos, lo siguiente:
 
 I. Nombre y domicilio del solicitante;
 
-II. Entidad federativa y municipio donde pretenda llevar a cabo la actividad; III. La duración por la que pretenda sea otorgada, y
+II. Entidad federativa y municipio donde pretenda llevar a cabo la actividad;
+
+III. La duración por la que pretenda sea otorgada, y
 
 IV. Acreditar su inscripción en el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura o copia de la solicitud, si se encuentra en trámite.

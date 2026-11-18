@@ -35,4 +35,6 @@ VII. Elaborar el proyecto de acuerdo de radicación de las acciones de responsab
 
 VIII. Realizar el proyecto de devolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
 
-IX. Formular el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas, y X. Las demás que señalen las disposiciones aplicables.
+IX. Formular el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas, y
+
+X. Las demás que señalen las disposiciones aplicables.

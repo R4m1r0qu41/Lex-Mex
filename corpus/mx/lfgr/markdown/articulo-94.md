@@ -7,8 +7,8 @@ provision_type: article
 number: "94"
 aliases: ["LFGR — Artículo 94"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
 source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 ---
@@ -21,7 +21,9 @@ La persona titular del Órgano Interno de Control será designada por la Cámara
 
 La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Contar con la ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener cuando menos treinta y cinco años cumplidos a la designación del cargo; II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+I. Contar con la ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener cuando menos treinta y cinco años cumplidos a la designación del cargo;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 

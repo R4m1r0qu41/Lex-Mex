@@ -29,4 +29,4 @@ III. Datos generales de identificación del representante de la Entidad Colegiad
 
 IV. Descripción de sus procedimientos, funciones y criterios que se establecerán para efectos de dar cumplimiento a las obligaciones establecidas en la Ley, este Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen, y Fracción reformada DOF 27-03-2026
 
-V. La demás información y documentación que establezca la Secretaría mediante reglas de carácter general. Fracción reformada DOF 27-03-2026 REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+V. La demás información y documentación que establezca la Secretaría mediante reglas de carácter general. Fracción reformada DOF 27-03-2026

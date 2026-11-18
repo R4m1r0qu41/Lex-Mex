@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["LEMEFAM — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf
 source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 ---
@@ -25,7 +25,7 @@ II. Suspender las actividades académicas sin motivo justificado;
 
 III. Difundir antes de su aplicación los exámenes o cualquier otro instrumento de evaluación;
 
-IV. Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la Dirección y Rectoría;
+IV. Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la [Dirección y Rectoría](articulo-2.md);
 
 V. Permitir o realizar actividades de publicidad o comercialización dentro de las Instituciones de Educación Militar de bienes o servicios notoriamente ajenos al proceso educativo, e
 

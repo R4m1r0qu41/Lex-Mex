@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LGIFE — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf
 source_sha256: 05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8
 ---
@@ -29,7 +29,9 @@ IV. Comunidad Educativa: A la integrada por alumnos, padres de familia, personal
 
 V. Diagnóstico: Es el resultado del análisis de los datos levantados mediante la [Cédula de Información Técnica](articulo-2.md), para identificar, evaluar y calificar el nivel de seguridad, habitabilidad y pertinencia que presenta la INFE, obtenido por el Instituto o los Organismos Responsables de la INFE;
 
-VI. Evaluación de la INFE: El proceso metodológico, sistemático y documentado para determinar el nivel de cumplimiento de las Normas y Especificaciones Técnicas, así como de la normativa aplicable a la INFE; VII. Evaluador: Persona física o moral acreditada por el Instituto o por los Organismos Responsables de la INFE, para llevar a cabo el proceso de evaluación que se requiere para la Certificación de la [Calidad de la INFE](articulo-2.md);
+VI. Evaluación de la INFE: El proceso metodológico, sistemático y documentado para determinar el nivel de cumplimiento de las Normas y Especificaciones Técnicas, así como de la normativa aplicable a la INFE;
+
+VII. Evaluador: Persona física o moral acreditada por el Instituto o por los Organismos Responsables de la INFE, para llevar a cabo el proceso de evaluación que se requiere para la Certificación de la [Calidad de la INFE](articulo-2.md);
 
 VIII. INFE Estatal: INFE destinada a la educación pública en los estados en el caso de instituciones de carácter estatal;
 

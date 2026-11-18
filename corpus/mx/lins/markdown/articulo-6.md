@@ -25,7 +25,9 @@ II. Publicar los resultados de las investigaciones y trabajos que realice, integ
 
 III. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio o cooperación con instituciones afines;
 
-IV. Formar recursos humanos en sus áreas de especialización, así como en aquellas que le sean afines; V. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización de personal profesional, técnico y auxiliar, en sus áreas de especialización y afines, así como evaluar y reconocer el aprendizaje;
+IV. Formar recursos humanos en sus áreas de especialización, así como en aquellas que le sean afines;
+
+V. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización de personal profesional, técnico y auxiliar, en sus áreas de especialización y afines, así como evaluar y reconocer el aprendizaje;
 
 VI. Otorgar constancias, diplomas, reconocimientos y certificados de estudios, grados y títulos, en su caso, de conformidad con las disposiciones aplicables;
 

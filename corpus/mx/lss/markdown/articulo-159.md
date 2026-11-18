@@ -33,7 +33,9 @@ V. Retiros programados, la modalidad de obtener una pensión fraccionando el mon
 
 VI. Seguro de sobreviviencia, aquél que se contrata por los pensionados, por riesgos de trabajo, por invalidez, por cesantía en edad avanzada o por vejez, con cargo a los recursos de la suma asegurada, adicionada a los recursos de la cuenta individual a favor de sus beneficiarios para otorgarles la pensión, ayudas asistenciales y demás prestaciones en dinero previstas en los respectivos seguros, mediante la renta que se les asignará después del fallecimiento del pensionado, hasta la extinción legal de las pensiones.
 
-VII. Monto constitutivo es la cantidad de dinero que se requiere para contratar los seguros de renta vitalicia y de sobrevivencia con una institución de seguros. VIII. Suma asegurada es la cantidad que resulta de restar al monto constitutivo el saldo de la cuenta individual del trabajador.
+VII. Monto constitutivo es la cantidad de dinero que se requiere para contratar los seguros de renta vitalicia y de sobrevivencia con una institución de seguros.
+
+VIII. Suma asegurada es la cantidad que resulta de restar al monto constitutivo el saldo de la cuenta individual del trabajador.
 
 La renta vitalicia y el seguro de sobrevivencia, que otorguen de acuerdo a lo previsto en los seguros de riesgos de trabajo, invalidez y vida y retiro, cesantía en edad avanzada y vejez, las instituciones de seguros se sujetarán a las reglas de carácter general que expida la Comisión Nacional de Seguros y Fianzas, oyendo previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro. Aclaración al párrafo DOF 16-01-1996
 

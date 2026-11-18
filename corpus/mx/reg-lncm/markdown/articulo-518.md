@@ -19,7 +19,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Los Pilotos de Puerto se abstendrán de prestar el servicio en los siguientes casos:
 
-I. Cuando a juicio del Capitán de Puerto las condiciones meteorológicas lo impidan; II. Cuando sea obligatorio el uso de remolcadores y éstos no se proporcionen, o los disponibles no tengan la potencia y maniobrabilidad suficiente de acuerdo con las Reglas de Operación del Puerto, y
+I. Cuando a juicio del Capitán de Puerto las condiciones meteorológicas lo impidan;
+
+II. Cuando sea obligatorio el uso de remolcadores y éstos no se proporcionen, o los disponibles no tengan la potencia y maniobrabilidad suficiente de acuerdo con las Reglas de Operación del Puerto, y
 
 III. Cuando a juicio del Capitán de Puerto la Embarcación se encuentre en condiciones que afecten la seguridad.
 

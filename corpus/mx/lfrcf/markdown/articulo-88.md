@@ -23,7 +23,9 @@ I. Ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad, en ple
 
 II. Tener por lo menos treinta y cinco años cumplidos el día de la designación;
 
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena; IV. Haber residido en el país durante los dos años anteriores al día de la designación;
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+IV. Haber residido en el país durante los dos años anteriores al día de la designación;
 
 V. No haber sido Secretario de Estado, Fiscal o Procurador General de la República, de la Ciudad de México; Senador, Diputado Federal; Titular del Ejecutivo de alguna entidad federativa; titular o en su caso comisionado de algún órgano constitucionalmente autónomo; dirigente de algún partido político, no haber sido tesorero, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular durante el año previo al día de su nombramiento;
 

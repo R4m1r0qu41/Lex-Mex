@@ -21,7 +21,9 @@ Son causas especiales de rescisión de las relaciones de trabajo:
 
 I. La falta de asistencia del trabajador a bordo a la hora convenida para la salida o que presentándose, desembarque y no haga el viaje;
 
-II. Encontrarse el trabajador en estado de embriaguez en horas de servicio mientras el buque esté en puerto, al salir el buque o durante la navegación; III. Usar narcóticos o drogas enervantes durante su permanencia a bordo, sin prescripción médica.
+II. Encontrarse el trabajador en estado de embriaguez en horas de servicio mientras el buque esté en puerto, al salir el buque o durante la navegación;
+
+III. Usar narcóticos o drogas enervantes durante su permanencia a bordo, sin prescripción médica.
 
 Al subir a bordo, el trabajador deberá poner el hecho en conocimiento del patrón y presentarle la prescripción suscrita por el médico;
 

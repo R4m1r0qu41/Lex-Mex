@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["LGSCMM — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 ---
@@ -37,4 +37,6 @@ VII. Participación en eventos y actividades de fortalecimiento académico y for
 
 VIII. Actividades de tutoría o acompañamiento docente;
 
-IX. Las publicaciones académicas o de investigación, o X. El desempeño en el plantel o subsistema en el que realice su labor.
+IX. Las publicaciones académicas o de investigación, o
+
+X. El desempeño en el plantel o subsistema en el que realice su labor.

@@ -37,39 +37,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:62-69",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:63-70",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 62,
-    "end_char": 69
+    "start_char": 63,
+    "end_char": 70
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:351-358",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:352-359",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 351,
-    "end_char": 358
+    "start_char": 352,
+    "end_char": 359
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:546-553",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:547-554",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 546,
-    "end_char": 553
+    "start_char": 547,
+    "end_char": 554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:964-971",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:2:term-usage:965-972",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 964,
-    "end_char": 971
+    "start_char": 965,
+    "end_char": 972
   },
   {
     "schema_version": "0.1.0",
@@ -100,84 +100,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2089-2096",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2090-2097",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 2089,
-    "end_char": 2096
+    "start_char": 2090,
+    "end_char": 2097
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2459-2466",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2460-2467",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 2459,
-    "end_char": 2466
+    "start_char": 2460,
+    "end_char": 2467
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2653-2660",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2654-2661",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 2653,
-    "end_char": 2660
+    "start_char": 2654,
+    "end_char": 2661
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2792-2799",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:2793-2800",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 2792,
-    "end_char": 2799
+    "start_char": 2793,
+    "end_char": 2800
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3400-3421",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3401-3422",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 3400,
-    "end_char": 3421
+    "start_char": 3401,
+    "end_char": 3422
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3486-3510",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3487-3511",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:autoridad-administrativa",
     "span": "Autoridad Administrativa",
-    "start_char": 3486,
-    "end_char": 3510
+    "start_char": 3487,
+    "end_char": 3511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3733-3745",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3734-3746",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
     "span": "Adolescentes",
-    "start_char": 3733,
-    "end_char": 3745
+    "start_char": 3734,
+    "end_char": 3746
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3858-3869",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:3859-3870",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley-general",
     "span": "Ley General",
-    "start_char": 3858,
-    "end_char": 3869
+    "start_char": 3859,
+    "end_char": 3870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:4008-4023",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:3:term-usage:4009-4024",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 4008,
-    "end_char": 4023
+    "start_char": 4009,
+    "end_char": 4024
   },
   {
     "schema_version": "0.1.0",
@@ -847,39 +847,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1382-1403",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1383-1404",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:61",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1382,
-    "end_char": 1403
+    "start_char": 1383,
+    "end_char": 1404
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1534-1555",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1535-1556",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:61",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1534,
-    "end_char": 1555
+    "start_char": 1535,
+    "end_char": 1556
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1688-1709",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1689-1710",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:61",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1688,
-    "end_char": 1709
+    "start_char": 1689,
+    "end_char": 1710
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1900-1921",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:61:term-usage:1901-1922",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:61",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1900,
-    "end_char": 1921
+    "start_char": 1901,
+    "end_char": 1922
   },
   {
     "schema_version": "0.1.0",
@@ -1018,39 +1018,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1492-1507",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1493-1508",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:66",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1492,
-    "end_char": 1507
+    "start_char": 1493,
+    "end_char": 1508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1626-1629",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1627-1630",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:66",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 1626,
-    "end_char": 1629
+    "start_char": 1627,
+    "end_char": 1630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1634-1649",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1635-1650",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:66",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1634,
-    "end_char": 1649
+    "start_char": 1635,
+    "end_char": 1650
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1992-1995",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:66:term-usage:1993-1996",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:66",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 1992,
-    "end_char": 1995
+    "start_char": 1993,
+    "end_char": 1996
   },
   {
     "schema_version": "0.1.0",
@@ -1324,66 +1324,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3293-3314",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3294-3315",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 3293,
-    "end_char": 3314
+    "start_char": 3294,
+    "end_char": 3315
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3716-3719",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3717-3720",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 3716,
-    "end_char": 3719
+    "start_char": 3717,
+    "end_char": 3720
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3804-3811",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3805-3812",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 3804,
-    "end_char": 3811
+    "start_char": 3805,
+    "end_char": 3812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3924-3927",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:3925-3928",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 3924,
-    "end_char": 3927
+    "start_char": 3925,
+    "end_char": 3928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4299-4302",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4300-4303",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 4299,
-    "end_char": 4302
+    "start_char": 4300,
+    "end_char": 4303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4451-4475",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4452-4476",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:autoridad-administrativa",
     "span": "Autoridad Administrativa",
-    "start_char": 4451,
-    "end_char": 4475
+    "start_char": 4452,
+    "end_char": 4476
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4749-4752",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:71:term-usage:4750-4753",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:71",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 4749,
-    "end_char": 4752
+    "start_char": 4750,
+    "end_char": 4753
   },
   {
     "schema_version": "0.1.0",
@@ -1486,57 +1486,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1619-1626",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1620-1627",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 1619,
-    "end_char": 1626
+    "start_char": 1620,
+    "end_char": 1627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1785-1788",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1786-1789",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 1785,
-    "end_char": 1788
+    "start_char": 1786,
+    "end_char": 1789
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1969-1972",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:1970-1973",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 1969,
-    "end_char": 1972
+    "start_char": 1970,
+    "end_char": 1973
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2048-2055",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2049-2056",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:sistema",
     "span": "Sistema",
-    "start_char": 2048,
-    "end_char": 2055
+    "start_char": 2049,
+    "end_char": 2056
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2298-2301",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2299-2302",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 2298,
-    "end_char": 2301
+    "start_char": 2299,
+    "end_char": 2302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2489-2492",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:74:term-usage:2490-2493",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:74",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 2489,
-    "end_char": 2492
+    "start_char": 2490,
+    "end_char": 2493
   },
   {
     "schema_version": "0.1.0",
@@ -1846,12 +1846,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:100:term-usage:368-371",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:100:term-usage:369-372",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:100",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 368,
-    "end_char": 371
+    "start_char": 369,
+    "end_char": 372
   },
   {
     "schema_version": "0.1.0",
@@ -2071,48 +2071,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:463-484",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:464-485",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:119",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 463,
-    "end_char": 484
+    "start_char": 464,
+    "end_char": 485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:640-661",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:641-662",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:119",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 640,
-    "end_char": 661
+    "start_char": 641,
+    "end_char": 662
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1203-1224",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1204-1225",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:119",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1203,
-    "end_char": 1224
+    "start_char": 1204,
+    "end_char": 1225
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1313-1325",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1314-1326",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:119",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:adolescente",
     "span": "Adolescentes",
-    "start_char": 1313,
-    "end_char": 1325
+    "start_char": 1314,
+    "end_char": 1326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1894-1915",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:119:term-usage:1895-1916",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:119",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 1894,
-    "end_char": 1915
+    "start_char": 1895,
+    "end_char": 1916
   },
   {
     "schema_version": "0.1.0",
@@ -2557,12 +2557,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:179:term-usage:1936-1939",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:179:term-usage:1937-1940",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:179",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:ley",
     "span": "Ley",
-    "start_char": 1936,
-    "end_char": 1939
+    "start_char": 1937,
+    "end_char": 1940
   },
   {
     "schema_version": "0.1.0",
@@ -3061,12 +3061,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:220:term-usage:396-411",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:220:term-usage:397-412",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:220",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 396,
-    "end_char": 411
+    "start_char": 397,
+    "end_char": 412
   },
   {
     "schema_version": "0.1.0",
@@ -3214,12 +3214,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:article:234:term-usage:733-766",
+    "id": "urn:lex-mx:federal:statute:lnsijpa:article:234:term-usage:734-767",
     "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:234",
     "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:plan-individualizado-de-ejecucion",
     "span": "Plan Individualizado de Ejecución",
-    "start_char": 733,
-    "end_char": 766
+    "start_char": 734,
+    "end_char": 767
   },
   {
     "schema_version": "0.1.0",
@@ -3607,14 +3607,5 @@
     "span": "Ley",
     "start_char": 286,
     "end_char": 289
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-sexto:term-usage:827-839",
-    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:transitory:decimo-sexto",
-    "term_id": "urn:lex-mx:federal:statute:lnsijpa:term:constitucion",
-    "span": "Constitución",
-    "start_char": 827,
-    "end_char": 839
   }
 ]

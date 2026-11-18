@@ -7,8 +7,8 @@ provision_type: article
 number: "139"
 aliases: ["LDSCA — Artículo 139"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf
 source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 ---
@@ -27,7 +27,9 @@ III. Comisionar al personal que considere necesario, por iniciativa propia o a p
 
 IV. Integrar los expedientes de los asuntos en trámite, dictando todo tipo de acuerdos que para la sustanciación del procedimiento sean necesarios;
 
-V. Ordenar las investigaciones necesarias y el aprovisionamiento de datos o documentos que se encuentren relacionados con los asuntos que se ventilen ante la misma y, en su oportunidad, formular el proyecto de laudo o interlocutoria que dé por terminado el juicio arbitral, que someterá a la consideración del Pleno; VI. Encargarse de la sustanciación de los procedimientos arbitrales hasta dejarlos en estado de resolución, incluyendo la firma de las resoluciones interlocutorias que declaren improcedentes las excepciones de previo y especial pronunciamiento que no impliquen dar por concluido el juicio arbitral;
+V. Ordenar las investigaciones necesarias y el aprovisionamiento de datos o documentos que se encuentren relacionados con los asuntos que se ventilen ante la misma y, en su oportunidad, formular el proyecto de laudo o interlocutoria que dé por terminado el juicio arbitral, que someterá a la consideración del Pleno;
+
+VI. Encargarse de la sustanciación de los procedimientos arbitrales hasta dejarlos en estado de resolución, incluyendo la firma de las resoluciones interlocutorias que declaren improcedentes las excepciones de previo y especial pronunciamiento que no impliquen dar por concluido el juicio arbitral;
 
 VII. Mantener actualizado un registro de los miembros del [Comité](articulo-3.md) de cada [Ingenio](articulo-3.md) del país;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LRPCAP — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 10
 
-La información aportada por los solicitantes, refugiados, y quienes reciban protección complementaria, será tratada con la más estricta confidencialidad, con base en lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+La información aportada por los solicitantes, refugiados, y quienes reciban protección complementaria, será tratada con la más estricta confidencialidad, con base en lo establecido por la [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 Cuando para el ejercicio de sus facultades alguna autoridad requiera información relativa a solicitantes o refugiados, deberá solicitarla a la [Secretaría](articulo-2.md) y una vez que tenga acceso a la misma, deberá ser manejada con la misma confidencialidad.

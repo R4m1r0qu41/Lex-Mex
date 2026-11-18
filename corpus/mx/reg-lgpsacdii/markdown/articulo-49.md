@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["REG-LGPSACDII — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---

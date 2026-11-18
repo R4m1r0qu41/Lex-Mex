@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LGPIST — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf
 source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 ---
@@ -27,6 +27,8 @@ III. Enfoque diferencial y especializado: Al aplicar la Ley, las autoridades deb
 
 IV. No revictimización: La aplicación de las medidas necesarias y justificadas por parte de las autoridades, para que las víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes no sean impuestas mediante actos u omisiones que de algún modo, puedan llegar a agravar su condición; obstaculizar o impedir el ejercicio de sus derechos, o se les exponga a sufrir un nuevo o mayor daño;
 
-V. Perspectiva de género: En la prevención, sanción y reparación como parte de todas las diligencias que se realicen para investigar y juzgar los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, se deberá garantizar su realización libre de estereotipos y de cualquier otro elemento que, por cuestiones de sexo o género de las personas, propicien situaciones de desventaja, discriminación, violencia o desigualdad; VI. Transparencia y Acceso a la Información Pública: Se refiere a todas aquellas medidas que garanticen el derecho de acceso a la información pública, protección de datos personales y rendición de cuentas en el seguimiento y la obtención de los resultados de las investigaciones por los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, conforme a la normatividad aplicable; y
+V. Perspectiva de género: En la prevención, sanción y reparación como parte de todas las diligencias que se realicen para investigar y juzgar los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, se deberá garantizar su realización libre de estereotipos y de cualquier otro elemento que, por cuestiones de sexo o género de las personas, propicien situaciones de desventaja, discriminación, violencia o desigualdad;
+
+VI. Transparencia y Acceso a la Información Pública: Se refiere a todas aquellas medidas que garanticen el derecho de acceso a la información pública, protección de datos personales y rendición de cuentas en el seguimiento y la obtención de los resultados de las investigaciones por los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, conforme a la normatividad aplicable; y
 
 VII. Prohibición absoluta: La tortura y los tratos o penas crueles, inhumanos o degradantes se encuentran prohibidos de manera estricta, completa, incondicional e imperativa.

@@ -19,7 +19,9 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 Al frente de la Dirección General de Laboratorios Criminalísticos habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Dirigir, coordinar y supervisar las intervenciones periciales en auxilio del Ministerio Público de la Federación y otras autoridades en las especialidades periciales a su cargo; II. Proponer peritos con base a los requerimientos del Ministerio Público de la Federación, Órgano Judicial y otras autoridades;
+I. Dirigir, coordinar y supervisar las intervenciones periciales en auxilio del Ministerio Público de la Federación y otras autoridades en las especialidades periciales a su cargo;
+
+II. Proponer peritos con base a los requerimientos del Ministerio Público de la Federación, Órgano Judicial y otras autoridades;
 
 III. Coordinar y supervisar que la realización de las intervenciones periciales cumplan con los lineamientos normativos, metodológicos, técnicos y científicos así como con los instructivos de trabajo manteniendo los niveles de calidad establecidos de las especialidades que son de su competencia;
 

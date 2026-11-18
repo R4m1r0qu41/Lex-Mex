@@ -9,24 +9,24 @@ aliases: ["DCG-CUB-2005 — Artículo 306"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [2,46]
+amendment_marks: [2,46,127]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 306
 
-Las Instituciones podrán pactar la celebración de sus operaciones y la prestación de servicios con el público, a través de servicios de Banca Electrónica, debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
+Las Instituciones podrán pactar la celebración de sus operaciones y la prestación de servicios con el público, a través de servicios de [Banca Electrónica](articulo-1.md), debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
 
 I. En la contratación respectiva se establezca de manera clara y precisa, lo siguiente:
 
-a) Las operaciones y servicios que podrán proporcionarse a través de Medios Electrónicos.
+a) Las operaciones y servicios que podrán proporcionarse a través de [Medios Electrónicos](articulo-1.md).
 
-b) Los mecanismos y procedimientos de Identificación del Usuario y Autenticación, así como las responsabilidades del Usuario y de la Institución respecto del uso del servicio de Banca Electrónica.
+b) Los mecanismos y procedimientos de Identificación del [Usuario](articulo-1.md) y [Autenticación](articulo-1.md), así como las responsabilidades del Usuario y de la Institución respecto del uso del servicio de Banca Electrónica.
 
-(127) c) Los mecanismos y procedimientos para la notificación de las operaciones realizadas y servicios prestados por las Instituciones, a través del servicio de Banca Electrónica. Lo anterior en el entendido de que las Cuentas Bancarias de Nivel 1 no requerirán de los mecanismos y procedimientos referidos en el presente inciso.
+c) Los mecanismos y procedimientos para la notificación de las operaciones realizadas y servicios prestados por las Instituciones, a través del servicio de Banca Electrónica. Lo anterior en el entendido de que las [Cuentas Bancarias](articulo-1.md) de Nivel 1 no requerirán de los mecanismos y procedimientos referidos en el presente inciso.
 
 d) Los límites de los montos individuales y agregados diarios, adicionales a los establecidos por las presentes disposiciones, específicos para el servicio de Banca Electrónica de que se trate, definidos por la Institución, en su caso.
 

@@ -9,31 +9,31 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 99"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,161,162,219,220,323]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo IV
 
 # Artículo 2 Bis 99
 
-Las Instituciones deberán clasificar sus Operaciones en atención al riesgo de mercado conforme a lo siguiente:
+Las Instituciones deberán clasificar sus [Operaciones](articulo-1.md) en atención al riesgo de mercado conforme a lo siguiente:
 
 I. Operaciones en moneda nacional, con tasa de interés nominal o con rendimiento referido a ésta.
 
-(220) II. Operaciones en UDIS, UMA, así como en moneda nacional con tasa de interés real o con rendimiento referido a esta.
+II. Operaciones en UDIS, UMA, así como en moneda nacional con tasa de interés real o con rendimiento referido a esta.
 
-(323) III. Derogado.
+III. Derogado.
 
 IV. Operaciones en divisas o indizadas a tipos de cambio, con tasa de interés.
 
-(219) V. Operaciones en UDIS, UMA, así como en moneda nacional con rendimiento referido al INPC.
+V. Operaciones en UDIS, UMA, así como en moneda nacional con rendimiento referido al [INPC](articulo-1.md).
 
-(323) VI. Derogado.
+VI. Derogado.
 
 VII. Operaciones en divisas o indizadas a tipos de cambio.
 
-(161) VIII. Operaciones con acciones y sobre acciones, o cuyo rendimiento esté referido a la variación en el precio de una acción, de una canasta de acciones o de un índice accionario, con certificados bursátiles fiduciarios inmobiliarios, de desarrollo e indizados.
+VIII. Operaciones con acciones y sobre acciones, o cuyo rendimiento esté referido a la variación en el precio de una acción, de una canasta de acciones o de un índice accionario, con certificados bursátiles fiduciarios inmobiliarios, de desarrollo e indizados.
 
-(162) IX. Operaciones con Mercancías, o cuyo rendimiento esté referido a la variación en el precio de una mercancía, de una canasta de Mercancías o de un índice referido a estas.
+IX. Operaciones con [Mercancías](articulo-1.md), o cuyo rendimiento esté referido a la variación en el precio de una mercancía, de una canasta de Mercancías o de un índice referido a estas.

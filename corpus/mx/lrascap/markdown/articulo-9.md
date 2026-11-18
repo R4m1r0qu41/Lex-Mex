@@ -19,7 +19,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 En el folio electrónico del registro a que se refiere el Artículo [7](articulo-7.md) anterior, correspondiente a cada Sociedad Cooperativa de Ahorro y Préstamo, se anotarán los asientos registrales siguientes:
 
-I. La denominación social. II. El domicilio social.
+I. La denominación social.
+
+II. El domicilio social.
 
 III. Los datos relativos a su constitución.
 

@@ -69,7 +69,9 @@ XVII. Participar en la coordinación de los programas en que la educación sea u
 
 XVIII. Intervenir, en los términos que defina la ley, en programas institucionales, regionales y sectoriales de inclusión social que tengan un componente educativo, dirigidos a la población que vive en situación de pobreza extrema; Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
 
-XIX. Coordinar con los organismos sectorizados la elaboración de los programas nacionales de educación, deporte y juventud; Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018 XX. En coordinación con las autoridades educativas de las entidades federativas, diseñar y aplicar las políticas y programas tendientes a hacer efectivo el derecho a la educación; Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
+XIX. Coordinar con los organismos sectorizados la elaboración de los programas nacionales de educación, deporte y juventud; Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
+
+XX. En coordinación con las autoridades educativas de las entidades federativas, diseñar y aplicar las políticas y programas tendientes a hacer efectivo el derecho a la educación; Fracción derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
 
 XXI. Establecer los acuerdos para cumplir lo dispuesto por el artículo 3o. constitucional y promover la participación social en la materia; Fracción reformada DOF 28-12-1994. Derogada DOF 17-12-2015. Adicionada DOF 30-11-2018
 
@@ -89,7 +91,9 @@ XXVIII. Orientar las actividades recreativas y deportivas que realice el sector 
 
 XXIX. Establecer los criterios educativos en la producción cinematográfica, de radio y televisión y en la industria editorial; Fracción reformada DOF 29-12-1982, 17-12-2015
 
-XXX. Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centros de estudio, programas de recreación y de atención a los problemas de los jóvenes, así como crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran; Fracción reformada DOF 30-11-2018 XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional, cuando se trate de cuestiones educativas, y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras públicas que tengan preponderantemente fines educativos, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia proponga la Secretaría de Cultura; Fracción adicionada DOF 30-11-2000. Reformada DOF 09-04-2012, 17-12-2015, 30-11-2018
+XXX. Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centros de estudio, programas de recreación y de atención a los problemas de los jóvenes, así como crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran; Fracción reformada DOF 30-11-2018
+
+XXX Bis. Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional, cuando se trate de cuestiones educativas, y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras públicas que tengan preponderantemente fines educativos, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia proponga la Secretaría de Cultura; Fracción adicionada DOF 30-11-2000. Reformada DOF 09-04-2012, 17-12-2015, 30-11-2018
 
 XXXI. Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo con las autoridades educativas de las entidades federativas y de los municipios, con el magisterio nacional, con instituciones especializadas en educación, con agrupaciones ciudadanas, organizaciones sociales y demás actores sociales en la materia; Fracción adicionada DOF 30-11-2018
 

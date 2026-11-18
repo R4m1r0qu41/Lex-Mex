@@ -191,14 +191,7 @@
     "end_char": 49,
     "target_instrument_id": "urn:lex-mx:federal:statute:lppddhp",
     "target_provision_id": "urn:lex-mx:federal:statute:lppddhp:article:32",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 303,
-        "end_char": 315
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

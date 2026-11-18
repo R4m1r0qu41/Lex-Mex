@@ -7,8 +7,8 @@ provision_type: article
 number: "90"
 aliases: ["LFCE — Artículo 90"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -17,7 +17,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 90
 
-Para el desahogo del procedimiento de notificación, se estará a lo siguiente: I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a XII del [artículo anterior](articulo-89.md), la [Comisión](articulo-3.md), dentro de los diez días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de diez días, presenten la información faltante. Dicho plazo podrá ser prorrogado a solicitud del notificante en casos debidamente justificados;
+Para el desahogo del procedimiento de notificación, se estará a lo siguiente:
+
+I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a XII del [artículo anterior](articulo-89.md), la [Comisión](articulo-3.md), dentro de los diez días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de diez días, presenten la información faltante. Dicho plazo podrá ser prorrogado a solicitud del notificante en casos debidamente justificados;
 
 II. En caso de no desahogarse la prevención dentro del término previsto en la fracción anterior, la Comisión, dentro de los diez días siguientes al vencimiento del plazo, emitirá y notificará el acuerdo mediante el cual determine la no presentación de la notificación de concentración;
 

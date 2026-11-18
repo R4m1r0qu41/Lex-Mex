@@ -27,7 +27,9 @@ III. Las adquisiciones y arrendamientos de equipos y sistemas de cómputo se rea
 
 IV. Se prohíben contrataciones de seguros de ahorro en beneficio de los servidores públicos con recursos del Estado, tal como el Seguro de Separación Individualizado, o las cajas de ahorro especiales; lo anterior, con excepción de aquellos cuya obligación de otorgarlos derive de ley, contratos colectivos de trabajo o Condiciones Generales de Trabajo;
 
-V. Los vehículos aéreos propiedad del Poder Ejecutivo Federal, atendiendo a las particularidades del bien correspondiente, serán destinados a actividades de seguridad, defensa, marina, fuerza aérea, de protección civil, así como al traslado de enfermos. Los que no cumplan con esta función serán enajenados asegurando las mejores condiciones para el Estado; VI. No se realizarán gastos de oficina innecesarios. En ningún caso se autorizará la compra de bienes e insumos mientras haya suficiencia de los mismos en las oficinas o almacenes, considerando el tiempo de reposición;
+V. Los vehículos aéreos propiedad del Poder Ejecutivo Federal, atendiendo a las particularidades del bien correspondiente, serán destinados a actividades de seguridad, defensa, marina, fuerza aérea, de protección civil, así como al traslado de enfermos. Los que no cumplan con esta función serán enajenados asegurando las mejores condiciones para el Estado;
+
+VI. No se realizarán gastos de oficina innecesarios. En ningún caso se autorizará la compra de bienes e insumos mientras haya suficiencia de los mismos en las oficinas o almacenes, considerando el tiempo de reposición;
 
 VII. Se prohíbe remodelar oficinas por cuestiones estéticas o comprar mobiliario de lujo, y
 

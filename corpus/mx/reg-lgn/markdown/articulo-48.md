@@ -31,7 +31,7 @@ IV. Presentar demandas, desistirse o formular su contestación, reconvenir a la 
 
 V. Presentar demandas y contestarlas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones, así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios contenciosos administrativo en línea;
 
-VI. Obtener la firma electrónica avanzada, la clave de acceso y contraseña a través del Sistema de Justicia en Línea del Tribunal Federal de Justicia Administrativa;
+VI. Obtener la firma electrónica avanzada, la clave de acceso y contraseña a través del [Sistema](articulo-2.md) de Justicia en Línea del Tribunal Federal de Justicia Administrativa;
 
 VII. Proporcionar la opinión y asesoría jurídica que requiera el Comandante, los Titulares de las unidades, de la Institución, así como el [Consejo de Carrera](articulo-2.md) y los Consejos de Disciplina, con motivo del desempeño de sus funciones, además de fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulen la Institución;
 
@@ -41,7 +41,9 @@ IX. Requerir a las demás Unidades de la Institución, por escrito y cualquier m
 
 X. Emitir opiniones, conforme a las disposiciones jurídicas aplicables, sobre proyectos de leyes, decretos, reglamentos, acuerdos, circulares, manuales, convenios y contratos relacionados con la competencia de la Institución, que le sean sometidos a su consideración, así como bases de coordinación con las autoridades locales, dependencias o entidades de la Administración Pública Federal, de los sectores público y privado, para el desarrollo y operación de las acciones y programas del ámbito de competencia de la Institución;
 
-XI. Asesorar a las Unidades de la Institución en los procedimientos de licitación y adjudicación de contratos y convenios; XII. Llevar el registro y control de convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Institución;
+XI. Asesorar a las Unidades de la Institución en los procedimientos de licitación y adjudicación de contratos y convenios;
+
+XII. Llevar el registro y control de convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Institución;
 
 XIII. Participar en los procesos de actualización y adecuación del orden jurídico-normativo que rige el funcionamiento de la Institución;
 

@@ -27,7 +27,9 @@ III. Firmar los Programas de manejo, estudios técnicos y demás documentación 
 
 IV. Asesorar y dirigir trabajos de establecimiento y aprovechamiento de Plantaciones forestales comerciales;
 
-V. Asesorar y dirigir la recolección de Germoplasma y la producción de plantas para Forestación y Reforestación; VI. Asesorar y dirigir trabajos de Restauración forestal;
+V. Asesorar y dirigir la recolección de Germoplasma y la producción de plantas para Forestación y Reforestación;
+
+VI. Asesorar y dirigir trabajos de Restauración forestal;
 
 VII. Realizar diagnósticos sobre Plagas y Enfermedades forestales;
 

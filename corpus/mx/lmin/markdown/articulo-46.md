@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["LMIN — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
 source_sha256: 22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746
 ---
@@ -25,7 +25,9 @@ II.- Los títulos de asignación minera y las declaratorias de nulidad o cancela
 
 III. Los decretos que declaren reservas mineras o que supriman zonas de éstas; Fracción reformada DOF 08-05-2023
 
-IV.- Las resoluciones de ocupación temporal y constitución de servidumbre, al igual que las que se emitan sobre su insubsistencia; V.- Las resoluciones expedidas por autoridad judicial o administrativa que afecten concesiones mineras o los derechos que de ellas deriven;
+IV.- Las resoluciones de ocupación temporal y constitución de servidumbre, al igual que las que se emitan sobre su insubsistencia;
+
+V.- Las resoluciones expedidas por autoridad judicial o administrativa que afecten concesiones mineras o los derechos que de ellas deriven;
 
 VI. La transmisión de la titularidad de concesiones; Fracción reformada DOF 28-04-2005, 08-05-2023
 

@@ -289,30 +289,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:1533-1536",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:1534-1537",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 1533,
-    "end_char": 1536
+    "start_char": 1534,
+    "end_char": 1537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:2218-2222",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:2219-2223",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:anam",
     "span": "ANAM",
-    "start_char": 2218,
-    "end_char": 2222
+    "start_char": 2219,
+    "end_char": 2223
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:2517-2520",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:7:term-usage:2518-2521",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 2517,
-    "end_char": 2520
+    "start_char": 2518,
+    "end_char": 2521
   },
   {
     "schema_version": "0.1.0",
@@ -766,12 +766,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:38-b:term-usage:638-641",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:38-b:term-usage:639-642",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:38-b",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 638,
-    "end_char": 641
+    "start_char": 639,
+    "end_char": 642
   },
   {
     "schema_version": "0.1.0",
@@ -1288,12 +1288,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:81:term-usage:1151-1154",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:81:term-usage:1152-1155",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:81",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:ley",
     "span": "Ley",
-    "start_char": 1151,
-    "end_char": 1154
+    "start_char": 1152,
+    "end_char": 1155
   },
   {
     "schema_version": "0.1.0",
@@ -1324,12 +1324,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:82:term-usage:827-830",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:82:term-usage:828-831",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:82",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 827,
-    "end_char": 830
+    "start_char": 828,
+    "end_char": 831
   },
   {
     "schema_version": "0.1.0",
@@ -1765,21 +1765,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:117:term-usage:2379-2382",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:117:term-usage:2380-2383",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:117",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 2379,
-    "end_char": 2382
+    "start_char": 2380,
+    "end_char": 2383
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:117:term-usage:2547-2550",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:117:term-usage:2548-2551",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:117",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:ley",
     "span": "Ley",
-    "start_char": 2547,
-    "end_char": 2550
+    "start_char": 2548,
+    "end_char": 2551
   },
   {
     "schema_version": "0.1.0",
@@ -2134,12 +2134,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:138:term-usage:2164-2167",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:138:term-usage:2165-2168",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:ley",
     "span": "Ley",
-    "start_char": 2164,
-    "end_char": 2167
+    "start_char": 2165,
+    "end_char": 2168
   },
   {
     "schema_version": "0.1.0",
@@ -2557,12 +2557,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:162:term-usage:1007-1010",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:162:term-usage:1008-1011",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:162",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 1007,
-    "end_char": 1010
+    "start_char": 1008,
+    "end_char": 1011
   },
   {
     "schema_version": "0.1.0",
@@ -2953,30 +2953,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:941-944",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:942-945",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:180",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 941,
-    "end_char": 944
+    "start_char": 942,
+    "end_char": 945
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:981-984",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:982-985",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:180",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 981,
-    "end_char": 984
+    "start_char": 982,
+    "end_char": 985
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:1392-1395",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:180:term-usage:1393-1396",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:180",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 1392,
-    "end_char": 1395
+    "start_char": 1393,
+    "end_char": 1396
   },
   {
     "schema_version": "0.1.0",
@@ -3007,39 +3007,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:470-473",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:471-474",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:183",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 470,
-    "end_char": 473
+    "start_char": 471,
+    "end_char": 474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:537-565",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:538-566",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:183",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sistema-electronico-aduanero",
     "span": "Sistema Electrónico Aduanero",
-    "start_char": 537,
-    "end_char": 565
+    "start_char": 538,
+    "end_char": 566
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:618-621",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:619-622",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:183",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 618,
-    "end_char": 621
+    "start_char": 619,
+    "end_char": 622
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:659-662",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:183:term-usage:660-663",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:183",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:ley",
     "span": "Ley",
-    "start_char": 659,
-    "end_char": 662
+    "start_char": 660,
+    "end_char": 663
   },
   {
     "schema_version": "0.1.0",
@@ -3133,12 +3133,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:189:term-usage:780-783",
+    "id": "urn:lex-mx:federal:regulation:reg-ladua:article:189:term-usage:781-784",
     "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:189",
     "term_id": "urn:lex-mx:federal:regulation:reg-ladua:term:sat",
     "span": "SAT",
-    "start_char": 780,
-    "end_char": 783
+    "start_char": 781,
+    "end_char": 784
   },
   {
     "schema_version": "0.1.0",

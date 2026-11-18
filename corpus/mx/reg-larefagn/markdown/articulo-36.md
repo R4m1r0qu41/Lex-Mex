@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["REG-LAREFAGN — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf
 source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 ---
@@ -53,6 +53,8 @@ Masculino Hasta 25 De 26 a 30 De 31 a 35 De 36 a 40 De 41 a 45 De 46 a 50 De 51 
 
 Femenino Hasta 25 De 26 a 30 De 31 a 5 De 36 a 40 De 41 a 45 De 46 a 50 De 51 años o Puntos años años años años años años más 12 11 10 9 8 7 6 30 11 10 9 8 7 6 5 25 10 9 8 7 6 5 4 20 9 8 7 6 5 4 3 15 8 7 6 5 4 3 2 10 7 6 5 4 3 2 1 5 Menos de Menos de Menos de Menos de Menos de Menos de Menos de 0 7 6 5 4 3 2 1
 
-El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y II. Para resultar apto se debe obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), para lo cual es obligatorio presentar los tres ejercicios y obtener la puntuación mínima en cada uno de dichos ejercicios. Fracción reformada DOF 03-05-2023
+El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
+
+II. Para resultar apto se debe obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), para lo cual es obligatorio presentar los tres ejercicios y obtener la puntuación mínima en cada uno de dichos ejercicios. Fracción reformada DOF 03-05-2023
 
 Artículo reformado DOF 03-06-2019, 22-07-2021

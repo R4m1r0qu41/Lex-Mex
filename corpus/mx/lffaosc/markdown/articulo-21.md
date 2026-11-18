@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LFFAOSC — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf
 source_sha256: aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09
 ---

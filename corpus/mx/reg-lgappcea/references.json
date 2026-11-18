@@ -70,19 +70,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13:reference:2879-2881:16:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13:reference:2880-2882:16:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13",
     "source_span": "16",
-    "start_char": 2879,
-    "end_char": 2881,
+    "start_char": 2880,
+    "end_char": 2882,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
     "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 2853,
-        "end_char": 2865
+        "start_char": 2854,
+        "end_char": 2866
       }
     ],
     "basis": "express_cross_reference",

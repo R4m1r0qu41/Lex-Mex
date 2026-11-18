@@ -29,7 +29,9 @@ IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privac
 
 V. El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
 
-VI. Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta; VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
+VI. Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
+
+VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
 
 VIII. Los deudores del incapacitado en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["REG-LOINAH — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -31,7 +31,9 @@ V. Gestionar los recursos financieros y apoyos necesarios para el desarrollo de 
 
 VI. Implementar y desarrollar foros, coloquios, simposios, diplomados, ciclos de conferencias y congresos, que promuevan el intercambio académico con especialistas de instituciones nacionales y extranjeras;
 
-VII. Proponer a su superior jerárquico el anteproyecto de presupuesto anual, atendiendo a las necesidades de las unidades administrativas bajo su adscripción; VIII. Proporcionar la información solicitada por el Consejo General Consultivo, los consejos de área y demás órganos colegiados del [Instituto](articulo-2.md);
+VII. Proponer a su superior jerárquico el anteproyecto de presupuesto anual, atendiendo a las necesidades de las unidades administrativas bajo su adscripción;
+
+VIII. Proporcionar la información solicitada por el Consejo General Consultivo, los consejos de área y demás órganos colegiados del [Instituto](articulo-2.md);
 
 IX. Expedir copias certificadas y constancias de los documentos que obren en los archivos de la unidad administrativa a su cargo, incluyendo documentos electrónicos;
 

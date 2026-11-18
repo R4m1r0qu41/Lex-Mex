@@ -19,7 +19,9 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 La convocante procederá a declarar desierto el concurso, cuando todas las propuestas no reúnan los requisitos solicitados en las bases, o cuando sus ofertas económicas no fueren aceptables.
 
-La convocante podrá cancelar un concurso: I. Por caso fortuito o fuerza mayor;
+La convocante podrá cancelar un concurso:
+
+I. Por caso fortuito o fuerza mayor;
 
 II. Cuando se modifiquen sustancialmente las condiciones para el desarrollo del proyecto;
 

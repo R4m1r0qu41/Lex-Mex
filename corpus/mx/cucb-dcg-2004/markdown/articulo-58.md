@@ -28,7 +28,7 @@ III. Fecha, hora y número de folio de registro de las órdenes.
 
 IV. Fecha y hora de la transmisión de posturas a la bolsa de valores de que se trate.
 
-V. Bolsa de valores a la que se transmitió la orden, incluyendo a las bolsas de valores extranjeras con las cuales las bolsas de valores hayan celebrado un acuerdo en términos del artículo 244, fracción X de la Ley.
+V. Bolsa de valores a la que se transmitió la orden, incluyendo a las bolsas de valores extranjeras con las cuales las bolsas de valores hayan celebrado un acuerdo en términos del artículo 244, fracción X de la [Ley](articulo-1.md).
 
 VI. Hora y folio del hecho en la bolsa de valores en la que se ejecutó la orden.
 

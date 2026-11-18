@@ -1,0 +1,39 @@
+Traceback (most recent call last):
+  File "/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/prompts/duckdb-bounded-benchmark.py", line 225, in <module>
+    main()
+    ~~~~^^
+  File "/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/prompts/duckdb-bounded-benchmark.py", line 206, in main
+    worker(args.worker, args.output.resolve())
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/prompts/duckdb-bounded-benchmark.py", line 82, in worker
+    connection.execute(f'''CREATE TABLE {table} AS SELECT * FROM
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        read_csv(?, header=true, columns={types}, nullstr='\\N',
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        allow_quoted_nulls=false)''', [str(directory / f'{table}.csv')])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_duckdb.InvalidInputException: Invalid Input Error: The CSV Parser state machine reached an invalid state.
+This can happen when is not possible to parse your CSV File with the given options, or the CSV File is not RFC 4180 compliant 
+Possible fixes:
+* Disable the parser's strict mode (strict_mode=false) to allow reading rows that do not comply with the CSV standard.
+
+  file = /Users/jr/Dev/lex-mex/.delta/worktrees/fvbw6mtsz0er/Lex-Mex/.work/duckdb-benchmark-01/provisions.csv
+  delimiter = , (Auto-Detected)
+  quote = " (Auto-Detected)
+  escape = (empty) (Auto-Detected)
+  new_line = Single-Line File (Auto-Detected)
+  header = true (Set By User)
+  skip_rows = 0 (Auto-Detected)
+  comment = (empty) (Auto-Detected)
+  strict_mode = true (Auto-Detected)
+  date_format =  (Auto-Detected)
+  timestamp_format =  (Auto-Detected)
+  null_padding = 0
+  sample_size = 20480
+  ignore_errors = false
+  all_varchar = 0
+
+
+
+LINE 2:                 read_csv(?, header=true, columns={'id':'VARCHAR','instrumen...
+                        ^

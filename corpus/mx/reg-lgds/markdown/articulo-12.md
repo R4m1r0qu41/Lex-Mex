@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LGDS — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf
 source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 ---
@@ -53,7 +53,9 @@ II. Los objetivos, políticas, estrategias, prioridades, acciones y metas nacion
 
 III. La estimación de los recursos, fuentes de financiamiento, así como la determinación de los instrumentos y de las dependencias o entidades de la Administración Pública Federal responsables de su ejecución;
 
-IV. Los mecanismos de coordinación entre los diferentes órdenes de gobierno, así como de concertación con los sectores social y privado; V. Los mecanismos de participación ciudadana en la planeación, definición, ejecución, monitoreo y evaluación de políticas públicas y programas de desarrollo social;
+IV. Los mecanismos de coordinación entre los diferentes órdenes de gobierno, así como de concertación con los sectores social y privado;
+
+V. Los mecanismos de participación ciudadana en la planeación, definición, ejecución, monitoreo y evaluación de políticas públicas y programas de desarrollo social;
 
 VI. Los mecanismos de transparencia, de rendición de cuentas y de contraloría social que serán impulsados en los programas de desarrollo social, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["REG-LFSA — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -25,6 +25,8 @@ II. Animales de producción, incluyendo los de abasto;
 
 III. Animales de trabajo, como los de carga, monta, tiro, terapia, asistencia, guías, rescate, detectores, guardia y protección;
 
-IV. Animales de entretenimiento, y los de fauna silvestre en cautiverio, cuando impliquen un riesgo zoosanitario; V. Animales para la investigación y educación, y
+IV. Animales de entretenimiento, y los de fauna silvestre en cautiverio, cuando impliquen un riesgo zoosanitario;
+
+V. Animales para la investigación y educación, y
 
 VI. Animales silvestres y ferales, cuando impliquen un riesgo zoosanitario.

@@ -23,6 +23,8 @@ I. Reservas Operativas;
 
 II. Reserva de Operación para Contingencias y Financiamiento;
 
-III. Reservas Financieras y Actuariales, y IV. Reserva General Financiera y Actuarial.
+III. Reservas Financieras y Actuariales, y
+
+IV. Reserva General Financiera y Actuarial.
 
 Artículo reformado DOF 20-12-2001

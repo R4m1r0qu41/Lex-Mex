@@ -35,7 +35,9 @@ VII. Identificar los expedientes que integran las series documentales que hayan 
 
 VIII. Integrar a sus respectivos expedientes, el registro de los procesos de disposición documental, incluyendo dictámenes, actas e inventarios;
 
-IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración; X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o al [Archivo General](articulo-4.md), o equivalente en las entidades federativas, según corresponda, y
+IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
+
+X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o al [Archivo General](articulo-4.md), o equivalente en las entidades federativas, según corresponda, y
 
 XI. Las que establezca el [Consejo Nacional](articulo-4.md) y las disposiciones jurídicas aplicables.
 

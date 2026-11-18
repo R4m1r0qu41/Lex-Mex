@@ -19,7 +19,9 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 Podrán participar en el Premio Nacional de Exportación todos los exportadores nacionales y las empresas e instituciones públicas o privadas, establecidas en México, que pertenezcan a las siguientes categorías:
 
-I. Empresas industriales pequeñas; II. Empresas industriales medianas;
+I. Empresas industriales pequeñas;
+
+II. Empresas industriales medianas;
 
 III. Empresas industriales grandes;
 

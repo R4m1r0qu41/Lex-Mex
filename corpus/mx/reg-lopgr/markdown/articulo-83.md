@@ -33,6 +33,8 @@ VI. Elaborar las propuestas de procedimientos para el trámite y manejo de docum
 
 VII. Proponer al Titular de la Policía mecanismos de intercambio de información con autoridades federales, del Distrito Federal, estatales y municipales, de conformidad con la normatividad y los convenios celebrados por la Procuraduría;
 
-VIII. Proponer al Titular de la Policía la asignación del personal de la Dirección General, a las unidades administrativas que integren su organización regional para el análisis y procesamiento de la información; IX. Verificar el proceso de recepción, sistematización e incorporación de la información relacionada con los mandamientos judiciales y ministeriales atendidos por las unidades administrativas que integren su organización regional, al Sistema de Plataforma México, y
+VIII. Proponer al Titular de la Policía la asignación del personal de la Dirección General, a las unidades administrativas que integren su organización regional para el análisis y procesamiento de la información;
+
+IX. Verificar el proceso de recepción, sistematización e incorporación de la información relacionada con los mandamientos judiciales y ministeriales atendidos por las unidades administrativas que integren su organización regional, al Sistema de Plataforma México, y
 
 X. Las demás que le confieran otras disposiciones o el Titular de la Policía.

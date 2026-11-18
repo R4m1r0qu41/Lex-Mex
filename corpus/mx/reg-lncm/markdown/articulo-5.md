@@ -21,4 +21,6 @@ En la interpretación que tanto la Secretaría como las demás autoridades compe
 
 I. A los Artefactos Navales les será aplicable una regulación idéntica a la prevista para las Embarcaciones, cuando así se establezca en forma expresa en este Reglamento;
 
-II. Para determinar la clasificación de un Artefacto Naval extranjero, que de acuerdo a sus características pudiera ser considerado Embarcación, la [Dirección General](articulo-10.md), para determinar la diferenciación en el tratamiento jurídico entre ambas categorías, deberá estarse a lo establecido en los Tratados Internacionales aplicables, o bien, en las reglas internacionales incorporadas por referencia en la Ley, y III. Los principios jurídicos que deriven directamente de la Ley, así como de las normas legales, tratados y reglas internacionales existentes en la materia.
+II. Para determinar la clasificación de un Artefacto Naval extranjero, que de acuerdo a sus características pudiera ser considerado Embarcación, la [Dirección General](articulo-10.md), para determinar la diferenciación en el tratamiento jurídico entre ambas categorías, deberá estarse a lo establecido en los Tratados Internacionales aplicables, o bien, en las reglas internacionales incorporadas por referencia en la Ley, y
+
+III. Los principios jurídicos que deriven directamente de la Ley, así como de las normas legales, tratados y reglas internacionales existentes en la materia.

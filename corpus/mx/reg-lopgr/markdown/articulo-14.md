@@ -25,7 +25,9 @@ II. Resolver en definitiva el ejercicio de las atribuciones a que se refiere el 
 
 Podrán desahogar las prevenciones que la autoridad judicial acuerde en los términos de la ley, respecto de la omisión de formular conclusiones en el término legal o de conclusiones presentadas en un proceso penal cuya consecuencia sea el sobreseimiento del mismo, o, igualmente, respecto de cualquier incidente procesal que tuviere como resultado la libertad absoluta del inculpado antes de que se pronuncie sentencia; todo lo señalado en este párrafo, con independencia de las atribuciones conferidas a los Delegados.
 
-La facultad contenida en la fracción VI del artículo 8 de la Ley Orgánica corresponderá exclusivamente al Titular de la Subprocuraduría Especializada en Investigación de Delincuencia Organizada; III. Participar, en coordinación con las unidades administrativas y órganos desconcentrados competentes de la Institución, en la formulación de anteproyectos de iniciativas de leyes, tratados internacionales, acuerdos interinstitucionales, decretos, reglamentos, y demás instrumentos normativos que se relacionen con los asuntos materia de su competencia;
+La facultad contenida en la fracción VI del artículo 8 de la Ley Orgánica corresponderá exclusivamente al Titular de la Subprocuraduría Especializada en Investigación de Delincuencia Organizada;
+
+III. Participar, en coordinación con las unidades administrativas y órganos desconcentrados competentes de la Institución, en la formulación de anteproyectos de iniciativas de leyes, tratados internacionales, acuerdos interinstitucionales, decretos, reglamentos, y demás instrumentos normativos que se relacionen con los asuntos materia de su competencia;
 
 IV. Organizar, coordinar, dirigir y evaluar las unidades administrativas que le estén adscritas;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LBIO — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf
 source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 ---
@@ -35,7 +35,9 @@ VII. Estrategia: La Estrategia Nacional de Transición Energética;
 
 VIII. Expendio al Público: La enajenación al menudeo hacia el consumidor final, en instalaciones con fin específico o multimodal, incluyendo estaciones de servicio, de compresión y de carburación, entre otras;
 
-IX. Ley: La Ley de Biocombustibles; X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
+IX. Ley: La Ley de Biocombustibles;
+
+X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
 
 XI. Reglamento: El Reglamento de la Ley de Biocombustibles;
 

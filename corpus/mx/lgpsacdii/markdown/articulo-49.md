@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["LGPSACDII — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -31,7 +31,9 @@ V. Controlar y eliminar fuentes de ignición como instalaciones eléctricas, chi
 
 VI. Evitar que las instalaciones eléctricas estén al alcance de niñas y niños. Si se cuenta con plantas de luz o transformadores, estarán aislados mediante un cerco perimetral, el cual debe estar en buen estado. Su acometida no deberá atravesar el terreno del inmueble en el que se preste el servicio y en caso de deterioro, deberá notificarse de inmediato al responsable del suministro de electricidad, para proceder a su inmediata reparación;
 
-VII. Identificar y colocar las sustancias inflamables empleadas en el Centro de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños; VIII. Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
+VII. Identificar y colocar las sustancias inflamables empleadas en el Centro de Atención en recipientes herméticos, cerrados, etiquetados y guardados lejos del alcance de niñas y niños;
+
+VIII. Realizar una inspección interna de las medidas de seguridad al menos una vez al mes;
 
 IX. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas;
 

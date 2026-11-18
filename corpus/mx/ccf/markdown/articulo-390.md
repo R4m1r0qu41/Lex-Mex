@@ -21,7 +21,9 @@ El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus de
 
 I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar; Fracción reformada DOF 28-05-1998
 
-II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma, y Fracción reformada DOF 28-05-1998 III. Que el adoptante es persona apta y adecuada para adoptar. Fracción reformada DOF 28-05-1998
+II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma, y Fracción reformada DOF 28-05-1998
+
+III. Que el adoptante es persona apta y adecuada para adoptar. Fracción reformada DOF 28-05-1998
 
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 

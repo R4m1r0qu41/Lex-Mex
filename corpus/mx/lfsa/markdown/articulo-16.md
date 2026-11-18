@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LFSA — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf
 source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 ---
@@ -51,7 +51,9 @@ XV. Establecer cuarentenas;
 
 XVI. Establecer y aplicar medidas de bioseguridad en materia de sanidad animal;
 
-XVII. Establecer los criterios para la aplicación de las buenas prácticas pecuarias; XVIII. Realizar la vigilancia e investigación epidemiológica;
+XVII. Establecer los criterios para la aplicación de las buenas prácticas pecuarias;
+
+XVIII. Realizar la vigilancia e investigación epidemiológica;
 
 XIX. Ordenar la clausura temporal, definitiva, parcial o total de los establecimientos;
 

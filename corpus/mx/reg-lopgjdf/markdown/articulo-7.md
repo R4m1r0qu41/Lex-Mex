@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["REG-LOPGJDF — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -41,6 +41,8 @@ X. Vigilar que las personas puestas a su disposición, permanezcan en el área q
 
 XI. Comunicar a la representación diplomática o consular que corresponda, cuando se ponga a su disposición a un extranjero;
 
-XII. Proporcionar alimentos y agua a los imputados y permitir que sus familiares, en su caso, se los proporcionen; XIII. Proteger su integridad psicofísica durante el tiempo que permanezcan a su disposición, evitando en todo momento se les infrinjan actos de tortura, tratos crueles, inhumanos y degradantes o cualquier otro acto prohibido por las leyes y los instrumentos internacionales, y
+XII. Proporcionar alimentos y agua a los imputados y permitir que sus familiares, en su caso, se los proporcionen;
+
+XIII. Proteger su integridad psicofísica durante el tiempo que permanezcan a su disposición, evitando en todo momento se les infrinjan actos de tortura, tratos crueles, inhumanos y degradantes o cualquier otro acto prohibido por las leyes y los instrumentos internacionales, y
 
 XIV. Las demás que determine la normatividad aplicable.

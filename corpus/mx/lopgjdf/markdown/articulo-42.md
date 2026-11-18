@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["LOPGJDF — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -33,6 +33,8 @@ VI. Haber aprobado el concurso de ingreso y el Diplomado en Ciencias Forenses im
 
 VII. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
-VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; IX. Acreditar los exámenes y evaluaciones, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, y,
+VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
+
+IX. Acreditar los exámenes y evaluaciones, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, y,
 
 X. Los demás requisitos que establezcan otras disposiciones aplicables.

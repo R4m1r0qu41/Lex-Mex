@@ -163,12 +163,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:11:term-usage:3016-3019",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:11:term-usage:3017-3020",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
     "span": "Ley",
-    "start_char": 3016,
-    "end_char": 3019
+    "start_char": 3017,
+    "end_char": 3020
   },
   {
     "schema_version": "0.1.0",

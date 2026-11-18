@@ -17,4 +17,6 @@ source_sha256: fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1
 
 # Artículo 285
 
-Para determinar el monto de las multas establecidas en el presente Capítulo, la [Comisión](articulo-3.md) deberá considerar: I. La gravedad de la infracción; II. La capacidad económica del infractor; III. La reincidencia, y IV. En su caso, el cumplimiento espontáneo de las obligaciones que dieron origen al procedimiento sancionatorio, el cual podrá considerarse como atenuante de la sanción a imponerse.
+Para determinar el monto de las multas establecidas en el presente Capítulo, la [Comisión](articulo-3.md) deberá considerar: I. La gravedad de la infracción; II. La capacidad económica del infractor;
+
+III. La reincidencia, y IV. En su caso, el cumplimiento espontáneo de las obligaciones que dieron origen al procedimiento sancionatorio, el cual podrá considerarse como atenuante de la sanción a imponerse.

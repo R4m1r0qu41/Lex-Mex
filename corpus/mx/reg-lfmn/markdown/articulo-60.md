@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["REG-LFMN — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf
 source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 ---
@@ -32,6 +32,8 @@ lV. Coordinar su actividad con otros comités consultivos nacionales de normaliz
 
 V. Proponer representantes ante la Secretaría, para participar en eventos o asuntos internacionales;
 
-Vl. Participar en la homologación y armonización de normas con sus similares extranjeras e internacionales; VII. Proponer a la dependencia competente, sus reglas de operación en las cuales se establecerá su organización, y
+Vl. Participar en la homologación y armonización de normas con sus similares extranjeras e internacionales;
+
+VII. Proponer a la dependencia competente, sus reglas de operación en las cuales se establecerá su organización, y
 
 VIIl. Cualquier otra actividad relacionada con sus funciones que le sea encomendada por la dependencia que lo presida o por la Comisión Nacional de Normalización.

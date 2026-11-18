@@ -35,4 +35,6 @@ VII. Políticas Públicas para cumplir con las Estrategias de Prevención, Prote
 
 VIII. Normas Oficiales de Coordinación Interinstitucional;
 
-IX. Formas y necesidades de coordinación e intercambio de información internacional y nacional; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS X. Programas de Capacitación y Actualización permanente para los tres poderes y los tres órdenes de gobierno.
+IX. Formas y necesidades de coordinación e intercambio de información internacional y nacional;
+
+X. Programas de Capacitación y Actualización permanente para los tres poderes y los tres órdenes de gobierno.

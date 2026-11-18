@@ -7,8 +7,8 @@ provision_type: article
 number: "130"
 aliases: ["LGE — Artículo 130"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -25,7 +25,9 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como en 
 
 III. Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
 
-IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa; V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
+IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa;
+
+V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
 
 VI. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
 

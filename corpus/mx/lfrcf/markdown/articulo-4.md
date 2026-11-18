@@ -31,7 +31,9 @@ V. Cámara: la Cámara de Diputados del Congreso de la Unión;
 
 VI. Comisión: la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara;
 
-VII. Comisión de Presupuesto: la [Comisión](articulo-4.md) de Presupuesto y [Cuenta Pública](articulo-4.md) de la Cámara; VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md), fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo [53](../../lgcg/markdown/articulo-53.md) de la Ley General de Contabilidad Gubernamental;
+VII. Comisión de Presupuesto: la [Comisión](articulo-4.md) de Presupuesto y [Cuenta Pública](articulo-4.md) de la Cámara;
+
+VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md), fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo [53](../../lgcg/markdown/articulo-53.md) de la Ley General de Contabilidad Gubernamental;
 
 IX. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados; Fracción reformada DOF 20-05-2021
 
@@ -51,7 +53,9 @@ XVI. Fiscalización superior: la revisión que realiza la Auditoría Superior de
 
 XVII. Gestión Financiera: las acciones, tareas y procesos que, en la ejecución de los programas, realizan las entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la [Ley de Ingresos](articulo-4.md) y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del [Presupuesto de Egresos](articulo-4.md) y las demás disposiciones aplicables;
 
-XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación; XIX. Informe de Avance de Gestión Financiera: el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo [107](../../lfprh/markdown/articulo-107.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación;
+
+XIX. Informe de Avance de Gestión Financiera: el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo [107](../../lfprh/markdown/articulo-107.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 XX. Informe General: el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["LDPARM — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf
 source_sha256: e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179
 ---
@@ -39,6 +39,8 @@ IX. Entrar en cantinas, garitos o sitios de prostitución, portando uniforme;
 
 X. Participar uniformado en marchas, espectáculos o representaciones;
 
-XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano; XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y
+XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano;
+
+XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y
 
 XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.

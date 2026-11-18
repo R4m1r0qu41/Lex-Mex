@@ -17,7 +17,9 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 39
 
-En la determinación de las medidas de reparación y compensación ambiental se considerará: I. El criterio de equivalencia recurso-recurso o servicio-servicio;
+En la determinación de las medidas de reparación y compensación ambiental se considerará:
+
+I. El criterio de equivalencia recurso-recurso o servicio-servicio;
 
 II. Las acciones que proporcionen recursos naturales o Servicios Ambientales del mismo tipo, calidad y cantidad que los dañados;
 

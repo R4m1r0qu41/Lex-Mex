@@ -239,6 +239,93 @@ cargo run --locked -p lex-cli -- export lritf --format obsidian
 cargo run --locked -p lex-cli -- pipeline ifpe-dcg-2021
 ```
 
+### Source fidelity check
+
+```bash
+cargo run --locked -p lex-cli -- verify-fidelity lritf
+cargo run --release --locked -p lex-cli -- verify-fidelity --all [--strict]
+```
+
+`verify-fidelity` is a deterministic, read-only check that the text of every
+committed provision appears, token for token and in order, inside the text that
+was extracted from the official source file. Both sides are split on whitespace
+only (no case folding, no punctuation stripping). Source text that a provision
+skips is classified as `page_furniture`, `editorial_reform_note`, or
+`amendment_mark`; anything else is an honest `unclassified_gap`. Each provision
+is `exact`, `exact_modulo_classified_gaps`, `unclassified_gap`,
+`text_not_in_source`, `diverged`, `not_located`, or `empty`.
+
+Before aligning, the retained extraction (and source file, when present) is
+hashed and compared with `source-manifest.json`; a missing or mismatching input
+is recorded as an input status and that instrument is not aligned. Annex
+provisions use `.work/<slug>/annex-<n>.txt` when it exists.
+
+What it proves: the committed provision text is present, in order, in the text
+layer produced by the recorded extraction tool, and which source spans were
+skipped. What it does not prove: it is not an optical comparison against the
+page images, not a legal review, and not a check that the extraction tool read
+the page correctly. Reports are evidence under `.work/<slug>/fidelity-report.json`
+(plus `.work/fidelity-summary.json` for `--all`), validated by
+`schemas/fidelity-report-v1.schema.json`. They are not canonical corpus data,
+the command never writes under `corpus/`, and it never changes review state.
+`--strict` exits non-zero when any checked instrument has a non-passing
+provision or could not be checked.
+
+### Cited-fraction audit
+
+```bash
+cargo run --release --locked -p lex-cli -- audit-qualifiers [<slug>] [--all]
+```
+
+`audit-qualifiers` checks every fraction named by a resolved reference edge
+(for example `fracciones XI y XII`) against the text of the edge's target
+provision, in this instrument or another: each cited label is
+`found_at_paragraph_start`, `found_mid_paragraph` (a fraction merged into the
+preceding paragraph), or `absent`. It is evidence, not a gate: it writes
+`.work/<slug>/qualifier-audit.json` (and `.work/qualifier-audit-summary.json`
+for `--all`), never changes a reference edge, and never writes under `corpus/`.
+
+### Source change monitor
+
+```bash
+cargo run --release --locked -p lex-cli -- monitor-sources <slug>... [--retain]
+cargo run --release --locked -p lex-cli -- monitor-sources --discover
+cargo run --release --locked -p lex-cli -- monitor-sources --all --discover --strict
+```
+
+`monitor-sources` is a read-only check of the official sources. For each
+committed instrument it asks whether the official file still matches the
+`source_sha256` in `source-manifest.json`: when the manifest records an `ETag`
+or `Last-Modified` and a cheap `HEAD` request returns the same values, the
+status is `unchanged_by_validators` and nothing is downloaded; otherwise it
+downloads the file and compares SHA-256 (`unchanged_by_hash` or `changed`). A
+failed request is `unreachable`, and an instrument that cannot be compared
+(unreadable manifest, no adapter, adapter URL differing from the manifest) is
+`not_checked`; the run continues either way. Requests to one host are spaced
+`--delay-ms` apart (default 1000). `--retain` always downloads and, when the
+bytes hash to exactly the recorded hash and `.work/<slug>/<slug>.<ext>` is
+missing, restores that file for later fidelity checks; it never overwrites an
+existing file. A changed file is saved as `.work/monitor/<slug>/<sha256>.<ext>`
+for diffing and never at the pipeline's retained path.
+
+`--discover` fetches the Cámara de Diputados laws index (`LeyesBiblio/index.htm`)
+and regulations index (`LeyesBiblio/regla.htm`) and lists entries whose PDF URL
+(compared case-insensitively) is not the `official_url` of any committed
+instrument, with the title and last-reform text as printed, and flags rows the
+index itself marks abrogated. It also lists committed instruments hosted in a
+directory the indexes list from (`pdf/`, `regley/`) whose URL no longer appears.
+Annex and formal-publication sources, and CNBV or other non-Cámara sources, are
+not covered by discovery (`annex_sources_checked` is `false`).
+
+The monitor writes only under `.work/` (never `corpus/`): the report is
+`.work/source-monitor-report.json`, validated by
+`schemas/source-monitor-report-v1.schema.json`. A suggested daily invocation is
+`lex-mex monitor-sources --all --discover --strict`; `--strict` exits non-zero
+when anything is `changed`, `unreachable`, `not_checked`, newly discovered, or an
+index could not be read, which means "a human should look". Acting on a change
+(refetch through the pipeline, review, release) remains a separate, reviewed
+step; the monitor never alters the corpus or review state.
+
 ## Use Lex-Mex from another project
 
 Install the CLI once, then point it at the authoritative Lex-Mex checkout from

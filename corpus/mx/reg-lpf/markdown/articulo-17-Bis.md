@@ -7,8 +7,8 @@ provision_type: article
 number: "17 Bis"
 aliases: ["REG-LPF — Artículo 17 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -39,7 +39,9 @@ V. Supervisar que se realicen las gestiones necesarias ante la [Secretaría Gene
 
 VI. Proponer y, en su caso, implementar acciones para brindar seguridad al tránsito de las personas, bienes y servicios en las instalaciones, eventos, comunidades, rutas, regiones o zonas en las que estén desplegados sus Integrantes, en coordinación con las instancias competentes;
 
-VII. Participar, en coordinación con la División de Inteligencia, en la elaboración de métodos de inteligencia que permitan generar estrategias para la prevención e investigación de los delitos; VIII. Proponer al Comisionado General los protocolos de operación que permitan el desarrollo de sus atribuciones en comunidades indígenas, poblaciones de alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
+VII. Participar, en coordinación con la División de Inteligencia, en la elaboración de métodos de inteligencia que permitan generar estrategias para la prevención e investigación de los delitos;
+
+VIII. Proponer al Comisionado General los protocolos de operación que permitan el desarrollo de sus atribuciones en comunidades indígenas, poblaciones de alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
 
 IX. Participar en auxilio a la población en acciones de protección civil en coordinación con las autoridades competentes.
 

@@ -19,7 +19,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La solicitud de registro de una marca de certificación deberá acompañarse de sus reglas de uso, en las que se indique:
 
-I.- Los productos o servicios específicos a certificar con la marca; II.- La representación gráfica e imagen de la marca;
+I.- Los productos o servicios específicos a certificar con la marca;
+
+II.- La representación gráfica e imagen de la marca;
 
 III.- Las especificaciones técnicas que definan las cualidades o características particulares del producto o servicio tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado, entre otros;
 

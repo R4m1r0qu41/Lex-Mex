@@ -21,7 +21,9 @@ Al frente de la Dirección General de Tecnología, Seguridad y Apoyo a la Invest
 
 I. Crear y aplicar estrategias y acciones en apoyo a los agentes del Ministerio Público de la Federación en la investigación y persecución de los delitos de delincuencia organizada;
 
-II. Generar, aplicar y difundir las medidas de seguridad aplicables para el manejo de la información requeridas por la Subprocuraduría Especializada en Investigación de Delincuencia Organizada, así como del personal adscrito a la misma, en coordinación con las unidades administrativas y órganos desconcentrados competentes; III. Proponer y coordinar la adquisición, aprovechamiento, uso, custodia, conservación y mantenimiento de los equipos de apoyo, así como de los sistemas de inteligencia que se requieran para la recolección de información, con el objeto de integrarla a las averiguaciones previas;
+II. Generar, aplicar y difundir las medidas de seguridad aplicables para el manejo de la información requeridas por la Subprocuraduría Especializada en Investigación de Delincuencia Organizada, así como del personal adscrito a la misma, en coordinación con las unidades administrativas y órganos desconcentrados competentes;
+
+III. Proponer y coordinar la adquisición, aprovechamiento, uso, custodia, conservación y mantenimiento de los equipos de apoyo, así como de los sistemas de inteligencia que se requieran para la recolección de información, con el objeto de integrarla a las averiguaciones previas;
 
 IV. Proporcionar los servicios técnicos de análisis a equipos de comunicaciones, electrónicos e informáticos, así como de las transcripciones fonéticas en cumplimiento a las solicitudes de los agentes del Ministerio Público de la Federación adscritos a la Subprocuraduría Especializada en Investigación de Delincuencia Organizada;
 

@@ -27,7 +27,9 @@ III. Procurador General de la República;
 
 IV. Ministros, embajadores, agentes diplomáticos y cónsules generales;
 
-V. Empleados Superiores de Hacienda; y VI. Coroneles y demás jefes superiores del Ejército y Fuerza Aérea Nacionales, así como los grados equivalentes en la Armada.
+V. Empleados Superiores de Hacienda; y
+
+VI. Coroneles y demás jefes superiores del Ejército y Fuerza Aérea Nacionales, así como los grados equivalentes en la Armada.
 
 2. Respecto de los Empleados Superiores de Hacienda a que se refiere la fracción V del párrafo anterior, el Senado debe emitir, a propuesta de la Mesa, el acuerdo que especifique los cargos a considerar.
 

@@ -29,7 +29,9 @@ IV. Realice actividades con OGMs que se encuentren sujetas o exentas de la prese
 
 V. Presente a las [Secretarías](articulo-3.md) competentes, información y/o documentación a que se refiere este ordenamiento que sea falsa, incluyendo la relativa a los posibles riesgos que las actividades con OGMs pudieran ocasionar a la salud humana o a la diversidad biológica;
 
-VI. Incumpla las medidas sanitarias, de monitoreo, control y prevención señaladas por los interesados en la información y documentación aportada para obtener los permisos y las autorizaciones respectivas, y las establecidas por las Secretarías en los propios permisos y autorizaciones; VII. Incumpla las medidas de control y de respuesta en caso de emergencia señaladas por los interesados en sus estudios de los posibles riesgos que las actividades con OGMs puedan ocasionar a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
+VI. Incumpla las medidas sanitarias, de monitoreo, control y prevención señaladas por los interesados en la información y documentación aportada para obtener los permisos y las autorizaciones respectivas, y las establecidas por las Secretarías en los propios permisos y autorizaciones;
+
+VII. Incumpla las medidas de control y de respuesta en caso de emergencia señaladas por los interesados en sus estudios de los posibles riesgos que las actividades con OGMs puedan ocasionar a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
 
 VIII. Incumpla la obligación de informar o hacer del conocimiento a las Secretarías, en los supuestos establecidos en esta Ley;
 
@@ -55,7 +57,9 @@ XVIII. No suspenda la actividad de utilización confinada en los casos en que la
 
 XIX. Realice actividades de utilización confinada dejando de aplicar las medidas de confinamiento y de tratamiento, disposición final y eliminación de residuos de OGMs generados en la realización de la actividad;
 
-XX. Incumpla las disposiciones relativas a la generación, tratamiento, confinamiento, disposición final, destrucción o eliminación de residuos de OGMs, que se establezcan en las normas oficiales mexicanas que deriven del presente ordenamiento; XXI. No integre las comisiones internas de bioseguridad en los casos, formas y plazos que establezcan las disposiciones reglamentarias que deriven de esta Ley;
+XX. Incumpla las disposiciones relativas a la generación, tratamiento, confinamiento, disposición final, destrucción o eliminación de residuos de OGMs, que se establezcan en las normas oficiales mexicanas que deriven del presente ordenamiento;
+
+XXI. No integre las comisiones internas de bioseguridad en los casos, formas y plazos que establezcan las disposiciones reglamentarias que deriven de esta Ley;
 
 XXII. Incumpla la obligación de llevar a cabo las acciones y medidas de seguridad o de urgente aplicación que establezcan las Secretarías competentes, en los casos y términos establecidos en esta Ley;
 

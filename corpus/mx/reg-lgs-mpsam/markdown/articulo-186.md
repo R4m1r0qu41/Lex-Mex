@@ -7,8 +7,8 @@ provision_type: article
 number: "186"
 aliases: ["REG-LGS-MPSAM — Artículo 186"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---

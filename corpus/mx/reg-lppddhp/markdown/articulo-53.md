@@ -7,8 +7,8 @@ provision_type: article
 number: "53"
 aliases: ["REG-LPPDDHP — Artículo 53"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf
 source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 ---
@@ -17,7 +17,9 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 53
 
-La solicitud podrá ser presentada por escrito, verbalmente, por teléfono o a través de cualquier otro medio de comunicación electrónica y deberá cumplir con los siguientes requisitos: I. Datos de identificación del Peticionario o [Beneficiario](articulo-3.md);
+La solicitud podrá ser presentada por escrito, verbalmente, por teléfono o a través de cualquier otro medio de comunicación electrónica y deberá cumplir con los siguientes requisitos:
+
+I. Datos de identificación del Peticionario o [Beneficiario](articulo-3.md);
 
 II. Descripción de los hechos que conforman la agresión y lugar en donde éstos ocurren. En caso de solicitar medidas urgentes, deberá expresar las razones por las que considere necesarias dichas medidas;
 

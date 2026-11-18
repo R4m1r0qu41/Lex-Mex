@@ -8,18 +8,19 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
-      "provision_text_sha256": "8e83adadc3ee3c586db912e794e29ef14dafc9eadfc7c4b02efd6c4427b267ab",
+      "provision_text_sha256": "abb9d8c3f041c2cfe6514ba5615654ed5c6b4c7d423841f80ec3e36eae4f31ed",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
-        "III"
+        "III",
+        "IV"
       ],
       "unread_fractions": [],
-      "term_count": 3
+      "term_count": 4
     }
   ],
   "imports": [],
-  "term_count": 3,
+  "term_count": 4,
   "usage_count": 89
 }

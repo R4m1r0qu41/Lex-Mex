@@ -45,7 +45,9 @@ h) Manuales y garantía de la maquinaria y equipo;
 
 V. Vigilar la adecuada ejecución de los trabajos y transmitir al contratista en forma apropiada y oportuna las órdenes provenientes de la residencia;
 
-VI. Dar seguimiento al programa de ejecución convenido para informar al residente sobre las fechas y las actividades críticas que requieran seguimiento especial, así como sobre las diferencias entre las actividades programadas y las realmente ejecutadas, y para la aplicación de retenciones económicas, penas convencionales, descuentos o la celebración de convenios; VII. Registrar en la Bitácora los avances y aspectos relevantes durante la ejecución de los trabajos con la periodicidad que se establezca en el contrato;
+VI. Dar seguimiento al programa de ejecución convenido para informar al residente sobre las fechas y las actividades críticas que requieran seguimiento especial, así como sobre las diferencias entre las actividades programadas y las realmente ejecutadas, y para la aplicación de retenciones económicas, penas convencionales, descuentos o la celebración de convenios;
+
+VII. Registrar en la Bitácora los avances y aspectos relevantes durante la ejecución de los trabajos con la periodicidad que se establezca en el contrato;
 
 VIII. Celebrar juntas de trabajo con el superintendente o con la residencia para analizar el estado, avance, problemas y alternativas de solución, consignando en las minutas y en la Bitácora los acuerdos tomados y dar seguimiento a los mismos;
 

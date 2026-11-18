@@ -37,6 +37,8 @@ VIII. Participar en el control de los residuos peligrosos generados o manejados 
 
 IX. Participar y aplicar, en colaboración con la federación y el gobierno estatal, instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezca el manejo integral de residuos sólidos urbanos; Fracción adicionada DOF 21-05-2013
 
-X. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación; Fracción recorrida DOF 21-05-2013 XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y Fracción recorrida DOF 21-05-2013
+X. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación; Fracción recorrida DOF 21-05-2013
+
+XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y Fracción recorrida DOF 21-05-2013
 
 XII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables. Fracción recorrida DOF 21-05-2013

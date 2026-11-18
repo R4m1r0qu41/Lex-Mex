@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["REG-LRPC — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPC.pdf
 source_sha256: 2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320
 ---
@@ -45,7 +45,9 @@ XII. Realizar las acciones necesarias para la detección de necesidades de atenc
 
 XIII. Canalizar a solicitantes que presenten situación de vulnerabilidad a instituciones especializadas para su atención;
 
-XIV. Orientar a los refugiados y extranjeros a los que se les otorgue protección complementaria que se encuentren en territorio nacional, sobre sus derechos y obligaciones; XV. Proporcionar, cuando sea procedente, asistencia institucional a solicitantes, refugiados y extranjeros que reciban protección complementaria;
+XIV. Orientar a los refugiados y extranjeros a los que se les otorgue protección complementaria que se encuentren en territorio nacional, sobre sus derechos y obligaciones;
+
+XV. Proporcionar, cuando sea procedente, asistencia institucional a solicitantes, refugiados y extranjeros que reciban protección complementaria;
 
 XVI. Registrar y recibir los avisos de cambio de residencia y de salida al país de origen de los refugiados o extranjeros que reciban protección complementaria;
 

@@ -23,7 +23,9 @@ I. Envía el texto del proyecto a cada una de las legislaturas de los estados, a
 
 II. Recibe de cada Legislatura estatal, los decretos correspondientes, conforme se vayan pronunciando respecto de la aprobación o no del proyecto;
 
-III. Aprobado el proyecto por un mínimo de dieciséis legislaturas estatales, realiza el cómputo correspondiente, informa al Pleno y formula la declaratoria; IV. Integra un expediente el cual suscribe conjuntamente con un Secretario de la Mesa Directiva del Senado y recaba la firma del Presidente y un Secretario de la Mesa Directiva de la Cámara de Diputados, de acuerdo con los artículos 23 y 67 de la Ley; y
+III. Aprobado el proyecto por un mínimo de dieciséis legislaturas estatales, realiza el cómputo correspondiente, informa al Pleno y formula la declaratoria;
+
+IV. Integra un expediente el cual suscribe conjuntamente con un Secretario de la Mesa Directiva del Senado y recaba la firma del Presidente y un Secretario de la Mesa Directiva de la Cámara de Diputados, de acuerdo con los artículos 23 y 67 de la Ley; y
 
 V. Hecho lo anterior, emite de inmediato la declaración de haber sido aprobadas las reformas, para la remisión del decreto al titular del Poder Ejecutivo Federal, a efectos de su publicación en el Diario Oficial de la Federación.
 

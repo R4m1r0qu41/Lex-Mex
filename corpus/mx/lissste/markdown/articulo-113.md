@@ -21,7 +21,9 @@ El Vocal Ejecutivo del [PENSIONISSSTE](articulo-6.md) tendrá las obligaciones y
 
 I. Asistir a las sesiones de la Junta Directiva del [Instituto](articulo-6.md) con voz, pero sin voto, para informar de los asuntos del [Fondo](articulo-6.md) Nacional de Pensiones de los Trabajadores al servicio del Estado;
 
-II. Ejecutar los acuerdos de la Junta Directiva del Instituto y de la Comisión Ejecutiva del PENSIONISSSTE, relacionados con el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado; III. Convocar a las sesiones de la Comisión Ejecutiva;
+II. Ejecutar los acuerdos de la Junta Directiva del Instituto y de la Comisión Ejecutiva del PENSIONISSSTE, relacionados con el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado;
+
+III. Convocar a las sesiones de la Comisión Ejecutiva;
 
 IV. Presentar anualmente a la Comisión Ejecutiva del PENSIONISSSTE, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior;
 

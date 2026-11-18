@@ -11,11 +11,11 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [47]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 316 Bis 18
 
-Las Instituciones estarán obligadas a contar con áreas de soporte técnico y operacional, integradas por personal capacitado, las cuales se encargarán de atender y dar seguimiento a las incidencias que tengan sus Usuarios del servicio de Banca Electrónica, así como a eventos de seguridad relacionados con el uso de Medios Electrónicos.
+Las Instituciones estarán obligadas a contar con áreas de soporte técnico y operacional, integradas por personal capacitado, las cuales se encargarán de atender y dar seguimiento a las incidencias que tengan sus [Usuarios](articulo-1.md) del servicio de [Banca Electrónica](articulo-1.md), así como a eventos de seguridad relacionados con el uso de [Medios Electrónicos](articulo-1.md).

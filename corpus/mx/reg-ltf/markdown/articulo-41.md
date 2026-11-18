@@ -23,7 +23,9 @@ I. Denominación o razón social de la persona moral en la que el Gobierno Feder
 
 II. Nombre de la Dependencia coordinadora de sector;
 
-III. Valor nominal total del capital social o su equivalente de la persona moral; IV. Valor nominal total de la inversión financiera del Gobierno Federal en la persona moral;
+III. Valor nominal total del capital social o su equivalente de la persona moral;
+
+IV. Valor nominal total de la inversión financiera del Gobierno Federal en la persona moral;
 
 V. Número total de valores o documentos que representen la inversión financiera del Gobierno Federal en la persona moral;
 

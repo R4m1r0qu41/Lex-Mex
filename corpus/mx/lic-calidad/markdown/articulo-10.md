@@ -25,7 +25,9 @@ I. la protección y promoción a la salud;
 
 II. la protección a la integridad física, a la salud, y a la vida de los trabajadores en los centros de trabajo;
 
-III. la protección a la producción orgánica, de organismos genéticamente modificados, sanidad e inocuidad agroalimentaria, acuícola, pesquera, animal y vegetal; IV. la seguridad alimentaria;
+III. la protección a la producción orgánica, de organismos genéticamente modificados, sanidad e inocuidad agroalimentaria, acuícola, pesquera, animal y vegetal;
+
+IV. la seguridad alimentaria;
 
 V. la educación y cultura;
 

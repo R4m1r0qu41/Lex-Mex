@@ -21,7 +21,9 @@ Las subzonas de recuperación tendrán por objeto detener la degradación de los
 
 I. Un alto nivel de deterioro del suelo;
 
-II. Perturbación severa de la vida silvestre; III. Relativamente poca diversidad biológica;
+II. Perturbación severa de la vida silvestre;
+
+III. Relativamente poca diversidad biológica;
 
 IV. Introducción de especies exóticas;
 

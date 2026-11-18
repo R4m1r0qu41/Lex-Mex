@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 117 Bis 7"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [73]
+amendment_marks: [73,108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -26,7 +26,7 @@ Al efecto, la dirección general, en adición a lo señalado en estas disposicio
 
 I. Elaborar, revisar y, en su caso, actualizar o proponer la actualización, para someter a la consideración del comité de auditoría y posterior presentación al consejo de administración de la casa de bolsa, por lo menos una vez al año o con frecuencia mayor de acuerdo con lo determinado al efecto por el propio consejo de administración, los objetivos y lineamientos del sistema de control interno conforme a lo que se establece en el artículo [106](articulo-106.md) de estas disposiciones, el manual de conducta de la casa de bolsa, así como el plan de continuidad de negocio.
 
-(108) II. Elaborar, revisar y, en su caso, actualizar o proponer la actualización de los manuales de la casa de bolsa, definiendo las áreas o personal responsable de las actividades respectivas. Dichos manuales serán de cumplimiento obligatorio para directivos, empleados y personal de la casa de bolsa.
+II. Elaborar, revisar y, en su caso, actualizar o proponer la actualización de los manuales de la casa de bolsa, definiendo las áreas o personal responsable de las actividades respectivas. Dichos manuales serán de cumplimiento obligatorio para directivos, empleados y personal de la casa de bolsa.
 
 III. Identificar y evaluar los factores internos y externos que puedan afectar la consecución de las estrategias y fines que la propia casa de bolsa haya establecido.
 
@@ -62,7 +62,7 @@ XI. Establecer controles para evitar que terceros o personal de la casa de bolsa
 
 XII. Procurar que se observen procedimientos, estructuras organizacionales y políticas de seguridad informáticas adecuadas a la casa de bolsa.
 
-(108) XIII. Verificar que en las Ofertas públicas restringidas únicamente participen Inversionistas institucionales e Inversionistas calificados para participar en ofertas públicas restringidas y en el caso de las Ofertas públicas de Valores objeto de Inscripción simplificada, que participen únicamente Inversionistas institucionales e Inversionistas calificados.
+XIII. Verificar que en las Ofertas públicas restringidas únicamente participen [Inversionistas institucionales](articulo-1.md) e Inversionistas calificados para participar en ofertas públicas restringidas y en el caso de las Ofertas públicas de [Valores](articulo-1.md) objeto de Inscripción simplificada, que participen únicamente Inversionistas institucionales e Inversionistas calificados.
 
 Asimismo, deberán comprobar que los clientes de las casas de bolsa que soliciten operaciones en el mercado secundario sobre Valores de Oferta pública restringida o sobre Valores objeto de Inscripción simplificada sean únicamente Inversionistas institucionales, Inversionistas calificados e Inversionistas calificados para participar en ofertas públicas restringidas, según corresponda.
 
@@ -114,7 +114,7 @@ n) Permitan detectar la alteración o falsificación de registros en la infraest
 
 o) Implementen mecanismos que midan y aseguren niveles de disponibilidad y tiempos de respuesta, que garanticen la ejecución de las operaciones y servicios realizados.
 
-XV. Implementar los mecanismos necesarios para realizar las actividades a que se refiere el artículo 171 de la Ley que le han sido autorizadas a la casa de bolsa, sin poner en riesgo su valor económico, la confidencialidad de la información y la continuidad de sus operaciones. Los mecanismos a que se refiere el presente párrafo deberán, al menos:
+XV. Implementar los mecanismos necesarios para realizar las actividades a que se refiere el artículo 171 de la [Ley](articulo-1.md) que le han sido autorizadas a la casa de bolsa, sin poner en riesgo su valor económico, la confidencialidad de la información y la continuidad de sus operaciones. Los mecanismos a que se refiere el presente párrafo deberán, al menos:
 
 a) Salvaguardar los activos propiedad de la casa de bolsa.
 
@@ -130,11 +130,11 @@ f) Proteger la integridad de los sistemas informáticos, su adecuado mantenimien
 
 g) Dar cumplimiento a la fracción XIII anterior.
 
-(108) XVI. Aplicar las medidas correctivas y preventivas determinadas por el consejo de administración o el comité de auditoría, relacionadas con las deficiencias o desviaciones del sistema de control interno.
+XVI. Aplicar las medidas correctivas y preventivas determinadas por el consejo de administración o el comité de auditoría, relacionadas con las deficiencias o desviaciones del sistema de control interno.
 
-(108) XVI. Dictar las medidas necesarias para que en el manejo de la información relativa a los clientes de la casa de bolsa, se observe lo relativo al secreto bursátil.
+XVI. Dictar las medidas necesarias para que en el manejo de la información relativa a los clientes de la casa de bolsa, se observe lo relativo al secreto bursátil.
 
-(108) XVII. Designar al área o persona responsable de las funciones de contraloría interna.
+XVII. Designar al área o persona responsable de las funciones de contraloría interna.
 
 Asimismo, el director general de las casas de bolsa, será el encargado de elaborar y presentar al comité de auditoría para su evaluación y posterior aprobación por el consejo de administración, las políticas para el adecuado empleo y aprovechamiento de los recursos humanos y materiales de la casa de bolsa.
 

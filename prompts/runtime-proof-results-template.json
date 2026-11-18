@@ -1,0 +1,213 @@
+{
+  "schema_version": "lex-mex-runtime-run-v1",
+  "model": "REQUIRED",
+  "model_version": "REQUIRED",
+  "started_at": "REQUIRED ISO8601",
+  "mode": "public",
+  "entrypoint": "REQUIRED",
+  "observed_release": "REQUIRED or unknown",
+  "attempt_label": "baseline",
+  "transcript_path": "REQUIRED",
+  "cases": [
+    {
+      "id": "Q01",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q02",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q03",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q04",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q05",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q06",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q07",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q08",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q09",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    },
+    {
+      "id": "Q10",
+      "status": "not_run",
+      "answer": "",
+      "seconds": null,
+      "requests": null,
+      "bytes_received": null,
+      "follow_up_used": false,
+      "evidence": [],
+      "scores": {
+        "access": null,
+        "source_fidelity": null,
+        "legal_reading": null,
+        "scope": null,
+        "usability": null
+      },
+      "critical_flags": [],
+      "failure_layer": null,
+      "notes": ""
+    }
+  ]
+}

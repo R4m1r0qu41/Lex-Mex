@@ -23,7 +23,9 @@ En todo caso, las personas mencionadas en el párrafo anterior deberán manifest
 
 I. Que no se ubican en ninguno de los supuestos a que se refieren las fracciones III a VIII del artículo [23](articulo-23.md), tratándose de consejeros y III del artículo [24](articulo-24.md) para el caso del director general y funcionarios a que se refiere el primer párrafo de este artículo;
 
-II. Que se encuentran al corriente de sus obligaciones crediticias de cualquier género, y III. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
+II. Que se encuentran al corriente de sus obligaciones crediticias de cualquier género, y
+
+III. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
 
 Las instituciones de banca múltiple deberán informar a la Comisión Nacional Bancaria y de Valores los nombramientos de consejeros, director general y funcionarios con las dos jerarquías inmediatas inferiores a la de este último, dentro de los cinco días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos aplicables.
 

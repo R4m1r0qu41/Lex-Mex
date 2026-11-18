@@ -19,7 +19,9 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 En cada sujeto obligado deberá existir un grupo interdisciplinario, que es un equipo de profesionales de la misma institución, integrado por los titulares de:
 
-I. Jurídica; II. Planeación y/o mejora continua;
+I. Jurídica;
+
+II. Planeación y/o mejora continua;
 
 III. Coordinación de archivos;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["LGEO — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf
 source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 ---
@@ -25,7 +25,9 @@ II. Cumplir con las obligaciones establecidas en el título de [Concesión](arti
 
 III. Obtener de las autoridades competentes, los permisos o autorizaciones ajenas a lo dispuesto en esta Ley, incluyendo el pago de derechos y aprovechamientos, que sean necesarios para el desarrollo de sus actividades de Explotación;
 
-IV. Dar aviso a la [Secretaría](articulo-2.md), por escrito y en un término máximo de treinta días naturales, de la disminución en sus capacidades técnicas, financieras o legales, de tal forma que les impida cumplir con los términos y condiciones establecidos en el título de Concesión; V. Solicitar la autorización previa de la Secretaría para formalizar la cesión de la Concesión o de los derechos contenidos en la misma;
+IV. Dar aviso a la [Secretaría](articulo-2.md), por escrito y en un término máximo de treinta días naturales, de la disminución en sus capacidades técnicas, financieras o legales, de tal forma que les impida cumplir con los términos y condiciones establecidos en el título de Concesión;
+
+V. Solicitar la autorización previa de la Secretaría para formalizar la cesión de la Concesión o de los derechos contenidos en la misma;
 
 VI. Sujetarse a las disposiciones en materia ambiental, de seguridad social, protección civil, a las Normas Oficiales Mexicanas y demás que resulten aplicables;
 

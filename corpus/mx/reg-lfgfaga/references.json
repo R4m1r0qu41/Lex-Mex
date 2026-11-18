@@ -118,19 +118,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:23:reference:594-597:327:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:23:reference:595-598:327:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:23",
     "source_span": "327",
-    "start_char": 594,
-    "end_char": 597,
+    "start_char": 595,
+    "end_char": 598,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:327",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo tercero",
-        "start_char": 599,
-        "end_char": 614
+        "start_char": 600,
+        "end_char": 615
       }
     ],
     "basis": "express_cross_reference",

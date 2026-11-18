@@ -17,7 +17,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 # Artículo 131
 
-El conocimiento de embarque deberá contener los siguientes requisitos mínimos: I. Nombre y domicilio del naviero u operador o del operador y del cargador;
+El conocimiento de embarque deberá contener los siguientes requisitos mínimos:
+
+I. Nombre y domicilio del naviero u operador o del operador y del cargador;
 
 II. Nombre y domicilio del destinatario o la indicación de ser a la orden;
 

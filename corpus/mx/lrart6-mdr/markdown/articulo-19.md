@@ -17,7 +17,9 @@ source_sha256: b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c
 
 # Artículo 19
 
-El sujeto obligado podrá negarse a llevar a cabo la publicación o transmisión de la réplica, en los siguientes casos: I. Cuando se trate de transmisiones en vivo y la réplica ya se haya realizado;
+El sujeto obligado podrá negarse a llevar a cabo la publicación o transmisión de la réplica, en los siguientes casos:
+
+I. Cuando se trate de transmisiones en vivo y la réplica ya se haya realizado;
 
 II. Cuando no se ejerza en los plazos y términos previstos en esta Ley;
 

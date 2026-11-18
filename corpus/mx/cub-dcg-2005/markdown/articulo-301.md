@@ -10,15 +10,15 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo IX
 
 # Artículo 301
 
-Las Instituciones sólo estarán obligadas a conservar el original de los libros, registros y documentación, relativos a sus operaciones activas, pasivas y de servicios, así como aquélla relacionada con su contabilidad, no obstante haber utilizado la Microfilmación, Grabación o cualquier otro medio autorizado para tal efecto por la Comisión, en los casos de excepción expresa a lo previsto por el Artículo 100 de la Ley, que la legislación federal o la propia Comisión mediante disposiciones de carácter general determinen, y por el plazo que, en su caso, las mismas señalen.
+Las Instituciones sólo estarán obligadas a conservar el original de los libros, registros y documentación, relativos a sus operaciones activas, pasivas y de servicios, así como aquélla relacionada con su contabilidad, no obstante haber utilizado la [Microfilmación](articulo-1.md), [Grabación](articulo-1.md) o cualquier otro medio autorizado para tal efecto por la [Comisión](articulo-1.md), en los casos de excepción expresa a lo previsto por el Artículo 100 de la [Ley](articulo-1.md), que la legislación federal o la propia Comisión mediante disposiciones de carácter general determinen, y por el plazo que, en su caso, las mismas señalen.
 
-Las Instituciones no podrán destruir, aun cuando se hubieren Microfilmado o Grabado, los originales de los documentos públicos relativos a su contabilidad, la escritura constitutiva y sus modificaciones, las actas de asambleas generales de accionistas, sesiones de Consejo, y sus comités, las actas de emisión de valores, los estados financieros, la documentación de apoyo a dichos estados financieros, el dictamen del auditor externo, así como la que ampare la propiedad de bienes propios o de terceros cuyo original se encuentre bajo su custodia. En todo caso, dicha información deberá conservarse durante los plazos que establecen las disposiciones legales en materia mercantil y fiscal aplicables.
+Las Instituciones no podrán destruir, aun cuando se hubieren Microfilmado o Grabado, los originales de los documentos públicos relativos a su contabilidad, la escritura constitutiva y sus modificaciones, las actas de asambleas generales de accionistas, sesiones de [Consejo](articulo-1.md), y sus comités, las actas de emisión de valores, los estados financieros, la documentación de apoyo a dichos estados financieros, el dictamen del auditor externo, así como la que ampare la propiedad de bienes propios o de terceros cuyo original se encuentre bajo su custodia. En todo caso, dicha información deberá conservarse durante los plazos que establecen las disposiciones legales en materia mercantil y fiscal aplicables.
 
 Asimismo, tampoco podrán destruirse los documentos de valor histórico que, en su caso, correspondan a la Institución o que aquélla mantenga en custodia.

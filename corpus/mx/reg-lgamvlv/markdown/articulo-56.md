@@ -8,7 +8,7 @@ number: "56"
 aliases: ["REG-LGAMVLV — Artículo 56"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---

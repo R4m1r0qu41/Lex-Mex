@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LIISPCEN — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf
 source_sha256: 1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c
 ---

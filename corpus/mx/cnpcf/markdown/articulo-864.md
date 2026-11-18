@@ -29,7 +29,9 @@ IV. El nombre de la persona representante autorizada y número de cédula profes
 
 V. Los documentos con los que la parte actora acredite su representación de conformidad con este Título;
 
-VI. El nombre de la parte demandada y su domicilio, o la manifestación bajo protesta de decir verdad de que se ignora éste; VII. La precisión del derecho difuso, colectivo o individual homogéneo que se considera afectado;
+VI. El nombre de la parte demandada y su domicilio, o la manifestación bajo protesta de decir verdad de que se ignora éste;
+
+VII. La precisión del derecho difuso, colectivo o individual homogéneo que se considera afectado;
 
 VIII. El tipo de acción que pretende promover;
 

@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 15
 
-Para la organización de los resultados del Inventario Nacional Forestal y de Suelos, la Comisión considerará las siguientes agrupaciones de datos e información: I. Superficie de los diferentes tipos de Recursos forestales:
+Para la organización de los resultados del Inventario Nacional Forestal y de Suelos, la Comisión considerará las siguientes agrupaciones de datos e información:
+
+I. Superficie de los diferentes tipos de Recursos forestales:
 
 a) Características, sean naturales o plantados, y
 

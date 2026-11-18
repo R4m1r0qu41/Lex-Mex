@@ -7,8 +7,8 @@ provision_type: article
 number: "95"
 aliases: ["REG-LOPGJDF — Artículo 95"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -27,7 +27,9 @@ III. Proponer y difundir las convocatorias de ingreso y promoción del personal 
 
 IV. Autorizar las líneas de investigación en el campo de las ciencias penales y la política criminal, aplicables a la procuración de justicia;
 
-V. Autorizar el Programa Anual de Capacitación y Profesionalización del Personal Sustantivo; VI. Evaluar el desempeño académico de los profesores del Instituto;
+V. Autorizar el Programa Anual de Capacitación y Profesionalización del Personal Sustantivo;
+
+VI. Evaluar el desempeño académico de los profesores del Instituto;
 
 VII. Conocer y resolver los casos específicos que impliquen incumplimiento a las normas escolares;
 

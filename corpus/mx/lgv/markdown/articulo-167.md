@@ -7,8 +7,8 @@ provision_type: article
 number: "167"
 aliases: ["LGV — Artículo 167"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 La [Asesoría Jurídica](articulo-6.md) Federal tiene a su cargo las siguientes funciones:
 
-I. Coordinar el servicio de Asesoría Jurídica para [Víctimas](articulo-6.md) en asuntos del fuero federal, a fin de garantizar los derechos de las víctimas contenidos en esta Ley, en tratados internacionales y demás disposiciones aplicables;
+I. Coordinar el servicio de Asesoría Jurídica para [Víctimas](articulo-6.md) en asuntos del fuero federal, a fin de garantizar los derechos de las víctimas contenidos en esta [Ley](articulo-6.md), en tratados internacionales y demás disposiciones aplicables;
 
 II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, laboral, familiar, administrativa y de derechos humanos del fuero federal, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral;
 

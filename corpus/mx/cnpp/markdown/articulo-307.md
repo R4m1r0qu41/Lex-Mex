@@ -21,4 +21,4 @@ Audiencia inicial En la audiencia inicial se informarán al imputado sus derecho
 
 En caso de que el [Ministerio Público](articulo-3o.md) o la víctima u ofendido solicite la procedencia de una medida cautelar, dicha cuestión deberá ser resuelta antes de que se dicte la suspensión de la audiencia inicial. Párrafo reformado DOF 17-06-2016
 
-A esta audiencia deberá concurrir el Ministerio Público, el imputado y su [Defensor](articulo-3o.md). La víctima u ofendido o su Asesor jurídico, podrán asistir si así lo desean, pero su presencia no será requisito de validez de la audiencia.
+A esta audiencia deberá concurrir el Ministerio Público, el imputado y su [Defensor](articulo-3o.md). La víctima u ofendido o su [Asesor jurídico](articulo-3o.md), podrán asistir si así lo desean, pero su presencia no será requisito de validez de la audiencia.

@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LFGR — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
 source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 ---
@@ -33,7 +33,9 @@ VI. Crear y administrar las bases nacionales de información en el ámbito de su
 
 VII. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Para efectos del acceso a la información pública, la Fiscalía General se regirá bajo el principio de máxima publicidad en los términos de la Constitución, no obstante, se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice la persona agente del Ministerio Público de la Federación y mantendrá la confidencialidad de los datos personales, en los términos que disponga el [Código Nacional](articulo-9.md), otras disposiciones aplicables y la presente [Ley](articulo-9.md);
 
-VIII. Hacer del conocimiento de la sociedad los instrumentos jurídicos a que refiere la presente Ley, los que serán publicados gratuitamente en el Diario Oficial de la Federación; IX. Llevar a cabo todos los actos que deriven de las disposiciones aplicables para la constitución y administración de fondos en el ámbito de su competencia;
+VIII. Hacer del conocimiento de la sociedad los instrumentos jurídicos a que refiere la presente Ley, los que serán publicados gratuitamente en el Diario Oficial de la Federación;
+
+IX. Llevar a cabo todos los actos que deriven de las disposiciones aplicables para la constitución y administración de fondos en el ámbito de su competencia;
 
 X. Desarrollar los mecanismos necesarios de comunicación y colaboración con agencias de policía internacional para la investigación de los hechos que la ley señala como delito de conformidad con lo previsto en la Constitución y los tratados internacionales;
 

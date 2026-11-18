@@ -21,7 +21,9 @@ La Dirección General Científica tiene las atribuciones siguientes:
 
 I. Utilizar los conocimientos y herramientas científicas y técnicas en la investigación para la prevención de los delitos;
 
-II. Coordinar, supervisar y operar el funcionamiento de los servicios científicos y técnicos de la [Institución](articulo-2.md); III. Auxiliar a las unidades de la Institución y a las autoridades competentes que lo soliciten, en la búsqueda, preservación y obtención de indicios y medios de pruebas necesarios en la investigación de delitos;
+II. Coordinar, supervisar y operar el funcionamiento de los servicios científicos y técnicos de la [Institución](articulo-2.md);
+
+III. Auxiliar a las unidades de la Institución y a las autoridades competentes que lo soliciten, en la búsqueda, preservación y obtención de indicios y medios de pruebas necesarios en la investigación de delitos;
 
 IV. Identificar y preservar, en el ámbito de su competencia, y conforme a las disposiciones jurídicas aplicables, la integridad de los indicios, huellas o vestigios del hecho delictivo o de infracciones administrativas, así como los instrumentos, objetos o productos del delito;
 
@@ -37,7 +39,7 @@ IX. Proponer las políticas y procedimientos institucionales para la actuación 
 
 X. Coordinar el funcionamiento de los laboratorios criminalísticos de la Institución, cuyo objeto es analizar los elementos químicos, biológicos, tecnológicos y mecánicos, que apoyen la investigación para la prevención de delitos y en el esclarecimiento de hechos delictivos bajo la conducción y mando del [Ministerio Público](articulo-2.md);
 
-XI. Supervisar la actualización de las bases de datos de la Institución y del Sistema Nacional de Información en Seguridad Pública, con datos de utilidad en la investigación de delitos, sin afectar el derecho de las personas sobre sus datos personales;
+XI. Supervisar la actualización de las bases de datos de la Institución y del [Sistema](articulo-2.md) Nacional de Información en Seguridad Pública, con datos de utilidad en la investigación de delitos, sin afectar el derecho de las personas sobre sus datos personales;
 
 XII. Establecer los mecanismos para la participación y comunicación con organismos y autoridades nacionales e internacionales, relacionados con las atribuciones de su competencia;
 
@@ -47,7 +49,9 @@ XIV. Supervisar que las opiniones cumplan con las formalidades científicas y t�
 
 XV. Proponer al titular de la Unidad de Órganos Especializados por Competencia, la intervención de comunicaciones y operaciones encubiertas, en coordinación con la Dirección General de Inteligencia;
 
-XVI. Vigilar, identificar, monitorear y rastrear la red pública de Internet, para prevenir conductas delictivas; XVII. Establecer registros de la información obtenida con motivo de sus investigaciones, así como instituir mecanismos y proponer protocolos para garantizar la confidencialidad e integridad de los datos;
+XVI. Vigilar, identificar, monitorear y rastrear la red pública de Internet, para prevenir conductas delictivas;
+
+XVII. Establecer registros de la información obtenida con motivo de sus investigaciones, así como instituir mecanismos y proponer protocolos para garantizar la confidencialidad e integridad de los datos;
 
 XVIII. Implementar los mecanismos que impulsen la investigación científica en áreas de oportunidad que deriven en metodologías y herramientas para la modernización continua de las diversas unidades de la Institución;
 

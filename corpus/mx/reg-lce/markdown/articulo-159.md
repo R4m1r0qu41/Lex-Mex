@@ -37,4 +37,6 @@ VIII. Manifestar por escrito las razones por las que la información confidencia
 
 IX. Comprometerse ante la Secretaría a devolver las versiones originales de sus notas o resúmenes formulados en la revisión de la información confidencial, dentro de los diez días siguientes de haberse dictado la resolución final, y Fracción reformada DOF 22-05-2014
 
-X. Presentar el formato que para tal efecto expida la Secretaría. Fracción adicionada DOF 22-05-2014 La información confidencial que, conforme a este Reglamento, tengan derecho a revisar los representantes legales de las partes interesadas y las personas que conforme a los tratados o convenios internacionales de los que México sea parte puedan tener acceso a la misma, será de uso estrictamente personal y no será transferible por ningún título. Párrafo reformado DOF 22-05-2014
+X. Presentar el formato que para tal efecto expida la Secretaría. Fracción adicionada DOF 22-05-2014
+
+La información confidencial que, conforme a este Reglamento, tengan derecho a revisar los representantes legales de las partes interesadas y las personas que conforme a los tratados o convenios internacionales de los que México sea parte puedan tener acceso a la misma, será de uso estrictamente personal y no será transferible por ningún título. Párrafo reformado DOF 22-05-2014

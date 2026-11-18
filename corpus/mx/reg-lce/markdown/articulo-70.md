@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCE.pdf
 source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 ---
 
-> Título V
+> Título V · Capítulo único
 
 # Artículo 70
 

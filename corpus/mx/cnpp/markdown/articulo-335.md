@@ -23,7 +23,7 @@ La acusación del Ministerio Público, deberá contener en forma clara y precisa
 
 I. La individualización del o los acusados y de su [Defensor](articulo-3o.md);
 
-II. La identificación de la víctima u ofendido y su Asesor jurídico;
+II. La identificación de la víctima u ofendido y su [Asesor jurídico](articulo-3o.md);
 
 III. La relación clara, precisa, circunstanciada y específica de los hechos atribuidos en modo, tiempo y lugar, así como su clasificación jurídica;
 
@@ -41,7 +41,9 @@ IX. La pena o medida de seguridad cuya aplicación se solicita incluyendo en su 
 
 X. Los medios de prueba que el Ministerio Público pretenda presentar para la individualización de la pena y en su caso, para la procedencia de sustitutivos de la pena de prisión o suspensión de la misma;
 
-XI. La solicitud de decomiso de los bienes asegurados; XII. La propuesta de acuerdos probatorios, en su caso, y
+XI. La solicitud de decomiso de los bienes asegurados;
+
+XII. La propuesta de acuerdos probatorios, en su caso, y
 
 XIII. La solicitud de que se aplique alguna forma de terminación anticipada del proceso cuando ésta proceda.
 

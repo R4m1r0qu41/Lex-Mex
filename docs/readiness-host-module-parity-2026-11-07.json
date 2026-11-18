@@ -1,0 +1,62 @@
+[
+  {
+    "module": "mcp-http.mjs",
+    "producer_exists": true,
+    "matches": false,
+    "host_sha256": "eb6892ba8ad029a2882ca6a408d1e67f743a42591561f91fd2071ac63ee98bc6"
+  },
+  {
+    "module": "mcp-tools.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "91465d166c3edf03227dc7928bceb7a25807c686374583aa71a64009737c1dc2"
+  },
+  {
+    "module": "query-contract.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "b314e5b61a34cce85f117b172d50e2fb82b5b96b61e75e8a6944f4486434c932"
+  },
+  {
+    "module": "query-http.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "fc5cd43fc0810513913143cee1723a9bc0d9b99eb43e94e70a51a978dc4fe1e7"
+  },
+  {
+    "module": "query-memory.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "6d6e764fa13fa76ad5076111d8e5e17ac1fd9ecb115b73f245f7f9e61f41b5a6"
+  },
+  {
+    "module": "query-projection.mjs",
+    "producer_exists": true,
+    "matches": false,
+    "host_sha256": "660825abc11d028c25d89fa55b6c33e822e9137ded14994d1019762fbe8336f7"
+  },
+  {
+    "module": "query-worker.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "baead13f75910262649c10bed9fb31912a68bbc2230f181c80e9af2deadbcc5c"
+  },
+  {
+    "module": "rag-answer.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "1964d4b49cc8956110783d629260c430eaf67f1d43fd11e3e6cf6af4def04123"
+  },
+  {
+    "module": "rag-evidence.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "350f794cdac2c31eeaa783d763c625fb2515298b0fce513adc7862b33b55cd9d"
+  },
+  {
+    "module": "rag-http.mjs",
+    "producer_exists": true,
+    "matches": true,
+    "host_sha256": "7e9dd759a399f83766668a4683d5387207e45269be61ce9146ca348efbaee91b"
+  }
+]

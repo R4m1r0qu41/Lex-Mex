@@ -21,4 +21,6 @@ La Federación fomentará las acciones voluntarias de conservación, protección
 
 I. La celebración de convenios entre la [Comisión](articulo-7.md) y los particulares, a efecto de ejecutar proyectos especiales que multipliquen recursos para constituir reservas forestales, previendo los aspectos relativos a su administración y los derechos de los propietarios y legítimos poseedores de los recursos forestales;
 
-II. Las medidas que a juicio de la Comisión, previa opinión del [Consejo](articulo-7.md), contribuyan de manera especial a la conservación, protección y restauración de la biodiversidad forestal y de las tierras afectadas por desertificación, y III. La determinación de los compromisos que contraigan y de las obligaciones que asuman, en los términos de los programas de manejo forestal.
+II. Las medidas que a juicio de la Comisión, previa opinión del [Consejo](articulo-7.md), contribuyan de manera especial a la conservación, protección y restauración de la biodiversidad forestal y de las tierras afectadas por desertificación, y
+
+III. La determinación de los compromisos que contraigan y de las obligaciones que asuman, en los términos de los programas de manejo forestal.

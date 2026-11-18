@@ -7,8 +7,8 @@ provision_type: article
 number: "270"
 aliases: ["REG-LFSA — Artículo 270"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -31,6 +31,8 @@ V. Detección de irregularidades y medidas de seguridad y alternativas para movi
 
 VI. Sellado del certificado zoosanitario, consignando el nombre del Punto de Verificación e Inspección Interna, la fecha, hora y nombre del personal oficial estatal;
 
-VII. Medidas zoosanitarias para el vehículo de transporte turístico, de pasajeros y privado; VIII. Servicios y tratamientos cuarentenarios en su caso, y
+VII. Medidas zoosanitarias para el vehículo de transporte turístico, de pasajeros y privado;
+
+VIII. Servicios y tratamientos cuarentenarios en su caso, y
 
 IX. Centro de lavado y desinfección zoosanitaria y requisitos y especificaciones en su caso.

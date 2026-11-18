@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LFSV — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -17,7 +17,9 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 17
 
-El [CONACOFI](articulo-2.md) tendrá las funciones siguientes: I. Llevar a cabo el desarrollo de consultas técnicas en materia fitosanitaria y brindar apoyo en materia de Sanidad Vegetal a la Secretaría;
+El [CONACOFI](articulo-2.md) tendrá las funciones siguientes:
+
+I. Llevar a cabo el desarrollo de consultas técnicas en materia fitosanitaria y brindar apoyo en materia de Sanidad Vegetal a la Secretaría;
 
 II. Analizar la problemática de Sanidad Vegetal en el país;
 

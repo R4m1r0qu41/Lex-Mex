@@ -21,7 +21,9 @@ Son objeto de la presente Ley:
 
 I. Establecer los principios y obligaciones que rigen la actuación de los Servidores Públicos;
 
-II. Establecer las [Faltas administrativas graves](articulo-3.md) y no graves de los Servidores Públicos, las sanciones aplicables a las mismas, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto; III. Establecer las sanciones por la comisión de [Faltas de particulares](articulo-3.md), así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
+II. Establecer las [Faltas administrativas graves](articulo-3.md) y no graves de los Servidores Públicos, las sanciones aplicables a las mismas, así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
+
+III. Establecer las sanciones por la comisión de [Faltas de particulares](articulo-3.md), así como los procedimientos para su aplicación y las facultades de las autoridades competentes para tal efecto;
 
 IV. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas, y
 

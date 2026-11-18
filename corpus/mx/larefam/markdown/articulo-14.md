@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LAREFAM — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---
@@ -23,4 +23,4 @@ I. Tener como mínimo 8 años de Servicio a la fecha prevista para el ascenso de
 
 II. Haber prestado 5 años de servicios como mínimo en la especialidad, y
 
-III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación [Militar](articulo-2.md) y Rectoría de la Universidad del [Ejército](articulo-2.md), Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025
+III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025

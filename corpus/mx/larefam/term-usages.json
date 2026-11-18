@@ -46,57 +46,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:647-650",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:648-651",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
     "span": "Ley",
-    "start_char": 647,
-    "end_char": 650
+    "start_char": 648,
+    "end_char": 651
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:799-811",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:800-812",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 799,
-    "end_char": 811
+    "start_char": 800,
+    "end_char": 812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1084-1092",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1085-1093",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
     "span": "Ejército",
-    "start_char": 1084,
-    "end_char": 1092
+    "start_char": 1085,
+    "end_char": 1093
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1319-1327",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1320-1328",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
     "span": "Ejército",
-    "start_char": 1319,
-    "end_char": 1327
+    "start_char": 1320,
+    "end_char": 1328
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1691-1699",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1692-1700",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
     "span": "Ejército",
-    "start_char": 1691,
-    "end_char": 1699
+    "start_char": 1692,
+    "end_char": 1700
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1873-1876",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1874-1877",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
     "span": "Ley",
-    "start_char": 1873,
-    "end_char": 1876
+    "start_char": 1874,
+    "end_char": 1877
   },
   {
     "schema_version": "0.1.0",
@@ -190,75 +190,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:634-641",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:635-642",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
     "span": "Militar",
-    "start_char": 634,
-    "end_char": 641
+    "start_char": 635,
+    "end_char": 642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:761-771",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:762-772",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
     "span": "Reglamento",
-    "start_char": 761,
-    "end_char": 771
+    "start_char": 762,
+    "end_char": 772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:941-948",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:942-949",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
     "span": "Militar",
-    "start_char": 941,
-    "end_char": 948
+    "start_char": 942,
+    "end_char": 949
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1277-1280",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1278-1281",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
     "span": "Ley",
-    "start_char": 1277,
-    "end_char": 1280
+    "start_char": 1278,
+    "end_char": 1281
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1498-1505",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1499-1506",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
     "span": "Militar",
-    "start_char": 1498,
-    "end_char": 1505
+    "start_char": 1499,
+    "end_char": 1506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1910-1913",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1911-1914",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
     "span": "Ley",
-    "start_char": 1910,
-    "end_char": 1913
+    "start_char": 1911,
+    "end_char": 1914
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1952-1964",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1953-1965",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 1952,
-    "end_char": 1964
+    "start_char": 1953,
+    "end_char": 1965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:2888-2891",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:2889-2892",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
     "span": "Ley",
-    "start_char": 2888,
-    "end_char": 2891
+    "start_char": 2889,
+    "end_char": 2892
   },
   {
     "schema_version": "0.1.0",
@@ -286,24 +286,6 @@
     "span": "Ley",
     "start_char": 234,
     "end_char": 237
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:581-588",
-    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
-    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
-    "span": "Militar",
-    "start_char": 581,
-    "end_char": 588
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:622-630",
-    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
-    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
-    "span": "Ejército",
-    "start_char": 622,
-    "end_char": 630
   },
   {
     "schema_version": "0.1.0",

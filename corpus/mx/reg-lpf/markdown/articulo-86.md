@@ -7,8 +7,8 @@ provision_type: article
 number: "86"
 aliases: ["REG-LPF — Artículo 86"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -41,4 +41,6 @@ X. Instruir los servicios de seguridad física de las instalaciones a resguardo 
 
 XI. Aplicar la metodología para mantener vigentes los sistemas y programas de seguridad en instalaciones a resguardo de la División;
 
-XII. Ejecutar el programa de capacitación y evaluación específico del personal responsable de brindar los servicios de seguridad y protección, en instituciones del sistema penitenciario, y XIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XII. Ejecutar el programa de capacitación y evaluación específico del personal responsable de brindar los servicios de seguridad y protección, en instituciones del sistema penitenciario, y
+
+XIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

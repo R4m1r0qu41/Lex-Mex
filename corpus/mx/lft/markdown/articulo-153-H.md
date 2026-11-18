@@ -21,7 +21,9 @@ Los planes y programas de capacitación y adiestramiento se elaborarán dentro d
 
 I. Referirse a periodos no mayores de dos años, salvo la capacitación a que se refiere el segundo párrafo del artículo [153-B](articulo-153-B.md);
 
-II. Comprender todos los puestos y niveles existentes en la empresa; III. Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
+II. Comprender todos los puestos y niveles existentes en la empresa;
+
+III. Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
 
 IV. Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría; y
 

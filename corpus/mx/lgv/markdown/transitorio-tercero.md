@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # TERCERO
 
-El [Reglamento](articulo-6.md) de la presente Ley deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.
+El [Reglamento](articulo-6.md) de la presente [Ley](articulo-6.md) deberá expedirse dentro de los seis meses siguientes a la fecha en que la Ley entre en vigor.

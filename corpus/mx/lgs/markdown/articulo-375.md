@@ -21,7 +21,9 @@ Requieren de permiso:
 
 I. (Se deroga). Fracción reformada DOF 27-05-1987, 14-06-1991. Derogada DOF 07-05-1997
 
-II. Los responsables de la operación y funcionamiento de fuentes de radiación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica, sin perjuicio de los requisitos que exijan otras autoridades competentes; Fracción reformada DOF 14-06-1991, 07-05-1997 III. La posesión, comercio, importación, distribución, transporte y utilización de fuentes de radiación y materiales radiactivos, de uso médico, así como la eliminación, desmantelamiento de los mismos y la disposición de sus desechos; Fracción reformada DOF 14-06-1991
+II. Los responsables de la operación y funcionamiento de fuentes de radiación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica, sin perjuicio de los requisitos que exijan otras autoridades competentes; Fracción reformada DOF 14-06-1991, 07-05-1997
+
+III. La posesión, comercio, importación, distribución, transporte y utilización de fuentes de radiación y materiales radiactivos, de uso médico, así como la eliminación, desmantelamiento de los mismos y la disposición de sus desechos; Fracción reformada DOF 14-06-1991
 
 IV. Los libros de control de estupefacientes o substancias psicotrópicas, así como los actos a que se refiere el artículo [241](articulo-241.md) de esta Ley;
 

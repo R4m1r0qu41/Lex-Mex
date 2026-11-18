@@ -27,7 +27,9 @@ III. Porque se dé un uso distinto a la autorización;
 
 IV. Por incumplimiento grave a las disposiciones de esta Ley, sus reglamentos y demás disposiciones generales aplicables;
 
-V. Por reiterada renuncia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables; VI. Porque el producto objeto de la autorización no se ajuste o deje de reunir las especificaciones o requisitos que fijen esta Ley, las normas oficiales mexicanas y demás disposiciones generales aplicables; Fracción reformada DOF 07-05-1997
+V. Por reiterada renuncia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
+
+VI. Porque el producto objeto de la autorización no se ajuste o deje de reunir las especificaciones o requisitos que fijen esta Ley, las normas oficiales mexicanas y demás disposiciones generales aplicables; Fracción reformada DOF 07-05-1997
 
 VII. Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la autoridad sanitaria, para otorgar la autorización;
 

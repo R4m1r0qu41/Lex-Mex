@@ -23,7 +23,9 @@ I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior d
 
 II. Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes de este servicio, velar en el extranjero por el buen nombre de México; garantizar la revalorización del fenómeno migratorio y el trato digno de mexicanas y mexicanos que viven en el exterior; impartir protección a las mexicanas y mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial, y las demás funciones federales que señalan las leyes, así como adquirir, administrar y conservar las propiedades de la Nación en el extranjero; Fracción reformada DOF 04-01-1982, 28-11-2024
 
-II A. Coadyuvar a la promoción económica, comercial, turística y cultural del país por conducto de sus embajadas y consulados; Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024 II B. Capacitar al personal del Servicio Exterior Mexicano en las áreas económica, comercial, turística y cultural para que puedan cumplir con las responsabilidades que deriven de la fracción anterior; Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024
+II A. Coadyuvar a la promoción económica, comercial, turística y cultural del país por conducto de sus embajadas y consulados; Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024
+
+II B. Capacitar al personal del Servicio Exterior Mexicano en las áreas económica, comercial, turística y cultural para que puedan cumplir con las responsabilidades que deriven de la fracción anterior; Fracción adicionada DOF 19-12-1995. Reformada DOF 28-11-2024
 
 III. Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y representar a México ante organismos e institutos internacionales sin perjuicio de la competencia de otras dependencias de la Administración Pública Federal; Fracción reformada DOF 28-11-2024
 

@@ -25,9 +25,9 @@ II.- Observar buenas costumbres dentro del servicio.
 
 III.- Cumplir con las obligaciones que les impongan las condiciones generales de trabajo.
 
-IV.- Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de su trabajo. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+IV.- Guardar reserva de los asuntos que lleguen a su conocimiento con motivo de su trabajo.
 
-ARTÍCULO 123 CONSTITUCIONAL V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
+V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
 
 VI.- Asistir puntualmente a sus labores;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "100"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 100"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -37,4 +37,6 @@ VIII.- (Se deroga)
 
 IX.- La obtención, conservación, utilización, preparación, suministro y exportación o importación de productos de seres humanos para la realización de procedimientos industriales;
 
-X.- El libro de registro que llevan las instituciones educativas que utilicen cadáveres para efectos de investigación o docencia, y XI.- El libro de registro que llevan los bancos de sangre, de plasma y los servicios de transfusión.
+X.- El libro de registro que llevan las instituciones educativas que utilicen cadáveres para efectos de investigación o docencia, y
+
+XI.- El libro de registro que llevan los bancos de sangre, de plasma y los servicios de transfusión.

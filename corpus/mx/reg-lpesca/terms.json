@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "VII",
     "start_char": 948,
-    "end_char": 1156,
+    "end_char": 1157,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "VIII",
-    "start_char": 1156,
-    "end_char": 1320,
+    "start_char": 1157,
+    "end_char": 1321,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "IX",
-    "start_char": 1320,
-    "end_char": 1483,
+    "start_char": 1321,
+    "end_char": 1484,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "X",
-    "start_char": 1483,
-    "end_char": 1617,
+    "start_char": 1484,
+    "end_char": 1618,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XI",
-    "start_char": 1617,
-    "end_char": 1738,
+    "start_char": 1618,
+    "end_char": 1739,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XII",
-    "start_char": 1738,
-    "end_char": 1986,
+    "start_char": 1739,
+    "end_char": 1987,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XIII",
-    "start_char": 1986,
-    "end_char": 2174,
+    "start_char": 1987,
+    "end_char": 2175,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XIV",
-    "start_char": 2174,
-    "end_char": 2253,
+    "start_char": 2175,
+    "end_char": 2254,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XV",
-    "start_char": 2253,
-    "end_char": 2360,
+    "start_char": 2254,
+    "end_char": 2361,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XVI",
-    "start_char": 2360,
-    "end_char": 2569,
+    "start_char": 2361,
+    "end_char": 2570,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XVII",
-    "start_char": 2569,
-    "end_char": 2763,
+    "start_char": 2570,
+    "end_char": 2764,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:2",
     "fraction": "XVIII",
-    "start_char": 2763,
-    "end_char": 3010,
+    "start_char": 2764,
+    "end_char": 3011,
     "basis": "express_definition"
   }
 ]

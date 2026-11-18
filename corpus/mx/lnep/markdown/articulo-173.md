@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Ámbitos de intervención El programa debe ser integral y debe considerar los siguientes ámbitos de intervención:
 
-I. Judicial: La participación del Juez de Ejecución durante el desarrollo del procedimiento; II. Clínico: Desarrollo del programa de tratamiento;
+I. Judicial: La participación del Juez de Ejecución durante el desarrollo del procedimiento;
+
+II. Clínico: Desarrollo del programa de tratamiento;
 
 III. Institucional: Los Consejos Estatales.
 

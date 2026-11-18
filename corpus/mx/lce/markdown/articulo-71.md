@@ -17,7 +17,9 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 # Artículo 71
 
-No están sujetas al pago de cuota compensatoria o medida de salvaguarda, las siguientes mercancías: I. Los equipajes de pasajeros en viajes internacionales;
+No están sujetas al pago de cuota compensatoria o medida de salvaguarda, las siguientes mercancías:
+
+I. Los equipajes de pasajeros en viajes internacionales;
 
 II. Los menajes de casa pertenecientes a inmigrantes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero;
 
@@ -30,5 +32,3 @@ V. Las demás que autorice la Secretaría.
 En los supuestos de las fracciones I a III se atenderá a lo previsto en la legislación aduanera.
 
 Artículo reformado DOF 13-03-2003
-
-Sección quinta Compromisos de exportadores y gobiernos

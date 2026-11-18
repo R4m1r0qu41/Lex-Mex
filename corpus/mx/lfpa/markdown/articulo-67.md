@@ -19,7 +19,9 @@ source_sha256: a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861
 
 En las actas se hará constar:
 
-I. Nombre, denominación o razón social del visitado; II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+I. Nombre, denominación o razón social del visitado;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
 III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la visita;
 

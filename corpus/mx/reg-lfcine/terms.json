@@ -95,7 +95,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
     "fraction": "IX",
     "start_char": 602,
-    "end_char": 715,
+    "end_char": 662,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:pelicula",
+    "term": "Película",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "X",
+    "start_char": 662,
+    "end_char": 716,
     "basis": "express_definition"
   }
 ]

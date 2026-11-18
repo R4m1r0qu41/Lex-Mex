@@ -7,8 +7,8 @@ provision_type: article
 number: "61"
 aliases: ["REG-LSEM — Artículo 61"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf
 source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 ---
@@ -33,7 +33,9 @@ VI. Informar a la Secretaría los nombres de los servidores públicos mexicanos 
 
 VII. Atender a servidores públicos, legisladores y otros representantes mexicanos que lleguen al país de su Adscripción, en comisión oficial, independientemente del partido político al que pertenezcan;
 
-VIII. Revisar información general sobre México y el país donde se encuentren acreditados, para mantenerse informado; IX. Conocer el país en el cual están adscritos y viajar a través del mismo, de acuerdo con el programa de trabajo autorizado;
+VIII. Revisar información general sobre México y el país donde se encuentren acreditados, para mantenerse informado;
+
+IX. Conocer el país en el cual están adscritos y viajar a través del mismo, de acuerdo con el programa de trabajo autorizado;
 
 X. Viajar a México al menos una vez al año, para celebrar consultas y actividades inherentes a su función; Fracción reformada DOF 02-11-2018
 

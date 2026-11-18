@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["REG-LOINAH — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -25,7 +25,9 @@ II. Proponer al titular de la Secretaría Técnica estrategias para la integraci
 
 III. Proponer al titular de la Secretaría Técnica criterios técnicos en materia de difusión y divulgación y, una vez emitidos, supervisar su aplicación y evaluarlos;
 
-IV. Supervisar e impulsar la publicación de los materiales que integran el fondo editorial del Instituto; V. Supervisar los procesos de impresión que se realizan en el taller de publicaciones del Instituto;
+IV. Supervisar e impulsar la publicación de los materiales que integran el fondo editorial del Instituto;
+
+V. Supervisar los procesos de impresión que se realizan en el taller de publicaciones del Instituto;
 
 VI. Intervenir en la supervisión, ejecución y seguimiento del cumplimiento de los convenios y compromisos internacionales, para fomentar la difusión y proyección de las actividades institucionales;
 

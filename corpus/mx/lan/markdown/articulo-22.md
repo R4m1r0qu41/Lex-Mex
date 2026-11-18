@@ -31,7 +31,9 @@ Para efectos de la presente Ley, son situaciones distintas de las normales, cuan
 
 Las concesiones y asignaciones expedidas por "la Autoridad del Agua", en los casos referidos en el Fracción IX del Artículo [9](articulo-9.md) de la presente Ley, señalarán expresamente las condiciones de variabilidad de la fuente de agua de la cual se realizará la extracción respectiva, y las condiciones a las cuales estará sujeta la extracción de volúmenes ante sequías y otros fenómenos. Los Títulos de concesión o asignación no garantizan la existencia o invariabilidad de los volúmenes que amparan. Ante sequías y otros fenómenos, se tomarán en consideración los volúmenes aprovechables en las fuentes señaladas en tales títulos, conforme lo dispongan los reglamentos de la presente Ley.
 
-En el otorgamiento de las concesiones se observará lo siguiente: I. "La Autoridad del Agua" podrá reservar para concesionar ciertas aguas por medio de concurso, cuando se prevea la concurrencia de varias personas interesadas; la reglamentación para tales casos será publicada previamente en cada caso, y Fracción reformada DOF 11-12-2025
+En el otorgamiento de las concesiones se observará lo siguiente:
+
+I. "La Autoridad del Agua" podrá reservar para concesionar ciertas aguas por medio de concurso, cuando se prevea la concurrencia de varias personas interesadas; la reglamentación para tales casos será publicada previamente en cada caso, y Fracción reformada DOF 11-12-2025
 
 II. Cuando no se reserven las aguas en términos de la fracción anterior, "la Autoridad del Agua" podrá otorgar la concesión a quien la solicite en primer lugar. Si distintas personas solicitantes concurrieran simultáneamente, "la Autoridad del Agua" podrá proceder a seleccionar la solicitud que ofrezca los mejores términos y condiciones que garanticen el uso racional, el reúso y la restauración del recurso hídrico. Fracción reformada DOF 11-12-2025
 

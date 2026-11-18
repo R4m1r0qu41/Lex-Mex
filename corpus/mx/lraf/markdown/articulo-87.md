@@ -17,7 +17,9 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 # Artículo 87
 
-Las solicitudes de autorización para que la [Sociedad Controladora](articulo-5o.md) invierta directa o indirectamente en entidades financieras no integrantes de su [Grupo Financiero](articulo-5o.md), deberán presentarse ante la [Secretaría](articulo-5o.md), acompañadas de la documentación siguiente: I. Copia autentificada por el secretario del consejo de administración de la Sociedad Controladora, del acuerdo adoptado por el órgano de gobierno que corresponda, en el que conste la aprobación del monto por invertir en el capital de la o las entidades de que se trate;
+Las solicitudes de autorización para que la [Sociedad Controladora](articulo-5o.md) invierta directa o indirectamente en entidades financieras no integrantes de su [Grupo Financiero](articulo-5o.md), deberán presentarse ante la [Secretaría](articulo-5o.md), acompañadas de la documentación siguiente:
+
+I. Copia autentificada por el secretario del consejo de administración de la Sociedad Controladora, del acuerdo adoptado por el órgano de gobierno que corresponda, en el que conste la aprobación del monto por invertir en el capital de la o las entidades de que se trate;
 
 II. El proyecto de escritura constitutiva de la o las entidades, en caso de ser de nueva creación. En caso de entidades ya constituidas, únicamente deberá presentar instrumento público otorgado ante fedatario público que contenga los estatutos sociales vigentes;
 

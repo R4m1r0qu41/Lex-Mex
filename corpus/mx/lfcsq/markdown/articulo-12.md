@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LFCSQ — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf
 source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 ---
@@ -31,7 +31,7 @@ IV. Allegarse de todo documento, dato o muestra relativos al manejo de las susta
 
 V. Proponer a las autoridades competentes, la emisión de disposiciones administrativas en las que se establezca el límite cuantitativo de sustancias químicas del Grupo 1 del Listado Nacional, que podrán destinar los sujetos obligados a la producción, adquisición, conservación, empleo y [Transferencia](articulo-2.md), mismos que deberán publicarse en el Diario Oficial de la Federación;
 
-VI. Proponer a las autoridades competentes, los mecanismos para el control de las Actividades Reguladas y prohibidas;
+VI. Proponer a las autoridades competentes, los mecanismos para el control de las [Actividades Reguladas](articulo-2.md) y prohibidas;
 
 VII. Autorizar, en su caso, los mecanismos automatizados con dependencias y entidades de la Administración Pública Federal, para el control de las operaciones de comercio exterior respecto de las sustancias químicas del Listado Nacional propuestos por la [Secretaría](articulo-2.md), y
 

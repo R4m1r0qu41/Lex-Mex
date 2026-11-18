@@ -19,7 +19,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Para que la [Dirección General](articulo-10.md) expida los títulos profesionales de Piloto Naval, Capitán, Capitán de Altura, Maquinista Naval, Primer Maquinista Naval y Jefe de Máquinas, las Escuelas Náuticas y las Instituciones Educativas del [FIDENA](articulo-10.md), deberán remitir en cada caso, original o copia certificada de los siguientes documentos:
 
-I. Título profesional de la categoría inmediata anterior, excepto en el caso de que el título se solicite para Piloto Naval o Maquinista Naval; II. Acta del examen profesional con fallo aprobatorio del jurado o dictamen de aprobación de la evaluación de la competencia acorde al [Convenio STCW](articulo-10.md);
+I. Título profesional de la categoría inmediata anterior, excepto en el caso de que el título se solicite para Piloto Naval o Maquinista Naval;
+
+II. Acta del examen profesional con fallo aprobatorio del jurado o dictamen de aprobación de la evaluación de la competencia acorde al [Convenio STCW](articulo-10.md);
 
 III. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente;
 

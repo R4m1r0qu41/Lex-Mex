@@ -37,12 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2:term-usage:5009-5012",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2:term-usage:5010-5013",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
     "span": "Ley",
-    "start_char": 5009,
-    "end_char": 5012
+    "start_char": 5010,
+    "end_char": 5013
   },
   {
     "schema_version": "0.1.0",
@@ -388,21 +388,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:150:term-usage:1116-1135",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:150:term-usage:1117-1136",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:150",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:kits-de-diagnostico",
     "span": "Kits de Diagnóstico",
-    "start_char": 1116,
-    "end_char": 1135
+    "start_char": 1117,
+    "end_char": 1136
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:154:term-usage:1207-1253",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:154:term-usage:1208-1254",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:154",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:certificado-de-buenas-practicas-de-manufactura",
     "span": "Certificado de Buenas Prácticas de Manufactura",
-    "start_char": 1207,
-    "end_char": 1253
+    "start_char": 1208,
+    "end_char": 1254
   },
   {
     "schema_version": "0.1.0",
@@ -451,12 +451,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:174:term-usage:915-918",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:174:term-usage:916-919",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:174",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",
     "span": "Ley",
-    "start_char": 915,
-    "end_char": 918
+    "start_char": 916,
+    "end_char": 919
   },
   {
     "schema_version": "0.1.0",
@@ -766,12 +766,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:286:term-usage:577-585",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:286:term-usage:578-586",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:286",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:senasica",
     "span": "SENASICA",
-    "start_char": 577,
-    "end_char": 585
+    "start_char": 578,
+    "end_char": 586
   },
   {
     "schema_version": "0.1.0",

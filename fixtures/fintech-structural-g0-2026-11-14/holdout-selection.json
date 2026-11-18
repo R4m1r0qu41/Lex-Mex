@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "task": "G0 independent holdout sampling for fintech structural pilot",
+    "repository_head": "c337dae1af9474d0aef246b3de196c49e2527722",
+    "annotation_date": "2026-11-14",
+    "selection_method": "Independent manual reading of permitted canonical provision JSON only; public file intentionally excludes gold queries, offsets, and expected outcomes.",
+    "sample_size": 8
+  },
+  "selections": [
+    {
+      "slug": "lritf",
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:4",
+      "label": "Artículo 4",
+      "strata": ["nested_incisos", "deep_roman_enumeration", "repeated_roman_label_distinct_scope"],
+      "selection_reason": "Nested enumeration within a long definitional article."
+    },
+    {
+      "slug": "lritf",
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:52",
+      "label": "Artículo 52",
+      "strata": ["nested_incisos", "roman_parent_then_alpha_child"],
+      "selection_reason": "Compact parent-and-child enumeration."
+    },
+    {
+      "slug": "lritf",
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
+      "label": "Artículo 58",
+      "strata": ["trailing_paragraph_attachment_uncertainty", "multi_level_enumeration"],
+      "selection_reason": "Enumerated duties followed by unlabeled explanatory paragraphs."
+    },
+    {
+      "slug": "lic",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:16",
+      "label": "Artículo 16",
+      "strata": ["dot_dash_label_form"],
+      "selection_reason": "Contains the requested dot-dash label form."
+    },
+    {
+      "slug": "lic",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+      "label": "Artículo 22 Bis",
+      "strata": ["bis_article_label", "nested_incisos", "repeated_roman_label_distinct_scope"],
+      "selection_reason": "Bis-labeled article with a nested definitional list."
+    },
+    {
+      "slug": "lic",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:42",
+      "label": "Artículo 42",
+      "strata": ["bis_qualified_fraction_marker", "mixed_case_bis_qualifier", "long_roman_enumeration"],
+      "selection_reason": "Contains qualified Roman fraction markers using Bis as a subsection/fraction qualifier."
+    },
+    {
+      "slug": "lmv",
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:35",
+      "label": "Artículo 35",
+      "strata": ["nested_incisos", "same_line_label_placement", "repeated_roman_label_distinct_scope"],
+      "selection_reason": "Nested list includes a label occurring after preceding prose on the same line."
+    },
+    {
+      "slug": "lmv",
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:64-bis-1",
+      "label": "Artículo 64 Bis 1",
+      "strata": ["bis_article_label", "nested_incisos", "nonconsecutive_outer_labels"],
+      "selection_reason": "Bis-labeled article with nesting and an observed outer-label sequence discontinuity."
+    }
+  ],
+  "coverage_notes": {
+    "instruments": ["lritf", "lic", "lmv"],
+    "repeated_labels_distinct_scopes": "Covered by independently selected roman-label occurrences in lritf, lic, and lmv.",
+    "nested_incisos": "Covered.",
+    "trailing_paragraph_attachment_uncertainty": "Covered.",
+    "bis_labels": "Article labels are present in lic article 22 Bis and lmv article 64 Bis 1; the required qualified fraction-marker stratum is independently covered by lic article 42.",
+    "bis_qualified_fraction_marker": "Covered by lic article 42.",
+    "dot_dash_forms": "Covered by lic article 16.",
+    "absent_strata": []
+  }
+}

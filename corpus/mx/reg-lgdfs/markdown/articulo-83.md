@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 83
 
-Las personas interesadas en obtener las autorizaciones a que se refieren las fracciones I y II del artículo [81](articulo-81.md) de este Reglamento deberán solicitarlo mediante el formato que para tal efecto expida la Secretaría, el cual deberá contener, por lo menos lo siguiente: I. Nombre o denominación o razón social y domicilio del solicitante;
+Las personas interesadas en obtener las autorizaciones a que se refieren las fracciones I y II del artículo [81](articulo-81.md) de este Reglamento deberán solicitarlo mediante el formato que para tal efecto expida la Secretaría, el cual deberá contener, por lo menos lo siguiente:
+
+I. Nombre o denominación o razón social y domicilio del solicitante;
 
 II. Fines de la colecta;
 

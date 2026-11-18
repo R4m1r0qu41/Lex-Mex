@@ -7,8 +7,8 @@ provision_type: article
 number: "72"
 aliases: ["REG-LPF — Artículo 72"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 72
 
-Corresponde a la Dirección General de Laboratorios: I. Examinar los objetos, materiales o cualquier elemento que se le remita para la investigación preventiva de los delitos que sean materia de competencia de la [Institución](articulo-2.md);
+Corresponde a la Dirección General de Laboratorios:
+
+I. Examinar los objetos, materiales o cualquier elemento que se le remita para la investigación preventiva de los delitos que sean materia de competencia de la [Institución](articulo-2.md);
 
 II. Analizar, conforme a las instrucciones del [Ministerio Público](articulo-2.md), en términos del Código Federal de Procedimientos Penales, los elementos de prueba, indicios y evidencias que les sean sometidos a su estudio;
 

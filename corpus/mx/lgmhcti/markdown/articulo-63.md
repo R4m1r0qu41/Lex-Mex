@@ -7,8 +7,8 @@ provision_type: article
 number: "63"
 aliases: ["LGMHCTI — Artículo 63"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -33,7 +33,9 @@ VI. Impulsar y apoyar la ciencia básica y de frontera en todas las áreas y cam
 
 VII. Promover y articular la incidencia de las actividades públicas en materia de humanidades, ciencias, tecnologías e innovación en la prevención, atención y solución de problemáticas nacionales;
 
-VIII. Promover y apoyar el desarrollo de tecnologías estratégicas de vanguardia y el impulso a la innovación abierta; IX. Promover y garantizar el acceso abierto a la información que derive de la investigación humanística y científica, el desarrollo tecnológico y la innovación apoyados con recursos públicos;
+VIII. Promover y apoyar el desarrollo de tecnologías estratégicas de vanguardia y el impulso a la innovación abierta;
+
+IX. Promover y garantizar el acceso abierto a la información que derive de la investigación humanística y científica, el desarrollo tecnológico y la innovación apoyados con recursos públicos;
 
 X. Otorgar, con cargo a su presupuesto, apoyos para el desarrollo, mantenimiento y optimización de infraestructuras y equipamientos destinados a la investigación humanística y científica, el desarrollo tecnológico y la innovación;
 

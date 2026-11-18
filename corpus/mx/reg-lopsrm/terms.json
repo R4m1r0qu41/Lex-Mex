@@ -40,7 +40,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "IV",
     "start_char": 901,
-    "end_char": 1098,
+    "end_char": 1099,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "V",
-    "start_char": 1098,
-    "end_char": 1351,
+    "start_char": 1099,
+    "end_char": 1352,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "VI",
-    "start_char": 1351,
-    "end_char": 1447,
+    "start_char": 1352,
+    "end_char": 1448,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "VII",
-    "start_char": 1447,
-    "end_char": 1710,
+    "start_char": 1448,
+    "end_char": 1711,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "VIII",
-    "start_char": 1710,
-    "end_char": 2178,
+    "start_char": 1711,
+    "end_char": 2179,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "IX",
-    "start_char": 2178,
-    "end_char": 2418,
+    "start_char": 2179,
+    "end_char": 2419,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "X",
-    "start_char": 2418,
-    "end_char": 2501,
+    "start_char": 2419,
+    "end_char": 2502,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XI",
-    "start_char": 2501,
-    "end_char": 2904,
+    "start_char": 2502,
+    "end_char": 2905,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XII",
-    "start_char": 2904,
-    "end_char": 3154,
+    "start_char": 2905,
+    "end_char": 3155,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XIII",
-    "start_char": 3154,
-    "end_char": 3356,
+    "start_char": 3155,
+    "end_char": 3357,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XIV",
-    "start_char": 3356,
-    "end_char": 3879,
+    "start_char": 3357,
+    "end_char": 3880,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XV",
-    "start_char": 3879,
-    "end_char": 4078,
+    "start_char": 3880,
+    "end_char": 4079,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XVI",
-    "start_char": 4078,
-    "end_char": 4451,
+    "start_char": 4079,
+    "end_char": 4452,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XVII",
-    "start_char": 4451,
-    "end_char": 4529,
+    "start_char": 4452,
+    "end_char": 4530,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XVIII",
-    "start_char": 4529,
-    "end_char": 4720,
+    "start_char": 4530,
+    "end_char": 4721,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XIX",
-    "start_char": 4720,
-    "end_char": 4966,
+    "start_char": 4721,
+    "end_char": 4967,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XX",
-    "start_char": 4966,
-    "end_char": 5249,
+    "start_char": 4967,
+    "end_char": 5250,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXI",
-    "start_char": 5249,
-    "end_char": 5304,
+    "start_char": 5250,
+    "end_char": 5305,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXII",
-    "start_char": 5304,
-    "end_char": 5695,
+    "start_char": 5305,
+    "end_char": 5696,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXIII",
-    "start_char": 5695,
-    "end_char": 5989,
+    "start_char": 5696,
+    "end_char": 5990,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXIV",
-    "start_char": 5989,
-    "end_char": 6195,
+    "start_char": 5990,
+    "end_char": 6196,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXV",
-    "start_char": 6195,
-    "end_char": 6451,
+    "start_char": 6196,
+    "end_char": 6452,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXVI",
-    "start_char": 6451,
-    "end_char": 6658,
+    "start_char": 6452,
+    "end_char": 6659,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXVII",
-    "start_char": 6658,
-    "end_char": 6721,
+    "start_char": 6659,
+    "end_char": 6722,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXVIII",
-    "start_char": 6721,
-    "end_char": 6955,
+    "start_char": 6722,
+    "end_char": 6956,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXIX",
-    "start_char": 6955,
-    "end_char": 7202,
+    "start_char": 6956,
+    "end_char": 7203,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "fraction": "XXX",
-    "start_char": 7202,
-    "end_char": 7280,
+    "start_char": 7203,
+    "end_char": 7281,
     "basis": "express_definition"
   }
 ]

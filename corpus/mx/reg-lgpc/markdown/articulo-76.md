@@ -65,7 +65,9 @@ b) Valoración del Riesgo;
 
 c) Medidas y acciones de [Autoprotección](articulo-2.md), y
 
-d) Difusión y socialización, y III. Plan de Continuidad de Operaciones:
+d) Difusión y socialización, y
+
+III. Plan de Continuidad de Operaciones:
 
 a) Fundamento legal;
 

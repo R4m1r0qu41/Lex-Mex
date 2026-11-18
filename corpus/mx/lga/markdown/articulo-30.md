@@ -21,7 +21,9 @@ Cada área o unidad administrativa debe contar con un archivo de trámite que te
 
 I. Integrar y organizar los expedientes que cada área o unidad produzca, use y reciba;
 
-II. Asegurar la localización y consulta de los expedientes mediante la elaboración de los inventarios documentales; III. Resguardar los archivos y la información que haya sido clasificada de acuerdo con la legislación en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
+II. Asegurar la localización y consulta de los expedientes mediante la elaboración de los inventarios documentales;
+
+III. Resguardar los archivos y la información que haya sido clasificada de acuerdo con la legislación en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
 
 IV. Colaborar con el área coordinadora de archivos en la elaboración de los instrumentos de control archivístico previstos en esta [Ley](articulo-4.md), las leyes locales y sus disposiciones reglamentarias;
 

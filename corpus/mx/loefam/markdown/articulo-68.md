@@ -7,8 +7,8 @@ provision_type: article
 number: "68"
 aliases: ["LOEFAM — Artículo 68"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf
 source_sha256: 6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7
 ---
@@ -21,7 +21,9 @@ Los Servicios del Ejército y Fuerza Aérea son:
 
 I. Ingenieros;
 
-II. Cartográfico; III. Transmisiones;
+II. Cartográfico;
+
+III. Transmisiones;
 
 IV. Materiales de Guerra;
 

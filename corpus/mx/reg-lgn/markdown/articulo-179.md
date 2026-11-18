@@ -21,7 +21,9 @@ El Consejo de Comisarios será competente para:
 
 I. Conocer, resolver y sancionar las faltas en contra de la disciplina de la [Institución](articulo-2.md), en que incurran los Integrantes de Carrera de la escala jerárquica de Comisarios en cualquier situación en que se encuentren, los Inspectores con mando operativo y los miembros del Consejo de Honor Superior;
 
-II. Validar la conducta o actuación de los integrantes a que se refiere la fracción anterior, cuando así se ordene y en los términos previstos en las disposiciones jurídicas aplicables; III. Conocer y resolver, las inconformidades que presenten los Integrantes de Carrera, que no estén de acuerdo con la resolución del Consejo de Honor Superior que los juzgó;
+II. Validar la conducta o actuación de los integrantes a que se refiere la fracción anterior, cuando así se ordene y en los términos previstos en las disposiciones jurídicas aplicables;
+
+III. Conocer y resolver, las inconformidades que presenten los Integrantes de Carrera, que no estén de acuerdo con la resolución del Consejo de Honor Superior que los juzgó;
 
 IV. Turnar al [Secretario](articulo-2.md), el recurso de inconformidad que presenten los Integrantes de Carrera, por no estar de acuerdo con la resolución del Consejo de Comisarios, para que éste a su vez lo turne ante el Consejo de Comisarios en su modalidad de Reducido, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LGPAS — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -19,7 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 La investigación científica y tecnológica en pesca y acuacultura, así como la capacitación en estas materias, tendrán como propósitos esenciales:
 
-I. Orientar las decisiones de las autoridades competentes en materia de pesca y acuacultura, relativas a la conservación, protección, restauración y aprovechamiento sustentable de los recursos pesqueros y acuícolas; II. Incrementar la capacidad para identificar, cuantificar, aprovechar, administrar, transformar, conservar e incrementar las especies pesqueras y acuícolas;
+I. Orientar las decisiones de las autoridades competentes en materia de pesca y acuacultura, relativas a la conservación, protección, restauración y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
+
+II. Incrementar la capacidad para identificar, cuantificar, aprovechar, administrar, transformar, conservar e incrementar las especies pesqueras y acuícolas;
 
 III. Promover el diseño de nuevas artes y métodos de pesca selectivos y ambientalmente seguros;
 

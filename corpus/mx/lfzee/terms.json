@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "VIII",
     "start_char": 2249,
-    "end_char": 2428,
+    "end_char": 2429,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "IX",
-    "start_char": 2428,
-    "end_char": 2589,
+    "start_char": 2429,
+    "end_char": 2590,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "X",
-    "start_char": 2589,
-    "end_char": 2726,
+    "start_char": 2590,
+    "end_char": 2727,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XI",
-    "start_char": 2726,
-    "end_char": 3120,
+    "start_char": 2727,
+    "end_char": 3121,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XII",
-    "start_char": 3120,
-    "end_char": 3392,
+    "start_char": 3121,
+    "end_char": 3393,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XIII",
-    "start_char": 3392,
-    "end_char": 3913,
+    "start_char": 3393,
+    "end_char": 3914,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XIV",
-    "start_char": 3913,
-    "end_char": 3976,
+    "start_char": 3914,
+    "end_char": 3977,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XV",
-    "start_char": 3976,
-    "end_char": 4214,
+    "start_char": 3977,
+    "end_char": 4215,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XVI",
-    "start_char": 4214,
-    "end_char": 4561,
+    "start_char": 4215,
+    "end_char": 4562,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "fraction": "XVII",
-    "start_char": 4561,
-    "end_char": 5267,
+    "start_char": 4562,
+    "end_char": 5268,
     "basis": "express_definition"
   }
 ]

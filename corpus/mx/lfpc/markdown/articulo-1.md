@@ -29,7 +29,9 @@ II. La educación y divulgación sobre el consumo adecuado de los productos y se
 
 III. La información adecuada y clara sobre los diferentes productos y servicios, con especificación correcta de cantidad, características, composición, calidad y precio, así como sobre los riesgos que representen;
 
-IV. La efectiva prevención y reparación de daños patrimoniales y morales, individuales o colectivos; V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, económica, administrativa y técnica a los consumidores; Fracción reformada DOF 04-02-2004
+IV. La efectiva prevención y reparación de daños patrimoniales y morales, individuales o colectivos;
+
+V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, económica, administrativa y técnica a los consumidores; Fracción reformada DOF 04-02-2004
 
 VI. El otorgamiento de información y de facilidades a los consumidores para la defensa de sus derechos; Fracción reformada DOF 04-02-2004
 

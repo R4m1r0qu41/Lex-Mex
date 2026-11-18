@@ -45,7 +45,9 @@ XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados
 
 XIII. Incumplir con lo señalado en el artículo [49](articulo-49.md) de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021
 
-XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo [84](articulo-84.md) de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021
+XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo [84](articulo-84.md) de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021
 
 XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del [Certificado de Explotador de Servicios Aéreos](articulo-2.md) y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 

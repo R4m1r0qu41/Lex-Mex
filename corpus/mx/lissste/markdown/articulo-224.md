@@ -25,7 +25,9 @@ II. Verificar que las inversiones y los recursos del Instituto se destinen a los
 
 III. Disponer la práctica de auditorías en todos los casos en que lo estime necesario, pudiendo auxiliarse con las áreas afines del propio Instituto;
 
-IV. Proponer a la Junta Directiva o al Director General, según sus respectivas atribuciones, las medidas que juzgue apropiadas para alcanzar mayor eficacia en la administración de los seguros, prestaciones y servicios; V. Examinar los estados financieros y la valuación financiera y actuarial del Instituto, verificando la suficiencia de las [Cuotas](articulo-6.md) y [Aportaciones](articulo-6.md) y el cumplimiento de los programas anuales de constitución de [Reservas](articulo-6.md);
+IV. Proponer a la Junta Directiva o al Director General, según sus respectivas atribuciones, las medidas que juzgue apropiadas para alcanzar mayor eficacia en la administración de los seguros, prestaciones y servicios;
+
+V. Examinar los estados financieros y la valuación financiera y actuarial del Instituto, verificando la suficiencia de las [Cuotas](articulo-6.md) y [Aportaciones](articulo-6.md) y el cumplimiento de los programas anuales de constitución de [Reservas](articulo-6.md);
 
 VI. Analizar la información relativa al entero de Cuotas y Aportaciones;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["REG-LPF — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la Dirección General de Apoyo Táctico:
 
-I. Realizar acciones operativas, en apoyo al personal de la Coordinación de Investigación, para detener, ubicar o combatir a las organizaciones delictivas conforme a las disposiciones aplicables; II. Coordinar la ejecución de acciones operativas, basadas en el desarrollo de la investigación de gabinete, de campo, del análisis táctico e intercambio de información interinstitucional para detener, ubicar o combatir a las organizaciones delictivas, conforme a las disposiciones aplicables;
+I. Realizar acciones operativas, en apoyo al personal de la Coordinación de Investigación, para detener, ubicar o combatir a las organizaciones delictivas conforme a las disposiciones aplicables;
+
+II. Coordinar la ejecución de acciones operativas, basadas en el desarrollo de la investigación de gabinete, de campo, del análisis táctico e intercambio de información interinstitucional para detener, ubicar o combatir a las organizaciones delictivas, conforme a las disposiciones aplicables;
 
 III. Participar, cuando así le sea solicitado, en los operativos implementados por otras áreas facultadas para ello en materia de prevención y combate a delitos federales;
 

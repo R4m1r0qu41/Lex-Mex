@@ -19,7 +19,9 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Son facultades de la Federación:
 
-I. Formular, conducir y evaluar la política nacional en materia de residuos así como elaborar el [Programa](articulo-5.md) Nacional para la Prevención y Gestión Integral de los [Residuos](articulo-5.md), el Programa Nacional para la Prevención y Gestión Integral de los [Residuos de Manejo Especial](articulo-5.md) y el Programa Nacional de [Remediación](articulo-5.md) de [Sitios Contaminados](articulo-5.md) y coordinar su instrumentación con las entidades federativas y municipios, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo [25](../../cpeum/markdown/articulo-25.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción reformada DOF 19-03-2014 II. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos peligrosos, su clasificación, prevenir la contaminación de sitios o llevar a cabo su remediación cuando ello ocurra;
+I. Formular, conducir y evaluar la política nacional en materia de residuos así como elaborar el [Programa](articulo-5.md) Nacional para la Prevención y Gestión Integral de los [Residuos](articulo-5.md), el Programa Nacional para la Prevención y Gestión Integral de los [Residuos de Manejo Especial](articulo-5.md) y el Programa Nacional de [Remediación](articulo-5.md) de [Sitios Contaminados](articulo-5.md) y coordinar su instrumentación con las entidades federativas y municipios, en el marco del Sistema Nacional de Planeación Democrática, establecido en el artículo [25](../../cpeum/markdown/articulo-25.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción reformada DOF 19-03-2014
+
+II. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos peligrosos, su clasificación, prevenir la contaminación de sitios o llevar a cabo su remediación cuando ello ocurra;
 
 III. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos mineros y los residuos metalúrgicos que corresponden a su competencia de conformidad con esta [Ley](articulo-5.md) y la Ley de Minería; Fracción reformada DOF 08-05-2023
 
@@ -39,7 +41,9 @@ X. Celebrar convenios con los gobiernos de las entidades federativas para partic
 
 XI. Autorizar el manejo integral de residuos peligrosos, así como la prestación de los servicios correspondientes, de conformidad con lo previsto en esta Ley; Fracción recorrida DOF 21-05-2013
 
-XII. Promover, en coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas, la creación de infraestructura para el manejo integral de los residuos con la participación de los inversionistas y representantes de los sectores sociales interesados; Fracción recorrida DOF 21-05-2013 XIII. Autorizar la importación, exportación o tránsito de residuos peligrosos por el territorio nacional, de acuerdo con lo previsto en esta Ley; Fracción recorrida DOF 21-05-2013
+XII. Promover, en coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas, la creación de infraestructura para el manejo integral de los residuos con la participación de los inversionistas y representantes de los sectores sociales interesados; Fracción recorrida DOF 21-05-2013
+
+XIII. Autorizar la importación, exportación o tránsito de residuos peligrosos por el territorio nacional, de acuerdo con lo previsto en esta Ley; Fracción recorrida DOF 21-05-2013
 
 XIV. Establecer y operar, en el marco del Sistema Nacional de Protección Civil, en coordinación con los gobiernos de las entidades federativas y de los municipios, el sistema para la prevención y control de contingencias y emergencias ambientales relacionadas con la gestión de residuos; Fracción recorrida DOF 21-05-2013
 
@@ -57,7 +61,9 @@ XX. Suscribir convenios o acuerdos con las cámaras industriales, comerciales y 
 
 XXI. Diseñar y promover mecanismos y acciones voluntarias tendientes a prevenir y minimizar la generación de residuos, así como la contaminación de sitios; Fracción recorrida DOF 21-05-2013
 
-XXII. Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de incentivos económicos, fiscales, financieros y de mercado, que tengan por objeto favorecer la valorización, la gestión integral y sustentable de los residuos, la remediación de sitios contaminados con estos; así como prevenir o evitar la generación de residuos y la contaminación de sitios por estos; Fracción reformada y recorrida DOF 21-05-2013 XXIII. Promover y aplicar en colaboración con las entidades federativas y municipales instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezcan la reducción, el reúso, y reciclaje de residuos; Fracción adicionada DOF 21-05-2013
+XXII. Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de incentivos económicos, fiscales, financieros y de mercado, que tengan por objeto favorecer la valorización, la gestión integral y sustentable de los residuos, la remediación de sitios contaminados con estos; así como prevenir o evitar la generación de residuos y la contaminación de sitios por estos; Fracción reformada y recorrida DOF 21-05-2013
+
+XXIII. Promover y aplicar en colaboración con las entidades federativas y municipales instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezcan la reducción, el reúso, y reciclaje de residuos; Fracción adicionada DOF 21-05-2013
 
 XXIV. Promover, difundir y facilitar el acceso a la información a todos los sectores de la sociedad sobre los riesgos y efectos en el ambiente y la salud humana de los materiales, envases, empaques y embalajes que al desecharse se convierten en residuos, en colaboración y coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas; Fracción adicionada DOF 21-05-2013
 

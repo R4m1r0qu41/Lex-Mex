@@ -41,7 +41,9 @@ X. El desarrollo y uso de transporte público, masivo y con altos estándares de
 
 XI. Reducir la quema y venteo de gas para disminuir las pérdidas en los procesos de extracción y en los sistemas de distribución y garantizar al máximo el aprovechamiento del gas en Instalaciones industriales, petroleras, gaseras y de refinación;
 
-XII. Promover el aprovechamiento del gas asociado a la explotación de los yacimientos minerales de carbón; XIII. El aprovechamiento energético de los residuos en proyectos de generación de energía;
+XII. Promover el aprovechamiento del gas asociado a la explotación de los yacimientos minerales de carbón;
+
+XIII. El aprovechamiento energético de los residuos en proyectos de generación de energía;
 
 XIV. Desarrollar incentivos económicos y fiscales para impulsar el desarrollo y consolidación de industrias y empresas socialmente responsables con el medio ambiente, y
 

@@ -73,192 +73,192 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:158-179",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:159-180",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 158,
-    "end_char": 179
+    "start_char": 159,
+    "end_char": 180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:331-352",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:332-353",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 331,
-    "end_char": 352
+    "start_char": 332,
+    "end_char": 353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:653-674",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:654-675",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 653,
-    "end_char": 674
+    "start_char": 654,
+    "end_char": 675
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:805-817",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:806-818",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 805,
-    "end_char": 817
+    "start_char": 806,
+    "end_char": 818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:845-866",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:846-867",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 845,
-    "end_char": 866
+    "start_char": 846,
+    "end_char": 867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1147-1165",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1148-1166",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidad federativa",
-    "start_char": 1147,
-    "end_char": 1165
+    "start_char": 1148,
+    "end_char": 1166
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1262-1283",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1263-1284",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 1262,
-    "end_char": 1283
+    "start_char": 1263,
+    "end_char": 1284
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1315-1330",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1316-1331",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1315,
-    "end_char": 1330
+    "start_char": 1316,
+    "end_char": 1331
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1335-1361",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1336-1362",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1335,
-    "end_char": 1361
+    "start_char": 1336,
+    "end_char": 1362
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1367-1385",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:1368-1386",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-alzada",
     "span": "Tribunal de alzada",
-    "start_char": 1367,
-    "end_char": 1385
+    "start_char": 1368,
+    "end_char": 1386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2213-2231",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2214-2232",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2213,
-    "end_char": 2231
+    "start_char": 2214,
+    "end_char": 2232
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2300-2312",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2301-2313",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 2300,
-    "end_char": 2312
+    "start_char": 2301,
+    "end_char": 2313
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2319-2325",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2320-2326",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 2319,
-    "end_char": 2325
+    "start_char": 2320,
+    "end_char": 2326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2428-2446",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2429-2447",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2428,
-    "end_char": 2446
+    "start_char": 2429,
+    "end_char": 2447
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2470-2488",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2471-2489",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2470,
-    "end_char": 2488
+    "start_char": 2471,
+    "end_char": 2489
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2496-2517",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2497-2518",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 2496,
-    "end_char": 2517
+    "start_char": 2497,
+    "end_char": 2518
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2550-2571",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2551-2572",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 2550,
-    "end_char": 2571
+    "start_char": 2551,
+    "end_char": 2572
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2737-2758",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2738-2759",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 2737,
-    "end_char": 2758
+    "start_char": 2738,
+    "end_char": 2759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2949-2970",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:2951-2972",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 2949,
-    "end_char": 2970
+    "start_char": 2951,
+    "end_char": 2972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:3214-3235",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:3216-3237",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 3214,
-    "end_char": 3235
+    "start_char": 3216,
+    "end_char": 3237
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:3318-3339",
+    "id": "urn:lex-mx:federal:code:cnpp:article:3:term-usage:3320-3341",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 3318,
-    "end_char": 3339
+    "start_char": 3320,
+    "end_char": 3341
   },
   {
     "schema_version": "0.1.0",
@@ -523,6 +523,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:17:term-usage:704-719",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:17",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 704,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:17:term-usage:828-849",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:17",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
@@ -649,75 +658,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:831-849",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:832-850",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 831,
-    "end_char": 849
+    "start_char": 832,
+    "end_char": 850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1001-1025",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1002-1026",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órganos jurisdiccionales",
-    "start_char": 1001,
-    "end_char": 1025
+    "start_char": 1002,
+    "end_char": 1026
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1508-1529",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1509-1530",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1508,
-    "end_char": 1529
+    "start_char": 1509,
+    "end_char": 1530
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1714-1735",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1715-1736",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1714,
-    "end_char": 1735
+    "start_char": 1715,
+    "end_char": 1736
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1901-1922",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:1902-1923",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1901,
-    "end_char": 1922
+    "start_char": 1902,
+    "end_char": 1923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2063-2084",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2064-2085",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 2063,
-    "end_char": 2084
+    "start_char": 2064,
+    "end_char": 2085
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2230-2251",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2231-2252",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 2230,
-    "end_char": 2251
+    "start_char": 2231,
+    "end_char": 2252
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2517-2538",
+    "id": "urn:lex-mx:federal:code:cnpp:article:20:term-usage:2518-2539",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:20",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 2517,
-    "end_char": 2538
+    "start_char": 2518,
+    "end_char": 2539
   },
   {
     "schema_version": "0.1.0",
@@ -775,21 +784,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:21:term-usage:1807-1814",
+    "id": "urn:lex-mx:federal:code:cnpp:article:21:term-usage:1808-1815",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:21",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
     "span": "Tratado",
-    "start_char": 1807,
-    "end_char": 1814
+    "start_char": 1808,
+    "end_char": 1815
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:21:term-usage:2209-2227",
+    "id": "urn:lex-mx:federal:code:cnpp:article:21:term-usage:2210-2228",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:21",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2209,
-    "end_char": 2227
+    "start_char": 2210,
+    "end_char": 2228
   },
   {
     "schema_version": "0.1.0",
@@ -901,6 +910,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:25:term-usage:422-437",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:25",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 422,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:25:term-usage:506-512",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:25",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
@@ -910,129 +928,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:127-151",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:128-152",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órganos jurisdiccionales",
-    "start_char": 127,
-    "end_char": 151
+    "start_char": 128,
+    "end_char": 152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:254-260",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:255-261",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 254,
-    "end_char": 260
+    "start_char": 255,
+    "end_char": 261
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:269-281",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:270-282",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 269,
-    "end_char": 281
+    "start_char": 270,
+    "end_char": 282
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:417-441",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:418-442",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órganos jurisdiccionales",
-    "start_char": 417,
-    "end_char": 441
+    "start_char": 418,
+    "end_char": 442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:455-473",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:456-474",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidad federativa",
-    "start_char": 455,
-    "end_char": 473
+    "start_char": 456,
+    "end_char": 474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:527-533",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:528-534",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 527,
-    "end_char": 533
+    "start_char": 528,
+    "end_char": 534
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:542-554",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:543-555",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 542,
-    "end_char": 554
+    "start_char": 543,
+    "end_char": 555
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:689-710",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:690-711",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 689,
-    "end_char": 710
+    "start_char": 690,
+    "end_char": 711
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:729-750",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:730-751",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 729,
-    "end_char": 750
+    "start_char": 730,
+    "end_char": 751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:826-838",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:827-839",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 826,
-    "end_char": 838
+    "start_char": 827,
+    "end_char": 839
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:844-865",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:845-866",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 844,
-    "end_char": 865
+    "start_char": 845,
+    "end_char": 866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1068-1074",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1069-1075",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1068,
-    "end_char": 1074
+    "start_char": 1069,
+    "end_char": 1075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1174-1195",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1175-1196",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1174,
-    "end_char": 1195
+    "start_char": 1175,
+    "end_char": 1196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1269-1290",
+    "id": "urn:lex-mx:federal:code:cnpp:article:26:term-usage:1270-1291",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:26",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1269,
-    "end_char": 1290
+    "start_char": 1270,
+    "end_char": 1291
   },
   {
     "schema_version": "0.1.0",
@@ -1297,21 +1315,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:term-usage:2291-2317",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:term-usage:160-175",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
-    "span": "Tribunal de enjuiciamiento",
-    "start_char": 2291,
-    "end_char": 2317
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 160,
+    "end_char": 175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:term-usage:2338-2353",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:term-usage:2292-2318",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
+    "span": "Tribunal de enjuiciamiento",
+    "start_char": 2292,
+    "end_char": 2318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:term-usage:2339-2354",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 2338,
-    "end_char": 2353
+    "start_char": 2339,
+    "end_char": 2354
   },
   {
     "schema_version": "0.1.0",
@@ -1702,6 +1729,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:1314-1329",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1314,
+    "end_char": 1329
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:1335-1353",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
@@ -1711,12 +1747,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:1926-1941",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1926,
+    "end_char": 1941
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:2014-2035",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
     "start_char": 2014,
     "end_char": 2035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:2101-2116",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 2101,
+    "end_char": 2116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:57:term-usage:2175-2190",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:57",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 2175,
+    "end_char": 2190
   },
   {
     "schema_version": "0.1.0",
@@ -1924,6 +1987,15 @@
     "span": "Defensor",
     "start_char": 258,
     "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:66:term-usage:304-319",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:66",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 304,
+    "end_char": 319
   },
   {
     "schema_version": "0.1.0",
@@ -2287,6 +2359,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:85:term-usage:311-326",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:85",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 311,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:85:term-usage:473-494",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:85",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
@@ -2314,12 +2395,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:86:term-usage:30-48",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:86",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesores jurídicos",
+    "start_char": 30,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:86:term-usage:67-75",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:86",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
     "span": "Defensor",
     "start_char": 67,
     "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:86:term-usage:78-93",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:86",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 78,
+    "end_char": 93
   },
   {
     "schema_version": "0.1.0",
@@ -2347,6 +2446,15 @@
     "span": "Órgano jurisdiccional",
     "start_char": 501,
     "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:86:term-usage:584-602",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:86",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesores jurídicos",
+    "start_char": 584,
+    "end_char": 602
   },
   {
     "schema_version": "0.1.0",
@@ -2665,6 +2773,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:105:term-usage:118-133",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:105",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 118,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:105:term-usage:162-170",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:105",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
@@ -2725,6 +2842,15 @@
     "span": "Ministerio Público",
     "start_char": 496,
     "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:105:term-usage:543-558",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:105",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 543,
+    "end_char": 558
   },
   {
     "schema_version": "0.1.0",
@@ -2809,6 +2935,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:895-910",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 895,
+    "end_char": 910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:1019-1034",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1019,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:1127-1142",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1127,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:1147-1165",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
@@ -2818,156 +2971,228 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:2747-2753",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:1272-1287",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
-    "span": "Código",
-    "start_char": 2747,
-    "end_char": 2753
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1272,
+    "end_char": 1287
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:2869-2875",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:2748-2754",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 2869,
-    "end_char": 2875
+    "start_char": 2748,
+    "end_char": 2754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:3072-3090",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:2823-2838",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 2823,
+    "end_char": 2838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:2870-2876",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
+    "span": "Código",
+    "start_char": 2870,
+    "end_char": 2876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:3073-3091",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3072,
-    "end_char": 3090
+    "start_char": 3073,
+    "end_char": 3091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:3969-3987",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:3970-3988",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3969,
-    "end_char": 3987
+    "start_char": 3970,
+    "end_char": 3988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4073-4079",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4074-4080",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 4073,
-    "end_char": 4079
+    "start_char": 4074,
+    "end_char": 4080
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4327-4348",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4328-4349",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 4327,
-    "end_char": 4348
+    "start_char": 4328,
+    "end_char": 4349
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4546-4552",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4548-4554",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 4546,
-    "end_char": 4552
+    "start_char": 4548,
+    "end_char": 4554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4660-4681",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4662-4683",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 4660,
-    "end_char": 4681
+    "start_char": 4662,
+    "end_char": 4683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4707-4725",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4709-4727",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4707,
-    "end_char": 4725
+    "start_char": 4709,
+    "end_char": 4727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4988-5009",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:4990-5011",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 4988,
-    "end_char": 5009
+    "start_char": 4990,
+    "end_char": 5011
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5271-5277",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5273-5279",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 5271,
-    "end_char": 5277
+    "start_char": 5273,
+    "end_char": 5279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5406-5412",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5408-5414",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 5406,
-    "end_char": 5412
+    "start_char": 5408,
+    "end_char": 5414
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5515-5536",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5517-5538",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 5515,
-    "end_char": 5536
+    "start_char": 5517,
+    "end_char": 5538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5542-5560",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5544-5562",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 5542,
-    "end_char": 5560
+    "start_char": 5544,
+    "end_char": 5562
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5732-5744",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5734-5746",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 5732,
-    "end_char": 5744
+    "start_char": 5734,
+    "end_char": 5746
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5753-5761",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5755-5763",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
     "span": "Tratados",
-    "start_char": 5753,
-    "end_char": 5761
+    "start_char": 5755,
+    "end_char": 5763
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5801-5807",
+    "id": "urn:lex-mx:federal:code:cnpp:article:109:term-usage:5803-5809",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 5801,
-    "end_char": 5807
+    "start_char": 5803,
+    "end_char": 5809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:15-30",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 15,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:115-130",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 115,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:464-479",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 464,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:656-671",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 656,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:885-900",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 885,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:110:term-usage:972-987",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:110",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 972,
+    "end_char": 987
   },
   {
     "schema_version": "0.1.0",
@@ -3088,57 +3313,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2666-2674",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2667-2675",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
     "span": "Defensor",
-    "start_char": 2666,
-    "end_char": 2674
+    "start_char": 2667,
+    "end_char": 2675
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2872-2890",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2873-2891",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2872,
-    "end_char": 2890
+    "start_char": 2873,
+    "end_char": 2891
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2901-2916",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:2902-2917",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 2901,
-    "end_char": 2916
+    "start_char": 2902,
+    "end_char": 2917
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:3690-3696",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:3691-3697",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 3690,
-    "end_char": 3696
+    "start_char": 3691,
+    "end_char": 3697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:3901-3922",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:3902-3923",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 3901,
-    "end_char": 3922
+    "start_char": 3902,
+    "end_char": 3923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:4113-4131",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:term-usage:4114-4132",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4113,
-    "end_char": 4131
+    "start_char": 4114,
+    "end_char": 4132
   },
   {
     "schema_version": "0.1.0",
@@ -3808,84 +4033,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:2970-2976",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:2971-2977",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 2970,
-    "end_char": 2976
+    "start_char": 2971,
+    "end_char": 2977
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3065-3071",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3066-3072",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 3065,
-    "end_char": 3071
+    "start_char": 3066,
+    "end_char": 3072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3235-3253",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3236-3254",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3235,
-    "end_char": 3253
+    "start_char": 3236,
+    "end_char": 3254
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3255-3263",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3256-3264",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:policia",
     "span": "Policías",
-    "start_char": 3255,
-    "end_char": 3263
+    "start_char": 3256,
+    "end_char": 3264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3507-3528",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3508-3529",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 3507,
-    "end_char": 3528
+    "start_char": 3508,
+    "end_char": 3529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3603-3609",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3604-3610",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 3603,
-    "end_char": 3609
+    "start_char": 3604,
+    "end_char": 3610
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3969-3990",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:3970-3991",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 3969,
-    "end_char": 3990
+    "start_char": 3970,
+    "end_char": 3991
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:4618-4630",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:4619-4631",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 4618,
-    "end_char": 4630
+    "start_char": 4619,
+    "end_char": 4631
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:4839-4845",
+    "id": "urn:lex-mx:federal:code:cnpp:article:131:term-usage:4840-4846",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:131",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 4839,
-    "end_char": 4845
+    "start_char": 4840,
+    "end_char": 4846
   },
   {
     "schema_version": "0.1.0",
@@ -3898,156 +4123,156 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:72-79",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:73-80",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:policia",
     "span": "Policía",
-    "start_char": 72,
-    "end_char": 79
+    "start_char": 73,
+    "end_char": 80
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:119-137",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:120-138",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 119,
-    "end_char": 137
+    "start_char": 120,
+    "end_char": 138
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:347-359",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:348-360",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 347,
-    "end_char": 359
+    "start_char": 348,
+    "end_char": 360
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:425-431",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:426-432",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 425,
-    "end_char": 431
+    "start_char": 426,
+    "end_char": 432
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:436-443",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:437-444",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:policia",
     "span": "Policía",
-    "start_char": 436,
-    "end_char": 443
+    "start_char": 437,
+    "end_char": 444
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:572-590",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:573-591",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 572,
-    "end_char": 590
+    "start_char": 573,
+    "end_char": 591
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:742-760",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:743-761",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 742,
-    "end_char": 760
+    "start_char": 743,
+    "end_char": 761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:865-877",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:866-878",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 865,
-    "end_char": 877
+    "start_char": 866,
+    "end_char": 878
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1299-1317",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1300-1318",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1299,
-    "end_char": 1317
+    "start_char": 1300,
+    "end_char": 1318
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1448-1466",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1449-1467",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1448,
-    "end_char": 1466
+    "start_char": 1449,
+    "end_char": 1467
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1723-1741",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1724-1742",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1723,
-    "end_char": 1741
+    "start_char": 1724,
+    "end_char": 1742
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1826-1844",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:1827-1845",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1826,
-    "end_char": 1844
+    "start_char": 1827,
+    "end_char": 1845
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2031-2038",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2032-2039",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:policia",
     "span": "Policía",
-    "start_char": 2031,
-    "end_char": 2038
+    "start_char": 2032,
+    "end_char": 2039
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2094-2112",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2095-2113",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2094,
-    "end_char": 2112
+    "start_char": 2095,
+    "end_char": 2113
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2160-2166",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2161-2167",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 2160,
-    "end_char": 2166
+    "start_char": 2161,
+    "end_char": 2167
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2601-2619",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:2602-2620",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2601,
-    "end_char": 2619
+    "start_char": 2602,
+    "end_char": 2620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:4098-4104",
+    "id": "urn:lex-mx:federal:code:cnpp:article:132:term-usage:4099-4105",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:132",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 4098,
-    "end_char": 4104
+    "start_char": 4099,
+    "end_char": 4105
   },
   {
     "schema_version": "0.1.0",
@@ -4078,21 +4303,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:134:term-usage:1249-1261",
+    "id": "urn:lex-mx:federal:code:cnpp:article:134:term-usage:1250-1262",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:134",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
     "span": "Ley Orgánica",
-    "start_char": 1249,
-    "end_char": 1261
+    "start_char": 1250,
+    "end_char": 1262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:134:term-usage:1271-1277",
+    "id": "urn:lex-mx:federal:code:cnpp:article:134:term-usage:1272-1278",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:134",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1271,
-    "end_char": 1277
+    "start_char": 1272,
+    "end_char": 1278
   },
   {
     "schema_version": "0.1.0",
@@ -4366,57 +4591,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:875-890",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:876-891",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 875,
-    "end_char": 890
+    "start_char": 876,
+    "end_char": 891
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:955-973",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:956-974",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 955,
-    "end_char": 973
+    "start_char": 956,
+    "end_char": 974
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1053-1068",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1054-1069",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1053,
-    "end_char": 1068
+    "start_char": 1054,
+    "end_char": 1069
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1251-1266",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1252-1267",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1251,
-    "end_char": 1266
+    "start_char": 1252,
+    "end_char": 1267
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1306-1324",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1307-1325",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1306,
-    "end_char": 1324
+    "start_char": 1307,
+    "end_char": 1325
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1528-1546",
+    "id": "urn:lex-mx:federal:code:cnpp:article:143:term-usage:1529-1547",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:143",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1528,
-    "end_char": 1546
+    "start_char": 1529,
+    "end_char": 1547
   },
   {
     "schema_version": "0.1.0",
@@ -5077,21 +5302,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:7263-7281",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:7265-7283",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 7263,
-    "end_char": 7281
+    "start_char": 7265,
+    "end_char": 7283
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:8037-8055",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:term-usage:8039-8057",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 8037,
-    "end_char": 8055
+    "start_char": 8039,
+    "end_char": 8057
   },
   {
     "schema_version": "0.1.0",
@@ -5176,48 +5401,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:236-251",
+    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:237-252",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 236,
-    "end_char": 251
+    "start_char": 237,
+    "end_char": 252
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:299-314",
+    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:300-315",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 299,
-    "end_char": 314
+    "start_char": 300,
+    "end_char": 315
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:424-442",
+    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:425-443",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 424,
-    "end_char": 442
+    "start_char": 425,
+    "end_char": 443
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:598-619",
+    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:599-620",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 598,
-    "end_char": 619
+    "start_char": 599,
+    "end_char": 620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:934-949",
+    "id": "urn:lex-mx:federal:code:cnpp:article:173:term-usage:935-950",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:173",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 934,
-    "end_char": 949
+    "start_char": 935,
+    "end_char": 950
   },
   {
     "schema_version": "0.1.0",
@@ -5266,21 +5491,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:177:term-usage:2469-2490",
+    "id": "urn:lex-mx:federal:code:cnpp:article:177:term-usage:2470-2491",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:177",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 2469,
-    "end_char": 2490
+    "start_char": 2470,
+    "end_char": 2491
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:177:term-usage:2694-2715",
+    "id": "urn:lex-mx:federal:code:cnpp:article:177:term-usage:2695-2716",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:177",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
     "span": "Entidades federativas",
-    "start_char": 2694,
-    "end_char": 2715
+    "start_char": 2695,
+    "end_char": 2716
   },
   {
     "schema_version": "0.1.0",
@@ -5455,12 +5680,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:192:term-usage:978-984",
+    "id": "urn:lex-mx:federal:code:cnpp:article:192:term-usage:979-985",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:192",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 978,
-    "end_char": 984
+    "start_char": 979,
+    "end_char": 985
   },
   {
     "schema_version": "0.1.0",
@@ -5500,48 +5725,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1423-1438",
+    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1424-1439",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1423,
-    "end_char": 1438
+    "start_char": 1424,
+    "end_char": 1439
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1529-1544",
+    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1530-1545",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1529,
-    "end_char": 1544
+    "start_char": 1530,
+    "end_char": 1545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1617-1635",
+    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1618-1636",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1617,
-    "end_char": 1635
+    "start_char": 1618,
+    "end_char": 1636
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1679-1694",
+    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1680-1695",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1679,
-    "end_char": 1694
+    "start_char": 1680,
+    "end_char": 1695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1760-1775",
+    "id": "urn:lex-mx:federal:code:cnpp:article:195:term-usage:1761-1776",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1760,
-    "end_char": 1775
+    "start_char": 1761,
+    "end_char": 1776
   },
   {
     "schema_version": "0.1.0",
@@ -5830,6 +6055,15 @@
     "span": "Ministerio Público",
     "start_char": 693,
     "end_char": 711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:205:term-usage:744-759",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:205",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 744,
+    "end_char": 759
   },
   {
     "schema_version": "0.1.0",
@@ -6679,39 +6913,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1095-1105",
+    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1096-1106",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:procurador",
     "span": "Procurador",
-    "start_char": 1095,
-    "end_char": 1105
+    "start_char": 1096,
+    "end_char": 1106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1290-1308",
+    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1291-1309",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1290,
-    "end_char": 1308
+    "start_char": 1291,
+    "end_char": 1309
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1329-1344",
+    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1330-1345",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1329,
-    "end_char": 1344
+    "start_char": 1330,
+    "end_char": 1345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1383-1389",
+    "id": "urn:lex-mx:federal:code:cnpp:article:251:term-usage:1384-1390",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1383,
-    "end_char": 1389
+    "start_char": 1384,
+    "end_char": 1390
   },
   {
     "schema_version": "0.1.0",
@@ -7327,21 +7561,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:283:term-usage:1049-1067",
+    "id": "urn:lex-mx:federal:code:cnpp:article:283:term-usage:1050-1068",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:283",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1049,
-    "end_char": 1067
+    "start_char": 1050,
+    "end_char": 1068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:283:term-usage:1300-1318",
+    "id": "urn:lex-mx:federal:code:cnpp:article:283:term-usage:1301-1319",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:283",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1300,
-    "end_char": 1318
+    "start_char": 1301,
+    "end_char": 1319
   },
   {
     "schema_version": "0.1.0",
@@ -7777,6 +8011,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:307:term-usage:810-825",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:307",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 810,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:308:term-usage:146-161",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:308",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
@@ -7912,6 +8155,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:309:term-usage:690-705",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:309",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 690,
+    "end_char": 705
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:309:term-usage:1502-1510",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:309",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
@@ -7927,6 +8179,15 @@
     "span": "Ministerio Público",
     "start_char": 1585,
     "end_char": 1603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:309:term-usage:1608-1623",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:309",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 1608,
+    "end_char": 1623
   },
   {
     "schema_version": "0.1.0",
@@ -8695,6 +8956,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:335:term-usage:424-439",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:335",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 424,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:335:term-usage:1183-1201",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:335",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
@@ -8704,12 +8974,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:335:term-usage:1794-1812",
+    "id": "urn:lex-mx:federal:code:cnpp:article:335:term-usage:1795-1813",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:335",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1794,
-    "end_char": 1812
+    "start_char": 1795,
+    "end_char": 1813
   },
   {
     "schema_version": "0.1.0",
@@ -8821,12 +9091,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:338:term-usage:399-417",
+    "id": "urn:lex-mx:federal:code:cnpp:article:338:term-usage:400-418",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:338",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 399,
-    "end_char": 417
+    "start_char": 400,
+    "end_char": 418
   },
   {
     "schema_version": "0.1.0",
@@ -8971,6 +9241,15 @@
     "span": "Defensor",
     "start_char": 257,
     "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:342:term-usage:316-331",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:342",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 316,
+    "end_char": 331
   },
   {
     "schema_version": "0.1.0",
@@ -9154,21 +9433,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:347:term-usage:1038-1053",
+    "id": "urn:lex-mx:federal:code:cnpp:article:347:term-usage:1039-1054",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:347",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
     "span": "Juez de control",
-    "start_char": 1038,
-    "end_char": 1053
+    "start_char": 1039,
+    "end_char": 1054
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:347:term-usage:1078-1104",
+    "id": "urn:lex-mx:federal:code:cnpp:article:347:term-usage:1079-1105",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:347",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1078,
-    "end_char": 1104
+    "start_char": 1079,
+    "end_char": 1105
   },
   {
     "schema_version": "0.1.0",
@@ -9199,39 +9478,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:891-899",
+    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:892-900",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:351",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
     "span": "Defensor",
-    "start_char": 891,
-    "end_char": 899
+    "start_char": 892,
+    "end_char": 900
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:904-922",
+    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:905-923",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:351",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 904,
-    "end_char": 922
+    "start_char": 905,
+    "end_char": 923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:1165-1191",
+    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:1166-1192",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:351",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1165,
-    "end_char": 1191
+    "start_char": 1166,
+    "end_char": 1192
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:1628-1654",
+    "id": "urn:lex-mx:federal:code:cnpp:article:351:term-usage:1629-1655",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:351",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1628,
-    "end_char": 1654
+    "start_char": 1629,
+    "end_char": 1655
   },
   {
     "schema_version": "0.1.0",
@@ -9262,30 +9541,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:626-644",
+    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:627-645",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:355",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 626,
-    "end_char": 644
+    "start_char": 627,
+    "end_char": 645
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:661-669",
+    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:662-670",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:355",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
     "span": "Defensor",
-    "start_char": 661,
-    "end_char": 669
+    "start_char": 662,
+    "end_char": 670
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:1043-1069",
+    "id": "urn:lex-mx:federal:code:cnpp:article:355:term-usage:1044-1070",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:355",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1043,
-    "end_char": 1069
+    "start_char": 1044,
+    "end_char": 1070
   },
   {
     "schema_version": "0.1.0",
@@ -9361,39 +9640,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:720-730",
+    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:721-731",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:procurador",
     "span": "Procurador",
-    "start_char": 720,
-    "end_char": 730
+    "start_char": 721,
+    "end_char": 731
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1098-1106",
+    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1099-1107",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tratados",
     "span": "Tratados",
-    "start_char": 1098,
-    "end_char": 1106
+    "start_char": 1099,
+    "end_char": 1107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1199-1220",
+    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1200-1221",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1199,
-    "end_char": 1220
+    "start_char": 1200,
+    "end_char": 1221
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1432-1438",
+    "id": "urn:lex-mx:federal:code:cnpp:article:365:term-usage:1433-1439",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:365",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1432,
-    "end_char": 1438
+    "start_char": 1433,
+    "end_char": 1439
   },
   {
     "schema_version": "0.1.0",
@@ -9439,6 +9718,15 @@
     "span": "Defensor",
     "start_char": 557,
     "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:372:term-usage:571-586",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:372",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 571,
+    "end_char": 586
   },
   {
     "schema_version": "0.1.0",
@@ -9631,6 +9919,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:394:term-usage:307-322",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:394",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 307,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:394:term-usage:430-438",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:394",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:defensor",
@@ -9709,6 +10006,15 @@
     "span": "Ministerio Público",
     "start_char": 163,
     "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:399:term-usage:186-201",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:399",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 186,
+    "end_char": 201
   },
   {
     "schema_version": "0.1.0",
@@ -10963,102 +11269,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:897-903",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:898-904",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 897,
-    "end_char": 903
+    "start_char": 898,
+    "end_char": 904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1066-1092",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1067-1093",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1066,
-    "end_char": 1092
+    "start_char": 1067,
+    "end_char": 1093
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1137-1143",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1138-1144",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1137,
-    "end_char": 1143
+    "start_char": 1138,
+    "end_char": 1144
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1200-1218",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1201-1219",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-alzada",
     "span": "Tribunal de alzada",
-    "start_char": 1200,
-    "end_char": 1218
+    "start_char": 1201,
+    "end_char": 1219
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1427-1453",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1428-1454",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
     "span": "Tribunal de enjuiciamiento",
-    "start_char": 1427,
-    "end_char": 1453
+    "start_char": 1428,
+    "end_char": 1454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1504-1522",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1505-1523",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-alzada",
     "span": "Tribunal de alzada",
-    "start_char": 1504,
-    "end_char": 1522
+    "start_char": 1505,
+    "end_char": 1523
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1578-1599",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1579-1600",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1578,
-    "end_char": 1599
+    "start_char": 1579,
+    "end_char": 1600
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1699-1720",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1700-1721",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
     "span": "Órgano jurisdiccional",
-    "start_char": 1699,
-    "end_char": 1720
+    "start_char": 1700,
+    "end_char": 1721
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1798-1810",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1799-1811",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
     "span": "Constitución",
-    "start_char": 1798,
-    "end_char": 1810
+    "start_char": 1799,
+    "end_char": 1811
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1837-1843",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1838-1844",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1837,
-    "end_char": 1843
+    "start_char": 1838,
+    "end_char": 1844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1964-1970",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:term-usage:1965-1971",
     "provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "term_id": "urn:lex-mx:federal:code:cnpp:term:codigo",
     "span": "Código",
-    "start_char": 1964,
-    "end_char": 1970
+    "start_char": 1965,
+    "end_char": 1971
   },
   {
     "schema_version": "0.1.0",
@@ -11158,6 +11464,15 @@
     "span": "Defensor",
     "start_char": 449,
     "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:489:term-usage:499-514",
+    "provision_id": "urn:lex-mx:federal:code:cnpp:article:489",
+    "term_id": "urn:lex-mx:federal:code:cnpp:term:asesor-juridico",
+    "span": "Asesor jurídico",
+    "start_char": 499,
+    "end_char": 514
   },
   {
     "schema_version": "0.1.0",
@@ -11437,14 +11752,5 @@
     "span": "Código",
     "start_char": 578,
     "end_char": 584
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:transitory:decimo-tercero:term-usage:879-891",
-    "provision_id": "urn:lex-mx:federal:code:cnpp:transitory:decimo-tercero",
-    "term_id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
-    "span": "Constitución",
-    "start_char": 879,
-    "end_char": 891
   }
 ]

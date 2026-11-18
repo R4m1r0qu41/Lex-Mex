@@ -25,7 +25,9 @@ II. Cualquier persona física o moral que tenga o haya tenido acceso a informaci
 
 III. Personas físicas o morales que sean parte en algún proceso jurisdiccional en que la propia Institución o Sociedad Mutualista en liquidación sea parte;
 
-IV. Personas físicas o morales que, en su carácter de accionistas, formen o hayan formado parte del grupo de [Control](articulo-2.md) de la Institución o Sociedad Mutualista en liquidación, en términos de la fracción IX del artículo [2](articulo-2.md) de esta Ley, y V. Las demás personas físicas o morales que se ubiquen dentro de alguno de los supuestos que determine la Comisión, con acuerdo de su Junta de Gobierno, mediante disposiciones de carácter general.
+IV. Personas físicas o morales que, en su carácter de accionistas, formen o hayan formado parte del grupo de [Control](articulo-2.md) de la Institución o Sociedad Mutualista en liquidación, en términos de la fracción IX del artículo [2](articulo-2.md) de esta Ley, y
+
+V. Las demás personas físicas o morales que se ubiquen dentro de alguno de los supuestos que determine la Comisión, con acuerdo de su Junta de Gobierno, mediante disposiciones de carácter general.
 
 Al presentar las posturas u ofertas en términos de las bases del proceso de subasta o licitación, los postores u oferentes deberán manifestar por escrito, bajo protesta de decir verdad, que no se ubican en los supuestos a que se refieren los párrafos anteriores o en aquéllos contenidos en la convocatoria o en las bases a que se refieren los artículos [412](articulo-412.md) y [413](articulo-413.md) del presente ordenamiento.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "114"
 aliases: ["LGE — Artículo 114"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -41,7 +41,9 @@ Las autoridades educativas locales participarán en la actualización e integrac
 
 X. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
 
-XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en su entidad federativa que, sin estar incorporadas al Sistema Educativo Nacional, deban cumplir con las disposiciones de la presente Ley; XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría les proporcione;
+XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en su entidad federativa que, sin estar incorporadas al Sistema Educativo Nacional, deban cumplir con las disposiciones de la presente Ley;
+
+XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría les proporcione;
 
 XIII. Supervisar las condiciones de seguridad estructural y protección civil de los planteles educativos de sus entidades;
 

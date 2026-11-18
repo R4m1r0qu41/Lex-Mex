@@ -7,8 +7,8 @@ provision_type: article
 number: "150"
 aliases: ["REG-LFSV — Artículo 150"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -65,7 +65,9 @@ XIII. El inventario del equipo y los materiales con que cuenta;
 
 XIV. El programa de supervisión, capacitación y actualización del personal que realizará la Verificación;
 
-XV. El sistema de registro de la organización y la evidencia documental de las actividades de Verificación; XVI. La descripción de la especie Vegetal, Productos o Subproductos Vegetales o tipo de [Establecimiento](articulo-2.md) que verificará;
+XV. El sistema de registro de la organización y la evidencia documental de las actividades de Verificación;
+
+XVI. La descripción de la especie Vegetal, Productos o Subproductos Vegetales o tipo de [Establecimiento](articulo-2.md) que verificará;
 
 XVII. El comprobante del pago que corresponda conforme a las disposiciones jurídicas aplicables, y
 

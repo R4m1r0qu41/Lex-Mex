@@ -1,19 +1,19 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsat:article:10:reference:1068-1069:5:direct",
+    "id": "urn:lex-mx:federal:statute:lsat:article:10:reference:1069-1070:5:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsat:article:10",
     "source_span": "5",
-    "start_char": 1068,
-    "end_char": 1069,
+    "start_char": 1069,
+    "end_char": 1070,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsat",
     "target_provision_id": "urn:lex-mx:federal:statute:lsat:article:5",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 1073,
-        "end_char": 1084
+        "start_char": 1074,
+        "end_char": 1085
       }
     ],
     "basis": "express_cross_reference",
@@ -88,19 +88,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsat:article:23:reference:1147-1148:23:direct",
+    "id": "urn:lex-mx:federal:statute:lsat:article:23:reference:1148-1149:23:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsat:article:23",
     "source_span": "I",
-    "start_char": 1147,
-    "end_char": 1148,
+    "start_char": 1148,
+    "end_char": 1149,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsat",
     "target_provision_id": "urn:lex-mx:federal:statute:lsat:article:23",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1147,
-        "end_char": 1148
+        "start_char": 1148,
+        "end_char": 1149
       }
     ],
     "basis": "express_cross_reference",
@@ -111,11 +111,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsat:article:23:reference:1481-1483:21:direct",
+    "id": "urn:lex-mx:federal:statute:lsat:article:23:reference:1482-1484:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsat:article:23",
     "source_span": "21",
-    "start_char": 1481,
-    "end_char": 1483,
+    "start_char": 1482,
+    "end_char": 1484,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsat",
     "target_provision_id": "urn:lex-mx:federal:statute:lsat:article:21",
     "qualifiers": [],

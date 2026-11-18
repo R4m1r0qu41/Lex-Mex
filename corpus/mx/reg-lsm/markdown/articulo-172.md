@@ -37,7 +37,9 @@ VIII.- Girar instrucciones a las Zonas de Reclutamiento para la realización del
 
 IX.- Ordenar a las Oficinas de Reclutamiento de Zona todo lo relativo a la distribución de los conscriptos;
 
-X.- Tener a su cargo el Servicio Dactiloscópico de Identificación; XI.- Cubrir el Servicio de Publicidad y Propaganda;
+X.- Tener a su cargo el Servicio Dactiloscópico de Identificación;
+
+XI.- Cubrir el Servicio de Publicidad y Propaganda;
 
 XII.- Evacuar todas las consultas acerca de la interpretación y aplicación de la Ley del Servicio Militar y de este Reglamento;
 

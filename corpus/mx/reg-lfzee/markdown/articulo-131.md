@@ -7,8 +7,8 @@ provision_type: article
 number: "131"
 aliases: ["REG-LFZEE — Artículo 131"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -31,7 +31,9 @@ V. Incumplir por parte del Administrador Integral, los compromisos y estándares
 
 VI. Obstaculizar deliberadamente las funciones que en materia de verificación corresponden a la Autoridad Federal en términos de la Ley, con multa de entre 4,000 a 7,000 unidades de medida y actualización;
 
-VII. Realizar, por parte del Administrador Integral o del [Inversionista](articulo-4.md), actos u omisiones injustificadas que impidan o intenten impedir a otros Inversionistas la realización de Actividades Económicas Productivas en la Zona, con multa de entre 7,000 a 15,000 unidades de medida y actualización; VIII. No proporcionar la documentación e información que requiera la Autoridad Federal con motivo del ejercicio de sus atribuciones, con multa de entre 200 a 500 unidades de medida y actualización;
+VII. Realizar, por parte del Administrador Integral o del [Inversionista](articulo-4.md), actos u omisiones injustificadas que impidan o intenten impedir a otros Inversionistas la realización de Actividades Económicas Productivas en la Zona, con multa de entre 7,000 a 15,000 unidades de medida y actualización;
+
+VIII. No proporcionar la documentación e información que requiera la Autoridad Federal con motivo del ejercicio de sus atribuciones, con multa de entre 200 a 500 unidades de medida y actualización;
 
 IX. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la Autoridad Federal en términos del artículo [49](articulo-49.md) de esta Ley, con multa de entre 15,000 a 30,000 unidades de medida y actualización;
 

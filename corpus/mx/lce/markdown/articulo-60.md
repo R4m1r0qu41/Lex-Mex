@@ -20,5 +20,3 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 Derogado
 
 Artículo reformado DOF 22-12-1993. Derogado DOF 13-03-2003
-
-Sección tercera Audiencia conciliatoria

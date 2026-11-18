@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LOPGJDF — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf
 source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 ---
@@ -19,7 +19,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 (Proceso). Las atribuciones a que se refiere la fracción I del artículo [2](articulo-2.md)o. de esta Ley, relativas al proceso, comprenden:
 
-I. Intervenir en la declaración preparatoria del imputado y formular el interrogatorio respectivo; II. Intervenir en los procesos penales aportando los elementos de prueba pertinentes para la debida acreditación del delito, la responsabilidad del imputado y, en su caso, para la solicitud de aplicación de la pena o medida de seguridad, así como de la existencia del daño causado por el delito para la fijación del monto de su reparación. Los titulares de las unidades de investigación y de procesos serán corresponsables, en el ámbito de su competencia respectiva, de aportar y desahogar las pruebas ulteriores en el proceso, para lo cual mantendrán la comunicación y relación necesaria para ello;
+I. Intervenir en la declaración preparatoria del imputado y formular el interrogatorio respectivo;
+
+II. Intervenir en los procesos penales aportando los elementos de prueba pertinentes para la debida acreditación del delito, la responsabilidad del imputado y, en su caso, para la solicitud de aplicación de la pena o medida de seguridad, así como de la existencia del daño causado por el delito para la fijación del monto de su reparación. Los titulares de las unidades de investigación y de procesos serán corresponsables, en el ámbito de su competencia respectiva, de aportar y desahogar las pruebas ulteriores en el proceso, para lo cual mantendrán la comunicación y relación necesaria para ello;
 
 III. Intervenir en los procesos de justicia para adolescentes, aportando los elementos probatorios pertinentes para acreditar la conducta tipificada como delito por las leyes penales, así como la existencia del daño causado por la conducta realizada, para los efectos de la fijación del monto de su reparación. Los titulares de las unidades de investigación y de procesos serán corresponsables, en el ámbito de su competencia respectiva, de aportar y desahogar las pruebas ulteriores en el proceso, para lo cual mantendrán la comunicación y relación necesaria para tal fin;
 

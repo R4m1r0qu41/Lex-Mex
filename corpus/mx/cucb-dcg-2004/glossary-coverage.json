@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
-      "provision_text_sha256": "b8a49128dcf75144528519ec5453538ffdc171904a31744ce19193c6c4bcf375",
+      "provision_text_sha256": "b34cc079297c2e5ec0678f5e1b4072df865d54a93341d56d4041c337660192ea",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -29,21 +29,41 @@
         "XVII",
         "XVIII",
         "XIX",
+        "XX",
+        "XXI",
         "XXII",
+        "XXIII",
         "XXIV",
+        "XXV",
         "XXVI",
         "XXVII",
         "XXVIII",
         "XXIX",
         "XXX",
         "XXXI",
-        "XXXII"
+        "XXXII",
+        "XXXIII",
+        "XXXV",
+        "XXXVI",
+        "XXXVII",
+        "XXXVIII",
+        "XXXIX",
+        "XL",
+        "XLI",
+        "XLII",
+        "XLIII",
+        "XLIV",
+        "XLV",
+        "XLVI",
+        "XLVII",
+        "XLVIII",
+        "XLIX"
       ],
       "unread_fractions": [],
-      "term_count": 27
+      "term_count": 47
     }
   ],
   "imports": [],
-  "term_count": 27,
-  "usage_count": 303
+  "term_count": 47,
+  "usage_count": 594
 }

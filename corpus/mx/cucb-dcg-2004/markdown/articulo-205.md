@@ -18,7 +18,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 205
 
-Las casas de bolsa podrán contratar con terceros, incluyendo a otras casas de bolsa o entidades financieras nacionales o extranjeras, la prestación de los servicios necesarios para llevar a cabo las actividades que realicen o servicios que presten previstos en el artículo 171 de la Ley.
+Las casas de bolsa podrán contratar con terceros, incluyendo a otras casas de bolsa o entidades financieras nacionales o extranjeras, la prestación de los servicios necesarios para llevar a cabo las actividades que realicen o servicios que presten previstos en el artículo 171 de la [Ley](articulo-1.md).
 
 Segundo párrafo.- Derogado.
 

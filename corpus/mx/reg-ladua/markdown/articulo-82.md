@@ -29,6 +29,8 @@ IV. Los demás requisitos establecidos en las Reglas que al efecto emita el [SAT
 
 Para inscribirse en el Padrón de Importadores de Sectores Específicos, además de cumplir con lo previsto en el párrafo anterior, deberán:
 
-I. Estar inscrito y activo en el Padrón de Importadores, y II. Acreditar los requisitos y anexar los documentos que señale el SAT mediante Reglas, según se trate, del sector específico solicitado.
+I. Estar inscrito y activo en el Padrón de Importadores, y
+
+II. Acreditar los requisitos y anexar los documentos que señale el SAT mediante Reglas, según se trate, del sector específico solicitado.
 
 La autoridad aduanera resolverá la solicitud de inscripción en el Padrón de Importadores y en el Padrón de Importadores de Sectores Específicos en un plazo de diez días contado a partir del día siguiente al de la recepción de la solicitud respectiva.

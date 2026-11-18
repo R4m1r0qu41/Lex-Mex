@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:3",
     "fraction": "V",
     "start_char": 646,
-    "end_char": 828,
+    "end_char": 829,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:3",
     "fraction": "VI",
-    "start_char": 828,
-    "end_char": 1171,
+    "start_char": 829,
+    "end_char": 1172,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:3",
     "fraction": "VII",
-    "start_char": 1171,
-    "end_char": 1417,
+    "start_char": 1172,
+    "end_char": 1418,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:3",
     "fraction": "VIII",
-    "start_char": 1417,
-    "end_char": 1500,
+    "start_char": 1418,
+    "end_char": 1501,
     "basis": "express_definition"
   }
 ]

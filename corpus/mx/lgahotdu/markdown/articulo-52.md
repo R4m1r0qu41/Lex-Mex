@@ -7,8 +7,8 @@ provision_type: article
 number: "52"
 aliases: ["LGAHOTDU — Artículo 52"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -27,7 +27,9 @@ III. La celebración de convenios y acuerdos de coordinación con las dependenci
 
 IV. La adquisición, asignación o destino de inmuebles por parte del sector público;
 
-V. La construcción de vivienda adecuada, infraestructura y equipamiento de los Centros de Población; VI. La regularización de la tenencia de la tierra urbana y de las construcciones;
+V. La construcción de vivienda adecuada, infraestructura y equipamiento de los Centros de Población;
+
+VI. La regularización de la tenencia de la tierra urbana y de las construcciones;
 
 VII. La compatibilidad de los servicios públicos y la infraestructura de telecomunicaciones y de radiodifusión, en cualquier uso de suelo, para zonas urbanizables y no urbanizables;
 

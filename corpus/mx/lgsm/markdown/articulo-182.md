@@ -39,6 +39,8 @@ IX.- Amortización por la sociedad de sus propias acciones y emisión de accione
 
 X.- Emisión de bonos;
 
-XI.- Cualquiera otra modificación del contrato social, y XII.- Los demás asuntos para los que la Ley o el contrato social exija un quórum especial.
+XI.- Cualquiera otra modificación del contrato social, y
+
+XII.- Los demás asuntos para los que la Ley o el contrato social exija un quórum especial.
 
 Estas asambleas podrán reunirse en cualquier tiempo.

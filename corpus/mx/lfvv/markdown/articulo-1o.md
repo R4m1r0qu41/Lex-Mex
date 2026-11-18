@@ -7,8 +7,8 @@ provision_type: article
 number: "1o"
 aliases: ["LFVV — Artículo 1o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf
 source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 ---

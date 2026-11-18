@@ -27,7 +27,9 @@ b) La duración de la sociedad será indefinida.
 
 c) El domicilio deberá ubicarse en territorio nacional.
 
-d) El objeto social será actuar como institución para el depósito de valores. II. Relación e información de los socios, indicando el monto del capital social que suscribirán y el origen de los recursos declarado por éstos, así como de los probables consejeros, director general y principales directivos de la sociedad.
+d) El objeto social será actuar como institución para el depósito de valores.
+
+II. Relación e información de los socios, indicando el monto del capital social que suscribirán y el origen de los recursos declarado por éstos, así como de los probables consejeros, director general y principales directivos de la sociedad.
 
 III. Plan general de funcionamiento de la sociedad que comprenda, cuando menos, los aspectos siguientes:
 

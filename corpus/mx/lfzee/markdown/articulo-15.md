@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LFZEE — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -41,7 +41,9 @@ e) Promover que la autoridad competente participante en la Ventanilla Única res
 
 f) Ejercer, en los términos del acuerdo a que se refiere este artículo, las funciones anteriores respecto a las personas interesadas en instalar u operar empresas en las Áreas de Influencia;
 
-III. La adscripción o comisión en la Ventanilla Única, de servidores públicos de las autoridades competentes, con las atribuciones necesarias para resolver los trámites a que se refiere este artículo; IV. La prioridad en la resolución de trámites solicitados por Administradores Integrales, Inversionistas y empresarios en el Área de Influencia.
+III. La adscripción o comisión en la Ventanilla Única, de servidores públicos de las autoridades competentes, con las atribuciones necesarias para resolver los trámites a que se refiere este artículo;
+
+IV. La prioridad en la resolución de trámites solicitados por Administradores Integrales, Inversionistas y empresarios en el Área de Influencia.
 
 Esta preferencia de gestión no resultará en detrimento de los plazos de resolución de trámites de aquellos particulares distintos a los señalados en esta fracción, y
 

@@ -25,7 +25,9 @@ II. Realizar actividades de aprovechamiento extractivo o no extractivo de la vid
 
 III. Realizar actividades de aprovechamiento que impliquen dar muerte a ejemplares de la vida silvestre, sin la autorización correspondiente o en contravención a los términos en que ésta hubiera sido otorgada y a las disposiciones aplicables.
 
-IV. Realizar actividades de aprovechamiento con ejemplares o poblaciones de especies silvestres en peligro de extinción o extintas en el medio silvestre, sin contar con la autorización correspondiente. V. Llevar a cabo acciones en contravención a las disposiciones que regulan la sanidad de la vida silvestre.
+IV. Realizar actividades de aprovechamiento con ejemplares o poblaciones de especies silvestres en peligro de extinción o extintas en el medio silvestre, sin contar con la autorización correspondiente.
+
+V. Llevar a cabo acciones en contravención a las disposiciones que regulan la sanidad de la vida silvestre.
 
 VI. Manejar ejemplares de especies exóticas fuera de confinamiento controlado o sin respetar los términos del plan de manejo aprobado.
 
@@ -55,7 +57,9 @@ XVIII. Realizar la colecta científica sin la autorización requerida o contravi
 
 XIX. Utilizar material biológico proveniente de la vida silvestre con fines distintos a los autorizados o para objetivos de biotecnología, sin cumplir con las disposiciones aplicables a las que se refiere el tercer párrafo del artículo [4](articulo-4o.md)o. de la presente Ley.
 
-XX. No entregar los duplicados del material biológico colectado, cuando se tenga esa obligación. XXI. Poseer colecciones de especímenes de vida silvestre sin contar con el registro otorgado por la Secretaría en los términos previstos en esta Ley y demás disposiciones que de ella se deriven.
+XX. No entregar los duplicados del material biológico colectado, cuando se tenga esa obligación.
+
+XXI. Poseer colecciones de especímenes de vida silvestre sin contar con el registro otorgado por la Secretaría en los términos previstos en esta Ley y demás disposiciones que de ella se deriven.
 
 XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre, o transitar dentro del territorio nacional los ejemplares, partes o derivados procedentes del y destinados al extranjero en contravención a esta Ley, a las disposiciones que de ella deriven y a las medidas de regulación o restricción impuestas por la autoridad competente o, en su caso, de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre.
 

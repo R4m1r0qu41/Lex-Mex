@@ -9,27 +9,25 @@ aliases: ["DCG-CUB-2005 — Artículo 308"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [2,46]
+amendment_marks: [2,46,268,300,301]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo X
 
 # Artículo 308
 
-Las Instituciones, para permitir el inicio de una Sesión, deberán solicitar y validar al menos:
+Las Instituciones, para permitir el inicio de una [Sesión](articulo-1.md), deberán solicitar y validar al menos:
 
-I. El Identificador de Usuario, y
+I. El [Identificador de Usuario](articulo-1.md), y
 
-(300) II. Un Factor de Autenticación de las Categorías 2, 3 o 4 a que se refiere el Artículo [310](articulo-310.md) de las presentes disposiciones.
+II. Un [Factor de Autenticación](articulo-1.md) de las Categorías 2, 3 o 4 a que se refiere el Artículo [310](articulo-310.md) de las presentes disposiciones.
 
-El Identificador de Usuario deberá ser único para cada Usuario y permitirá a la Institución identificar todas las operaciones realizadas por el propio Usuario a través del servicio de Banca Electrónica de que se trate.
+El Identificador de Usuario deberá ser único para cada [Usuario](articulo-1.md) y permitirá a la Institución identificar todas las operaciones realizadas por el propio Usuario a través del servicio de [Banca Electrónica](articulo-1.md) de que se trate.
 
 La longitud del Identificador de Usuario deberá ser de al menos seis caracteres.
 
-(268) Tratándose de operaciones realizadas a través de Terminales Punto de Venta y Cajeros Automáticos, el Identificador de Usuario podrá ser el número de la tarjeta bancaria con la cual se accede al servicio de Banca Electrónica.
+Tratándose de operaciones realizadas a través de Terminales Punto de Venta y [Cajeros Automáticos](articulo-1.md), el Identificador de Usuario podrá ser el número de la tarjeta bancaria con la cual se accede al servicio de Banca Electrónica.
 
-Tratándose del Factor de Autenticación Categoría 3, las Instituciones no podrán considerar el uso de (301)
-
-medios o dispositivos electrónicos externos o físicos entregados a sus Usuarios que generan Contraseñas dinámicas de un solo uso, ni las tablas aleatorias de Contraseñas.
+Tratándose del Factor de Autenticación Categoría 3, las Instituciones no podrán considerar el uso de medios o dispositivos electrónicos externos o físicos entregados a sus Usuarios que generan [Contraseñas](articulo-1.md) dinámicas de un solo uso, ni las tablas aleatorias de Contraseñas.

@@ -8,7 +8,7 @@ number: "39"
 aliases: ["LGT — Artículo 39"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf
 source_sha256: 266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3
 ---

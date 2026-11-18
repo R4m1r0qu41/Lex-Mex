@@ -49,7 +49,9 @@ XIV. Canalizar al Órgano Interno de Control cualquier tipo de queja en contra d
 
 XV. Vigilar la aplicación de los protocolos de actuación emitidos por las Autoridades competentes en materia de la seguridad procesal;
 
-XVI. Verificar y vigilar que los manuales de organización, de procedimientos y de servicios al público de la Dirección General se encuentren actualizados; XVII. Coordinar en el ámbito de su competencia el auxilio a las autoridades competentes para el ejercicio de sus funciones;
+XVI. Verificar y vigilar que los manuales de organización, de procedimientos y de servicios al público de la Dirección General se encuentren actualizados;
+
+XVII. Coordinar en el ámbito de su competencia el auxilio a las autoridades competentes para el ejercicio de sus funciones;
 
 XVIII. Establecer comunicación y coordinación con las otras unidades de la [Institución](articulo-2.md), así como con autoridades de otros órdenes de gobierno cuando el caso lo requiera;
 

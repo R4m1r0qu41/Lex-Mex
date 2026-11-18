@@ -37,6 +37,8 @@ La información que se entregará a la unidad especializada por la autoridad o e
 
 I. Identificar los Bienes que puedan ser objeto de la acción de extinción de dominio;
 
-II. Identificar a los titulares de los derechos sobre los Bienes que llegaren a tener relación con una causal de extinción de dominio, y III. Aportar datos, elementos, indicios y pruebas con las que cuenten para el ejercicio de la acción de extinción de dominio.
+II. Identificar a los titulares de los derechos sobre los Bienes que llegaren a tener relación con una causal de extinción de dominio, y
+
+III. Aportar datos, elementos, indicios y pruebas con las que cuenten para el ejercicio de la acción de extinción de dominio.
 
 Una vez que el Ministerio Público considere que cuenta con los elementos suficientes para ejercitar la acción de extinción de dominio y previo a la presentación de la demanda, deberá citar al titular del bien sobre el que se pretenda aplicar, con la finalidad de que pueda comparecer para justificar su [Legítima Procedencia](articulo-2.md) del bien, en un plazo que no excederá de diez días hábiles para ello, apercibido que de no hacerlo se tendrá por precluido su derecho en esta etapa de preparación, sin perjuicio de su defensa en el juicio.

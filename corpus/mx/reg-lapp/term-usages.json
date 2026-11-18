@@ -46,12 +46,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:11:term-usage:400-410",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:11:term-usage:401-411",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 400,
-    "end_char": 410
+    "start_char": 401,
+    "end_char": 411
   },
   {
     "schema_version": "0.1.0",
@@ -127,48 +127,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:701-709",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:702-710",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:comision",
     "span": "Comisión",
-    "start_char": 701,
-    "end_char": 709
+    "start_char": 702,
+    "end_char": 710
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:785-795",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:786-796",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 785,
-    "end_char": 795
+    "start_char": 786,
+    "end_char": 796
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:912-927",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:913-928",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:entidades-federales",
     "span": "Entidad Federal",
-    "start_char": 912,
-    "end_char": 927
+    "start_char": 913,
+    "end_char": 928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:1001-1020",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:1002-1021",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:entidades-federales",
     "span": "Entidades Federales",
-    "start_char": 1001,
-    "end_char": 1020
+    "start_char": 1002,
+    "end_char": 1021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:1301-1320",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:17:term-usage:1302-1321",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:entidades-federales",
     "span": "Entidades Federales",
-    "start_char": 1301,
-    "end_char": 1320
+    "start_char": 1302,
+    "end_char": 1321
   },
   {
     "schema_version": "0.1.0",
@@ -217,12 +217,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:27:term-usage:157-174",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:27:term-usage:158-175",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:inversion-inicial",
     "span": "Inversión Inicial",
-    "start_char": 157,
-    "end_char": 174
+    "start_char": 158,
+    "end_char": 175
   },
   {
     "schema_version": "0.1.0",
@@ -721,12 +721,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:37:term-usage:1341-1360",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:37:term-usage:1342-1361",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:entidades-federales",
     "span": "Entidades Federales",
-    "start_char": 1341,
-    "end_char": 1360
+    "start_char": 1342,
+    "end_char": 1361
   },
   {
     "schema_version": "0.1.0",
@@ -784,21 +784,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:44:term-usage:1625-1635",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:44:term-usage:1626-1636",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:44",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1625,
-    "end_char": 1635
+    "start_char": 1626,
+    "end_char": 1636
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:44:term-usage:2093-2110",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:44:term-usage:2094-2111",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:44",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:inversion-inicial",
     "span": "Inversión Inicial",
-    "start_char": 2093,
-    "end_char": 2110
+    "start_char": 2094,
+    "end_char": 2111
   },
   {
     "schema_version": "0.1.0",
@@ -1090,57 +1090,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:704-712",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:705-713",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 704,
-    "end_char": 712
+    "start_char": 705,
+    "end_char": 713
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:752-767",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:753-768",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:funcion-publica",
     "span": "Función Pública",
-    "start_char": 752,
-    "end_char": 767
+    "start_char": 753,
+    "end_char": 768
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1121-1129",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1122-1130",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1121,
-    "end_char": 1129
+    "start_char": 1122,
+    "end_char": 1130
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1275-1283",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1276-1284",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1275,
-    "end_char": 1283
+    "start_char": 1276,
+    "end_char": 1284
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1454-1462",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1455-1463",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1454,
-    "end_char": 1462
+    "start_char": 1455,
+    "end_char": 1463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1772-1780",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:64:term-usage:1773-1781",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1772,
-    "end_char": 1780
+    "start_char": 1773,
+    "end_char": 1781
   },
   {
     "schema_version": "0.1.0",
@@ -1189,30 +1189,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:672-680",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:673-681",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 672,
-    "end_char": 680
+    "start_char": 673,
+    "end_char": 681
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:1010-1018",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:1011-1019",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1010,
-    "end_char": 1018
+    "start_char": 1011,
+    "end_char": 1019
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:1133-1141",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:67:term-usage:1134-1142",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
     "span": "Concurso",
-    "start_char": 1133,
-    "end_char": 1141
+    "start_char": 1134,
+    "end_char": 1142
   },
   {
     "schema_version": "0.1.0",
@@ -1423,12 +1423,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:90:term-usage:694-711",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:90:term-usage:695-712",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:90",
     "term_id": "urn:lex-mx:federal:regulation:reg-lapp:term:inversion-inicial",
     "span": "Inversión Inicial",
-    "start_char": 694,
-    "end_char": 711
+    "start_char": 695,
+    "end_char": 712
   },
   {
     "schema_version": "0.1.0",

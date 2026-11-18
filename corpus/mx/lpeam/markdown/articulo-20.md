@@ -7,8 +7,8 @@ provision_type: article
 number: "20"
 aliases: ["LPEAM — Artículo 20"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf
 source_sha256: 91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df
 ---
@@ -29,7 +29,9 @@ IV. Determinar las zonas de identificación de defensa aérea y las zonas de vig
 
 V. Emitir la declaratoria de [Alertamiento aéreo](articulo-5.md), a efecto de que se lleven a cabo las acciones de protección del Espacio Aéreo Mexicano, de conformidad con los protocolos que emita el [Consejo](articulo-5.md);
 
-VI. Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano; VII. Recibir las notificaciones de Identificación de las aeronaves en una [Zona de Identificación de Defensa Aérea](articulo-5.md);
+VI. Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano;
+
+VII. Recibir las notificaciones de Identificación de las aeronaves en una [Zona de Identificación de Defensa Aérea](articulo-5.md);
 
 VIII. Emitir opinión en la expedición de medidas y normas respecto al tráfico aéreo que afecte la protección del Espacio Aéreo Mexicano en términos de esta Ley;
 

@@ -39,4 +39,6 @@ IX. Impulsar las acciones tendentes a la consolidación de una cultura de respet
 
 X. Promover e instrumentar la formación integral de los integrantes en materia de derechos humanos, equidad de género y derecho internacional de los derechos humanos, para lo cual podrá gestionar suscripción de convenios y demás instrumentos de colaboración, coordinación y concertación con instituciones educativas y organismos gubernamentales y no gubernamentales, nacionales e internacionales;
 
-XI. Requerir información y documentación a las unidades de la Institución, en términos de las disposiciones jurídicas aplicables, y XII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.
+XI. Requerir información y documentación a las unidades de la Institución, en términos de las disposiciones jurídicas aplicables, y
+
+XII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior.

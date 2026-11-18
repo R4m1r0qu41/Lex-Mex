@@ -37,7 +37,9 @@ VIII. Emitir normas para la reforestación en zonas de conservación y restaurac
 
 IX. Elaborar y expedir Normas Oficiales Mexicanas en materia forestal y vigilar su cumplimiento;
 
-X. Elaborar y adoptar metodologías, tomando en consideración, en su caso, parámetros internacionales, para la valoración de los bienes y servicios ambientales; XI. Establecer las bases e instrumentos para promover la compensación de bienes y servicios ambientales, que prestan los ecosistemas forestales;
+X. Elaborar y adoptar metodologías, tomando en consideración, en su caso, parámetros internacionales, para la valoración de los bienes y servicios ambientales;
+
+XI. Establecer las bases e instrumentos para promover la compensación de bienes y servicios ambientales, que prestan los ecosistemas forestales;
 
 XII. Promover y proponer la incorporación de los costos relacionados con la conservación de los recursos forestales para el beneficio de la sociedad en las actividades productivas para establecer medios de compensación y conservación de los servicios ambientales derivados de los ecosistemas forestales;
 
@@ -69,7 +71,9 @@ XXV. Desarrollar las auditorías técnicas preventivas a las que se refiere esta
 
 XXVI. Regular, expedir y validar la acreditación de la legal procedencia de las materias primas forestales y productos maderables, y vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta Ley;
 
-XXVII. Imponer medidas de seguridad y sanciones a las infracciones que se cometan en materia forestal; XXVIII. Diseñar, instrumentar y evaluar acciones integrales de prevención y combate a la ilegalidad forestal, en coordinación con los gobiernos de las Entidades Federativas, de los Municipios y Demarcaciones Territoriales de la Ciudad de México, con la participación de los [Consejos](articulo-7.md) Forestales;
+XXVII. Imponer medidas de seguridad y sanciones a las infracciones que se cometan en materia forestal;
+
+XXVIII. Diseñar, instrumentar y evaluar acciones integrales de prevención y combate a la ilegalidad forestal, en coordinación con los gobiernos de las Entidades Federativas, de los Municipios y Demarcaciones Territoriales de la Ciudad de México, con la participación de los [Consejos](articulo-7.md) Forestales;
 
 XXIX. Definir y aplicar las regulaciones del uso del suelo en terrenos forestales y preferentemente forestales;
 

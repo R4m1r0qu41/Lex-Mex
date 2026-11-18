@@ -29,7 +29,9 @@ IV. Los catálogos de proyectos para el aprovechamiento del agua y para la prese
 
 V. Las Declaratorias de Clasificación de los Cuerpos de Aguas Nacionales a que hace referencia el artículo [87](../../lan/markdown/articulo-87.md) de la "Ley", junto con los estudios correspondientes;
 
-VI. Las prioridades y las posibles limitaciones temporales a los derechos existentes para enfrentar situaciones de emergencia, escasez extrema, sobreexplotación o reserva, en los términos del artículo [13](../../lan/markdown/articulo-13.md) de la "Ley", o las que se establezcan en los términos del Título Quinto de la "Ley"; VII. Los estudios que fundamenten las declaratorias de reservas que en su caso demande la propia programación hidráulica o las que se requieran en los términos de la fracción II, del artículo [22](../../lan/markdown/articulo-22.md) de la "Ley";
+VI. Las prioridades y las posibles limitaciones temporales a los derechos existentes para enfrentar situaciones de emergencia, escasez extrema, sobreexplotación o reserva, en los términos del artículo [13](../../lan/markdown/articulo-13.md) de la "Ley", o las que se establezcan en los términos del Título Quinto de la "Ley";
+
+VII. Los estudios que fundamenten las declaratorias de reservas que en su caso demande la propia programación hidráulica o las que se requieran en los términos de la fracción II, del artículo [22](../../lan/markdown/articulo-22.md) de la "Ley";
 
 VIII. Los programas, estudios y proyectos sobre las medidas necesarias para la conservación y restauración de los ecosistemas acuáticos, incluyendo los humedales y las interacciones para la conservación y manejo de las cuencas alimentadoras de las aguas nacionales;
 

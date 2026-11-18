@@ -21,7 +21,9 @@ Los certificados bursátiles podrán emitirse mediante fideicomiso irrevocable c
 
 I. El derecho a una parte del derecho de propiedad o de la titularidad sobre bienes o derechos afectos en fideicomiso.
 
-II. El derecho a una parte de los frutos, rendimientos y, en su caso, al valor residual de los bienes o derechos afectos con ese propósito en fideicomiso. III. El derecho a una parte del producto que resulte de la venta de los bienes o derechos que formen el patrimonio fideicomitido.
+II. El derecho a una parte de los frutos, rendimientos y, en su caso, al valor residual de los bienes o derechos afectos con ese propósito en fideicomiso.
+
+III. El derecho a una parte del producto que resulte de la venta de los bienes o derechos que formen el patrimonio fideicomitido.
 
 IV. En su caso, el derecho de recibir el pago de capital, intereses o cualquier otra cantidad. Fracción reformada DOF 10-01-2014
 

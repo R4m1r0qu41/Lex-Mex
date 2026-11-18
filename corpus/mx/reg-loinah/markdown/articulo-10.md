@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["REG-LOINAH — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -39,7 +39,9 @@ IX. Realizar investigación para sustentar su intervención en caso de obras que
 
 X. Realizar investigación que permita formular su opinión respecto de ordenamientos federales, estatales y municipales, relacionados con la [Conservación](articulo-2.md) y la protección del [Patrimonio Cultural](articulo-2.md);
 
-XI. Realizar investigación sobre el marco jurídico referente al Patrimonio Cultural y Bienes de Interés Paleontológico, y desarrollar propuestas normativas específicas que garanticen su protección; XII. Realizar investigación para integrar los expedientes técnicos, a fin de fundamentar las propuestas de declaratorias de zonas de monumentos arqueológicos, históricos y Bienes de Interés Paleontológico;
+XI. Realizar investigación sobre el marco jurídico referente al Patrimonio Cultural y Bienes de Interés Paleontológico, y desarrollar propuestas normativas específicas que garanticen su protección;
+
+XII. Realizar investigación para integrar los expedientes técnicos, a fin de fundamentar las propuestas de declaratorias de zonas de monumentos arqueológicos, históricos y Bienes de Interés Paleontológico;
 
 XIII. Elaborar planes estratégicos y de manejo para zonas de monumentos arqueológicos, con perspectiva interdisciplinaria;
 

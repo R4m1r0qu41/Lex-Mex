@@ -23,7 +23,9 @@ I.- Que con pretexto de enfermedad u otro motivo ilegítimo se queden en las pob
 
 II.- que sin la orden correspondiente ni motivo justificado, no lleguen al punto de su destino con la debida oportunidad, o se regresen después de emprendida una marcha;
 
-III.- que sin justa causa se desvíen del derrotero que se les hubiere señalado como indispensable en su pasaporte; IV.- que se separen una noche del campamento o de la guarnición en que se hallen sin permiso del superior en quien resida la facultad de concederlo;
+III.- que sin justa causa se desvíen del derrotero que se les hubiere señalado como indispensable en su pasaporte;
+
+IV.- que se separen una noche del campamento o de la guarnición en que se hallen sin permiso del superior en quien resida la facultad de concederlo;
 
 V.- que se separen a más de cuarenta kilómetros de distancia de su campamento o a más de ochenta de su guarnición, o a más de treinta del puerto donde esté el barco a que pertenezcan, en tiempo de paz, y a cualquiera distancia de la plaza, buque o punto militar, en campaña, sin licencia del superior;
 

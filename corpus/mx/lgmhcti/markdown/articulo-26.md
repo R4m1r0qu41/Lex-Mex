@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LGMHCTI — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -23,7 +23,9 @@ I. Auxiliar a las autoridades en el cumplimiento de sus atribuciones de asesorí
 
 II. Funcionar a partir de grupos de trabajo, que se integrarán sobre la base de criterios de pluralidad, inclusión, renovación periódica, paridad de género y representatividad institucional y regional.
 
-Dichos grupos podrán ser temáticos, sectoriales, institucionales, especializados o la modalidad que permita cumplir de manera óptima con el objeto del órgano consultivo; III. Formular sus opiniones y propuestas de manera autónoma y sin efectos vinculantes, a partir de las recomendaciones que realicen los grupos de trabajo y, en su caso, tomando en cuenta la opinión de la comunidad;
+Dichos grupos podrán ser temáticos, sectoriales, institucionales, especializados o la modalidad que permita cumplir de manera óptima con el objeto del órgano consultivo;
+
+III. Formular sus opiniones y propuestas de manera autónoma y sin efectos vinculantes, a partir de las recomendaciones que realicen los grupos de trabajo y, en su caso, tomando en cuenta la opinión de la comunidad;
 
 IV. Contar con un grupo permanente de trabajo enfocado a opinar y proponer sobre lineamientos y políticas de género en materia de humanidades, ciencias, tecnologías e innovación;
 

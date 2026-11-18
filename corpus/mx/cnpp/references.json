@@ -33,19 +33,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:113:reference:3772-3773:113:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:113:reference:3773-3774:113:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "source_span": "X",
-    "start_char": 3772,
-    "end_char": 3773,
+    "start_char": 3773,
+    "end_char": 3774,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:113",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "X",
-        "start_char": 3772,
-        "end_char": 3773
+        "start_char": 3773,
+        "end_char": 3774
       }
     ],
     "basis": "express_cross_reference",
@@ -150,11 +150,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3431-3434:265:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3432-3435:265:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "265",
-    "start_char": 3431,
-    "end_char": 3434,
+    "start_char": 3432,
+    "end_char": 3435,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:265",
     "qualifiers": [],
@@ -166,11 +166,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3436-3439:266:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3437-3440:266:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "266",
-    "start_char": 3436,
-    "end_char": 3439,
+    "start_char": 3437,
+    "end_char": 3440,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:266",
     "qualifiers": [],
@@ -182,11 +182,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3504-3507:123:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3505-3508:123:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "123",
-    "start_char": 3504,
-    "end_char": 3507,
+    "start_char": 3505,
+    "end_char": 3508,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:123",
     "qualifiers": [],
@@ -198,11 +198,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3509-3512:124:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3510-3513:124:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "124",
-    "start_char": 3509,
-    "end_char": 3512,
+    "start_char": 3510,
+    "end_char": 3513,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:124",
     "qualifiers": [],
@@ -214,11 +214,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3514-3517:125:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3515-3518:125:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "125",
-    "start_char": 3514,
-    "end_char": 3517,
+    "start_char": 3515,
+    "end_char": 3518,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:125",
     "qualifiers": [],
@@ -230,11 +230,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3520-3523:126:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3521-3524:126:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "126",
-    "start_char": 3520,
-    "end_char": 3523,
+    "start_char": 3521,
+    "end_char": 3524,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:126",
     "qualifiers": [],
@@ -246,11 +246,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3566-3569:127:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3567-3570:127:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "127",
-    "start_char": 3566,
-    "end_char": 3569,
+    "start_char": 3567,
+    "end_char": 3570,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:127",
     "qualifiers": [],
@@ -262,11 +262,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3572-3575:128:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3573-3576:128:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "128",
-    "start_char": 3572,
-    "end_char": 3575,
+    "start_char": 3573,
+    "end_char": 3576,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:128",
     "qualifiers": [],
@@ -278,11 +278,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3620-3623:139:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3621-3624:139:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "139",
-    "start_char": 3620,
-    "end_char": 3623,
+    "start_char": 3621,
+    "end_char": 3624,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:139",
     "qualifiers": [],
@@ -294,19 +294,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3751-3754:140:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3752-3755:140:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "140",
-    "start_char": 3751,
-    "end_char": 3754,
+    "start_char": 3752,
+    "end_char": 3755,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:140",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo primero",
-        "start_char": 3756,
-        "end_char": 3771
+        "start_char": 3757,
+        "end_char": 3772
       }
     ],
     "basis": "express_cross_reference",
@@ -317,19 +317,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3811-3814:142:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3812-3815:142:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "142",
-    "start_char": 3811,
-    "end_char": 3814,
+    "start_char": 3812,
+    "end_char": 3815,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:142",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",
-        "start_char": 3816,
-        "end_char": 3831
+        "start_char": 3817,
+        "end_char": 3832
       }
     ],
     "basis": "express_cross_reference",
@@ -340,11 +340,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3834-3837:145:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:3835-3838:145:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "145",
-    "start_char": 3834,
-    "end_char": 3837,
+    "start_char": 3835,
+    "end_char": 3838,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:145",
     "qualifiers": [],
@@ -356,11 +356,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4059-4062:201:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4060-4063:201:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "201",
-    "start_char": 4059,
-    "end_char": 4062,
+    "start_char": 4060,
+    "end_char": 4063,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:201",
     "qualifiers": [],
@@ -372,11 +372,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4280-4283:202:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4281-4284:202:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "202",
-    "start_char": 4280,
-    "end_char": 4283,
+    "start_char": 4281,
+    "end_char": 4284,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:202",
     "qualifiers": [],
@@ -388,11 +388,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4516-4519:203:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4517-4520:203:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "203",
-    "start_char": 4516,
-    "end_char": 4519,
+    "start_char": 4517,
+    "end_char": 4520,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:203",
     "qualifiers": [],
@@ -404,11 +404,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4745-4748:204:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4746-4749:204:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "204",
-    "start_char": 4745,
-    "end_char": 4748,
+    "start_char": 4746,
+    "end_char": 4749,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:204",
     "qualifiers": [],
@@ -420,11 +420,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4901-4904:194:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4902-4905:194:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "194",
-    "start_char": 4901,
-    "end_char": 4904,
+    "start_char": 4902,
+    "end_char": 4905,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:194",
     "qualifiers": [],
@@ -436,11 +436,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4906-4909:195:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4907-4910:195:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "195",
-    "start_char": 4906,
-    "end_char": 4909,
+    "start_char": 4907,
+    "end_char": 4910,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:195",
     "qualifiers": [],
@@ -452,19 +452,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4920-4923:197:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4921-4924:197:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "197",
-    "start_char": 4920,
-    "end_char": 4923,
+    "start_char": 4921,
+    "end_char": 4924,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:197",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo primero",
-        "start_char": 4925,
-        "end_char": 4940
+        "start_char": 4926,
+        "end_char": 4941
       }
     ],
     "basis": "express_cross_reference",
@@ -475,21 +475,14 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4943-4946:198:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:4944-4947:198:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "198",
-    "start_char": 4943,
-    "end_char": 4946,
+    "start_char": 4944,
+    "end_char": 4947,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:198",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 4966,
-        "end_char": 4981
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -498,11 +491,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5090-5093:261:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5091-5094:261:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "261",
-    "start_char": 5090,
-    "end_char": 5093,
+    "start_char": 5091,
+    "end_char": 5094,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:261",
     "qualifiers": [],
@@ -514,11 +507,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5197-5200:325:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5198-5201:325:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "325",
-    "start_char": 5197,
-    "end_char": 5200,
+    "start_char": 5198,
+    "end_char": 5201,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:325",
     "qualifiers": [],
@@ -530,25 +523,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5438-5441:220:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5439-5442:220:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "220",
-    "start_char": 5438,
-    "end_char": 5441,
+    "start_char": 5439,
+    "end_char": 5442,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:220",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 5410,
-        "end_char": 5424
+        "start_char": 5411,
+        "end_char": 5425
       },
       {
         "qualifier_type": "paragraph",
         "text": "cuarto párrafo",
-        "start_char": 5462,
-        "end_char": 5476
+        "start_char": 5463,
+        "end_char": 5477
       }
     ],
     "basis": "express_cross_reference",
@@ -559,19 +552,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5567-5570:224:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5568-5571:224:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "224",
-    "start_char": 5567,
-    "end_char": 5570,
+    "start_char": 5568,
+    "end_char": 5571,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:224",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "séptimo párrafo",
-        "start_char": 5591,
-        "end_char": 5606
+        "start_char": 5592,
+        "end_char": 5607
       }
     ],
     "basis": "express_cross_reference",
@@ -582,19 +575,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5751-5754:381:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:5752-5755:381:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "381",
-    "start_char": 5751,
-    "end_char": 5754,
+    "start_char": 5752,
+    "end_char": 5755,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:381",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XVII",
-        "start_char": 5756,
-        "end_char": 5769
+        "start_char": 5757,
+        "end_char": 5770
       }
     ],
     "basis": "express_cross_reference",
@@ -605,11 +598,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6030-6033:102:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6032-6035:102:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "102",
-    "start_char": 6030,
-    "end_char": 6033,
+    "start_char": 6032,
+    "end_char": 6035,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:102",
     "qualifiers": [],
@@ -621,31 +614,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6036-6039:105:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6038-6041:105:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "105",
-    "start_char": 6036,
-    "end_char": 6039,
+    "start_char": 6038,
+    "end_char": 6041,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:105",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones I y IV",
-        "start_char": 6041,
-        "end_char": 6058
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II o III",
-        "start_char": 6106,
-        "end_char": 6125
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 6127,
-        "end_char": 6142
+        "start_char": 6043,
+        "end_char": 6060
       }
     ],
     "basis": "express_cross_reference",
@@ -656,11 +637,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6157-6160:104:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6159-6162:104:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "104",
-    "start_char": 6157,
-    "end_char": 6160,
+    "start_char": 6159,
+    "end_char": 6162,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:104",
     "qualifiers": [],
@@ -672,11 +653,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6294-6297:108:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6296-6299:108:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "108",
-    "start_char": 6294,
-    "end_char": 6297,
+    "start_char": 6296,
+    "end_char": 6299,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:108",
     "qualifiers": [],
@@ -688,21 +669,14 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6300-6303:109:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6302-6305:109:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "109",
-    "start_char": 6300,
-    "end_char": 6303,
+    "start_char": 6302,
+    "end_char": 6305,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:109",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 6372,
-        "end_char": 6384
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -711,19 +685,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6398-6401:108:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6400-6403:108:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "108",
-    "start_char": 6398,
-    "end_char": 6401,
+    "start_char": 6400,
+    "end_char": 6403,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:108",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 6372,
-        "end_char": 6384
+        "start_char": 6374,
+        "end_char": 6386
       }
     ],
     "basis": "express_cross_reference",
@@ -734,21 +708,14 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6688-6695:113-bis:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6690-6697:113-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "113 Bis",
-    "start_char": 6688,
-    "end_char": 6695,
+    "start_char": 6690,
+    "end_char": 6697,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:113-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 6850,
-        "end_char": 6862
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -757,19 +724,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6876-6879:108:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6878-6881:108:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "source_span": "108",
-    "start_char": 6876,
-    "end_char": 6879,
+    "start_char": 6878,
+    "end_char": 6881,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:108",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 6850,
-        "end_char": 6862
+        "start_char": 6852,
+        "end_char": 6864
       }
     ],
     "basis": "express_cross_reference",
@@ -793,18 +760,6 @@
         "text": "fracciones V, VII, VIII, IX, XII y XIII",
         "start_char": 1747,
         "end_char": 1786
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso d",
-        "start_char": 2001,
-        "end_char": 2009
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2012,
-        "end_char": 2023
       }
     ],
     "basis": "express_cross_reference",
@@ -884,19 +839,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:192:reference:688-691:192:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:192:reference:689-692:192:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:192",
     "source_span": "III",
-    "start_char": 688,
-    "end_char": 691,
+    "start_char": 689,
+    "end_char": 692,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:192",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "III",
-        "start_char": 688,
-        "end_char": 691
+        "start_char": 689,
+        "end_char": 692
       }
     ],
     "basis": "express_cross_reference",
@@ -907,19 +862,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:192:reference:961-964:167:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:192:reference:962-965:167:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:192",
     "source_span": "167",
-    "start_char": 961,
-    "end_char": 964,
+    "start_char": 962,
+    "end_char": 965,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo séptimo",
-        "start_char": 932,
-        "end_char": 947
+        "start_char": 933,
+        "end_char": 948
       }
     ],
     "basis": "express_cross_reference",
@@ -992,19 +947,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:251:reference:1203-1204:251:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:251:reference:1204-1205:251:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "source_span": "X",
-    "start_char": 1203,
-    "end_char": 1204,
+    "start_char": 1204,
+    "end_char": 1205,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:251",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "X",
-        "start_char": 1203,
-        "end_char": 1204
+        "start_char": 1204,
+        "end_char": 1205
       }
     ],
     "basis": "express_cross_reference",
@@ -1306,19 +1261,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:928-930:37:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:929-931:37:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "source_span": "II",
-    "start_char": 928,
-    "end_char": 930,
+    "start_char": 929,
+    "end_char": 931,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 928,
-        "end_char": 930
+        "start_char": 929,
+        "end_char": 931
       }
     ],
     "basis": "express_cross_reference",
@@ -1329,19 +1284,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:1160-1162:37:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:1161-1163:37:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "source_span": "II",
-    "start_char": 1160,
-    "end_char": 1162,
+    "start_char": 1161,
+    "end_char": 1163,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 1160,
-        "end_char": 1162
+        "start_char": 1161,
+        "end_char": 1163
       }
     ],
     "basis": "express_cross_reference",
@@ -1352,19 +1307,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:1498-1500:37:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:1499-1501:37:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "source_span": "II",
-    "start_char": 1498,
-    "end_char": 1500,
+    "start_char": 1499,
+    "end_char": 1501,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 1498,
-        "end_char": 1500
+        "start_char": 1499,
+        "end_char": 1501
       }
     ],
     "basis": "express_cross_reference",
@@ -1375,19 +1330,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:2043-2045:37:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:37:reference:2044-2046:37:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "source_span": "II",
-    "start_char": 2043,
-    "end_char": 2045,
+    "start_char": 2044,
+    "end_char": 2046,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:37",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 2043,
-        "end_char": 2045
+        "start_char": 2044,
+        "end_char": 2046
       }
     ],
     "basis": "express_cross_reference",
@@ -1446,11 +1401,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1825-1826:9:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1826-1827:9:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "9",
-    "start_char": 1825,
-    "end_char": 1826,
+    "start_char": 1826,
+    "end_char": 1827,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:9",
     "qualifiers": [],
@@ -1462,11 +1417,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1947-1949:97:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1948-1950:97:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "97",
-    "start_char": 1947,
-    "end_char": 1949,
+    "start_char": 1948,
+    "end_char": 1950,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:97",
     "qualifiers": [],
@@ -1478,11 +1433,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1947-1955:100:range",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1948-1956:100:range",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "97 a 102",
-    "start_char": 1947,
-    "end_char": 1955,
+    "start_char": 1948,
+    "end_char": 1956,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:100",
     "qualifiers": [],
@@ -1494,11 +1449,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1947-1955:101:range",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1948-1956:101:range",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "97 a 102",
-    "start_char": 1947,
-    "end_char": 1955,
+    "start_char": 1948,
+    "end_char": 1956,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:101",
     "qualifiers": [],
@@ -1510,11 +1465,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1947-1955:98:range",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1948-1956:98:range",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "97 a 102",
-    "start_char": 1947,
-    "end_char": 1955,
+    "start_char": 1948,
+    "end_char": 1956,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:98",
     "qualifiers": [],
@@ -1526,11 +1481,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1947-1955:99:range",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1948-1956:99:range",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "97 a 102",
-    "start_char": 1947,
-    "end_char": 1955,
+    "start_char": 1948,
+    "end_char": 1956,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:99",
     "qualifiers": [],
@@ -1542,11 +1497,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1952-1955:102:direct",
+    "id": "urn:lex-mx:federal:code:cnpp:article:482:reference:1953-1956:102:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:482",
     "source_span": "102",
-    "start_char": 1952,
-    "end_char": 1955,
+    "start_char": 1953,
+    "end_char": 1956,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
     "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:102",
     "qualifiers": [],
@@ -1681,28 +1636,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpp:transitory:decimo-tercero:reference:870-872:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:code:cnpp:transitory:decimo-tercero",
-    "source_span": "89",
-    "start_char": 870,
-    "end_char": 872,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 846,
-        "end_char": 856
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

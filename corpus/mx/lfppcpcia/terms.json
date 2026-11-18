@@ -51,7 +51,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "V",
     "start_char": 1462,
-    "end_char": 1991,
+    "end_char": 1795,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:copropietarios",
+    "term": "Copropietarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "VI",
+    "start_char": 1795,
+    "end_char": 1992,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "VII",
-    "start_char": 1991,
-    "end_char": 2285,
+    "start_char": 1992,
+    "end_char": 2286,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "VIII",
-    "start_char": 2285,
-    "end_char": 2773,
+    "start_char": 2286,
+    "end_char": 2774,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "IX",
-    "start_char": 2773,
-    "end_char": 2829,
+    "start_char": 2774,
+    "end_char": 2830,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "X",
-    "start_char": 2829,
-    "end_char": 2889,
+    "start_char": 2830,
+    "end_char": 2890,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XI",
-    "start_char": 2889,
-    "end_char": 3005,
+    "start_char": 2890,
+    "end_char": 3006,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XII",
-    "start_char": 3005,
-    "end_char": 3490,
+    "start_char": 3006,
+    "end_char": 3491,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XIII",
-    "start_char": 3490,
-    "end_char": 3901,
+    "start_char": 3491,
+    "end_char": 3902,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XIV",
-    "start_char": 3901,
-    "end_char": 4244,
+    "start_char": 3902,
+    "end_char": 4245,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XV",
-    "start_char": 4244,
-    "end_char": 4438,
+    "start_char": 4245,
+    "end_char": 4439,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XVI",
-    "start_char": 4438,
-    "end_char": 4552,
+    "start_char": 4439,
+    "end_char": 4553,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,19 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "fraction": "XVII",
-    "start_char": 4552,
-    "end_char": 5025,
+    "start_char": 4553,
+    "end_char": 4703,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:sistemas-normativos-indigenas",
+    "term": "Sistemas Normativos Indígenas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XVIII",
+    "start_char": 4703,
+    "end_char": 5027,
     "basis": "express_definition"
   }
 ]

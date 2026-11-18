@@ -35,7 +35,9 @@ V. Los quebrados y concursados que no hayan sido rehabilitados;
 
 VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y
 
-VII. Quienes realicen funciones de regulación y supervisión de las instituciones de crédito, salvo que exista participación del Gobierno Federal o del Instituto para la Protección al Ahorro Bancario en el capital de las mismas, o reciban apoyos de este último, y Fracción reformada DOF 15-02-1995, 01-02-2008 VIII. Quienes participen en el consejo de administración de otra institución de banca múltiple o de una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple. Fracción adicionada DOF 04-06-2001, 01-02-2008
+VII. Quienes realicen funciones de regulación y supervisión de las instituciones de crédito, salvo que exista participación del Gobierno Federal o del Instituto para la Protección al Ahorro Bancario en el capital de las mismas, o reciban apoyos de este último, y Fracción reformada DOF 15-02-1995, 01-02-2008
+
+VIII. Quienes participen en el consejo de administración de otra institución de banca múltiple o de una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple. Fracción adicionada DOF 04-06-2001, 01-02-2008
 
 La mayoría de los consejeros deberán ser mexicanos o extranjeros residentes en el territorio nacional. Párrafo reformado DOF 15-02-1995, 19-01-1999
 

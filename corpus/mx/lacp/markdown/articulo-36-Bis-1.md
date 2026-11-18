@@ -21,7 +21,9 @@ Las obligaciones subordinadas y sus cupones serán títulos de crédito a cargo 
 
 Estos títulos podrán emitirse en moneda nacional, mediante declaración unilateral de voluntad de la emisora, que se hará constar ante la [Comisión](articulo-3o.md), previa autorización que otorgue ésta. Al efecto, las solicitudes de autorización deberán presentarse por escrito a la citada Comisión, acompañando el respectivo proyecto de acta de emisión e indicando las condiciones bajo las cuales se pretendan colocar dichos títulos. En todo caso, las obligaciones subordinadas deberán contener:
 
-I. La mención de ser obligaciones subordinadas y títulos al portador; II. La expresión de lugar y fecha en que se suscriban;
+I. La mención de ser obligaciones subordinadas y títulos al portador;
+
+II. La expresión de lugar y fecha en que se suscriban;
 
 III. El nombre y la firma de la emisora;
 

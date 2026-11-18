@@ -17,7 +17,9 @@ source_sha256: 9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036
 
 # Artículo 77
 
-Al imponer las sanciones a que se refiere este Título, la [Secretaría](articulo-2o.md) deberá considerar: I. La gravedad de la infracción;
+Al imponer las sanciones a que se refiere este Título, la [Secretaría](articulo-2o.md) deberá considerar:
+
+I. La gravedad de la infracción;
 
 II. Los daños causados; y
 

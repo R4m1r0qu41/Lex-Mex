@@ -7,8 +7,8 @@ provision_type: article
 number: "353"
 aliases: ["REG-LFSA — Artículo 353"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -17,7 +17,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 353
 
-En el ámbito de la vigilancia epidemiológica, la escala para valorar el estatus sanitario de zona o región o compartimento en el territorio nacional, así como la totalidad del país estará basada en las fases de campañas establecidas y será la siguiente: I. Control;
+En el ámbito de la vigilancia epidemiológica, la escala para valorar el estatus sanitario de zona o región o compartimento en el territorio nacional, así como la totalidad del país estará basada en las fases de campañas establecidas y será la siguiente:
+
+I. Control;
 
 II. Escasa prevalencia;
 

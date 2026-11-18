@@ -33,7 +33,9 @@ II. Realizar periódicamente las investigaciones y estudios necesarios para dete
 
 a) El presupuesto indispensable para la satisfacción de las siguientes necesidades de cada familia, entre otras: las de orden material, tales como la habitación, menaje de casa, alimentación, vestido y transporte; las de carácter social y cultural, tales como concurrencia a espectáculos, práctica de deportes, asistencia a escuelas de capacitación, bibliotecas y otros centros de cultura; y las relacionadas con la educación de los hijos.
 
-b) Las condiciones de vida y de trabajo de los trabajadores de salario mínimo. III. Solicitar toda clase de informes y estudios de las instituciones oficiales, federales y estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
+b) Las condiciones de vida y de trabajo de los trabajadores de salario mínimo.
+
+III. Solicitar toda clase de informes y estudios de las instituciones oficiales, federales y estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
 
 IV. Recibir y considerar los estudios, informes y sugerencias que le presenten los trabajadores y los patrones; y
 

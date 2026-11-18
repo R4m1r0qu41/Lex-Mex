@@ -7,8 +7,8 @@ provision_type: article
 number: "78"
 aliases: ["REG-LMIN — Artículo 78"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -29,7 +29,9 @@ IV. Nombre del cesionario, adjudicatario o beneficiario de la afectación;
 
 V. Vigencia, en su caso, del acto, contrato o convenio;
 
-VI. Pagos, compensaciones, regalías e indemnizaciones pactados o importe del crédito que se garantiza; VII. Datos de identificación del documento que consigne la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción, y
+VI. Pagos, compensaciones, regalías e indemnizaciones pactados o importe del crédito que se garantiza;
+
+VII. Datos de identificación del documento que consigne la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción, y
 
 VIII. Original y copia del documento donde conste la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción.
 

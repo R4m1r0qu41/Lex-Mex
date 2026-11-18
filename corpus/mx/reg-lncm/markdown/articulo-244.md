@@ -27,6 +27,8 @@ III. Jefe Central, función que corresponde ejercer a un servidor público con n
 
 IV. Comandante local, función que corresponde ejercer al Capitán de Puerto respectivo;
 
-V. Subcomandante local, función que corresponde ejercer a un servidor público con nivel jerárquico de Jefe de Departamento y que esté adscrito a la [Capitanía de Puerto](articulo-10.md); VI. Primer oficial, función que corresponde ejercer al servidor público adscrito a la Capitanía de Puerto con ese cargo, y
+V. Subcomandante local, función que corresponde ejercer a un servidor público con nivel jerárquico de Jefe de Departamento y que esté adscrito a la [Capitanía de Puerto](articulo-10.md);
+
+VI. Primer oficial, función que corresponde ejercer al servidor público adscrito a la Capitanía de Puerto con ese cargo, y
 
 VII. Oficialidad, el demás personal adscrito a la Capitanía de Puerto que se requiera para la operación del REMAFE.

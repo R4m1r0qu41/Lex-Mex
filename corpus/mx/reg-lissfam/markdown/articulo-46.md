@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["REG-LISSFAM — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf
 source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 ---

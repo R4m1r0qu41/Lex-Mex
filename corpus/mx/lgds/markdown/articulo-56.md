@@ -7,8 +7,8 @@ provision_type: article
 number: "56"
 aliases: ["LGDS — Artículo 56"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -33,7 +33,9 @@ VI. Proponer la realización de estudios e investigaciones en la materia;
 
 VII. Solicitar a las dependencias responsables de la [Política de Desarrollo Social](articulo-5.md) información sobre los programas y acciones que éstas realizan;
 
-VIII. Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten; IX. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo social;
+VIII. Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten;
+
+IX. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo social;
 
 X. Informar a la opinión pública sobre los aspectos de interés general relativos a la Política Nacional de Desarrollo Social;
 

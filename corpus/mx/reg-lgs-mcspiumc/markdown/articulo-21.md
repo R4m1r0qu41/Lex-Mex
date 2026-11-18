@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["REG-LGS-MCSPIUMC — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf
 source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 ---
@@ -95,7 +95,9 @@ XI. Instrucciones o recomendaciones específicas de acondicionamiento de la cose
 
 XII. Medidas y procedimientos para prevenir la siembra no permitida y la dispersión no prevista de la Cannabis, fuera del Sitio Confinado Permitido donde se pretenda realizar la siembra;
 
-XIII. Medidas para la erradicación de la Cannabis en sitios distintos de los permitidos, y desarrollo de protocolos para monitoreo y eliminación de plántulas voluntarias; XIV. Medidas para el aislamiento del sitio donde se pretenda sembrar Cannabis;
+XIII. Medidas para la erradicación de la Cannabis en sitios distintos de los permitidos, y desarrollo de protocolos para monitoreo y eliminación de plántulas voluntarias;
+
+XIV. Medidas para el aislamiento del sitio donde se pretenda sembrar Cannabis;
 
 XV. Métodos de limpieza o disposición final de los residuos de la siembra dentro del Sitio Confinado Permitido;
 

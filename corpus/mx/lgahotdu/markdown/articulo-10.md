@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LGAHOTDU — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -39,7 +39,9 @@ IX. Establecer las normas conforme a las cuales se efectuará la evaluación del
 
 X. Participar, conforme a la legislación federal y local, en la constitución y administración de Reservas territoriales, la dotación de infraestructura, equipamiento y [Servicios Urbanos](articulo-3.md), la salvaguarda de la población que se ubique en los polígonos de protección y amortiguamiento determinados por los planes de Desarrollo Urbano; así como en la protección del [Patrimonio Natural y Cultural](articulo-3.md), y de las zonas de valor ambiental del equilibrio ecológico de los Centros de Población;
 
-XI. Intervenir en la prevención, control y solución de los asentamientos humanos irregulares, en los términos de la legislación aplicable y de conformidad con los programas de Desarrollo Urbano, de conurbaciones y zonas metropolitanas incluyendo el enfoque de género y el marco de los derechos humanos; XII. Emitir y, en su caso, modificar la legislación local en materia de Desarrollo Urbano que permita contribuir al financiamiento e instrumentación del ordenamiento territorial y el Desarrollo Urbano y [Desarrollo Metropolitano](articulo-3.md) en condiciones de equidad, así como para la recuperación de las inversiones públicas y del incremento de valor de la propiedad inmobiliaria generado por la consolidación y el crecimiento urbano;
+XI. Intervenir en la prevención, control y solución de los asentamientos humanos irregulares, en los términos de la legislación aplicable y de conformidad con los programas de Desarrollo Urbano, de conurbaciones y zonas metropolitanas incluyendo el enfoque de género y el marco de los derechos humanos;
+
+XII. Emitir y, en su caso, modificar la legislación local en materia de Desarrollo Urbano que permita contribuir al financiamiento e instrumentación del ordenamiento territorial y el Desarrollo Urbano y [Desarrollo Metropolitano](articulo-3.md) en condiciones de equidad, así como para la recuperación de las inversiones públicas y del incremento de valor de la propiedad inmobiliaria generado por la consolidación y el crecimiento urbano;
 
 XIII. Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos previstos en esta Ley y en las leyes de las entidades federativas que, en su caso, corresponda;
 
@@ -59,7 +61,9 @@ XX. Imponer sanciones administrativas a los infractores de las disposiciones jur
 
 XXI. Aplicar y promover las políticas y criterios técnicos de las legislaciones fiscales, que permitan contribuir al financiamiento del ordenamiento territorial y el Desarrollo Urbano, Desarrollo Regional y Desarrollo Metropolitano en condiciones de equidad, así como la recuperación del incremento de valor de la propiedad inmobiliaria generado por la consolidación y el [Crecimiento](articulo-3.md) urbano;
 
-XXII. Formular y aplicar las políticas, así como realizar las acciones en materia de estructuración urbana, gestión del suelo, [Conservación](articulo-3.md) del Patrimonio Natural y Cultural y accesibilidad universal, incluyendo la Movilidad; XXIII. Evaluar y dar seguimiento, en los términos de las leyes locales aplicables al impacto territorial de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad de que se trate;
+XXII. Formular y aplicar las políticas, así como realizar las acciones en materia de estructuración urbana, gestión del suelo, [Conservación](articulo-3.md) del Patrimonio Natural y Cultural y accesibilidad universal, incluyendo la Movilidad;
+
+XXIII. Evaluar y dar seguimiento, en los términos de las leyes locales aplicables al impacto territorial de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad de que se trate;
 
 XXIV. Prevenir y evitar la ocupación por asentamientos humanos en zonas de alto riesgo, de conformidad con los atlas de riesgo y en los términos de la legislación aplicable;
 

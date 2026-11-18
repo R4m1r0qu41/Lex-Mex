@@ -7,8 +7,8 @@ provision_type: article
 number: "69"
 aliases: ["REG-LPF — Artículo 69"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -29,7 +29,9 @@ IV. Establecer mecanismos de colaboración para los fines de evaluación, desarr
 
 V. Generar y elaborar los reportes asociados a la investigación, evaluación y prospección de nuevas tecnologías que permitan difundir el conocimiento acerca de las nuevas tendencias en las áreas de química, forense, física, materiales, mecánica, electrónica, genómica y cualquier rama que fortalezca las labores de la Institución;
 
-VI. Investigar y recopilar información relativa a los procesos de evaluación de nuevas tecnologías, así como los resultados asociados con la pertinencia, eficiencia y adaptabilidad a los procesos de la Institución; VII. Establecer los perfiles de formación y capacitación del personal involucrado con la implantación de las nuevas tecnologías;
+VI. Investigar y recopilar información relativa a los procesos de evaluación de nuevas tecnologías, así como los resultados asociados con la pertinencia, eficiencia y adaptabilidad a los procesos de la Institución;
+
+VII. Establecer los perfiles de formación y capacitación del personal involucrado con la implantación de las nuevas tecnologías;
 
 VIII. Generar y elaborar los reportes asociados al impacto, eficiencia operativa y detección de nuevas oportunidades en la implantación de tecnologías emergentes;
 

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
-      "provision_text_sha256": "7c6570bfad458098796ae8404d36324e04bbc6d4379760c38717a16c2eafe3fc",
+      "provision_text_sha256": "0bb524d1f0a5fe12ecc9ff75306b523cddba656840c894d94a862c57731069c7",
       "method": "roman_colon",
       "fractions": [
         "I",
@@ -38,5 +38,5 @@
   ],
   "imports": [],
   "term_count": 21,
-  "usage_count": 263
+  "usage_count": 262
 }

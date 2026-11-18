@@ -25,7 +25,9 @@ I. La integridad física y la prevención de lesiones de todas las personas usua
 
 II. La accesibilidad de todas las personas, en igualdad de condiciones, con dignidad y autonomía a las calles y a los sistemas de transporte; priorizando a los grupos en situación de vulnerabilidad;
 
-III. La movilidad eficiente de personas, bienes y mercancías; IV. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
+III. La movilidad eficiente de personas, bienes y mercancías;
+
+IV. La preservación y restauración del equilibrio ecológico ante los efectos del cambio climático;
 
 V. La calidad de los servicios de transporte y de la infraestructura vial;
 

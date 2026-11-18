@@ -39,7 +39,9 @@ IX. Requerir informes o documentación a otras autoridades y a particulares, as�
 
 X. Solicitar al Órgano jurisdiccional la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
 
-XI. Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos que establece este Código; XII. Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del imputado sin riesgo para ellos;
+XI. Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos que establece este Código;
+
+XII. Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del imputado sin riesgo para ellos;
 
 XIII. Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por este Código;
 

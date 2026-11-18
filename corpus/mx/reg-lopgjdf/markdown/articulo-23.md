@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["REG-LOPGJDF — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -27,7 +27,9 @@ III. Intervenir en la audiencia en la que rinda su declaración inicial;
 
 IV. Solicitar ante el juez de control la vinculación a proceso del adolescente y las medidas cautelares, establecidas en la Ley de Justicia para Adolescentes para el Distrito Federal;
 
-V. Oponerse, cuando sea procedente, a la suspensión del proceso a prueba; VI. Solicitar la revocación de la suspensión del proceso a prueba, cuando el adolescente incumpla con las condiciones impuestas por el juez especializado;
+V. Oponerse, cuando sea procedente, a la suspensión del proceso a prueba;
+
+VI. Solicitar la revocación de la suspensión del proceso a prueba, cuando el adolescente incumpla con las condiciones impuestas por el juez especializado;
 
 VII. Oponerse, cuando sea procedente, a los acuerdos reparatorios;
 

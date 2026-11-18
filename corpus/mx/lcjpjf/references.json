@@ -127,19 +127,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:reference:1991-1995:43:direct",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:reference:1992-1996:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:43",
     "source_span": "VIII",
-    "start_char": 1991,
-    "end_char": 1995,
+    "start_char": 1992,
+    "end_char": 1996,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:43",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VIII",
-        "start_char": 1991,
-        "end_char": 1995
+        "start_char": 1992,
+        "end_char": 1996
       }
     ],
     "basis": "express_cross_reference",
@@ -150,19 +150,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:reference:1998-2000:43:direct",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:reference:1999-2001:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:43",
     "source_span": "IX",
-    "start_char": 1998,
-    "end_char": 2000,
+    "start_char": 1999,
+    "end_char": 2001,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:43",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "IX",
-        "start_char": 1998,
-        "end_char": 2000
+        "start_char": 1999,
+        "end_char": 2001
       }
     ],
     "basis": "express_cross_reference",
@@ -189,11 +189,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:reference:2494-2496:58:direct",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:reference:2495-2497:58:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "source_span": "58",
-    "start_char": 2494,
-    "end_char": 2496,
+    "start_char": 2495,
+    "end_char": 2497,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:58",
     "qualifiers": [],
@@ -205,11 +205,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:reference:2499-2505:63-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:reference:2500-2506:63-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "source_span": "63 Bis",
-    "start_char": 2499,
-    "end_char": 2505,
+    "start_char": 2500,
+    "end_char": 2506,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:63-bis",
     "qualifiers": [],

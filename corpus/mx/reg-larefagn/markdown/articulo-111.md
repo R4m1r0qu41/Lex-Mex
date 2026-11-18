@@ -7,8 +7,8 @@ provision_type: article
 number: "111"
 aliases: ["REG-LAREFAGN — Artículo 111"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf
 source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 ---
@@ -17,7 +17,9 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 111
 
-El otorgamiento de Condecoraciones por Gobiernos o Fuerzas Armadas de Naciones amigas o bien por Organizaciones Civiles Internacionales, se sujetará a lo siguiente: I. Aquellas personas militares que por haber desempeñado sus servicios como personas titulares de Agregadurías Militares o Adjuntas a las Embajadas de México, personas docentes o discentes becadas o bien, que hayan prestado servicios comisionados por la Secretaría, y que a juicio del Gobierno extranjero respectivo, de las Fuerzas Armadas de Naciones amigas o de Organizaciones Civiles Internacionales por este hecho se hagan acreedoras a una Condecoración, deberán informar el ofrecimiento recibido y remitirán a la Secretaría la documentación oficial comprobatoria que avale el ofrecimiento de referencia; Fracción reformada DOF 20-03-2026
+El otorgamiento de Condecoraciones por Gobiernos o Fuerzas Armadas de Naciones amigas o bien por Organizaciones Civiles Internacionales, se sujetará a lo siguiente:
+
+I. Aquellas personas militares que por haber desempeñado sus servicios como personas titulares de Agregadurías Militares o Adjuntas a las Embajadas de México, personas docentes o discentes becadas o bien, que hayan prestado servicios comisionados por la Secretaría, y que a juicio del Gobierno extranjero respectivo, de las Fuerzas Armadas de Naciones amigas o de Organizaciones Civiles Internacionales por este hecho se hagan acreedoras a una Condecoración, deberán informar el ofrecimiento recibido y remitirán a la Secretaría la documentación oficial comprobatoria que avale el ofrecimiento de referencia; Fracción reformada DOF 20-03-2026
 
 II. La Secretaría al recibir la documentación que justifique el ofrecimiento de una Condecoración de este tipo, procederá a su análisis realizando el estudio correspondiente y, una vez hecho lo anterior, turnará el expediente a la Secretaría de Gobernación, dependencia que a su vez lo remitirá al Congreso de la Unión, para su análisis y aprobación constitucional, y
 

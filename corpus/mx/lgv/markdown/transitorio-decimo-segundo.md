@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # DÉCIMO SEGUNDO
 
-El Gobierno Federal deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos de la Federación para el siguiente ejercicio fiscal a su entrada en vigor.
+El Gobierno Federal deberá hacer las previsiones presupuestales necesarias para la operación de la presente [Ley](articulo-6.md) y establecer una partida presupuestal específica en el Presupuesto de Egresos de la Federación para el siguiente ejercicio fiscal a su entrada en vigor.

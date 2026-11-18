@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LRPV — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf
 source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 ---
@@ -23,7 +23,9 @@ I.- Carroceros: Las personas físicas o morales dedicadas al ensamble o modifica
 
 II.- Comercializadoras: Las personas físicas o morales dedicadas a la compra, venta o importación de vehículos nuevos o usados;
 
-III.- Consejo Nacional de Seguridad Pública: La instancia superior de coordinación del Sistema Nacional de Seguridad Pública; IV.- Distribuidoras: Las personas físicas o morales que se dediquen a la venta de primera mano de vehículos que provengan de las ensambladoras; así como quienes importen vehículos nuevos para su venta en territorio nacional;
+III.- Consejo Nacional de Seguridad Pública: La instancia superior de coordinación del Sistema Nacional de Seguridad Pública;
+
+IV.- Distribuidoras: Las personas físicas o morales que se dediquen a la venta de primera mano de vehículos que provengan de las ensambladoras; así como quienes importen vehículos nuevos para su venta en territorio nacional;
 
 V.- Ensambladoras: Las personas físicas o morales que se dediquen a la fabricación, ensamblaje o importación para comercializar vehículos nuevos;
 

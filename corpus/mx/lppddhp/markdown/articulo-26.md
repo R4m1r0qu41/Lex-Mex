@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LPPDDHP — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf
 source_sha256: 060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21
 ---
@@ -21,7 +21,9 @@ En el supuesto que el peticionario declare que su vida, integridad física o la 
 
 La Unidad de Recepción de Casos y Reacción Rápida procederá a:
 
-I. Emitir, en un plazo no mayor a 3 horas contadas a partir del ingreso de la solicitud, las Medidas Urgentes de Protección; II. Implementar de manera inmediata, una vez emitidas, y en un plazo no mayor a 9 horas, las Medidas Urgentes de Protección;
+I. Emitir, en un plazo no mayor a 3 horas contadas a partir del ingreso de la solicitud, las Medidas Urgentes de Protección;
+
+II. Implementar de manera inmediata, una vez emitidas, y en un plazo no mayor a 9 horas, las Medidas Urgentes de Protección;
 
 III. Realizar simultáneamente a la emisión de las Medidas Urgentes de Protección, un Estudio de Evaluación de Acción Inmediata;
 

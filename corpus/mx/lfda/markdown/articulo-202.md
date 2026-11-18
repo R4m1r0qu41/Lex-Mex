@@ -29,7 +29,9 @@ IV. Supervisar el uso de los repertorios autorizados;
 
 V. Recaudar para sus miembros las regalías provenientes de los derechos de autor o derechos conexos que les correspondan, y entregárselas previa deducción de los gastos de administración de la Sociedad, siempre que exista mandato expreso;
 
-VI. Recaudar y entregar las regalías que se generen en favor de los titulares de derechos de autor o conexos extranjeros, por sí o a través de las sociedades de gestión que los representen, siempre y cuando exista mandato expreso otorgado a la sociedad de gestión mexicana y previa deducción de los gastos de administración; VII. Promover o realizar servicios de carácter asistencial en beneficio de sus miembros y apoyar actividades de promoción de sus repertorios;
+VI. Recaudar y entregar las regalías que se generen en favor de los titulares de derechos de autor o conexos extranjeros, por sí o a través de las sociedades de gestión que los representen, siempre y cuando exista mandato expreso otorgado a la sociedad de gestión mexicana y previa deducción de los gastos de administración;
+
+VII. Promover o realizar servicios de carácter asistencial en beneficio de sus miembros y apoyar actividades de promoción de sus repertorios;
 
 VIII. Recaudar donativos para ellas así como aceptar herencias y legados, y
 

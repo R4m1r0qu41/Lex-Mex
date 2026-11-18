@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["LOIPN — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf
 source_sha256: c40f1697221f7ce6b0a9c9da729c2e95db5e1a9404151456b69fdc1be7f5c6ee
 ---
@@ -31,7 +31,9 @@ V.- El Abogado General;
 
 VI.- El Presidente del Decanato;
 
-VII.- Los Directores de las escuelas, centros y unidades de enseñanza y de investigación. VIII.- Un representante profesor por cada una de las escuelas, centros y unidades de enseñanza media superior y un representante profesor por cada una de las escuelas, centros y unidades de enseñanza superior;
+VII.- Los Directores de las escuelas, centros y unidades de enseñanza y de investigación.
+
+VIII.- Un representante profesor por cada una de las escuelas, centros y unidades de enseñanza media superior y un representante profesor por cada una de las escuelas, centros y unidades de enseñanza superior;
 
 IX.- Tres representantes alumnos de enseñanza media superior, tres de enseñanza superior y uno de graduados por cada una de las siguientes ramas del conocimiento: Ciencias Sociales y Administrativas, Médico Biológicas y de Ingeniería y Ciencias Físico Matemáticas;
 

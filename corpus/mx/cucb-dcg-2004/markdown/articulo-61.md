@@ -34,6 +34,6 @@ III. Personas físicas o morales cuando tengan contratados los servicios de un a
 
 IV. Instituciones financieras del exterior, incluyendo aquellas a las que se refiere la Ley de Instituciones de Crédito.
 
-V. Inversionistas extranjeros que manifiesten tener en su país de origen el carácter de Inversionista institucional o equivalente conforme a la legislación que les resulte aplicable.
+V. Inversionistas extranjeros que manifiesten tener en su país de origen el carácter de [Inversionista institucional](articulo-1.md) o equivalente conforme a la legislación que les resulte aplicable.
 
 Los clientes a que se refiere el presente artículo, deberán presentar a la casa de bolsa de que se trate una manifestación en la que declaren que conocen las diferencias entre las instrucciones que giren al libro y a la mesa en términos de las presentes disposiciones, así como que entienden que los operadores de bolsa de las casas de bolsa son los encargados de administrar y ejecutar las órdenes derivadas de instrucciones giradas a la mesa. Asimismo, que están conscientes de la transmisión y el orden de prelación para la ejecución de las órdenes que giren a la mesa, conforme a lo señalado en la fracción II del artículo [75](articulo-75.md) de estas disposiciones.

@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 253
 
-Constituyen el patrimonio del [Instituto](articulo-5-A.md): I. Los bienes muebles e inmuebles de cualquier naturaleza, con excepción de aquellos provenientes de adjudicación o dación en pago por adeudo de cuotas obrero patronales, capitales constitutivos y accesorios, así como cualquier otro que se afecte expresamente a las reservas que el Instituto deba constituir en términos de esta [Ley](articulo-5-A.md);
+Constituyen el patrimonio del [Instituto](articulo-5-A.md):
+
+I. Los bienes muebles e inmuebles de cualquier naturaleza, con excepción de aquellos provenientes de adjudicación o dación en pago por adeudo de cuotas obrero patronales, capitales constitutivos y accesorios, así como cualquier otro que se afecte expresamente a las reservas que el Instituto deba constituir en términos de esta [Ley](articulo-5-A.md);
 
 II. Los derechos de propiedad y posesión de bienes muebles e inmuebles, cualquiera que sea su naturaleza jurídica, que por justo título obren en poder del Instituto;
 
@@ -45,6 +47,8 @@ En ningún caso la dación en pago o el pago en especie dará derecho a la devol
 
 En caso de que existiera saldo a favor del ente público, una vez que se hubiere liquidado el importe de los adeudos y descontados los gastos de adjudicación, éste podrá ser aplicado, considerando el porcentaje máximo de adjudicación, a los importes futuros, sin que pueda ser utilizado para cubrir las aportaciones o adeudos derivados de las cuotas correspondientes al seguro de retiro, cesantía en edad avanzada y vejez, y Fracción adicionada DOF 21-05-2024
 
-VII. Cualesquiera otros ingresos que le señalen las leyes y reglamentos. Fracción reformada y recorrida DOF 21-05-2024 Todos los bienes inmuebles que formen parte del patrimonio del Instituto, estarán destinados al servicio público de carácter nacional del Seguro Social a que se refiere el artículo [4](articulo-4.md)o. de esta Ley y tendrán el carácter de bienes del dominio público de la Federación.
+VII. Cualesquiera otros ingresos que le señalen las leyes y reglamentos. Fracción reformada y recorrida DOF 21-05-2024
+
+Todos los bienes inmuebles que formen parte del patrimonio del Instituto, estarán destinados al servicio público de carácter nacional del Seguro Social a que se refiere el artículo [4](articulo-4.md)o. de esta Ley y tendrán el carácter de bienes del dominio público de la Federación.
 
 Artículo reformado DOF 20-12-2001

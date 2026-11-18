@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo I
 
 # Artículo 2 Bis 1
 
-Para efectos del reconocimiento de Operaciones, se incluirán las Operaciones a partir de la fecha en que se concierten, independientemente de la fecha de liquidación, entrega o vigencia, según sea el caso.
+Para efectos del reconocimiento de [Operaciones](articulo-1.md), se incluirán las Operaciones a partir de la fecha en que se concierten, independientemente de la fecha de liquidación, entrega o vigencia, según sea el caso.
 
-Se considerará que se ha transferido la propiedad de un activo, y que por lo tanto éste no tendrá requerimientos de capitalización de acuerdo con lo establecido en el presente título, siempre que se cumpla con los Criterios Contables.
+Se considerará que se ha transferido la propiedad de un activo, y que por lo tanto éste no tendrá requerimientos de capitalización de acuerdo con lo establecido en el presente título, siempre que se cumpla con los [Criterios Contables](articulo-1.md).

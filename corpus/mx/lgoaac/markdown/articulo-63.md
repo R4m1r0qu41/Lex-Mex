@@ -21,7 +21,9 @@ Cuando la Comisión Nacional Bancaria y de Valores advierta que el estado patrim
 
 Si transcurrido el lapso a que se refiere el párrafo anterior no se hubiere integrado el capital necesario, la Comisión Nacional Bancaria y de Valores hará del conocimiento de la Secretaría de Hacienda y Crédito Público dicha situación, la que, previa audiencia de la sociedad interesada, podrá en protección del interés público declarar la revocación de la autorización respectiva en términos de la presente Ley.
 
-Asimismo, la Comisión Nacional Bancaria y de Valores podrá, previo derecho de audiencia de las organizaciones auxiliares del crédito y casas de cambio, suspender o limitar de manera parcial la celebración de operaciones a que se refiere esta Ley, cuando dichas actividades se ubiquen en cualquiera de los supuestos siguientes: I. No se cuente con la infraestructura o controles necesarios para realizar las operaciones y servicios respectivos, conforme a las disposiciones aplicables;
+Asimismo, la Comisión Nacional Bancaria y de Valores podrá, previo derecho de audiencia de las organizaciones auxiliares del crédito y casas de cambio, suspender o limitar de manera parcial la celebración de operaciones a que se refiere esta Ley, cuando dichas actividades se ubiquen en cualquiera de los supuestos siguientes:
+
+I. No se cuente con la infraestructura o controles necesarios para realizar las operaciones y servicios respectivos, conforme a las disposiciones aplicables;
 
 II. Realicen operaciones distintas a las autorizadas;
 

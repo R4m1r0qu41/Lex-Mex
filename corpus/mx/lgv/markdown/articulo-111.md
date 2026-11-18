@@ -7,8 +7,8 @@ provision_type: article
 number: "111"
 aliases: ["LGV — Artículo 111"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 El reconocimiento de la calidad de víctima tendrá como efecto:
 
-I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de esta Ley y las disposiciones reglamentarias, y
+I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, en los términos de esta [Ley](articulo-6.md) y las disposiciones reglamentarias, y
 
 II. En el caso de lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato, suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de éstos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 

@@ -19,6 +19,8 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 Para obtener el permiso sanitario para la salida del territorio nacional de Tejidos y células, el interesado deberá presentar ante la [COFEPRIS](articulo-2.md) solicitud en el formato oficial correspondiente, al cual se anexará la documentación siguiente:
 
-I. Copia de la autorización sanitaria del [Establecimiento de Salud](articulo-2.md) para efectuar la Disposición de Órganos, Tejidos y células; II. Copia del documento que acredite el funcionamiento legal del Establecimiento de Salud que recibirá los Tejidos y células emitida por la autoridad competente, con fines de control del país de destino, y
+I. Copia de la autorización sanitaria del [Establecimiento de Salud](articulo-2.md) para efectuar la Disposición de Órganos, Tejidos y células;
+
+II. Copia del documento que acredite el funcionamiento legal del Establecimiento de Salud que recibirá los Tejidos y células emitida por la autoridad competente, con fines de control del país de destino, y
 
 III. Carta de aceptación del Establecimiento de Salud en el extranjero.

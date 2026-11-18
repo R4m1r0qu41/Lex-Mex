@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["REG-LMIN — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -33,7 +33,9 @@ VI. Lados, rumbos y distancias horizontales y, en su caso, la línea o líneas a
 
 VII. Nombre del lote, número de título o expediente y superficie de los perímetros interiores, de lotes mineros preexistentes de ser el caso;
 
-VIII. En su caso, nombre del lote y número de expediente o el título que amparaba con anterioridad al mismo, y IX. En su caso, nombre, firma y número de registro del [Perito Minero](articulo-1o.md) que haya realizado el trabajo de posicionamiento en el campo del punto de partida del lote minero.
+VIII. En su caso, nombre del lote y número de expediente o el título que amparaba con anterioridad al mismo, y
+
+IX. En su caso, nombre, firma y número de registro del [Perito Minero](articulo-1o.md) que haya realizado el trabajo de posicionamiento en el campo del punto de partida del lote minero.
 
 Toda solicitud, incluyendo las que tengan carácter de simultáneas, se acompañará de una carta topográfica del [INEGI](articulo-1o.md) o bien una porción de la misma, en la que se mostrará y precisará la localización de las coordenadas del punto de partida del lote y su perímetro.
 

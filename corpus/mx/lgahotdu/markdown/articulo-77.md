@@ -7,8 +7,8 @@ provision_type: article
 number: "77"
 aliases: ["LGAHOTDU — Artículo 77"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -25,6 +25,8 @@ II. Evitar la especulación de inmuebles aptos para el Desarrollo Urbano y la vi
 
 III. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de suelo con infraestructura y servicios, terminados o progresivos, que atienda preferentemente, las necesidades de los grupos de bajos ingresos;
 
-IV. Garantizar los derechos de vía para asegurar el diseño y construcción de una red de vialidades primarias, como partes de una retícula, que faciliten la conectividad, la [Movilidad](articulo-3.md) y el desarrollo de infraestructura urbana; V. Asegurar la disponibilidad de suelo para los diferentes [Usos del suelo](articulo-3.md) y [Destinos](articulo-3.md) que determinen los planes o programas de Desarrollo Urbano, y
+IV. Garantizar los derechos de vía para asegurar el diseño y construcción de una red de vialidades primarias, como partes de una retícula, que faciliten la conectividad, la [Movilidad](articulo-3.md) y el desarrollo de infraestructura urbana;
+
+V. Asegurar la disponibilidad de suelo para los diferentes [Usos del suelo](articulo-3.md) y [Destinos](articulo-3.md) que determinen los planes o programas de Desarrollo Urbano, y
 
 VI. Garantizar el cumplimiento de los planes o programas de Desarrollo Urbano.

@@ -21,7 +21,9 @@ El Consejo de Representantes tiene los deberes y atribuciones siguientes:
 
 I. Determinar, en la primera sesión, su forma de trabajo y la frecuencia de las sesiones;
 
-II. Aprobar anualmente el plan de trabajo de la Dirección Técnica; III. Conocer el dictamen formulado por la Dirección Técnica y dictar resolución en la que se determinen o modifiquen las áreas geográficas en las que regirán los salarios mínimos. La resolución se publicará en el Diario Oficial de la Federación; Fracción reformada DOF 21-01-1988
+II. Aprobar anualmente el plan de trabajo de la Dirección Técnica;
+
+III. Conocer el dictamen formulado por la Dirección Técnica y dictar resolución en la que se determinen o modifiquen las áreas geográficas en las que regirán los salarios mínimos. La resolución se publicará en el Diario Oficial de la Federación; Fracción reformada DOF 21-01-1988
 
 IV. Practicar y realizar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica que efectúe investigaciones y estudios complementarios; Fracción reformada DOF 21-01-1988
 

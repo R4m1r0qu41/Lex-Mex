@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LFA — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf
 source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 ---
@@ -25,7 +25,9 @@ II. Estabilización: Proceso para detener el deterioro físico de los Archivos y
 
 III. Ficha Técnica de Prevaloración: Documento para la autorización del Destino Final, que contiene la descripción de las características generales del Archivo y de la Unidad Administrativa Productora de la documentación;
 
-IV. Plan Anual de Desarrollo Archivístico: Instrumento elaborado por el Área Coordinadora de Archivos que contempla las acciones a emprender a escala institucional para la actualización y mejoramiento continuo de los servicios documentales y archivísticos, el cual, una vez aprobado por el Comité de Información deberá ser publicado en el sitio de Internet de cada Dependencia y Entidad, así como sus respectivos informes anuales de cumplimiento; V. Publicaciones Oficiales: Medio de difusión del rango del Diario Oficial de la Federación, boletines y gacetas emitidos por entidades federativas y municipios;
+IV. Plan Anual de Desarrollo Archivístico: Instrumento elaborado por el Área Coordinadora de Archivos que contempla las acciones a emprender a escala institucional para la actualización y mejoramiento continuo de los servicios documentales y archivísticos, el cual, una vez aprobado por el Comité de Información deberá ser publicado en el sitio de Internet de cada Dependencia y Entidad, así como sus respectivos informes anuales de cumplimiento;
+
+V. Publicaciones Oficiales: Medio de difusión del rango del Diario Oficial de la Federación, boletines y gacetas emitidos por entidades federativas y municipios;
 
 VI. Sistema Institucional de Archivos: Unidades de Archivos de Trámite, de Concentración, en su caso, Histórico y Área Coordinadora de Archivos que interactúan desde que se producen los documentos hasta su Destino Final;
 

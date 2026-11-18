@@ -7,8 +7,8 @@ provision_type: article
 number: "138 Bis 1"
 aliases: ["REG-LGS-MPSAM — Artículo 138 Bis 1"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---
@@ -23,7 +23,9 @@ I.- Proporcionar bienestar y una calidad de vida digna hasta el momento de su mu
 
 II.- Prevenir posibles acciones y conductas que tengan como consecuencia el abandono u obstinación terapéutica, así como la aplicación de medios extraordinarios, respetando en todo momento la dignidad de la persona;
 
-III.- Proporcionar alivio del dolor y otros síntomas severos asociados a las enfermedades en estado terminal; IV.- Establecer los protocolos de tratamiento que se proporcionen a los enfermos en situación terminal a través de cuidados paliativos, a fin de que no se interfiera con el proceso natural de la muerte;
+III.- Proporcionar alivio del dolor y otros síntomas severos asociados a las enfermedades en estado terminal;
+
+IV.- Establecer los protocolos de tratamiento que se proporcionen a los enfermos en situación terminal a través de cuidados paliativos, a fin de que no se interfiera con el proceso natural de la muerte;
 
 V.- Proporcionar al enfermo en situación terminal, los apoyos físicos, psicológicos, sociales y espirituales que se requieran, a fin de brindarle la mejor calidad de vida posible, y
 

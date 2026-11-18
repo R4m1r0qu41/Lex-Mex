@@ -7,8 +7,8 @@ provision_type: article
 number: "101"
 aliases: ["LGV — Artículo 101"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ Presentada la solicitud, deberá ingresarse la misma al [Registro](articulo-6.md
 
 Para mejor proveer, la [Comisión Ejecutiva](articulo-6.md) y las comisiones de víctimas, podrán solicitar la información que consideren necesaria a cualquiera de las autoridades del orden federal, local y municipal, las que estarán en el deber de suministrarla en un plazo que no supere los diez días hábiles. Párrafo reformado DOF 03-05-2013
 
-Si hubiera una duda razonable sobre la ocurrencia de los hechos se escuchará a la víctima o a quien haya solicitado la inscripción, quienes podrán asistir ante la comisión respectiva. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta Ley. Párrafo reformado DOF 03-05-2013
+Si hubiera una duda razonable sobre la ocurrencia de los hechos se escuchará a la víctima o a quien haya solicitado la inscripción, quienes podrán asistir ante la comisión respectiva. En caso de hechos probados o de naturaleza pública deberá aplicarse el principio de buena fe a que hace referencia esta [Ley](articulo-6.md). Párrafo reformado DOF 03-05-2013
 
 La realización del proceso de valoración al que se hace referencia en los párrafos anteriores, no suspende, en ningún caso, las medidas de ayuda de emergencia a las que tiene derecho la víctima, conforme lo establece el Título Tercero de esta Ley. Párrafo reformado DOF 03-05-2013
 

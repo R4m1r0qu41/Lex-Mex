@@ -9,26 +9,24 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 37"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [50]
+amendment_marks: [50,130,161,274]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 37
 
-Las Instituciones que utilicen el método integral de cobertura de riesgo de crédito (130)
+Las Instituciones que utilicen el método integral de cobertura de riesgo de crédito mediante garantías reales financieras consideradas en el inciso a) de la fracción II del Anexo 24 de estas disposiciones, determinarán un valor ajustado por riesgo de sus exposiciones (EI*), el cual será ponderado de acuerdo a la contraparte de que se trate, como se establece en el [Método Estándar](articulo-1.md) conforme a los Apartados B y C de la presente sección, obteniéndose así el valor de los activos ajustados por riesgo de la operación en cuestión.
 
-mediante garantías reales financieras consideradas en el inciso a) de la fracción II del Anexo 24 de estas disposiciones, determinarán un valor ajustado por riesgo de sus exposiciones (EI*), el cual será ponderado de acuerdo a la contraparte de que se trate, como se establece en el Método Estándar conforme a los Apartados B y C de la presente sección, obteniéndose así el valor de los activos ajustados por riesgo de la operación en cuestión.
+Para lo anterior, las Instituciones deberán aplicar una de las siguientes fórmulas:
 
-(161) Para lo anterior, las Instituciones deberán aplicar una de las siguientes fórmulas:
-
-(161) I. Tratándose de operaciones de reporto y de préstamo de valores que estén sujetas a un contrato marco que contenga una cláusula que permita extinguir por compensación todas las operaciones celebradas al amparo de dicho contrato y, efectuar una liquidación única que sea exigible legalmente en todas las jurisdicciones:
+I. Tratándose de operaciones de reporto y de préstamo de valores que estén sujetas a un contrato marco que contenga una cláusula que permita extinguir por compensación todas las operaciones celebradas al amparo de dicho contrato y, efectuar una liquidación única que sea exigible legalmente en todas las jurisdicciones:
 
 EI*=max{0, [∑EI-∑C] + ∑(Es x He)+ ∑(Efx x Hfx})
 
-(161) En donde,
+En donde,
 
 EI = Valor convertido a riesgo crediticio de una operación con la contraparte de que se trate conforme al Apartado C de esta sección y antes del reconocimiento de las respectivas garantías.
 
@@ -50,7 +48,7 @@ Efx = Posición neta por operación en una moneda distinta a la de liquidación.
 
 ∑(Efx x Hfx) = Suma de las posiciones netas al amparo del contrato marco que estén denominadas en una moneda distinta a la de liquidación, ponderada por Hfx.
 
-(161) II. Tratándose de operaciones distintas a las señaladas en la fracción anterior:
+II. Tratándose de operaciones distintas a las señaladas en la fracción anterior:
 
 EI* = Max {0, [EI × (1 + He) – C × (1 - Hc - Hfx)]}
 
@@ -66,9 +64,7 @@ Hc = Factor de ajuste correspondiente a la garantía real financiera recibida, c
 
 Hfx = 8 por ciento en caso de diferente denominación entre las monedas del importe de la exposición y de la garantía real recibida, y 0 (cero) por ciento en cualquier otro caso.
 
-En caso que el importe ajustado de la operación de que se trate (EI* en las fracciones anteriores) sea (274)
-
-mayor que cero, el requerimiento de capital correspondiente se calculará respecto de dicho importe, conforme al deudor (o contraparte) y al método aplicable a dicha operación, ya sea el Método Estándar o el Modelo basado en calificaciones internas.
+En caso que el importe ajustado de la operación de que se trate (EI* en las fracciones anteriores) sea mayor que cero, el requerimiento de capital correspondiente se calculará respecto de dicho importe, conforme al deudor (o contraparte) y al método aplicable a dicha operación, ya sea el Método Estándar o el [Modelo basado en calificaciones internas](articulo-1.md).
 
 Lo anterior sin menoscabo de observar lo dispuesto en la fracción II del Artículo [2 Bis 48](articulo-2-Bis-48.md) de las presentes disposiciones, relativo a los ajustes por disparidad en el vencimiento de la exposición y su respectiva garantía.
 

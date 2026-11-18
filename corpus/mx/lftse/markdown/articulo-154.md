@@ -37,6 +37,4 @@ c) Una o un tercero ajeno a los mencionados en los incisos anteriores, designado
 
 La o el representante del Sindicato, así como la tercera ajena o el tercero ajeno, a que se hace referencia en los incisos b) y c), de las fracciones I y II de este artículo, serán las mismas personas en ambos supuestos.
 
-Artículo reformado DOF 07-06-2021 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Artículo reformado DOF 07-06-2021

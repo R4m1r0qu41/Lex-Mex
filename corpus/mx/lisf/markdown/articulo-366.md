@@ -19,7 +19,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 La [Comisión](articulo-2.md) es un órgano desconcentrado de la [Secretaría](articulo-2.md), con autonomía técnica y facultades ejecutivas en los términos de esta Ley.
 
-La Comisión tendrá las facultades siguientes: I. Realizar la inspección y vigilancia de las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md), así como de las demás personas y entidades reguladas por esta Ley, conforme a lo previsto en ésta y otras leyes relativas al sistema financiero;
+La Comisión tendrá las facultades siguientes:
+
+I. Realizar la inspección y vigilancia de las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md), así como de las demás personas y entidades reguladas por esta Ley, conforme a lo previsto en ésta y otras leyes relativas al sistema financiero;
 
 II. Emitir las disposiciones de carácter general necesarias para el ejercicio de las facultades que esta Ley y demás leyes y reglamentos le otorgan, y para el eficaz cumplimiento de las mismas y de las disposiciones que con base en ellas se expidan;
 
@@ -71,7 +73,9 @@ XXV. Emitir opinión a la Secretaría en materia de los delitos previstos en est
 
 XXVI. Intervenir en los procedimientos de liquidación, así como en las solicitudes de concurso mercantil, de las Instituciones y Sociedades Mutualistas, en los términos previstos en esta Ley;
 
-XXVII. Otorgar, modificar o revocar las autorizaciones a que se refiere esta Ley, a las personas y entidades reguladas por la misma, distintas a las requeridas para organizarse y operar como Instituciones y Sociedades Mutualistas; XXVIII. Vetar u ordenar que se dejen sin efecto, las normas de autorregulación que expidan las organizaciones aseguradoras y afianzadoras, de conformidad con lo señalado en esta Ley, así como conocer y resolver sobre los recursos que se presenten en contra de estas determinaciones;
+XXVII. Otorgar, modificar o revocar las autorizaciones a que se refiere esta Ley, a las personas y entidades reguladas por la misma, distintas a las requeridas para organizarse y operar como Instituciones y Sociedades Mutualistas;
+
+XXVIII. Vetar u ordenar que se dejen sin efecto, las normas de autorregulación que expidan las organizaciones aseguradoras y afianzadoras, de conformidad con lo señalado en esta Ley, así como conocer y resolver sobre los recursos que se presenten en contra de estas determinaciones;
 
 XXIX. Ordenar la suspensión, remoción, destitución o veto de los consejeros y directivos de las organizaciones aseguradoras y afianzadoras, de acuerdo con lo establecido por esta Ley, así como conocer y resolver sobre los recursos que se presenten en contra de estas determinaciones;
 

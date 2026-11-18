@@ -53,7 +53,7 @@ III. Multa de 10,000 a 100,000 días de salario, a:
 
 a) Los miembros del consejo de administración de Sociedades Controladoras de Grupos Financieros que aprueben, sin contar con la previa opinión del comité respectivo, alguno de los asuntos previstos en la fracción III, incisos a), c) y d) del artículo [39](articulo-39.md) de esta Ley.
 
-b) Los miembros y secretario del consejo de administración, así como los Directivos Relevantes que actúen con deslealtad o que obren ilícitamente en contra de la sociedad o personas morales en las que ejerza el [Control](articulo-5o.md), en contravención de lo establecido en los artículos [50](articulo-50.md), párrafo primero, [51](articulo-51.md), [52](articulo-52.md) ó 62, fracciones II ó III, de esta Ley.
+b) Los miembros y secretario del consejo de administración, así como los [Directivos Relevantes](articulo-5o.md) que actúen con deslealtad o que obren ilícitamente en contra de la sociedad o personas morales en las que ejerza el [Control](articulo-5o.md), en contravención de lo establecido en los artículos [50](articulo-50.md), párrafo primero, [51](articulo-51.md), [52](articulo-52.md) ó 62, fracciones II ó III, de esta Ley.
 
 c) Los miembros del comité que ejerza las funciones en materia de auditoría, de las Sociedades Controladoras de Grupos Financieros, que omitan elaborar la opinión sobre el contenido del informe del director general y someterla al consejo de administración para su presentación a la asamblea general de accionistas y vigilar que los actos a que se refiere el artículo [39](articulo-39.md), fracción III, incisos c) y d) y [65](articulo-65.md), último párrafo de esta Ley, se lleven a cabo conforme a los citados preceptos legales.
 
@@ -63,7 +63,9 @@ e) Los accionistas que se encuentren presentes o deliberen en una operación en 
 
 f) Las Sociedades Controladoras y demás personas reguladas por esta Ley que se opongan u obstaculicen el ejercicio de las facultades que esta y otras disposiciones aplicables le confieren a la Secretaría o a la Comisión Supervisora así como a aquellas que, previa notificación de la Comisión Supervisora no comparezcan sin causa justificada.
 
-g) A las personas que adquieran acciones en contravención a lo establecido en los artículos [24](articulo-24.md), [26](articulo-26.md), [27](articulo-27.md) y [28](articulo-28.md) de esta Ley. IV. Multa de 20,000 a 130,000 días de salario:
+g) A las personas que adquieran acciones en contravención a lo establecido en los artículos [24](articulo-24.md), [26](articulo-26.md), [27](articulo-27.md) y [28](articulo-28.md) de esta Ley.
+
+IV. Multa de 20,000 a 130,000 días de salario:
 
 a) A las Sociedades Controladoras que den noticias o información de los depósitos, servicios o cualquier tipo de actos realizadas por las entidades financieras integrantes del Grupo Financiero, a personas diferentes de los miembros de su consejo de administración y de las entidades financieras que integren al Grupo Financiero, en contravención a lo dispuesto por las diversas leyes especiales que consignan la obligación de guardar secreto.
 

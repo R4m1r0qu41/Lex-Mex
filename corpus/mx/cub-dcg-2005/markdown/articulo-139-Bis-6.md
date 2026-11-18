@@ -9,8 +9,9 @@ aliases: ["DCG-CUB-2005 — Artículo 139 Bis 6"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [275]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo V
@@ -19,10 +20,8 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Instituciones, para determinar las reservas preventivas para riesgos crediticios que correspondan a su nivel de riesgo de crédito, habrán de observar las condiciones siguientes:
 
-(275) I. Tratándose de créditos con riesgo de crédito etapa 1, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar con un horizonte de cálculo anual, de acuerdo a las metodologías que la propia Institución establezca.
+I. Tratándose de créditos con riesgo de crédito etapa 1, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar con un horizonte de cálculo anual, de acuerdo a las metodologías que la propia Institución establezca.
 
-(275) II. Tratándose de créditos con riesgo de crédito etapa 2, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar con un horizonte de cálculo por el plazo remanente del crédito, de acuerdo con las metodologías que la propia Institución establezca.
+II. Tratándose de créditos con riesgo de crédito etapa 2, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar con un horizonte de cálculo por el plazo remanente del crédito, de acuerdo con las metodologías que la propia Institución establezca.
 
-(275) III. Tratándose de créditos con riesgo de crédito etapa 3, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar considerando que la Probabilidad de Incumplimiento deberá ser igual al 100 %, y los parámetros de riesgo de Severidad de la Pérdida en caso de Incumplimiento y la Exposición al Incumplimiento, se deberán de estimar de acuerdo a lo señalado en el Artículo [139 Bis 2](articulo-139-Bis-2.md) de estas disposiciones.
-
-(275)
+III. Tratándose de créditos con riesgo de crédito etapa 3, las reservas preventivas para riesgos crediticios por nivel de riesgo de crédito, se deberán determinar considerando que la Probabilidad de Incumplimiento deberá ser igual al 100 %, y los parámetros de riesgo de [Severidad de la Pérdida](articulo-1.md) en caso de Incumplimiento y la Exposición al Incumplimiento, se deberán de estimar de acuerdo a lo señalado en el Artículo [139 Bis 2](articulo-139-Bis-2.md) de estas disposiciones.

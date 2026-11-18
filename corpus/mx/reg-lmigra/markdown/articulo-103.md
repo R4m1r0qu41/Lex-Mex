@@ -25,7 +25,9 @@ II. Ser viajero frecuente;
 
 III. Ser investigador, científico, humanista, artista, deportista, periodista de prestigio nacional o internacional u otras personas prominentes;
 
-IV. Ser cónyuge, concubina, concubinario o figura equivalente, hijo, padre, madre o hermano de mexicano o de residente temporal o permanente, cuando no pretendan residir en el territorio nacional; V. Ser cónyuge, concubina, concubinario o figura equivalente, hijo, padre, madre o hermano de funcionarios diplomáticos o consulares acreditados en el territorio nacional, portadores de pasaporte ordinario, o
+IV. Ser cónyuge, concubina, concubinario o figura equivalente, hijo, padre, madre o hermano de mexicano o de residente temporal o permanente, cuando no pretendan residir en el territorio nacional;
+
+V. Ser cónyuge, concubina, concubinario o figura equivalente, hijo, padre, madre o hermano de funcionarios diplomáticos o consulares acreditados en el territorio nacional, portadores de pasaporte ordinario, o
 
 VI. Ser supervisor de una empresa extranjera con filial en el territorio nacional o personal ejecutivo de filiales u oficinas comerciales de empresas mexicanas en el exterior.
 

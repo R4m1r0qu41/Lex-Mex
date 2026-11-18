@@ -79,7 +79,9 @@ XVIII. Fabricación de explosivos; no incluye fuegos artificiales;
 
 XIX. Fabricación de limpiadores y pulimentos; sólo si se producen las sustancias básicas; no incluye la microindustria;
 
-XX. Fabricación de aceites esenciales; XXI. Fabricación de grasas, aceites lubricantes y aditivos; incluye mezclas;
+XX. Fabricación de aceites esenciales;
+
+XXI. Fabricación de grasas, aceites lubricantes y aditivos; incluye mezclas;
 
 XXII. Fabricación de artículos de hule; sólo si se elabora el hule;
 
@@ -123,7 +125,9 @@ VI. Minería de manganeso; sólo incluye beneficio;
 
 VII. Minería de plata; sólo incluye beneficio;
 
-VIII. Minería de otros minerales metálicos no ferrosos; sólo incluye beneficio; IX. Fabricación de coque y otros derivados del carbón mineral;
+VIII. Minería de otros minerales metálicos no ferrosos; sólo incluye beneficio;
+
+IX. Fabricación de coque y otros derivados del carbón mineral;
 
 X. Laminación primaria de hierro y acero; incluye ferroaleaciones, aceros comunes y especiales y desbastes primarios;
 
@@ -205,7 +209,9 @@ III. Fabricación de yeso y sus productos; sólo incluye estos últimos cuando s
 
 H) INDUSTRIA DEL ASBESTO
 
-I. Fabricación de asbesto cemento y sus productos; incluye láminas, tinacos, tuberías y conexiones de asbesto cemento y tela de hilo de asbesto; II. Autopartes para transportes fabricados con asbesto; incluye clutch, frenos y juntas, cuando se elabora la pasta de asbesto;
+I. Fabricación de asbesto cemento y sus productos; incluye láminas, tinacos, tuberías y conexiones de asbesto cemento y tela de hilo de asbesto;
+
+II. Autopartes para transportes fabricados con asbesto; incluye clutch, frenos y juntas, cuando se elabora la pasta de asbesto;
 
 III. Fabricación de ropa de protección para fuego y calor, y
 
@@ -245,7 +251,9 @@ I. Tratamiento de residuos biológico-infecciosos;
 
 II. Tratamiento físico de residuos peligrosos;
 
-III. Tratamiento químico de residuos peligrosos; IV. Tratamiento biológico de residuos peligrosos;
+III. Tratamiento químico de residuos peligrosos;
+
+IV. Tratamiento biológico de residuos peligrosos;
 
 V. Tratamiento térmico de residuos peligrosos;
 

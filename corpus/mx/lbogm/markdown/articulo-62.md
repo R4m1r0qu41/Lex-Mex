@@ -17,7 +17,9 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 62
 
-Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las siguientes: I. La identificación de características nuevas asociadas con el OGM que pudieran tener posibles riesgos en la diversidad biológica;
+Las etapas básicas a seguir en el estudio y la evaluación del riesgo son las siguientes:
+
+I. La identificación de características nuevas asociadas con el OGM que pudieran tener posibles riesgos en la diversidad biológica;
 
 II. La evaluación de que estos posibles riesgos ocurran realmente, teniendo en cuenta el nivel y el tipo de exposición del OGM;
 

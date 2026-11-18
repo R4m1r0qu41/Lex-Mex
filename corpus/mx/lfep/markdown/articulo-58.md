@@ -25,7 +25,9 @@ II. Aprobar los programas y presupuestos de la entidad paraestatal, así como su
 
 III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal con excepción de los de aquéllos que se determinen por acuerdo del Ejecutivo Federal;
 
-IV. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal con créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. Respecto a los créditos externos se estará a lo que se dispone en el artículo [54](articulo-54.md) de esta Ley; V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Directora o Director General, pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma; Fracción reformada DOF 01-03-2019
+IV. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal con créditos internos y externos, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras. Respecto a los créditos externos se estará a lo que se dispone en el artículo [54](articulo-54.md) de esta Ley;
+
+V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la Directora o Director General, pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma; Fracción reformada DOF 01-03-2019
 
 VI. Aprobar anualmente previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
 

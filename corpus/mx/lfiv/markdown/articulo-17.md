@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LFIV — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 ---
@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 17
 
-Los representantes de la Secretaría de Economía y de la [Secretaría](articulo-3.md) que asistan a la Comisión de manera directa, tomarán los acuerdos y levantarán las minutas correspondientes a las sesiones de la misma, además de las funciones que le sean encomendadas por la propia Comisión.
+Los representantes de la Secretaría de Economía y de la [Secretaría](articulo-3.md) que asistan a la [Comisión](articulo-3.md) de manera directa, tomarán los acuerdos y levantarán las minutas correspondientes a las sesiones de la misma, además de las funciones que le sean encomendadas por la propia Comisión.

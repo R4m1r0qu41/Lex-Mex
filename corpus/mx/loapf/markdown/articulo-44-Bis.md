@@ -21,7 +21,9 @@ El Gabinete Social de la Presidencia de la República es la instancia colegiada 
 
 I. La persona Titular del Ejecutivo Federal, quien lo presidirá;
 
-II. La persona Titular de la Secretaría de Bienestar, quien encabezará la Secretaría Ejecutiva; III. La persona Titular de la Secretaría de Gobernación;
+II. La persona Titular de la Secretaría de Bienestar, quien encabezará la Secretaría Ejecutiva;
+
+III. La persona Titular de la Secretaría de Gobernación;
 
 IV. La persona Titular de la Secretaría de Hacienda y Crédito Público;
 

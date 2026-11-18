@@ -21,7 +21,9 @@ La Comisión Nacional Bancaria y de Valores autorizará a las instituciones de b
 
 I. Que las operaciones de que se trate se encuentren expresamente señaladas en sus estatutos sociales;
 
-II. Que cuenten con el capital mínimo que les corresponda conforme a lo establecido en el artículo [19](articulo-19.md) de esta Ley, en función de las operaciones que pretendan realizar; III. Que cuenten con los órganos de gobierno y la estructura corporativa adecuados para realizar las operaciones que pretendan llevar a cabo, de acuerdo con lo establecido en esta Ley y en las disposiciones técnicas u operativas de carácter general emitidas por la Comisión Nacional Bancaria y de Valores tendientes a procurar el buen funcionamiento de las instituciones;
+II. Que cuenten con el capital mínimo que les corresponda conforme a lo establecido en el artículo [19](articulo-19.md) de esta Ley, en función de las operaciones que pretendan realizar;
+
+III. Que cuenten con los órganos de gobierno y la estructura corporativa adecuados para realizar las operaciones que pretendan llevar a cabo, de acuerdo con lo establecido en esta Ley y en las disposiciones técnicas u operativas de carácter general emitidas por la Comisión Nacional Bancaria y de Valores tendientes a procurar el buen funcionamiento de las instituciones;
 
 IV. Que cuenten con la infraestructura y los controles internos necesarios para realizar las operaciones que pretendan llevar a cabo, tales como sistemas operativos, contables y de seguridad, oficinas, así como los manuales respectivos, conforme a las disposiciones aplicables, y
 

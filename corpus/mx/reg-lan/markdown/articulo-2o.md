@@ -29,7 +29,9 @@ IV. Condiciones particulares de descarga: el conjunto de parámetros físicos, q
 
 V. Corriente permanente: la que tiene un escurrimiento superficial que no se interrumpe en ninguna época del año, desde donde principia hasta su desembocadura;
 
-VI. Corriente intermitente: la que solamente en alguna época del año tiene escurrimiento superficial; VII. Cuerpo receptor: la corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
+VI. Corriente intermitente: la que solamente en alguna época del año tiene escurrimiento superficial;
+
+VII. Cuerpo receptor: la corriente o depósito natural de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
 
 VIII. Cuota natural de renovación de las aguas: el volumen de agua renovable anualmente en una cuenca o acuífero;
 
@@ -55,7 +57,9 @@ XVIII. Uso doméstico: para efectos del artículo [3](../../lan/markdown/articul
 
 XIX. Uso en acuacultura: la utilización de agua nacional destinada al cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
 
-XX. Uso en servicios: la utilización de agua nacional para servicios distintos de los señalados en las fracciones XVI a XXV, de este artículo; XXI. Uso industrial: la utilización de agua nacional en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en parques industriales, en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
+XX. Uso en servicios: la utilización de agua nacional para servicios distintos de los señalados en las fracciones XVI a XXV, de este artículo;
+
+XXI. Uso industrial: la utilización de agua nacional en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en parques industriales, en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
 XXII. Uso para conservación ecológica: el caudal mínimo en una corriente o el volumen mínimo en cuerpos receptores o embalses, que deben conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema;
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Sexto · Capítulo Único
+
 # Artículo 93
 
 Las sanciones a que se refiere la presente Ley serán independientes de las de orden civil, penal o de cualquier otra índole que puedan derivar de la comisión de los mismos hechos.

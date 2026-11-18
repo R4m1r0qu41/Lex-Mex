@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 107"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [72,84]
+amendment_marks: [72,84,109]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -38,6 +38,6 @@ VII. Determinar las medidas preventivas y correctivas que correspondan a fin de 
 
 VIII. Aprobar el plan de continuidad de negocio, así como sus modificaciones, que le presente el comité de auditoría. Dicho plan deberá ser sometido por lo menos una vez al año a pruebas de funcionamiento y hacerse del conocimiento del personal.
 
-(109) IX. Evaluar los avances de las unidades administrativas sobre la implementación de las medidas correctivas determinadas por el [Comité de auditoría](articulo-1.md).
+IX. Evaluar los avances de las unidades administrativas sobre la implementación de las medidas correctivas determinadas por el [Comité de auditoría](articulo-1.md).
 
 La totalidad de los asuntos que conforme al presente capítulo deben ser autorizados por el consejo de administración, deberán ser previamente evaluados por el comité de auditoría de las casas de bolsa quien lo presentará directamente a dicho consejo de administración.

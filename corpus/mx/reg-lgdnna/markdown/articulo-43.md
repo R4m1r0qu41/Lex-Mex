@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["REG-LGDNNA — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
 source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 ---
@@ -31,7 +31,9 @@ IV. Sexo;
 
 V. Media filiación;
 
-VI. Escolaridad; VII. Sitio o zona de cruce fronterizo;
+VI. Escolaridad;
+
+VII. Sitio o zona de cruce fronterizo;
 
 VIII. Número de ocasiones de repatriación, deportación o devolución, de ser el caso;
 

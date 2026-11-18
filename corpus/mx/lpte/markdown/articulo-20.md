@@ -7,8 +7,8 @@ provision_type: article
 number: "20"
 aliases: ["LPTE — Artículo 20"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf
 source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 ---

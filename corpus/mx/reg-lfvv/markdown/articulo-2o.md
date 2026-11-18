@@ -7,8 +7,8 @@ provision_type: article
 number: "2o"
 aliases: ["REG-LFVV — Artículo 2o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf
 source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 ---
@@ -37,7 +37,9 @@ VIII.- Proceso de mejoramiento: Técnica o conjunto de técnicas y procedimiento
 
 IX.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo [33](../../lfvv/markdown/articulo-33.md) de la [Ley](articulo-2o.md);
 
-X.- Secretaría: La Secretaría de Agricultura, Ganadería y Desarrollo Rural; XI.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la [Secretaría](articulo-2o.md);
+X.- Secretaría: La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+
+XI.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la [Secretaría](articulo-2o.md);
 
 XII.- Título de obtentor: Documento expedido por la Secretaría en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal nueva, distinta, estable y homogénea, y
 

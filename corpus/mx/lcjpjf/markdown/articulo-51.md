@@ -7,8 +7,8 @@ provision_type: article
 number: "51"
 aliases: ["LCJPJF — Artículo 51"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf
 source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 ---
@@ -21,7 +21,9 @@ Impedimentos en los nombramientos Las y los [Titulares](articulo-2.md) están im
 
 I. Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;
 
-II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos; III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
+II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos;
+
+III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
 
 a) Nombramientos cruzados: Cuando dos Titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos.
 

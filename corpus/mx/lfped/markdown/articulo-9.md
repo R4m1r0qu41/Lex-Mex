@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LFPED — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf
 source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 ---
@@ -77,7 +77,9 @@ XXIV. Restringir la participación en actividades deportivas, recreativas o cult
 
 XXV. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
 
-XXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable; XXVII. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión; Fracción reformada DOF 20-03-2014
+XXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+
+XXVII. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión; Fracción reformada DOF 20-03-2014
 
 XXVIII. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual, o por cualquier otro motivo de discriminación; Fracción reformada DOF 20-03-2014
 

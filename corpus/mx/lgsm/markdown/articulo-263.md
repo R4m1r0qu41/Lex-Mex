@@ -35,6 +35,8 @@ VI. La utilización de fedatarios públicos es optativa;
 
 VII. La existencia de la sociedad por acciones simplificada se probará con el contrato social de la constitución de la sociedad y la boleta de inscripción en el Registro Público de Comercio;
 
-VIII. Los accionistas que soliciten la constitución de una sociedad por acciones simplificada serán responsables de la existencia y veracidad de la información proporcionada en el sistema. De lo contrario responden por los daños y perjuicios que se pudieran originar, sin perjuicio de las sanciones administrativas o penales a que hubiere lugar, y IX. Las demás que se establezcan en las reglas del sistema electrónico de constitución.
+VIII. Los accionistas que soliciten la constitución de una sociedad por acciones simplificada serán responsables de la existencia y veracidad de la información proporcionada en el sistema. De lo contrario responden por los daños y perjuicios que se pudieran originar, sin perjuicio de las sanciones administrativas o penales a que hubiere lugar, y
+
+IX. Las demás que se establezcan en las reglas del sistema electrónico de constitución.
 
 Artículo derogado DOF 11-06-1992. Adicionado DOF 14-03-2016

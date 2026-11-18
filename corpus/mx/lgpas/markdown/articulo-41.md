@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["LGPAS — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -45,4 +45,6 @@ XII. La recolección del medio natural de reproductores;
 
 XIII. La introducción y la repoblación de especies vivas en cuerpos de agua de jurisdicción federal;
 
-XIV. La descarga en puertos extranjeros o el trasbordo de especies capturadas por embarcaciones pesqueras de bandera mexicana, y XV. El desembarque de productos pesqueros comerciales en cualquier presentación en puertos mexicanos, por embarcaciones pesqueras extranjeras.
+XIV. La descarga en puertos extranjeros o el trasbordo de especies capturadas por embarcaciones pesqueras de bandera mexicana, y
+
+XV. El desembarque de productos pesqueros comerciales en cualquier presentación en puertos mexicanos, por embarcaciones pesqueras extranjeras.

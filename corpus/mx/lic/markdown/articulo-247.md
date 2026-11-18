@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 247
 
-El liquidador judicial deberá constituir una reserva con cargo a los recursos de la institución de banca múltiple en liquidación judicial, en los siguientes casos: I. Cuando existan juicios o procedimientos en que la institución de banca múltiple sea parte, y que no cuenten con sentencia firme o laudo;
+El liquidador judicial deberá constituir una reserva con cargo a los recursos de la institución de banca múltiple en liquidación judicial, en los siguientes casos:
+
+I. Cuando existan juicios o procedimientos en que la institución de banca múltiple sea parte, y que no cuenten con sentencia firme o laudo;
 
 II. Tratándose de créditos que no aparezcan en la contabilidad y hayan sido notificados por la autoridad competente hasta en tanto no exista resolución firme, y
 

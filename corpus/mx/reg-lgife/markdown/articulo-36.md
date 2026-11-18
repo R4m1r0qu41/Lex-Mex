@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["REG-LGIFE — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf
 source_sha256: 05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8
 ---
@@ -23,7 +23,9 @@ I. Debe presentarse escrito libre firmado por el representante del [Plantel Educ
 
 II. Una vez recibida la solicitud, el Instituto contará con un plazo de treinta días naturales para resolver, pudiendo solicitar por escrito la documentación complementaria que considere para la evaluación del Plantel Educativo, sin que se modifique el plazo antes señalado.
 
-En caso de que el Instituto no resuelva dentro del término antes señalado, la resolución se entenderá en sentido negativo; III. La [Evaluación de la INFE](articulo-2.md) se realizará mediante la inspección física y documental del Plantel Educativo para verificar si cumple con los requisitos para la Certificación de la Calidad de la INFE establecidos en las [Normas y Especificaciones Técnicas](articulo-2.md), los [Lineamientos Generales](articulo-2.md), así como con las Normas Oficiales Mexicanas aplicables;
+En caso de que el Instituto no resuelva dentro del término antes señalado, la resolución se entenderá en sentido negativo;
+
+III. La [Evaluación de la INFE](articulo-2.md) se realizará mediante la inspección física y documental del Plantel Educativo para verificar si cumple con los requisitos para la Certificación de la Calidad de la INFE establecidos en las [Normas y Especificaciones Técnicas](articulo-2.md), los [Lineamientos Generales](articulo-2.md), así como con las Normas Oficiales Mexicanas aplicables;
 
 IV. Se emitirá un informe de la evaluación a que se refiere la fracción anterior. Dicho documento será elaborado por el Evaluador y contendrá el resultado obtenido, así como las recomendaciones para el cumplimiento normativo necesario para su Certificación;
 

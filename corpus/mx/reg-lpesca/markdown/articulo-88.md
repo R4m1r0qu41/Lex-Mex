@@ -7,8 +7,8 @@ provision_type: article
 number: "88"
 aliases: ["REG-LPESCA — Artículo 88"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf
 source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 ---
@@ -23,4 +23,6 @@ I. Llevar a bordo de sus embarcaciones las bitácoras de pesca para su entrega a
 
 II. Apoyar y participar en los programas de repoblación y mejoramiento de los lugares donde llevan a cabo su actividad;
 
-III. Contribuir al mantenimiento y conservación de las especies y de su hábitat, y IV. Informar semestralmente a la autoridad pesquera del número de servicios prestados, las especies y la cantidad capturada y su destino; las artes de pesca utilizadas y el nombre y nacionalidad a quienes prestaron sus servicios, así como el folio de los permisos correspondientes.
+III. Contribuir al mantenimiento y conservación de las especies y de su hábitat, y
+
+IV. Informar semestralmente a la autoridad pesquera del número de servicios prestados, las especies y la cantidad capturada y su destino; las artes de pesca utilizadas y el nombre y nacionalidad a quienes prestaron sus servicios, así como el folio de los permisos correspondientes.

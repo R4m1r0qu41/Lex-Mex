@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 72
 
 El prestador de servicios aeroportuarios o complementarios distinto al concesionario o permisionario, no podrá subcontratar con terceros la prestación total o parcial de dichos servicios. No se considerará subcontratación los servicios de personas, cuando éstas provengan de alguna empresa que dependa de la misma sociedad controladora que el prestador de servicios, si la controladora es titular de al menos 51 por ciento del capital social de cada una de ellas.
-
-Capítulo IV De la prestación de los servicios aeroportuarios y complementarios a los transportistas aéreos

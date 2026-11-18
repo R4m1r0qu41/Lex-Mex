@@ -21,7 +21,9 @@ Son causas de suspensión temporal de las relaciones de trabajo en una empresa o
 
 I. La fuerza mayor o el caso fortuito no imputable al patrón, o su incapacidad física o mental o su muerte, que produzca como consecuencia necesaria, inmediata y directa, la suspensión de los trabajos;
 
-II. La falta de materia prima, no imputable al patrón; III. El exceso de producción con relación a sus condiciones económicas y a las circunstancias del mercado;
+II. La falta de materia prima, no imputable al patrón;
+
+III. El exceso de producción con relación a sus condiciones económicas y a las circunstancias del mercado;
 
 IV. La incosteabilidad, de naturaleza temporal, notoria y manifiesta de la explotación;
 

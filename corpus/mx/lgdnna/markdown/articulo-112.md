@@ -7,8 +7,8 @@ provision_type: article
 number: "112"
 aliases: ["LGDNNA — Artículo 112"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -23,7 +23,9 @@ El Registro Nacional de Centros de Asistencia Social, deberá contar por lo meno
 
 I. Nombre o razón social del Centro de asistencia social;
 
-II. Domicilio del Centro de asistencia social; III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social, y
+II. Domicilio del Centro de asistencia social;
+
+III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social, y
 
 IV. Relación del personal que labora en el Centro de asistencia social incluyendo al director general y representante legal, así como la figura jurídica bajo la cual opera.
 

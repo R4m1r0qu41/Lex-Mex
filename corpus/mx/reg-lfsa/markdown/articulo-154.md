@@ -7,8 +7,8 @@ provision_type: article
 number: "154"
 aliases: ["REG-LFSA — Artículo 154"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -29,7 +29,9 @@ Los resultados deberán concordar con las especificaciones del producto terminad
 
 Los documentos de análisis emitidos electrónicamente, deberán incluir claramente el nombre y cargo del responsable de control de calidad de la empresa. Este deberá estar respaldado por un escrito libre en hoja membretada de la empresa solicitante con el nombre, cargo y firma autógrafa del responsable de control de calidad que avale el certificado electrónico;
 
-IV. Dictamen de constatación del producto, expedido en términos del [artículo anterior](articulo-153.md); V. [Certificado de Buenas Prácticas de Manufactura](articulo-2.md) expedido por la Secretaría o por un organismo de certificación, con base en las normas oficiales mexicanas, lineamientos e instructivos técnicos que emita la Secretaría, sólo para productos elaborados en México;
+IV. Dictamen de constatación del producto, expedido en términos del [artículo anterior](articulo-153.md);
+
+V. [Certificado de Buenas Prácticas de Manufactura](articulo-2.md) expedido por la Secretaría o por un organismo de certificación, con base en las normas oficiales mexicanas, lineamientos e instructivos técnicos que emita la Secretaría, sólo para productos elaborados en México;
 
 VI. Ficha técnica del producto, cuando no se hubiere entregado previamente a la Secretaría, y
 

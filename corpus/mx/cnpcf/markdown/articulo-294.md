@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 Para el desahogo de la prueba testimonial se estará a las siguientes reglas:
 
-I. Las personas que tengan la calidad de testigos serán protestadas para conducirse con verdad al iniciar la audiencia; se recabarán sus generales; y se procederá a su traslado y separación en el área de testigos correspondiente, hasta que sean llamados a declarar; II. El interrogatorio estará a cargo de la parte oferente, quien será responsable de justificar la credibilidad e idoneidad del testigo, así como de plantear el interrogatorio correspondiente, conforme a los hechos controvertidos objeto de la prueba;
+I. Las personas que tengan la calidad de testigos serán protestadas para conducirse con verdad al iniciar la audiencia; se recabarán sus generales; y se procederá a su traslado y separación en el área de testigos correspondiente, hasta que sean llamados a declarar;
+
+II. El interrogatorio estará a cargo de la parte oferente, quien será responsable de justificar la credibilidad e idoneidad del testigo, así como de plantear el interrogatorio correspondiente, conforme a los hechos controvertidos objeto de la prueba;
 
 III. El contrainterrogatorio estará a cargo de la contraparte, quien podrá formular preguntas tendientes tanto a desvirtuar la credibilidad o idoneidad del testigo como de su declaración;
 

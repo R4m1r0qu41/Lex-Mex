@@ -18,7 +18,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "II",
     "start_char": 278,
-    "end_char": 549,
+    "end_char": 550,
     "basis": "express_definition"
   },
   {
@@ -28,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "III",
-    "start_char": 549,
-    "end_char": 897,
+    "start_char": 550,
+    "end_char": 898,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "IV",
-    "start_char": 897,
-    "end_char": 1207,
+    "start_char": 898,
+    "end_char": 1208,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "V",
-    "start_char": 1207,
-    "end_char": 1367,
+    "start_char": 1208,
+    "end_char": 1368,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "VI",
-    "start_char": 1367,
-    "end_char": 1743,
+    "start_char": 1368,
+    "end_char": 1744,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "VII",
-    "start_char": 1743,
-    "end_char": 2076,
+    "start_char": 1744,
+    "end_char": 2077,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "VIII",
-    "start_char": 2076,
-    "end_char": 2236,
+    "start_char": 2077,
+    "end_char": 2237,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "IX",
-    "start_char": 2236,
-    "end_char": 2481,
+    "start_char": 2237,
+    "end_char": 2482,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "X",
-    "start_char": 2481,
-    "end_char": 2571,
+    "start_char": 2482,
+    "end_char": 2572,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XI",
-    "start_char": 2571,
-    "end_char": 3186,
+    "start_char": 2572,
+    "end_char": 3187,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XII",
-    "start_char": 3186,
-    "end_char": 3379,
+    "start_char": 3187,
+    "end_char": 3380,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XIII",
-    "start_char": 3379,
-    "end_char": 3628,
+    "start_char": 3380,
+    "end_char": 3629,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XIV",
-    "start_char": 3628,
-    "end_char": 4034,
+    "start_char": 3629,
+    "end_char": 4035,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XV",
-    "start_char": 4034,
-    "end_char": 4327,
+    "start_char": 4035,
+    "end_char": 4328,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XVI",
-    "start_char": 4327,
-    "end_char": 4563,
+    "start_char": 4328,
+    "end_char": 4564,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XVII",
-    "start_char": 4563,
-    "end_char": 4866,
+    "start_char": 4564,
+    "end_char": 4867,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XVIII",
-    "start_char": 4866,
-    "end_char": 5155,
+    "start_char": 4867,
+    "end_char": 5156,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XIX",
-    "start_char": 5155,
-    "end_char": 5414,
+    "start_char": 5156,
+    "end_char": 5415,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
     "fraction": "XX",
-    "start_char": 5414,
-    "end_char": 5557,
+    "start_char": 5415,
+    "end_char": 5558,
     "basis": "express_definition"
   }
 ]

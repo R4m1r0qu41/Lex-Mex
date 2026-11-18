@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["REG-LOPGJDF — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -35,7 +35,9 @@ VII. Dar vista a la Contraloría Interna; al Consejo de Honor y Justicia de la P
 
 VIII. Emitir recomendaciones genéricas o específicas, a los servidores públicos de la Procuraduría, para subsanar deficiencias detectadas o para la práctica de diligencias que perfeccionen su actuación;
 
-IX. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia de la Visitaduría Ministerial, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas; X. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a la Visitaduría Ministerial, así como la presentación de las promociones y los recursos que deban interponerse;
+IX. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia de la Visitaduría Ministerial, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
+
+X. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a la Visitaduría Ministerial, así como la presentación de las promociones y los recursos que deban interponerse;
 
 XI. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquellos que les sean solicitados por el Procurador;
 

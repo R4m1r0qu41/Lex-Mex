@@ -29,7 +29,9 @@ IV. La información derivada de los procedimientos de contratación, en los tér
 
 V. Las notificaciones y avisos relativos a los procedimientos de contratación y de la instancia de inconformidades;
 
-VI. Los contratos, convenios modificatorios, así como sus datos relevantes, considerando las disposiciones aplicables en materia de transparencia y protección de datos personales; VII. El registro de contratistas sancionados;
+VI. Los contratos, convenios modificatorios, así como sus datos relevantes, considerando las disposiciones aplicables en materia de transparencia y protección de datos personales;
+
+VII. El registro de contratistas sancionados;
 
 VIII. Las resoluciones de la instancia de inconformidad que hayan causado estado, y
 

@@ -21,7 +21,9 @@ El [Secretario Ejecutivo](articulo-5o.md) tendrá las siguientes atribuciones:
 
 I. Administrar el [Instituto](articulo-5o.md), para lo cual tendrá las más amplias facultades para efectuar los actos de dominio, administración, pleitos y cobranzas, realizar cualquier tipo de gestión judicial, extrajudicial y administrativa y cualquier otra que requiera de cláusula o autorización especial según las disposiciones legales o reglamentarias aplicables, sin perjuicio de las facultades que expresamente le delegue la [Junta de Gobierno](articulo-5o.md);
 
-II. Ejercer la representación legal del Instituto, para lo cual contará con las facultades a que se refiere la fracción anterior, pudiendo otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluyendo los que requieran de cláusula o autorización especial; III. Cumplir y hacer cumplir las resoluciones que tome la Junta de Gobierno;
+II. Ejercer la representación legal del Instituto, para lo cual contará con las facultades a que se refiere la fracción anterior, pudiendo otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluyendo los que requieran de cláusula o autorización especial;
+
+III. Cumplir y hacer cumplir las resoluciones que tome la Junta de Gobierno;
 
 IV. Poner a la consideración y, en su caso, aprobación de la Junta de Gobierno los estados financieros del Instituto;
 

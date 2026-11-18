@@ -25,7 +25,9 @@ II. Solicitar información a las empresas telefónicas y de comunicación, en t�
 
 III. Autorizar el seguimiento de personas hasta por un período de un mes, el cual podrá ser prorrogado siempre que existan motivos suficientes, sin que la misma tenga una duración mayor a seis meses, en términos de la normatividad aplicable;
 
-IV. Solicitar información a la Comisión Nacional Bancaria y de Valores sobre la actividad financiera de las personas sujetas a investigación, en términos de la legislación federal o local aplicable; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS V. Autorizar la colaboración de informantes, en los términos de los lineamientos mínimos que emita el Sistema Nacional de Seguridad Pública, así como demás disposiciones;
+IV. Solicitar información a la Comisión Nacional Bancaria y de Valores sobre la actividad financiera de las personas sujetas a investigación, en términos de la legislación federal o local aplicable;
+
+V. Autorizar la colaboración de informantes, en los términos de los lineamientos mínimos que emita el Sistema Nacional de Seguridad Pública, así como demás disposiciones;
 
 VI. Autorizar la utilización de cualquier medio, instrumentos o herramienta para la obtención de pruebas, siempre que ésta no contravenga los derechos humanos no violente el orden jurídico, y
 

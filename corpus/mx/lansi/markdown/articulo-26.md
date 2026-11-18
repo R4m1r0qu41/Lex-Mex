@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LANSI — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf
 source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 ---
@@ -25,6 +25,8 @@ II. Las condiciones económicas del infractor;
 
 III. La reincidencia, si la hubiere;
 
-IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y
+
+V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
 
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la [Agencia](articulo-3o.md) imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida.

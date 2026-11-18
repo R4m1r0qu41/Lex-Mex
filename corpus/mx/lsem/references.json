@@ -37,12 +37,6 @@
         "text": "fracción II",
         "start_char": 553,
         "end_char": 564
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 771,
-        "end_char": 782
       }
     ],
     "basis": "express_cross_reference",

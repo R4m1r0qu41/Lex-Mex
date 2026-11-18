@@ -27,6 +27,8 @@ III. No inicien sus operaciones dentro de un plazo de seis meses contado a parti
 
 IV. Dejen de realizar su objeto social durante un plazo de seis meses.
 
-V. Entren en proceso de disolución y liquidación. VI. Sean declaradas por la autoridad judicial en quiebra.
+V. Entren en proceso de disolución y liquidación.
+
+VI. Sean declaradas por la autoridad judicial en quiebra.
 
 VII. Cometan infracciones graves o reiteradas a las disposiciones legales o administrativas que les son aplicables.

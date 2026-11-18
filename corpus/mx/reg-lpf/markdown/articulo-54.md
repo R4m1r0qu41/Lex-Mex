@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["REG-LPF — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -35,7 +35,9 @@ VII. Realizar tareas de intercambio de información destinadas a localizar, recu
 
 VIII. Mantener actualizados, en términos de las disposiciones aplicables, los bancos de datos relacionados con la información criminal policial de carácter internacional;
 
-IX. Actualizar la integración de la información de personas, grupos y organizaciones presumiblemente o declaradas delictivas, en el ámbito de su competencia; X. Proponer a su superior jerárquico la difusión de mensajes según corresponda a temáticas internacionales;
+IX. Actualizar la integración de la información de personas, grupos y organizaciones presumiblemente o declaradas delictivas, en el ámbito de su competencia;
+
+X. Proponer a su superior jerárquico la difusión de mensajes según corresponda a temáticas internacionales;
 
 XI. Proponer y desarrollar mecanismos de intercambio de información con autoridades internacionales para garantizar un margen de efectividad en cuanto a la mecánica y vínculos de operación de grupos y/o personas vinculadas con delitos federales;
 

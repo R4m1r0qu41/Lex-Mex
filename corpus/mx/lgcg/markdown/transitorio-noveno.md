@@ -15,7 +15,9 @@ source_sha256: cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815
 
 # NOVENO
 
-En apoyo al cumplimiento de lo dispuesto en esta Ley, el Presupuesto de Egresos de la Federación podrá prever un fondo concursable para que la [Secretaría de Hacienda](articulo-4.md) otorgue subsidios a las entidades federativas y a los municipios, a través de éstas, que cumplan con lo siguiente: I. Elaborar un programa de instrumentación para dar cumplimiento a lo dispuesto en los artículos transitorios cuarto, quinto, sexto y séptimo de esta Ley;
+En apoyo al cumplimiento de lo dispuesto en esta Ley, el Presupuesto de Egresos de la Federación podrá prever un fondo concursable para que la [Secretaría de Hacienda](articulo-4.md) otorgue subsidios a las entidades federativas y a los municipios, a través de éstas, que cumplan con lo siguiente:
+
+I. Elaborar un programa de instrumentación para dar cumplimiento a lo dispuesto en los artículos transitorios cuarto, quinto, sexto y séptimo de esta Ley;
 
 II. Cumplir con los plazos establecidos en los artículos referidos en la fracción anterior;
 

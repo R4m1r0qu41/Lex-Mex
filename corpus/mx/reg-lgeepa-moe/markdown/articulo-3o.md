@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["REG-LGEEPA-MOE — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf
 source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 ---
@@ -69,4 +69,6 @@ XXIV. Secretaría.- La Secretaría de Medio Ambiente y Recursos Naturales;
 
 XXV. Subsistema.- El Subsistema de Información sobre Ordenamiento Ecológico que forma parte del Sistema Nacional de Información Ambiental y de Recursos Naturales;
 
-XXVI. Sector.- Conjunto de personas, organizaciones grupos o instituciones que comparten objetivos comunes con respecto al aprovechamiento de los recursos naturales, el mantenimiento de los bienes y los servicios ambientales o la conservación de los ecosistemas y la biodiversidad; y XXVII. Unidad de gestión ambiental.- Unidad mínima del territorio a la que se asignan determinados lineamientos y estrategias ecológicas. Fracción reformada DOF 28-09-2010
+XXVI. Sector.- Conjunto de personas, organizaciones grupos o instituciones que comparten objetivos comunes con respecto al aprovechamiento de los recursos naturales, el mantenimiento de los bienes y los servicios ambientales o la conservación de los ecosistemas y la biodiversidad; y
+
+XXVII. Unidad de gestión ambiental.- Unidad mínima del territorio a la que se asignan determinados lineamientos y estrategias ecológicas. Fracción reformada DOF 28-09-2010

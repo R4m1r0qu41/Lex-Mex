@@ -33,4 +33,6 @@ VI. Divulgar información confidencial o utilizar ésta para beneficio personal,
 
 Para los efectos de este artículo, se entenderá por salario mínimo el general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 
-Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor. Párrafo reformado DOF 21-12-2006 Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor.
+Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor. Párrafo reformado DOF 21-12-2006
+
+Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor.

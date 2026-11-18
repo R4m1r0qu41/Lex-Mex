@@ -19,7 +19,9 @@ El patrimonio del Instituto se integra:
 
 I.- (Se deroga) Fracción derogada DOF 21-02-2025
 
-II.- Con las cantidades y comisiones que obtenga por los servicios que preste, tanto a particulares como entes públicos de los tres órdenes de gobierno, los cuales se determinarán en los términos de las políticas que emita el Consejo de Administración; Fracción reformada DOF 21-02-2025 III.- Con los montos que se obtengan de las actualizaciones, recargos, sanciones y multas;
+II.- Con las cantidades y comisiones que obtenga por los servicios que preste, tanto a particulares como entes públicos de los tres órdenes de gobierno, los cuales se determinarán en los términos de las políticas que emita el Consejo de Administración; Fracción reformada DOF 21-02-2025
+
+III.- Con los montos que se obtengan de las actualizaciones, recargos, sanciones y multas;
 
 IV.- Con los bienes y derechos que adquiera por cualquier título, y
 

@@ -23,7 +23,9 @@ I. Proponer, para aprobación del Pleno General, el proyecto de Reglamento Inter
 
 II. Expedir los acuerdos necesarios para el buen funcionamiento del Tribunal;
 
-III. Aprobar la formulación del proyecto de presupuesto del Tribunal, para los efectos señalados en el artículo [16](articulo-16.md), fracción II de esta [Ley](articulo-2.md); IV. Realizar la evaluación interna de los servidores públicos que le requiera el Pleno General, para los efectos del artículo [16](articulo-16.md), fracción VI, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
+III. Aprobar la formulación del proyecto de presupuesto del Tribunal, para los efectos señalados en el artículo [16](articulo-16.md), fracción II de esta [Ley](articulo-2.md);
+
+IV. Realizar la evaluación interna de los servidores públicos que le requiera el Pleno General, para los efectos del artículo [16](articulo-16.md), fracción VI, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
 
 V. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; las sedes y número de las Salas Auxiliares; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
 
@@ -75,7 +77,9 @@ XXV. Regular y supervisar las adquisiciones de bienes y servicios, las obras y l
 
 XXVI. Dirigir la buena marcha del Tribunal dictando las medidas necesarias para el despacho pronto y expedito de los asuntos administrativos del Tribunal y aplicar las sanciones que correspondan;
 
-XXVII. Imponer a solicitud de los Magistrados presidentes de Sala Regional, la multa que corresponda, a los Actuarios que no cumplan con sus obligaciones legales durante la práctica de las notificaciones a su cargo; XXVIII. Evaluar el funcionamiento de las áreas administrativas, de informática, del Centro de Estudios Superiores en Derecho Fiscal y Administrativo y del área de publicaciones del Tribunal, a fin de constatar la adecuada prestación de sus servicios;
+XXVII. Imponer a solicitud de los Magistrados presidentes de Sala Regional, la multa que corresponda, a los Actuarios que no cumplan con sus obligaciones legales durante la práctica de las notificaciones a su cargo;
+
+XXVIII. Evaluar el funcionamiento de las áreas administrativas, de informática, del Centro de Estudios Superiores en Derecho Fiscal y Administrativo y del área de publicaciones del Tribunal, a fin de constatar la adecuada prestación de sus servicios;
 
 XXIX. Supervisar la correcta operación y funcionamiento de las oficialías de partes comunes y de Sala, las coordinaciones y oficinas de Actuarios, así como de los archivos y secretarías de acuerdos o secretarías técnicas en las Salas y Secciones del Tribunal, según sea el caso;
 

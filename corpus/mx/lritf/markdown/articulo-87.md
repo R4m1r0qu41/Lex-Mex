@@ -27,7 +27,9 @@ III. Las disposiciones jurídicas que regulan la actividad que consideran que ob
 
 IV. Los beneficios potenciales que tiene el servicio o producto para los [Clientes](articulo-4.md) con respecto a lo existente en el mercado;
 
-V. El mercado objetivo o número máximo de Clientes a los que se les ofrecería o impactaría la operación o actividad de que se trate, especificando en su caso, la ubicación geográfica respectiva y el monto máximo de recursos que podrán recibir de cada Cliente, así como el monto máximo total que podrán recibir durante la vigencia de su autorización temporal; VI. La información que acredite que con la realización de la operación o actividad correspondiente no se pone en riesgo la estabilidad o solvencia de la [Entidad Financiera](articulo-4.md) o la operatividad de la persona de que se trate;
+V. El mercado objetivo o número máximo de Clientes a los que se les ofrecería o impactaría la operación o actividad de que se trate, especificando en su caso, la ubicación geográfica respectiva y el monto máximo de recursos que podrán recibir de cada Cliente, así como el monto máximo total que podrán recibir durante la vigencia de su autorización temporal;
+
+VI. La información que acredite que con la realización de la operación o actividad correspondiente no se pone en riesgo la estabilidad o solvencia de la [Entidad Financiera](articulo-4.md) o la operatividad de la persona de que se trate;
 
 VII. La forma en que habrán de resarcir los daños y perjuicios que, en su caso, generen a sus Clientes por la realización de las operaciones o actividades que lleven a cabo, lo cual deberá pactarse en los contratos que para tal efecto celebren;
 

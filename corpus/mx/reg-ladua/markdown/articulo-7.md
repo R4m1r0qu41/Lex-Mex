@@ -27,7 +27,9 @@ II. Efectuar la transmisión electrónica de los datos contenidos en el formato 
 
 III. Informar a la Autoridad Aduanera sobre las adecuaciones realizadas a su sistema electrónico;
 
-IV. Proporcionar a los usuarios la asistencia técnica necesaria para el enlace, transmisión de información y validación de los formatos que amparan la importación temporal de los remolques, semirremolques y portacontenedores; V. Proporcionar a la Autoridad Aduanera el apoyo técnico y administrativo necesario para llevar a cabo el enlace de los medios de cómputo con los que se prestará el servicio y su mantenimiento con el sistema del SAT, realizando los trámites que correspondan;
+IV. Proporcionar a los usuarios la asistencia técnica necesaria para el enlace, transmisión de información y validación de los formatos que amparan la importación temporal de los remolques, semirremolques y portacontenedores;
+
+V. Proporcionar a la Autoridad Aduanera el apoyo técnico y administrativo necesario para llevar a cabo el enlace de los medios de cómputo con los que se prestará el servicio y su mantenimiento con el sistema del SAT, realizando los trámites que correspondan;
 
 VI. Llevar un registro automatizado de operaciones prevalidadas, así como un registro de los usuarios del servicio, a efecto de formar un archivo por cada operación y usuario;
 

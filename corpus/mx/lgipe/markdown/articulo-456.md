@@ -95,7 +95,9 @@ V. Cuando la sanción anterior haya sido aplicada y el infractor reincida en for
 
 h) Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
-I. Con amonestación pública; II. [Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta, y] Fracción reformada DOF 20-12-2022, 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
+I. Con amonestación pública;
+
+II. [Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta, y] Fracción reformada DOF 20-12-2022, 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
 
 III. Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional, y
 

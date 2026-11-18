@@ -21,4 +21,4 @@ La Comisión contará con una página web en la cual se implementará una base d
 
 La Secretaría Técnica de la Comisión operará y actualizará la base de datos a que se refiere el párrafo anterior a través de una página web de la Secretaría, para dar seguimiento a las acciones, actividades e informes que den las autoridades e instituciones al Programa Nacional y las acciones establecidas en la Ley.
 
-Asimismo, con la información contenida en la base de datos a que se refiere este artículo, la Secretaría Técnica de la Comisión realizará indicadores que permitan evaluar el logro de los objetivos del presente Reglamento. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Asimismo, con la información contenida en la base de datos a que se refiere este artículo, la Secretaría Técnica de la Comisión realizará indicadores que permitan evaluar el logro de los objetivos del presente Reglamento.

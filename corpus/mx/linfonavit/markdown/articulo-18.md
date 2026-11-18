@@ -27,7 +27,9 @@ IV.- Informar, una vez al año, a la Asamblea General sobre el funcionamiento de
 
 V.- Proponer a la Asamblea General la designación o remoción de los miembros del Comité de Transparencia y de la Comisión de Inconformidades; Fracción reformada DOF 24-01-2017
 
-VI.- Vigilar la actuación del Comité de Transparencia y de la Comisión de Inconformidades; Fracción reformada DOF 24-01-2017 VII.- En los casos que a su juicio lo amerite, convocar a Asamblea General;
+VI.- Vigilar la actuación del Comité de Transparencia y de la Comisión de Inconformidades; Fracción reformada DOF 24-01-2017
+
+VII.- En los casos que a su juicio lo amerite, convocar a Asamblea General;
 
 VIII.- Enviar al Consejo de Administración su opinión sobre el informe periódico que le remita el Comité de Auditoría;
 

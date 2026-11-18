@@ -109,12 +109,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:16:term-usage:2026-2059",
+    "id": "urn:lex-mx:federal:statute:lsar:article:16:term-usage:2027-2060",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:16",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistemas de Ahorro para el Retiro",
-    "start_char": 2026,
-    "end_char": 2059
+    "start_char": 2027,
+    "end_char": 2060
   },
   {
     "schema_version": "0.1.0",
@@ -352,12 +352,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:58:term-usage:2422-2448",
+    "id": "urn:lex-mx:federal:statute:lsar:article:58:term-usage:2423-2449",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:58",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
     "span": "Base de Datos Nacional SAR",
-    "start_char": 2422,
-    "end_char": 2448
+    "start_char": 2423,
+    "end_char": 2449
   },
   {
     "schema_version": "0.1.0",
@@ -415,30 +415,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2017-2033",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2018-2034",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
     "span": "Rendimiento Neto",
-    "start_char": 2017,
-    "end_char": 2033
+    "start_char": 2018,
+    "end_char": 2034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2165-2183",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2166-2184",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
     "span": "Rendimientos Netos",
-    "start_char": 2165,
-    "end_char": 2183
+    "start_char": 2166,
+    "end_char": 2184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2446-2462",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2447-2463",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
     "span": "Rendimiento Neto",
-    "start_char": 2446,
-    "end_char": 2462
+    "start_char": 2447,
+    "end_char": 2463
   },
   {
     "schema_version": "0.1.0",
@@ -739,75 +739,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:8655-8688",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:8656-8689",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistemas de Ahorro para el Retiro",
-    "start_char": 8655,
-    "end_char": 8688
+    "start_char": 8656,
+    "end_char": 8689
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9150-9183",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9151-9184",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistemas de Ahorro para el Retiro",
-    "start_char": 9150,
-    "end_char": 9183
+    "start_char": 9151,
+    "end_char": 9184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9745-9760",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9746-9761",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
     "span": "Administradoras",
-    "start_char": 9745,
-    "end_char": 9760
+    "start_char": 9746,
+    "end_char": 9761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9884-9896",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9885-9897",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
     "span": "Trabajadores",
-    "start_char": 9884,
-    "end_char": 9896
+    "start_char": 9885,
+    "end_char": 9897
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11275-11289",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11277-11291",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 11275,
-    "end_char": 11289
+    "start_char": 11277,
+    "end_char": 11291
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11627-11641",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11629-11643",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 11627,
-    "end_char": 11641
+    "start_char": 11629,
+    "end_char": 11643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11737-11760",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11739-11762",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sociedades-de-inversion",
     "span": "Sociedades de inversión",
-    "start_char": 11737,
-    "end_char": 11760
+    "start_char": 11739,
+    "end_char": 11762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11967-12000",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11969-12002",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
     "span": "Sistemas de Ahorro para el Retiro",
-    "start_char": 11967,
-    "end_char": 12000
+    "start_char": 11969,
+    "end_char": 12002
   },
   {
     "schema_version": "0.1.0",

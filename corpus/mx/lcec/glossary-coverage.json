@@ -8,13 +8,14 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
-      "provision_text_sha256": "4b408f30a5258a4903c42c42a853e85b068642b1cad5444c1d9b2eebb2cb7b4d",
+      "provision_text_sha256": "fcd0f446167f7cc53caf460c3544698158a8ed87e1d11b2ff9a004f171519041",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
         "III",
         "IV",
+        "V",
         "VI",
         "VII",
         "VIII",
@@ -25,10 +26,10 @@
         "XIII"
       ],
       "unread_fractions": [],
-      "term_count": 12
+      "term_count": 13
     }
   ],
   "imports": [],
-  "term_count": 12,
-  "usage_count": 215
+  "term_count": 13,
+  "usage_count": 396
 }

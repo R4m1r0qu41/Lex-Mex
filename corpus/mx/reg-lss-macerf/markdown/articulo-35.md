@@ -33,7 +33,7 @@ y, como el Grado de Siniestralidad se conforma tomando en cuenta la frecuencia y
 
 Grado de Siniestralidad = [( S/365 ) + V * (I + D)] * (F / N)
 
-Donde: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN F = 2.3, que es el factor de prima.
+Donde: F = 2.3, que es el factor de prima.
 
 El significado de las demás variables, constantes y símbolos son señalados en los artículos [36](articulo-36.md) y [37](articulo-37.md) de este Reglamento.
 

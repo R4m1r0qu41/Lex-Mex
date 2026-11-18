@@ -29,7 +29,9 @@ IV.- Contestar consultas sobre situaciones individuales, reales y concretas.
 
 V.- Dar a conocer criterios de aplicación.
 
-VI.- Requerir la presentación de declaraciones. VII.- Comprobar el cumplimiento de obligaciones, incluyendo la práctica de visitas domiciliarias y el requerimiento de información a los contribuyentes, responsables solidarios o terceros con ellos relacionados.
+VI.- Requerir la presentación de declaraciones.
+
+VII.- Comprobar el cumplimiento de obligaciones, incluyendo la práctica de visitas domiciliarias y el requerimiento de información a los contribuyentes, responsables solidarios o terceros con ellos relacionados.
 
 VIII. Determinar contribuciones omitidas mediante la liquidación del crédito a pagar y sus accesorios.
 

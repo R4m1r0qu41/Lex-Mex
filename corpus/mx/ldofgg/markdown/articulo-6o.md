@@ -23,6 +23,8 @@ I. El nombre Diario Oficial de la Federación, y la leyenda “Órgano del Gobie
 
 II.- Fecha y número de publicación; Fracción reformada DOF 31-05-2019
 
-III.- Índice de Contenido, y Fracción reformada DOF 31-05-2019 IV.- Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición. Fracción adicionada DOF 31-05-2019
+III.- Índice de Contenido, y Fracción reformada DOF 31-05-2019
+
+IV.- Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición. Fracción adicionada DOF 31-05-2019
 
 Artículo reformado DOF 05-06-2012

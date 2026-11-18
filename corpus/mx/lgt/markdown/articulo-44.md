@@ -43,7 +43,9 @@ XI. Operar con los valores derivados de su cartera;
 
 XII. Descontar títulos provenientes de créditos otorgados por acciones relacionadas con la actividad turística;
 
-XIII. Garantizar frente a terceros las obligaciones derivadas de los préstamos que otorguen para la inversión en actividades turísticas; XIV. Garantizar la amortización de capital y el pago de intereses, de obligaciones o valores, que se emitan con intervención de instituciones del sistema financiero, con el propósito de destinar al fomento del turismo los recursos que de ellos se obtengan;
+XIII. Garantizar frente a terceros las obligaciones derivadas de los préstamos que otorguen para la inversión en actividades turísticas;
+
+XIV. Garantizar la amortización de capital y el pago de intereses, de obligaciones o valores, que se emitan con intervención de instituciones del sistema financiero, con el propósito de destinar al fomento del turismo los recursos que de ellos se obtengan;
 
 XV. Vender, ceder y traspasar derechos derivados de créditos otorgados, y
 

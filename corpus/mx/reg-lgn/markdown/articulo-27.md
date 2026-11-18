@@ -17,7 +17,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 27
 
-La Dirección General de Recursos Materiales tiene las atribuciones siguientes: I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos materiales, así como ejecutar las mismas, difundir las vigentes y vigilar que las unidades de la [Institución](articulo-2.md) se apeguen a las mismas;
+La Dirección General de Recursos Materiales tiene las atribuciones siguientes:
+
+I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos materiales, así como ejecutar las mismas, difundir las vigentes y vigilar que las unidades de la [Institución](articulo-2.md) se apeguen a las mismas;
 
 II. Intervenir en la elaboración del anteproyecto de presupuesto anual de la Institución, respecto a los recursos materiales;
 
@@ -41,7 +43,9 @@ XI. Aplicar las normas y supervisar los sistemas de control de inventarios de bi
 
 XII. Proponer al Coordinador de Administración y Finanzas, los lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes al servicio de las unidades de la Institución;
 
-XIII. Supervisar el cumplimiento de los requisitos establecidos para dar curso al trámite de pago de las adquisiciones, arrendamientos y servicios en materia de bienes muebles, previa autorización del Coordinador de Administración y Finanzas, así como verificar que las garantías que otorguen los proveedores o prestadores de servicios cumplan las condiciones legales, reglamentarias y contractuales que correspondan; XIV. Controlar el uso, mantenimiento y reparación del equipo de transporte de la Institución, así como vigilar el adecuado consumo de los combustibles e insumos que dicho equipo requiera;
+XIII. Supervisar el cumplimiento de los requisitos establecidos para dar curso al trámite de pago de las adquisiciones, arrendamientos y servicios en materia de bienes muebles, previa autorización del Coordinador de Administración y Finanzas, así como verificar que las garantías que otorguen los proveedores o prestadores de servicios cumplan las condiciones legales, reglamentarias y contractuales que correspondan;
+
+XIV. Controlar el uso, mantenimiento y reparación del equipo de transporte de la Institución, así como vigilar el adecuado consumo de los combustibles e insumos que dicho equipo requiera;
 
 XV. Dirigir, controlar y evaluar los servicios generales de apoyo;
 

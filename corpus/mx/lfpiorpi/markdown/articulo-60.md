@@ -21,4 +21,6 @@ La [Secretaría](articulo-3.md), en la imposición de sanciones de carácter adm
 
 I. La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que hubiere sido sancionada y, además de aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente;
 
-II. La cuantía del acto u operación, procurando la proporcionalidad del monto de la sanción con aquellos, y III. La intención de realizar la conducta.
+II. La cuantía del acto u operación, procurando la proporcionalidad del monto de la sanción con aquellos, y
+
+III. La intención de realizar la conducta.

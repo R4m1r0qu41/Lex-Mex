@@ -27,7 +27,9 @@ III. Ley: la Ley Nacional del Registro de Detenciones;
 
 IV. Persona detenida: la persona privada de la libertad por parte de una autoridad integrante de alguna de las instituciones de seguridad pública, por cualquiera de los siguientes supuestos: detención en flagrancia, orden de aprehensión, caso urgente, retención ministerial, prisión preventiva, encontrarse cumpliendo pena o por arresto administrativo;
 
-V. Registro: al Registro Nacional de Detenciones; VI. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
+V. Registro: al Registro Nacional de Detenciones;
+
+VI. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
 
 VII. Sistema de Consulta: al Sistema de Consulta del [Registro](articulo-2.md) Nacional de Detenciones, y
 

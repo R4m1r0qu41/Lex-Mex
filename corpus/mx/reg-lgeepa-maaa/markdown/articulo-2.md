@@ -25,7 +25,9 @@ I Bis. Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Med
 
 I Ter. Auditor Ambiental: Unidad de Verificación en materia de [Auditoría Ambiental](articulo-2.md); Fracción adicionada DOF 31-10-2014
 
-II. Auditor Coordinador: Persona que tiene como función planear y dirigir una Auditoría Ambiental; III. Auditor Especialista: Persona que tiene como función evaluar al menos una de las materias específicas establecidas en el artículo [8](articulo-8.md) del presente Reglamento, pudiendo ser un perito en la materia;
+II. Auditor Coordinador: Persona que tiene como función planear y dirigir una Auditoría Ambiental;
+
+III. Auditor Especialista: Persona que tiene como función evaluar al menos una de las materias específicas establecidas en el artículo [8](articulo-8.md) del presente Reglamento, pudiendo ser un perito en la materia;
 
 IV. Auditoría Ambiental: Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental, el cumplimiento de la normatividad aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, inclusive de procesos de [Autorregulación](articulo-2.md) para determinar su [Desempeño Ambiental](articulo-2.md) con base en los requerimientos establecidos en los [Términos de Referencia](articulo-2.md), y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente;
 
@@ -49,7 +51,9 @@ XIII. Empresa: Organización, establecimiento o instalación, pública o privada
 
 XIV. Informe de Auditoría Ambiental: Documento que contiene de manera estructurada el resultado de la Auditoría Ambiental;
 
-XV. Ley: Ley General del Equilibrio Ecológico y la Protección al Ambiente; XVI. Plan de Acción: Documento derivado de la Auditoría Ambiental que contiene las medidas preventivas y correctivas, así como los plazos para su realización;
+XV. Ley: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+XVI. Plan de Acción: Documento derivado de la Auditoría Ambiental que contiene las medidas preventivas y correctivas, así como los plazos para su realización;
 
 XVII. Procuraduría: Procuraduría Federal de Protección al Ambiente;
 

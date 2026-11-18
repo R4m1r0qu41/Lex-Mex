@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["LFSP — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf
 source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 ---
@@ -77,7 +77,9 @@ XX. Instruir e inspeccionar que el personal operativo utilice obligatoriamente l
 
 XXI. Reportar por escrito a la Dirección General, dentro de los tres días hábiles siguientes, el robo, pérdida o destrucción de documentación propia de la empresa o de identificación de su personal, anexando copia de las constancias que acrediten los hechos;
 
-XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio; XXIII. Comunicar por escrito a la Dirección General, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
+XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio;
+
+XXIII. Comunicar por escrito a la Dirección General, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
 
 XXIV. Comunicar por escrito a la Dirección General, todo mandamiento de autoridad que impida la libre disposición de sus bienes, en los cinco días hábiles siguientes a su notificación;
 

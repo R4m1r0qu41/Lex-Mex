@@ -23,7 +23,9 @@ I. Lugar, día y hora en que se practique la notificación;
 
 II. El número de expediente;
 
-III. El nombre de las partes; IV. El nombre y domicilio de la persona o personas que deban ser notificadas; y
+III. El nombre de las partes;
+
+IV. El nombre y domicilio de la persona o personas que deban ser notificadas; y
 
 V. Copia autorizada de la resolución que se anexará a la cédula.
 

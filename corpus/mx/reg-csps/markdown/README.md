@@ -285,4 +285,4 @@ Fuente formal: [Diario Oficial de la Federación DOF 09-08-1999](https://dof.gob
 
 ## Anexos
 
-- [APÉNDICE DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS](anexo-1.md)
+- [APÉNDICE DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS.](anexo-1.md)

@@ -19,7 +19,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 Las autorizaciones de colecta a que se refiere el artículo [81](articulo-81.md) de este Reglamento deberán contener lo siguiente:
 
-I. Nombre o denominación o razón social y domicilio del interesado; II. Nombre del personal técnico y operativo designado para realizar la colecta;
+I. Nombre o denominación o razón social y domicilio del interesado;
+
+II. Nombre del personal técnico y operativo designado para realizar la colecta;
 
 III. Fines de la colecta;
 

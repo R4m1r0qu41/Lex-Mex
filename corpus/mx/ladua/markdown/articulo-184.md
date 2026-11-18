@@ -23,7 +23,9 @@ I. Omitan transmitir o presentar a las autoridades aduaneras en documento electr
 
 Il. Omitan presentar los documentos o informes requeridos por las autoridades aduaneras dentro del plazo señalado en el requerimiento o por esta Ley.
 
-III. Transmitan o presenten los informes o documentos a que se refieren las dos fracciones anteriores, con datos inexactos o falsos u omitiendo algún dato. Fracción reformada DOF 31-12-1998, 09-12-2013 IV. Omitan transmitir o presentar, o lo hagan extemporáneamente, la información que compruebe el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, cuando hayan obtenido la misma antes de la transmisión o presentación del pedimento. Los interesados deberán transmitir o presentar un pedimento de rectificación, en términos de los artículos [36](articulo-36.md) y [36-A](articulo-36-A.md) de esta Ley, anexando en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias. Fracción reformada DOF 09-12-2013
+III. Transmitan o presenten los informes o documentos a que se refieren las dos fracciones anteriores, con datos inexactos o falsos u omitiendo algún dato. Fracción reformada DOF 31-12-1998, 09-12-2013
+
+IV. Omitan transmitir o presentar, o lo hagan extemporáneamente, la información que compruebe el cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, cuando hayan obtenido la misma antes de la transmisión o presentación del pedimento. Los interesados deberán transmitir o presentar un pedimento de rectificación, en términos de los artículos [36](articulo-36.md) y [36-A](articulo-36-A.md) de esta Ley, anexando en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias. Fracción reformada DOF 09-12-2013
 
 V. Presenten a las autoridades aduaneras la información estadística de los pedimentos que formulen, grabada en un medio magnético, con información inexacta, incompleta o falsa.
 

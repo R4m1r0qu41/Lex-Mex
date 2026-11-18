@@ -23,7 +23,9 @@ I. Elaborar un programa permanente y actualizado, de formación y perfeccionamie
 
 II. Realizar estudios relativos al Sistema;
 
-III. Realizar investigaciones sobre nuevas metodologías para la producción y difusión de Información; IV. Analizar y adecuar al ámbito nacional, las recomendaciones que emitan los organismos internacionales para la generación de Información;
+III. Realizar investigaciones sobre nuevas metodologías para la producción y difusión de Información;
+
+IV. Analizar y adecuar al ámbito nacional, las recomendaciones que emitan los organismos internacionales para la generación de Información;
 
 V. Actuar como consultor técnico de las Unidades del Estado;
 

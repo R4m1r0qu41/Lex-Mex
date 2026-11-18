@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 131"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [100]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -27,7 +28,7 @@ b) Considerar para efectos de análisis:
 
 1. La exposición por todo tipo de riesgo considerando el riesgo consolidado de la casa de bolsa, desglosados por unidad de negocio o factor de riesgo, causa u origen de éstos.
 
-(100) 2. El impacto que, en el valor del capital y en el estado de resultado integral de la casa de bolsa, provocan las alteraciones de los diferentes factores de riesgo, para lo cual las áreas encargadas del registro contable deberán proporcionar a la unidad la información necesaria para estos fines.
+2. El impacto que, en el valor del capital y en el estado de resultado integral de la casa de bolsa, provocan las alteraciones de los diferentes factores de riesgo, para lo cual las áreas encargadas del registro contable deberán proporcionar a la unidad la información necesaria para estos fines.
 
 3. Las concentraciones de riesgo que puedan afectar el riesgo consolidado de la casa de bolsa.
 

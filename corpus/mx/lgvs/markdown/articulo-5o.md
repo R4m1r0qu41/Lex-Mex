@@ -23,7 +23,9 @@ En la formulación y la conducción de la política nacional en materia de vida 
 
 I. La conservación de la diversidad genética, así como la protección, restauración y manejo integral de los hábitats naturales, como factores principales para la conservación y recuperación de las especies silvestres.
 
-II. Las medidas preventivas para el mantenimiento de las condiciones que propician la evolución, viabilidad y continuidad de los ecosistemas, hábitats y poblaciones en sus entornos naturales. En ningún caso la falta de certeza científica se podrá argumentar como justificación para postergar la adopción de medidas eficaces para la conservación y manejo integral de la vida silvestre y su hábitat. III. La aplicación del conocimiento científico, técnico y tradicional disponibles, como base para el desarrollo de las actividades relacionadas con la conservación y el aprovechamiento sustentable de la vida silvestre.
+II. Las medidas preventivas para el mantenimiento de las condiciones que propician la evolución, viabilidad y continuidad de los ecosistemas, hábitats y poblaciones en sus entornos naturales. En ningún caso la falta de certeza científica se podrá argumentar como justificación para postergar la adopción de medidas eficaces para la conservación y manejo integral de la vida silvestre y su hábitat.
+
+III. La aplicación del conocimiento científico, técnico y tradicional disponibles, como base para el desarrollo de las actividades relacionadas con la conservación y el aprovechamiento sustentable de la vida silvestre.
 
 IV. La difusión de la información sobre la importancia de la conservación de la vida silvestre y su hábitat, y sobre las técnicas para su manejo adecuado, así como la promoción de la investigación para conocer su valor ambiental, cultural y económico como bien estratégico para la Nación.
 

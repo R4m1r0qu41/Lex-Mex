@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["REG-LGDS — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf
 source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 ---
@@ -25,6 +25,8 @@ II. Convenios o Contratos de Concertación: instrumentos jurídicos que suscribe
 
 III. Convenios de Coordinación: instrumentos jurídicos que suscribe el Ejecutivo Federal con los gobiernos de las Entidades Federativas, con la participación, en su caso, de los municipios o delegaciones políticas, a efecto de que coadyuven, en el ámbito de sus respectivas competencias, a la consecución de los objetivos de la Política Nacional de Desarrollo Social;
 
-IV. Entidades Federativas: los Estados de la República y el Distrito Federal; V. Ley: la Ley General de Desarrollo Social, y
+IV. Entidades Federativas: los Estados de la República y el Distrito Federal;
+
+V. Ley: la Ley General de Desarrollo Social, y
 
 VI. Programa Nacional: el Programa Nacional de Desarrollo Social.

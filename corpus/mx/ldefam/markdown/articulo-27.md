@@ -8,7 +8,7 @@ number: "27"
 aliases: ["LDEFAM — Artículo 27"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf
 source_sha256: 3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38
 ---

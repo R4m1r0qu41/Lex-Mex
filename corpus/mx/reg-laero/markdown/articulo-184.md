@@ -10,12 +10,16 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 184
 
-El comandante de aeródromo debe dar aviso a la [Secretaría](articulo-2.md) cuando proceda a ordenar la suspensión de la operación del aeródromo o de la prestación de un servicio aeroportuario o complementario, así como de las obras que estuviera realizando, cuando el resultado de la verificación indique: I. Que el aeródromo, el servicio o la obra no reúne las condiciones de seguridad establecidas en la [Ley](articulo-2.md), este Reglamento y las normas aplicables y se pone en riesgo la seguridad de las personas o de la operación de las aeronaves, y
+El comandante de aeródromo debe dar aviso a la [Secretaría](articulo-2.md) cuando proceda a ordenar la suspensión de la operación del aeródromo o de la prestación de un servicio aeroportuario o complementario, así como de las obras que estuviera realizando, cuando el resultado de la verificación indique:
+
+I. Que el aeródromo, el servicio o la obra no reúne las condiciones de seguridad establecidas en la [Ley](articulo-2.md), este Reglamento y las normas aplicables y se pone en riesgo la seguridad de las personas o de la operación de las aeronaves, y
 
 II. La existencia de irregularidades en las construcciones o reconstrucciones que puedan poner en peligro la seguridad de personas, bienes u operación del aeródromo.
 

@@ -21,7 +21,9 @@ El anunciante de alimentos y bebidas no alcohólicas podrá sustituir los mensaj
 
 I. Que los haya convenido expresamente con la [Secretaría](articulo-2.md);
 
-II. Que el contenido de los mensajes informativos se refiera, según lo determine la Secretaría, a los riesgos para la salud que representa el producto o servicio, a la promoción de hábitos nutricionales o higiénicos, a la prevención de accidentes, a la lucha contra las adicciones o a otros contenidos que, por su importancia o interés, determine la propia Secretaría; III. Que el número de los mensajes informativos esté acordado previamente con la Secretaría de conformidad con el número total de anuncios comerciales de la campaña publicitaria, el producto o servicio a publicitar, el medio que se utilice y el alcance de éste.
+II. Que el contenido de los mensajes informativos se refiera, según lo determine la Secretaría, a los riesgos para la salud que representa el producto o servicio, a la promoción de hábitos nutricionales o higiénicos, a la prevención de accidentes, a la lucha contra las adicciones o a otros contenidos que, por su importancia o interés, determine la propia Secretaría;
+
+III. Que el número de los mensajes informativos esté acordado previamente con la Secretaría de conformidad con el número total de anuncios comerciales de la campaña publicitaria, el producto o servicio a publicitar, el medio que se utilice y el alcance de éste.
 
 En ningún caso la proporción que se acuerde podrá ser menor al cinco por ciento para los mensajes que promuevan hábitos higiénicos o nutricionales;
 

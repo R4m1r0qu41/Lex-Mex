@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LFZEE — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -23,7 +23,9 @@ I. La delimitación geográfica precisa de la Zona en su modalidad unitaria, o b
 
 II. La delimitación geográfica del [Área de Influencia](articulo-3.md), señalando las entidades federativas y los municipios en los que se ubicará la misma;
 
-III. Los motivos que justifican la declaratoria; IV. Las facilidades administrativas y los incentivos fiscales, aduaneros y económicos, entre otros, que se otorgarán exclusivamente en la Zona;
+III. Los motivos que justifican la declaratoria;
+
+IV. Las facilidades administrativas y los incentivos fiscales, aduaneros y económicos, entre otros, que se otorgarán exclusivamente en la Zona;
 
 V. El plazo dentro del cual deberá celebrarse el [Convenio de Coordinación](articulo-3.md);
 

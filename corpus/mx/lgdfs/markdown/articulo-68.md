@@ -29,7 +29,9 @@ IV. Autorización de aprovechamiento de recursos forestales no maderables, en lo
 
 V. Autorización de funcionamiento de centros de almacenamiento y transformación de materias primas forestales y de centros no integrados a un centro de transformación primaria;
 
-VI. Expedición del certificado fitosanitario de exportación de materias primas, productos y subproductos forestales; VII. Emisión de la hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales. Deberán establecerse específicamente para cada mercancía previamente en términos de lo dispuesto en la Ley de Comercio Exterior, mediante la publicación del instrumento jurídico correspondiente en el Diario Oficial de la Federación;
+VI. Expedición del certificado fitosanitario de exportación de materias primas, productos y subproductos forestales;
+
+VII. Emisión de la hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales. Deberán establecerse específicamente para cada mercancía previamente en términos de lo dispuesto en la Ley de Comercio Exterior, mediante la publicación del instrumento jurídico correspondiente en el Diario Oficial de la Federación;
 
 VIII. La Inscripción de prestadores de servicios forestales en el [Registro](articulo-7.md) Forestal Nacional, y
 

@@ -31,6 +31,8 @@ La limitación consistente en no ser accionista de las empresas antes mencionada
 
 IV. No prestar servicios personales a los institutos de seguridad social o habérselos prestado durante los doce meses anteriores a su contratación;
 
-V. Residir en territorio nacional; y VI. Contar con aprobación del Comité Consultivo y de Vigilancia de la Comisión.
+V. Residir en territorio nacional; y
+
+VI. Contar con aprobación del Comité Consultivo y de Vigilancia de la Comisión.
 
 Los consejeros independientes y contralores normativos no podrán ejercer simultáneamente su función en más de una administradora. Párrafo adicionado DOF 10-12-2002

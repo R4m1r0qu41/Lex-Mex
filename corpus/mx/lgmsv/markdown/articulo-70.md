@@ -27,7 +27,9 @@ III. Brindar asesoría técnica a las entidades federativas, municipios y demarc
 
 IV. Coordinarse con los gobiernos de las entidades federativas y municipios, a fin de establecer lineamientos de señalización vial, dispositivos de seguridad y diseño en las vías públicas de su competencia;
 
-V. Participar, en coordinación con los integrantes del Sistema Nacional, en la evaluación de las acciones, planes, programas y políticas públicas en materia de movilidad y seguridad vial; VI. Brindar asesorías y asistencia técnica a los gobiernos de las entidades federativas, de los municipios y demarcaciones territoriales de la Ciudad de México que lo soliciten, para la ejecución y planeación de programas, obras de infraestructura, equipamiento y servicios en materia de movilidad y seguridad vial;
+V. Participar, en coordinación con los integrantes del Sistema Nacional, en la evaluación de las acciones, planes, programas y políticas públicas en materia de movilidad y seguridad vial;
+
+VI. Brindar asesorías y asistencia técnica a los gobiernos de las entidades federativas, de los municipios y demarcaciones territoriales de la Ciudad de México que lo soliciten, para la ejecución y planeación de programas, obras de infraestructura, equipamiento y servicios en materia de movilidad y seguridad vial;
 
 VII. Emitir, en conjunto con las dependencias que integren el Sistema Nacional, los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel nacional;
 

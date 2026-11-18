@@ -21,7 +21,9 @@ Para dar trámite y resolver sobre las solicitudes de quienes pretendan ser Pilo
 
 En caso de que el puerto sea de nueva creación, las solicitudes se presentarán directamente ante la Dirección General, y ésta integrará el Comité Técnico respectivo.
 
-Los solicitantes deberán cubrir los siguientes requisitos: I. Ser mexicano por nacimiento y no haber adquirido otra nacionalidad, para lo cual deberá exhibir copia certificada del acta de nacimiento;
+Los solicitantes deberán cubrir los siguientes requisitos:
+
+I. Ser mexicano por nacimiento y no haber adquirido otra nacionalidad, para lo cual deberá exhibir copia certificada del acta de nacimiento;
 
 II. Tener menos de cuarenta y cinco años al momento de participar en la Convocatoria;
 

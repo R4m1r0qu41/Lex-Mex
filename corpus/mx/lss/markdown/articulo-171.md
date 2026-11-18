@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 171
 
-El asegurado, cuyos recursos acumulados en su cuenta individual resulten insuficientes para contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pensión garantizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentajes del capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos: I. La pensión de viudez será igual al noventa por ciento de la que estuviese gozando el pensionado al fallecer;
+El asegurado, cuyos recursos acumulados en su cuenta individual resulten insuficientes para contratar una renta vitalicia o un retiro programado que le asegure el disfrute de una pensión garantizada y la adquisición de un seguro de sobrevivencia para sus beneficiarios, en los porcentajes del capítulo V de este Título, recibirá del Gobierno Federal una aportación complementaria suficiente para el pago de las pensiones correspondientes, mismas que se otorgarán en los siguientes términos:
+
+I. La pensión de viudez será igual al noventa por ciento de la que estuviese gozando el pensionado al fallecer;
 
 II. La pensión del huérfano de padre o madre será igual al veinte por ciento de la pensión que el asegurado estuviese gozando al fallecer. Si el huérfano lo fuera de padre y madre, se le otorgará en las mismas condiciones una pensión igual al treinta por ciento de la misma base.
 

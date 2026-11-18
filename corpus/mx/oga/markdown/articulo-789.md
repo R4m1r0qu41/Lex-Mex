@@ -20,7 +20,9 @@ source_sha256: 25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3
 
 Hallándose independiente y destacado con el buque de su mando en el extranjero, sólo permitirá el desembarque y regreso al país, de los individuos de la dotación que se hallen en las condiciones siguientes:
 
-I. Haber cumplido el tiempo de su enganche y no ser indispensables sus servicios a bordo. II. Hallarse inútiles para el servicio, según la opinión facultativa.
+I. Haber cumplido el tiempo de su enganche y no ser indispensables sus servicios a bordo.
+
+II. Hallarse inútiles para el servicio, según la opinión facultativa.
 
 III. Mediar circunstancias importantes que exijan el pronto regreso a la República, de individuo reo de algún delito, cuando no pueda formarse a bordo el Consejo de Guerra competente para juzgarlo, previa consulta a la Secretaría del ramo.
 

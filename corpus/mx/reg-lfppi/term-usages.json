@@ -235,21 +235,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1065-1075",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1066-1076",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1065,
-    "end_char": 1075
+    "start_char": 1066,
+    "end_char": 1076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1479-1489",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1480-1490",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1479,
-    "end_char": 1489
+    "start_char": 1480,
+    "end_char": 1490
   },
   {
     "schema_version": "0.1.0",
@@ -388,12 +388,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:82:term-usage:812-835",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:82:term-usage:813-836",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:82",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo-de-colaboracion",
     "span": "Acuerdo de colaboración",
-    "start_char": 812,
-    "end_char": 835
+    "start_char": 813,
+    "end_char": 836
   },
   {
     "schema_version": "0.1.0",
@@ -640,12 +640,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:145:term-usage:682-692",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:145:term-usage:683-693",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:145",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:secretaria",
     "span": "Secretaría",
-    "start_char": 682,
-    "end_char": 692
+    "start_char": 683,
+    "end_char": 693
   },
   {
     "schema_version": "0.1.0",
@@ -676,12 +676,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:166:term-usage:927-934",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:166:term-usage:928-935",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:166",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
     "span": "Acuerdo",
-    "start_char": 927,
-    "end_char": 934
+    "start_char": 928,
+    "end_char": 935
   },
   {
     "schema_version": "0.1.0",

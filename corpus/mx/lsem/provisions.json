@@ -14,10 +14,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -31,14 +31,14 @@
       "title": null,
       "chapter": "Capítulo I"
     },
-    "text": "Para los efectos de la presente Ley se entenderá por:\n\nI. Actividades Diplomáticas: Las acciones desarrolladas por servidores públicos en el ámbito de las relaciones internacionales de México, con la finalidad de cumplir con los objetivos de la política exterior e incrementar la presencia, el impacto y prestigio de México en el mundo;\n\nII. Agencia Consular: La oficina a cargo de un funcionario consular; es de jerarquía menor a la de los consulados porque su circunscripción es muy limitada;\n\nIII. Circunscripción Consular: El territorio atribuido a una oficina consular para el ejercicio de las funciones consulares;\n\nIV. Comisión de Personal: La Comisión de Personal del Servicio Exterior Mexicano, órgano colegiado encargado de conocer cualquier asunto relativo al Servicio Exterior;\n\nV. Consulado: La oficina a cargo de un funcionario consular, del que pueden depender algunas agencias consulares;\n\nVI. Consulado General: La oficina a cargo de un funcionario consular, generalmente con el rango de Cónsul General y del cual dependen los consulados y agencias consulares que se localicen en su circunscripción;\n\nVII. Consulado Honorario: La oficina a cargo de un cónsul honorario, trátese de un nacional o de un extranjero, en la que éste realiza, sin remuneración alguna, funciones consulares limitadas;\n\nVIII. Dirección General: La unidad administrativa de la Secretaría que tenga a su cargo los asuntos concernientes al personal del Servicio Exterior;\n\nIX. Embajada: La representación permanente del Estado mexicano ante el gobierno de otro país. Sus principales funciones son de carácter político;\n\nX. Funcionario Consular: Cualquier persona, incluida aquélla que funja como jefe de oficina consular, encargada con ese carácter del ejercicio de funciones consulares;\n\nXI. Instituto Matías Romero: Es el órgano administrativo desconcentrado de la Secretaría, cuyo objetivo consiste en preparar recursos humanos de alto nivel analítico y técnico en los temas y materias de utilidad para las Actividades Diplomáticas, de política internacional y de manera específica para la política exterior de México, cuyo titular será un embajador de carrera del Servicio Exterior;\n\nXII. Jefe de Misión: Titular de la representación diplomática, encargado de actuar con tal carácter;\n\nXIII. Jefe de Oficina Consular: La persona encargada de desempeñar tal función;\n\nXIV. Ley: La Ley del Servicio Exterior Mexicano;\n\nXV. Miembro del Servicio Exterior: Servidor público que forma parte del Servicio Exterior Mexicano, ya sea como personal de carrera o temporal, en sus ramas diplomático-consular y técnico-administrativa; XVI. Misión Diplomática: Las embajadas;\n\nXVII. Misión Especial: Misión temporal que ejerce la representación de México en el extranjero durante el tiempo y con las características de la función específica que en cada caso se indique por la Secretaría;\n\nXVIII. Misión Permanente: La representación del Estado mexicano ante organismos internacionales;\n\nXIX. Oficina Consular: La representación del Estado mexicano ante el gobierno de otro país, en la que se realizan de carácter permanente las siguientes funciones: proteger los intereses de México y de los mexicanos que se localicen en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la presente Ley y su Reglamento. Según su importancia y ámbito de circunscripción se clasifican en: Sección Consular, Consulado General, Consulado, Agencia Consular y Consulado Honorario;\n\nXX. Oficina de Enlace: La oficina de representación en el extranjero, con funciones y circunscripción limitadas, a cargo de un servidor público perteneciente al Servicio Exterior y generalmente dependiente de una embajada o consulado;\n\nXXI. Reglamento: El Reglamento de la Ley del Servicio Exterior Mexicano;\n\nXXII. Representación: Las embajadas, misiones permanentes y oficinas consulares;\n\nXXIII. Representación Consular: Las oficinas consulares;\n\nXXIV. Representaciones Diplomáticas: Las embajadas y misiones permanentes;\n\nXXV. Secretaría: La Secretaría de Relaciones Exteriores;\n\nXXVI. Secretario: Persona que funge como Titular de la Secretaría de Relaciones Exteriores;\n\nXXVII. Sección Consular: La oficina de una embajada que realiza funciones consulares, y\n\nXXVIII. Servicio Exterior: El Servicio Exterior Mexicano.\n\nArtículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018",
+    "text": "Para los efectos de la presente Ley se entenderá por:\n\nI. Actividades Diplomáticas: Las acciones desarrolladas por servidores públicos en el ámbito de las relaciones internacionales de México, con la finalidad de cumplir con los objetivos de la política exterior e incrementar la presencia, el impacto y prestigio de México en el mundo;\n\nII. Agencia Consular: La oficina a cargo de un funcionario consular; es de jerarquía menor a la de los consulados porque su circunscripción es muy limitada;\n\nIII. Circunscripción Consular: El territorio atribuido a una oficina consular para el ejercicio de las funciones consulares;\n\nIV. Comisión de Personal: La Comisión de Personal del Servicio Exterior Mexicano, órgano colegiado encargado de conocer cualquier asunto relativo al Servicio Exterior;\n\nV. Consulado: La oficina a cargo de un funcionario consular, del que pueden depender algunas agencias consulares;\n\nVI. Consulado General: La oficina a cargo de un funcionario consular, generalmente con el rango de Cónsul General y del cual dependen los consulados y agencias consulares que se localicen en su circunscripción;\n\nVII. Consulado Honorario: La oficina a cargo de un cónsul honorario, trátese de un nacional o de un extranjero, en la que éste realiza, sin remuneración alguna, funciones consulares limitadas;\n\nVIII. Dirección General: La unidad administrativa de la Secretaría que tenga a su cargo los asuntos concernientes al personal del Servicio Exterior;\n\nIX. Embajada: La representación permanente del Estado mexicano ante el gobierno de otro país. Sus principales funciones son de carácter político;\n\nX. Funcionario Consular: Cualquier persona, incluida aquélla que funja como jefe de oficina consular, encargada con ese carácter del ejercicio de funciones consulares;\n\nXI. Instituto Matías Romero: Es el órgano administrativo desconcentrado de la Secretaría, cuyo objetivo consiste en preparar recursos humanos de alto nivel analítico y técnico en los temas y materias de utilidad para las Actividades Diplomáticas, de política internacional y de manera específica para la política exterior de México, cuyo titular será un embajador de carrera del Servicio Exterior;\n\nXII. Jefe de Misión: Titular de la representación diplomática, encargado de actuar con tal carácter;\n\nXIII. Jefe de Oficina Consular: La persona encargada de desempeñar tal función;\n\nXIV. Ley: La Ley del Servicio Exterior Mexicano;\n\nXV. Miembro del Servicio Exterior: Servidor público que forma parte del Servicio Exterior Mexicano, ya sea como personal de carrera o temporal, en sus ramas diplomático-consular y técnico-administrativa;\n\nXVI. Misión Diplomática: Las embajadas;\n\nXVII. Misión Especial: Misión temporal que ejerce la representación de México en el extranjero durante el tiempo y con las características de la función específica que en cada caso se indique por la Secretaría;\n\nXVIII. Misión Permanente: La representación del Estado mexicano ante organismos internacionales;\n\nXIX. Oficina Consular: La representación del Estado mexicano ante el gobierno de otro país, en la que se realizan de carácter permanente las siguientes funciones: proteger los intereses de México y de los mexicanos que se localicen en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la presente Ley y su Reglamento. Según su importancia y ámbito de circunscripción se clasifican en: Sección Consular, Consulado General, Consulado, Agencia Consular y Consulado Honorario;\n\nXX. Oficina de Enlace: La oficina de representación en el extranjero, con funciones y circunscripción limitadas, a cargo de un servidor público perteneciente al Servicio Exterior y generalmente dependiente de una embajada o consulado;\n\nXXI. Reglamento: El Reglamento de la Ley del Servicio Exterior Mexicano;\n\nXXII. Representación: Las embajadas, misiones permanentes y oficinas consulares;\n\nXXIII. Representación Consular: Las oficinas consulares;\n\nXXIV. Representaciones Diplomáticas: Las embajadas y misiones permanentes;\n\nXXV. Secretaría: La Secretaría de Relaciones Exteriores;\n\nXXVI. Secretario: Persona que funge como Titular de la Secretaría de Relaciones Exteriores;\n\nXXVII. Sección Consular: La oficina de una embajada que realiza funciones consulares, y\n\nXXVIII. Servicio Exterior: El Servicio Exterior Mexicano.\n\nArtículo adicionado DOF 25-01-2002. Reformado DOF 19-04-2018",
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -56,10 +56,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -77,10 +77,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -98,10 +98,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -119,10 +119,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -140,10 +140,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -157,14 +157,14 @@
       "title": null,
       "chapter": "Capítulo II"
     },
-    "text": "El personal de carrera es permanente y su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio profesional para la ejecución de la política exterior de México. Párrafo reformado DOF 19-04-2018\n\nLos Miembros del Servicio Exterior de carrera podrán encontrarse, durante su pertenencia a éste, en alguno de los siguientes supuestos: Párrafo reformado DOF 19-04-2018\n\nI. en activo; II. Se deroga. Fracción derogada DOF 19-04-2018\n\nIII. comisionados conforme al artículo 18 de la Ley;\n\nIV. en licencia, o\n\nV. en disponibilidad.\n\nLa administración de rangos, plazas, puestos y estructura del Servicio Exterior se regirá por las disposiciones de la presente Ley y su Reglamento.\n\nArtículo reformado DOF 25-01-2002",
+    "text": "El personal de carrera es permanente y su desempeño se basa en los principios de preparación, competencia, capacidad y superación constante, a fin de establecer un servicio profesional para la ejecución de la política exterior de México. Párrafo reformado DOF 19-04-2018\n\nLos Miembros del Servicio Exterior de carrera podrán encontrarse, durante su pertenencia a éste, en alguno de los siguientes supuestos: Párrafo reformado DOF 19-04-2018\n\nI. en activo;\n\nII. Se deroga. Fracción derogada DOF 19-04-2018\n\nIII. comisionados conforme al artículo 18 de la Ley;\n\nIV. en licencia, o\n\nV. en disponibilidad.\n\nLa administración de rangos, plazas, puestos y estructura del Servicio Exterior se regirá por las disposiciones de la presente Ley y su Reglamento.\n\nArtículo reformado DOF 25-01-2002",
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -182,10 +182,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -203,10 +203,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -224,10 +224,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -245,10 +245,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -266,10 +266,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -287,10 +287,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -308,10 +308,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -329,10 +329,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -350,10 +350,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -371,10 +371,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -392,10 +392,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -413,10 +413,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -434,10 +434,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -455,10 +455,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -476,10 +476,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -497,10 +497,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -518,10 +518,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -539,10 +539,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -560,10 +560,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -581,10 +581,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -602,10 +602,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -623,10 +623,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -644,10 +644,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -665,10 +665,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -686,10 +686,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -707,10 +707,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -728,10 +728,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -749,10 +749,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -770,10 +770,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -791,10 +791,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -812,10 +812,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -833,10 +833,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -854,10 +854,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -875,10 +875,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -896,10 +896,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -917,10 +917,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -939,9 +939,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -959,10 +959,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -980,10 +980,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1001,10 +1001,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1022,10 +1022,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1044,9 +1044,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1064,10 +1064,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1085,10 +1085,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1107,9 +1107,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1127,10 +1127,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1148,10 +1148,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1169,10 +1169,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1190,10 +1190,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1211,10 +1211,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1232,10 +1232,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1253,10 +1253,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1274,10 +1274,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1291,14 +1291,14 @@
       "title": null,
       "chapter": "Capítulo IX"
     },
-    "text": "La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos y/o servicio de salud para los Miembros del Servicio Exterior comisionados en el extranjero.\n\nLa contratación correspondiente se realizará sujeta a la disponibilidad presupuestaria y en términos de las disposiciones que resulten aplicables.\n\nLa Secretaría hará extensivo el seguro de gastos médicos al cónyuge, concubina o concubinario y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el Miembro del Servicio Exterior, o descendente, conforme a los siguientes criterios: I. Esta prestación se otorgará a los hijos o las hijas menores de edad del Miembro del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior;\n\nII. Asimismo se otorgará a los hijos o las hijas menores de edad de los cónyuges, concubina o concubinario de los Miembros del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior, y\n\nIII. A los hijos o a las hijas de los Miembros del Servicio Exterior y los hijos o a las hijas de su cónyuge, concubina o concubinario que presenten una discapacidad que los imposibilite para trabajar para su subsistencia, se les otorgará la prestación siempre que vivan con el Miembro del Servicio Exterior en su lugar de Adscripción.\n\nArtículo reformado DOF 25-01-2002, 19-04-2018",
+    "text": "La Secretaría contratará, en los términos del Reglamento, un seguro de gastos médicos y/o servicio de salud para los Miembros del Servicio Exterior comisionados en el extranjero.\n\nLa contratación correspondiente se realizará sujeta a la disponibilidad presupuestaria y en términos de las disposiciones que resulten aplicables.\n\nLa Secretaría hará extensivo el seguro de gastos médicos al cónyuge, concubina o concubinario y a los dependientes económicos hasta el primer grado en línea recta, ascendente, cuando vivan con el Miembro del Servicio Exterior, o descendente, conforme a los siguientes criterios:\n\nI. Esta prestación se otorgará a los hijos o las hijas menores de edad del Miembro del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior;\n\nII. Asimismo se otorgará a los hijos o las hijas menores de edad de los cónyuges, concubina o concubinario de los Miembros del Servicio Exterior; así como a los mayores de dieciocho años y hasta la edad de veinticinco años, que estudien de tiempo completo fuera de México, ya sea que vivan o no con el Miembro del Servicio Exterior, y\n\nIII. A los hijos o a las hijas de los Miembros del Servicio Exterior y los hijos o a las hijas de su cónyuge, concubina o concubinario que presenten una discapacidad que los imposibilite para trabajar para su subsistencia, se les otorgará la prestación siempre que vivan con el Miembro del Servicio Exterior en su lugar de Adscripción.\n\nArtículo reformado DOF 25-01-2002, 19-04-2018",
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1316,10 +1316,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1337,10 +1337,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1358,10 +1358,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1379,10 +1379,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1400,10 +1400,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1421,10 +1421,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1442,10 +1442,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1463,10 +1463,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1484,10 +1484,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1505,10 +1505,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1526,10 +1526,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1547,10 +1547,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1568,10 +1568,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1589,10 +1589,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1610,10 +1610,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1631,10 +1631,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1648,14 +1648,14 @@
       "title": null,
       "chapter": "Capítulo XI"
     },
-    "text": "Para la substanciación de procedimientos disciplinarios, se observará el siguiente procedimiento:\n\nI. Las conductas contrarias al Servicio Exterior de los Miembros del Servicio Exterior serán investigadas por la Subcomisión de Asuntos Disciplinarios, por conducto del Órgano Interno de Control, la cual iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de dicho Órgano. Las denuncias serán por escrito y podrán ser anónimas, o en su caso, la Subcomisión mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas irregularidades.\n\nEl Órgano Interno de Control llevará a cabo la investigación correspondiente de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas y las demás normas que resulten aplicables.\n\nEn caso de que la Subcomisión de Asuntos Disciplinarios tenga conocimiento de la presunta comisión de faltas administrativas, dará vista al Órgano Interno de Control, a efecto de que proceda a realizar la investigación correspondiente;\n\nII. Concluidas las diligencias de investigación, la Subcomisión de Asuntos Disciplinarios procederá al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de irregularidades y, en su caso, calificarla como grave o no grave en términos del presente capítulo.\n\nUna vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el Informe de presunta irregularidad y éste se presentará ante la Comisión de Personal a efecto de iniciar el procedimiento disciplinario;\n\nIII. El procedimiento disciplinario dará inicio cuando la Comisión de Personal, admita el Informe de presunta irregularidad, lo cual interrumpirá los plazos de prescripción establecidos en el Reglamento y fijará la materia del procedimiento;\n\nIV. Acordada la admisión, se turnará el expediente relativo a la Subcomisión de Asuntos Disciplinarios, a efecto de que, por conducto de su Presidente, se emplace al presunto infractor, para que presente su escrito de defensa y pruebas dentro de los veinte días hábiles siguientes a que la notificación surta sus efectos. A petición del presunto infractor, el plazo podrá ser ampliado en términos de lo dispuesto en el Reglamento, para proveer a su mejor defensa.\n\nEl emplazamiento respectivo se deberá acompañar con las copias de toda la documentación que obre en el expediente, a fin de que el presunto infractor manifieste lo que a su derecho convenga.\n\nEl presunto infractor y su representante o apoderado legal, tendrán acceso a los expedientes integrados con motivo del procedimiento disciplinario.\n\nDel mismo modo, el Presidente de la Subcomisión de Asuntos Disciplinarios le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un licenciado en derecho;\n\nV. En su escrito de defensa, el presunto infractor deberá ofrecer las pruebas que estime pertinentes, estableciendo con claridad los hechos sobre los que versen cada una de ellas.\n\nEn caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente.\n\nUna vez presentado el escrito de defensa no se podrán ofrecer más pruebas, salvo aquellas que sean supervenientes, siempre que no se haya emitido resolución definitiva;\n\nVI. Dentro de los quince días hábiles siguientes a la fecha en que el presunto infractor presente su escrito de defensa, el Presidente de la Subcomisión de Asuntos Disciplinarios deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo; VII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Subcomisión de Asuntos Disciplinarios declarará abierto el periodo de alegatos por un término de quince días hábiles. Dicho plazo no podrá ser prorrogado;\n\nVIII. Una vez trascurrido el periodo de alegatos, la Subcomisión de Asuntos Disciplinarios, de oficio, declarará cerrada la instrucción y contará con un término de treinta días hábiles para formular la resolución que estime pertinente, y para turnarla a la Comisión de Personal.\n\nLa Comisión de Personal tendrá un plazo de quince días hábiles para aprobar la resolución propuesta o, en su defecto para emitir por una sola ocasión, las observaciones que correspondan. La Subcomisión tendrá un plazo de quince días hábiles para atender dichas observaciones.\n\nAprobada la resolución, la Comisión de Personal tendrá un plazo de tres días hábiles para someterla a consideración del Secretario, a efecto de que este último resuelva lo conducente.\n\nEn caso de embajadores y cónsules generales, se deberá recabar la opinión del Presidente de la República a través de la Dirección General de Asuntos Jurídicos, antes de someter la resolución a la consideración del Secretario, y\n\nIX. Todos los acuerdos de trámite relacionados con los procedimientos disciplinarios serán emitidos por el Presidente de la Subcomisión de Asuntos Disciplinarios, con intervención del Secretario de dicho órgano colegiado, debiéndose dejar constancia en autos, y serán notificados personalmente al presunto infractor.\n\nEn caso de desechamiento de prueba o de la declaración de la preclusión de un derecho del presunto infractor, el acuerdo relativo deberá ser suscrito por el Pleno de la Subcomisión de Asuntos Disciplinarios.\n\nEn lo no previsto por esta Ley y su Reglamento respecto a los procedimientos disciplinarios de los Miembros del Servicio Exterior, será aplicable supletoriamente la Ley General de Responsabilidades Administrativas o la Ley Federal de Procedimiento Administrativo, según corresponda.\n\nArtículo reformado DOF 25-01-2002, 19-04-2018",
+    "text": "Para la substanciación de procedimientos disciplinarios, se observará el siguiente procedimiento:\n\nI. Las conductas contrarias al Servicio Exterior de los Miembros del Servicio Exterior serán investigadas por la Subcomisión de Asuntos Disciplinarios, por conducto del Órgano Interno de Control, la cual iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de dicho Órgano. Las denuncias serán por escrito y podrán ser anónimas, o en su caso, la Subcomisión mantendrá con carácter de confidencial la identidad de las personas que denuncien las presuntas irregularidades.\n\nEl Órgano Interno de Control llevará a cabo la investigación correspondiente de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas y las demás normas que resulten aplicables.\n\nEn caso de que la Subcomisión de Asuntos Disciplinarios tenga conocimiento de la presunta comisión de faltas administrativas, dará vista al Órgano Interno de Control, a efecto de que proceda a realizar la investigación correspondiente;\n\nII. Concluidas las diligencias de investigación, la Subcomisión de Asuntos Disciplinarios procederá al análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de irregularidades y, en su caso, calificarla como grave o no grave en términos del presente capítulo.\n\nUna vez calificada la conducta en los términos del párrafo anterior, se incluirá la misma en el Informe de presunta irregularidad y éste se presentará ante la Comisión de Personal a efecto de iniciar el procedimiento disciplinario;\n\nIII. El procedimiento disciplinario dará inicio cuando la Comisión de Personal, admita el Informe de presunta irregularidad, lo cual interrumpirá los plazos de prescripción establecidos en el Reglamento y fijará la materia del procedimiento;\n\nIV. Acordada la admisión, se turnará el expediente relativo a la Subcomisión de Asuntos Disciplinarios, a efecto de que, por conducto de su Presidente, se emplace al presunto infractor, para que presente su escrito de defensa y pruebas dentro de los veinte días hábiles siguientes a que la notificación surta sus efectos. A petición del presunto infractor, el plazo podrá ser ampliado en términos de lo dispuesto en el Reglamento, para proveer a su mejor defensa.\n\nEl emplazamiento respectivo se deberá acompañar con las copias de toda la documentación que obre en el expediente, a fin de que el presunto infractor manifieste lo que a su derecho convenga.\n\nEl presunto infractor y su representante o apoderado legal, tendrán acceso a los expedientes integrados con motivo del procedimiento disciplinario.\n\nDel mismo modo, el Presidente de la Subcomisión de Asuntos Disciplinarios le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un licenciado en derecho;\n\nV. En su escrito de defensa, el presunto infractor deberá ofrecer las pruebas que estime pertinentes, estableciendo con claridad los hechos sobre los que versen cada una de ellas.\n\nEn caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente.\n\nUna vez presentado el escrito de defensa no se podrán ofrecer más pruebas, salvo aquellas que sean supervenientes, siempre que no se haya emitido resolución definitiva;\n\nVI. Dentro de los quince días hábiles siguientes a la fecha en que el presunto infractor presente su escrito de defensa, el Presidente de la Subcomisión de Asuntos Disciplinarios deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;\n\nVII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Subcomisión de Asuntos Disciplinarios declarará abierto el periodo de alegatos por un término de quince días hábiles. Dicho plazo no podrá ser prorrogado;\n\nVIII. Una vez trascurrido el periodo de alegatos, la Subcomisión de Asuntos Disciplinarios, de oficio, declarará cerrada la instrucción y contará con un término de treinta días hábiles para formular la resolución que estime pertinente, y para turnarla a la Comisión de Personal.\n\nLa Comisión de Personal tendrá un plazo de quince días hábiles para aprobar la resolución propuesta o, en su defecto para emitir por una sola ocasión, las observaciones que correspondan. La Subcomisión tendrá un plazo de quince días hábiles para atender dichas observaciones.\n\nAprobada la resolución, la Comisión de Personal tendrá un plazo de tres días hábiles para someterla a consideración del Secretario, a efecto de que este último resuelva lo conducente.\n\nEn caso de embajadores y cónsules generales, se deberá recabar la opinión del Presidente de la República a través de la Dirección General de Asuntos Jurídicos, antes de someter la resolución a la consideración del Secretario, y\n\nIX. Todos los acuerdos de trámite relacionados con los procedimientos disciplinarios serán emitidos por el Presidente de la Subcomisión de Asuntos Disciplinarios, con intervención del Secretario de dicho órgano colegiado, debiéndose dejar constancia en autos, y serán notificados personalmente al presunto infractor.\n\nEn caso de desechamiento de prueba o de la declaración de la preclusión de un derecho del presunto infractor, el acuerdo relativo deberá ser suscrito por el Pleno de la Subcomisión de Asuntos Disciplinarios.\n\nEn lo no previsto por esta Ley y su Reglamento respecto a los procedimientos disciplinarios de los Miembros del Servicio Exterior, será aplicable supletoriamente la Ley General de Responsabilidades Administrativas o la Ley Federal de Procedimiento Administrativo, según corresponda.\n\nArtículo reformado DOF 25-01-2002, 19-04-2018",
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1673,10 +1673,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1694,10 +1694,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1715,10 +1715,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1736,10 +1736,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1757,10 +1757,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1778,10 +1778,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1799,10 +1799,10 @@
     "publication_date": "1994-01-04",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {

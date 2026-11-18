@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "response": {
+    "result": {
+      "protocolVersion": "2025-11-25",
+      "capabilities": {
+        "tools": {}
+      },
+      "serverInfo": {
+        "name": "lex-mex",
+        "version": "0.1.0"
+      },
+      "instructions": "Selected partial legal corpus. Pin release c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969. Search then retrieve complete provisions; cite sources and disclose freshness limits."
+    },
+    "jsonrpc": "2.0",
+    "id": 1
+  },
+  "module_count": 10,
+  "scope": "Exact built host modules; assets binding not exercised"
+}

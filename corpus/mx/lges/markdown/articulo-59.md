@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["LGES — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -29,7 +29,9 @@ III. La participación de los actores, instituciones y procesos que componen el 
 
 IV. El fomento de la evaluación, la formación y capacitación permanente de los actores, instituciones y procesos que componen el Sistema Nacional de Educación Superior;
 
-V. El rigor metodológico y el apego estricto a criterios académicos en los procesos de evaluación y acreditación de la educación superior; VI. La aplicación de objetividad, imparcialidad, replicabilidad, transparencia y el sentido ético en los procesos de evaluación y acreditación;
+V. El rigor metodológico y el apego estricto a criterios académicos en los procesos de evaluación y acreditación de la educación superior;
+
+VI. La aplicación de objetividad, imparcialidad, replicabilidad, transparencia y el sentido ético en los procesos de evaluación y acreditación;
 
 VII. El impulso de prácticas de evaluación que atiendan a marcos de referencia y criterios aceptados a nivel nacional e internacional, para que contribuyan al logro académico de las y los estudiantes;
 

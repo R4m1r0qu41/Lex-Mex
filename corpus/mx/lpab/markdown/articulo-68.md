@@ -25,7 +25,9 @@ II. Recibir y aplicar, en su caso, los recursos que se autoricen en los correspo
 
 III. Suscribir y adquirir acciones ordinarias, obligaciones subordinadas convertibles en acciones y demás títulos de crédito emitidos por las Instituciones que apoye;
 
-IV. Suscribir títulos de crédito, realizar operaciones de crédito, otorgar garantías, avales y asumir obligaciones, con motivo de apoyos preventivos y programas de saneamiento financiero, tanto en beneficio de las Instituciones como en las sociedades en cuyo capital participe directa o indirectamente el Instituto; V. Participar en sociedades, celebrar contratos de asociación en participación o constituir fideicomisos, así como en general realizar las operaciones y contratos de carácter mercantil o civil que sean necesarias para el cumplimiento de su objeto;
+IV. Suscribir títulos de crédito, realizar operaciones de crédito, otorgar garantías, avales y asumir obligaciones, con motivo de apoyos preventivos y programas de saneamiento financiero, tanto en beneficio de las Instituciones como en las sociedades en cuyo capital participe directa o indirectamente el Instituto;
+
+V. Participar en sociedades, celebrar contratos de asociación en participación o constituir fideicomisos, así como en general realizar las operaciones y contratos de carácter mercantil o civil que sean necesarias para el cumplimiento de su objeto;
 
 VI. Adquirir de las Instituciones a las que el Instituto apoye conforme a lo previsto en esta Ley, [Bienes](articulo-5o.md) distintos a los señalados en la fracción III anterior;
 

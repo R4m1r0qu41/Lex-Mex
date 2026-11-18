@@ -19,7 +19,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 La [Comisión](articulo-2.md), en la emisión de las disposiciones de carácter general a que se refiere el artículo [258](articulo-258.md) de esta Ley, deberá propiciar la consecución de cualquiera de los objetivos siguientes:
 
-I. La seguridad de las operaciones de las [Instituciones](articulo-2.md); II. La diversificación técnica de los riesgos y de las responsabilidades que asuman las Instituciones;
+I. La seguridad de las operaciones de las [Instituciones](articulo-2.md);
+
+II. La diversificación técnica de los riesgos y de las responsabilidades que asuman las Instituciones;
 
 III. El aprovechamiento de la capacidad de retención de los sistemas asegurador y afianzador;
 

@@ -31,7 +31,9 @@ V. Prestación de servicios de blindaje para cualquier vehículo de los referido
 
 VI. Transmisión de dominio o constitución de derechos de cualquier naturaleza sobre los títulos representativos de partes sociales o acciones de personas morales por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
 
-VII. Constitución de derechos personales de uso o goce de cualquiera de los bienes a que se refieren las fracciones I, II y V de este artículo, por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, mensuales al día en que se realice el pago o se cumpla la obligación, y VIII. Consignación de pago relacionada con algún acto u operación a que se refieren las fracciones I a VII de este artículo, conforme a los umbrales dispuestos en cada fracción al día en que se realice la consignación.
+VII. Constitución de derechos personales de uso o goce de cualquiera de los bienes a que se refieren las fracciones I, II y V de este artículo, por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, mensuales al día en que se realice el pago o se cumpla la obligación, y
+
+VIII. Consignación de pago relacionada con algún acto u operación a que se refieren las fracciones I a VII de este artículo, conforme a los umbrales dispuestos en cada fracción al día en que se realice la consignación.
 
 La [Secretaría](articulo-3.md), mediante reglas de carácter general, podrá determinar los casos y condiciones en que la prohibición a que se refiere el párrafo primero de este artículo también aplique a bienes fungibles, de acuerdo al grado de riesgo que representen.
 

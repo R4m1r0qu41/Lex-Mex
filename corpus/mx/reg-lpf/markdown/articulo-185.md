@@ -7,8 +7,8 @@ provision_type: article
 number: "185"
 aliases: ["REG-LPF — Artículo 185"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -39,7 +39,9 @@ IX. Proporcionar al público su nombre cuando se lo solicite y mostrar su identi
 
 X. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
 
-XI. Abstenerse de convocar o participar en cualquier práctica de inconformidad que afecte las actividades de la Institución, actos de rebeldía o indisciplina contra el mando o alguna otra autoridad; XII. Expedir por escrito las órdenes cuando lo solicite un subalterno, con objeto de salvaguardar la seguridad de éste, por la naturaleza de las mismas. Esta solicitud deberá formularse dentro de la disciplina y subordinación debida;
+XI. Abstenerse de convocar o participar en cualquier práctica de inconformidad que afecte las actividades de la Institución, actos de rebeldía o indisciplina contra el mando o alguna otra autoridad;
+
+XII. Expedir por escrito las órdenes cuando lo solicite un subalterno, con objeto de salvaguardar la seguridad de éste, por la naturaleza de las mismas. Esta solicitud deberá formularse dentro de la disciplina y subordinación debida;
 
 XIII. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba, o que sean contradictorias, injustas o impropias;
 

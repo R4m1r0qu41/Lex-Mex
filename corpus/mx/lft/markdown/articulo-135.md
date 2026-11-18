@@ -21,7 +21,9 @@ Queda prohibido a los trabajadores:
 
 I. Ejecutar cualquier acto que pueda poner en peligro su propia seguridad, la de sus compañeros de trabajo o la de terceras personas, así como la de los establecimientos o lugares en que el trabajo se desempeñe;
 
-II. Faltar al trabajo sin causa justificada o sin permiso del patrón; III. Substraer de la empresa o establecimiento útiles de trabajo o materia prima o elaborada;
+II. Faltar al trabajo sin causa justificada o sin permiso del patrón;
+
+III. Substraer de la empresa o establecimiento útiles de trabajo o materia prima o elaborada;
 
 IV. Presentarse al trabajo en estado de embriaguez;
 

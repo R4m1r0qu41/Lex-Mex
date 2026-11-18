@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
 
 # SEGUNDO
@@ -23,7 +23,9 @@ II. El Reglamento de Administración Aeroportuaria, publicado en el Diario Ofici
 
 III. El Reglamento sobre Inspección, Seguridad y Vigilancia de la Navegación Aérea Civil, publicado en el Diario Oficial del 16 de noviembre de 1979;
 
-IV. El Decreto que crea el Comité Nacional de Seguridad Aeroportuaria para prevenir el apoderamiento ilícito y sabotaje de aeronaves utilizadas en la red de rutas aéreas del país, publicado en el Diario Oficial del 24 de junio de 1972; V. El Reglamento Interior del Comité Nacional de Seguridad Aeroportuaria, publicado en el Diario Oficial del 26 de julio de 1973, y
+IV. El Decreto que crea el Comité Nacional de Seguridad Aeroportuaria para prevenir el apoderamiento ilícito y sabotaje de aeronaves utilizadas en la red de rutas aéreas del país, publicado en el Diario Oficial del 24 de junio de 1972;
+
+V. El Reglamento Interior del Comité Nacional de Seguridad Aeroportuaria, publicado en el Diario Oficial del 26 de julio de 1973, y
 
 VI. Todas las disposiciones administrativas que se opongan al presente Reglamento.
 

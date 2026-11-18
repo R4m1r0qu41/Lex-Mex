@@ -17,7 +17,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 91
 
-[La Comisión](articulo-4o.md) fomentará acciones tendientes a fortalecer la solidaridad y prevención social del delito conforme a los siguientes criterios: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. Sensibilizar a la población, sobre el delito de trata de personas y demás delitos previstos en esta Ley, los riesgos, causas, consecuencias, los fines y medidas de protección, así como los derechos de las víctimas y posibles víctimas;
+[La Comisión](articulo-4o.md) fomentará acciones tendientes a fortalecer la solidaridad y prevención social del delito conforme a los siguientes criterios:
+
+I. Sensibilizar a la población, sobre el delito de trata de personas y demás delitos previstos en esta Ley, los riesgos, causas, consecuencias, los fines y medidas de protección, así como los derechos de las víctimas y posibles víctimas;
 
 II. Desarrollar estrategias y programas dirigidos a desalentar la demanda que provoca la trata de personas y demás delitos previstos en esta Ley;
 

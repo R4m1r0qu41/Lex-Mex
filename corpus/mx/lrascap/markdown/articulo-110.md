@@ -27,6 +27,8 @@ III. Destruyan u ordenen que se destruyan total o parcialmente, los sistemas o r
 
 IV. Destruyan u ordenen que se destruyan total o parcialmente, información, documentos o archivos, incluso electrónicos, con el propósito de impedir u obstruir los actos de supervisión y vigilancia de la Comisión, así como la supervisión del [Comité de Supervisión Auxiliar](articulo-2.md).
 
-V. Que proporcionen o permitan que se incluyan datos falsos en los documentos, informes, dictámenes, opiniones, estudios o calificación crediticia, que deban presentarse a la Comisión o al Comité de Supervisión Auxiliar en cumplimiento de lo previsto en esta Ley. VI. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito.
+V. Que proporcionen o permitan que se incluyan datos falsos en los documentos, informes, dictámenes, opiniones, estudios o calificación crediticia, que deban presentarse a la Comisión o al Comité de Supervisión Auxiliar en cumplimiento de lo previsto en esta Ley.
+
+VI. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito.
 
 VII. Que, conociendo los vicios que señala la fracción III del Artículo [111](articulo-111.md) siguiente, concedan el préstamo o crédito, si el monto de la alteración hubiere sido determinante para concederlo.

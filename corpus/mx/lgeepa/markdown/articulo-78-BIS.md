@@ -21,7 +21,9 @@ En aquéllos casos en que se estén produciendo procesos acelerados de desertifi
 
 Las declaratorias deberán publicarse en el Diario Oficial de la Federación, y serán inscritas en el Registro Público de la Propiedad correspondiente.
 
-Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán: I.- La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
+Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán:
+
+I.- La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
 
 II.- Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
 

@@ -25,7 +25,9 @@ II. Un Presidente Ejecutivo, que será electo por mayoría de votos en reunión 
 
 III. Un Secretario Técnico, que será el Director del área natural protegida;
 
-IV. El Presidente de cada uno de los Municipios en que se ubique el Área Natural Protegida, y V. Representantes de instituciones académicas, centros de investigación, organizaciones sociales, asociaciones civiles, sector empresarial, ejidos y comunidades, propietarios y poseedores y, en general, todas aquellas personas vinculadas con el uso, aprovechamiento o conservación de los recursos naturales del área natural protegida.
+IV. El Presidente de cada uno de los Municipios en que se ubique el Área Natural Protegida, y
+
+V. Representantes de instituciones académicas, centros de investigación, organizaciones sociales, asociaciones civiles, sector empresarial, ejidos y comunidades, propietarios y poseedores y, en general, todas aquellas personas vinculadas con el uso, aprovechamiento o conservación de los recursos naturales del área natural protegida.
 
 El Consejo Asesor podrá invitar a sus sesiones a otros representantes de la [Secretaría](articulo-3o.md), así como de dependencias y entidades de la [Administración](articulo-3o.md) Pública Federal y Estatal, cuando lo considere conveniente.
 

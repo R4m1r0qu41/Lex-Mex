@@ -35,7 +35,9 @@ VII. La determinación e instrumentación de los mecanismos, bases y principios 
 
 VIII. La emisión de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
 
-Dicho informe será el resultado de las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual; IX. Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones públicas no vinculantes ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
+Dicho informe será el resultado de las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual;
+
+IX. Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones públicas no vinculantes ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
 
 X. El establecimiento de mecanismos de coordinación con los [Sistemas Locales](articulo-3.md) anticorrupción;
 

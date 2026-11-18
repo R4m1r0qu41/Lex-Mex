@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 183
 
-La Secretaría resolverá la solicitud a que se refiere el [artículo anterior](articulo-182.md), conforme a lo siguiente: I. La Secretaría revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única vez al interesado dentro de los tres días hábiles siguientes para que presente la información o documentación faltante, la cual deberá entregarse dentro del término de cinco días hábiles, contado a partir de la fecha en que surta efectos la notificación;
+La Secretaría resolverá la solicitud a que se refiere el [artículo anterior](articulo-182.md), conforme a lo siguiente:
+
+I. La Secretaría revisará la solicitud y los documentos presentados y, en su caso, prevendrá por única vez al interesado dentro de los tres días hábiles siguientes para que presente la información o documentación faltante, la cual deberá entregarse dentro del término de cinco días hábiles, contado a partir de la fecha en que surta efectos la notificación;
 
 II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el trámite, y
 

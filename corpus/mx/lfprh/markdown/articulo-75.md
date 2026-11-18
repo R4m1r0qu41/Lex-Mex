@@ -27,7 +27,9 @@ En los programas de beneficio directo a individuos o grupos sociales, los montos
 
 III. Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros;
 
-IV. Garantizar que los recursos se canalicen exclusivamente a la población objetivo y asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los beneficios económicos y sociales de su asignación y aplicación; así como evitar que se destinen recursos a una administración costosa y excesiva; V. Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su cancelación;
+IV. Garantizar que los recursos se canalicen exclusivamente a la población objetivo y asegurar que el mecanismo de distribución, operación y administración facilite la obtención de información y la evaluación de los beneficios económicos y sociales de su asignación y aplicación; así como evitar que se destinen recursos a una administración costosa y excesiva;
+
+V. Incorporar mecanismos periódicos de seguimiento, supervisión y evaluación que permitan ajustar las modalidades de su operación o decidir sobre su cancelación;
 
 VI. En su caso, buscar fuentes alternativas de ingresos para lograr una mayor autosuficiencia y una disminución o cancelación de los apoyos con cargo a recursos presupuestarios;
 

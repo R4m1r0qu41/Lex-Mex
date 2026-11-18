@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
 
 # Artículo 10
@@ -23,4 +23,6 @@ a) El diagnóstico de la situación del aeródromo que precise las expectativas 
 
 b) Los planos del aeródromo en los que se señalen las construcciones, las instalaciones de las zonas restringidas, así como las adecuaciones que se proponen y los espacios destinados a diversas autoridades;
 
-c) Los programas de construcción, expansión y modernización de la infraestructura y del equipamiento, y el tiempo estimado para adecuarse como aeropuerto, indicando las etapas para ello, y II. En relación con su capacidad financiera, los estados financieros auditados por contador público autorizado o las declaraciones de impuestos por los últimos tres años.
+c) Los programas de construcción, expansión y modernización de la infraestructura y del equipamiento, y el tiempo estimado para adecuarse como aeropuerto, indicando las etapas para ello, y
+
+II. En relación con su capacidad financiera, los estados financieros auditados por contador público autorizado o las declaraciones de impuestos por los últimos tres años.

@@ -25,7 +25,9 @@ II. Las civiles al servicio oficial de gobiernos extranjeros, en caso de recipro
 
 III. Las dedicadas a la conservación o reparación de cables submarinos.
 
-IV. Las dedicadas a fines humanitarios o científicos. V. Las de arribo forzoso legalmente justificado, si no descargan o reciben definitivamente sus mercancías en el puerto.
+IV. Las dedicadas a fines humanitarios o científicos.
+
+V. Las de arribo forzoso legalmente justificado, si no descargan o reciben definitivamente sus mercancías en el puerto.
 
 VI. Las que deban ingresar en el puerto o permanecer atracados en el mismo por caso fortuito o fuerza mayor, o porque las autoridades así lo requieran por causa no imputable a las personas físicas o morales responsables de la embarcación.
 

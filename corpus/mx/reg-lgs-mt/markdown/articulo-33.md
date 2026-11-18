@@ -35,7 +35,9 @@ VII. Establecer los procedimientos para la conservación de Órganos, Tejidos y 
 
 VIII. Aprobar o rechazar la realización del Trasplante, previo dictamen de la disponibilidad de los recursos humanos, materiales e insumos necesarios para su realización;
 
-IX. Evaluar los resultados de los [Programas de Trasplantes](articulo-2.md) con que cuente el Establecimiento de Salud; X. Dictaminar, en su caso, sobre las publicaciones que pudieran derivar de los programas de trabajo o de investigación del Establecimiento de Salud dentro del área de Trasplantes;
+IX. Evaluar los resultados de los [Programas de Trasplantes](articulo-2.md) con que cuente el Establecimiento de Salud;
+
+X. Dictaminar, en su caso, sobre las publicaciones que pudieran derivar de los programas de trabajo o de investigación del Establecimiento de Salud dentro del área de Trasplantes;
 
 XI. Coadyuvar con el responsable sanitario en proporcionar al Registro Nacional de Trasplantes, la información de su Establecimiento de Salud relativa a:
 

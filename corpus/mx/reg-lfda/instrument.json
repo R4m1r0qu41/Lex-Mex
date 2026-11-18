@@ -9,11 +9,11 @@
   "operational_source": "camara_de_diputados",
   "formal_publication_source": "dof",
   "publication_date": "1998-05-22",
-  "latest_reform_date": "2005-09-14",
-  "retrieved_at": "2026-07-12T07:43:31.996290Z",
+  "latest_reform_date": "2026-09-24",
+  "retrieved_at": "2026-10-25T09:17:10.475714Z",
   "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf",
-  "source_sha256": "2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3",
-  "extracted_text_sha256": "698ba557a673e5a5c35ab201deaa353959ffb6f1fb94e64c542bd53aaa6538a4",
+  "source_sha256": "77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a",
+  "extracted_text_sha256": "dece1d7fc8b6af2a121dab82091ace56eb83b69495818484ae020a9b06016fd5",
   "parser_version": "0.1.0",
   "status": "in_force"
 }

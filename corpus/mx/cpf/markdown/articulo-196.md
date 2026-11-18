@@ -23,7 +23,9 @@ I.- Se cometa por servidores públicos encargados de prevenir, denunciar, invest
 
 II.- La víctima fuere menor de edad o incapacitada para comprender la relevancia de la conducta o para resistir al agente;
 
-III.- Se utilice a menores de edad o incapaces para cometer cualesquiera de esos delitos; IV.- Se cometa en centros educativos, asistenciales, policiales o de reclusión, o en sus inmediaciones con quienes a ellos acudan;
+III.- Se utilice a menores de edad o incapaces para cometer cualesquiera de esos delitos;
+
+IV.- Se cometa en centros educativos, asistenciales, policiales o de reclusión, o en sus inmediaciones con quienes a ellos acudan;
 
 V.- La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esa situación para cometerlos. En este caso se impondrá, además, suspensión de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años e inhabilitación hasta por un tiempo equivalente al de la prisión impuesta;
 

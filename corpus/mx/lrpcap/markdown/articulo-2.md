@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LRPCAP — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -17,13 +17,15 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 2
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta [Ley](articulo-2.md) se entenderá por:
 
 I. Asilo Político: Protección que el Estado Mexicano otorga a un extranjero considerado perseguido por motivos o delitos de carácter político o por aquellos delitos del fuero común que tengan conexión con motivos políticos, cuya vida, libertad o seguridad se encuentre en peligro, el cual podrá ser solicitado por vía diplomática o territorial. En todo momento se entenderá por Asilo el Asilo Político.
 
 II. Asilado: El extranjero que encontrándose en el supuesto establecido en el artículo 61 de la Ley recibe la protección del Estado Mexicano.
 
-III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona. IV. Ley: Ley sobre Refugiados, Protección Complementaria y Asilo Político.
+III. Fundados Temores: Los actos y hechos que den o hayan dado lugar a una persecución, y que por su naturaleza, carácter reiterado, o bien, por una acumulación de acciones por parte de un tercero, ponen o podrían poner en riesgo la vida, la libertad o la seguridad de una persona.
+
+IV. Ley: Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 
 V. Reglamento: Reglamento de la Ley sobre Refugiados, Protección Complementaria y Asilo Político.
 

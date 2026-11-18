@@ -37,7 +37,9 @@ No podrán aplicar lo previsto en esta Sección las personas físicas a que se r
 
 I. Sean socios, accionistas o integrantes de personas morales o cuando sean partes relacionadas en los términos del artículo [90](articulo-90.md) de esta Ley.
 
-II. Sean residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país. III. Cuenten con ingresos sujetos a regímenes fiscales preferentes.
+II. Sean residentes en el extranjero que tengan uno o varios establecimientos permanentes en el país.
+
+III. Cuenten con ingresos sujetos a regímenes fiscales preferentes.
 
 IV. Perciban los ingresos a que se refieren las fracciones III, IV, V y VI del artículo [94](articulo-94.md) de esta Ley.
 

@@ -31,6 +31,8 @@ V. La obligación de no modificar sustancialmente el proyecto o las obras autori
 
 VI. Las modalidades a las que se deberá sujetar la concesión y las condiciones generales de orden técnico, jurídico y administrativo aplicables;
 
-VII. La obligación de pago de los derechos o aprovechamientos conforme a la legislación fiscal aplicable, salvo cuando la ley exija que sea previo al otorgamiento de la concesión; VIII. La duración de la concesión, y
+VII. La obligación de pago de los derechos o aprovechamientos conforme a la legislación fiscal aplicable, salvo cuando la ley exija que sea previo al otorgamiento de la concesión;
+
+VIII. La duración de la concesión, y
 
 IX. Las causas de su revocación o terminación.

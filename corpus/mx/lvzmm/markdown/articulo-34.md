@@ -25,7 +25,9 @@ II. Nombre de la persona autorizada para llevar a cabo la visita de inspección,
 
 III. Descripción del documento con el que se identificó el personal;
 
-IV. Testigos de asistencia designados por el personal con quien se atendió la diligencia; en caso de negativa a designarlos, lo hará el inspector, haciendo constar dicha circunstancia, sin que lo anterior afecte la validez de la visita de inspección. Asimismo el personal que formule las actuaciones designará a sus testigos de asistencia; V. Nombre de la persona física, la denominación o razón social de la empresa, artefacto naval, buque, estructura, plataforma, almacén o aeronave;
+IV. Testigos de asistencia designados por el personal con quien se atendió la diligencia; en caso de negativa a designarlos, lo hará el inspector, haciendo constar dicha circunstancia, sin que lo anterior afecte la validez de la visita de inspección. Asimismo el personal que formule las actuaciones designará a sus testigos de asistencia;
+
+V. Nombre de la persona física, la denominación o razón social de la empresa, artefacto naval, buque, estructura, plataforma, almacén o aeronave;
 
 VI. Motivo de la inspección;
 

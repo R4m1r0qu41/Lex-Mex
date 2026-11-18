@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["LGAMVLV — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -33,7 +33,9 @@ VI. Difundir en las instituciones del sector salud, material referente a la prev
 
 VII. Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
 
-VIII. Mejorar la calidad de la atención, que se preste a las mujeres víctimas; IX. Participar activamente, en la ejecución del [Programa](articulo-5.md), en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
+VIII. Mejorar la calidad de la atención, que se preste a las mujeres víctimas;
+
+IX. Participar activamente, en la ejecución del [Programa](articulo-5.md), en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
 
 X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
 

@@ -19,7 +19,9 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 La Junta de Gobierno emitirá lineamientos para autorizar la utilización de bienes, los cuales deberán prever la obligación de los depositarios, administradores, liquidadores o interventores de:
 
-I. Garantizar el pago de la contraprestación que se pagará por el uso de los bienes, en los términos que se establezca en los lineamientos que expida la Junta de Gobierno; II. Acreditar el carácter de depositario, administrador, liquidador o interventor;
+I. Garantizar el pago de la contraprestación que se pagará por el uso de los bienes, en los términos que se establezca en los lineamientos que expida la Junta de Gobierno;
+
+II. Acreditar el carácter de depositario, administrador, liquidador o interventor;
 
 III. Justificar por escrito las causas para la utilización del bien;
 

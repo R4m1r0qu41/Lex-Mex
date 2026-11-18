@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LDPAM — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf
 source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 ---
@@ -35,7 +35,9 @@ VII. Fomentar en la familia, el Estado y la sociedad, una cultura de aprecio a l
 
 VIII. Promover la participación activa de las personas adultas mayores en la formulación y ejecución de las políticas públicas que les afecten;
 
-IX. Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual y colectiva hacia la mujer; X. Fomentar la permanencia, cuando así lo deseen, de las personas adultas mayores en su núcleo familiar y comunitario;
+IX. Impulsar el desarrollo humano integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no discriminación individual y colectiva hacia la mujer;
+
+X. Fomentar la permanencia, cuando así lo deseen, de las personas adultas mayores en su núcleo familiar y comunitario;
 
 XI. Propiciar formas de organización y participación de las personas adultas mayores, que permitan al país aprovechar su experiencia y conocimiento;
 

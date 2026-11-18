@@ -29,7 +29,9 @@ Para la aplicación del estímulo fiscal a que se refiere el presente artículo,
 
 I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional de Ciencia y Tecnología, uno de la Secretaría de Economía, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad. La Secretaría Técnica del Comité estará a cargo del Consejo Nacional de Ciencia y Tecnología. Fracción reformada DOF 09-12-2019
 
-II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 1,500 millones de pesos por cada ejercicio fiscal ni de 50 millones de pesos por contribuyente. III. El Comité Interinstitucional publicará a más tardar el último día de febrero de cada ejercicio fiscal, los proyectos y montos autorizados durante el ejercicio anterior, así como los contribuyentes beneficiados.
+II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 1,500 millones de pesos por cada ejercicio fiscal ni de 50 millones de pesos por contribuyente.
+
+III. El Comité Interinstitucional publicará a más tardar el último día de febrero de cada ejercicio fiscal, los proyectos y montos autorizados durante el ejercicio anterior, así como los contribuyentes beneficiados.
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional. Estas reglas también establecerán compromisos de desarrollo de prototipos y otros entregables equivalentes, así como de generación de patentes que se deberán registrar en México.
 

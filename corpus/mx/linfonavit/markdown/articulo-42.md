@@ -41,7 +41,9 @@ Asimismo, el Instituto podrá descontar a las entidades financieras que cuenten 
 
 III.- Al pago de capital e intereses de las subcuentas de vivienda de los trabajadores en los términos de ley; Fracción reformada DOF 24-02-1992
 
-IV.- A cubrir los gastos de administración, operación y vigilancia del Instituto; Fracción reformada DOF 06-01-1997 V.- A la inversión de inmuebles destinados a sus oficinas, y de muebles estrictamente necesarios para el cumplimiento de sus fines; Fracción reformada DOF 24-02-1992, 21-02-2025
+IV.- A cubrir los gastos de administración, operación y vigilancia del Instituto; Fracción reformada DOF 06-01-1997
+
+V.- A la inversión de inmuebles destinados a sus oficinas, y de muebles estrictamente necesarios para el cumplimiento de sus fines; Fracción reformada DOF 24-02-1992, 21-02-2025
 
 VI.- A la adquisición de suelo e inmuebles destinados al cumplimiento de su objeto; Fracción reformada DOF 21-02-2025
 

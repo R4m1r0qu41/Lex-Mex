@@ -35,4 +35,6 @@ VI. Mérito Facultativo;
 
 VII. Mérito Docente;
 
-VIII. Mérito Deportivo, y IX. Tiempo de Servicio.
+VIII. Mérito Deportivo, y
+
+IX. Tiempo de Servicio.

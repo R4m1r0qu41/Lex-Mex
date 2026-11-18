@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LOUAM — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 source_sha256: 8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40
 ---
@@ -17,7 +17,9 @@ source_sha256: 8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40
 
 # Artículo 8
 
-Para ser miembro de la Junta Directiva se requiere: I.- Ser mexicano;
+Para ser miembro de la Junta Directiva se requiere:
+
+I.- Ser mexicano;
 
 II.- Tener más de treinta y menos de setenta años de edad;
 

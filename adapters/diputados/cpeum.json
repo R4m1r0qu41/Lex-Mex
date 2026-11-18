@@ -19,5 +19,43 @@
     "proposed_at": "2026-07-12T00:00:00Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "provision_notes": [
+    {
+      "provision_id": "urn:lex-mx:federal:constitution:cpeum:article:82",
+      "provision_text_sha256": "12add7b8ff7f96c669b2c22827009c9657b7a02ea3a29cc319bf38043178f300",
+      "note": "Artículo vigente a partir del proceso electoral 2028.",
+      "source_sha256": "cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65",
+      "source_basis": "Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.",
+      "reviewer": "JRH",
+      "captured_at": "2026-11-13T05:00:00Z",
+      "rationale": "Decreto DOF 07-10-2026 (nacionalidad única): entra en vigor al día siguiente de su publicación, pero es aplicable a partir del proceso electoral de 2028 y no a quienes ejercen el cargo.",
+      "decision_source": "docs/federal-cpeum-2028-application-note-2026-11-12.md",
+      "decision_source_sha256": "2b8982b0f67faa5c8547756f81021cab369b88c960977d0794878563445492bc"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:constitution:cpeum:article:116",
+      "provision_text_sha256": "342930aa98221e2ee8d1665b6b3d367562535d924302c55d41ed17fadfaeb357",
+      "note": "Artículo vigente a partir del proceso electoral 2028.",
+      "source_sha256": "cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65",
+      "source_basis": "Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.",
+      "reviewer": "JRH",
+      "captured_at": "2026-11-13T05:00:00Z",
+      "rationale": "Decreto DOF 07-10-2026 (nacionalidad única): entra en vigor al día siguiente de su publicación, pero es aplicable a partir del proceso electoral de 2028 y no a quienes ejercen el cargo.",
+      "decision_source": "docs/federal-cpeum-2028-application-note-2026-11-12.md",
+      "decision_source_sha256": "2b8982b0f67faa5c8547756f81021cab369b88c960977d0794878563445492bc"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:constitution:cpeum:article:122",
+      "provision_text_sha256": "9d1cd20ca438772b774cef0059db17f243befcc2295d717d2301d80ab0dfb534",
+      "note": "Artículo vigente a partir del proceso electoral 2028.",
+      "source_sha256": "cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65",
+      "source_basis": "Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.",
+      "reviewer": "JRH",
+      "captured_at": "2026-11-13T05:00:00Z",
+      "rationale": "Decreto DOF 07-10-2026 (nacionalidad única): entra en vigor al día siguiente de su publicación, pero es aplicable a partir del proceso electoral de 2028 y no a quienes ejercen el cargo.",
+      "decision_source": "docs/federal-cpeum-2028-application-note-2026-11-12.md",
+      "decision_source_sha256": "2b8982b0f67faa5c8547756f81021cab369b88c960977d0794878563445492bc"
+    }
+  ]
 }

@@ -47,14 +47,7 @@
     "end_char": 869,
     "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
     "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:25",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 923,
-        "end_char": 935
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

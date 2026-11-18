@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LFPSDMH — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf
 source_sha256: ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a
 ---
@@ -25,7 +25,9 @@ I. Diseñar y ejecutar programas permanentes con el objeto de garantizar la vigi
 
 II. Realizar estudios sobre las causas estructurales, distribución geodelictiva, estadísticas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar las actividades para la prevención de los delitos sancionados en esta Ley;
 
-III. Obtener, procesar e interpretar la información geodelictiva por medio del análisis de los factores que generan las conductas previstas en esta Ley con la finalidad de identificar las zonas, sectores y grupos de alto riesgo, así como sus correlativos factores de protección; IV. Suministrar e intercambiar la información obtenida mediante los sistemas e instrumentos tecnológicos respectivos;
+III. Obtener, procesar e interpretar la información geodelictiva por medio del análisis de los factores que generan las conductas previstas en esta Ley con la finalidad de identificar las zonas, sectores y grupos de alto riesgo, así como sus correlativos factores de protección;
+
+IV. Suministrar e intercambiar la información obtenida mediante los sistemas e instrumentos tecnológicos respectivos;
 
 V. Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan el fenómeno delictivo sancionado en esta Ley, así como difundir su contenido;
 

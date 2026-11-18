@@ -9,28 +9,21 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 87"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [219,220,305]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 87
 
-Las Instituciones, para determinar el requerimiento de capital para las Operaciones (305)
-
-Sujetas a Riesgo de Crédito con las personas físicas con actividad empresarial y las personas morales a las que se refiere el Artículo [2 Bis 17](articulo-2-Bis-17.md), fracción IV de las presentes disposiciones, correspondientes a aquellos créditos iguales o inferiores a 4 millones de UDIs, deberán utilizar la metodología establecida en el Artículo [2 Bis 71](articulo-2-Bis-71.md), fracción I de las presentes disposiciones cuando se trate de posiciones sin incumplimiento, y podrán ajustar el cálculo de la correlación conforme a lo siguiente:
+Las Instituciones, para determinar el requerimiento de capital para las [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) con las personas físicas con actividad empresarial y las personas morales a las que se refiere el Artículo [2 Bis 17](articulo-2-Bis-17.md), fracción IV de las presentes disposiciones, correspondientes a aquellos créditos iguales o inferiores a 4 millones de UDIs, deberán utilizar la metodología establecida en el Artículo [2 Bis 71](articulo-2-Bis-71.md), fracción I de las presentes disposiciones cuando se trate de posiciones sin incumplimiento, y podrán ajustar el cálculo de la correlación conforme a lo siguiente:
 
 Correla ción:
 
-Donde MTO es el monto correspondiente a los Ingresos Netos o Ventas Netas anuales del acreditado (219)
+Donde MTO es el monto correspondiente a los [Ingresos Netos o Ventas Netas](articulo-1.md) anuales del acreditado en moneda nacional al momento del cómputo de capitalización del crédito y 14MUDIS es el monto equivalente en moneda nacional a 14 millones de UDIs.
 
-en moneda nacional al momento del cómputo de capitalización del crédito y 14MUDIS es el monto equivalente en moneda nacional a 14 millones de UDIs.
+Tratándose de Operaciones Sujetas a Riesgo de Crédito con o a cargo de personas morales o físicas con actividad empresarial a las que se refiere el último párrafo del artículo [2 Bis 83](articulo-2-Bis-83.md), podrán determinar sus activos ponderados por riesgo de crédito utilizando la metodología establecida en dicho párrafo, en lugar de la metodología establecida en la fracción I del Artículo [2 Bis 71](articulo-2-Bis-71.md).
 
-Tratándose de Operaciones Sujetas a Riesgo de Crédito con o a cargo de personas morales o físicas (220)
-
-con actividad empresarial a las que se refiere el último párrafo del artículo [2 Bis 83](articulo-2-Bis-83.md), podrán determinar sus activos ponderados por riesgo de crédito utilizando la metodología establecida en dicho párrafo, en lugar de la metodología establecida en la fracción I del Artículo [2 Bis 71](articulo-2-Bis-71.md).
-
-En todo caso las Operaciones Sujetas a Riesgo de Crédito a que se refiere este artículo y que se (219)
-
-encuentren en estado de incumplimiento, las Instituciones deberán ajustarse a lo establecido en la fracción II del Artículo [2 Bis 71](articulo-2-Bis-71.md) de las presentes disposiciones.
+En todo caso las Operaciones Sujetas a Riesgo de Crédito a que se refiere este artículo y que se encuentren en estado de incumplimiento, las Instituciones deberán ajustarse a lo establecido en la fracción II del Artículo [2 Bis 71](articulo-2-Bis-71.md) de las presentes disposiciones.

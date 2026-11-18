@@ -25,7 +25,9 @@ II. Cumplir y hacer cumplir los acuerdos de la Asamblea General de Socios y los 
 
 III. Proponer a la Asamblea General de Socios los presupuestos y programas de seguros, coaseguro y reaseguro;
 
-IV. Informar a la Asamblea General de Socios sobre su gestión y sobre los resultados operativos y estados financieros del ejercicio; V. Realizar gestiones, celebrar contratos y, en general, supervisar la operación del seguro, coaseguro y reaseguro en sus diversas coberturas;
+IV. Informar a la Asamblea General de Socios sobre su gestión y sobre los resultados operativos y estados financieros del ejercicio;
+
+V. Realizar gestiones, celebrar contratos y, en general, supervisar la operación del seguro, coaseguro y reaseguro en sus diversas coberturas;
 
 VI. Nombrar al Gerente o Director del Fondo de Aseguramiento, quien tendrá las facultades para pleitos y cobranzas y actos de administración con las limitaciones que, en su caso, le imponga el Consejo en la sesión que lo designe. El Gerente o Director en ningún caso gozará de facultades para actos de dominio;
 

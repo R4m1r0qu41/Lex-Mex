@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 137
 
@@ -25,6 +27,8 @@ III. Acreditar su carácter de concesionario, permisionario o parte afectada, o 
 
 IV. El nombre, denominación o razón social del prestador del servicio o los datos que permitan su identificación, así como su domicilio, teléfono y fax, de conocer estos últimos;
 
-V. Precisar las razones y el servicio respecto del cual considere que no existen condiciones razonables o adecuadas de competencia, según corresponda, y VI. Aportar los demás elementos por los que considera que no existen condiciones razonables o adecuadas de competencia, según corresponda.
+V. Precisar las razones y el servicio respecto del cual considere que no existen condiciones razonables o adecuadas de competencia, según corresponda, y
+
+VI. Aportar los demás elementos por los que considera que no existen condiciones razonables o adecuadas de competencia, según corresponda.
 
 El solicitante podrá turnar copia de su solicitud a la Comisión Federal de Competencia.

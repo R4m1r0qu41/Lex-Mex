@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LCNDH — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf
 source_sha256: 4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c
 ---
@@ -17,7 +17,9 @@ source_sha256: 4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c
 
 # Artículo 22
 
-La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones: I.- Proponer al Consejo y al Presidente de la Comisión Nacional, las políticas generales que en materia de derechos humanos habrá de seguir la Comisión Nacional ante los organismos gubernamentales y no gubernamentales, nacionales e internacionales;
+La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
+
+I.- Proponer al Consejo y al Presidente de la Comisión Nacional, las políticas generales que en materia de derechos humanos habrá de seguir la Comisión Nacional ante los organismos gubernamentales y no gubernamentales, nacionales e internacionales;
 
 II.- Promover y fortalecer las relaciones de la Comisión Nacional, con organismos públicos, sociales o privados, nacionales e internacionales, en materia de derechos humanos;
 

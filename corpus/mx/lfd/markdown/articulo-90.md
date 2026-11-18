@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por los servicios de certificación sobre producción de semillas, se pagará el derecho de certificación de semilla conforme a lo siguiente:
 
-I. Por la expedición de certificado de origen para exportación, por cada uno ............. $573.56 II. Por la expedición de certificados de calidad, por etiqueta ............................................ $3.23 Fracción reformada DOF 18-11-2015
+I. Por la expedición de certificado de origen para exportación, por cada uno ............. $573.56
+
+II. Por la expedición de certificados de calidad, por etiqueta ............................................ $3.23 Fracción reformada DOF 18-11-2015
 
 III. Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal: Párrafo reformado DOF 13-11-2008
 

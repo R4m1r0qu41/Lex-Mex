@@ -7,8 +7,8 @@ provision_type: article
 number: "159"
 aliases: ["REG-LFSV — Artículo 159"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf
 source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 ---
@@ -25,7 +25,9 @@ II. Contar con un programa de capacitación anual;
 
 III. Contar con un programa de supervisión, en el cual deberá documentar las acciones que se establezcan para la mejora continua de los Servicios Fitosanitarios que ofrece;
 
-IV. Dar aviso inmediato a la Secretaría cuando conozcan o tengan sospecha sobre la presencia de una enfermedad o Plaga Exótica de notificación obligatoria; la presencia de Contaminantes que pueda representar un riesgo a la sanidad e inocuidad de los bienes de origen animal, Vegetal, acuícola, pesqueros e integridad orgánica, así como la presencia, liberación accidental o no permitida de organismos genéticamente modificados. En el caso de Laboratorios de Pruebas cuando derivado del diagnóstico o la Verificación realizada se detecte una [Plaga Reglamentada](articulo-2.md) será obligatoria la notificación inmediata a la Secretaría; V. Ingresar y actualizar la información que le solicite la Secretaría en el sistema informático que para tal efecto implemente ésta, la cual deberá contener la firma electrónica avanzada;
+IV. Dar aviso inmediato a la Secretaría cuando conozcan o tengan sospecha sobre la presencia de una enfermedad o Plaga Exótica de notificación obligatoria; la presencia de Contaminantes que pueda representar un riesgo a la sanidad e inocuidad de los bienes de origen animal, Vegetal, acuícola, pesqueros e integridad orgánica, así como la presencia, liberación accidental o no permitida de organismos genéticamente modificados. En el caso de Laboratorios de Pruebas cuando derivado del diagnóstico o la Verificación realizada se detecte una [Plaga Reglamentada](articulo-2.md) será obligatoria la notificación inmediata a la Secretaría;
+
+V. Ingresar y actualizar la información que le solicite la Secretaría en el sistema informático que para tal efecto implemente ésta, la cual deberá contener la firma electrónica avanzada;
 
 VI. Vigilar que los Certificados Fitosanitarios, dictámenes de Verificación e informes de resultados sean firmados y sellados por el personal adscrito al mismo, por los Terceros Especialistas o Profesionales Fitosanitarios Autorizados, que llevó a cabo el procedimiento de la evaluación de la conformidad y que cuente con autorización vigente. En el caso de los Laboratorios de Pruebas, este procedimiento sólo podrá ser llevado a cabo por el responsable, o cuando aplique por el Profesional Fitosanitario Autorizado o Tercero Especialista, conforme a lo establecido en las Disposiciones Legales Aplicables;
 

@@ -29,7 +29,7 @@ II. Haya transcurrido un plazo de dos años sin que la cuenta registre movimient
 
 III. Individualicen dentro de la cuenta concentradora, los valores, efectivo y recursos de cada uno de los clientes.
 
-IV. Administren los valores, efectivo o recursos ajustándose a lo convenido en cada uno de los contratos de intermediación bursátil o, en su defecto, a lo previsto en la Ley para los casos en que no existan instrucciones para su aplicación, todo ello conforme a condiciones de mercado durante el lapso que corresponda a cada acto o hecho.
+IV. Administren los valores, efectivo o recursos ajustándose a lo convenido en cada uno de los contratos de intermediación bursátil o, en su defecto, a lo previsto en la [Ley](articulo-1.md) para los casos en que no existan instrucciones para su aplicación, todo ello conforme a condiciones de mercado durante el lapso que corresponda a cada acto o hecho.
 
 V. Efectúen las operaciones que realicen con los valores, efectivo o recursos a través del sistema de recepción y asignación y apoderados autorizados por la [Comisión](articulo-1.md).
 

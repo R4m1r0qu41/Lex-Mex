@@ -21,7 +21,9 @@ Sin perjuicio de lo previsto en los [Tratados Internacionales](articulo-2.md), l
 
 Salvo lo previsto en el artículo [42](articulo-42.md) de esta Ley, la operación y explotación de embarcaciones mexicanas por navieros mexicanos no requerirá permiso de navegación de la [Secretaría](articulo-2.md).
 
-La operación y explotación de embarcaciones en navegación interior y de cabotaje, destinadas a servicios turísticos, deportivos y recreativos, así como la operación y explotación de aquellas destinadas a la construcción y mantenimiento portuario, y el dragado podría realizarse por navieros mexicanos o extranjeros con embarcaciones mexicanas o extranjeras, previa autorización de la Secretaría, y siempre y cuando exista reciprocidad con el país de que se trate, procurando dar prioridad a las empresas nacionales y cumpliendo con las disposiciones legales aplicables. Párrafo reformado DOF 07-12-2020 Salvo lo previsto en el [artículo siguiente](articulo-41.md), en los supuestos señalados en el párrafo anterior, no se requerirá permiso de navegación de la Secretaría.
+La operación y explotación de embarcaciones en navegación interior y de cabotaje, destinadas a servicios turísticos, deportivos y recreativos, así como la operación y explotación de aquellas destinadas a la construcción y mantenimiento portuario, y el dragado podría realizarse por navieros mexicanos o extranjeros con embarcaciones mexicanas o extranjeras, previa autorización de la Secretaría, y siempre y cuando exista reciprocidad con el país de que se trate, procurando dar prioridad a las empresas nacionales y cumpliendo con las disposiciones legales aplicables. Párrafo reformado DOF 07-12-2020
+
+Salvo lo previsto en el [artículo siguiente](articulo-41.md), en los supuestos señalados en el párrafo anterior, no se requerirá permiso de navegación de la Secretaría.
 
 En caso de no existir embarcaciones mexicanas disponibles en igualdad de condiciones técnicas o bien cuando impere una causa de interés público, la Secretaría estará facultada para otorgar permisos temporales para navegación de cabotaje, de acuerdo con la siguiente prelación:
 

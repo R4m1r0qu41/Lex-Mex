@@ -31,7 +31,9 @@ V. La fecha y monto colocado, precisando el tipo de oferta realizada.
 
 VI. Los datos del representante común, cuando corresponda.
 
-VII. Los datos del fiduciario y características principales del contrato de fideicomiso, de ser el caso. VIII. Los datos relativos al acto administrativo que contenga la resolución sobre la inscripción y, en su caso, la suspensión o cancelación de la misma.
+VII. Los datos del fiduciario y características principales del contrato de fideicomiso, de ser el caso.
+
+VIII. Los datos relativos al acto administrativo que contenga la resolución sobre la inscripción y, en su caso, la suspensión o cancelación de la misma.
 
 IX. Los demás asientos registrales relativos a la inscripción.
 

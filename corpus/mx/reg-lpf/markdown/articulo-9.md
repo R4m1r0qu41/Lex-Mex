@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["REG-LPF — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -25,7 +25,9 @@ II. Planear, programar y, en su caso, presupuestar las actividades a su cargo, a
 
 III. Mantener informado a su superior sobre las acciones realizadas por el personal bajo su mando;
 
-IV. Ejercer las facultades que les sean delegadas y aquéllas que les correspondan por suplencia, así como realizar los actos que les instruya su superior; V. Aplicar los procedimientos sistemáticos operativos contenidos en los manuales correspondientes;
+IV. Ejercer las facultades que les sean delegadas y aquéllas que les correspondan por suplencia, así como realizar los actos que les instruya su superior;
+
+V. Aplicar los procedimientos sistemáticos operativos contenidos en los manuales correspondientes;
 
 VI. Formular dictámenes, opiniones e informes, en el ámbito de su competencia, así como los que les sean solicitados por su superior jerárquico;
 

@@ -17,7 +17,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 119
 
-El Programa, deberá contemplar, como mínimo, las siguientes medidas: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. Criterios estrictos de admisión, incluyendo una evaluación del riesgo para la población que puede significar brindar protección y reubicación a delincuentes o personas con antecedentes penales;
+El Programa, deberá contemplar, como mínimo, las siguientes medidas:
+
+I. Criterios estrictos de admisión, incluyendo una evaluación del riesgo para la población que puede significar brindar protección y reubicación a delincuentes o personas con antecedentes penales;
 
 II. Convenio de admisión, subrayando las obligaciones de las personas que soliciten ser admitidos;
 

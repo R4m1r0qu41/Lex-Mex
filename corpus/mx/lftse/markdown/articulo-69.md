@@ -23,8 +23,6 @@ El trabajador ejercerá en todo momento de su libertad de adhesión o separació
 
 Asimismo, a nadie se le puede obligar a formar parte de un sindicato, a no formar parte de él o a permanecer en el mismo.
 
-La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
+La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados, previa convocatoria que se emitirá con una anticipación no menor a quince días y que se difundirá entre todos los miembros del sindicato. El sindicato deberá notificar la convocatoria al Tribunal Federal de Conciliación y Arbitraje con la misma anticipación, el cual podrá verificar el procedimiento de elección por conducto de los servidores públicos o fedatarios que designe para tal efecto. Las elecciones que no cumplan estos requisitos serán nulas.
 
 Artículo reformado DOF 01-05-2019

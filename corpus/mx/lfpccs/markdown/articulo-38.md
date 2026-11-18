@@ -7,8 +7,8 @@ provision_type: article
 number: "38"
 aliases: ["LFPCCS — Artículo 38"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf
 source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 ---
@@ -27,7 +27,9 @@ III. Comercialice o ponga en circulación semilla o material de propagación que
 
 IV. Comercialice o ponga en circulación semillas que no cumplen con el procedimiento de calificación establecido en esta Ley, en las Normas Mexicanas y en las Reglas correspondientes;
 
-V. Difunda información falsa o que se preste a confusión respecto de las características de las semillas; VI. Adultere semillas en cualquier fase de su producción, circulación o comercialización;
+V. Difunda información falsa o que se preste a confusión respecto de las características de las semillas;
+
+VI. Adultere semillas en cualquier fase de su producción, circulación o comercialización;
 
 VII. Importe semilla con fines de comercializarla o ponerla en circulación, sin cumplir con los requisitos establecidos en esta Ley;
 

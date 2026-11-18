@@ -754,20 +754,7 @@
     "end_char": 1810,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:118",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 1917,
-        "end_char": 1925
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1933,
-        "end_char": 1944
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1392,14 +1379,7 @@
     "end_char": 1263,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1322,
-        "end_char": 1334
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2539,14 +2519,7 @@
     "end_char": 2692,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 2760,
-        "end_char": 2770
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2956,20 +2929,7 @@
     "end_char": 1811,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:174",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 1924,
-        "end_char": 1932
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1940,
-        "end_char": 1951
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3364,14 +3324,7 @@
     "end_char": 2019,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2137,
-        "end_char": 2149
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5207,20 +5160,7 @@
     "end_char": 2172,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:33",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 2276,
-        "end_char": 2284
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2292,
-        "end_char": 2303
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5740,20 +5680,7 @@
     "end_char": 1809,
     "target_instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
     "target_provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:73",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 1913,
-        "end_char": 1921
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1929,
-        "end_char": 1940
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6204,12 +6131,6 @@
         "text": "último párrafo",
         "start_char": 7759,
         "end_char": 7773
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 7792,
-        "end_char": 7807
       }
     ],
     "basis": "express_cross_reference",

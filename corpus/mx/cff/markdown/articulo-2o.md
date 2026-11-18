@@ -21,7 +21,9 @@ Las contribuciones se clasifican en impuestos, aportaciones de seguridad social,
 
 I. Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II, III y IV de este Artículo.
 
-II. Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado. III. Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+II. Aportaciones de seguridad social son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
+
+III. Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
 IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley Federal de Derechos. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 

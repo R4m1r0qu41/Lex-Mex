@@ -25,6 +25,8 @@ a) El costo de adquisición de las bases;
 
 b) El costo de las garantías que se hubieran solicitado para participar en el Concurso, y
 
-c) El costo de la preparación e integración de la propuesta ganadora, y II. En ningún caso podrá exceder del equivalente al dos por ciento de la [Inversión Inicial](articulo-11.md) del proyecto, ni del equivalente a cinco millones de Unidades de Inversión, lo que resulte menor.
+c) El costo de la preparación e integración de la propuesta ganadora, y
+
+II. En ningún caso podrá exceder del equivalente al dos por ciento de la [Inversión Inicial](articulo-11.md) del proyecto, ni del equivalente a cinco millones de Unidades de Inversión, lo que resulte menor.
 
 El ganador podrá solicitar el reembolso dentro de un plazo máximo de veinte días hábiles, contado a partir de la fecha fijada en las bases para la firma del contrato. El reembolso se hará dentro de los noventa días hábiles siguientes al recibo de la solicitud.

@@ -51,6 +51,33 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/four-goal-system-upgrade.md`](docs/plans/four-goal-system-upgrade.md)
+  — Source-fidelity check against the official files, page-break fraction repair,
+  Obsidian re-export, full-corpus database serving and discoverability.
+
+- [`docs/plans/agent-first-delivery-and-change-tolerant-releases.md`](docs/plans/agent-first-delivery-and-change-tolerant-releases.md)
+  — Prioritize the four-instrument agent/human workflow, tolerate explicit
+  unresolved references, and design proportional releases and DOF change intake.
+
+- [`docs/plans/duckdb-bounded-analytics-spike.md`](docs/plans/duckdb-bounded-analytics-spike.md)
+  — Opt-in isolated-worktree analytics benchmark; fixed queries, result parity,
+  bounded workers and measurements. No production database migration.
+
+- [`docs/plans/post-split-corpus-and-query-repair.md`](docs/plans/post-split-corpus-and-query-repair.md)
+  — Recover exact parse inputs, triage baseline failures, repair four structural
+  debt clusters and independently accept the isolated query surface.
+
+- [`docs/plans/parser-reader-integration.md`](docs/plans/parser-reader-integration.md)
+  — Prepare normal-merge parser/main and published-reader sync candidates; keep
+  R7 separate, verify native/DB/export/package parity, then operator promotion.
+
+- [`docs/plans/parser-responsibility-split.md`](docs/plans/parser-responsibility-split.md)
+  — Behavior-preserving four-crate parser split; Sonnet 5.5 execution, Opus 5.5
+  advice, exact replay/provenance/DB gates and subsequent Codex audit. Planning only.
+
+- [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
+  — R7+Libro merged into local main976040a2f; exact publication0d142a9a ready for owner-account webpage deployment; see the 2026-10-24 handoff.
+
 - [`docs/plans/database-agent-query-integration.md`](docs/plans/database-agent-query-integration.md)
   — Accepted SQLite projection to bounded public retrieval. D0–D3 accepted
   (Codex 2026-10-25); D4 backend runtime open, adapter local.
@@ -58,9 +85,6 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 - [`docs/plans/agent-retrieval-optimization.md`](docs/plans/agent-retrieval-optimization.md)
   — External IFC/IFPE report review; transport evidence first, then bounded
   discovery and DB queries. Windowed spike worktree deferred until implementation.
-
-- [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
-  — R7+Libro merged into local main976040a2f; package/Node and isolated webpage preflight pass. Follow the 2026-10-24 R7 webpage handoff on the owner account.
 
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;

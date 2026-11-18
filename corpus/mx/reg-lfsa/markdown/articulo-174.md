@@ -7,8 +7,8 @@ provision_type: article
 number: "174"
 aliases: ["REG-LFSA — Artículo 174"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -21,7 +21,9 @@ Son causas de cancelación del registro o autorización de los productos para us
 
 I. Cuando el resultado de los análisis de identidad y calidad del producto, no coincidan con la garantía o información contenida en el documento de análisis del producto, ante cualquier monitoreo aleatorio que realice la Secretaría;
 
-II. Cuando con base en información técnica o referencias internacionales, se establezca que se trata de un producto de riesgo para la salud pública, de los animales o del medio ambiente; III. A solicitud por escrito de la empresa titular del producto;
+II. Cuando con base en información técnica o referencias internacionales, se establezca que se trata de un producto de riesgo para la salud pública, de los animales o del medio ambiente;
+
+III. A solicitud por escrito de la empresa titular del producto;
 
 IV. Cuando el producto contenga principios activos clasificados como prohibidos;
 

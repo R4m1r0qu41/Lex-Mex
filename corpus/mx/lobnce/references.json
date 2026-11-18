@@ -37,12 +37,6 @@
         "text": "fracción IV",
         "start_char": 264,
         "end_char": 275
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 297,
-        "end_char": 308
       }
     ],
     "basis": "express_cross_reference",
@@ -160,12 +154,6 @@
         "text": "fracción IV",
         "start_char": 71,
         "end_char": 82
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 105,
-        "end_char": 116
       }
     ],
     "basis": "express_cross_reference",
@@ -370,18 +358,6 @@
         "text": "último párrafo",
         "start_char": 36,
         "end_char": 50
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 130,
-        "end_char": 138
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XVIII",
-        "start_char": 147,
-        "end_char": 161
       }
     ],
     "basis": "express_cross_reference",

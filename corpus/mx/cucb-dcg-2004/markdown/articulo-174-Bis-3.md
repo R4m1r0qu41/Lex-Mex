@@ -9,6 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 174 Bis 3"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [101]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -19,6 +20,4 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 Las casas de bolsa deberán notificar por escrito a la [Comisión](articulo-1.md), a través de formato libre y dentro de los diez días hábiles siguientes a la celebración del contrato respectivo, la denominación del Proveedor de Precios que contraten, anexando copia del contrato de servicios.
 
-(101) En caso de sustitución del Proveedor de Precios la notificación a que se refiere el presente artículo deberá realizarse con treinta días naturales de anticipación, a la contratación de que se trate.
-
-(101)
+En caso de sustitución del Proveedor de Precios la notificación a que se refiere el presente artículo deberá realizarse con treinta días naturales de anticipación, a la contratación de que se trate.

@@ -7,8 +7,8 @@ provision_type: article
 number: "24"
 aliases: ["REG-LOGAN — Artículo 24"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf
 source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 ---
@@ -29,6 +29,8 @@ B) Para las uniones, se asentará nombre completo, edad y domicilio de los asist
 
 III. Manifestar su voluntad de constituirse como organización ganadera y deberán mencionar si con anterioridad han pertenecido a otra organización ganadera;
 
-IV. Elegir los consejos directivo y de vigilancia así como los delegados ante la organización inmediata superior; a partir de este momento la asamblea la conducirán el presidente y el secretario del consejo directivo electo; V. Elaborar y en su caso aprobar los estatutos que regirán el funcionamiento de la organización ganadera que se constituye, y
+IV. Elegir los consejos directivo y de vigilancia así como los delegados ante la organización inmediata superior; a partir de este momento la asamblea la conducirán el presidente y el secretario del consejo directivo electo;
+
+V. Elaborar y en su caso aprobar los estatutos que regirán el funcionamiento de la organización ganadera que se constituye, y
 
 VI. Levantar y suscribir el acta constitutiva por cuadruplicado, enviándola a la Secretaría, acompañada de la solicitud respectiva, quien iniciará el procedimiento registral en términos de este Reglamento.

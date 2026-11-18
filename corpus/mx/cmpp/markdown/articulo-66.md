@@ -35,7 +35,9 @@ VI. La de apertura a juicio;
 
 VII. Las que versen sobre sentencias definitivas de los procesos especiales y de juicio;
 
-VIII. Las de sobreseimiento, y IX. Las que autorizan técnicas de investigación con control judicial previo.
+VIII. Las de sobreseimiento, y
+
+IX. Las que autorizan técnicas de investigación con control judicial previo.
 
 En ningún caso, la resolución escrita deberá exceder el alcance de la emitida oralmente, surtirá sus efectos inmediatamente y deberá dictarse de forma inmediata a su emisión en forma oral, sin exceder de veinticuatro horas, salvo disposición que establezca otro plazo.
 

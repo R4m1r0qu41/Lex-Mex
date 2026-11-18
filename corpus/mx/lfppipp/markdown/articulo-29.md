@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LFPPIPP — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf
 source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 ---
@@ -35,4 +35,6 @@ VII. Someterse a tratamientos médicos, y de rehabilitación a que hubiere lugar
 
 VIII. Mantener comunicación con el [Director](articulo-2.md), a través del agente de la [Unidad](articulo-2.md) que haya sido asignado, salvo situaciones de extrema gravedad o urgencia.
 
-IX. Cuando sea reubicado abstenerse de entrar en contacto sin autorización, con familiares que no se encuentren dentro del Programa, o con personas con quien hubiese sostenido relación antes de su incorporación al Programa. X. Otras medidas que a consideración del Centro sean necesarias y que podrán estar expresamente señaladas en el Convenio de Entendimiento.
+IX. Cuando sea reubicado abstenerse de entrar en contacto sin autorización, con familiares que no se encuentren dentro del Programa, o con personas con quien hubiese sostenido relación antes de su incorporación al Programa.
+
+X. Otras medidas que a consideración del Centro sean necesarias y que podrán estar expresamente señaladas en el Convenio de Entendimiento.

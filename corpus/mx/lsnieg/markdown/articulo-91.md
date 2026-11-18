@@ -27,7 +27,9 @@ El Órgano Interno de Control tendrá las siguientes atribuciones:
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados; III. Presentar a la [Junta de Gobierno](articulo-2.md) del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar a la [Junta de Gobierno](articulo-2.md) del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
 IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 

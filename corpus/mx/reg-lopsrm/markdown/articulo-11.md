@@ -17,7 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 11
 
-Para los efectos de los actos y actividades reguladas en la [Ley](articulo-2.md) que se realicen a través de los fideicomisos públicos no considerados como entidad paraestatal, deberá observarse lo siguiente: I. Sus políticas, bases y lineamientos serán elaboradas y aprobadas por su comité técnico, a falta de éste, por la dependencia con cargo a cuyo presupuesto se aporten los recursos presupuestarios o que coordine la operación del fideicomiso o, en su defecto, por la entidad que funja como fideicomitente;
+Para los efectos de los actos y actividades reguladas en la [Ley](articulo-2.md) que se realicen a través de los fideicomisos públicos no considerados como entidad paraestatal, deberá observarse lo siguiente:
+
+I. Sus políticas, bases y lineamientos serán elaboradas y aprobadas por su comité técnico, a falta de éste, por la dependencia con cargo a cuyo presupuesto se aporten los recursos presupuestarios o que coordine la operación del fideicomiso o, en su defecto, por la entidad que funja como fideicomitente;
 
 II. La fiduciaria será responsable de llevar a cabo los procedimientos de contratación regulados por la Ley, así como de suscribir invariablemente los contratos correspondientes, aún tratándose de los casos previstos en los párrafos segundo y tercero de esta fracción.
 

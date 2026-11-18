@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGSCMM — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 ---
@@ -23,6 +23,8 @@ No serán sujetos de la aplicación de la presente Ley, el personal que pertenez
 
 I. Las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. El Consejo Nacional de Fomento Educativo, así como los organismos que presten servicios equivalentes en las entidades federativas; III. Los institutos de educación para adultos, nacional y estatales, y
+II. El Consejo Nacional de Fomento Educativo, así como los organismos que presten servicios equivalentes en las entidades federativas;
+
+III. Los institutos de educación para adultos, nacional y estatales, y
 
 IV. El Instituto Politécnico Nacional.

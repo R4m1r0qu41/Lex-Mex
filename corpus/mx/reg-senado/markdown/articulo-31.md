@@ -17,7 +17,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 # Artículo 31
 
-1. Los estatutos de los grupos parlamentarios deben contener, cuando menos, lo siguiente: I. La denominación, la cual se corresponde con la de cada uno de los partidos políticos en los que militan los senadores;
+1. Los estatutos de los grupos parlamentarios deben contener, cuando menos, lo siguiente:
+
+I. La denominación, la cual se corresponde con la de cada uno de los partidos políticos en los que militan los senadores;
 
 II. Los derechos y las obligaciones de los integrantes;
 

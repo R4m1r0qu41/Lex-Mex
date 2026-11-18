@@ -82,12 +82,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:7503-7520",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:7504-7521",
     "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-de-estado",
     "span": "Tiempos de Estado",
-    "start_char": 7503,
-    "end_char": 7520
+    "start_char": 7504,
+    "end_char": 7521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:7531-7547",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
+    "span": "Tiempos Fiscales",
+    "start_char": 7531,
+    "end_char": 7547
   },
   {
     "schema_version": "0.1.0",
@@ -136,6 +145,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:15:term-usage:4-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-oficiales",
+    "span": "Tiempos Oficiales",
+    "start_char": 4,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcs:article:15:term-usage:47-61",
     "provision_id": "urn:lex-mx:federal:statute:lgcs:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
@@ -163,6 +181,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:17:term-usage:313-330",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-oficiales",
+    "span": "Tiempos Oficiales",
+    "start_char": 313,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcs:article:17:term-usage:558-574",
     "provision_id": "urn:lex-mx:federal:statute:lgcs:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
@@ -187,6 +214,15 @@
     "span": "Tiempos Comerciales",
     "start_char": 76,
     "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:18:term-usage:136-153",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-oficiales",
+    "span": "Tiempos Oficiales",
+    "start_char": 136,
+    "end_char": 153
   },
   {
     "schema_version": "0.1.0",
@@ -226,6 +262,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:20:term-usage:467-484",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-oficiales",
+    "span": "Tiempos Oficiales",
+    "start_char": 467,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcs:article:22:term-usage:489-503",
     "provision_id": "urn:lex-mx:federal:statute:lgcs:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
@@ -253,12 +298,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcs:article:23:term-usage:610-622",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:23:term-usage:611-623",
     "provision_id": "urn:lex-mx:federal:statute:lgcs:article:23",
     "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
     "span": "Ente Público",
-    "start_char": 610,
-    "end_char": 622
+    "start_char": 611,
+    "end_char": 623
   },
   {
     "schema_version": "0.1.0",

@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [16]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
 
 # Artículo 27
 
-Las Instituciones realizarán funciones de recuperación administrativa, mismas que deberán ser gestionadas por un área Independiente de las áreas de negocio o, en su caso, por prestadores de servicios externos, quienes llevarán a cabo los procedimientos de cobranza administrativa requeridos en el manual de crédito de la Institución.
+Las Instituciones realizarán funciones de recuperación administrativa, mismas que deberán ser gestionadas por un área [Independiente](articulo-1.md) de las áreas de negocio o, en su caso, por prestadores de servicios externos, quienes llevarán a cabo los procedimientos de cobranza administrativa requeridos en el manual de crédito de la Institución.
 
 Tratándose de créditos comerciales por montos menores al equivalente en moneda nacional a dos millones de UDIs, las funciones de recuperación administrativa podrán ser gestionadas por las áreas de negocio.

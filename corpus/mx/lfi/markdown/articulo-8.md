@@ -25,7 +25,9 @@ Las sociedades operadoras de fondos de inversión que soliciten autorización pa
 
 I. El proyecto de acta constitutiva de una sociedad anónima de capital variable en la que constarán los estatutos sociales, los cuales deberán ajustarse a las disposiciones que se contienen en el presente ordenamiento legal;
 
-II. La información del socio fundador del fondo de inversión indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión; III. El proyecto de prospecto de información al público inversionista y documentos con información clave para la inversión a que se refiere el artículo [9](articulo-9.md) de esta Ley, señalando el tipo, modalidad y categoría del fondo de inversión;
+II. La información del socio fundador del fondo de inversión indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión;
+
+III. El proyecto de prospecto de información al público inversionista y documentos con información clave para la inversión a que se refiere el artículo [9](articulo-9.md) de esta Ley, señalando el tipo, modalidad y categoría del fondo de inversión;
 
 IV. La relación de las personas que se pretenda que vayan a prestar al fondo de inversión los servicios referidos en el artículo [32](articulo-32.md) de esta Ley, y
 

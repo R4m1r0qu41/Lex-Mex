@@ -31,7 +31,9 @@ V. El Presidente de la Comisión Nacional de Seguros y Fianzas;
 
 VI. El Presidente de la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-VII. El Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario; VIII. El Tesorero de la Federación, y
+VII. El Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario;
+
+VIII. El Tesorero de la Federación, y
 
 IX. El Gobernador del Banco de México, así como un Subgobernador del Banco de México que el propio Gobernador designe.
 

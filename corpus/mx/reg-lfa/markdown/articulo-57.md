@@ -7,8 +7,8 @@ provision_type: article
 number: "57"
 aliases: ["REG-LFA — Artículo 57"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf
 source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 ---
@@ -29,7 +29,9 @@ La inscripción en el Registro Nacional de Archivos Históricos no acredita la v
 
 Dentro de los quince días hábiles siguientes a su recepción, se procederá a la acreditación de los documentos entregados, en términos de la presente fracción;
 
-III. Los documentos acreditados como históricos que cumplan los requisitos establecidos por el Archivo General de la Nación en términos de la fracción VII de este artículo, se inscribirán en el Registro Nacional de Archivos; IV. Una vez realizada la inscripción, el Archivo General de la Nación actualizará la información de la base de datos que corresponda.
+III. Los documentos acreditados como históricos que cumplan los requisitos establecidos por el Archivo General de la Nación en términos de la fracción VII de este artículo, se inscribirán en el Registro Nacional de Archivos;
+
+IV. Una vez realizada la inscripción, el Archivo General de la Nación actualizará la información de la base de datos que corresponda.
 
 Concluida la inscripción, se emitirá la cédula de registro, dentro de los treinta días hábiles a su inscripción;
 

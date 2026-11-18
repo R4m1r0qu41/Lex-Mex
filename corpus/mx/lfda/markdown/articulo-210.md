@@ -21,7 +21,9 @@ El Instituto tiene facultades para:
 
 I. Realizar investigaciones respecto de presuntas infracciones administrativas, llevar a cabo visitas de inspección y requerir informes y datos; Fracción reformada DOF 10-06-2013
 
-II. Solicitar a las autoridades competentes la práctica de visitas de inspección; III. Ordenar y ejecutar los actos provisionales para prevenir o terminar con la violación al derecho de autor y derechos conexos;
+II. Solicitar a las autoridades competentes la práctica de visitas de inspección;
+
+III. Ordenar y ejecutar los actos provisionales para prevenir o terminar con la violación al derecho de autor y derechos conexos;
 
 IV. Imponer las sanciones administrativas que sean procedentes, y
 

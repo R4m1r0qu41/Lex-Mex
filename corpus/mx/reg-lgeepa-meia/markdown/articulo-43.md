@@ -23,7 +23,9 @@ I. La Secretaría, dentro del plazo de veinticinco días contados a partir de qu
 
 II. La reunión deberá efectuarse, en todo caso, dentro de un plazo no mayor a cinco días con posterioridad a la fecha de publicación de la convocatoria y se desahogará en un solo día;
 
-III. El promovente deberá exponer los aspectos técnicos ambientales de la obra o actividad de que se trate, los posibles impactos que se ocasionarían por su realización y las medidas de prevención y mitigación que serían implementadas. Asimismo, atenderá, durante la reunión, las dudas que le sean planteadas; IV. Al finalizar, se levantará un acta circunstanciada en la que se asentarán los nombres y domicilios de los participantes que hayan intervenido formulando propuestas y consideraciones, el contenido de éstas y los argumentos, aclaraciones o respuestas del promovente.
+III. El promovente deberá exponer los aspectos técnicos ambientales de la obra o actividad de que se trate, los posibles impactos que se ocasionarían por su realización y las medidas de prevención y mitigación que serían implementadas. Asimismo, atenderá, durante la reunión, las dudas que le sean planteadas;
+
+IV. Al finalizar, se levantará un acta circunstanciada en la que se asentarán los nombres y domicilios de los participantes que hayan intervenido formulando propuestas y consideraciones, el contenido de éstas y los argumentos, aclaraciones o respuestas del promovente.
 
 En todo caso, los participantes podrán solicitar una copia del acta circunstanciada levantada, y
 

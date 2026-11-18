@@ -7,8 +7,8 @@ provision_type: article
 number: "30"
 aliases: ["LGV — Artículo 30"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -31,7 +31,9 @@ V. Servicios de análisis médicos, laboratorios e imágenes diagnósticas;
 
 VI. Transporte y ambulancia;
 
-VII. Servicios de atención mental en los casos en que, como consecuencia de la comisión del delito o de la violación a sus derechos humanos, la persona quede gravemente afectada psicológica y/o psiquiátricamente; VIII. Servicios odontológicos reconstructivos por los daños causados como consecuencia del delito o la violación a los derechos humanos;
+VII. Servicios de atención mental en los casos en que, como consecuencia de la comisión del delito o de la violación a sus derechos humanos, la persona quede gravemente afectada psicológica y/o psiquiátricamente;
+
+VIII. Servicios odontológicos reconstructivos por los daños causados como consecuencia del delito o la violación a los derechos humanos;
 
 IX. Servicios de interrupción voluntaria del embarazo en los casos permitidos por ley, con absoluto respeto de la voluntad de la víctima, y
 

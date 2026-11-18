@@ -7,8 +7,8 @@ provision_type: article
 number: "136"
 aliases: ["REG-LFPDPPP — Artículo 136"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf
 source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 ---
@@ -21,7 +21,9 @@ En las actas de verificación se hará constar:
 
 I. Nombre, denominación o razón social del verificado;
 
-II. Hora, día, mes y año en que se inicie y concluya la verificación; III. Los datos que identifiquen plenamente el domicilio, tales como calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la verificación, así como número telefónico u otra forma de comunicación disponible con el verificado;
+II. Hora, día, mes y año en que se inicie y concluya la verificación;
+
+III. Los datos que identifiquen plenamente el domicilio, tales como calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la verificación, así como número telefónico u otra forma de comunicación disponible con el verificado;
 
 IV. Número y fecha del oficio de comisión que la motivó;
 

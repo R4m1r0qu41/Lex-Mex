@@ -128,7 +128,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XII",
     "start_char": 1945,
-    "end_char": 2098,
+    "end_char": 2099,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfaar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XIII",
-    "start_char": 2098,
-    "end_char": 2278,
+    "start_char": 2099,
+    "end_char": 2279,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfaar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XIV",
-    "start_char": 2278,
-    "end_char": 2495,
+    "start_char": 2279,
+    "end_char": 2496,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfaar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XV",
-    "start_char": 2495,
-    "end_char": 2669,
+    "start_char": 2496,
+    "end_char": 2670,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfaar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XVI",
-    "start_char": 2669,
-    "end_char": 2888,
+    "start_char": 2670,
+    "end_char": 2889,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfaar",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "fraction": "XVII",
-    "start_char": 2888,
-    "end_char": 3016,
+    "start_char": 2889,
+    "end_char": 3017,
     "basis": "express_definition"
   }
 ]

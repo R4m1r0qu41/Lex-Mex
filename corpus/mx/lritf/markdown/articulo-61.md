@@ -37,4 +37,6 @@ VI. Cónyuges, concubinas o concubinarios, así como los parientes por consangui
 
 VII. Directores o empleados de empresas en las que los accionistas de la ITF ejerzan el [Control](articulo-4.md);
 
-VIII. Quienes tengan conflictos de interés o se puedan ver influenciados por intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el Control de la ITF o del [Consorcio](articulo-4.md) o Grupo Empresarial al que pertenezca la institución, o el Poder de Mando en cualquiera de estos, y IX. Quienes hayan estado comprendidos en alguno de los supuestos a que se refieren las fracciones anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
+VIII. Quienes tengan conflictos de interés o se puedan ver influenciados por intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el Control de la ITF o del [Consorcio](articulo-4.md) o Grupo Empresarial al que pertenezca la institución, o el Poder de Mando en cualquiera de estos, y
+
+IX. Quienes hayan estado comprendidos en alguno de los supuestos a que se refieren las fracciones anteriores, durante el año anterior al momento en que se pretenda hacer su designación.

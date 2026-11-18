@@ -7,8 +7,8 @@ provision_type: article
 number: "1"
 aliases: ["LSNIIMSP — Artículo 1"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
 source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LGCT — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf
 source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 ---
@@ -21,7 +21,9 @@ En los paquetes de productos del tabaco y en todo empaquetado y etiquetado exter
 
 I. Serán formuladas y aprobadas por la [Secretaría](articulo-6.md);
 
-II. Se imprimirán en forma rotatoria directamente en los empaques; III. Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;
+II. Se imprimirán en forma rotatoria directamente en los empaques;
+
+III. Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;
 
 IV. Deberán ocupar al menos el 30% de la cara anterior, 100% de la cara posterior y el 100% de una de las caras laterales del paquete y la cajetilla;
 

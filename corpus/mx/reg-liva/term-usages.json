@@ -856,21 +856,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:74:term-usage:1635-1638",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:74:term-usage:1636-1639",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:74",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
     "span": "Ley",
-    "start_char": 1635,
-    "end_char": 1638
+    "start_char": 1636,
+    "end_char": 1639
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:74:term-usage:2128-2131",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:74:term-usage:2129-2132",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:74",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
     "span": "Ley",
-    "start_char": 2128,
-    "end_char": 2131
+    "start_char": 2129,
+    "end_char": 2132
   },
   {
     "schema_version": "0.1.0",

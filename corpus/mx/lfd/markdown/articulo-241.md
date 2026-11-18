@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Los concesionarios de derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en Territorio Nacional, que proporcionen el servicio de provisión de capacidad satelital pagarán por el uso, goce o aprovechamiento del espectro radioeléctrico en el tramo comprendido dentro del Territorio Nacional, por cada día de uso, conforme a las siguientes cuotas:
 
-I.- Por cada megahertz utilizado en territorio nacional para prestar servicios de telecomunicaciones en la banda C: .......................................................................................................... $152.08 II.- Por cada megahertz utilizado en territorio nacional para prestar servicios de telecomunicaciones en la banda Ku: ........................................................................................................ $232.71
+I.- Por cada megahertz utilizado en territorio nacional para prestar servicios de telecomunicaciones en la banda C: .......................................................................................................... $152.08
+
+II.- Por cada megahertz utilizado en territorio nacional para prestar servicios de telecomunicaciones en la banda Ku: ........................................................................................................ $232.71
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
 

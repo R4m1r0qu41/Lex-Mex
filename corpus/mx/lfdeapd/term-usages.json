@@ -1225,84 +1225,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1418-1438",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1419-1439",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1418,
-    "end_char": 1438
+    "start_char": 1419,
+    "end_char": 1439
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1542-1562",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1543-1563",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1542,
-    "end_char": 1562
+    "start_char": 1543,
+    "end_char": 1563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1815-1835",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1816-1836",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1815,
-    "end_char": 1835
+    "start_char": 1816,
+    "end_char": 1836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1899-1919",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1900-1920",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1899,
-    "end_char": 1919
+    "start_char": 1900,
+    "end_char": 1920
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1963-1973",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1964-1974",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
     "span": "Familiares",
-    "start_char": 1963,
-    "end_char": 1973
+    "start_char": 1964,
+    "end_char": 1974
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2071-2091",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2072-2092",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 2071,
-    "end_char": 2091
+    "start_char": 2072,
+    "end_char": 2092
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2269-2301",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2270-2302",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
     "span": "Declaración Especial de Ausencia",
-    "start_char": 2269,
-    "end_char": 2301
+    "start_char": 2270,
+    "end_char": 2302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2506-2538",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2507-2539",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
     "span": "Declaración Especial de Ausencia",
-    "start_char": 2506,
-    "end_char": 2538
+    "start_char": 2507,
+    "end_char": 2539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2557-2578",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2558-2579",
     "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
     "span": "Órgano Jurisdiccional",
-    "start_char": 2557,
-    "end_char": 2578
+    "start_char": 2558,
+    "end_char": 2579
   },
   {
     "schema_version": "0.1.0",

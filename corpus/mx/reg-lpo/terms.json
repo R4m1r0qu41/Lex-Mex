@@ -40,7 +40,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
     "fraction": "IV",
     "start_char": 806,
-    "end_char": 942,
+    "end_char": 943,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
     "fraction": "V",
-    "start_char": 942,
-    "end_char": 1207,
+    "start_char": 943,
+    "end_char": 1208,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
     "fraction": "VI",
-    "start_char": 1207,
-    "end_char": 1368,
+    "start_char": 1208,
+    "end_char": 1369,
     "basis": "express_definition"
   }
 ]

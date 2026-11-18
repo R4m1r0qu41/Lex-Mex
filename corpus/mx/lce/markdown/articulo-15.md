@@ -17,7 +17,9 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 # Artículo 15
 
-Las medidas de regulación y restricción no arancelarias a la exportación de mercancías, a que se refiere la fracción III del artículo [4](articulo-4o.md)o. de esta Ley, se podrán establecer en los siguientes casos: I. Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;
+Las medidas de regulación y restricción no arancelarias a la exportación de mercancías, a que se refiere la fracción III del artículo [4](articulo-4o.md)o. de esta Ley, se podrán establecer en los siguientes casos:
+
+I. Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;
 
 II. Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte.
 

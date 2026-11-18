@@ -31,7 +31,9 @@ V. Establecer los mecanismos de apoyo para el funcionamiento y operación de los
 
 VI. Difundir las actividades de la Institución en materia de derechos humanos y vinculación ciudadana;
 
-VII. Planear, programar, organizar, dirigir, controlar y evaluar las actividades y el funcionamiento de la unidad administrativa a su cargo; VIII. Ejercer las facultades que les sean delegadas y aquéllas que le correspondan por suplencia, así como realizar los actos que les instruya su superior;
+VII. Planear, programar, organizar, dirigir, controlar y evaluar las actividades y el funcionamiento de la unidad administrativa a su cargo;
+
+VIII. Ejercer las facultades que les sean delegadas y aquéllas que le correspondan por suplencia, así como realizar los actos que les instruya su superior;
 
 IX. Formular dictámenes, opiniones e informes, en el ámbito de su competencia, así como los que le sean solicitados por su superior;
 
@@ -49,7 +51,7 @@ XV. Suscribir los documentos que sean inherentes al ejercicio de sus atribucione
 
 XVI. Aplicar los ordenamientos que integran el marco jurídico de la Institución, en el ámbito de su competencia y demás disposiciones jurídicas o que le sean delegadas y, en su caso, resolver los recursos administrativos que al respecto se promuevan;
 
-XVII. Suministrar e integrar a las bases de datos de la Institución y del Sistema Nacional de Información en Seguridad Pública, la información que obtenga con motivo del ejercicio de sus atribuciones;
+XVII. Suministrar e integrar a las bases de datos de la Institución y del [Sistema](articulo-2.md) Nacional de Información en Seguridad Pública, la información que obtenga con motivo del ejercicio de sus atribuciones;
 
 XVIII. Consultar y aprovechar la información que se genere en las bases de datos de la [Secretaría](articulo-2.md), para el desempeño de sus funciones;
 
@@ -61,6 +63,8 @@ XXI. Expedir copias certificadas de los documentos que se encuentren en los arch
 
 XXII. Proponer los sistemas informáticos que requiera para el cumplimiento de sus atribuciones;
 
-XXIII. Operar los sistemas informáticos autorizados, así como preservar la información contenida en éstos y actualizarla periódicamente; XXIV. Administrar los recursos humanos de su adscripción de acuerdo con las disposiciones jurídicas aplicables,
+XXIII. Operar los sistemas informáticos autorizados, así como preservar la información contenida en éstos y actualizarla periódicamente;
+
+XXIV. Administrar los recursos humanos de su adscripción de acuerdo con las disposiciones jurídicas aplicables,
 
 XXV. Las demás que les confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el superior.

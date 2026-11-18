@@ -91,12 +91,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:17:term-usage:1004-1014",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:17:term-usage:1005-1015",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1004,
-    "end_char": 1014
+    "start_char": 1005,
+    "end_char": 1015
   },
   {
     "schema_version": "0.1.0",
@@ -172,12 +172,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:25:term-usage:3771-3781",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:25:term-usage:3772-3782",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:25",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3771,
-    "end_char": 3781
+    "start_char": 3772,
+    "end_char": 3782
   },
   {
     "schema_version": "0.1.0",
@@ -415,111 +415,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:1997-2007",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:1998-2008",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 1997,
-    "end_char": 2007
+    "start_char": 1998,
+    "end_char": 2008
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2442-2452",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2443-2453",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 2442,
-    "end_char": 2452
+    "start_char": 2443,
+    "end_char": 2453
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2549-2559",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2550-2560",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 2549,
-    "end_char": 2559
+    "start_char": 2550,
+    "end_char": 2560
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2883-2893",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:2884-2894",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 2883,
-    "end_char": 2893
+    "start_char": 2884,
+    "end_char": 2894
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:8744-8754",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:8747-8757",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 8744,
-    "end_char": 8754
+    "start_char": 8747,
+    "end_char": 8757
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:9528-9538",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:9531-9541",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 9528,
-    "end_char": 9538
+    "start_char": 9531,
+    "end_char": 9541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:9872-9882",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:9875-9885",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 9872,
-    "end_char": 9882
+    "start_char": 9875,
+    "end_char": 9885
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:10966-10976",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:10969-10979",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 10966,
-    "end_char": 10976
+    "start_char": 10969,
+    "end_char": 10979
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:11354-11362",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:11357-11365",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:hacienda",
     "span": "Hacienda",
-    "start_char": 11354,
-    "end_char": 11362
+    "start_char": 11357,
+    "end_char": 11365
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12774-12777",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12778-12781",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:uma",
     "span": "UMA",
-    "start_char": 12774,
-    "end_char": 12777
+    "start_char": 12778,
+    "end_char": 12781
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12834-12844",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12838-12848",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 12834,
-    "end_char": 12844
+    "start_char": 12838,
+    "end_char": 12848
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12958-12968",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:31:term-usage:12962-12972",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 12958,
-    "end_char": 12968
+    "start_char": 12962,
+    "end_char": 12972
   },
   {
     "schema_version": "0.1.0",
@@ -739,12 +739,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:42:term-usage:5972-5982",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:42:term-usage:5973-5983",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:42",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5972,
-    "end_char": 5982
+    "start_char": 5973,
+    "end_char": 5983
   },
   {
     "schema_version": "0.1.0",
@@ -802,21 +802,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:46:term-usage:4174-4184",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:46:term-usage:4175-4185",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:46",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 4174,
-    "end_char": 4184
+    "start_char": 4175,
+    "end_char": 4185
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:46:term-usage:4370-4380",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:46:term-usage:4371-4381",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:46",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4370,
-    "end_char": 4380
+    "start_char": 4371,
+    "end_char": 4381
   },
   {
     "schema_version": "0.1.0",
@@ -856,21 +856,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:51:term-usage:6662-6672",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:51:term-usage:6663-6673",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:51",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6662,
-    "end_char": 6672
+    "start_char": 6663,
+    "end_char": 6673
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:51:term-usage:7652-7662",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:51:term-usage:7653-7663",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:51",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 7652,
-    "end_char": 7662
+    "start_char": 7653,
+    "end_char": 7663
   },
   {
     "schema_version": "0.1.0",
@@ -892,21 +892,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:52-ter:term-usage:849-859",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:52-ter:term-usage:850-860",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:52-ter",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 849,
-    "end_char": 859
+    "start_char": 850,
+    "end_char": 860
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:58:term-usage:2648-2658",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:58:term-usage:2649-2659",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:58",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2648,
-    "end_char": 2658
+    "start_char": 2649,
+    "end_char": 2659
   },
   {
     "schema_version": "0.1.0",
@@ -1144,12 +1144,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:74-sexies:term-usage:1094-1104",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:74-sexies:term-usage:1095-1105",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:74-sexies",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 1094,
-    "end_char": 1104
+    "start_char": 1095,
+    "end_char": 1105
   },
   {
     "schema_version": "0.1.0",
@@ -1234,30 +1234,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:2250-2260",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:2251-2261",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:78",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2250,
-    "end_char": 2260
+    "start_char": 2251,
+    "end_char": 2261
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:2427-2437",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:2428-2438",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:78",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
     "span": "Plataforma",
-    "start_char": 2427,
-    "end_char": 2437
+    "start_char": 2428,
+    "end_char": 2438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:3514-3524",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:78:term-usage:3515-3525",
     "provision_id": "urn:lex-mx:federal:statute:lopsrm:article:78",
     "term_id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3514,
-    "end_char": 3524
+    "start_char": 3515,
+    "end_char": 3525
   },
   {
     "schema_version": "0.1.0",

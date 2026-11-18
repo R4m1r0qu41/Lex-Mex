@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["REG-LOINAH — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -39,7 +39,9 @@ IX. Aprobar, dar seguimiento y evaluar el desarrollo de los planes, programas, p
 
 X. Proponer al titular de la Secretaría Técnica los lineamientos para el manejo, traslado, destino, Conservación, protección, catalogación y consulta de los restos humanos bajo resguardo del Instituto, y en su oportunidad, aplicarlos y evaluarlos;
 
-XI. Elaborar, aplicar y dar seguimiento a los procedimientos de Conservación de restos humanos en colaboración con la Coordinación Nacional de Conservación del Patrimonio Cultural; XII. Generar, regular y administrar bases de datos para el análisis de la información producto de la investigación de restos humanos bajo resguardo del Instituto;
+XI. Elaborar, aplicar y dar seguimiento a los procedimientos de Conservación de restos humanos en colaboración con la Coordinación Nacional de Conservación del Patrimonio Cultural;
+
+XII. Generar, regular y administrar bases de datos para el análisis de la información producto de la investigación de restos humanos bajo resguardo del Instituto;
 
 XIII. Promover la actualización académica para la atención de dictámenes y peritajes antropológicos en las materias de su competencia, y
 

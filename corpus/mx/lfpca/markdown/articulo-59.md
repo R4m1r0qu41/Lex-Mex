@@ -17,8 +17,6 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 59
 
-El recurso de reclamación procederá en contra de las resoluciones de la Magistrada Instructora o el Magistrado Instructor que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquéllas que admitan o rechacen la intervención de la persona
-
-tercera. La reclamación se interpondrá ante la Sala o Sección respectiva, dentro de los diez días siguientes a aquél en que surta efectos la notificación de que se trate.
+El recurso de reclamación procederá en contra de las resoluciones de la Magistrada Instructora o el Magistrado Instructor que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio antes del cierre de instrucción; aquéllas que admitan o rechacen la intervención de la persona tercera. La reclamación se interpondrá ante la Sala o Sección respectiva, dentro de los diez días siguientes a aquél en que surta efectos la notificación de que se trate.
 
 Artículo reformado DOF 13-06-2016, 09-06-2026

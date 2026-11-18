@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["LFZEE — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -21,7 +21,9 @@ Para la aplicación de las sanciones previstas en esta Ley, la autoridad adminis
 
 I. Los daños que se hubieren producido o puedan producirse;
 
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción; III. La gravedad de la infracción, y
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción, y
 
 IV. La reincidencia del infractor.
 

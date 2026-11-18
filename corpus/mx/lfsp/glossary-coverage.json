@@ -8,10 +8,11 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
-      "provision_text_sha256": "7fb92363df4600dacd767df930497eea2b32002b333c09c30321355ff006d05f",
+      "provision_text_sha256": "57714629a79886ae6652b619bfd490ba7464f9119d21a4b2da98165558196809",
       "method": "established_pass",
       "fractions": [
         "I",
+        "II",
         "III",
         "IV",
         "V",
@@ -29,10 +30,10 @@
         "XVII"
       ],
       "unread_fractions": [],
-      "term_count": 16
+      "term_count": 17
     }
   ],
   "imports": [],
-  "term_count": 16,
+  "term_count": 17,
   "usage_count": 87
 }

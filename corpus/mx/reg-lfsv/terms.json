@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "III",
     "start_char": 654,
-    "end_char": 869,
+    "end_char": 870,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "IV",
-    "start_char": 869,
-    "end_char": 1269,
+    "start_char": 870,
+    "end_char": 1270,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "V",
-    "start_char": 1269,
-    "end_char": 1604,
+    "start_char": 1270,
+    "end_char": 1605,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "VI",
-    "start_char": 1604,
-    "end_char": 1929,
+    "start_char": 1605,
+    "end_char": 1930,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "VII",
-    "start_char": 1929,
-    "end_char": 1995,
+    "start_char": 1930,
+    "end_char": 1996,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "VIII",
-    "start_char": 1995,
-    "end_char": 2280,
+    "start_char": 1996,
+    "end_char": 2281,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "IX",
-    "start_char": 2280,
-    "end_char": 2803,
+    "start_char": 2281,
+    "end_char": 2804,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "X",
-    "start_char": 2803,
-    "end_char": 2863,
+    "start_char": 2804,
+    "end_char": 2864,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XI",
-    "start_char": 2863,
-    "end_char": 2922,
+    "start_char": 2864,
+    "end_char": 2923,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XII",
-    "start_char": 2922,
-    "end_char": 3082,
+    "start_char": 2923,
+    "end_char": 3083,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XIII",
-    "start_char": 3082,
-    "end_char": 3321,
+    "start_char": 3083,
+    "end_char": 3322,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XIV",
-    "start_char": 3321,
-    "end_char": 3630,
+    "start_char": 3322,
+    "end_char": 3631,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XV",
-    "start_char": 3630,
-    "end_char": 3799,
+    "start_char": 3631,
+    "end_char": 3800,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XVI",
-    "start_char": 3799,
-    "end_char": 4136,
+    "start_char": 3800,
+    "end_char": 4138,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XVII",
-    "start_char": 4136,
-    "end_char": 4304,
+    "start_char": 4138,
+    "end_char": 4306,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XVIII",
-    "start_char": 4304,
-    "end_char": 4781,
+    "start_char": 4306,
+    "end_char": 4783,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XIX",
-    "start_char": 4781,
-    "end_char": 4941,
+    "start_char": 4783,
+    "end_char": 4943,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XX",
-    "start_char": 4941,
-    "end_char": 5300,
+    "start_char": 4943,
+    "end_char": 5302,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXI",
-    "start_char": 5300,
-    "end_char": 5346,
+    "start_char": 5302,
+    "end_char": 5348,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXII",
-    "start_char": 5346,
-    "end_char": 5511,
+    "start_char": 5348,
+    "end_char": 5513,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXIII",
-    "start_char": 5511,
-    "end_char": 5648,
+    "start_char": 5513,
+    "end_char": 5650,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXIV",
-    "start_char": 5648,
-    "end_char": 5768,
+    "start_char": 5650,
+    "end_char": 5770,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXV",
-    "start_char": 5768,
-    "end_char": 5964,
+    "start_char": 5770,
+    "end_char": 5966,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXVI",
-    "start_char": 5964,
-    "end_char": 6123,
+    "start_char": 5966,
+    "end_char": 6125,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXVII",
-    "start_char": 6123,
-    "end_char": 6213,
+    "start_char": 6125,
+    "end_char": 6215,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXVIII",
-    "start_char": 6213,
-    "end_char": 6583,
+    "start_char": 6215,
+    "end_char": 6585,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXIX",
-    "start_char": 6583,
-    "end_char": 6957,
+    "start_char": 6585,
+    "end_char": 6960,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXX",
-    "start_char": 6957,
-    "end_char": 7158,
+    "start_char": 6960,
+    "end_char": 7161,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXXI",
-    "start_char": 7158,
-    "end_char": 7332,
+    "start_char": 7161,
+    "end_char": 7335,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXXII",
-    "start_char": 7332,
-    "end_char": 7584,
+    "start_char": 7335,
+    "end_char": 7587,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXXIII",
-    "start_char": 7584,
-    "end_char": 7730,
+    "start_char": 7587,
+    "end_char": 7733,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "fraction": "XXXIV",
-    "start_char": 7730,
-    "end_char": 7901,
+    "start_char": 7733,
+    "end_char": 7904,
     "basis": "express_definition"
   }
 ]

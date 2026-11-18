@@ -29,6 +29,8 @@ IV. La existencia de mayor Situación de Vulnerabilidad de la víctima u ofendid
 
 V. La relación que tenga la víctima u ofendido con su agresor;
 
-VI. El perfil psicológico y anímico de la víctima u ofendido, y REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS VII. La posibilidad de cada grupo de víctimas u ofendidos para acceder a medios de ayuda y asistencia sociales o privados.
+VI. El perfil psicológico y anímico de la víctima u ofendido, y
+
+VII. La posibilidad de cada grupo de víctimas u ofendidos para acceder a medios de ayuda y asistencia sociales o privados.
 
 Estos criterios se evaluarán y acreditarán conforme lo determinen las Reglas de Operación.

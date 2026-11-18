@@ -81,19 +81,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:oga:article:1048:reference:1547-1549:1048:direct",
+    "id": "urn:lex-mx:federal:statute:oga:article:1048:reference:1548-1550:1048:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:oga:article:1048",
     "source_span": "II",
-    "start_char": 1547,
-    "end_char": 1549,
+    "start_char": 1548,
+    "end_char": 1550,
     "target_instrument_id": "urn:lex-mx:federal:statute:oga",
     "target_provision_id": "urn:lex-mx:federal:statute:oga:article:1048",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 1547,
-        "end_char": 1549
+        "start_char": 1548,
+        "end_char": 1550
       }
     ],
     "basis": "express_cross_reference",

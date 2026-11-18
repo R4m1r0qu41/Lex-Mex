@@ -31,7 +31,9 @@ IV. Los certificados de inscripción de los prestadores de servicios forestales 
 
 V. Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente forestales;
 
-VI. Los decretos que establezcan zonas de restauración en terrenos forestales; VII. Los decretos que establezcan vedas forestales;
+VI. Los decretos que establezcan zonas de restauración en terrenos forestales;
+
+VII. Los decretos que establezcan vedas forestales;
 
 VIII. Avisos de colecta de germoplasma forestal con fines de conservación y restauración;
 

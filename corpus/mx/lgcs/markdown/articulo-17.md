@@ -17,7 +17,7 @@ source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 
 # Artículo 17
 
-La Secretaría de Gobernación administrará el uso de los [Tiempos de Estado](articulo-4.md) y de los [Tiempos Fiscales](articulo-4.md), conforme a lo dispuesto por la Ley Federal de Telecomunicaciones y Radiodifusión, así como por el Decreto del Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, salvo en el caso de los Tiempos Oficiales que en distintos momentos corresponda administrar al Instituto Nacional Electoral, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y a la legislación de la materia.
+La Secretaría de Gobernación administrará el uso de los [Tiempos de Estado](articulo-4.md) y de los [Tiempos Fiscales](articulo-4.md), conforme a lo dispuesto por la Ley Federal de Telecomunicaciones y Radiodifusión, así como por el Decreto del Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, salvo en el caso de los [Tiempos Oficiales](articulo-4.md) que en distintos momentos corresponda administrar al Instituto Nacional Electoral, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y a la legislación de la materia.
 
 La distribución de los Tiempos Fiscales se realizará en la proporción siguiente:
 

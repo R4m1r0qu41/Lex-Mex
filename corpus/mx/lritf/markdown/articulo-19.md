@@ -35,6 +35,8 @@ VII. Constituir depósitos en entidades financieras autorizadas para ello;
 
 VIII. Constituir los fideicomisos que resulten necesarios para el cumplimiento de su objeto social en términos de lo dispuesto en esta Ley;
 
-IX. Realizar inversiones permanentes en otras sociedades, siempre y cuando les presten servicios auxiliares, complementarios o de tipo inmobiliario; X. Realizar la cobranza extrajudicial o judicial de los créditos otorgados a los solicitantes por cuenta de los inversionistas, así como renegociar los términos y condiciones de dichos créditos, y
+IX. Realizar inversiones permanentes en otras sociedades, siempre y cuando les presten servicios auxiliares, complementarios o de tipo inmobiliario;
+
+X. Realizar la cobranza extrajudicial o judicial de los créditos otorgados a los solicitantes por cuenta de los inversionistas, así como renegociar los términos y condiciones de dichos créditos, y
 
 XI. Realizar los actos necesarios para la consecución de su objeto social.

@@ -7,8 +7,8 @@ provision_type: article
 number: "85"
 aliases: ["REG-LFMN — Artículo 85"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf
 source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 ---
@@ -30,6 +30,8 @@ lll. Las especificaciones técnicas que definan los caracteres específicos del 
 
 lV. Una breve exposición de las modalidades y periodicidad con que se deberán ejercer los controles de calidad sobre la producción del bien en sus diversas etapas, así como en la transformación y comercialización del mismo;
 
-V. El régimen de sanciones; VI. Las condiciones que establecerá para el otorgamiento de autorizaciones de uso de la marca, las cuales en todo caso permitirán el acceso a cualquier persona que produzca, importe o comercialice el bien al que se refiera la misma, y
+V. El régimen de sanciones;
+
+VI. Las condiciones que establecerá para el otorgamiento de autorizaciones de uso de la marca, las cuales en todo caso permitirán el acceso a cualquier persona que produzca, importe o comercialice el bien al que se refiera la misma, y
 
 Vll. El grado de concordancia del pliego de condiciones con las normas oficiales mexicanas, normas mexicanas y normas o lineamientos internacionales.

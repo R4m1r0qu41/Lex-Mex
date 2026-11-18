@@ -21,7 +21,9 @@ Las instituciones de crédito deberán presentar la información y documentació
 
 Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario, deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
 
-I. En el ejercicio de sus facultades; II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+I. En el ejercicio de sus facultades;
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
 
 III. Directamente de otras autoridades.
 

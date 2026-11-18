@@ -10,11 +10,11 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo III
 
 # Artículo 64
 
-La Comisión, oyendo la opinión del Banco de México, podrá requerir a las Instituciones, incrementos a su capital básico por los Financiamientos que otorguen, cuando a juicio de la Comisión resulte necesario, de conformidad con las disposiciones aplicables a dicha materia.
+La [Comisión](articulo-1.md), oyendo la opinión del Banco de [México](articulo-1.md), podrá requerir a las Instituciones, incrementos a su capital básico por los [Financiamientos](articulo-1.md) que otorguen, cuando a juicio de la Comisión resulte necesario, de conformidad con las disposiciones aplicables a dicha materia.

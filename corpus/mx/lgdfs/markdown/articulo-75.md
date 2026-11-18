@@ -19,7 +19,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 Los siguientes aprovechamientos forestales requieren la autorización en materia de impacto ambiental, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente:
 
-I. En selvas tropicales mayores a 20 hectáreas; II. En aprovechamientos de especies forestales de difícil regeneración, conforme al [Reglamento](articulo-7.md) y a las Normas Oficiales Mexicanas, y
+I. En selvas tropicales mayores a 20 hectáreas;
+
+II. En aprovechamientos de especies forestales de difícil regeneración, conforme al [Reglamento](articulo-7.md) y a las Normas Oficiales Mexicanas, y
 
 III. En áreas naturales protegidas.
 

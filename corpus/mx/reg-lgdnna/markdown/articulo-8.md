@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["REG-LGDNNA — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
 source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 ---
@@ -23,6 +23,8 @@ Las políticas de fortalecimiento familiar que promueva el Sistema Nacional de P
 
 I. Un diagnóstico periódico para determinar las causas de separación de las niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
-II. Las acciones para prevenir y atender las causas de separación que se hayan identificado en el diagnóstico a que se refiere la fracción anterior; III. El mecanismo para evaluar los resultados obtenidos con la implementación de las políticas a que se refiere este artículo, y
+II. Las acciones para prevenir y atender las causas de separación que se hayan identificado en el diagnóstico a que se refiere la fracción anterior;
+
+III. El mecanismo para evaluar los resultados obtenidos con la implementación de las políticas a que se refiere este artículo, y
 
 IV. Las demás que determine el Sistema Nacional de Protección Integral.

@@ -7,8 +7,8 @@ provision_type: article
 number: "112"
 aliases: ["REG-LFZEE — Artículo 112"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -23,7 +23,9 @@ I. El comprobante de pago que, en su caso, deba realizarse por el estudio y trá
 
 II. El instrumento en el que conste el acta constitutiva de la persona moral de que se trate y los poderes de sus representantes legales, o bien, el documento de identidad de la persona física;
 
-III. La acreditación de que cuenta con la experiencia técnica y financiera para realizar la [Actividad Económica Productiva](articulo-4.md) que se solicita; IV. Las proyecciones de sus recursos financieros, en particular, el monto de su capital y deuda, así como el monto de las inversiones comprometidas para su proyecto;
+III. La acreditación de que cuenta con la experiencia técnica y financiera para realizar la [Actividad Económica Productiva](articulo-4.md) que se solicita;
+
+IV. Las proyecciones de sus recursos financieros, en particular, el monto de su capital y deuda, así como el monto de las inversiones comprometidas para su proyecto;
 
 V. El número aproximado de trabajadores que pretende contratar para realizar las Actividades Económicas Productivas en la [Zona](articulo-4.md);
 

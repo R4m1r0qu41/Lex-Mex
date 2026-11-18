@@ -25,7 +25,9 @@ II. Resolver las contradicciones de criterios, tesis o jurisprudencias sustentad
 
 III. Resolver los juicios con características especiales, en términos de las disposiciones aplicables, incluidos aquellos que sean de competencia especial de la Primera y Segunda Secciones; con excepción de los que sean competencia exclusiva de la Tercera Sección;
 
-IV. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción; V. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones que emita y determinar las medidas que sean procedentes para la efectiva ejecución de sus sentencias;
+IV. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción;
+
+V. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones que emita y determinar las medidas que sean procedentes para la efectiva ejecución de sus sentencias;
 
 VI. En los asuntos del conocimiento del Pleno Jurisdiccional, ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente a la Sala de origen, en que se advierta una violación substancial al procedimiento, o cuando considere que se realice algún trámite en la instrucción;
 

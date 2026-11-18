@@ -27,7 +27,9 @@ III.- Las plataformas insulares en los términos de la Ley Federal del Mar y, en
 
 IV.- El lecho y el subsuelo del mar territorial y de las aguas marinas interiores;
 
-V.- Los inmuebles nacionalizados a que se refiere el Artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos; VI.- Los inmuebles federales que estén destinados de hecho o mediante un ordenamiento jurídico a un servicio público y los inmuebles equiparados a éstos conforme a esta Ley;
+V.- Los inmuebles nacionalizados a que se refiere el Artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos;
+
+VI.- Los inmuebles federales que estén destinados de hecho o mediante un ordenamiento jurídico a un servicio público y los inmuebles equiparados a éstos conforme a esta Ley;
 
 VII.- Los terrenos baldíos, nacionales y los demás bienes inmuebles declarados por la ley inalienables e imprescriptibles;
 

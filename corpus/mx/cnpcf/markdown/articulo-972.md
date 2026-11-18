@@ -23,7 +23,9 @@ I. Adoptar e implementar políticas, programas o soluciones informáticas que de
 
 II. Verificar la vigencia de los certificados digitales de las firmas electrónicas avanzadas;
 
-III. Verificar el adecuado funcionamiento de los programas o plataformas electrónicas que posibiliten las audiencias virtuales, así como las videoconferencias; IV. Usar comunicaciones electrónicas protegidas por algún mecanismo de seguridad como el cifrado;
+III. Verificar el adecuado funcionamiento de los programas o plataformas electrónicas que posibiliten las audiencias virtuales, así como las videoconferencias;
+
+IV. Usar comunicaciones electrónicas protegidas por algún mecanismo de seguridad como el cifrado;
 
 V. Corroborar que los enlaces y documentos electrónicos o mensajes de datos que se adjunten en correos o comunicaciones electrónicas estén libres de virus y código malicioso, y en caso contrario, aplicar los mecanismos necesarios para eliminar o corregir cualquier amenaza cibernética detectada;
 

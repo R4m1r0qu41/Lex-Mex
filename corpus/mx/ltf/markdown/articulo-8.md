@@ -19,7 +19,9 @@ source_sha256: ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa
 
 La [Tesorería](articulo-2.md), previa audiencia que se otorgue al [Auxiliar](articulo-2.md), podrá revocar la autorización otorgada conforme al [artículo anterior](articulo-7.md) en los casos siguientes:
 
-I. Estar en estado de intervención gerencial, administración cautelar, disolución, liquidación o concurso mercantil; II. Dejar de cumplir los requisitos para ser Auxiliar previstos en las disposiciones jurídicas aplicables;
+I. Estar en estado de intervención gerencial, administración cautelar, disolución, liquidación o concurso mercantil;
+
+II. Dejar de cumplir los requisitos para ser Auxiliar previstos en las disposiciones jurídicas aplicables;
 
 III. Incumplir parcial o totalmente las obligaciones a cargo del Auxiliar que deriven de la autorización;
 

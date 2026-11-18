@@ -166,20 +166,7 @@
     "end_char": 150,
     "target_instrument_id": "urn:lex-mx:federal:statute:lagra",
     "target_provision_id": "urn:lex-mx:federal:statute:lagra:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 158,
-        "end_char": 173
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 180,
-        "end_char": 192
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1417,11 +1404,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lagra:article:99:reference:530-533:100:direct",
+    "id": "urn:lex-mx:federal:statute:lagra:article:99:reference:531-534:100:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lagra:article:99",
     "source_span": "100",
-    "start_char": 530,
-    "end_char": 533,
+    "start_char": 531,
+    "end_char": 534,
     "target_instrument_id": "urn:lex-mx:federal:statute:lagra",
     "target_provision_id": "urn:lex-mx:federal:statute:lagra:article:100",
     "qualifiers": [],

@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["REG-LOINAH — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -31,7 +31,9 @@ V. Recuperar y conservar los monumentos y las zonas de monumentos, puestos en ri
 
 VI. Proponer a la autoridad federal competente los anteproyectos de declaratoria de monumentos y de zona de monumentos históricos, mediante la elaboración de expedientes técnicos de conformidad con la normativa vigente;
 
-VII. Dictaminar, autorizar y, en su caso, supervisar obras de Conservación y restauración del Patrimonio Cultural que lleven a cabo entidades públicas o privadas; VIII. Realizar proyectos y obras de Conservación y restauración de monumentos históricos que sean propiedad del Instituto, o se encuentren bajo su custodia, de conformidad con las disposiciones jurídicas aplicables;
+VII. Dictaminar, autorizar y, en su caso, supervisar obras de Conservación y restauración del Patrimonio Cultural que lleven a cabo entidades públicas o privadas;
+
+VIII. Realizar proyectos y obras de Conservación y restauración de monumentos históricos que sean propiedad del Instituto, o se encuentren bajo su custodia, de conformidad con las disposiciones jurídicas aplicables;
 
 IX. Establecer lineamientos y normas de Conservación y restauración a que deberán sujetarse la exposición, el almacenamiento, el embalaje y el transporte del Patrimonio Cultural y los Bienes de Interés Paleontológico;
 

@@ -29,7 +29,9 @@ IV.- El nombre propio de una persona física, siempre que no se confunda con una
 
 V.- Los sonidos;
 
-VI.- Los olores; VII.- La pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado; Fracción reformada DOF 03-04-2026
+VI.- Los olores;
+
+VII.- La pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado; Fracción reformada DOF 03-04-2026
 
 VIII.- De posición; Fracción adicionada DOF 03-04-2026
 

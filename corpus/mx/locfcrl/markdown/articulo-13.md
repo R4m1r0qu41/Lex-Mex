@@ -19,7 +19,9 @@ source_sha256: 1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48
 
 La [Junta de Gobierno](articulo-3.md) contará con una Secretaría Técnica, la cual deberá operar y ejecutar los acuerdos y determinaciones que adopte el órgano colegiado. Asimismo, tendrá las siguientes funciones:
 
-I. Proponer el contenido del orden del día de las sesiones; II. Coordinar las acciones necesarias para coadyuvar en la organización y desahogo de las sesiones;
+I. Proponer el contenido del orden del día de las sesiones;
+
+II. Coordinar las acciones necesarias para coadyuvar en la organización y desahogo de las sesiones;
 
 III. Revisar los proyectos de las actas de las sesiones;
 

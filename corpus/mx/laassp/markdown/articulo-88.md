@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Quinto · Capítulo Único
+
 # Artículo 88
 
-La [Secretaría](articulo-5.md) podrá verificar la calidad de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad. El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen. Título Sexto De las Infracciones y Sanciones Capítulo Único
+La [Secretaría](articulo-5.md) podrá verificar la calidad de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad. El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen.

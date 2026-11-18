@@ -21,7 +21,9 @@ La acción de responsabilidad consistente en indemnizar los daños y perjuicios 
 
 La acción de responsabilidad podrá ser ejercida:
 
-I. Por el Comerciante, y II. Por los accionistas de la sociedad de que se trate que, en lo individual o en su conjunto, tengan la titularidad de acciones con derecho a voto, incluso limitado o restringido, o sin derecho a voto, que representen el veinticinco por ciento o más del capital social de la sociedad.
+I. Por el Comerciante, y
+
+II. Por los accionistas de la sociedad de que se trate que, en lo individual o en su conjunto, tengan la titularidad de acciones con derecho a voto, incluso limitado o restringido, o sin derecho a voto, que representen el veinticinco por ciento o más del capital social de la sociedad.
 
 El demandante podrá transigir en juicio el monto de la indemnización por daños y perjuicios, siempre que previamente someta a aprobación del conciliador o síndico, según corresponda, los términos y condiciones del convenio judicial correspondiente. La falta de dicha formalidad será causa de nulidad relativa.
 

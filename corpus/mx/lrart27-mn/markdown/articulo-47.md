@@ -7,8 +7,8 @@ provision_type: article
 number: "47"
 aliases: ["LRART27-MN — Artículo 47"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf
 source_sha256: 547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8
 ---
@@ -29,6 +29,8 @@ IV.- Formular y presentar al Consejo los proyectos de reglamento interior y de l
 
 V.- Formular y presentar al Consejo los programas anuales y de mediano y largo plazos, de conformidad a las políticas, prioridades y objetivos de la planeación nacional;
 
-VI.- Presentar anualmente un informe de las actividades realizadas y de los resultados obtenidos en torno a los objetivos definidos en sus programas; VII.- Nombrar y remover a los servidores públicos del Organismo, así como contratar la prestación de servicios que se requieran, de acuerdo a las disposiciones en vigor, y proponer al Consejo Directivo los nombramientos y remociones de los funcionarios del nivel inmediato inferior, y
+VI.- Presentar anualmente un informe de las actividades realizadas y de los resultados obtenidos en torno a los objetivos definidos en sus programas;
+
+VII.- Nombrar y remover a los servidores públicos del Organismo, así como contratar la prestación de servicios que se requieran, de acuerdo a las disposiciones en vigor, y proponer al Consejo Directivo los nombramientos y remociones de los funcionarios del nivel inmediato inferior, y
 
 VIII.- Las demás que se deriven de las disposiciones aplicables a las entidades de la Administración Pública Paraestatal y le encomiende el Consejo Directivo.

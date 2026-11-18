@@ -33,4 +33,6 @@ VI. Si como resultado de la inspección y vigilancia se advierten infracciones a
 
 VII. Cuando fuera necesario, la Secretaría, solicitará a la Capitanía de Puerto que impida el zarpe del buque, o en su caso, hará lo conducente ante el comandante del aeropuerto cuando se trate de una aeronave;
 
-VIII. Con el objeto de evitar el vertimiento deliberado de los desechos o materias que se encuentren a bordo de un buque, estructura, plataforma, artefacto naval, almacén o aeronave, se tomarán las medidas correspondientes, y IX. Cuando se trate de aeronaves nacionales o extranjeras que se encuentren en los aeropuertos de la red nacional, el personal de la Secretaría deberá coordinar con el comandante del aeropuerto las facilidades requeridas para el cumplimiento de sus funciones.
+VIII. Con el objeto de evitar el vertimiento deliberado de los desechos o materias que se encuentren a bordo de un buque, estructura, plataforma, artefacto naval, almacén o aeronave, se tomarán las medidas correspondientes, y
+
+IX. Cuando se trate de aeronaves nacionales o extranjeras que se encuentren en los aeropuertos de la red nacional, el personal de la Secretaría deberá coordinar con el comandante del aeropuerto las facilidades requeridas para el cumplimiento de sus funciones.

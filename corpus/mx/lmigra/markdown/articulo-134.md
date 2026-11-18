@@ -17,7 +17,9 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 134
 
-Los extranjeros también podrán solicitar la regularización de su situación migratoria, salvo lo dispuesto en el artículo [43](articulo-43.md) de esta [Ley](articulo-3.md), cuando: I. Habiendo obtenido autorización para internarse de forma regular al país, hayan excedido el período de estancia inicialmente otorgado, siempre y cuando presenten su solicitud dentro de los sesenta días naturales siguientes al vencimiento del período de estancia autorizado, o
+Los extranjeros también podrán solicitar la regularización de su situación migratoria, salvo lo dispuesto en el artículo [43](articulo-43.md) de esta [Ley](articulo-3.md), cuando:
+
+I. Habiendo obtenido autorización para internarse de forma regular al país, hayan excedido el período de estancia inicialmente otorgado, siempre y cuando presenten su solicitud dentro de los sesenta días naturales siguientes al vencimiento del período de estancia autorizado, o
 
 II. Realicen actividades distintas a las que les permita su condición de estancia.
 

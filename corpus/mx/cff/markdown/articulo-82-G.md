@@ -27,6 +27,8 @@ III. El timbre fiscal digital del comprobante fiscal no cumpla con la especifica
 
 IV. El comprobante fiscal fue generado en una versión del estándar técnico no vigente al momento de su certificación, conforme a la especificación técnica señalada en las reglas de carácter general que emita el Servicio de Administración Tributaria.
 
-V. El comprobante fiscal incluye un complemento no vigente o no compatible con este, conforme a la especificación técnica que se publique en el portal del Servicio de Administración Tributaria. VI. Cuando el proveedor de certificación, certifique un comprobante fiscal o lo entregue fuera de los tiempos establecidos en la documentación técnica o normativa establecida por el Servicio de Administración Tributaria mediante reglas de carácter general.
+V. El comprobante fiscal incluye un complemento no vigente o no compatible con este, conforme a la especificación técnica que se publique en el portal del Servicio de Administración Tributaria.
+
+VI. Cuando el proveedor de certificación, certifique un comprobante fiscal o lo entregue fuera de los tiempos establecidos en la documentación técnica o normativa establecida por el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 Artículo adicionado DOF 12-11-2021

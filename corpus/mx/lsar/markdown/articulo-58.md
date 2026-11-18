@@ -33,7 +33,9 @@ III. Coadyuvar al proceso de localización de los trabajadores para permitir un 
 
 IV. Servir de concentradora y distribuidora de información relativa a los sistemas de ahorro para el retiro entre los participantes en dichos sistemas, los institutos de seguridad social y la Comisión;
 
-V. Establecer el procedimiento que permita que la información derivada de los sistemas de ahorro para el retiro fluya de manera ordenada entre los participantes en los sistemas de ahorro para el retiro, los institutos de seguridad social y la Comisión; VI. Indicar al operador de la cuenta concentradora para que éste efectúe las transferencias de recursos depositados en dicha cuenta a las cuentas de las administradoras;
+V. Establecer el procedimiento que permita que la información derivada de los sistemas de ahorro para el retiro fluya de manera ordenada entre los participantes en los sistemas de ahorro para el retiro, los institutos de seguridad social y la Comisión;
+
+VI. Indicar al operador de la cuenta concentradora para que éste efectúe las transferencias de recursos depositados en dicha cuenta a las cuentas de las administradoras;
 
 VII. Procurar mantener depurada la Base de Datos Nacional SAR. Para tal efecto, procurarán evitar la duplicidad de cuentas, incentivando la unificación y traspaso de las mismas a la última cuenta individual abierta por el trabajador, de conformidad a los procedimientos establecidos en el Reglamento de esta Ley. La unificación y traspaso se realizarán sin necesidad de solicitar previamente autorización del trabajador de que se trate; y
 

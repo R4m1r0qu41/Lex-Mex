@@ -19,7 +19,9 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 En adición a lo establecido en el artículo [32](articulo-32.md) del presente Reglamento, los permisos que se otorguen para la organización de sorteos deberán contener los siguientes datos:
 
-I. La descripción y el valor de los premios, así como el precio y la cantidad de los boletos emitidos; II. El procedimiento y la mecánica bajo los cuales se realizará el sorteo;
+I. La descripción y el valor de los premios, así como el precio y la cantidad de los boletos emitidos;
+
+II. El procedimiento y la mecánica bajo los cuales se realizará el sorteo;
 
 III. El área geográfica que abarcará la promoción del sorteo, en su caso;
 

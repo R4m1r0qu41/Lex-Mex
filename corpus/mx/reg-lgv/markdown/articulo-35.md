@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["REG-LGV — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -43,4 +43,6 @@ X. Nombrar y remover a los servidores públicos de la Comisión Ejecutiva que oc
 
 XI. Conducir la relación de la Comisión Ejecutiva con las dependencias y entidades de la Administración Pública Federal, organismos constitucionales autónomos, los poderes legislativo y judicial, tanto federales como estatales y autoridades competentes de las entidades federativas y municipios;
 
-XII. Conducir los vínculos con los organismos internacionales e instituciones extranjeras en materias afines al ámbito de competencia de la Comisión Ejecutiva, así como autoridades de otros países, en coordinación con la Secretaría de Relaciones Exteriores, y XIII. Las demás que la Ley, el presente Reglamento, el [Estatuto Orgánico](articulo-3.md), el Pleno de la Comisión Ejecutiva y otras disposiciones jurídicas aplicables le confieran.
+XII. Conducir los vínculos con los organismos internacionales e instituciones extranjeras en materias afines al ámbito de competencia de la Comisión Ejecutiva, así como autoridades de otros países, en coordinación con la Secretaría de Relaciones Exteriores, y
+
+XIII. Las demás que la Ley, el presente Reglamento, el [Estatuto Orgánico](articulo-3.md), el Pleno de la Comisión Ejecutiva y otras disposiciones jurídicas aplicables le confieran.

@@ -595,30 +595,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:851-866",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:852-867",
     "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
     "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
     "span": "Consejo General",
-    "start_char": 851,
-    "end_char": 866
+    "start_char": 852,
+    "end_char": 867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:897-906",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:898-907",
     "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
     "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
     "span": "Instituto",
-    "start_char": 897,
-    "end_char": 906
+    "start_char": 898,
+    "end_char": 907
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:958-973",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:959-974",
     "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
     "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
     "span": "Consejo General",
-    "start_char": 958,
-    "end_char": 973
+    "start_char": 959,
+    "end_char": 974
   },
   {
     "schema_version": "0.1.0",
@@ -757,12 +757,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrm:article:47:term-usage:460-471",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:47:term-usage:461-472",
     "provision_id": "urn:lex-mx:federal:statute:lfrm:article:47",
     "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
     "span": "Ley General",
-    "start_char": 460,
-    "end_char": 471
+    "start_char": 461,
+    "end_char": 472
   },
   {
     "schema_version": "0.1.0",

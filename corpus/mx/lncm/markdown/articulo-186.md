@@ -21,6 +21,8 @@ Los contratos de seguro marítimo podrán comprender todo interés asegurable le
 
 I. Las embarcaciones y los accesorios de éstas, cualesquiera que sea el lugar en que se encuentren, incluso en construcción;
 
-II. Las mercancías, sus contenedores o cualquiera otra clase de bienes a bordo; III. El valor de la renta o el flete según sea el caso, los desembolsos en que incurra quien organice una expedición marítima, así como las comisiones por la comercialización de la carga; y
+II. Las mercancías, sus contenedores o cualquiera otra clase de bienes a bordo;
+
+III. El valor de la renta o el flete según sea el caso, los desembolsos en que incurra quien organice una expedición marítima, así como las comisiones por la comercialización de la carga; y
 
 IV. La responsabilidad del propietario de la embarcación, naviero, arrendatario, arrendador, fletador, fletante, embarcador, operador, agente naviero y en general, toda responsabilidad derivada del ejercicio de la navegación o conexa a ella.

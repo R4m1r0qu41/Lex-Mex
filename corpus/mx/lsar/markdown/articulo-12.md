@@ -33,7 +33,9 @@ IV. Proponer a la Junta de Gobierno los proyectos de las disposiciones que compe
 
 V. Proponer a la Junta de Gobierno el nombramiento y remoción de los Vicepresidentes, del Secretario de la misma y del suplente de éste;
 
-VI. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro; VII. Nombrar y remover al demás personal de la Comisión;
+VI. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro;
+
+VII. Nombrar y remover al demás personal de la Comisión;
 
 VIII. Proveer en los términos de esta ley y demás relativas, el eficaz cumplimiento de sus preceptos;
 

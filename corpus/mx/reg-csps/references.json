@@ -3070,36 +3070,6 @@
         "text": "fracción III",
         "start_char": 30,
         "end_char": 42
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 74,
-        "end_char": 82
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, III, IV, VI, VII, VIII y XI",
-        "start_char": 126,
-        "end_char": 171
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 178,
-        "end_char": 188
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 190,
-        "end_char": 199
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, III, VII, VIII y IX",
-        "start_char": 224,
-        "end_char": 261
       }
     ],
     "basis": "express_cross_reference",

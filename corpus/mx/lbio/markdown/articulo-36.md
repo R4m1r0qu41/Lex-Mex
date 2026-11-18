@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["LBIO — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf
 source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 ---
@@ -35,7 +35,9 @@ VII. No cumplir con las Normas Oficiales Mexicanas;
 
 VIII. Incumplir de forma continua el pago de contribuciones y aprovechamientos por los servicios de supervisión de los permisos.
 
-Para efectos de esta fracción se considera que el incumplimiento es continuo cuando la persona permisionaria omita el pago por más de un ejercicio fiscal; IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
+Para efectos de esta fracción se considera que el incumplimiento es continuo cuando la persona permisionaria omita el pago por más de un ejercicio fiscal;
+
+IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
 
 X. Cuando se ponga en riesgo la seguridad alimentaria del país;
 

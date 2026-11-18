@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["REG-LPF — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -23,7 +23,9 @@ I. Procesar la información obtenida por las áreas de la [Institución](articul
 
 II. Supervisar la elaboración de constancias de las acciones realizadas, en el proceso de integración de la información, para llevar un control y seguimiento;
 
-III. Identificar y ubicar las estructuras delictivas que operan en las zonas con mayor incidencia por delitos contra la salud; IV. Integrar la información de utilidad para la prevención de delitos contra la salud para remitirla al área competente de esta Institución;
+III. Identificar y ubicar las estructuras delictivas que operan en las zonas con mayor incidencia por delitos contra la salud;
+
+IV. Integrar la información de utilidad para la prevención de delitos contra la salud para remitirla al área competente de esta Institución;
 
 V. Diseminar la información obtenida para su debida explotación por las áreas correspondientes;
 

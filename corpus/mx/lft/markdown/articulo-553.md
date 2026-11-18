@@ -25,7 +25,9 @@ II. Reunirse con el Director y los Asesores Técnicos, una vez al mes, por lo me
 
 III. Informar periódicamente al Secretario del Trabajo y Previsión Social de las actividades de la Comisión;
 
-IV. Citar y presidir las sesiones del Consejo de Representantes; V. Disponer la organización y vigilar el funcionamiento de las Comisiones Consultivas de la Comisión Nacional; Fracción reformada DOF 21-01-1988
+IV. Citar y presidir las sesiones del Consejo de Representantes;
+
+V. Disponer la organización y vigilar el funcionamiento de las Comisiones Consultivas de la Comisión Nacional; Fracción reformada DOF 21-01-1988
 
 VI. Presidir los trabajos de las Comisiones Consultivas o designar, en su caso, a quienes deban presidirlos; Fracción reformada DOF 21-01-1988
 

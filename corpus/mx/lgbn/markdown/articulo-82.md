@@ -29,7 +29,9 @@ IV.- Revisar y, en su caso, aprobar los proyectos de obras que le presente la as
 
 V.- Vigilar la construcción, reconstrucción, ampliación, conservación, mantenimiento y óptimo aprovechamiento de los inmuebles federales utilizados para fines religiosos;
 
-VI.- Revisar que las obras que se realicen en dichos inmuebles, cumplan con las normas y especificaciones técnicas de seguridad que establezcan las leyes locales; VII.- Suspender las obras u ordenar su modificación o demolición, cuando se ejecuten sin aprobación o sin ajustarse a los términos de ésta;
+VI.- Revisar que las obras que se realicen en dichos inmuebles, cumplan con las normas y especificaciones técnicas de seguridad que establezcan las leyes locales;
+
+VII.- Suspender las obras u ordenar su modificación o demolición, cuando se ejecuten sin aprobación o sin ajustarse a los términos de ésta;
 
 VIII.- Suspender el uso de los inmuebles cuando presenten daños estructurales que pongan en riesgo su estabilidad o la integridad física de las personas;
 

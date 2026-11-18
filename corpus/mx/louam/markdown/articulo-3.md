@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LOUAM — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf
 source_sha256: 8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40
 ---
@@ -25,4 +25,6 @@ II.- Planear y programar la enseñanza que imparta y sus actividades de investig
 
 III.- Expedir certificados de estudios y otorgar diplomas, títulos y grados académicos;
 
-IV.- Revalidar y establecer equivalencias de estudios del mismo tipo educativo, realizados en instituciones nacionales y extranjeras; y V.- Incorporar estudios y otorgar o retirar reconocimiento de validez para fines académicos, a los realizados en planteles particulares que impartan el mismo tipo de enseñanza, con planes y programas equivalentes.
+IV.- Revalidar y establecer equivalencias de estudios del mismo tipo educativo, realizados en instituciones nacionales y extranjeras; y
+
+V.- Incorporar estudios y otorgar o retirar reconocimiento de validez para fines académicos, a los realizados en planteles particulares que impartan el mismo tipo de enseñanza, con planes y programas equivalentes.

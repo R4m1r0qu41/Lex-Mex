@@ -19,7 +19,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 La programación, presupuesto, control, ejercicio y evaluación del gasto público se sujetará a sistemas de control presupuestario, los cuales serán de aplicación y observancia obligatoria para las dependencias y entidades, conforme a lo dispuesto en el artículo [45](../../lfprh/markdown/articulo-45.md) cuarto párrafo de la [Ley](articulo-2.md). Dichos sistemas se orientarán a la administración de los recursos públicos federales con base en los criterios establecidos en el artículo [1](../../lfprh/markdown/articulo-1.md) de la Ley.
 
-El desarrollo e implantación de los sistemas de control presupuestario se realizará bajo un enfoque integral del proceso presupuestario, y comprenderá los siguientes: I. Sistema del proceso integral de programación y presupuesto;
+El desarrollo e implantación de los sistemas de control presupuestario se realizará bajo un enfoque integral del proceso presupuestario, y comprenderá los siguientes:
+
+I. Sistema del proceso integral de programación y presupuesto;
 
 II. Sistema de control presupuestario de los servicios personales;
 

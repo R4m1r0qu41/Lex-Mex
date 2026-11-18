@@ -7,8 +7,8 @@ provision_type: article
 number: "56"
 aliases: ["REG-LFCE — Artículo 56"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf
 source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 ---
@@ -25,7 +25,9 @@ II. Licitaciones de acciones representativas del capital social de sociedades me
 
 III. Otorgamiento de concesiones y permisos que en términos de la legislación o disposiciones administrativas requieran la opinión de la Comisión;
 
-IV. Cesiones de concesiones y permisos y venta de acciones de empresas concesionarias o permisionarias, que en términos de la legislación o disposiciones administrativas aplicables requieran de la opinión de la Comisión; sin perjuicio de las obligaciones que, en su caso, correspondan al promovente en términos del Capítulo III de la Ley; V. Otorgamiento de concesiones para administradoras portuarias integrales, terminales marítimas e instalaciones portuarias; aeropuertos; transporte aéreo nacional regular; así como las cesiones de derechos de dichas concesiones;
+IV. Cesiones de concesiones y permisos y venta de acciones de empresas concesionarias o permisionarias, que en términos de la legislación o disposiciones administrativas aplicables requieran de la opinión de la Comisión; sin perjuicio de las obligaciones que, en su caso, correspondan al promovente en términos del Capítulo III de la Ley;
+
+V. Otorgamiento de concesiones para administradoras portuarias integrales, terminales marítimas e instalaciones portuarias; aeropuertos; transporte aéreo nacional regular; así como las cesiones de derechos de dichas concesiones;
 
 VI. Permisos para transporte y almacenamiento de gas natural y de transporte de gas licuado de petróleo por medios de ductos, y
 

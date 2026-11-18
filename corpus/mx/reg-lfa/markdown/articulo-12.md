@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LFA — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf
 source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 ---
@@ -17,7 +17,9 @@ source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 
 # Artículo 12
 
-Además de las funciones a que se refiere el artículo 15 de la Ley, corresponde a los responsables de los Archivos de Concentración de las Dependencias y Entidades: I. Planificar y promover la correcta Administración de los Documentos que se encuentren en el Archivo de Concentración;
+Además de las funciones a que se refiere el artículo 15 de la Ley, corresponde a los responsables de los Archivos de Concentración de las Dependencias y Entidades:
+
+I. Planificar y promover la correcta Administración de los Documentos que se encuentren en el Archivo de Concentración;
 
 II. Dar cumplimiento a las disposiciones en materia de Transferencia, concentración y disposición de la documentación del Archivo de Concentración;
 

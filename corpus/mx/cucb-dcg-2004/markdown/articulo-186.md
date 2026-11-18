@@ -24,7 +24,7 @@ Adicionalmente, al elaborar los lineamientos y procedimientos a que se refiere e
 
 I. Garantizar el adecuado manejo y control de los documentos que contengan la información confidencial de los clientes, a fin de asegurar que exclusivamente accedan a ella las personas que por sus funciones deban conocerla, con independencia de que sea objeto o no de los procesos de microfilmación o grabación a que se refieren las presentes disposiciones.
 
-II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secrecía respecto de la información relativa a las operaciones y servicios de sus clientes de conformidad con la Ley, estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
+II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secrecía respecto de la información relativa a las operaciones y servicios de sus clientes de conformidad con la [Ley](articulo-1.md), estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
 
 III. Evitar proporcionar a terceras personas, información que las casas de bolsa obtengan con motivo de la celebración de operaciones con sus clientes, para la comercialización de productos o servicios por parte de dichas personas, salvo que cuenten con el consentimiento expreso de sus clientes.
 

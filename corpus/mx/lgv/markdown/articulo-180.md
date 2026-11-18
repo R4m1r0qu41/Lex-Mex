@@ -7,8 +7,8 @@ provision_type: article
 number: "180"
 aliases: ["LGV — Artículo 180"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,9 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 180
 
-El Director General de la [Asesoría Jurídica](articulo-6.md) Federal tendrá las atribuciones siguientes: I. Organizar, dirigir, evaluar y controlar los servicios de Asesoría Jurídica de las [Víctimas](articulo-6.md) que se presten, así como sus unidades administrativas;
+El Director General de la [Asesoría Jurídica](articulo-6.md) Federal tendrá las atribuciones siguientes:
+
+I. Organizar, dirigir, evaluar y controlar los servicios de Asesoría Jurídica de las [Víctimas](articulo-6.md) que se presten, así como sus unidades administrativas;
 
 II. Conocer de las quejas que se presenten contra los [Asesores Jurídicos](articulo-6.md) de atención a víctimas y, en su caso, investigar la probable responsabilidad de los empleados de la Asesoría Jurídica Federal;
 
@@ -35,6 +37,6 @@ VIII. Elaborar un informe anual de labores sobre las actividades integrales desa
 
 IX. Elaborar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Junta Directiva, y
 
-X. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
+X. Las demás que sean necesarias para cumplir con el objeto de esta [Ley](articulo-6.md).
 
 Artículo reformado DOF 03-05-2013

@@ -7,8 +7,8 @@ provision_type: article
 number: "51"
 aliases: ["REG-LAGRA-MOPR — Artículo 51"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf
 source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 ---
@@ -17,7 +17,9 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 51
 
-Recibida una denuncia por excedentes en la propiedad privada, la Procuraduría solicitará la siguiente información: I. Del Registro Público de la Propiedad correspondiente, constancia de los predios que se encuentren inscritos a nombre del denunciado y, en su caso, la superficie de los mismos;
+Recibida una denuncia por excedentes en la propiedad privada, la Procuraduría solicitará la siguiente información:
+
+I. Del Registro Público de la Propiedad correspondiente, constancia de los predios que se encuentren inscritos a nombre del denunciado y, en su caso, la superficie de los mismos;
 
 II. Del Registro, informe en el que se precise si el denunciado es titular de derechos parcelarios, la superficie con que cuenta y la ubicación de la parcela, o si es tenedor de acciones o partes sociales serie T, el nombre de la sociedad, el número de acciones y la superficie que amparan;
 

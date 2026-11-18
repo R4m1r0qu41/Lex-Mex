@@ -7,8 +7,8 @@ provision_type: article
 number: "9o"
 aliases: ["LARCP — Artículo 9o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf
 source_sha256: 1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290
 ---
@@ -29,4 +29,6 @@ IV. Celebrar todo tipo de actos jurídicos para el cumplimiento de su objeto sie
 
 V. Participar por sí o asociadas con personas físicas o morales en la constitución, administración, sostenimiento y funcionamiento de instituciones de asistencia privada, planteles educativos e instituciones de salud, siempre que no persigan fines de lucro y sujetándose además de a la presente, a las leyes que regulan esas materias;
 
-VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y, VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.
+VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y,
+
+VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.

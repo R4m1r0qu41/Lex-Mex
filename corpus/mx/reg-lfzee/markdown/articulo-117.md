@@ -7,8 +7,8 @@ provision_type: article
 number: "117"
 aliases: ["REG-LFZEE — Artículo 117"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -23,7 +23,9 @@ I. Usar o tomar en arrendamiento los espacios o lotes industriales y recibir los
 
 II. Construir edificaciones e instalar maquinaria y equipo para realizar actividades económicas productivas en los espacios o lotes industriales que le correspondan en la Zona;
 
-III. Realizar las [Actividades Económicas Productivas](articulo-4.md) autorizadas en la Zona; IV. Obtener las autorizaciones, licencias y permisos que, en su caso, sean necesarios para la realización de Actividades Económicas Productivas de la Zona;
+III. Realizar las [Actividades Económicas Productivas](articulo-4.md) autorizadas en la Zona;
+
+IV. Obtener las autorizaciones, licencias y permisos que, en su caso, sean necesarios para la realización de Actividades Económicas Productivas de la Zona;
 
 V. Recibir los beneficios fiscales y sujetarse al régimen aduanero de la Zona, así como los demás incentivos y facilidades administrativas que se otorguen en la misma por los tres órdenes de gobierno;
 

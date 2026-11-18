@@ -17,6 +17,4 @@ source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
 
 # Artículo 102
 
-Si la declaración de huelga se considera legal, por el Tribunal Federal de Conciliación y Arbitraje, y si transcurrido el plazo de diez días a que se refiere el artículo [95](articulo-95.md), no se hubiere llegado a un entendimiento entre las partes, los trabajadores podrán suspender las labores. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Si la declaración de huelga se considera legal, por el Tribunal Federal de Conciliación y Arbitraje, y si transcurrido el plazo de diez días a que se refiere el artículo [95](articulo-95.md), no se hubiere llegado a un entendimiento entre las partes, los trabajadores podrán suspender las labores.

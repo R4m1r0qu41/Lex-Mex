@@ -7,8 +7,8 @@ provision_type: article
 number: "1o"
 aliases: ["LCMOPFIH — Artículo 1o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf
 source_sha256: c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742
 ---

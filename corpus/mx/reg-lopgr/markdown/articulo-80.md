@@ -35,7 +35,9 @@ VII. Organizar, implementar y supervisar que el funcionamiento de los Centros Fe
 
 VIII. Estudiar y proponer estrategias y procedimientos para la reorganización y funcionamiento de los Centros Federales de Arraigo dentro del marco de aplicación de la ley y respeto a los derechos humanos;
 
-IX. Operar y supervisar que los sistemas de seguridad de los Centros Federales de Arraigo se encuentren en condiciones óptimas de funcionamiento a fin de evitar que los arraigados se sustraigan de la acción de la justicia, así como salvaguardar su integridad física; X. Supervisar que en los Centros Federales de Arraigo las personas en arraigo reciban en forma adecuada alimentos, comunicación, atención médica y psicológica, así como la visita legalmente autorizada y contar con los programas internos de protección civil para casos de desastre;
+IX. Operar y supervisar que los sistemas de seguridad de los Centros Federales de Arraigo se encuentren en condiciones óptimas de funcionamiento a fin de evitar que los arraigados se sustraigan de la acción de la justicia, así como salvaguardar su integridad física;
+
+X. Supervisar que en los Centros Federales de Arraigo las personas en arraigo reciban en forma adecuada alimentos, comunicación, atención médica y psicológica, así como la visita legalmente autorizada y contar con los programas internos de protección civil para casos de desastre;
 
 XI. Ordenar y supervisar las medidas de seguridad previstas para la ejecución de traslados con motivo de alguna diligencia judicial o ministerial ordenada por autoridad competente o en casos de emergencia;
 

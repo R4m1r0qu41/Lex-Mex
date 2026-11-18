@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
-      "provision_text_sha256": "da02f273feb80ccbcd3583dffc1e2c23ffaa919c29ed89873d4db7757cc59385",
+      "provision_text_sha256": "e5ca3eba0f67ad4636d17a1eb437d2f5c3758fc431801c05b1e2a2c6ddec1757",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -32,10 +33,10 @@
         "XXI"
       ],
       "unread_fractions": [],
-      "term_count": 19
+      "term_count": 20
     }
   ],
   "imports": [],
-  "term_count": 19,
+  "term_count": 20,
   "usage_count": 164
 }

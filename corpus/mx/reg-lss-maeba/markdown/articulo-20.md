@@ -19,7 +19,9 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Los integrantes del [Comité Técnico](articulo-2.md) tendrán las funciones siguientes:
 
-I. Presidente: Proponer al Comité Técnico el orden del día de las sesiones ordinarias y extraordinarias; coordinar y dirigir las reuniones del Comité Técnico y convocar, sólo cuando se justifique, a reuniones extraordinarias; II. Secretario Ejecutivo: Vigilar la correcta expedición del orden del día y del listado de los asuntos que se tratarán, incluyendo los documentos de apoyo necesarios; remitir a cada integrante del Comité Técnico la documentación de los asuntos a tratar en la sesión a celebrarse, así como levantar el acta correspondiente de cada sesión.
+I. Presidente: Proponer al Comité Técnico el orden del día de las sesiones ordinarias y extraordinarias; coordinar y dirigir las reuniones del Comité Técnico y convocar, sólo cuando se justifique, a reuniones extraordinarias;
+
+II. Secretario Ejecutivo: Vigilar la correcta expedición del orden del día y del listado de los asuntos que se tratarán, incluyendo los documentos de apoyo necesarios; remitir a cada integrante del Comité Técnico la documentación de los asuntos a tratar en la sesión a celebrarse, así como levantar el acta correspondiente de cada sesión.
 
 También se encargará de registrar los acuerdos y realizar su seguimiento, de resguardar la documentación inherente al funcionamiento del Comité Técnico, y de aquellas otras que le encomienden el Presidente o el Comité Técnico.
 

@@ -35,7 +35,9 @@ VII. La condición o condiciones de pago a celebrar en el contrato; Fracción re
 
 VIII. La indicación de que, las proposiciones se presentarán a través de la [Plataforma](articulo-2.md), precisando los términos y condiciones para ello; Fracción reformada DOF 16-04-2025
 
-IX. Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que deberá llevarse a cabo después del tercer día natural contado a partir de la fecha de la publicación de la convocatoria en la Plataforma; Fracción reformada DOF 16-04-2025 X. La fecha, hora y lugar en que se llevará a cabo a través de la Plataforma la celebración de la junta de aclaraciones a la convocatoria de la licitación, que tendrá verificativo al día siguiente de la visita al sitio de la realización de los trabajos.
+IX. Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que deberá llevarse a cabo después del tercer día natural contado a partir de la fecha de la publicación de la convocatoria en la Plataforma; Fracción reformada DOF 16-04-2025
+
+X. La fecha, hora y lugar en que se llevará a cabo a través de la Plataforma la celebración de la junta de aclaraciones a la convocatoria de la licitación, que tendrá verificativo al día siguiente de la visita al sitio de la realización de los trabajos.
 
 En el caso de los servicios relacionados con la obra pública, cuando no sea necesaria la visita al sitio de los trabajos, la junta de aclaraciones se llevará a cabo después del tercer día natural contado a partir de la publicación de la convocatoria en la Plataforma; Fracción reformada DOF 16-04-2025
 
@@ -53,7 +55,9 @@ XV. La indicación de que las personas a que se refiere el segundo párrafo de l
 
 En el caso de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme al Título Sexto de esta Ley;
 
-XVI. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos; XVII. Ingeniería básica o proyecto ejecutivo, que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto; Fracción reformada DOF 16-04-2025
+XVI. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
+
+XVII. Ingeniería básica o proyecto ejecutivo, que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto; Fracción reformada DOF 16-04-2025
 
 XVIII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
 
@@ -75,7 +79,9 @@ XXIV. Señalamiento de las causas expresas de desechamiento, que afecten directa
 
 En el caso de que no se haya señalado de manera expresa la causa de desechamiento, no será procedente el desechamiento de la proposición; Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
 
-XXV. Porcentaje, forma y términos de las garantías que deban otorgarse; Fracción recorrida DOF 13-01-2016 XXVI. Incluir el modelo de contrato conforme los requisitos a que se refiere el artículo [46](articulo-46.md) de esta Ley, al cual se sujetarán las partes; Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
+XXV. Porcentaje, forma y términos de las garantías que deban otorgarse; Fracción recorrida DOF 13-01-2016
+
+XXVI. Incluir el modelo de contrato conforme los requisitos a que se refiere el artículo [46](articulo-46.md) de esta Ley, al cual se sujetarán las partes; Fracción recorrida DOF 13-01-2016. Reformada DOF 16-04-2025
 
 XXVII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo [78](articulo-78.md) de esta Ley; Fracción recorrida DOF 13-01-2016
 
@@ -93,7 +99,9 @@ XXXII. Precisar que será requisito el que los licitantes presenten a través de
 
 XXXII Bis. Precisar que será requisito que los licitantes acrediten haber presentado el manifiesto bajo protesta de decir verdad, mediante el cual afirmen o nieguen los vínculos o relaciones de negocios, laborales, profesionales, personales o de parentesco por consanguinidad o afinidad hasta el cuarto grado con las personas servidoras públicas que establece el Protocolo de Actuación en Contrataciones. Dicho manifiesto será presentado a través del medio electrónico que disponga la Secretaría; Fracción adicionada DOF 16-04-2025
 
-XXXII Ter. Precisar que será requisito el que los licitantes presenten un escrito en el que su firmante manifieste bajo protesta de decir verdad, que no ejecuta con otro participante acciones que impliquen o tengan por objeto obtener un beneficio, ventaja indebida en el procedimiento o sobre los demás licitantes, u ocasionar un daño a la [Hacienda](articulo-2.md) Pública, o al patrimonio de los entes públicos, y Fracción adicionada DOF 16-04-2025 XXXIII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación. Fracción recorrida DOF 13-01-2016
+XXXII Ter. Precisar que será requisito el que los licitantes presenten un escrito en el que su firmante manifieste bajo protesta de decir verdad, que no ejecuta con otro participante acciones que impliquen o tengan por objeto obtener un beneficio, ventaja indebida en el procedimiento o sobre los demás licitantes, u ocasionar un daño a la [Hacienda](articulo-2.md) Pública, o al patrimonio de los entes públicos, y Fracción adicionada DOF 16-04-2025
+
+XXXIII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación. Fracción recorrida DOF 13-01-2016
 
 Para la participación, adjudicación o contratación de obras públicas o servicios relacionados con las mismas no podrán establecerse requisitos que tengan por objeto o efecto limitar el proceso de competencia y libre concurrencia. Se entenderá que no se limita la libre participación, cuando con la investigación de mercado correspondiente al procedimiento de contratación, se constate por regla general la existencia de al menos tres probables interesados, de forma individual o de manera conjunta, que pudieran cumplir con los requerimientos de la dependencia o entidad. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir. La dependencia o entidad convocante tomará en cuenta las recomendaciones previas que, en su caso, emita la autoridad competente en materia de libre competencia y concurrencia, en términos de las disposiciones jurídicas aplicables. Párrafo reformado DOF 16-04-2025
 

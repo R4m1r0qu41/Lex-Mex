@@ -23,7 +23,9 @@ I. El desarrollo del tratamiento clínico;
 
 II. La rehabilitación e integración comunitaria.
 
-Las medidas disciplinarias podrán ser: I. Aumentar la frecuencia de la supervisión judicial;
+Las medidas disciplinarias podrán ser:
+
+I. Aumentar la frecuencia de la supervisión judicial;
 
 II. Aumentar la frecuencia de pruebas toxicológicas, y
 

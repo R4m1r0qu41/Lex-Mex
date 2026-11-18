@@ -21,6 +21,4 @@ Se tendrá por desistida de la acción y de la demanda intentada, a toda persona
 
 No operará la caducidad, aún cuando el término transcurra, por el desahogo de diligencias que deban practicarse fuera del local del Tribunal o por estar pendientes de recibirse informes o copias certificadas que hayan sido solicitadas.
 
-Artículo reformado DOF 20-01-1967 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Artículo reformado DOF 20-01-1967

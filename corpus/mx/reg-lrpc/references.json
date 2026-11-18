@@ -1,11 +1,11 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:reference:1180-1182:11:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:reference:1181-1183:11:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "source_span": "11",
-    "start_char": 1180,
-    "end_char": 1182,
+    "start_char": 1181,
+    "end_char": 1183,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:11",
     "qualifiers": [],
@@ -17,19 +17,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:reference:3234-3236:15:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:reference:3235-3237:15:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "source_span": "15",
-    "start_char": 3234,
-    "end_char": 3236,
+    "start_char": 3235,
+    "end_char": 3237,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XVIII",
-        "start_char": 3206,
-        "end_char": 3220
+        "start_char": 3207,
+        "end_char": 3221
       }
     ],
     "basis": "express_cross_reference",
@@ -40,11 +40,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2:reference:1696-1697:5:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2:reference:1697-1698:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
     "source_span": "5",
-    "start_char": 1696,
-    "end_char": 1697,
+    "start_char": 1697,
+    "end_char": 1698,
     "target_instrument_id": "urn:lex-mx:federal:statute:lffaosc",
     "target_provision_id": "urn:lex-mx:federal:statute:lffaosc:article:5",
     "qualifiers": [],

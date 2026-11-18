@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["LSEM — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf
 source_sha256: 012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21
 ---
@@ -45,7 +45,9 @@ En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga
 
 Una vez presentado el escrito de defensa no se podrán ofrecer más pruebas, salvo aquellas que sean supervenientes, siempre que no se haya emitido resolución definitiva;
 
-VI. Dentro de los quince días hábiles siguientes a la fecha en que el presunto infractor presente su escrito de defensa, el Presidente de la Subcomisión de Asuntos Disciplinarios deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo; VII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Subcomisión de Asuntos Disciplinarios declarará abierto el periodo de alegatos por un término de quince días hábiles. Dicho plazo no podrá ser prorrogado;
+VI. Dentro de los quince días hábiles siguientes a la fecha en que el presunto infractor presente su escrito de defensa, el Presidente de la Subcomisión de Asuntos Disciplinarios deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
+
+VII. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la Subcomisión de Asuntos Disciplinarios declarará abierto el periodo de alegatos por un término de quince días hábiles. Dicho plazo no podrá ser prorrogado;
 
 VIII. Una vez trascurrido el periodo de alegatos, la Subcomisión de Asuntos Disciplinarios, de oficio, declarará cerrada la instrucción y contará con un término de treinta días hábiles para formular la resolución que estime pertinente, y para turnarla a la Comisión de Personal.
 

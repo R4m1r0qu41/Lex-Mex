@@ -7,8 +7,8 @@ provision_type: article
 number: "66"
 aliases: ["REG-LPF — Artículo 66"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -45,7 +45,9 @@ XII. Diseñar y proponer un plan de continuidad para los equipos y sistemas vinc
 
 XIII. Implementar campañas de difusión para la prevención y denuncia de los delitos que se cometen utilizando medios cibernéticos, electrónicos o tecnológicos;
 
-XIV. Asesorar y capacitar a otras áreas en materia de seguridad informática; XV. Operar el equipo de respuesta a incidentes de seguridad informática en la infraestructura informática crítica de México, colaborando con los diferentes órdenes de gobierno y actores sociales;
+XIV. Asesorar y capacitar a otras áreas en materia de seguridad informática;
+
+XV. Operar el equipo de respuesta a incidentes de seguridad informática en la infraestructura informática crítica de México, colaborando con los diferentes órdenes de gobierno y actores sociales;
 
 XVI. Analizar y proponer esquemas de seguridad para los dispositivos móviles empleados en la Institución;
 

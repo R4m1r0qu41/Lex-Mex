@@ -29,7 +29,9 @@ IV.- La regulación de actividades que no sean consideradas altamente riesgosas 
 
 V.- El establecimiento, regulación, administración y vigilancia de las áreas naturales protegidas previstas en la legislación local, con la participación de los gobiernos municipales;
 
-VI.- La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos de conformidad con lo dispuesto por el artículo [137](articulo-137.md) de la presente Ley; VII. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que conforme a lo establecido en esta Ley no sean de competencia federal; Fracción reformada DOF 18-01-2021
+VI.- La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos de conformidad con lo dispuesto por el artículo [137](articulo-137.md) de la presente Ley;
+
+VII. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que conforme a lo establecido en esta Ley no sean de competencia federal; Fracción reformada DOF 18-01-2021
 
 VIII.- La regulación del aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que tengan asignadas;
 
@@ -57,6 +59,8 @@ XIX.- La emisión de recomendaciones a las autoridades competentes en materia am
 
 XX.- La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas; Fracción reformada DOF 28-01-2011
 
-XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011 XXII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación. Fracción recorrida DOF 28-01-2011
+XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011
+
+XXII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación. Fracción recorrida DOF 28-01-2011
 
 Artículo reformado DOF 13-12-1996

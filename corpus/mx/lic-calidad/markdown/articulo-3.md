@@ -55,4 +55,6 @@ XVI. Concertar, en el ámbito de su competencia, los acuerdos de reconocimiento 
 
 XVII. Participar, en el ámbito de su competencia, en la elaboración de las [Normas Internacionales](articulo-4.md);
 
-XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
+XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y
+
+XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.

@@ -21,7 +21,9 @@ El mandato termina:
 
 I. Por la revocación;
 
-II. Por la renuncia del mandatario; III. Por la muerte del mandante o del mandatario;
+II. Por la renuncia del mandatario;
+
+III. Por la muerte del mandante o del mandatario;
 
 IV. Por la interdicción de uno u otro;
 

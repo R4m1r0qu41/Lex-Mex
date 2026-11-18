@@ -23,6 +23,8 @@ I. A entregar al arrendatario la finca arrendada con todas sus pertenencias y en
 
 II. A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
-III. A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables; IV. A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato;
+III. A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
+
+IV. A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato;
 
 V. A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.

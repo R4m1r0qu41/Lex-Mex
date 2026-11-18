@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo IV
@@ -25,6 +25,8 @@ II. Se deroga Fracción reformada DOF 15-12-1934, 31-12-1994. Derogada DOF 15-09
 
 III. Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo [96](articulo-96.md) de esta Constitución título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica; Fracción reformada DOF 15-12-1934, 31-12-1994, 15-09-2024
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena. V. Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo [96](articulo-96.md) de esta Constitución; y Fracción reformada DOF 31-12-1994, 15-09-2024
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+V. Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo [96](articulo-96.md) de esta Constitución; y Fracción reformada DOF 31-12-1994, 15-09-2024
 
 VI. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal, ni titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo [96](articulo-96.md) de esta Constitución. Fracción adicionada DOF 31-12-1994. Reformada DOF 02-08-2007, 10-02-2014, 29-01-2016, 15-09-2024 Reforma DOF 15-09-2024: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 31-12-1994)

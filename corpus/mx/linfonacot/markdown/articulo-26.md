@@ -21,7 +21,9 @@ El Comité de Recursos Humanos, estará integrado de la siguiente forma:
 
 I. Un representante de la [Secretaría del Trabajo](articulo-4.md);
 
-II. Un representante de la [Secretaría de Hacienda](articulo-4.md); III. Un representante de la Secretaría de la Función Pública;
+II. Un representante de la [Secretaría de Hacienda](articulo-4.md);
+
+III. Un representante de la Secretaría de la Función Pública;
 
 IV. El responsable del área de administración del [Instituto](articulo-4.md), y
 

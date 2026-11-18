@@ -20,5 +20,3 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 La [Secretaría](articulo-3o.md) aceptará los certificados de firma electrónica emitidos por los prestadores de servicios de certificación que estén acreditados en los términos del Código de Comercio, así como los que ella misma emita, para efecto de los trámites y notificaciones relacionadas con las regulaciones no arancelarias y los programas previstos en la presente Ley.
 
 Artículo adicionado DOF 24-01-2006
-
-Sección segunda Permisos previos, cupos y marcado de país de origen

@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["LDRS — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -27,7 +27,9 @@ III. Un representante del Consejo de Certificación y Normalización de Competen
 
 IV. Un representante del [Consejo Mexicano](articulo-3o.md) y otro de los [Consejos Estatales](articulo-3o.md);
 
-V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional; VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
+V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional;
+
+VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
 
 VII. Representantes de las instituciones educativas y de desarrollo tecnológico agropecuario, agroindustrial y forestal;
 

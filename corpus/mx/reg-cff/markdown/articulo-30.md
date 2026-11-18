@@ -59,7 +59,9 @@ VIII. El aviso de apertura de sucesión se presentará por el representante lega
 
 No se estará obligado a presentar el aviso a que se refiere esta fracción cuando la persona que fallezca hubiera estado obligada a presentar declaración periódica únicamente por servicios personales o se encuentre en suspensión de actividades excepto, en este último caso, cuando el contribuyente tenga créditos fiscales determinados;
 
-IX. El aviso de cancelación en el registro federal de contribuyentes por defunción se presentará por cualquier familiar de la persona que fallezca o tercero interesado, siempre que no se actualicen los supuestos para la presentación del aviso de apertura de sucesión; X. El aviso de cancelación en el registro federal de contribuyentes por liquidación de la sucesión se presentará por el representante legal de la sucesión cuando se haya dado por finalizada la liquidación de la misma;
+IX. El aviso de cancelación en el registro federal de contribuyentes por defunción se presentará por cualquier familiar de la persona que fallezca o tercero interesado, siempre que no se actualicen los supuestos para la presentación del aviso de apertura de sucesión;
+
+X. El aviso de cancelación en el registro federal de contribuyentes por liquidación de la sucesión se presentará por el representante legal de la sucesión cuando se haya dado por finalizada la liquidación de la misma;
 
 XI. El aviso de cancelación en el registro federal de contribuyentes por liquidación total del activo, se presentará por los contribuyentes que tributen en los términos del Título II de la Ley del Impuesto sobre la Renta, conjuntamente con la declaración final de la liquidación total del activo de la sociedad a que se refiere el artículo 12 de la citada Ley.
 

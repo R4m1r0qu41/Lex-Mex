@@ -35,7 +35,9 @@ VII. Carga: La colocación de bienes o mercancías que se encuentren en cualquie
 
 VIII. Descarga: El retiro de bienes o mercancías colocadas en un medio de transporte marítimo o terrestre para depositarlas en cualquier lugar de la parte terrestre del Recinto Portuario u otros medios de transporte marítimos o terrestres;
 
-IX. Estiba: El acomodo de bienes o mercancías; X. Destino: Es el tipo de Terminal o Instalación Portuaria, considerando la Carga, la recepción de pasajeros o área de uso común, a la que específicamente se prevea dedicar determinada zona del Recinto Portuario o áreas cesionadas;
+IX. Estiba: El acomodo de bienes o mercancías;
+
+X. Destino: Es el tipo de Terminal o Instalación Portuaria, considerando la Carga, la recepción de pasajeros o área de uso común, a la que específicamente se prevea dedicar determinada zona del Recinto Portuario o áreas cesionadas;
 
 XI. Ley: La Ley de Puertos;
 

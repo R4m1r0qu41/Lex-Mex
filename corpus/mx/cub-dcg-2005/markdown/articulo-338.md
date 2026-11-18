@@ -11,14 +11,14 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [43]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo XIII
 
 # Artículo 338
 
-Las Instituciones deberán establecer e implementar en todas sus Oficinas Bancarias, las medidas indispensables de seguridad y protección siguientes:
+Las Instituciones deberán establecer e implementar en todas sus [Oficinas Bancarias](articulo-1.md), las medidas indispensables de seguridad y protección siguientes:
 
 I. Las relativas a la seguridad física de las instalaciones donde se encuentran los equipos de cómputo y telecomunicaciones.
 
@@ -36,6 +36,6 @@ d) Procedimiento de datos, sistemas, programas y medios automatizados.
 
 e) Información confidencial.
 
-Asimismo, las Instituciones deberán contar con una Unidad Especializada de seguridad y protección.
+Asimismo, las Instituciones deberán contar con una [Unidad Especializada](articulo-1.md) de seguridad y protección.
 
-En el caso en que las Instituciones reciban recursos de sus clientes en efectivo o en cheque, en términos del Artículo 46 Bis 1 de la Ley y de lo dispuesto por la Sección Segunda del Capítulo XI del Título Quinto de las presentes disposiciones, deberán ajustarse a lo dispuesto en dicha sección.
+En el caso en que las Instituciones reciban recursos de sus clientes en efectivo o en cheque, en términos del Artículo 46 Bis 1 de la [Ley](articulo-1.md) y de lo dispuesto por la Sección Segunda del Capítulo XI del Título Quinto de las presentes disposiciones, deberán ajustarse a lo dispuesto en dicha sección.

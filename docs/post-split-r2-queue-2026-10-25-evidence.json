@@ -1,0 +1,70 @@
+{
+ "date": "2026-10-25",
+ "basis": "branch ef28b9619 corpus, adapters, validation, database projection bb8a77dd\u2026",
+ "read_only": true,
+ "all_unknown_instruments": 246,
+ "derive_temporal_buckets": {
+  "commencement resolved via day_after_publication (N-N-N); N repealed, N classified from commencement": 143,
+  "commencement skipped (multiple-commencement-clauses: N ordinary transitories mention entering into force)": 29,
+  "commencement resolved via relative_days (N-N-N); N repealed, N classified from commencement": 17,
+  "commencement skipped (no-commencement-clause: no ordinary transitory mentions entering into force)": 16,
+  "commencement skipped (unrecognized-commencement-pattern: commencement clause found but its shape is not recognized)": 10,
+  "commencement skipped (exception-or-conditional-language: commencement clause carries a qualifier: \"salvo\")": 6,
+  "commencement skipped (business-days-period: commencement period is in business days)": 5,
+  "commencement skipped (exception-or-conditional-language: commencement clause carries a qualifier: \"sin perjuicio\")": 3,
+  "commencement resolved via same_day_as_publication (N-N-N); N repealed, N classified from commencement": 3,
+  "commencement resolved via literal_date (N-N-N); N repealed, N classified from commencement": 3,
+  "commencement skipped (unsupported-relative-period-unit: commencement period unit \"mes\" is not computed)": 2,
+  "commencement skipped (exception-or-conditional-language: commencement clause carries a qualifier: \"gradual\")": 2,
+  "urn:lex-mx:federal:statute:lexp (no ordinary transitories); N repealed": 1,
+  "urn:lex-mx:federal:statute:lftr (no ordinary transitories); N repealed": 1,
+  "urn:lex-mx:federal:statute:lisipl (no ordinary transitories); N repealed": 1,
+  "commencement skipped (exception-or-conditional-language: commencement clause carries a qualifier: \"con excepci\u00f3n\")": 1,
+  "urn:lex-mx:federal:statute:lrascap (no ordinary transitories); N repealed": 1,
+  "urn:lex-mx:federal:statute:lscs (no ordinary transitories); N repealed": 1,
+  "urn:lex-mx:federal:statute:lsrlip (no ordinary transitories); N repealed": 1
+ },
+ "counts": {
+  "active_debt": 0,
+  "retired_debt": 17,
+  "unrecovered_missing_inputs": 0,
+  "changed_editions": 5,
+  "ingested": 3,
+  "held": 2,
+  "accepted_gaps": 3,
+  "legal_operator_reviews": 16,
+  "outdated_approvals": 17,
+  "pending_review_items": 0,
+  "review_status": {
+   "not_analyzed": 48062,
+   "machine_accepted": 20302,
+   "lawyer_verified": 2,
+   "review_required": 1
+  },
+  "temporal": {
+   "unknown": 46742,
+   "effective": 16073,
+   "repealed": 5550,
+   "partially_repealed": 2
+  }
+ },
+ "oga": "no exact publication day",
+ "latest_reform_date_gaps": [
+  "cpeum",
+  "lgs",
+  "lmeum",
+  "lcndh",
+  "lffmaa",
+  "cfpc",
+  "lfpc",
+  "reg-lspee-ma",
+  "ligie"
+ ],
+ "legal_state_changed": 0,
+ "derive_temporal_summary": {
+  "resolvable_by_existing_rule_not_applied": 166,
+  "skipped_with_named_reason": 74,
+  "no_ordinary_transitories": 6,
+  "total": 246
+ }
+}

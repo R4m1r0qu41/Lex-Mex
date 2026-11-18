@@ -31,7 +31,9 @@ Dichos subcomités no podrán tener las mismas funciones que los comités, salvo
 
 V. Elaborar y aprobar el manual de integración y funcionamiento del comité, en el cual se deberán considerar cuando menos las siguientes bases:
 
-a) Será presidido por la persona titular de la Unidad de Administración y Finanzas, en su caso, de la Oficialía Mayor o equivalente; Inciso reformado DOF 16-04-2025 b) Los vocales titulares deberán tener un nivel jerárquico mínimo de director general o equivalente;
+a) Será presidido por la persona titular de la Unidad de Administración y Finanzas, en su caso, de la Oficialía Mayor o equivalente; Inciso reformado DOF 16-04-2025
+
+b) Los vocales titulares deberán tener un nivel jerárquico mínimo de director general o equivalente;
 
 c) El número total de miembros del Comité deberá ser impar, quienes invariablemente deberán emitir su voto en cada uno de los asuntos que se sometan a su consideración;
 

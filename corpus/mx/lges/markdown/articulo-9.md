@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LGES — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -29,7 +29,9 @@ IV. Fomentar los conocimientos y habilidades digitales a fin de coadyuvar a la e
 
 V. Coadyuvar, a través de la generación, transmisión, aplicación y difusión del conocimiento, a la solución de los problemas locales, regionales, nacionales e internacionales, al cuidado y sustentabilidad del medio ambiente, así como al desarrollo sostenible del país y a la conformación de una sociedad más justa e incluyente;
 
-VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas; VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar al bienestar de la población;
+VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas;
+
+VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar al bienestar de la población;
 
 VIII. Desarrollar las habilidades de las personas que cursen educación superior para facilitar su incorporación a los sectores social, productivo y laboral, y
 

@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 86 Bis 4
 
-El [Consejo](articulo-1.md) será responsable de aprobar los objetivos, lineamientos y políticas en materia de originación y administración del crédito, los cuales deberán ser congruentes, compatibles y complementarios a los establecidos para la Administración Integral de Riesgos.
+El [Consejo](articulo-1.md) será responsable de aprobar los objetivos, lineamientos y políticas en materia de originación y administración del crédito, los cuales deberán ser congruentes, compatibles y complementarios a los establecidos para la [Administración Integral de Riesgos](articulo-1.md).
 
 El Consejo deberá designar a los comités y, en su caso, a los funcionarios de la unión de crédito responsables de elaborar los objetivos, lineamientos y políticas antes citados, así como para formular los cambios que en su oportunidad se estime pertinente realizar; pero en todo caso, unos y otros deberán ser aprobados por el propio Consejo.
 

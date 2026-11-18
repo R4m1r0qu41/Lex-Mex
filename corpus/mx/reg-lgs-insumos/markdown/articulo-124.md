@@ -23,7 +23,9 @@ I. Verificar que los medicamentos cuenten con registro sanitario, número de [Lo
 
 II. Preservar los [Insumos](articulo-2o.md) en las condiciones indicadas en el etiquetado;
 
-III. Verificar, cuando menos una vez al día, el funcionamiento y temperatura del refrigerador para la adecuada conservación de los medicamentos que así lo requieran y llevar el registro por día en una libreta foliada o sistema automático de control; IV. Vigilar que el equipo esté calibrado y el material limpio;
+III. Verificar, cuando menos una vez al día, el funcionamiento y temperatura del refrigerador para la adecuada conservación de los medicamentos que así lo requieran y llevar el registro por día en una libreta foliada o sistema automático de control;
+
+IV. Vigilar que el equipo esté calibrado y el material limpio;
 
 V. Identificar y almacenar las substancias que se empleen en las fórmulas magistrales;
 

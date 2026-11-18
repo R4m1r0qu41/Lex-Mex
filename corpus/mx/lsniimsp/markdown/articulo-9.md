@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LSNIIMSP — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf
 source_sha256: e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c
 ---
@@ -21,7 +21,9 @@ Atribuciones Para la realización de lo dispuesto en el artículo [7](articulo-7
 
 I. Emitir acuerdos para definir objetivos delictivos prioritarios y el tratamiento que deba dárseles, en términos de lo previsto en las leyes y códigos aplicables;
 
-II. Acordar la ejecución de operativos, operaciones especiales, acciones y medidas específicas para que las autoridades e instituciones dedicadas a la seguridad pública enfrenten situaciones o hechos concretos que amenacen o afecten la seguridad pública; III. Analizar y aprobar políticas, lineamientos, protocolos y acuerdos para el desarrollo de tareas de inteligencia en materia de seguridad pública, y evaluar su correcta y efectiva implementación para su constante mejoramiento, en congruencia con las decisiones del Consejo Nacional de Seguridad Pública, las acciones del Gabinete Federal de Seguridad y de conformidad con lo previsto en la política criminal, tanto la relativa a la seguridad pública, como la establecida para la procuración de justicia;
+II. Acordar la ejecución de operativos, operaciones especiales, acciones y medidas específicas para que las autoridades e instituciones dedicadas a la seguridad pública enfrenten situaciones o hechos concretos que amenacen o afecten la seguridad pública;
+
+III. Analizar y aprobar políticas, lineamientos, protocolos y acuerdos para el desarrollo de tareas de inteligencia en materia de seguridad pública, y evaluar su correcta y efectiva implementación para su constante mejoramiento, en congruencia con las decisiones del Consejo Nacional de Seguridad Pública, las acciones del Gabinete Federal de Seguridad y de conformidad con lo previsto en la política criminal, tanto la relativa a la seguridad pública, como la establecida para la procuración de justicia;
 
 IV. Emitir acuerdos generales de observancia obligatoria para todas las autoridades del Estado mexicano, en cuanto a la generación, el uso, manejo y aprovechamiento de información en materia de inteligencia para preservar la paz social y la seguridad pública;
 

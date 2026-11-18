@@ -21,7 +21,9 @@ El acta de protesta se presentará ante el capitán de puerto y se sujetará a l
 
 I. Deberá levantarse dentro de las veinticuatro horas siguientes al arribo de la embarcación o en su caso, al momento en que se hubiere producido el suceso denunciado;
 
-II. El denunciante expondrá los hechos, actos u omisiones materia de la denuncia en forma detallada y circunstanciada; III. De oficio o a petición del denunciante, el capitán de puerto estará facultado para requerir la declaración de toda persona involucrada en los hechos denunciados o conocedora de ellos, así como para realizar las inspecciones y mandar practicar los peritajes que fueren convenientes para determinar las circunstancias en que se produjeron los acontecimientos denunciados, sus probables causas, los daños ocasionados y las personas a quienes podría imputarse responsabilidad; y
+II. El denunciante expondrá los hechos, actos u omisiones materia de la denuncia en forma detallada y circunstanciada;
+
+III. De oficio o a petición del denunciante, el capitán de puerto estará facultado para requerir la declaración de toda persona involucrada en los hechos denunciados o conocedora de ellos, así como para realizar las inspecciones y mandar practicar los peritajes que fueren convenientes para determinar las circunstancias en que se produjeron los acontecimientos denunciados, sus probables causas, los daños ocasionados y las personas a quienes podría imputarse responsabilidad; y
 
 IV. Todas las actuaciones se harán constar en un acta administrativa, la cual será firmada por los que intervengan en ella y por el capitán de puerto.
 

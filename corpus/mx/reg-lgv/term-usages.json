@@ -10,30 +10,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:551-589",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:552-590",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:modelo-integral-de-atencion-a-victimas",
     "span": "Modelo Integral de Atención a Víctimas",
-    "start_char": 551,
-    "end_char": 589
+    "start_char": 552,
+    "end_char": 590
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:859-897",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:860-898",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:modelo-integral-de-atencion-a-victimas",
     "span": "Modelo Integral de Atención a Víctimas",
-    "start_char": 859,
-    "end_char": 897
+    "start_char": 860,
+    "end_char": 898
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:998-1036",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:6:term-usage:999-1037",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:6",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:modelo-integral-de-atencion-a-victimas",
     "span": "Modelo Integral de Atención a Víctimas",
-    "start_char": 998,
-    "end_char": 1036
+    "start_char": 999,
+    "end_char": 1037
   },
   {
     "schema_version": "0.1.0",
@@ -64,30 +64,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:340-347",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:341-348",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:formato",
     "span": "Formato",
-    "start_char": 340,
-    "end_char": 347
+    "start_char": 341,
+    "end_char": 348
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:428-434",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:429-435",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:comites",
     "span": "Comité",
-    "start_char": 428,
-    "end_char": 434
+    "start_char": 429,
+    "end_char": 435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:913-951",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:10:term-usage:914-952",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:modelo-integral-de-atencion-a-victimas",
     "span": "Modelo Integral de Atención a Víctimas",
-    "start_char": 913,
-    "end_char": 951
+    "start_char": 914,
+    "end_char": 952
   },
   {
     "schema_version": "0.1.0",
@@ -235,12 +235,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:32:term-usage:3021-3043",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:32:term-usage:3022-3044",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:comisionado-presidente",
     "span": "Comisionado Presidente",
-    "start_char": 3021,
-    "end_char": 3043
+    "start_char": 3022,
+    "end_char": 3044
   },
   {
     "schema_version": "0.1.0",
@@ -253,12 +253,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:35:term-usage:3047-3064",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:35:term-usage:3048-3065",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:35",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:estatuto-organico",
     "span": "Estatuto Orgánico",
-    "start_char": 3047,
-    "end_char": 3064
+    "start_char": 3048,
+    "end_char": 3065
   },
   {
     "schema_version": "0.1.0",
@@ -307,12 +307,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:38:term-usage:1267-1284",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:38:term-usage:1268-1285",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:estatuto-organico",
     "span": "Estatuto Orgánico",
-    "start_char": 1267,
-    "end_char": 1284
+    "start_char": 1268,
+    "end_char": 1285
   },
   {
     "schema_version": "0.1.0",
@@ -622,12 +622,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:83:term-usage:828-834",
+    "id": "urn:lex-mx:federal:regulation:reg-lgv:article:83:term-usage:829-835",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgv:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgv:term:comites",
     "span": "Comité",
-    "start_char": 828,
-    "end_char": 834
+    "start_char": 829,
+    "end_char": 835
   },
   {
     "schema_version": "0.1.0",

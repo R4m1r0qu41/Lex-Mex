@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["REG-LPPDDHP — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf
 source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 ---
@@ -21,7 +21,9 @@ Los miembros de la Junta de Gobierno, además de las obligaciones y funciones qu
 
 I. Asistir a las sesiones;
 
-II. Proponer los temas a tratar en las sesiones de la Junta de Gobierno; III. Emitir su voto respecto de los asuntos que se sometan a consideración de la Junta de Gobierno;
+II. Proponer los temas a tratar en las sesiones de la Junta de Gobierno;
+
+III. Emitir su voto respecto de los asuntos que se sometan a consideración de la Junta de Gobierno;
 
 IV. Presentar la documentación correspondiente a los temas a tratar en las sesiones de la Junta de Gobierno o la que le sea requerida por la misma;
 

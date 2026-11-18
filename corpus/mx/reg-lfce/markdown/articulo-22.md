@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["REG-LFCE — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf
 source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 ---
@@ -17,7 +17,9 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 22
 
-Para el desahogo del procedimiento previsto en el artículo [21](../../lfce/markdown/articulo-21.md) de la Ley, se estará a lo siguiente: I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a VIII del [artículo anterior](articulo-21.md), la Comisión, dentro de los cinco días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de cinco días, presenten la información faltante;
+Para el desahogo del procedimiento previsto en el artículo [21](../../lfce/markdown/articulo-21.md) de la Ley, se estará a lo siguiente:
+
+I. Cuando la notificación no reúna los requisitos a que se refieren las fracciones I a VIII del [artículo anterior](articulo-21.md), la Comisión, dentro de los cinco días siguientes al de la presentación del escrito, deberá prevenir a los notificantes para que, en un término que no exceda de cinco días, presenten la información faltante;
 
 II. En caso de no desahogarse la prevención dentro del término previsto en la fracción anterior, la Comisión, dentro de los diez días siguientes al vencimiento del plazo, emitirá y notificará el acuerdo mediante el cual determine la no presentación de la notificación de concentración;
 

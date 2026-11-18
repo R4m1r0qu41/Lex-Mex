@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título I · Capítulo ÚNICO
@@ -33,7 +33,9 @@ VI. Registro: El Registro Público del Derecho de Autor;
 
 VII. Diario Oficial: El Diario Oficial de la Federación;
 
-VIII. Código Penal: El Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; IX. Código Civil: El Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal;
+VIII. Código Penal: El Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal;
+
+IX. Código Civil: El Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal;
 
 X. Reserva: La Reserva de Derechos al Uso Exclusivo;
 

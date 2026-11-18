@@ -59,7 +59,9 @@ XVI. Fomentar y apoyar a las unidades de producción familiar rural de subsisten
 
 XVII. Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos; Fracción reformada DOF 28-12-1994. Derogada DOF 02-01-2013. Adicionada DOF 30-11-2018
 
-XVIII. Coadyuvar en el diseño e implementación de políticas públicas orientadas a fomentar la agroforestería, la productividad, la economía social y el empleo en el ámbito rural y a evitar la migración de las áreas rurales; Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018 XIX. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos vulnerables; Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018
+XVIII. Coadyuvar en el diseño e implementación de políticas públicas orientadas a fomentar la agroforestería, la productividad, la economía social y el empleo en el ámbito rural y a evitar la migración de las áreas rurales; Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018
+
+XIX. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos vulnerables; Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018
 
 XX. Coordinar, en conjunto con la Coordinación General de Programas para el Desarrollo, las Delegaciones Estatales de Programas para el Desarrollo de las Entidades Federativas, así como la planeación, ejecución y evaluación de los planes, programas y acciones que desarrollen; Fracción derogada DOF 28-12-1994. Adicionada DOF 30-11-2018
 

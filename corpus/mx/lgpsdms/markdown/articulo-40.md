@@ -23,7 +23,9 @@ I. Cumplir con los objetivos y fines de esta Ley;
 
 II. Diseñar, proponer e impulsar políticas de apoyo, protección y respaldo a las víctimas y sus familiares;
 
-III. Elaborar y realizar políticas de prevención social, de conformidad con las disposiciones establecidas en la presente Ley; IV. Formular políticas integrales sistemáticas, continuas y evaluables, así como programas y estrategias para el combate de las conductas previstas en la presente Ley;
+III. Elaborar y realizar políticas de prevención social, de conformidad con las disposiciones establecidas en la presente Ley;
+
+IV. Formular políticas integrales sistemáticas, continuas y evaluables, así como programas y estrategias para el combate de las conductas previstas en la presente Ley;
 
 V. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones contra las conductas previstas en la presente Ley;
 
@@ -49,6 +51,8 @@ XV. Recopilar, con la ayuda del Sistema Nacional de Seguridad Pública y demás 
 
 XVI. Colaborar en la prevención, persecución y sanción de las conductas previstas en la presente Ley;
 
-XVII. Participar en la formulación de un Programa Nacional para Prevenir, Perseguir y Sancionar las conductas previstas en la presente Ley, el cual deberá incluir, cuando menos, las políticas públicas en materia de prevención, persecución y sanción del delito, así como la protección y atención a ofendidos, víctimas y familiares; XVIII. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de servidores públicos especializados en secuestro de las [Instituciones de Seguridad Pública](articulo-4.md), cuyos resultados cuentan con la certificación del Centro Nacional de Certificación y Acreditación, y
+XVII. Participar en la formulación de un Programa Nacional para Prevenir, Perseguir y Sancionar las conductas previstas en la presente Ley, el cual deberá incluir, cuando menos, las políticas públicas en materia de prevención, persecución y sanción del delito, así como la protección y atención a ofendidos, víctimas y familiares;
+
+XVIII. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de servidores públicos especializados en secuestro de las [Instituciones de Seguridad Pública](articulo-4.md), cuyos resultados cuentan con la certificación del Centro Nacional de Certificación y Acreditación, y
 
 XIX. Realizar las acciones y gestiones necesarias para restringir de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los centros penitenciarios, cualquiera que sea su denominación. Fracción reformada DOF 17-06-2016

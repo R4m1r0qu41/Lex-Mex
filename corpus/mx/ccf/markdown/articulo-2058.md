@@ -23,4 +23,6 @@ I. Cuando el que es acreedor paga a otro acreedor preferente;
 
 II. Cuando el que paga tiene interés jurídico en el cumplimiento de la obligación;
 
-III. Cuando un heredero paga con sus bienes propios alguna deuda de la herencia; IV. Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
+III. Cuando un heredero paga con sus bienes propios alguna deuda de la herencia;
+
+IV. Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.

@@ -1168,14 +1168,7 @@
     "end_char": 128,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:44",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 173,
-        "end_char": 183
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1355,18 +1348,6 @@
         "text": "fracción III",
         "start_char": 4956,
         "end_char": 4968
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 5119,
-        "end_char": 5134
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 5327,
-        "end_char": 5342
       }
     ],
     "basis": "express_cross_reference",

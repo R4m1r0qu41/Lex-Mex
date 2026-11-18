@@ -106,7 +106,9 @@ Usarán en las mangas, a ocho centímetros de la bocamanga, las cintas de los Ca
 
 XVI. Marineros de primera
 
-Usarán en el antebrazo un ángulo de 90 grados, de cinta roja, de 10 milímetros de ancho, con el vértice hacia la bocamanga. Los lados del ángulo tendrán 75 milímetros de longitud. XVII. Maquinistas
+Usarán en el antebrazo un ángulo de 90 grados, de cinta roja, de 10 milímetros de ancho, con el vértice hacia la bocamanga. Los lados del ángulo tendrán 75 milímetros de longitud.
+
+XVII. Maquinistas
 
 Usarán las insignias y charreteras que corresponden a sus equivalencias con el Cuerpo de Guerra, sobre fondo púrpura.
 

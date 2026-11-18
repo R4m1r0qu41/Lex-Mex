@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LFLL — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFLL.pdf
 source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 ---
@@ -33,7 +33,9 @@ VI. Importador.- Persona física o moral que introduce al territorio nacional li
 
 VII. ISBN.- Número internacional normalizado del libro;
 
-VIII. Ley.- Ley de Fomento para la Lectura y el Libro; IX. Lineamientos.- Los lineamientos que el [Consejo](articulo-2.md) emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
+VIII. Ley.- Ley de Fomento para la Lectura y el Libro;
+
+IX. Lineamientos.- Los lineamientos que el [Consejo](articulo-2.md) emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
 
 X. Programa.- El Programa de Fomento para el Libro y la Lectura a que se refiere la fracción I del artículo [6](../../lfll/markdown/articulo-6.md) de la Ley;
 

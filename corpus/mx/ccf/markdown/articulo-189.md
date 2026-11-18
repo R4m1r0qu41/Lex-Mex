@@ -27,7 +27,9 @@ III. Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matri
 
 IV. La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
 
-V. La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge; VI. La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción; Fe de erratas a la fracción DOF 21-12-1928
+V. La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
+
+VI. La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción; Fe de erratas a la fracción DOF 21-12-1928
 
 VII. La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
 

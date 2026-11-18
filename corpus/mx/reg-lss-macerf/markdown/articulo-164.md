@@ -31,7 +31,9 @@ d).- Con abstención de opinión, o
 
 e).- Con opinión negativa.
 
-II. La indicación de que si al enterar el patrón las cuotas obrero patronales del seguro social por el ejercicio dictaminado, incurrió en omisiones que no hubieran sido corregidas antes de la entrega del dictamen, debiendo señalar los conceptos omitidos; REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN III. El registro o registros patronales y el ejercicio o periodo dictaminado;
+II. La indicación de que si al enterar el patrón las cuotas obrero patronales del seguro social por el ejercicio dictaminado, incurrió en omisiones que no hubieran sido corregidas antes de la entrega del dictamen, debiendo señalar los conceptos omitidos;
+
+III. El registro o registros patronales y el ejercicio o periodo dictaminado;
 
 IV. Las razones por las cuales el contador público autorizado determina que no es factible formular con todos sus anexos un dictamen, debiendo explicar ante el Instituto en qué consisten esas razones, y
 

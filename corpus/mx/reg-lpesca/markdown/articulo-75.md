@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["REG-LPESCA — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf
 source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 ---
@@ -25,7 +25,9 @@ II. Maniobras a realizar;
 
 III. Tripulación y rutinas;
 
-IV. Descripción de los métodos y artes de pesca que serán empleados, así como el programa de experimentación o exploración que se pretenda llevar a cabo; V. Los datos de capacidad de pesca y captura esperada;
+IV. Descripción de los métodos y artes de pesca que serán empleados, así como el programa de experimentación o exploración que se pretenda llevar a cabo;
+
+V. Los datos de capacidad de pesca y captura esperada;
 
 VI. Plan de cruceros, incluyendo mapa y red de estaciones, y
 

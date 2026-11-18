@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "III",
     "start_char": 896,
-    "end_char": 1025,
+    "end_char": 1026,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "IV",
-    "start_char": 1025,
-    "end_char": 1126,
+    "start_char": 1026,
+    "end_char": 1127,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "V",
-    "start_char": 1126,
-    "end_char": 1216,
+    "start_char": 1127,
+    "end_char": 1217,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "VI",
-    "start_char": 1216,
-    "end_char": 1470,
+    "start_char": 1217,
+    "end_char": 1471,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "VII",
-    "start_char": 1470,
-    "end_char": 1651,
+    "start_char": 1471,
+    "end_char": 1652,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "VIII",
-    "start_char": 1651,
-    "end_char": 1850,
+    "start_char": 1652,
+    "end_char": 1851,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "IX",
-    "start_char": 1850,
-    "end_char": 1995,
+    "start_char": 1851,
+    "end_char": 1996,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
     "fraction": "X",
-    "start_char": 1995,
-    "end_char": 2164,
+    "start_char": 1996,
+    "end_char": 2165,
     "basis": "express_definition"
   }
 ]

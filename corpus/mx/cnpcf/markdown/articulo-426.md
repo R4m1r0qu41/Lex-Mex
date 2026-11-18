@@ -23,7 +23,9 @@ I. Nombre y domicilio de quien promueve;
 
 II. En su caso, nombre y domicilio de las personas que deban ser citadas;
 
-III. La providencia solicitada; IV. Los hechos que fundamenten la solicitud;
+III. La providencia solicitada;
+
+IV. Los hechos que fundamenten la solicitud;
 
 V. Las pruebas que se ofrezcan, y
 

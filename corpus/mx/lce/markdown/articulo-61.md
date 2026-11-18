@@ -18,5 +18,3 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 # Artículo 61
 
 En el curso de la investigación administrativa las partes interesadas podrán solicitar a la [Secretaría](articulo-3o.md) la celebración de una audiencia conciliatoria. En esta audiencia se podrán proponer fórmulas de solución y conclusión de la investigación, las cuales, de resultar procedentes, serán sancionadas por la propia Secretaría e incorporadas en la resolución respectiva que tendrá el carácter de resolución final. Esta resolución deberá notificarse a las partes interesadas y publicarse en el Diario Oficial de la Federación.
-
-Sección cuarta [Cuotas compensatorias](articulo-3o.md)

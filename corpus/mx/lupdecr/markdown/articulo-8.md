@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LUPDECR — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf
 source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 ---
@@ -19,7 +19,9 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 Podrán utilizar el emblema de la cruz roja, previa autorización por parte de la Secretaría de la Defensa Nacional, las personas y bienes siguientes, bajo las modalidades y requisitos previstos en la presente Ley:
 
-I. El personal sanitario y religioso al servicio o agregado a las fuerzas armadas, así como el de carácter civil que se encargue de la búsqueda, la recogida, el transporte, el diagnóstico, la atención y la asistencia, el tratamiento y la rehabilitación a heridos, enfermos, náufragos, personas privadas de la libertad o muertos, o de la administración de unidades sanitarias, o del funcionamiento o administración de los medios de transporte sanitario; II. La [Cruz Roja Mexicana](articulo-3.md);
+I. El personal sanitario y religioso al servicio o agregado a las fuerzas armadas, así como el de carácter civil que se encargue de la búsqueda, la recogida, el transporte, el diagnóstico, la atención y la asistencia, el tratamiento y la rehabilitación a heridos, enfermos, náufragos, personas privadas de la libertad o muertos, o de la administración de unidades sanitarias, o del funcionamiento o administración de los medios de transporte sanitario;
+
+II. La [Cruz Roja Mexicana](articulo-3.md);
 
 III. Las sociedades de socorro voluntarias;
 

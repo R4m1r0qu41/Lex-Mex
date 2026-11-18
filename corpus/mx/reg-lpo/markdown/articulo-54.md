@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["REG-LPO — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf
 source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 ---
@@ -23,7 +23,9 @@ I. Señalar la congruencia de los programas y acciones relativas a la producció
 
 II. Precisar los programas, proyectos, acciones, obras y, en su caso, servicios de producción orgánica que deban ser ejecutados durante el ejercicio fiscal;
 
-III. Indicar las metas cuantitativas y cualitativas de los programas de producción orgánica, que deban ser ejecutados de manera coordinada; IV. En su caso, determinar los recursos que las partes deban aportar, señalando:
+III. Indicar las metas cuantitativas y cualitativas de los programas de producción orgánica, que deban ser ejecutados de manera coordinada;
+
+IV. En su caso, determinar los recursos que las partes deban aportar, señalando:
 
 a. La ubicación geográfica y, en su caso, las zonas de atención prioritaria donde serán utilizados;
 

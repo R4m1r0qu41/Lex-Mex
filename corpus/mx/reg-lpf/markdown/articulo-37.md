@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["REG-LPF — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -35,7 +35,9 @@ VII. Elaborar proyectos y estudios relacionados con la adquisición de aeronaves
 
 VIII. Proponer al titular de la [Secretaría General](articulo-2.md) la adquisición de equipo aéreo para el cumplimiento de las atribuciones de la Institución;
 
-IX. Realizar el despliegue operativo de las aeronaves, previo acuerdo con el titular de la Secretaría General en coordinación con las unidades solicitantes; X. Coordinar la flota aérea de aeronaves tripuladas y, en auxilio de la División de Inteligencia, colaborar en la seguridad y mantenimiento de las no tripuladas;
+IX. Realizar el despliegue operativo de las aeronaves, previo acuerdo con el titular de la Secretaría General en coordinación con las unidades solicitantes;
+
+X. Coordinar la flota aérea de aeronaves tripuladas y, en auxilio de la División de Inteligencia, colaborar en la seguridad y mantenimiento de las no tripuladas;
 
 XI. Planear y programar las operaciones de acuerdo a las capacidades de tripulaciones y aeronaves que permitan su óptimo desarrollo en misiones policiacas ordenadas por el Secretario General;
 
@@ -65,4 +67,6 @@ XXIII. Llevar el registro, control y actualización del registro de operaciones,
 
 XXIV. Proponer al Secretario General la adquisición de equipo aéreo para el cumplimiento de las atribuciones de la Institución;
 
-XXV. Proponer a la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial la implementación de programas de formación inicial para el personal técnico aeronáutico y prestar asesoría y capacitación, y XXVI. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XXV. Proponer a la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial la implementación de programas de formación inicial para el personal técnico aeronáutico y prestar asesoría y capacitación, y
+
+XXVI. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

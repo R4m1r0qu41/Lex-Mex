@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["REG-LRPC — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPC.pdf
 source_sha256: 2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320
 ---
@@ -31,7 +31,9 @@ V. Pertenencia a determinado grupo social: La pertenencia del solicitante a un g
 
 VI. Opiniones políticas: La profesión de opiniones o ideas del solicitante, propias o atribuidas, que constituyan, o bien sean interpretadas, como una crítica u oposición a las políticas, costumbres o métodos del agente persecutor;
 
-VII. Violencia generalizada: Enfrentamientos en el país de origen o residencia habitual, cuya naturaleza sea continua, general y sostenida, en los cuales se use la fuerza de manera indiscriminada; VIII. Agresión extranjera: El uso de la fuerza armada por parte de un Estado en contra de la soberanía, integridad territorial o independencia política del país de origen o residencia habitual del solicitante;
+VII. Violencia generalizada: Enfrentamientos en el país de origen o residencia habitual, cuya naturaleza sea continua, general y sostenida, en los cuales se use la fuerza de manera indiscriminada;
+
+VIII. Agresión extranjera: El uso de la fuerza armada por parte de un Estado en contra de la soberanía, integridad territorial o independencia política del país de origen o residencia habitual del solicitante;
 
 IX. Conflictos internos: Los enfrentamientos armados que se desarrollen en el territorio del país de origen o residencia habitual entre sus fuerzas armadas y grupos armados organizados o entre tales grupos;
 

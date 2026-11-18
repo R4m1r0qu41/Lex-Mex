@@ -33,4 +33,6 @@ VI. Participar en la conducción de las relaciones institucionales de la Procura
 
 VII. Compilar, con el apoyo de las unidades administrativas y órganos desconcentrados de la Procuraduría y, en su caso, requerirles, los periódicos oficiales y ordenamientos jurídicos de las entidades federativas, así como las ejecutorias en que se sustenten tesis contradictorias dictadas por los Tribunales Colegiados de Circuito y en las que proceda solicitar la sustitución de jurisprudencia, para el cumplimiento de sus atribuciones;
 
-VIII. Opinar sobre proyectos de reformas a la Constitución en coordinación con las unidades administrativas competentes, y IX. Administrar y operar el sistema de información al que se refiere el artículo 12 de la [Ley Orgánica](articulo-2.md).
+VIII. Opinar sobre proyectos de reformas a la Constitución en coordinación con las unidades administrativas competentes, y
+
+IX. Administrar y operar el sistema de información al que se refiere el artículo 12 de la [Ley Orgánica](articulo-2.md).

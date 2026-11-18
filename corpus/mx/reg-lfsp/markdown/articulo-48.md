@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["REG-LFSP — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf
 source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 ---

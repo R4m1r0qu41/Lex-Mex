@@ -7,8 +7,8 @@ provision_type: article
 number: "88"
 aliases: ["REG-LPF — Artículo 88"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -39,7 +39,9 @@ IX. Seleccionar, capacitar y profesionalizar a los semovientes caninos y sus man
 
 X. Diseñar los perfiles para los manejadores y entrenadores caninos en las diferentes especialidades, así como llevar un registro de los mismos;
 
-XI. Integrar un cuerpo de entrenadores caninos en las diferentes especialidades, con reconocimiento nacional e internacional; XII. Verificar y supervisar que el personal médico veterinario-zootecnista lleve a cabo los esquemas de nutrición y la atención veterinaria requerida por los semovientes caninos;
+XI. Integrar un cuerpo de entrenadores caninos en las diferentes especialidades, con reconocimiento nacional e internacional;
+
+XII. Verificar y supervisar que el personal médico veterinario-zootecnista lleve a cabo los esquemas de nutrición y la atención veterinaria requerida por los semovientes caninos;
 
 XIII. Establecer vínculos de cooperación con instituciones homólogas nacionales y extranjeras, a fin de intercambiar planes y programas de capacitación, actualización y especialización de unidades caninas;
 

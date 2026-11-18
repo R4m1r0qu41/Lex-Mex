@@ -23,7 +23,9 @@ I. Pagar los trabajos derivados de los servicios otorgados, en un plazo no mayor
 
 II. Establecer mecanismos para llevar registro de las horas trabajadas y tiempos de espera;
 
-III. Emitir semanalmente recibos de pagos realizados donde se haga constar el número de tareas, servicios, obras o trabajos realizados, el tiempo efectivamente trabajado, el tiempo durante el que la persona trabajadora está a disposición de la plataforma para la asignación de una tarea, servicio, obra o trabajo, las retenciones legales que en su caso apliquen y demás conceptos análogos que resulten procedentes; IV. Implementar mecanismos que garanticen la seguridad de la información y datos personales de las personas trabajadoras utilizados desde la plataforma, así como el ejercicio de los derechos de Acceso, Rectificación, Cancelación, Oposición y Portabilidad de estos, en términos de la legislación aplicable;
+III. Emitir semanalmente recibos de pagos realizados donde se haga constar el número de tareas, servicios, obras o trabajos realizados, el tiempo efectivamente trabajado, el tiempo durante el que la persona trabajadora está a disposición de la plataforma para la asignación de una tarea, servicio, obra o trabajo, las retenciones legales que en su caso apliquen y demás conceptos análogos que resulten procedentes;
+
+IV. Implementar mecanismos que garanticen la seguridad de la información y datos personales de las personas trabajadoras utilizados desde la plataforma, así como el ejercicio de los derechos de Acceso, Rectificación, Cancelación, Oposición y Portabilidad de estos, en términos de la legislación aplicable;
 
 V. Inscribir a las personas trabajadoras en plataformas digitales ante el Instituto Mexicano del Seguro Social y, en su caso, determinar, retener y enterar el pago de cuotas obrero patronales en los términos que establezcan las disposiciones en la materia;
 

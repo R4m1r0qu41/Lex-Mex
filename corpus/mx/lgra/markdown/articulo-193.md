@@ -23,7 +23,9 @@ I. El emplazamiento al presunto o presuntos responsables para que comparezca al 
 
 II. El acuerdo de admisión del Informe de Presunta Responsabilidad Administrativa;
 
-III. El acuerdo por el que se ordene la citación a la audiencia inicial del procedimiento de responsabilidad administrativa; IV. En el caso de faltas administrativas graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al [Tribunal](articulo-3.md) encargado de resolver el asunto;
+III. El acuerdo por el que se ordene la citación a la audiencia inicial del procedimiento de responsabilidad administrativa;
+
+IV. En el caso de faltas administrativas graves, el acuerdo por el que remiten las constancias originales del expediente del procedimiento de responsabilidad administrativa al [Tribunal](articulo-3.md) encargado de resolver el asunto;
 
 V. Los acuerdos por lo que se aperciba a las partes o terceros, con la imposición de medidas de apremio;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "3o. Bis"
 aliases: ["LDPAM — Artículo 3o. Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf
 source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 ---
@@ -17,7 +17,9 @@ source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 
 # Artículo 3o. Bis
 
-Los tipos de violencia contra las Personas Adultas Mayores, son: I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
 

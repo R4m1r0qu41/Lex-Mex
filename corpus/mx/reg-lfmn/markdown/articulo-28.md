@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["REG-LFMN — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf
 source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 ---
@@ -20,7 +20,9 @@ source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 
 # Artículo 28
 
-Para los efectos de los artículos 41 y 48 de la Ley, el contenido de las normas oficiales mexicanas, incluidas las que se expidan en caso de emergencia, se ajustará a lo siguiente: I. La denominación de la norma deberá indicar específicamente el tema de la misma, para lo cual deberá componerse de frases separadas, cada una de ellas tan corta como sea posible, partiendo de lo general a lo particular;
+Para los efectos de los artículos 41 y 48 de la Ley, el contenido de las normas oficiales mexicanas, incluidas las que se expidan en caso de emergencia, se ajustará a lo siguiente:
+
+I. La denominación de la norma deberá indicar específicamente el tema de la misma, para lo cual deberá componerse de frases separadas, cada una de ellas tan corta como sea posible, partiendo de lo general a lo particular;
 
 II. La clave o código de la norma se integrará con lo siguiente, en el orden que se indica:
 

@@ -21,7 +21,9 @@ Para proceder a la constitución de un distrito de riego, con financiamiento del
 
 I. Promoverá, en su caso, las vedas necesarias para el buen funcionamiento de las obras;
 
-II. Elaborará el plano catastral de tierras y construcciones comprendidas en el distrito; III. Formulará el censo de personas propietarias o poseedoras de tierras y de otros inmuebles, así como la relación de valores fiscales y comerciales que tengan; Fracción reformada DOF 11-12-2025
+II. Elaborará el plano catastral de tierras y construcciones comprendidas en el distrito;
+
+III. Formulará el censo de personas propietarias o poseedoras de tierras y de otros inmuebles, así como la relación de valores fiscales y comerciales que tengan; Fracción reformada DOF 11-12-2025
 
 IV. Realizará las audiencias, concertaciones y las demás acciones previstas en esta Ley y sus reglamentos, necesarias para constituir la zona de riego proyectada;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["LGPIST — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf
 source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 ---
@@ -25,7 +25,9 @@ II. Comenzar con la integración de la carpeta de investigación correspondiente
 
 III. Realizar el registro del hecho en el [Registro Nacional](articulo-5.md);
 
-IV. Informarán a la persona denunciante de su derecho a contar con un asesor jurídico; V. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
+IV. Informarán a la persona denunciante de su derecho a contar con un asesor jurídico;
+
+V. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
 
 VI. Solicitar la intervención de peritos para que realicen el dictamen médico-psicológico correspondiente y los demás que se requieran;
 

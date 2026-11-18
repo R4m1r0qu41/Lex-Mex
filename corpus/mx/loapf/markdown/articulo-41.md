@@ -43,7 +43,9 @@ VI. Resolver las cuestiones relacionadas con los problemas de los núcleos de po
 
 VII. Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
 
-VIII. Ejecutar las resoluciones y acuerdos que dicte la persona titular del Ejecutivo Federal en materia agraria, en términos de la normativa aplicable; Fracción reformada DOF 28-11-2024 IX. Administrar los terrenos baldíos y nacionales y las demasías, así como establecer los planes y programas para su óptimo aprovechamiento;
+VIII. Ejecutar las resoluciones y acuerdos que dicte la persona titular del Ejecutivo Federal en materia agraria, en términos de la normativa aplicable; Fracción reformada DOF 28-11-2024
+
+IX. Administrar los terrenos baldíos y nacionales y las demasías, así como establecer los planes y programas para su óptimo aprovechamiento;
 
 X. Planear y proyectar la adecuada distribución de la población y la ordenación territorial de los centros de población, ciudades y zonas metropolitanas, bajo criterios de desarrollo sustentable, conjuntamente con las dependencias y entidades de la Administración Pública Federal competentes, y coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos de las entidades federativas y municipales para la realización de acciones en esta materia, con la participación de los sectores social y privado;
 

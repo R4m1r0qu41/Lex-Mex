@@ -7,8 +7,8 @@ provision_type: article
 number: "137"
 aliases: ["LGDNNA — Artículo 137"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
@@ -29,7 +29,9 @@ IV. Difundir el marco jurídico local, nacional e internacional de protección a
 
 V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes;
 
-VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos; VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
+VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos;
+
+VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
 
 VIII. Garantizar la transversalidad de la perspectiva de derechos de la infancia y la adolescencia en la elaboración de programas, así como en las políticas y acciones para la protección de los derechos de niñas, niños y adolescentes;
 

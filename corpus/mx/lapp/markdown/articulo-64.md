@@ -25,7 +25,9 @@ II. Se realicen con fines exclusivamente militares o para la armada, o su contra
 
 III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificables y comprobables;
 
-IV. Se haya rescindido un proyecto adjudicado a través de concurso, antes de su inicio, en cuyo caso el proyecto podrá adjudicarse al concursante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con la propuesta inicialmente ganadora no sea superior al diez por ciento. Tratándose de concursos con puntos y porcentajes para la evaluación, se podrá adjudicar a la propuesta que siga en calificación a la del ganador; V. Se trate de la sustitución de un desarrollador por causas de terminación anticipada o rescisión de un proyecto de asociación público-privada en marcha; y
+IV. Se haya rescindido un proyecto adjudicado a través de concurso, antes de su inicio, en cuyo caso el proyecto podrá adjudicarse al concursante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con la propuesta inicialmente ganadora no sea superior al diez por ciento. Tratándose de concursos con puntos y porcentajes para la evaluación, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
+
+V. Se trate de la sustitución de un desarrollador por causas de terminación anticipada o rescisión de un proyecto de asociación público-privada en marcha; y
 
 VI. Se acredite la celebración de una alianza estratégica que lleven a cabo las dependencias y entidades con personas morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura nacional.
 

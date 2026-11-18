@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["REG-LOPGJDF — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -37,7 +37,9 @@ VIII. Ordenar la detención y decretar la retención de los imputados, en los t�
 
 IX. Poner a disposición de la autoridad competente a las personas detenidas en caso de delito flagrante o de urgencia, de acuerdo con el artículo [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Poner en conocimiento de la Fiscalía de Procesos que corresponda, sin demora, cuando se ejerza acción penal, la detención o retención de personas, en los términos del artículo [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos; XI. Revisar que la libertad provisional que se otorgue a los imputados, como medida cautelar, se ajuste a la normatividad aplicable;
+X. Poner en conocimiento de la Fiscalía de Procesos que corresponda, sin demora, cuando se ejerza acción penal, la detención o retención de personas, en los términos del artículo [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos;
+
+XI. Revisar que la libertad provisional que se otorgue a los imputados, como medida cautelar, se ajuste a la normatividad aplicable;
 
 XII. Solicitar, a través de la Fiscalía de Procesos correspondiente, las medidas precautorias de arraigo y las órdenes de cateo que sean necesarias;
 
@@ -63,7 +65,9 @@ XXII. Resolver sobre la incompetencia en razón de fuero, territorio o materia e
 
 XXIII. Ejercer la acción penal ante la autoridad judicial correspondiente;
 
-XXIV. Solicitar con oportunidad a los órganos jurisdiccionales a través de la Fiscalía de Procesos que corresponda, el embargo precautorio de bienes del inculpado con los que se garantice la reparación de los daños y perjuicios causados por la comisión del delito, cuando no exista otro medio para hacerlo; XXV. Instrumentar mecanismos de enlace y coordinación con las diversas unidades administrativas que conforman la Procuraduría, que coadyuven al cumplimiento de sus atribuciones y funciones que por disposición legal le han sido conferidas;
+XXIV. Solicitar con oportunidad a los órganos jurisdiccionales a través de la Fiscalía de Procesos que corresponda, el embargo precautorio de bienes del inculpado con los que se garantice la reparación de los daños y perjuicios causados por la comisión del delito, cuando no exista otro medio para hacerlo;
+
+XXV. Instrumentar mecanismos de enlace y coordinación con las diversas unidades administrativas que conforman la Procuraduría, que coadyuven al cumplimiento de sus atribuciones y funciones que por disposición legal le han sido conferidas;
 
 XXVI. Formular y proponer estudios, planes, programas y proyectos en materia de investigación de delitos cometidos en contra del servicio público y contra el adecuado desarrollo de la justicia por servidores públicos;
 

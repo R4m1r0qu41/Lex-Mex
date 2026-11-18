@@ -17,6 +17,8 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 624
 
-Designarán por sí mismos al curador, con aprobación judicial: I. Los comprendidos en el artículo [496](articulo-496.md), observándose lo que allí se dispone respecto de esos nombramientos;
+Designarán por sí mismos al curador, con aprobación judicial:
+
+I. Los comprendidos en el artículo [496](articulo-496.md), observándose lo que allí se dispone respecto de esos nombramientos;
 
 II. (Se deroga). Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019

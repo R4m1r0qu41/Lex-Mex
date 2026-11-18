@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LDSCA — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf
 source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 ---
@@ -61,7 +61,9 @@ XX. Establecer y conservar actualizados los procedimientos y sistemas de informa
 
 XXI. Establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera articulada, congruente y eficaz;
 
-XXII. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar los resultados, metas y objetivos propuestos para el corto y mediano plazos; XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
+XXII. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar los resultados, metas y objetivos propuestos para el corto y mediano plazos;
+
+XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
 
 XXIV. Establecer un sistema de indicadores que permita evaluar la gestión de la entidad;
 

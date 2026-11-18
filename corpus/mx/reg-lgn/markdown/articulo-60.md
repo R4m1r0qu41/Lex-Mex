@@ -35,7 +35,9 @@ VII. Ejercer autoridad de mando policial sobre las unidades de la [Institución]
 
 VIII. Transitar dentro de su adscripción territorial informando al Titular de la Coordinación Estatal al que se encuentren adscritos y, en caso de requerir salir de ella, solicitar la autorización correspondiente;
 
-IX. Aplicar las directivas para conservar completos los efectivos de las unidades de la Institución a sus órdenes, con la finalidad de mantener sus capacidades operativa y administrativa; X. Dar curso a las solicitudes de licencias ordinarias e ilimitadas del personal bajo su mando, de conformidad con las disposiciones jurídicas aplicables;
+IX. Aplicar las directivas para conservar completos los efectivos de las unidades de la Institución a sus órdenes, con la finalidad de mantener sus capacidades operativa y administrativa;
+
+X. Dar curso a las solicitudes de licencias ordinarias e ilimitadas del personal bajo su mando, de conformidad con las disposiciones jurídicas aplicables;
 
 XI. Autorizar las vacaciones del personal bajo su mando que integran los organismos de su adscripción, conforme a las disposiciones jurídicas aplicables;
 

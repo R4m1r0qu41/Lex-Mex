@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["REG-LGPSACDII — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -17,7 +17,9 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 3
 
-Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [8](../../lgpsacdii/markdown/articulo-8.md) de la Ley, se entenderá por: I. Autorización: Al acto administrativo emitido por las [Autoridades Competentes](articulo-3.md), mediante el cual, atendiendo a las características de la Modalidad y Tipo, se permitirá a los Centros de Atención operar conforme al [Modelo de Atención](articulo-3.md) que establezca cada Autoridad Competente de acuerdo a las necesidades requeridas, para la prestación del servicio de atención, cuidado y desarrollo integral infantil, en los términos señalados por este Reglamento y previo cumplimiento de los criterios y requisitos establecidos por la Ley, este ordenamiento y demás disposiciones jurídicas aplicables;
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [8](../../lgpsacdii/markdown/articulo-8.md) de la Ley, se entenderá por:
+
+I. Autorización: Al acto administrativo emitido por las [Autoridades Competentes](articulo-3.md), mediante el cual, atendiendo a las características de la Modalidad y Tipo, se permitirá a los Centros de Atención operar conforme al [Modelo de Atención](articulo-3.md) que establezca cada Autoridad Competente de acuerdo a las necesidades requeridas, para la prestación del servicio de atención, cuidado y desarrollo integral infantil, en los términos señalados por este Reglamento y previo cumplimiento de los criterios y requisitos establecidos por la Ley, este ordenamiento y demás disposiciones jurídicas aplicables;
 
 II. Autoridades Competentes: A las dependencias y entidades de la Administración Pública Federal, incluidos los organismos de seguridad social en el ámbito de su competencia;
 

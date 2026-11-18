@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "fraction": "VIII",
     "start_char": 1546,
-    "end_char": 1601,
+    "end_char": 1602,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "fraction": "IX",
-    "start_char": 1601,
-    "end_char": 1733,
+    "start_char": 1602,
+    "end_char": 1734,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "fraction": "X",
-    "start_char": 1733,
-    "end_char": 1855,
+    "start_char": 1734,
+    "end_char": 1856,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "fraction": "XI",
-    "start_char": 1855,
-    "end_char": 1923,
+    "start_char": 1856,
+    "end_char": 1924,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
     "fraction": "XII",
-    "start_char": 1923,
-    "end_char": 1976,
+    "start_char": 1924,
+    "end_char": 1977,
     "basis": "express_definition"
   }
 ]

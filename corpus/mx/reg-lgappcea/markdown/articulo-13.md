@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["REG-LGAPPCEA — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf
 source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 ---
@@ -35,6 +35,8 @@ c) Rehabilitación.- Llevar a cabo las acciones siguientes:
 
 3. Prescribir un tratamiento o protocolo basado en un plan individualizado con historial clínico, revisado periódicamente y modificado llegado el caso, que permita la incorporación del paciente a su ambiente familiar, escolar y social, y
 
-4. Colaborar con los servicios de primer nivel de atención y especializados en el control y seguimiento de los pacientes, e involucrar a la familia de éstos en dicho control y seguimiento; III. Brindar servicio de hospitalización a aquellas Personas con la Condición del Espectro Autista cuya Comorbilidad o gravedad implique dicha necesidad, y
+4. Colaborar con los servicios de primer nivel de atención y especializados en el control y seguimiento de los pacientes, e involucrar a la familia de éstos en dicho control y seguimiento;
+
+III. Brindar servicio de hospitalización a aquellas Personas con la Condición del Espectro Autista cuya Comorbilidad o gravedad implique dicha necesidad, y
 
 IV. Realizar, bajo la coordinación de la Secretaría, campañas de información sobre las características propias de la condición del espectro autista en términos de la fracción III del artículo [16](../../lgappcea/markdown/articulo-16.md) de la Ley y observando los lineamientos generales para las campañas de comunicación social de las dependencias y entidades de la Administración Pública Federal que para tal efecto expida la Secretaría de Gobernación.

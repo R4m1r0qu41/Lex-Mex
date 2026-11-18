@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LGPSACDII — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -23,6 +23,8 @@ I. Coadyuvar al cumplimiento de los objetivos de la política nacional y del [Co
 
 II. Concentrar la información de los [Centros de Atención](articulo-8.md) de los sectores público, social y privado que presten servicios para la atención, cuidado y desarrollo integral infantil;
 
-III. Identificar a los prestadores de servicios para la atención, cuidado y desarrollo integral infantil en cualquiera de sus [Modalidades](articulo-8.md) y Tipos, así como mantener actualizada la información que lo conforma; IV. Contar con un control estadístico que contribuya a la definición de políticas públicas a que se refiere esta [Ley](articulo-8.md), y
+III. Identificar a los prestadores de servicios para la atención, cuidado y desarrollo integral infantil en cualquiera de sus [Modalidades](articulo-8.md) y Tipos, así como mantener actualizada la información que lo conforma;
+
+IV. Contar con un control estadístico que contribuya a la definición de políticas públicas a que se refiere esta [Ley](articulo-8.md), y
 
 V. Facilitar la supervisión de los Centros de Atención.

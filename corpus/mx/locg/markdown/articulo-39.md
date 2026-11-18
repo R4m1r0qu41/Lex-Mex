@@ -59,7 +59,9 @@ XVII.- Economía, Comercio y Competitividad;
 
 XVIII.- Economía Social y Fomento del Cooperativismo;
 
-XIX.- Educación; XX.- Energía;
+XIX.- Educación;
+
+XX.- Energía;
 
 XXI.- Federalismo y Desarrollo Municipal;
 
@@ -109,7 +111,9 @@ XLIII.- Seguridad Social;
 
 XLIV.- Trabajo y Previsión Social;
 
-XLV.- Transparencia y Anticorrupción; XLVI.- Turismo;
+XLV.- Transparencia y Anticorrupción;
+
+XLVI.- Turismo;
 
 XLVII.- Vivienda, y
 

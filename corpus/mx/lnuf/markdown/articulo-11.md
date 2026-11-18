@@ -27,7 +27,9 @@ b) El uso adecuado de equipo, acorde a las circunstancias, y
 
 c) Una actitud diligente.
 
-II. Persuasión o disuasión verbal: a través del uso de palabras o gesticulaciones que sean catalogadas como órdenes y que permitan a la persona facilitar a los agentes a cumplir con sus funciones; III. Reducción física de movimientos: mediante acciones cuerpo a cuerpo a efecto de que se controle a la persona que se ha resistido y ha obstaculizado que los agentes cumplan con sus funciones;
+II. Persuasión o disuasión verbal: a través del uso de palabras o gesticulaciones que sean catalogadas como órdenes y que permitan a la persona facilitar a los agentes a cumplir con sus funciones;
+
+III. Reducción física de movimientos: mediante acciones cuerpo a cuerpo a efecto de que se controle a la persona que se ha resistido y ha obstaculizado que los agentes cumplan con sus funciones;
 
 IV. Utilización de armas incapacitantes menos letales: a fin de someter la resistencia activa de una persona, y
 

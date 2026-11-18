@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["LDPAM — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf
 source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 ---
@@ -21,6 +21,8 @@ La denuncia a que se refiere la fracción VIII del artículo [5](articulo-5o.md)
 
 I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y en su caso, de su representante legal;
 
-II. Los actos, hechos u omisiones denunciados; III. Los datos que permitan identificar a la presunta autoridad infractora, y
+II. Los actos, hechos u omisiones denunciados;
+
+III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
 IV. Las pruebas que en su caso ofrezca el denunciante.

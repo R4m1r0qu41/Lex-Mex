@@ -13,11 +13,12 @@ provenance, implementation, validation, and escalation rules.
 
 ## Agent Vault continuity
 
-- Vault project ID: `lex-mex`. Repository hooks may report an active capsule;
-  otherwise the global discovery rule applies. For multi-milestone work with
-  no capsule:
-  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py start --repo . --project-id lex-mex --objective "<named task>"`.
-- Detailed capsule, handoff, receipt, and rolling-context procedure remains in
+- Vault project ID: `lex-mex`. Active-run capsules are retired for Lex-Mex (all
+  closed 2026-11-16); do not start one. Cross-session navigation is the Vault
+  rolling note `AI/40_Project_Knowledge/lex-mex/ROLLING_CONTEXT.md`, written with
+  AgentOS `tools/vault/scripts/rolling_context.py write --expected-sha256 CURRENT`
+  at a meaningful session close, after repository state is updated.
+- Detailed handoff, receipt, and rolling-context procedure remains in
   `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Active Run Checkpoint and Resume Standard.md`
   and
   `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Agent Configuration and Handoff Standard.md`.
@@ -66,6 +67,19 @@ provenance, implementation, validation, and escalation rules.
   committed LRITF corpus. Do not impersonate or infer JRH approval.
 - Do not represent repository output as official law or legal advice.
 
+## Decision routing (JRH, 2026-11-13)
+
+- JRH is the operator and the legal reviewer. Only strict legal questions go to JRH: which
+  law governs, whether an SCJN invalidation or a repeal stands, temporal status and dates
+  that require legal judgment. Everything non-legal (parsing, segmentation, linking, guards,
+  tooling, data design, presentation) is the agents' responsibility to work out and record.
+- Before asking, read the context first. Most answers are near where the question arises:
+  the page or two around the provision, the decree the note cites, the trail the reference
+  follows. Do not survey the whole corpus for a local question. Ask JRH only when the
+  context, once checked, still leaves the legal answer unclear.
+- Agents' non-legal decisions are still recorded (plan, `docs/decisions.md` or the commit),
+  with the evidence. Legal decisions still need JRH's word and are never inferred.
+
 ## Implementation discipline
 
 - Add a regression fixture for every material parser defect.
@@ -85,9 +99,7 @@ provenance, implementation, validation, and escalation rules.
   contributors, or that requires an explicit recovery and handoff sequence.
 - Keep living execution state in one task-named file under `docs/plans/`; do
   not create a generic mutable root `PLAN.md`.
-- Keep prepared source inventories and prompts distinct from execution plans,
-  and bind any external active-run capsule to the applicable task plan by path
-  and digest.
+- Keep prepared source inventories and prompts distinct from execution plans.
 
 ## Context budget
 
@@ -96,9 +108,9 @@ provenance, implementation, validation, and escalation rules.
   instrument only when that instrument is the work item.
 - Keep backlink expansion bounded to the named task. Do not follow links merely
   to build ambient context.
-- Checkpoint the active-run capsule at milestones. Between completed clusters,
-  start a fresh bounded session in the same harness and resume from the
-  task-named plan, capsule, and repository state rather than carrying
+- Update the task-named plan and `docs/project-status.md` at milestones.
+  Between completed clusters, start a fresh bounded session in the same harness
+  and resume from the task-named plan and repository state rather than carrying
   finished-cluster context.
 - Treat prepared prompt files and bulk corpora as script inputs, not reading
   material for the orchestrating model.

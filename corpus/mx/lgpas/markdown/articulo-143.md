@@ -7,8 +7,8 @@ provision_type: article
 number: "143"
 aliases: ["LGPAS — Artículo 143"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -21,7 +21,9 @@ A los productos o bienes decomisados, se les dará el destino que disponga la [S
 
 I. Remate en subasta pública;
 
-II. Venta directa de productos pesqueros; III. Donación a establecimientos de asistencia social o de rehabilitación, tratándose de productos de la pesca deportivo-recreativa o productos capturados en época de veda o en tallas menores a las autorizadas; y
+II. Venta directa de productos pesqueros;
+
+III. Donación a establecimientos de asistencia social o de rehabilitación, tratándose de productos de la pesca deportivo-recreativa o productos capturados en época de veda o en tallas menores a las autorizadas; y
 
 IV. Destrucción de productos contaminados o en estado de descomposición y en el caso de artes de pesca prohibidas, cuando sea procedente.
 

@@ -25,7 +25,9 @@ I Bis. Se deroga. Fracción adicionada DOF 26-12-2013. Derogada DOF 07-12-2020
 
 II. Navegación: La actividad que realiza una embarcación, para trasladarse por vías navegables de un punto a otro, con dirección y fines determinados.
 
-III. Comercio Marítimo: Las actividades que se realizan mediante la explotación comercial y marítima de embarcaciones y artefactos navales con objeto de transportar por agua personas, mercancías o cosas, o para realizar en el medio acuático una actividad de exploración, explotación o captura de recursos naturales, construcción o recreación. IV. Embarcación: Toda construcción diseñada para navegar sobre o bajo vías navegables.
+III. Comercio Marítimo: Las actividades que se realizan mediante la explotación comercial y marítima de embarcaciones y artefactos navales con objeto de transportar por agua personas, mercancías o cosas, o para realizar en el medio acuático una actividad de exploración, explotación o captura de recursos naturales, construcción o recreación.
+
+IV. Embarcación: Toda construcción diseñada para navegar sobre o bajo vías navegables.
 
 V. Artefacto Naval: Cualquier otra estructura fija o flotante, que sin haber sido diseñada y construida para navegar, sea susceptible de ser desplazada sobre el agua por sí misma o por una embarcación, o bien construida sobre el agua, para el cumplimiento de sus fines operativos.
 

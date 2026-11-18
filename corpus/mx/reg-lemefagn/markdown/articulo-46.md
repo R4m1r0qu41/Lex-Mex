@@ -7,8 +7,8 @@ provision_type: article
 number: "46"
 aliases: ["REG-LEMEFAGN — Artículo 46"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -49,7 +49,9 @@ F. Escuela Militar de Oficiales de Sanidad;
 
 G. Escuela Militar de Enfermería;
 
-H. Escuela Militar de Transmisiones; I. Escuela Militar de Materiales de Guerra;
+H. Escuela Militar de Transmisiones;
+
+I. Escuela Militar de Materiales de Guerra;
 
 J. Escuela Militar de Clases de las Armas, Servicio de Policía Militar y Guardia Nacional;
 

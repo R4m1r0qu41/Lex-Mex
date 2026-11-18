@@ -19,7 +19,9 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 Para los casos de Urgencia de Trasplante en la Asignación del hígado, el paciente debe encontrarse en cualquiera de las situaciones siguientes:
 
-I. Hepatitis fulminante o subfulminante, y II. Falla primaria del hígado trasplantado.
+I. Hepatitis fulminante o subfulminante, y
+
+II. Falla primaria del hígado trasplantado.
 
 En caso de existir varias Urgencias de Trasplante de hígado, se estará al orden de prelación establecido en las fracciones anteriores.
 

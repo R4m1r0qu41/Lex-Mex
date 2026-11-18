@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["REG-LOINAH — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf
 source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 ---
@@ -35,7 +35,9 @@ VII. Actualizar los contenidos de las exposiciones permanentes de sus museos, co
 
 VIII. Integrar, organizar e investigar los contenidos de las exposiciones temporales e itinerantes en las materias de su competencia;
 
-IX. Fomentar y gestionar la realización de exposiciones internacionales como medio de intercambio del conocimiento en las materias de su competencia, con la finalidad de exhibir los acervos y las culturas de México; X. Crear en sus museos las condiciones necesarias para garantizar la accesibilidad de todas las personas y formular programas específicos para su atención;
+IX. Fomentar y gestionar la realización de exposiciones internacionales como medio de intercambio del conocimiento en las materias de su competencia, con la finalidad de exhibir los acervos y las culturas de México;
+
+X. Crear en sus museos las condiciones necesarias para garantizar la accesibilidad de todas las personas y formular programas específicos para su atención;
 
 XI. Coadyuvar a la formación y desarrollo de museos para fortalecer el proceso educativo y la participación de la población, con la finalidad de difundir y divulgar el Patrimonio Cultural;
 

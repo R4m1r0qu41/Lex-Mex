@@ -23,4 +23,6 @@ I. Recibirán quejas, investigarán y, en su caso, por conducto de la persona ti
 
 II. Realizará sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía;
 
-III. Emitirá el Código de Ética para la actuación de las personas servidoras públicas adscritas al Centro, y IV. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y presentará a la persona titular de la Dirección General, a la [Junta de Gobierno](articulo-3.md) y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+III. Emitirá el Código de Ética para la actuación de las personas servidoras públicas adscritas al Centro, y
+
+IV. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; y presentará a la persona titular de la Dirección General, a la [Junta de Gobierno](articulo-3.md) y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.

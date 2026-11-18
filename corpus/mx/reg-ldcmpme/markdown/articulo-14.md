@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["REG-LDCMPME — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -33,7 +33,9 @@ VI. Diseñar, coordinar y ejecutar el Sistema General de Información y Consulta
 
 VII. Diseñar, instrumentar y operar, en el ámbito de su competencia, los esquemas de seguimiento e identificación de los resultados de los Programas previstos en el artículo [11](../../ldcmpme/markdown/articulo-11.md) de la Ley, con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal;
 
-VIII. Participar en el Consejo, los Grupos de Trabajo y aquéllos otros cuyas actividades incidan en el desarrollo de la competitividad de las MIPYMES; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA IX. Proponer y promover la revisión de trámites y del marco jurídico aplicable para establecer las condiciones que permitan la creación, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las MIPYMES;
+VIII. Participar en el Consejo, los Grupos de Trabajo y aquéllos otros cuyas actividades incidan en el desarrollo de la competitividad de las MIPYMES;
+
+IX. Proponer y promover la revisión de trámites y del marco jurídico aplicable para establecer las condiciones que permitan la creación, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las MIPYMES;
 
 X. Crear, diseñar, instrumentar y operar los apoyos para la innovación y desarrollo tecnológico de las MIPYMES, y
 

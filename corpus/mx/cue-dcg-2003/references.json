@@ -245,18 +245,6 @@
         "text": "fracción I",
         "start_char": 229,
         "end_char": 239
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos e",
-        "start_char": 271,
-        "end_char": 280
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso m",
-        "start_char": 309,
-        "end_char": 317
       }
     ],
     "basis": "express_cross_reference",
@@ -309,12 +297,6 @@
         "text": "inciso m",
         "start_char": 603,
         "end_char": 611
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso m",
-        "start_char": 700,
-        "end_char": 708
       }
     ],
     "basis": "express_cross_reference",
@@ -392,18 +374,6 @@
         "text": "incisos l",
         "start_char": 1465,
         "end_char": 1474
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1561,
-        "end_char": 1571
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos e",
-        "start_char": 1573,
-        "end_char": 1582
       }
     ],
     "basis": "express_cross_reference",
@@ -549,12 +519,6 @@
         "text": "incisos l",
         "start_char": 2426,
         "end_char": 2435
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 2449,
-        "end_char": 2459
       }
     ],
     "basis": "express_cross_reference",
@@ -699,12 +663,6 @@
         "text": "incisos l",
         "start_char": 311,
         "end_char": 320
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 334,
-        "end_char": 344
       }
     ],
     "basis": "express_cross_reference",
@@ -829,20 +787,7 @@
     "end_char": 4778,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso f",
-        "start_char": 4819,
-        "end_char": 4827
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4836,
-        "end_char": 4846
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -858,14 +803,7 @@
     "end_char": 4862,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 4896,
-        "end_char": 4906
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -929,14 +867,7 @@
     "end_char": 246,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 319,
-        "end_char": 331
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -980,24 +911,6 @@
         "text": "incisos b",
         "start_char": 602,
         "end_char": 611
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y IV",
-        "start_char": 624,
-        "end_char": 642
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 651,
-        "end_char": 661
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 663,
-        "end_char": 671
       }
     ],
     "basis": "express_cross_reference",
@@ -1027,12 +940,6 @@
         "text": "inciso h",
         "start_char": 901,
         "end_char": 909
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 919,
-        "end_char": 930
       }
     ],
     "basis": "express_cross_reference",
@@ -1143,12 +1050,6 @@
         "text": "inciso h",
         "start_char": 2289,
         "end_char": 2297
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 2307,
-        "end_char": 2318
       }
     ],
     "basis": "express_cross_reference",
@@ -1395,18 +1296,6 @@
         "text": "inciso c",
         "start_char": 3734,
         "end_char": 3742
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 3871,
-        "end_char": 3882
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 4287,
-        "end_char": 4299
       }
     ],
     "basis": "express_cross_reference",
@@ -1521,12 +1410,6 @@
         "text": "fracción III",
         "start_char": 1658,
         "end_char": 1670
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1773,
-        "end_char": 1784
       }
     ],
     "basis": "express_cross_reference",
@@ -1928,12 +1811,6 @@
         "text": "inciso l",
         "start_char": 341,
         "end_char": 349
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 357,
-        "end_char": 369
       }
     ],
     "basis": "express_cross_reference",
@@ -2093,14 +1970,7 @@
     "end_char": 7037,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:81-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 7258,
-        "end_char": 7272
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2148,14 +2018,7 @@
     "end_char": 9327,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:81-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 9548,
-        "end_char": 9562
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2522,12 +2385,6 @@
         "text": "segundo párrafo",
         "start_char": 2312,
         "end_char": 2327
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2459,
-        "end_char": 2473
       }
     ],
     "basis": "express_cross_reference",
@@ -2824,20 +2681,7 @@
     "end_char": 3051,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 3106,
-        "end_char": 3117
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 3127,
-        "end_char": 3137
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3340,18 +3184,6 @@
         "text": "párrafo cuarto",
         "start_char": 3846,
         "end_char": 3860
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 3883,
-        "end_char": 3891
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 3911,
-        "end_char": 3919
       }
     ],
     "basis": "express_cross_reference",
@@ -3387,24 +3219,6 @@
         "text": "párrafo cuarto",
         "start_char": 4381,
         "end_char": 4395
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 4418,
-        "end_char": 4426
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 4446,
-        "end_char": 4454
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 4647,
-        "end_char": 4655
       }
     ],
     "basis": "express_cross_reference",
@@ -3488,18 +3302,6 @@
         "text": "párrafo cuarto",
         "start_char": 5993,
         "end_char": 6007
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6030,
-        "end_char": 6038
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6058,
-        "end_char": 6066
       }
     ],
     "basis": "express_cross_reference",
@@ -3535,24 +3337,6 @@
         "text": "párrafo cuarto",
         "start_char": 6562,
         "end_char": 6576
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6600,
-        "end_char": 6608
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6628,
-        "end_char": 6636
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6796,
-        "end_char": 6804
       }
     ],
     "basis": "express_cross_reference",
@@ -3588,18 +3372,6 @@
         "text": "párrafo cuarto",
         "start_char": 18624,
         "end_char": 18638
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 18661,
-        "end_char": 18669
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 18689,
-        "end_char": 18697
       }
     ],
     "basis": "express_cross_reference",
@@ -3635,30 +3407,6 @@
         "text": "párrafo cuarto",
         "start_char": 19171,
         "end_char": 19185
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 19208,
-        "end_char": 19216
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 19236,
-        "end_char": 19244
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 19402,
-        "end_char": 19417
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 19419,
-        "end_char": 19427
       }
     ],
     "basis": "express_cross_reference",
@@ -3694,18 +3442,6 @@
         "text": "párrafo cuarto",
         "start_char": 21659,
         "end_char": 21673
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 21696,
-        "end_char": 21704
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 21724,
-        "end_char": 21732
       }
     ],
     "basis": "express_cross_reference",
@@ -3741,24 +3477,6 @@
         "text": "párrafo cuarto",
         "start_char": 22402,
         "end_char": 22416
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 22439,
-        "end_char": 22447
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 22467,
-        "end_char": 22475
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 22646,
-        "end_char": 22661
       }
     ],
     "basis": "express_cross_reference",
@@ -4205,20 +3923,7 @@
     "end_char": 3793,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 3847,
-        "end_char": 3858
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 3868,
-        "end_char": 3878
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4442,18 +4147,6 @@
         "text": "fracción III",
         "start_char": 7704,
         "end_char": 7716
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 7900,
-        "end_char": 7911
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 7913,
-        "end_char": 7921
       }
     ],
     "basis": "express_cross_reference",
@@ -4603,18 +4296,6 @@
         "text": "fracción III",
         "start_char": 6264,
         "end_char": 6276
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 6580,
-        "end_char": 6591
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6593,
-        "end_char": 6601
       }
     ],
     "basis": "express_cross_reference",
@@ -4825,30 +4506,6 @@
         "text": "inciso a",
         "start_char": 441,
         "end_char": 449
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 481,
-        "end_char": 493
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos b",
-        "start_char": 495,
-        "end_char": 504
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 523,
-        "end_char": 535
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 537,
-        "end_char": 545
       }
     ],
     "basis": "express_cross_reference",
@@ -5233,12 +4890,6 @@
         "text": "fracciones I y II",
         "start_char": 1034,
         "end_char": 1051
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1362,
-        "end_char": 1376
       }
     ],
     "basis": "express_cross_reference",
@@ -6135,18 +5786,6 @@
         "text": "incisos c",
         "start_char": 407,
         "end_char": 416
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 433,
-        "end_char": 445
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones III, V y IX",
-        "start_char": 453,
-        "end_char": 475
       }
     ],
     "basis": "express_cross_reference",
@@ -6208,24 +5847,6 @@
         "text": "inciso g",
         "start_char": 691,
         "end_char": 699
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II",
-        "start_char": 708,
-        "end_char": 721
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 723,
-        "end_char": 731
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 751,
-        "end_char": 759
       }
     ],
     "basis": "express_cross_reference",
@@ -6255,30 +5876,6 @@
         "text": "inciso a",
         "start_char": 1048,
         "end_char": 1056
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1074,
-        "end_char": 1084
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso d",
-        "start_char": 1086,
-        "end_char": 1094
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1102,
-        "end_char": 1112
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 1114,
-        "end_char": 1122
       }
     ],
     "basis": "express_cross_reference",
@@ -6566,12 +6163,6 @@
         "text": "incisos c",
         "start_char": 3449,
         "end_char": 3458
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 3471,
-        "end_char": 3483
       }
     ],
     "basis": "express_cross_reference",
@@ -6923,12 +6514,6 @@
         "text": "inciso f",
         "start_char": 12849,
         "end_char": 12857
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 12866,
-        "end_char": 12878
       }
     ],
     "basis": "express_cross_reference",
@@ -6990,12 +6575,6 @@
         "text": "incisos c",
         "start_char": 15603,
         "end_char": 15612
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 15626,
-        "end_char": 15638
       }
     ],
     "basis": "express_cross_reference",
@@ -8075,12 +7654,6 @@
         "text": "inciso f",
         "start_char": 105501,
         "end_char": 105509
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 105518,
-        "end_char": 105530
       }
     ],
     "basis": "express_cross_reference",
@@ -8277,12 +7850,6 @@
         "text": "fracción III",
         "start_char": 61,
         "end_char": 73
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 795,
-        "end_char": 807
       }
     ],
     "basis": "express_cross_reference",
@@ -8577,96 +8144,6 @@
         "text": "segundo párrafo",
         "start_char": 811,
         "end_char": 826
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 836,
-        "end_char": 850
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 856,
-        "end_char": 870
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 876,
-        "end_char": 890
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 896,
-        "end_char": 911
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y IV",
-        "start_char": 917,
-        "end_char": 938
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 944,
-        "end_char": 955
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 957,
-        "end_char": 966
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y IV",
-        "start_char": 982,
-        "end_char": 1003
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1009,
-        "end_char": 1023
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1033,
-        "end_char": 1048
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1054,
-        "end_char": 1068
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1074,
-        "end_char": 1088
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1098,
-        "end_char": 1110
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 1112,
-        "end_char": 1120
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 1131,
-        "end_char": 1145
       }
     ],
     "basis": "express_cross_reference",
@@ -9088,12 +8565,6 @@
         "text": "inciso m",
         "start_char": 132,
         "end_char": 140
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 149,
-        "end_char": 159
       }
     ],
     "basis": "express_cross_reference",
@@ -9123,18 +8594,6 @@
         "text": "inciso b",
         "start_char": 249,
         "end_char": 257
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 276,
-        "end_char": 286
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 288,
-        "end_char": 296
       }
     ],
     "basis": "express_cross_reference",
@@ -9226,12 +8685,6 @@
         "text": "inciso m",
         "start_char": 2206,
         "end_char": 2214
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 2223,
-        "end_char": 2233
       }
     ],
     "basis": "express_cross_reference",
@@ -9278,18 +8731,6 @@
         "text": "fracción I",
         "start_char": 238,
         "end_char": 248
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos k",
-        "start_char": 280,
-        "end_char": 289
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 335,
-        "end_char": 345
       }
     ],
     "basis": "express_cross_reference",

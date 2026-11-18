@@ -17,7 +17,9 @@ source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 
 # Artículo 167-H
 
-Son obligaciones de la agencia aduanal: I. Actuar siempre con ese carácter en los trámites o gestiones aduanales y no transmitir bajo cualquier título, el uso o goce de la autorización o de los derechos consignados en la misma, ni permitir el uso de cualesquiera de los derechos consignados en dicha autorización o de la autorización misma, por un tercero para la obtención de un lucro.
+Son obligaciones de la agencia aduanal:
+
+I. Actuar siempre con ese carácter en los trámites o gestiones aduanales y no transmitir bajo cualquier título, el uso o goce de la autorización o de los derechos consignados en la misma, ni permitir el uso de cualesquiera de los derechos consignados en dicha autorización o de la autorización misma, por un tercero para la obtención de un lucro.
 
 II. Manifestar en el pedimento o documento aduanero que corresponda el número de autorización de la agencia aduanal, así como el número de la patente del agente aduanal que intervenga en la operación aduanera de que se trate.
 

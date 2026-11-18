@@ -7,8 +7,8 @@ provision_type: article
 number: "38"
 aliases: ["LCEC — Artículo 38"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 38
 
-La [Secretaría](articulo-2.md) sancionará con multa de dos mil a tres mil salarios mínimos a las Cámaras o [Confederaciones](articulo-2.md) que incurran en las conductas siguientes:
+La [Secretaría](articulo-2.md) sancionará con multa de dos mil a tres mil salarios mínimos a las [Cámaras](articulo-2.md) o [Confederaciones](articulo-2.md) que incurran en las conductas siguientes:
 
 I. Destinar sus ingresos a fines distintos de su objeto;
 

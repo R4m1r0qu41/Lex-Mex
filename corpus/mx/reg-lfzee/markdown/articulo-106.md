@@ -7,8 +7,8 @@ provision_type: article
 number: "106"
 aliases: ["REG-LFZEE — Artículo 106"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -25,7 +25,9 @@ II. La regulación de las áreas de uso común;
 
 III. El control y acceso de tránsito de personas y bienes;
 
-IV. El intercambio de información entre los [Inversionistas](articulo-4.md) y el [Administrador Integral](articulo-4.md); V. La programación de instalación de los Inversionistas;
+IV. El intercambio de información entre los [Inversionistas](articulo-4.md) y el [Administrador Integral](articulo-4.md);
+
+V. La programación de instalación de los Inversionistas;
 
 VI. El manejo de cargas y medidas para la prevención de accidentes, y
 

@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 El conciliador tendrá fe pública para certificar:
 
-I. Los instrumentos con los que las partes acrediten la personalidad e identidad con que comparecen a la audiencia, para efecto de conservar una copia en el expediente respectivo; II. Todo lo que asiente en las actuaciones del procedimiento de conciliación y, en su caso, los convenios a los que lleguen las partes, y
+I. Los instrumentos con los que las partes acrediten la personalidad e identidad con que comparecen a la audiencia, para efecto de conservar una copia en el expediente respectivo;
+
+II. Todo lo que asiente en las actuaciones del procedimiento de conciliación y, en su caso, los convenios a los que lleguen las partes, y
 
 III. Las copias de los convenios que ante su presencia se celebren.
 

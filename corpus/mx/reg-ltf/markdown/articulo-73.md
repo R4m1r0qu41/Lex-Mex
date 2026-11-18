@@ -19,7 +19,9 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 El Auxiliar deberá inscribir en el sistema electrónico de información a que se refiere el [artículo anterior](articulo-72.md), las garantías no fiscales que haya aceptado y señalará, en lo que corresponda, cuando menos, la información siguiente:
 
-I. Tipo, fecha de expedición y número de identificación de la garantía; II. Obligaciones garantizadas;
+I. Tipo, fecha de expedición y número de identificación de la garantía;
+
+II. Obligaciones garantizadas;
 
 III. Monto garantizado y tipo de moneda;
 

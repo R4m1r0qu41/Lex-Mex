@@ -23,7 +23,9 @@ I. Vigilar el cumplimiento de la Ley, del presente Reglamento y de las demás di
 
 II. Llevar a cabo la [Promoción Turística](articulo-2.md) ante los mercados nacional e internacional, a través del Consejo de Promoción;
 
-III. Proponer a los Estados, Municipios, Distrito Federal y, en su caso, a los Prestadores de Servicios Turísticos, la realización de acciones comunes para la promoción y comercialización de los Destinos y Regiones Turísticas; IV. Establecer las bases de coordinación entre los tres órdenes de gobierno, para la regulación, administración y vigilancia de las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
+III. Proponer a los Estados, Municipios, Distrito Federal y, en su caso, a los Prestadores de Servicios Turísticos, la realización de acciones comunes para la promoción y comercialización de los Destinos y Regiones Turísticas;
+
+IV. Establecer las bases de coordinación entre los tres órdenes de gobierno, para la regulación, administración y vigilancia de las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
 
 V. Vigilar, en coordinación con las autoridades competentes, que en la planeación, programación, fomento y desarrollo del [Turismo](articulo-2.md) nacional, se observen los instrumentos de política ambiental, así como los ordenamientos en materia de desarrollo urbano;
 

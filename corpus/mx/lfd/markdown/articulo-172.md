@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas: Párrafo reformado DOF 20-12-1991, 30-12-1996
 
-I.- Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción federal, por cada 100 metros o fracción que exceda de dicha longitud ............................................ $3,656.83 Fracción reformada DOF 26-12-1990, 29-12-1997, 31-12-1998 II.- Estudios técnicos de planos, proyectos y memorias de obra para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras y puentes de jurisdicción federal ................................................................................................. $3,656.83 Fracción reformada DOF 29-12-1997, 31-12-1998
+I.- Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción federal, por cada 100 metros o fracción que exceda de dicha longitud ............................................ $3,656.83 Fracción reformada DOF 26-12-1990, 29-12-1997, 31-12-1998
+
+II.- Estudios técnicos de planos, proyectos y memorias de obra para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras y puentes de jurisdicción federal ................................................................................................. $3,656.83 Fracción reformada DOF 29-12-1997, 31-12-1998
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LEN — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf
 source_sha256: 1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a
 ---
@@ -29,4 +29,6 @@ IV. Fortalecer la educación naval, implementando en el proceso educativo estrat
 
 V. Mantener de forma continua, conocimientos, habilidades, adiestramiento y capacitación de los recursos humanos de la Institución;
 
-VI. Adecuar permanentemente el [Modelo Educativo](articulo-3.md) a las nuevas tecnologías y doctrina naval de la Secretaría de Marina, y VII. Fomentar la doctrina y [Cultura Naval](articulo-3.md) de México en los civiles y militares nacionales o extranjeros.
+VI. Adecuar permanentemente el [Modelo Educativo](articulo-3.md) a las nuevas tecnologías y doctrina naval de la Secretaría de Marina, y
+
+VII. Fomentar la doctrina y [Cultura Naval](articulo-3.md) de México en los civiles y militares nacionales o extranjeros.

@@ -21,7 +21,9 @@ El [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md), se susten
 
 I. Planeación. Las actividades de normalización deben estar alineadas a las políticas públicas derivadas del Sistema Nacional de Planeación Democrática.
 
-II. Transparencia. Los procesos de elaboración y aplicación de las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) deben ser abiertos y accesibles a todos los sectores económicos y sociales. III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las [Autoridades Normalizadoras](articulo-4.md), los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las [Entidades de Acreditación](articulo-4.md), los [Organismos de Evaluación de la Conformidad](articulo-4.md), el Centro Nacional de Metrología y los Institutos Designados de Metrología.
+II. Transparencia. Los procesos de elaboración y aplicación de las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) deben ser abiertos y accesibles a todos los sectores económicos y sociales.
+
+III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las [Autoridades Normalizadoras](articulo-4.md), los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las [Entidades de Acreditación](articulo-4.md), los [Organismos de Evaluación de la Conformidad](articulo-4.md), el Centro Nacional de Metrología y los Institutos Designados de Metrología.
 
 IV. Certidumbre. Los integrantes del Sistema Nacional de Infraestructura de la Calidad deben actuar en estricto apego a las disposiciones legales aplicables.
 

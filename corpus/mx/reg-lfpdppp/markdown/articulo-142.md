@@ -7,8 +7,8 @@ provision_type: article
 number: "142"
 aliases: ["REG-LFPDPPP — Artículo 142"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf
 source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 ---

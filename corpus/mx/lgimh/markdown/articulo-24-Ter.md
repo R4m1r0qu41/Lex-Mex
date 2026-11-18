@@ -7,8 +7,8 @@ provision_type: article
 number: "24 Ter"
 aliases: ["LGIMH — Artículo 24 Ter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf
 source_sha256: 51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44
 ---
@@ -25,7 +25,9 @@ II. Una persona representante de la Suprema Corte de Justicia de la Nación;
 
 III. Una persona representante del Tribunal Federal de Justicia Administrativa;
 
-IV. La persona diputada que presida la Comisión de [Igualdad de Género](articulo-5.md) de la Cámara de Diputados; V. La persona senadora que presida la Comisión para la Igualdad de Género del Senado de la República;
+IV. La persona diputada que presida la Comisión de [Igualdad de Género](articulo-5.md) de la Cámara de Diputados;
+
+V. La persona senadora que presida la Comisión para la Igualdad de Género del Senado de la República;
 
 VI. Una persona representante del Instituto Nacional Electoral;
 

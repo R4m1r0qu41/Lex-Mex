@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "III",
     "start_char": 312,
-    "end_char": 438,
+    "end_char": 439,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "IV",
-    "start_char": 438,
-    "end_char": 664,
+    "start_char": 439,
+    "end_char": 665,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "V",
-    "start_char": 664,
-    "end_char": 811,
+    "start_char": 665,
+    "end_char": 812,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "VI",
-    "start_char": 811,
-    "end_char": 925,
+    "start_char": 812,
+    "end_char": 926,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "VII",
-    "start_char": 925,
-    "end_char": 1133,
+    "start_char": 926,
+    "end_char": 1134,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "VIII",
-    "start_char": 1133,
-    "end_char": 1182,
+    "start_char": 1134,
+    "end_char": 1183,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "IX",
-    "start_char": 1182,
-    "end_char": 1369,
+    "start_char": 1183,
+    "end_char": 1370,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrpv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
     "fraction": "X",
-    "start_char": 1369,
-    "end_char": 1573,
+    "start_char": 1370,
+    "end_char": 1574,
     "basis": "express_definition"
   }
 ]

@@ -21,7 +21,9 @@ La Secretaría de Infraestructura, Comunicaciones y Transportes está facultada 
 
 I.- Para ordenar, de acuerdo con las posibilidades económicas de las empresas, que se lleven a cabo en las vías de comunicación y medios de transporte, sus servicios auxiliares, sus dependencias y accesorios, las obras de construcción, de reparación y de conservación que sean necesarias para la mayor seguridad del público.
 
-II.- Para ordenar que se suspenda el servicio de las vías o medios de transporte, cuando no reunan las condiciones debidas de eficacia, seguridad e higiene; III.- Para exigir que el personal de conducción de toda clase de vehículos cumpla en todo tiempo con los requisitos de esta ley y sus reglamentos;
+II.- Para ordenar que se suspenda el servicio de las vías o medios de transporte, cuando no reunan las condiciones debidas de eficacia, seguridad e higiene;
+
+III.- Para exigir que el personal de conducción de toda clase de vehículos cumpla en todo tiempo con los requisitos de esta ley y sus reglamentos;
 
 IV.- Para ordenar la inspección de las vías y sus dependencias, las fabricas de vehículos, talleres y material de construcción que en éstas se emplee;
 

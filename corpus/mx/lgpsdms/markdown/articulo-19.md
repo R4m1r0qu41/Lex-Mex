@@ -21,7 +21,9 @@ Los sentenciados por los delitos a que se refiere la presente [Ley](articulo-4.m
 
 Quienes colaboren proporcionando datos fehacientes o suficientes elementos de convicción a la autoridad en la investigación y persecución de otros miembros de la delincuencia organizada o de bandas de personas dedicadas a la comisión de delitos en materia de secuestros y para la localización y liberación de las víctimas conforme al Código Penal Federal y la legislación aplicable en materia de ejecución de sanciones, tendrán derecho a los beneficios citados en el primer párrafo del presente artículo, siempre que concurran todas las condiciones que a continuación se enuncian: Párrafo reformado DOF 17-06-2016
 
-I. Respecto de los delitos sancionados con una pena que no exceda de cuatro años de prisión; II. El sentenciado acepte voluntariamente la colocación de un dispositivo de localización por el tiempo que falte cumplir la pena de prisión y pague el costo de su operación y mantenimiento;
+I. Respecto de los delitos sancionados con una pena que no exceda de cuatro años de prisión;
+
+II. El sentenciado acepte voluntariamente la colocación de un dispositivo de localización por el tiempo que falte cumplir la pena de prisión y pague el costo de su operación y mantenimiento;
 
 III. El sentenciado sea primodelincuente;
 

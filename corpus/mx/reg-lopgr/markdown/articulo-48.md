@@ -39,4 +39,6 @@ IX. Opinar sobre la información y datos de la página de Internet de la Procura
 
 X. Coordinarse con la Dirección General de Asuntos Jurídicos, para el cumplimiento, en el desempeño de sus funciones, de las disposiciones y políticas institucionales en materia de transparencia y acceso a la información pública gubernamental;
 
-XI. Supervisar el cumplimiento de los lineamientos y disposiciones aplicables a las características y uso de la imagen institucional gráfica en cualquier pieza comunicacional de distribución externa o interna que contenga información sobre acciones o programas de la Procuraduría, y XII. Establecer las políticas, estrategias y normas para el desarrollo, contenido y administración de la página de Internet de la Procuraduría, en coordinación con las Unidades Administrativas competentes.
+XI. Supervisar el cumplimiento de los lineamientos y disposiciones aplicables a las características y uso de la imagen institucional gráfica en cualquier pieza comunicacional de distribución externa o interna que contenga información sobre acciones o programas de la Procuraduría, y
+
+XII. Establecer las políticas, estrategias y normas para el desarrollo, contenido y administración de la página de Internet de la Procuraduría, en coordinación con las Unidades Administrativas competentes.

@@ -17,7 +17,9 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 # Artículo 184
 
-El Consejo Nacional de Inclusión Financiera tendrá las funciones siguientes: I. Conocer, analizar y formular propuestas respecto de las políticas relacionadas con la inclusión financiera y emitir opiniones sobre su cumplimiento;
+El Consejo Nacional de Inclusión Financiera tendrá las funciones siguientes:
+
+I. Conocer, analizar y formular propuestas respecto de las políticas relacionadas con la inclusión financiera y emitir opiniones sobre su cumplimiento;
 
 II. Formular los lineamientos de Política Nacional de Inclusión Financiera;
 

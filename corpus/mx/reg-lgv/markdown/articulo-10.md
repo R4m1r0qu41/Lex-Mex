@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["REG-LGV — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -17,7 +17,9 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 10
 
-En el caso de que la víctima acuda directamente a la Comisión Ejecutiva para solicitar atención, asistencia y protección, ésta procederá del modo siguiente: I. Realizará una primera entrevista a la víctima y se harán de su conocimiento los derechos que en su favor establece la normativa vigente y el modo de ejercerlos;
+En el caso de que la víctima acuda directamente a la Comisión Ejecutiva para solicitar atención, asistencia y protección, ésta procederá del modo siguiente:
+
+I. Realizará una primera entrevista a la víctima y se harán de su conocimiento los derechos que en su favor establece la normativa vigente y el modo de ejercerlos;
 
 II. Completará el [Formato](articulo-3.md) en los casos en que no se haya llevado a cabo con anterioridad y lo remitirá al [Comité](articulo-3.md) Interdisciplinario Evaluador;
 

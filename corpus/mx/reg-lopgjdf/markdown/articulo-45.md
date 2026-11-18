@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["REG-LOPGJDF — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -37,7 +37,9 @@ VIII. Dirigir y coordinar la elaboración, actualización y edición de material
 
 IX. Dirigir y actualizar la página de Internet de la Institución como medio masivo de difusión en coordinación con la Dirección General de Tecnología y Sistemas Informáticos;
 
-X. Coordinar y brindar el apoyo que requieran las unidades administrativas y órganos desconcentrados de la Institución, en la organización de eventos que requieran el apoyo de relaciones públicas; XI. Mantener un archivo actualizado de las informaciones emitidas, así como de las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, materiales audiovisuales y otras publicaciones oficiales de la Procuraduría para su consulta por las áreas interesadas;
+X. Coordinar y brindar el apoyo que requieran las unidades administrativas y órganos desconcentrados de la Institución, en la organización de eventos que requieran el apoyo de relaciones públicas;
+
+XI. Mantener un archivo actualizado de las informaciones emitidas, así como de las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, materiales audiovisuales y otras publicaciones oficiales de la Procuraduría para su consulta por las áreas interesadas;
 
 XII. Realizar estudios y encuestas de opinión pública que permitan estructurar o modificar los programas de comunicación social de la Procuraduría para tener elementos de juicio y conocer su impacto en la sociedad;
 

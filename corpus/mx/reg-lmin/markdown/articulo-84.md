@@ -7,8 +7,8 @@ provision_type: article
 number: "84"
 aliases: ["REG-LMIN — Artículo 84"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -17,7 +17,9 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 84
 
-Las solicitudes para rectificar, modificar o cancelar una inscripción, deberán contener: I. Nombre de la parte o partes afectadas;
+Las solicitudes para rectificar, modificar o cancelar una inscripción, deberán contener:
+
+I. Nombre de la parte o partes afectadas;
 
 II. Datos de la inscripción en el [Registro](articulo-1o.md), y
 

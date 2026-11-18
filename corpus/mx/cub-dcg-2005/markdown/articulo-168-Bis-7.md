@@ -11,13 +11,13 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [76]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo VI
 
 # Artículo 168 Bis 7
 
-El comité de riesgos, adicionalmente a lo establecido en el Artículo [71](articulo-71.md) de las presentes disposiciones, deberá elaborar y presentar al consejo de administración un reporte anual sobre el desempeño del Sistema de Remuneración, considerando al efecto la relación de equilibrio entre los riesgos asumidos por la institución de banca múltiple y sus unidades de negocio, o en su caso, por algún empleado en particular o persona sujeta al Sistema de Remuneración, y las remuneraciones aplicables durante el ejercicio. En su caso, el reporte incluirá una descripción de los eventos que hayan derivado en ajustes al Sistema de Remuneración y el resultado de los análisis que sobre el desempeño estimado haya elaborado el propio comité de riesgos.
+El comité de riesgos, adicionalmente a lo establecido en el Artículo [71](articulo-71.md) de las presentes disposiciones, deberá elaborar y presentar al consejo de administración un reporte anual sobre el desempeño del [Sistema de Remuneración](articulo-1.md), considerando al efecto la relación de equilibrio entre los riesgos asumidos por la institución de banca múltiple y sus unidades de negocio, o en su caso, por algún empleado en particular o persona sujeta al Sistema de Remuneración, y las remuneraciones aplicables durante el ejercicio. En su caso, el reporte incluirá una descripción de los eventos que hayan derivado en ajustes al Sistema de Remuneración y el resultado de los análisis que sobre el desempeño estimado haya elaborado el propio comité de riesgos.
 
 Lo anterior, sin perjuicio de lo dispuesto por el último párrafo del Artículo [168 Bis 10](articulo-168-Bis-10.md) de estas disposiciones.

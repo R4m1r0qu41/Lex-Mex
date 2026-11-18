@@ -7,8 +7,8 @@ provision_type: article
 number: "52"
 aliases: ["LGIPD — Artículo 52"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
 source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 ---
@@ -17,7 +17,9 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 52
 
-La Asamblea Consultiva tendrá las siguientes atribuciones: I. Atender las consultas y formular las opiniones que les sean solicitadas por la Junta de Gobierno o por el Director General del [Consejo](articulo-2.md);
+La Asamblea Consultiva tendrá las siguientes atribuciones:
+
+I. Atender las consultas y formular las opiniones que les sean solicitadas por la Junta de Gobierno o por el Director General del [Consejo](articulo-2.md);
 
 II. Emitir opiniones y formular propuestas sobre la aplicación y orientación de la [Política Pública](articulo-2.md) para el Desarrollo y la Inclusión de las personas con discapacidad;
 

@@ -19,7 +19,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Cuando las obligaciones se hayan contraído bajo condición suspensiva, y pendiente ésta, se perdiere, deteriorare o bien se mejore la cosa que fue objeto del contrato, se observarán las disposiciones siguientes:
 
-I. Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación; II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y perjuicios.
+I. Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación;
+
+II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y perjuicios.
 
 Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el artículo [2021](articulo-2021.md).
 

@@ -21,4 +21,6 @@ El Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md), podrá ot
 
 Sólo podrán adherirse al mecanismo de contratación de [Deuda Estatal Garantizada](articulo-2.md), los Estados y Municipios que cumplan con lo siguiente:
 
-I. Que hayan celebrado convenio con la Secretaría, en términos de este Capítulo, y II. Afecten participaciones federales suficientes que les correspondan, conforme a la Ley de Coordinación Fiscal, bajo un vehículo específico de pago y en los términos que se convengan con la Secretaría.
+I. Que hayan celebrado convenio con la Secretaría, en términos de este Capítulo, y
+
+II. Afecten participaciones federales suficientes que les correspondan, conforme a la Ley de Coordinación Fiscal, bajo un vehículo específico de pago y en los términos que se convengan con la Secretaría.

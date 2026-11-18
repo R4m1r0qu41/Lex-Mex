@@ -21,7 +21,9 @@ La Junta de Gobierno tendrá las atribuciones siguientes:
 
 I. Opinar y coadyuvar con las autoridades competentes de la Secretaría de Hacienda y Crédito Público, en la elaboración de las medidas de política fiscal y aduanera necesarias para la formulación y ejecución del Plan Nacional de Desarrollo y de los programas sectoriales, así como llevar a cabo los programas especiales y los asuntos que el propio Secretario de Hacienda y Crédito Público le encomiende ejecutar y coordinar en esas materias;
 
-II. Someter a la consideración de las autoridades competentes de la Secretaría de Hacienda y Crédito Público su opinión sobre los proyectos de iniciativas de ley, decretos, acuerdos, órdenes, resoluciones administrativas y disposiciones de carácter general que en las materias fiscal y aduanera corresponda expedir o promover a la propia Secretaría; III. Aprobar los programas y presupuestos del Servicio de Administración Tributaria, así como sus modificaciones, en los términos de la legislación aplicable y de acuerdo con los lineamientos previstos en el artículo [5](articulo-5o.md)o., fracción IV;
+II. Someter a la consideración de las autoridades competentes de la Secretaría de Hacienda y Crédito Público su opinión sobre los proyectos de iniciativas de ley, decretos, acuerdos, órdenes, resoluciones administrativas y disposiciones de carácter general que en las materias fiscal y aduanera corresponda expedir o promover a la propia Secretaría;
+
+III. Aprobar los programas y presupuestos del Servicio de Administración Tributaria, así como sus modificaciones, en los términos de la legislación aplicable y de acuerdo con los lineamientos previstos en el artículo [5](articulo-5o.md)o., fracción IV;
 
 IV. Aprobar la estructura orgánica básica del Servicio de Administración Tributaria y las modificaciones que procedan a la misma, de conformidad con las disposiciones jurídicas aplicables, así como el anteproyecto de Reglamento Interior del Servicio de Administración Tributaria y sus modificaciones correspondientes;
 

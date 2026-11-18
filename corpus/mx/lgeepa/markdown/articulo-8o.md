@@ -35,7 +35,9 @@ VII.- La aplicación de las disposiciones jurídicas en materia de prevención y
 
 VIII.- La formulación y expedición de los programas de ordenamiento ecológico local del territorio a que se refiere el artículo [20 BIS 4](articulo-20-BIS-4.md) de esta Ley, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas;
 
-IX.- La preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, siempre y cuando no se trate de facultades otorgadas a la Federación o a los Estados en la presente Ley; X.- La participación en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios y que generen efectos ambientales en su circunscripción territorial;
+IX.- La preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, siempre y cuando no se trate de facultades otorgadas a la Federación o a los Estados en la presente Ley;
+
+X.- La participación en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios y que generen efectos ambientales en su circunscripción territorial;
 
 XI.- La participación en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan;
 

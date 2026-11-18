@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Contenido de la carpeta de ejecución La carpeta de ejecución deberá contener cuando menos los siguientes documentos:
 
-I. Sentencia definitiva de primera instancia y auto que la declare ejecutoriada; II. Sentencia definitiva de segunda instancia si fuera el caso;
+I. Sentencia definitiva de primera instancia y auto que la declare ejecutoriada;
+
+II. Sentencia definitiva de segunda instancia si fuera el caso;
 
 III. Sentencia de amparo vinculada a dichas resoluciones, en su caso;
 

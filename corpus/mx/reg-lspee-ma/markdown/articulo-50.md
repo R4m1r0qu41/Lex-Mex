@@ -7,8 +7,8 @@ provision_type: article
 number: "50"
 aliases: ["REG-LSPEE-MA — Artículo 50"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf
 source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 ---
@@ -19,7 +19,9 @@ source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 
 El suministrador deberá elaborar y presentar en los meses de febrero y agosto de cada año a la Comisión Reguladora de Energía, un informe semestral sobre: Párrafo reformado DOF 16-12-2011
 
-I. Las reclamaciones recibidas y atendidas; II. Los asuntos en que haya intervenido la Comisión Reguladora de Energía y, en su caso, las resoluciones definitivas recaídas, y
+I. Las reclamaciones recibidas y atendidas;
+
+II. Los asuntos en que haya intervenido la Comisión Reguladora de Energía y, en su caso, las resoluciones definitivas recaídas, y
 
 III. El seguimiento dado a las reclamaciones dentro del periodo.
 

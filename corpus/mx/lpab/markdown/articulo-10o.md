@@ -19,7 +19,9 @@ source_sha256: 40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8
 
 El [Instituto](articulo-5o.md) no garantizará las operaciones siguientes:
 
-I. Las obligaciones a favor de entidades financieras, nacionales o extranjeras; II. Las obligaciones a favor de cualquier sociedad que forme parte del grupo financiero al cual, en su caso, pertenezca la [Institución](articulo-5o.md);
+I. Las obligaciones a favor de entidades financieras, nacionales o extranjeras;
+
+II. Las obligaciones a favor de cualquier sociedad que forme parte del grupo financiero al cual, en su caso, pertenezca la [Institución](articulo-5o.md);
 
 III. Los pasivos documentados en títulos negociables, así como los títulos emitidos al portador. Las obligaciones garantizadas, documentadas en títulos nominativos, quedarán cubiertas en términos del artículo [6](articulo-6o.md)o. de esta Ley, siempre y cuando los títulos no hayan sido negociados;
 

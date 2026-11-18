@@ -21,7 +21,9 @@ Para el conocimiento público sobre el [Señalamiento Marítimo](articulo-10.md)
 
 I. Reportes meteorológicos;
 
-II. Reportes sobre el estado operativo de las ayudas a la Navegación; III. Aviso a los marinos;
+II. Reportes sobre el estado operativo de las ayudas a la Navegación;
+
+III. Aviso a los marinos;
 
 IV. Cuaderno de faros;
 

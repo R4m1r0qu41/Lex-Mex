@@ -9,7 +9,7 @@ aliases: ["DCG-OAAC-2009 — Artículo 59 Bis 48"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [22]
+amendment_marks: [22,104]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf
 source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 ---
@@ -18,8 +18,6 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 59 Bis 48
 
-Los almacenes generales de depósito deberán asegurarse de que la mercancía (104)
-
-depositada en bodegas o locales propios, arrendados, en comodato o habilitados, según corresponda, esté debidamente separada de otras de distinta calidad, por lo que no podrá ser mezclada con productos que correspondan a una calidad diferente, de acuerdo con lo señalado en el certificado de depósito.
+Los almacenes generales de depósito deberán asegurarse de que la mercancía depositada en bodegas o locales propios, arrendados, en comodato o habilitados, según corresponda, esté debidamente separada de otras de distinta calidad, por lo que no podrá ser mezclada con productos que correspondan a una calidad diferente, de acuerdo con lo señalado en el certificado de depósito.
 
 Sección Décima Segunda De las reglas básicas de seguridad

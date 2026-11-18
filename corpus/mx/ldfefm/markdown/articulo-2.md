@@ -17,7 +17,9 @@ source_sha256: 04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247
 
 # Artículo 2
 
-Para efectos de esta Ley, en singular o plural, se entenderá por: I. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice; Fracción reformada DOF 30-01-2018
+Para efectos de esta Ley, en singular o plural, se entenderá por:
+
+I. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice; Fracción reformada DOF 30-01-2018
 
 II. Balance presupuestario: la diferencia entre los [Ingresos totales](articulo-2.md) incluidos en la [Ley de Ingresos](articulo-2.md), y los [Gastos totales](articulo-2.md) considerados en el [Presupuesto de Egresos](articulo-2.md), con excepción de la amortización de la deuda;
 
@@ -39,7 +41,9 @@ IX. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los organism
 
 X. Entidades Federativas: los Estados de la Federación y la Ciudad de México;
 
-XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente; XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las [Disponibilidades](articulo-2.md), menos las amortizaciones efectuadas de la [Deuda Pública](articulo-2.md); Fracción reformada DOF 30-01-2018
+XI. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+
+XII. Financiamiento Neto: la suma de las disposiciones realizadas de un Financiamiento, y las [Disponibilidades](articulo-2.md), menos las amortizaciones efectuadas de la [Deuda Pública](articulo-2.md); Fracción reformada DOF 30-01-2018
 
 XIII. Fuente de pago: los recursos utilizados por los Entes Públicos para el pago de cualquier Financiamiento u Obligación;
 
@@ -75,7 +79,7 @@ XXVII. Ley de Ingresos: la ley de ingresos de las Entidades Federativas o de los
 
 XXVIII. Municipios: los Municipios de cada Estado;
 
-XXIX. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
+XXIX. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las [Asociaciones Público-Privadas](articulo-2.md);
 
 XXX. Obligaciones a corto plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
@@ -85,7 +89,9 @@ XXXII. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los
 
 XXXIII. Presupuesto de Egresos: el presupuesto de egresos de cada Entidad Federativa o Municipio, aprobado por la Legislatura local o el Ayuntamiento, respectivamente;
 
-XXXIV. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento; XXXV. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
+XXXIV. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
+
+XXXV. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
 
 XXXVI. Registro Público Único: el registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos;
 

@@ -19,7 +19,9 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 El Consejo de Estabilidad del Sistema Financiero se integrará por los siguientes funcionarios:
 
-I. El Secretario de Hacienda y Crédito Público; II. El Subsecretario de Hacienda y Crédito Público;
+I. El Secretario de Hacienda y Crédito Público;
+
+II. El Subsecretario de Hacienda y Crédito Público;
 
 III. El Presidente de la Comisión Nacional Bancaria y de Valores;
 

@@ -33,7 +33,9 @@ VI. Gaceta: La Gaceta Parlamentaria de la Cámara de Diputados;
 
 VII. Grupo o grupos: El Grupo Parlamentario o grupos parlamentarios representados en la Cámara de Diputados;
 
-VIII. Junta: La Junta de Coordinación Política de la Cámara de Diputados; IX. Junta Directiva: La [Mesa Directiva](articulo-2.md) de las comisiones y de los comités;
+VIII. Junta: La Junta de Coordinación Política de la Cámara de Diputados;
+
+IX. Junta Directiva: La [Mesa Directiva](articulo-2.md) de las comisiones y de los comités;
 
 X. Ley: La Ley Orgánica del Congreso General de los Estados Unidos Mexicanos;
 

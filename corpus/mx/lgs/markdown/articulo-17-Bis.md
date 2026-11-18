@@ -27,7 +27,9 @@ II. Proponer a la persona titular de la Secretaría de Salud la política nacion
 
 III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo [3](articulo-3o.md)o. de esta Ley;
 
-IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establecen o deriven de esta Ley, sus reglamentos, las normas oficiales mexicanas y los demás ordenamientos aplicables; V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establecen o deriven de esta Ley, sus reglamentos, las normas oficiales mexicanas y los demás ordenamientos aplicables;
+
+V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
 
 VI. Ejercer el control y vigilancia sanitaria de los productos, sustancias y productos que los contienen, respecto de los señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y sustancias y los establecimientos de salud, con independencia de las facultades que en materia de procesos y prácticas aplicables en los establecimientos dedicados al sacrificio de animales y procesamiento primario de bienes de origen animal para consumo humano, tenga la Secretaría de Agricultura y Desarrollo Rural en términos de la Ley Federal de Sanidad Animal; Fracción reformada DOF 07-06-2012, 15-01-2026
 

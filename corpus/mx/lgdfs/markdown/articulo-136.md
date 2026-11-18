@@ -49,7 +49,9 @@ XIV. Proporcionar la asesoría y capacitación jurídica, administrativa, técni
 
 XV. Establecer programas de apoyo de largo plazo que contemplen todas las etapas del ciclo de producción forestal;
 
-XVI. Impulsar la planeación y desarrollo de infraestructura forestal; XVII. Desarrollar, adaptar y aplicar innovaciones tecnológicas a lo largo de la cadena productiva;
+XVI. Impulsar la planeación y desarrollo de infraestructura forestal;
+
+XVII. Desarrollar, adaptar y aplicar innovaciones tecnológicas a lo largo de la cadena productiva;
 
 XVIII. Desarrollar mecanismos adecuados de financiamiento que tomen en cuenta el largo plazo de formación del producto forestal, las bajas tasas de interés por su lento crecimiento y los riesgos de su producción, así como la habilitación o, en caso necesario, la sustitución de garantías para la operación de créditos, fianzas y seguros;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LGAAS — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -25,6 +25,8 @@ I. Promover que todos los servicios de salud protejan, promuevan y apoyen la lac
 
 II. Implementar medidas para prevenir la discriminación hacia las mujeres que en espacios públicos ejerzan la lactancia;
 
-III. Implementar adecuadamente el Código Internacional de la Comercialización de los Sucedáneos de la Leche Materna; IV. Promover sistemas de monitoreo que den seguimiento de políticas, programas y recursos económicos para cumplir con los objetivos de esta Ley, y
+III. Implementar adecuadamente el Código Internacional de la Comercialización de los Sucedáneos de la Leche Materna;
+
+IV. Promover sistemas de monitoreo que den seguimiento de políticas, programas y recursos económicos para cumplir con los objetivos de esta Ley, y
 
 V. Capacitar al personal de salud y de administración de servicios de salud para evitar acciones que puedan demeritar el fomento de la lactancia materna exclusiva durante los primeros seis meses de vida y la alimentación complementaria oportuna.

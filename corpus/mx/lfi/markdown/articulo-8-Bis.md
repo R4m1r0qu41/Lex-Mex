@@ -35,7 +35,9 @@ IV. Su duración, la cual podrá ser indefinida;
 
 V. El domicilio del fondo el cual deberá ubicarse en territorio nacional;
 
-VI. El capital mínimo totalmente pagado que deberá mantener, en términos de las disposiciones de carácter general que expida la Comisión, de conformidad con el artículo [14 Bis](articulo-14-Bis.md) de esta Ley, y VII. Las indicaciones relativas a sus acciones y accionistas contenidas en los artículos [14 Bis](articulo-14-Bis.md) a [14 Bis 3](articulo-14-Bis-3.md) de la presente Ley.
+VI. El capital mínimo totalmente pagado que deberá mantener, en términos de las disposiciones de carácter general que expida la Comisión, de conformidad con el artículo [14 Bis](articulo-14-Bis.md) de esta Ley, y
+
+VII. Las indicaciones relativas a sus acciones y accionistas contenidas en los artículos [14 Bis](articulo-14-Bis.md) a [14 Bis 3](articulo-14-Bis-3.md) de la presente Ley.
 
 Los requisitos a que se refieren las fracciones anteriores y las demás reglas que se establezcan en el acta constitutiva sobre la organización y funcionamiento del fondo de inversión constituirán los estatutos del mismo.
 

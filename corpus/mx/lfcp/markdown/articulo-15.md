@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["LFCP — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf
 source_sha256: 471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535
 ---
@@ -21,7 +21,9 @@ I.- Ejercer personalmente su función, con probidad, rectitud y eficiencia;
 
 II.- No retrasar indebidamente la conclusión de los asuntos que se le planteen;
 
-III.- Proponer los negocios con exactitud, claridad y precisión; IV.- Asegurarse de la identidad de las partes que contraten, convengan o ratifiquen ante su fe, así como de su capacidad legal para contratar y obligarse, así como orientar y explicar a las partes o comparecientes el valor y las consecuencias legales de los actos de que se trate;
+III.- Proponer los negocios con exactitud, claridad y precisión;
+
+IV.- Asegurarse de la identidad de las partes que contraten, convengan o ratifiquen ante su fe, así como de su capacidad legal para contratar y obligarse, así como orientar y explicar a las partes o comparecientes el valor y las consecuencias legales de los actos de que se trate;
 
 V.- Guardar secreto profesional en lo relativo al ejercicio de sus funciones y, cuando actúe con el carácter de mediador, no revelar, mientras no se concluya el acto, convenio o contrato, los nombres de los contratantes ni los datos o informes sobre el acto, a menos que lo exija la ley o la naturaleza de la operación, o medie consentimiento de las partes;
 

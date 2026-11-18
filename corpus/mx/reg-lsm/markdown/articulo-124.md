@@ -21,7 +21,9 @@ Los reservistas dentro de sus respectivas Reservas podrán ascender a Cabos y Sa
 
 I.- Que gocen de buena salud comprobada mediante certificado médico;
 
-II.- Que hayan observado buena conducta, acreditada por los Jefes de quienes dependan; III.- Que tengan en cada empleo un tiempo mínimo de 6 meses;
+II.- Que hayan observado buena conducta, acreditada por los Jefes de quienes dependan;
+
+III.- Que tengan en cada empleo un tiempo mínimo de 6 meses;
 
 IV.- Que cubran un promedio mínimo de asistencia e instrucción y demás práctica de un 80%;
 

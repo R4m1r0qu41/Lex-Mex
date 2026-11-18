@@ -27,4 +27,6 @@ III. Se esté en los supuestos previstos en el [artículo anterior](articulo-28.
 
 IV. En los casos de clasificación inicial y exista solicitud patronal por escrito manifestando desacuerdo con su clasificación y dicha solicitud sea procedente, conforme a lo dispuesto en este Capítulo;
 
-V. Se derive de una corrección o de un dictamen emitido por contador público autorizado y sea procedente en los términos de este Reglamento, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN VI. En los casos que señala el párrafo segundo del artículo [18](articulo-18.md) de este Reglamento.
+V. Se derive de una corrección o de un dictamen emitido por contador público autorizado y sea procedente en los términos de este Reglamento, y
+
+VI. En los casos que señala el párrafo segundo del artículo [18](articulo-18.md) de este Reglamento.

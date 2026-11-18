@@ -43,7 +43,9 @@ XI. No conducir vehículos;
 
 XII. Abstenerse de viajar al extranjero;
 
-XIII. Cumplir con los deberes de deudor alimentario, o XIV. Cualquier otra condición que, a juicio del Juez de control, logre una efectiva tutela de los derechos de la víctima.
+XIII. Cumplir con los deberes de deudor alimentario, o
+
+XIV. Cualquier otra condición que, a juicio del Juez de control, logre una efectiva tutela de los derechos de la víctima.
 
 Para fijar las condiciones, el Juez de control podrá disponer que el imputado sea sometido a una evaluación previa. El [Ministerio Público](articulo-3o.md), la víctima u ofendido, podrán proponer al Juez de control condiciones a las que consideran debe someterse el imputado.
 

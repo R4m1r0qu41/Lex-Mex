@@ -39,7 +39,9 @@ IX. Anualidad vigente;
 
 X. Datos sobre los informes presentados durante el ciclo de corta;
 
-XI. La referencia, en su caso, de que el predio no tiene antecedentes de infracciones durante todo el ciclo de corta vigente; XII. En su caso, número y fecha de expedición del certificado de manejo forestal;
+XI. La referencia, en su caso, de que el predio no tiene antecedentes de infracciones durante todo el ciclo de corta vigente;
+
+XII. En su caso, número y fecha de expedición del certificado de manejo forestal;
 
 XIII. En su caso, fecha de expiración del certificado de manejo forestal, y
 

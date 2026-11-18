@@ -7,8 +7,8 @@ provision_type: article
 number: "92"
 aliases: ["LOEFAM — Artículo 92"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf
 source_sha256: 6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7
 ---
@@ -27,6 +27,8 @@ III. Vigilar que los militares procesados y sentenciados, conserven su capacidad
 
 IV. Tramitar los cambios de prisión, las prórrogas de jurisdicción y las solicitudes de indulto;
 
-V. Participar en la elaboración de proyectos de Leyes y Reglamentos relativos a la administración de la justicia militar; VI. Tramitar lo necesario respecto a retiros y pensiones en la parte que compete a la Secretaría de la Defensa Nacional, de conformidad con las leyes de la materia; y
+V. Participar en la elaboración de proyectos de Leyes y Reglamentos relativos a la administración de la justicia militar;
+
+VI. Tramitar lo necesario respecto a retiros y pensiones en la parte que compete a la Secretaría de la Defensa Nacional, de conformidad con las leyes de la materia; y
 
 VII. Practicar los estudios sobre recompensas a los militares.

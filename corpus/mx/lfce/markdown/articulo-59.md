@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["LFCE — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -21,7 +21,9 @@ Para determinar si uno o varios [Agentes Económicos](articulo-3.md) tienen pode
 
 I. Su participación en dicho mercado y si pueden fijar precios o restringir el abasto en el mercado relevante por sí mismos, sin que los agentes competidores puedan, actual o potencialmente, contrarrestar dicho poder.
 
-Para determinar la participación de mercado, la [Comisión](articulo-3.md) podrá tener en cuenta indicadores de ventas, número de clientes, capacidad productiva, así como cualquier otro factor que considere pertinente; II. La existencia de barreras a la entrada y los elementos que previsiblemente puedan alterar tanto dichas barreras como la oferta de otros competidores;
+Para determinar la participación de mercado, la [Comisión](articulo-3.md) podrá tener en cuenta indicadores de ventas, número de clientes, capacidad productiva, así como cualquier otro factor que considere pertinente;
+
+II. La existencia de barreras a la entrada y los elementos que previsiblemente puedan alterar tanto dichas barreras como la oferta de otros competidores;
 
 III. La existencia y poder de sus competidores;
 

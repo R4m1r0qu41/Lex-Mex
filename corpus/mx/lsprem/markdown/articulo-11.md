@@ -25,7 +25,9 @@ II. Colaborar y coadyuvar en el desarrollo de las actividades realizadas por los
 
 III. Preservar y difundir los acervos audiovisuales de las dependencias y entidades de la Administración Pública Federal;
 
-IV. Realizar, promover y coordinar la generación, producción, difusión y distribución de materiales y contenidos audiovisuales que promuevan el respeto a los derechos humanos, el interés superior de la niñez, la igualdad y la no discriminación, por sí mismo o a través de terceros; V. Constituirse en una plataforma para la libre expresión, que promueva el desarrollo educativo, cultural y cívico de los mexicanos y promover el intercambio cultural internacional;
+IV. Realizar, promover y coordinar la generación, producción, difusión y distribución de materiales y contenidos audiovisuales que promuevan el respeto a los derechos humanos, el interés superior de la niñez, la igualdad y la no discriminación, por sí mismo o a través de terceros;
+
+V. Constituirse en una plataforma para la libre expresión, que promueva el desarrollo educativo, cultural y cívico de los mexicanos y promover el intercambio cultural internacional;
 
 VI. Diseñar, desarrollar y aplicar un programa anual de actividades en el que se prevean propuestas y cumplimiento de metas específicas para el mejoramiento en la prestación del servicio de radiodifusión, en coordinación con los medios públicos de radiodifusión;
 

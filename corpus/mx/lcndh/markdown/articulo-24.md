@@ -7,8 +7,8 @@ provision_type: article
 number: "24"
 aliases: ["LCNDH — Artículo 24"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf
 source_sha256: 4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c
 ---
@@ -23,7 +23,9 @@ I.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los
 
 II.- Iniciar a petición de parte la investigación de las quejas e inconformidades que le sean presentadas, o de oficio, discrecionalmente aquéllas sobre denuncias de violación a los derechos humanos que aparezcan en los medios de comunicación;
 
-III.- Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de derechos humanos que por su propia naturaleza así lo permita; IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión Nacional para su consideración; y
+III.- Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de derechos humanos que por su propia naturaleza así lo permita;
+
+IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión Nacional para su consideración; y
 
 V.- Las demás que le señale la presente ley y el Presidente de la Comisión Nacional, necesarias para el mejor cumplimiento de sus funciones.
 

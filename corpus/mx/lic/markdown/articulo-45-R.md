@@ -29,7 +29,9 @@ II. Personas físicas que tengan influencia significativa o poder de mando, en e
 
 III. Clientes, prestadores de servicios, proveedores, deudores, acreedores, socios, consejeros o empleados de una persona moral que realice actividades empresariales, que sea cliente, prestador de servicios, proveedor, deudor o acreedor importante de la persona moral.
 
-Se considera que un cliente, prestador de servicios o proveedor es importante, cuando las ventas de la sociedad representen más del diez por ciento de las ventas totales del cliente, del prestador de servicios o del proveedor, durante los doce meses anteriores a la fecha del nombramiento o de la sesión correspondiente. Asimismo, se considera que un deudor o acreedor es importante, cuando el importe del crédito es mayor al quince por ciento de los activos de la propia sociedad o de su contraparte. IV. Personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, así como los cónyuges, la concubina y el concubinario, de cualquiera de las personas físicas referidas en las fracciones I a III de este artículo.
+Se considera que un cliente, prestador de servicios o proveedor es importante, cuando las ventas de la sociedad representen más del diez por ciento de las ventas totales del cliente, del prestador de servicios o del proveedor, durante los doce meses anteriores a la fecha del nombramiento o de la sesión correspondiente. Asimismo, se considera que un deudor o acreedor es importante, cuando el importe del crédito es mayor al quince por ciento de los activos de la propia sociedad o de su contraparte.
+
+IV. Personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, así como los cónyuges, la concubina y el concubinario, de cualquiera de las personas físicas referidas en las fracciones I a III de este artículo.
 
 B) Funcionarios de la institución de banca múltiple de que se trate.
 

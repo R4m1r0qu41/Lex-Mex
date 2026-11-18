@@ -19,7 +19,9 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 Las casas de bolsa, al convocar a las asambleas generales de accionistas, deberán listar en el orden del día todos los asuntos a tratar en la asamblea, incluso los comprendidos bajo el rubro de generales o sus equivalentes. Asimismo, deberán poner a disposición de los accionistas con por lo menos quince días naturales de anticipación a la celebración de cada asamblea, la documentación e información relacionada con los temas a discutir en la misma.
 
-Las personas que acudan en representación de los accionistas a las asambleas, podrán acreditar su personalidad mediante poder otorgado en formularios elaborados por la propia sociedad, que deberán reunir los requisitos siguientes: I. Señalar de manera notoria la denominación social, así como el respectivo orden del día.
+Las personas que acudan en representación de los accionistas a las asambleas, podrán acreditar su personalidad mediante poder otorgado en formularios elaborados por la propia sociedad, que deberán reunir los requisitos siguientes:
+
+I. Señalar de manera notoria la denominación social, así como el respectivo orden del día.
 
 II. Contener espacio para las instrucciones que señale el otorgante para el ejercicio del poder.
 

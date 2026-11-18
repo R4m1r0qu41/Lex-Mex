@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["LCEC — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 41
 
-La [Secretaría](articulo-2.md) solicitará a la Asamblea General que, conforme a sus Estatutos, tome los acuerdos necesarios para corregir cualquiera de las condiciones de los integrantes del Consejo Directivo y demás directivos de una Cámara o [Confederación](articulo-2.md), cuando éstas:
+La [Secretaría](articulo-2.md) solicitará a la Asamblea General que, conforme a sus Estatutos, tome los acuerdos necesarios para corregir cualquiera de las condiciones de los integrantes del Consejo Directivo y demás directivos de una [Cámara](articulo-2.md) o [Confederación](articulo-2.md), cuando éstas:
 
 I. Reincidan en cualquiera de las conductas a que se refiere el [artículo anterior](articulo-40.md), y se les hubiere sancionado conforme al mismo;
 

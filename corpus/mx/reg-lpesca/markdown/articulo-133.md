@@ -7,8 +7,8 @@ provision_type: article
 number: "133"
 aliases: ["REG-LPESCA — Artículo 133"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf
 source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 ---
@@ -17,7 +17,9 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 133
 
-Los solicitantes de certificados de sanidad acuícola para la importación, cumplirán con los siguientes requisitos: I. Nombre, domicilio y teléfono del interesado;
+Los solicitantes de certificados de sanidad acuícola para la importación, cumplirán con los siguientes requisitos:
+
+I. Nombre, domicilio y teléfono del interesado;
 
 II. Nombre científico y común de cada especie a importar, especificando si es silvestre o cultivada;
 

@@ -21,7 +21,9 @@ El contralor normativo de las sociedades operadoras de fondos de inversión, soc
 
 I. Establecer procedimientos para asegurar que se cumpla con la normatividad externa e interna aplicable, y adicionalmente tratándose del contralor normativo de las sociedades operadoras de fondos de inversión para verificar la adecuada observancia del prospecto de información al público inversionista de los fondos de inversión a las que les presten servicios, y para conocer de los incumplimientos;
 
-II. Proponer al consejo de administración el establecimiento de medidas para prevenir conflictos de interés y evitar el uso indebido de la información conforme a lo establecido en las disposiciones de carácter general que al efecto expida la [Comisión](articulo-2.md); III. Recibir los informes del comisario y los dictámenes de los auditores externos, para su conocimiento y análisis;
+II. Proponer al consejo de administración el establecimiento de medidas para prevenir conflictos de interés y evitar el uso indebido de la información conforme a lo establecido en las disposiciones de carácter general que al efecto expida la [Comisión](articulo-2.md);
+
+III. Recibir los informes del comisario y los dictámenes de los auditores externos, para su conocimiento y análisis;
 
 IV. Informar anualmente al consejo de administración sobre las irregularidades que puedan afectar el sano desarrollo de la sociedad, así como respecto de las quejas y reclamaciones que los accionistas de los fondos de inversión a las que presten sus servicios presenten;
 

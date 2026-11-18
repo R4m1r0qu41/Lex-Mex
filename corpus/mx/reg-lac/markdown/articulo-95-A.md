@@ -31,7 +31,9 @@ V. Aulas, equipos de vuelo, dispositivos de instrucción para simulación de vue
 
 VI. Relación de alumnos;
 
-VII. Calendario y horario de instrucción con desglose de horas por materia y horas-día por materia; VIII. Relación de instructores por materia, registrados por la Agencia Federal de Aviación Civil, y Fracción reformada DOF 31-05-2023
+VII. Calendario y horario de instrucción con desglose de horas por materia y horas-día por materia;
+
+VIII. Relación de instructores por materia, registrados por la Agencia Federal de Aviación Civil, y Fracción reformada DOF 31-05-2023
 
 IX. En caso de cambio de representante legal o designación de uno nuevo, original del poder o instrumento que lo acredite.
 

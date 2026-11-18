@@ -37,7 +37,9 @@ VIII. Apoyar con el personal bajo su mando, a las autoridades que así lo solici
 
 IX. Realizar las detenciones que procedan, observando las disposiciones de la Ley Nacional del Registro de Detenciones;
 
-X. Proporcionar al público su nombre cuando se lo solicite y mostrar su identificación de manera respetuosa y cortés en el desempeño de su servicio; XI. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos jurídicos aplicables;
+X. Proporcionar al público su nombre cuando se lo solicite y mostrar su identificación de manera respetuosa y cortés en el desempeño de su servicio;
+
+XI. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos jurídicos aplicables;
 
 XII. Abstenerse de convocar o participar en cualquier práctica de inconformidad que afecte las actividades de la Institución, actos de rebeldía o indisciplina contra el mando o alguna otra autoridad;
 

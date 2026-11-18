@@ -37,7 +37,9 @@ VIII. Deslindar, poseer y administrar los terrenos nacionales forestales;
 
 IX. Generar políticas, formular, operar y evaluar, programas integrales de prevención y combate a la ilegalidad forestal, en coordinación con los gobiernos estatales y municipales, con la participación de los consejos forestales correspondientes, así como llevar a cabo las visitas de inspección y labores de vigilancia;
 
-X. Promover la participación y coordinación de las autoridades competentes, propietarios, poseedores y habitantes de las zonas forestales, así como los transportistas, comerciantes e industrializadores de materias primas forestales, en materia de vigilancia; XI. Expedir, por excepción, las autorizaciones de cambio de uso de suelo en terrenos forestales;
+X. Promover la participación y coordinación de las autoridades competentes, propietarios, poseedores y habitantes de las zonas forestales, así como los transportistas, comerciantes e industrializadores de materias primas forestales, en materia de vigilancia;
+
+XI. Expedir, por excepción, las autorizaciones de cambio de uso de suelo en terrenos forestales;
 
 XII. Imponer medidas de seguridad, investigar, inspeccionar, vigilar, verificar y sancionar a los infractores en materia forestal, así como hacer del conocimiento y en su caso, denunciar los delitos en dicha materia ante las autoridades competentes; Fracción reformada DOF 11-04-2022
 

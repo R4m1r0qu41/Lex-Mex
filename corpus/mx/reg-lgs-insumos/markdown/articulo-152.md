@@ -27,7 +27,9 @@ III. La presentación;
 
 IV. El número de [Lote](articulo-2o.md) y partida;
 
-V. La fecha de caducidad; VI. La fecha de exportación;
+V. La fecha de caducidad;
+
+VI. La fecha de exportación;
 
 VII. El nombre del fabricante o exportador;
 

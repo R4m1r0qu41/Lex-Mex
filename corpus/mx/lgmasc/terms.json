@@ -161,7 +161,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XVI",
     "start_char": 4493,
-    "end_char": 4889,
+    "end_char": 4890,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XVII",
-    "start_char": 4889,
-    "end_char": 5226,
+    "start_char": 4890,
+    "end_char": 5227,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XVIII",
-    "start_char": 5226,
-    "end_char": 5560,
+    "start_char": 5227,
+    "end_char": 5561,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XIX",
-    "start_char": 5560,
-    "end_char": 5886,
+    "start_char": 5561,
+    "end_char": 5887,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XX",
-    "start_char": 5886,
-    "end_char": 6116,
+    "start_char": 5887,
+    "end_char": 6117,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XXI",
-    "start_char": 6116,
-    "end_char": 6357,
+    "start_char": 6117,
+    "end_char": 6358,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XXII",
-    "start_char": 6357,
-    "end_char": 6646,
+    "start_char": 6358,
+    "end_char": 6647,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XXIII",
-    "start_char": 6646,
-    "end_char": 6736,
+    "start_char": 6647,
+    "end_char": 6737,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgmasc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
     "fraction": "XXIV",
-    "start_char": 6736,
-    "end_char": 6901,
+    "start_char": 6737,
+    "end_char": 6902,
     "basis": "express_definition"
   }
 ]

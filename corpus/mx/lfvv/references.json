@@ -228,19 +228,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfvv:article:40:reference:791-792:7:direct",
+    "id": "urn:lex-mx:federal:statute:lfvv:article:40:reference:792-793:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfvv:article:40",
     "source_span": "7",
-    "start_char": 791,
-    "end_char": 792,
+    "start_char": 792,
+    "end_char": 793,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfvv",
     "target_provision_id": "urn:lex-mx:federal:statute:lfvv:article:7",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones III y IV",
-        "start_char": 758,
-        "end_char": 777
+        "start_char": 759,
+        "end_char": 778
       }
     ],
     "basis": "express_cross_reference",

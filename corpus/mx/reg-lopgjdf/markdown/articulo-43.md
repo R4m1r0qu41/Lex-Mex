@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["REG-LOPGJDF — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -29,7 +29,9 @@ IV. Promover la comunicación e intercambio de experiencias e información con i
 
 V. Participar en el diseño de instrumentos de planeación por lo que se refiere a la procuración de justicia en el Distrito Federal, incentivando la participación de los distintos sectores de la sociedad, mediante la implementación de un sistema articulado de indicadores, y la generación de normas encaminadas a la mejora continua;
 
-VI. Recabar y sistematizar la información generada en materia de incidencia delictiva, para ser utilizada en las acciones de coordinación y la toma de decisiones para el combate a la delincuencia y la disminución del índice delictivo; VII. Organizar y desarrollar mecanismos permanentes de coordinación y comunicación con las unidades administrativas generadoras de información criminal, a efecto de unificar y definir criterios, mecanismos y estrategias para su obtención precisa y oportuna, a través del diseño de programas informáticos que permitan la comunicación en línea para la actualización en tiempo real y base de datos;
+VI. Recabar y sistematizar la información generada en materia de incidencia delictiva, para ser utilizada en las acciones de coordinación y la toma de decisiones para el combate a la delincuencia y la disminución del índice delictivo;
+
+VII. Organizar y desarrollar mecanismos permanentes de coordinación y comunicación con las unidades administrativas generadoras de información criminal, a efecto de unificar y definir criterios, mecanismos y estrategias para su obtención precisa y oportuna, a través del diseño de programas informáticos que permitan la comunicación en línea para la actualización en tiempo real y base de datos;
 
 VIII. Concentrar la información de las diversas bases de datos existentes en las Unidades Administrativas de la Procuraduría, y validar la información estadística derivada de las acciones relativas a la procuración de justicia;
 

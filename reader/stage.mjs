@@ -6,10 +6,11 @@ import {safeRelative,releaseId} from './reader-core.mjs';
 const hash=b=>createHash('sha256').update(b).digest('hex');
 const rootFiles=new Set(['index.html','reader.css','reader.js','reader-core.mjs','latest.json','llms.txt']);
 const optionalRootFiles=new Set(['lex-mex.svg']);
+const agentPath=/^agents\/[a-f0-9]{64}\/(?:catalog-[1-9][0-9]*\.html|terms\/[a-z0-9-]+\.html|[a-z0-9-]+\/(?:guide-[1-9][0-9]*|[a-f0-9]{64})\.html)$/;
 async function regular(path){const s=await lstat(path);if(!s.isFile()||s.isSymbolicLink())throw Error(`Expected regular file: ${path}`);}
 async function confined(root,path){const parts=path.split('/');let current=root;for(const part of parts){current=join(current,part);try{const s=await lstat(current);if(s.isSymbolicLink())throw Error(`Symlink in publication path: ${current}`);}catch(e){if(e.code!=='ENOENT')throw e;}}}
 async function canonicalParent(path){try{return await realpath(path);}catch(e){if(e.code!=='ENOENT')throw e;return join(await canonicalParent(dirname(path)),basename(path));}}
-export async function stagePublication(input,destination){
+export async function stagePublication(input,destination,{includeAgentPages=false}={}){
   input=await realpath(resolve(input));destination=resolve(destination);
   try{const s=await lstat(destination);if(s.isSymbolicLink()||!s.isDirectory())throw Error('Publication destination must be a real directory.');}catch(e){if(e.code!=='ENOENT')throw e;}
   destination=join(await canonicalParent(dirname(destination)),basename(destination));
@@ -24,7 +25,7 @@ export async function stagePublication(input,destination){
     const path=safeRelative(item.path);
     if(files.has(path))throw Error('Duplicate publication path.');
     const local=path.startsWith(prefix)?path.slice(prefix.length):null;
-    if(!rootFiles.has(path)&&!optionalRootFiles.has(path)&&!(local&&/^(?:manifest\.json|index\.md|coverage\.json|sources\/[a-f0-9]{64}\.pdf|mx\/[a-z0-9-]+\/(?:index\.md|instrument\.json|provision-[a-f0-9]{64}\.(?:md|txt)))$/.test(local)))throw Error(`Non-public path: ${path}`);
+    if(!rootFiles.has(path)&&!optionalRootFiles.has(path)&&!(includeAgentPages&&(path==='agents/index.html'||path==='agents/sitemap.xml'||agentPath.test(path)))&&!(local&&/^(?:manifest\.json|index\.md|coverage\.json|sources\/[a-f0-9]{64}\.pdf|mx\/[a-z0-9-]+\/(?:index\.md|instrument\.json|provision-[a-f0-9]{64}\.(?:md|txt)))$/.test(local)))throw Error(`Non-public path: ${path}`);
     await confined(input,path);await regular(join(input,path));const bytes=await readFile(join(input,path));
     if(hash(bytes)!==item.sha256||bytes.length!==item.bytes)throw Error(`Publication file mismatch: ${path}`);
     files.set(path,bytes);
@@ -52,5 +53,5 @@ export async function stagePublication(input,destination){
 if(process.argv[1]&&import.meta.url===pathToFileURL(resolve(process.argv[1])).href){
   const args=process.argv.slice(2);const value=key=>args[args.indexOf(key)+1];
   if(!args.includes('--publication')||!args.includes('--destination'))throw Error('Usage: stage.mjs --publication DIR --destination DIR');
-  console.log(JSON.stringify(await stagePublication(value('--publication'),value('--destination')),null,2));
+  console.log(JSON.stringify(await stagePublication(value('--publication'),value('--destination'),{includeAgentPages:args.includes('--include-agent-pages')}),null,2));
 }

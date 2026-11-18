@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["LGPAS — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -21,7 +21,9 @@ Para los fines y objetivos de la presente Ley, los planes de manejo pesquero deb
 
 I. Los objetivos de manejo definidos por el Consejo Nacional de [Pesca](articulo-4o.md) y los Consejos Estatales de Pesca y [Acuacultura](articulo-4o.md);
 
-II. Descripción de las características biológicas de las especies sujetas a explotación; III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma;
+II. Descripción de las características biológicas de las especies sujetas a explotación;
+
+III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma;
 
 IV. Ciclo de captura y estado de aprovechamiento de la pesquería;
 

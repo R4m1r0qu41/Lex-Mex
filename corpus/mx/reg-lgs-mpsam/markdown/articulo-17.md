@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LGS-MPSAM — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---
@@ -25,7 +25,9 @@ II.- Proporcionar servicios de urgencias en los términos de la Ley y este Regla
 
 III.- Hacer con oportunidad las notificaciones correspondientes de las enfermedades transmisibles a la autoridad sanitaria, en los términos señalados por la Ley;
 
-IV.- Proporcionar atención médica a la población en casos de desastre; V.- Colaborar en la formación y desarrollo de recursos humanos para la salud, y
+IV.- Proporcionar atención médica a la población en casos de desastre;
+
+V.- Colaborar en la formación y desarrollo de recursos humanos para la salud, y
 
 VI.- Desarrollar actividades de investigación, de acuerdo a los requisitos señalados por la Ley y dentro del marco de la ética profesional.
 

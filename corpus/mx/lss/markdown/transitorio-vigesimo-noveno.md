@@ -26,7 +26,3 @@ Los gastos que se generen con motivo del control, descuentos y entrega o transfe
 El Consejo Técnico del Instituto podrá emitir las disposiciones de carácter administrativo necesarias para la debida observancia de lo dispuesto en este artículo.
 
 Artículo adicionado DOF 28-05-2012
-
-México, D.F., a 12 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo [89](../../cpeum/markdown/articulo-89.md) de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.

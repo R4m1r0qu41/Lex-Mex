@@ -21,6 +21,8 @@ La Secretaría de Salud y el Consejo de Salubridad General, en el ámbito de sus
 
 I. La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
 
-II. La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales y; III. La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
+II. La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales y;
+
+III. La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
 La información que reciba la población deberá estar basada en estudios científicos y alertar de manera clara sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos. Párrafo adicionado DOF 20-08-2009

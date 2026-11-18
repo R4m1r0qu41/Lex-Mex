@@ -1,0 +1,591 @@
+{
+  "date": "2026-10-27",
+  "verdict": "accept R-001 through R-004; no blocking findings; R-005 nonblocking documentation correction",
+  "parser_tip": "b38d1f33d68cfd432fc2d5b73a28390ef355878a",
+  "query_tip": "6155782066d1f660c825a152cb83bacfe352b5f4",
+  "database_corpus_and_builder": "3cbba683e7cea174600ee197f813d6fa15675083",
+  "corpus_diff_from_bcd17a4e4": [],
+  "seed_and_goldens_diff": [],
+  "gates": {
+    "repair_fmt": 0,
+    "repair_strict_workspace_clippy": 0,
+    "repair_workspace_tests": {
+      "exit": 0,
+      "passed": 442,
+      "failed": 0,
+      "ignored": 0
+    },
+    "lritf": {
+      "exit": 0,
+      "counts": [
+        145,
+        11,
+        126
+      ],
+      "issues": 0
+    },
+    "ifpe": {
+      "exit": 0,
+      "counts": [
+        59,
+        4,
+        115
+      ],
+      "issues": 0
+    },
+    "query_fmt": 0,
+    "query_rust_public_query": {
+      "exit": 0,
+      "passed": 5
+    },
+    "query_node": {
+      "exit": 0,
+      "passed": 71,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "header_matrix": {
+    "cases": [
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Transitorios.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "transitorios",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "TRANSITORIO",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Transitorio:",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTÍCULO TRANSITORIO.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Artículo Transitorio.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTICULOS TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Articulos Transitorios.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTÍCULOS TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Artículos Transitorios:",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Transitorios.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "transitorios",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "TRANSITORIO",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Transitorio:",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTÍCULO TRANSITORIO.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Artículo Transitorio.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTICULOS TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Articulos Transitorios.",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTÍCULOS TRANSITORIOS",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Artículos Transitorios:",
+        "omnibus": false,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Transitorios.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "transitorios",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "TRANSITORIO",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Transitorio:",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTÍCULO TRANSITORIO.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Artículo Transitorio.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTICULOS TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Articulos Transitorios.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "ARTÍCULOS TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto sin punto",
+        "count": 2,
+        "header": "Artículos Transitorios:",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": false
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Transitorios.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "transitorios",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "TRANSITORIO",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Transitorio:",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTÍCULO TRANSITORIO.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Artículo Transitorio.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTICULOS TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Articulos Transitorios.",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "ARTÍCULOS TRANSITORIOS",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      },
+      {
+        "body": "Texto terminado.",
+        "count": 2,
+        "header": "Artículos Transitorios:",
+        "omnibus": true,
+        "pass": true,
+        "punctuated": true
+      }
+    ],
+    "count": 44,
+    "failed": []
+  },
+  "query_original_probes": {
+    "release": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+    "pagination": {
+      "limit": 7,
+      "pages": 143,
+      "total_items": 1000,
+      "expected_max": 1000
+    },
+    "invalid_cursor_unknown_filter": 400,
+    "unsafe_reference_route": {
+      "status": 200,
+      "body": {
+        "schema_version": "public-retrieval-v1",
+        "release": {
+          "id": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+          "corpus_commit": "3cbba683e7cea174600ee197f813d6fa15675083",
+          "fixture": false
+        },
+        "result": {
+          "kind": "references",
+          "data": {
+            "items": [
+              {
+                "target_id": "urn:lex-mx:federal:statute:lft:transitory:9º",
+                "target": null,
+                "source_span": "artículo anterior",
+                "resolution_status": "resolved",
+                "resolution_rule": "relative_position",
+                "qualifiers": []
+              }
+            ],
+            "next_cursor": null
+          }
+        }
+      }
+    }
+  },
+  "lrascap_reparse": {
+    "commands": [
+      {
+        "stage": "parse",
+        "exit": 0,
+        "stdout": "furniture audit: 0 potential finding(s), 0 blocking; report /private/tmp/lex-bounded-rereview-20261027/lrascap-reparse/.work/lrascap/furniture-audit.json\nparsed 165 canonical provisions\nextracted 207 canonical references\nextracted 13 defined terms with 820 usages\nisolated 34 reform transitories for temporal analysis\n",
+        "stderr": ""
+      },
+      {
+        "stage": "validate",
+        "exit": 0,
+        "stdout": "validation: valid; 144 articles, 21 transitories, 207 references, 0 issues\n",
+        "stderr": ""
+      }
+    ],
+    "before": {
+      "instrument.json": "ef5b34163be8f306f201abe2741ef27508084812a7e3fd3f9e936e13e8d9a148",
+      "source-manifest.json": "545ff5b60068c999d7c0a9a5a73b812f530f839f4e736bf75ec4d080cf8cdbc8",
+      "references.json": "c167c8231e4fd8e8130808d86ce17c0a4caae35a6927054784ba751cc4d2adb7",
+      "provisions.json": "c870c50d37bfb5f3712b860245e9d4fddf436e85be4c8447e962be63d5402d1e",
+      "term-usages.json": "1bae3e2a69d16f7890e16185b0c3bddb6825ab32e84cc716e1c82ab228476257",
+      "glossary-coverage.json": "5f586d28d81167f0ae43e994ed0ac36cb2a749b2f11dae465d3fe7f639dee09d",
+      "temporal-analysis-request.json": "ba5dce320eed35773a50f6458d4d8ba16a5e6d534a51bd8b71afe3546fcd017f",
+      "terms.json": "f7731ce3090a03b945535252fa8f1615bbc213d40f858f13e511b7457c2aa165",
+      "validation.json": "b795840ec8fa7524362c81386697cfac750715d289e3393273757e0a09fab826",
+      "reform-temporal-evidence.json": "f9268de1f62f06e12805a75f4e08d4d8be76524bb327284cdea7bb416309303d"
+    },
+    "after": {
+      "instrument.json": "ef5b34163be8f306f201abe2741ef27508084812a7e3fd3f9e936e13e8d9a148",
+      "source-manifest.json": "545ff5b60068c999d7c0a9a5a73b812f530f839f4e736bf75ec4d080cf8cdbc8",
+      "references.json": "c167c8231e4fd8e8130808d86ce17c0a4caae35a6927054784ba751cc4d2adb7",
+      "provisions.json": "c870c50d37bfb5f3712b860245e9d4fddf436e85be4c8447e962be63d5402d1e",
+      "term-usages.json": "1bae3e2a69d16f7890e16185b0c3bddb6825ab32e84cc716e1c82ab228476257",
+      "glossary-coverage.json": "5f586d28d81167f0ae43e994ed0ac36cb2a749b2f11dae465d3fe7f639dee09d",
+      "temporal-analysis-request.json": "ba5dce320eed35773a50f6458d4d8ba16a5e6d534a51bd8b71afe3546fcd017f",
+      "terms.json": "f7731ce3090a03b945535252fa8f1615bbc213d40f858f13e511b7457c2aa165",
+      "validation.json": "b795840ec8fa7524362c81386697cfac750715d289e3393273757e0a09fab826",
+      "reform-temporal-evidence.json": "f9268de1f62f06e12805a75f4e08d4d8be76524bb327284cdea7bb416309303d"
+    },
+    "byte_identical": true
+  },
+  "logical_digest_explanation": {
+    "current_digest": "e3f0d112f2206cbea3d9b144c3ae1a31c3021f44700f6f37eac0371d23a03b3a",
+    "current_matches_manifest": true,
+    "restored_old_decision_input_digest": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
+    "previous_manifest_digest": "42cfc2e3b8d55c2729c161d45a415954a280029b41250ce08355a0276cb5e1ce",
+    "restored_matches_previous": true,
+    "only_replaced": [
+      "input_files:docs/decisions.md bytes+sha256"
+    ],
+    "corpus_release_excluded": true
+  },
+  "database": {
+    "release_id": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+    "each_database_sha256": "17ca152be7300a54f1b11853ee01f6d1cbe6081b558523d75e444b5ea5b6a6bf",
+    "each_manifest_sha256": "482a92c9d4aebaa1176d315909869b43c1d0b56b5f722278a5c1a2ba4d1ecdeb",
+    "independent_verify_exit": 0,
+    "goldens_exit": 0,
+    "goldens_count": 21,
+    "copies_rehashed": 2,
+    "copies_verified_and_queried": 1,
+    "fresh_builds_by_reviewer": 0
+  },
+  "raw_artifacts": {
+    "/private/tmp/lex-bounded-rereview-20261027/logs/query-fmt.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/repair-test.log": {
+      "bytes": 48945,
+      "sha256": "882a9b7dbef44172f175d2fb0c4f6d23c1f32c7c7fab279813a0f7136c2c10be"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/query-node.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/repair-lritf.log": {
+      "bytes": 241,
+      "sha256": "c692f03ba640f62aba180a46123261d813ee401bfae4165680ce96f897e80a9f"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/repair-clippy.log": {
+      "bytes": 7202,
+      "sha256": "1e0e4fdd9c9f918296c312e30fe9ae54a5e3ebd27cc60fff7d8a2ce9911d3fe8"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/repair-ifpe.log": {
+      "bytes": 247,
+      "sha256": "e11899c64a47c32883f17eadb0f498f815a9fd6889d17a117b727f7b87ccd992"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/query-node.stdout": {
+      "bytes": 7123,
+      "sha256": "48ecd0a150c1852464fb8f883b6b07b9f734c1866bfa30d5ae57d926afef1277"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/db-verify-a.log": {
+      "bytes": 1158,
+      "sha256": "ef2f898c50dc2c09380ab6660bfd3dc89365a5d7b7c1b2f7ea21c3e6d17dc2bf"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/repair-fmt.log": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/query-public-query.log": {
+      "bytes": 3788,
+      "sha256": "4c72abc46d8149d8fb316a125d700c8b4c04a00c65cbefe94b1e241afcc4861b"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/db-golden-a.log": {
+      "bytes": 770,
+      "sha256": "682385ca836d8d6e9cfd7e96461a7b2b5779fe5b3ad46c23fedb6eb57d4cbcdd"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logs/query-adversarial.stderr": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/header-matrix.rs": {
+      "bytes": 1714,
+      "sha256": "7d2d0e2fb81d265f3ec482e2f20935652aa8b1cafeee231e138a97f5b98bb81b"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/header-matrix.json": {
+      "bytes": 7588,
+      "sha256": "e876808d5732ec98b6dd898816e6aedf6e6e6b05064904a7678b4a840dd42af6"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/query-adversarial.json": {
+      "bytes": 1021,
+      "sha256": "d7cb611fe0218fb47fe0153607e510217bdecad100c43de57f719c0ced581349"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/logical-digest-explanation.json": {
+      "bytes": 480,
+      "sha256": "da506f4ca642a2a8a1508dd0f0bcc58607dcd7c9910d7350f0184dbb87677440"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/check-logical-explanation.py": {
+      "bytes": 2193,
+      "sha256": "edafbe586f00a7ea2d3d4c88450befb2ef026b60e52c19d628d851f1ad66f2cf"
+    },
+    "/private/tmp/lex-bounded-rereview-20261027/lrascap-reparse.json": {
+      "bytes": 2566,
+      "sha256": "497e307d9a7210ef46d22aa55caf1de13a3b651a381137f49d77a28853c300e6"
+    }
+  },
+  "limits": [
+    "No merge/push/deploy/commit or active branch changes",
+    "No whole102replay or browser/mutation/static-generation campaign rerun",
+    "No full query workspace or independent strict1.99 rerun",
+    "Initial incorrect snapshot path led to read-only main fmt before stop; correctedcwdusedafter"
+  ],
+  "ancestry_checks": {
+    "bcd17a4e4": true,
+    "47eabbb21": true,
+    "6505baf57": true
+  }
+}

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf
 source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 ---
 
-> Capítulo III
+> Capítulo III · Sección tercera
 
 # Artículo 27
 
@@ -27,7 +27,9 @@ III. Ceder, gravar, transferir o enajenar las concesiones, los derechos conferid
 
 IV. Alterar la naturaleza o condiciones del aeropuerto establecidas en el título de concesión, sin previa autorización de la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción reformada DOF 03-05-2023
 
-V. Consentir el uso del aeropuerto a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, que no haya sido permitida por quien presta el servicio de navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún delito; Fracción reformada DOF 03-05-2023 VI. Incumplir con la obligación prevista en el párrafo segundo del artículo [22](articulo-22.md) de esta Ley, referente a la remoción de cargos a personas o a la de transmisión de títulos accionarios, en los supuestos que se indican en dicho artículo; Fracción reformada DOF 03-05-2023
+V. Consentir el uso del aeropuerto a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, que no haya sido permitida por quien presta el servicio de navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún delito; Fracción reformada DOF 03-05-2023
+
+VI. Incumplir con la obligación prevista en el párrafo segundo del artículo [22](articulo-22.md) de esta Ley, referente a la remoción de cargos a personas o a la de transmisión de títulos accionarios, en los supuestos que se indican en dicho artículo; Fracción reformada DOF 03-05-2023
 
 VII. Modificar el porcentaje de inversión extranjera en contravención a lo establecido en el artículo [19](articulo-19.md) de esta Ley;
 

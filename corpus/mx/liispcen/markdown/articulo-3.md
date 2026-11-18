@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LIISPCEN — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf
 source_sha256: 1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c
 ---
@@ -43,4 +43,6 @@ XI. Impulsar la generación de un ambiente de negocios propicio para la creació
 
 XII. Fomentar el incremento sostenido de la productividad y la competitividad como ejes rectores en el diseño y ejecución de las políticas, programas y proyectos a cargo de la Administración Pública Federal;
 
-XIII. Evaluar y dar seguimiento a la evolución del crecimiento de la productividad y la competitividad a nivel sectorial, regional y nacional, y XIV. Establecer los mecanismos institucionales y de coordinación, para acordar compromisos e indicadores de desempeño, por parte de las dependencias y entidades, órganos autónomos, entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México, y los representantes de los emprendedores, los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, con el fin de materializar y cumplir con los objetivos, estrategias, metas y acciones que se adopten en el marco del Comité Nacional de Productividad. Fracción reformada DOF 17-05-2017
+XIII. Evaluar y dar seguimiento a la evolución del crecimiento de la productividad y la competitividad a nivel sectorial, regional y nacional, y
+
+XIV. Establecer los mecanismos institucionales y de coordinación, para acordar compromisos e indicadores de desempeño, por parte de las dependencias y entidades, órganos autónomos, entidades federativas, con la participación que corresponda a sus municipios y demarcaciones territoriales de la Ciudad de México, y los representantes de los emprendedores, los trabajadores y las instituciones educativas y de investigación en las que se realice investigación aplicada a la planta productiva, con el fin de materializar y cumplir con los objetivos, estrategias, metas y acciones que se adopten en el marco del Comité Nacional de Productividad. Fracción reformada DOF 17-05-2017

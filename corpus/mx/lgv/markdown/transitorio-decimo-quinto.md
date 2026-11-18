@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # DÉCIMO QUINTO
 
-Todas las Instituciones encargadas de la capacitación deberán establecer planes y programas tendientes a capacitar a su personal a efecto de dar cumplimiento a esta Ley.
+Todas las Instituciones encargadas de la capacitación deberán establecer planes y programas tendientes a capacitar a su personal a efecto de dar cumplimiento a esta [Ley](articulo-6.md).

@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["LOAM — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf
 source_sha256: 476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a
 ---

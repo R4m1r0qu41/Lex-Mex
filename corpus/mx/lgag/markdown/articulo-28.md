@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LGAG — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf
 source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 ---
@@ -23,7 +23,9 @@ I. Garantizar la prestación de los servicios públicos de agua potable, drenaje
 
 II. Dar prioridad a la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, en la programación y presupuestación municipal, por tratarse de derechos humanos de atención prioritaria;
 
-III. Introducir la perspectiva de derechos humanos, de género, principio de equidad y visión de infancia en la programación y presupuestación para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales; IV. Coordinarse y, en su caso, asociarse con otros municipios y con las autoridades estatales competentes para el establecimiento de sistemas intermunicipales de agua y saneamiento, con el objeto de garantizar la adecuada prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en los términos previstos por la normatividad que les sea aplicable;
+III. Introducir la perspectiva de derechos humanos, de género, principio de equidad y visión de infancia en la programación y presupuestación para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+IV. Coordinarse y, en su caso, asociarse con otros municipios y con las autoridades estatales competentes para el establecimiento de sistemas intermunicipales de agua y saneamiento, con el objeto de garantizar la adecuada prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en los términos previstos por la normatividad que les sea aplicable;
 
 V. Expedir las disposiciones administrativas necesarias para garantizar la adecuada prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 

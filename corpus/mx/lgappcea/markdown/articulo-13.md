@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["LGAPPCEA — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf
 source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 ---
@@ -19,7 +19,9 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 La [Comisión](articulo-3.md) estará integrada por los titulares de las siguientes dependencias de la Administración Pública Federal:
 
-I. La [Secretaría](articulo-3.md), quien presidirá la Comisión; II. La Secretaría de Educación Pública;
+I. La [Secretaría](articulo-3.md), quien presidirá la Comisión;
+
+II. La Secretaría de Educación Pública;
 
 III. La Secretaría del Trabajo y Previsión Social;
 

@@ -41,7 +41,9 @@ VI. Autorizar en su caso, el vertido de aguas residuales en el mar, y en coordin
 
 VII. Vigilar, en coordinación con las demás autoridades competentes, que el agua suministrada para consumo humano cumpla con las Normas Oficiales Mexicanas correspondientes;
 
-VIII. Vigilar, en coordinación con las demás autoridades competentes, que se cumplan las normas de calidad del agua en el uso de las aguas residuales; IX. Promover o realizar las medidas necesarias para evitar que basura, desechos, materiales y sustancias tóxicas, así como lodos producto de los tratamientos de aguas residuales, de la potabilización del agua y del desazolve de los sistemas de alcantarillado urbano o municipal, contaminen las aguas superficiales o del subsuelo y los bienes que señala el Artículo [113](articulo-113.md) de la presente Ley;
+VIII. Vigilar, en coordinación con las demás autoridades competentes, que se cumplan las normas de calidad del agua en el uso de las aguas residuales;
+
+IX. Promover o realizar las medidas necesarias para evitar que basura, desechos, materiales y sustancias tóxicas, así como lodos producto de los tratamientos de aguas residuales, de la potabilización del agua y del desazolve de los sistemas de alcantarillado urbano o municipal, contaminen las aguas superficiales o del subsuelo y los bienes que señala el Artículo [113](articulo-113.md) de la presente Ley;
 
 X. Instrumentar en el ámbito de su competencia un mecanismo de respuesta rápido, oportuno y eficiente, ante una emergencia hidroecológica o una contingencia ambiental, que se presente en los cuerpos de agua o bienes nacionales a su cargo;
 

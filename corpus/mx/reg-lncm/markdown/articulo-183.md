@@ -21,7 +21,9 @@ La persona interesada en obtener un [Certificado de Competencia Especial](articu
 
 I. Título profesional de Marino Mercante o patente para ejercer como Radio Operador, expedido por la autoridad en telecomunicaciones competente;
 
-II. Para Capitán de Altura, Capitán y Piloto Naval, constancia vigente de actualización para homologación al [Convenio STCW](articulo-10.md) y/o convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, expedida por el [FIDENA](articulo-10.md); III. Constancia vigente del curso de capacitación como Operador General del SMSSM, expedida por el FIDENA;
+II. Para Capitán de Altura, Capitán y Piloto Naval, constancia vigente de actualización para homologación al [Convenio STCW](articulo-10.md) y/o convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, expedida por el [FIDENA](articulo-10.md);
+
+III. Constancia vigente del curso de capacitación como Operador General del SMSSM, expedida por el FIDENA;
 
 IV. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente, y
 

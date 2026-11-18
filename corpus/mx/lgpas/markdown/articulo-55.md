@@ -7,8 +7,8 @@ provision_type: article
 number: "55"
 aliases: ["LGPAS — Artículo 55"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -33,4 +33,6 @@ VI. Transfieran la concesión o permiso, contraviniendo lo señalado en la prese
 
 VII. Incurran en quiebra, liquidación, disolución o concurso necesario;
 
-VIII. Que al amparo del permiso o concesión se comercialice producto de origen ilegal, y IX. La comercialización, bajo cualquier título jurídico, de las capturas de la pesca deportivo-recreativa.
+VIII. Que al amparo del permiso o concesión se comercialice producto de origen ilegal, y
+
+IX. La comercialización, bajo cualquier título jurídico, de las capturas de la pesca deportivo-recreativa.

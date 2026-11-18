@@ -19,7 +19,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 Cada puerto o espacio adyacente a las aguas nacionales donde se realicen actividades sujetas a la competencia de la Autoridad Marítima Nacional, podrá tener una capitanía de puerto, que dependerá de la [Secretaría](articulo-2.md), con una jurisdicción territorial y marítima delimitada y tendrán las atribuciones siguientes: Párrafo reformado DOF 07-12-2020
 
-I. Autorizar arribos y despachos de las embarcaciones y artefactos navales; II. Abanderar y matricular las embarcaciones y los artefactos navales mexicanos, así como realizar la inscripción de actos en el Registro Público Marítimo Nacional; Fracción reformada DOF 07-12-2020
+I. Autorizar arribos y despachos de las embarcaciones y artefactos navales;
+
+II. Abanderar y matricular las embarcaciones y los artefactos navales mexicanos, así como realizar la inscripción de actos en el Registro Público Marítimo Nacional; Fracción reformada DOF 07-12-2020
 
 III. Otorgar permisos para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico, dentro de las aguas de su jurisdicción, de acuerdo al reglamento respectivo; Fracción reformada DOF 07-12-2020
 

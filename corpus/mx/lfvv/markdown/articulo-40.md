@@ -7,8 +7,8 @@ provision_type: article
 number: "40"
 aliases: ["LFVV — Artículo 40"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf
 source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 ---
@@ -21,6 +21,8 @@ La [Secretaría](articulo-2o.md) podrá revocar, previa substanciación del proc
 
 I.- Cuando durante dos años no se cubran los derechos a que se refiere el artículo [16](articulo-16.md) de esta ley;
 
-II.- Cuando se compruebe que se han alterado los caracteres pertinentes de la variedad vegetal; III.- Cuando el titular no entregue a la Secretaría el material de propagación que permita obtener la variedad vegetal con sus caracteres pertinentes, tal y como hayan sido definidos al concederse el título de obtentor, transcurridos seis meses de la fecha en que fue requerido, y
+II.- Cuando se compruebe que se han alterado los caracteres pertinentes de la variedad vegetal;
+
+III.- Cuando el titular no entregue a la Secretaría el material de propagación que permita obtener la variedad vegetal con sus caracteres pertinentes, tal y como hayan sido definidos al concederse el título de obtentor, transcurridos seis meses de la fecha en que fue requerido, y
 
 IV.- Cuando se compruebe que la variedad vegetal ha dejado de cumplir con los requisitos señalados en las fracciones III y IV del artículo [7](articulo-7o.md)o. de esta ley.

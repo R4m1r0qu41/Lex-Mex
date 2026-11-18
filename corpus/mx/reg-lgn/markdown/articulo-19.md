@@ -31,7 +31,9 @@ IV. Establecer acciones y esquemas de coordinación y colaboración con las enti
 
 V. Proponer, a solicitud de las entidades federativas y municipios, la celebración de convenios de colaboración con la Institución, para la atención de las tareas de seguridad pública de competencia local. Dichos convenios podrán ser suscritos por el Comandante previa delegación de facultades; Fracción reformada DOF 11-12-2020
 
-VI. Implementar las acciones para la efectiva coordinación y cumplimiento de las responsabilidades de la Institución, cuando así proceda conforme a lo establecido en el artículo [90](../../lgn/markdown/articulo-90.md) de la Ley; VII. Requerir a las unidades administrativas de la Institución informes que contribuyan a la elaboración del informe anual de la Institución, para efectos del artículo [15](../../lgn/markdown/articulo-15.md), fracción XV de la Ley;
+VI. Implementar las acciones para la efectiva coordinación y cumplimiento de las responsabilidades de la Institución, cuando así proceda conforme a lo establecido en el artículo [90](../../lgn/markdown/articulo-90.md) de la Ley;
+
+VII. Requerir a las unidades administrativas de la Institución informes que contribuyan a la elaboración del informe anual de la Institución, para efectos del artículo [15](../../lgn/markdown/articulo-15.md), fracción XV de la Ley;
 
 VIII. Determinar los mecanismos de cooperación con las Instituciones de Seguridad Pública o personas que presten servicios de seguridad privada en términos de la Ley, a fin de proporcionar auxilio a la Institución;
 
@@ -53,7 +55,9 @@ XVI. Definir la política operativa, normativa y funcional, así como los progra
 
 XVII. Proporcionar la información requerida por las autoridades competentes de la [Secretaría](articulo-2.md);
 
-XVIII. Representar legalmente a la Institución, tanto en su carácter de autoridad en materia de policía, como de órgano administrativo desconcentrado, conforme a las disposiciones jurídicas aplicables; XIX. Proponer al [Secretario](articulo-2.md) el anteproyecto de presupuesto de la Institución;
+XVIII. Representar legalmente a la Institución, tanto en su carácter de autoridad en materia de policía, como de órgano administrativo desconcentrado, conforme a las disposiciones jurídicas aplicables;
+
+XIX. Proponer al [Secretario](articulo-2.md) el anteproyecto de presupuesto de la Institución;
 
 XX. Ordenar, para fines de seguridad pública, la vigilancia e inspección sobre el manejo, transporte o tenencia de mercancías y de los medios que las transportan en todo el territorio nacional, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -81,7 +85,9 @@ XXXI. Expedir los Manuales de la Institución que sean de su competencia;
 
 XXXII. Establecer los protocolos y procedimientos de las funciones operativas de la Institución; Fracción reformada DOF 11-12-2020
 
-XXXIII. Aplicar el Programa de Profesionalización del personal de la Institución, con el fin de fortalecer las propuestas académicas para el desarrollo de los integrantes; XXXIV. Proponer las modificaciones de la estructura de la Institución, que se requieran para el mejor desempeño de sus atribuciones; Fracción reformada DOF 11-12-2020
+XXXIII. Aplicar el Programa de Profesionalización del personal de la Institución, con el fin de fortalecer las propuestas académicas para el desarrollo de los integrantes;
+
+XXXIV. Proponer las modificaciones de la estructura de la Institución, que se requieran para el mejor desempeño de sus atribuciones; Fracción reformada DOF 11-12-2020
 
 XXXV. Autorizar los sistemas de información que proyecten la imagen pública institucional y se requieran para apoyar las tareas y actividades de la Institución, en términos de las disposiciones jurídicas aplicables;
 

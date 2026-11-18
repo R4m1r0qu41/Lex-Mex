@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LGDS — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf
 source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 ---
@@ -27,7 +27,9 @@ III. Hacer eficiente el otorgamiento de servicios y subsidios;
 
 IV. Obtener información para el seguimiento y evaluación de los programas de desarrollo social;
 
-V. Garantizar el cumplimiento de los criterios y requisitos de elegibilidad previstos en los programas de desarrollo social y evitar la duplicidad en la asignación de apoyos o servicios dentro de un mismo programa; VI. Verificar que las personas que reciban los apoyos o servicios, correspondan con la población objetivo definida en las reglas de operación de cada programa de desarrollo social;
+V. Garantizar el cumplimiento de los criterios y requisitos de elegibilidad previstos en los programas de desarrollo social y evitar la duplicidad en la asignación de apoyos o servicios dentro de un mismo programa;
+
+VI. Verificar que las personas que reciban los apoyos o servicios, correspondan con la población objetivo definida en las reglas de operación de cada programa de desarrollo social;
 
 VII. Determinar la cobertura poblacional y territorial de los programas de desarrollo social para apoyar con mayor efectividad el desarrollo de los beneficiarios;
 

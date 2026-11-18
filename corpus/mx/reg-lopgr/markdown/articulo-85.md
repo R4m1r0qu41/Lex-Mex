@@ -37,6 +37,8 @@ VIII. Programar los recursos humanos, materiales y financieros para que la opera
 
 IX. Dirigir los trabajos de elaboración y actualización de guías metodológicas, manuales técnicos e instructivos de trabajo de las especialidades de su competencia;
 
-X. Promover la capacitación técnico-científica para la profesionalización del personal pericial en las especialidades de su competencia; XI. Participar en la elaboración de convenios de colaboración que el Titular proponga con Organismos o Instituciones Públicas o Privadas, y
+X. Promover la capacitación técnico-científica para la profesionalización del personal pericial en las especialidades de su competencia;
+
+XI. Participar en la elaboración de convenios de colaboración que el Titular proponga con Organismos o Instituciones Públicas o Privadas, y
 
 XII. Las demás que le confieran otras disposiciones o el Titular.

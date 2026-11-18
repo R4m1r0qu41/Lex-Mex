@@ -19,7 +19,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 Deberán presentar un aviso acompañado con el proyecto correspondiente, al Director del área natural protegida de que se trate, quienes pretendan realizar las siguientes actividades:
 
-I. Educación ambiental que no implique ninguna actividad extractiva; II. Investigación sin colecta o manipulación de especímenes de especies no consideradas en riesgo;
+I. Educación ambiental que no implique ninguna actividad extractiva;
+
+II. Investigación sin colecta o manipulación de especímenes de especies no consideradas en riesgo;
 
 III. Monitoreo sin colecta o manipulación de especímenes de especies no consideradas en riesgo, y
 

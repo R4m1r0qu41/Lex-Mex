@@ -21,7 +21,9 @@ La [Secretaría](articulo-3.md) podrá otorgar permisos para celebrar los juegos
 
 I. Para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, sólo a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos; Fracción reformada DOF 23-10-2013
 
-II. Para la apertura y operación del cruce de apuestas en ferias, a personas morales mexicanas; III. Para la apertura y operación del cruce de apuestas en carreras de caballos en escenarios temporales y en peleas de gallos, a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos y a personas físicas, y
+II. Para la apertura y operación del cruce de apuestas en ferias, a personas morales mexicanas;
+
+III. Para la apertura y operación del cruce de apuestas en carreras de caballos en escenarios temporales y en peleas de gallos, a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos y a personas físicas, y
 
 IV. Para organizar sorteos, a personas físicas y morales constituidas conforme a las leyes de los Estados Unidos Mexicanos.
 

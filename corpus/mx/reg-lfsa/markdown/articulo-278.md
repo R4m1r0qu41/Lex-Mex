@@ -7,8 +7,8 @@ provision_type: article
 number: "278"
 aliases: ["REG-LFSA — Artículo 278"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -29,7 +29,9 @@ IV. La promoción de la investigación de nuevas técnicas para el diagnóstico,
 
 V. La instrumentación de campañas de divulgación en sanidad y producción animal;
 
-VI. La problemática de la sanidad y producción animal en el país, emitiendo propuestas de programas y acciones dirigidas a su solución; VII. La elaboración de anteproyectos de normas oficiales mexicanas específicas y elaboración de proyectos de manifestaciones de impacto regulatorio que desarrollen los subcomités del Comité Consultivo Nacional de Normalización de Protección Zoosanitaria;
+VI. La problemática de la sanidad y producción animal en el país, emitiendo propuestas de programas y acciones dirigidas a su solución;
+
+VII. La elaboración de anteproyectos de normas oficiales mexicanas específicas y elaboración de proyectos de manifestaciones de impacto regulatorio que desarrollen los subcomités del Comité Consultivo Nacional de Normalización de Protección Zoosanitaria;
 
 VIII. Las medidas zoosanitarias y las medidas de bioseguridad que deberán cumplir las mercancías reguladas, y
 

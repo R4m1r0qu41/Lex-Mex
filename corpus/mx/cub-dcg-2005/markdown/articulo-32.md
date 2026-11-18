@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo I
@@ -19,7 +19,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las Instituciones, en adición a las funciones de control y de auditoría interna en materia de crédito mencionadas en las presentes disposiciones, deberán:
 
-I. Corroborar la entrega en tiempo y forma de los diversos archivos, reportes e informes entre los distintos funcionarios, áreas y órganos sociales involucrados en la Actividad Crediticia de la Institución, así como a las autoridades competentes.
+I. Corroborar la entrega en tiempo y forma de los diversos archivos, reportes e informes entre los distintos funcionarios, áreas y órganos sociales involucrados en la [Actividad Crediticia](articulo-1.md) de la Institución, así como a las autoridades competentes.
 
 II. Vigilar que los pagos de clientes relacionados con la cobranza administrativa y, en su caso, judicial, se realicen en las fechas pactadas en el contrato de crédito, informando de cualquier irregularidad a los encargados de la administración del crédito en cuestión.
 

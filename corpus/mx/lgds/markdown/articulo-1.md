@@ -7,8 +7,8 @@ provision_type: article
 number: "1"
 aliases: ["LGDS — Artículo 1"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -29,7 +29,9 @@ IV. Determinar la competencia de los gobiernos municipales, de las entidades fed
 
 V. Fomentar el sector social de la economía;
 
-VI. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales; VII. Determinar las bases y fomentar la participación social y privada en la materia;
+VI. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales;
+
+VII. Determinar las bases y fomentar la participación social y privada en la materia;
 
 VIII. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Nacional de Desarrollo Social, y
 

@@ -27,7 +27,9 @@ II Bis. Aeronave agrícola: La empleada exclusivamente para la fumigación de ca
 
 III. Aeródromo civil: Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 
-III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la [Agencia Federal de Aviación Civil](articulo-2.md); IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la [Agencia Federal de Aviación Civil](articulo-2.md);
+
+IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
 
 V. Aeronave Autónoma: Aeronave no tripulada que opera sin la intervención de piloto en la gestión del vuelo;
 
@@ -77,7 +79,9 @@ XXV. Procuraduría: Procuraduría Federal del Consumidor;
 
 XXVI. Programa Estatal de Seguridad Operacional: Conjunto integrado de reglamentos y actividades destinado a mejorar la seguridad operacional, conocido como "SSP" por las siglas en inglés de State Safety Program;
 
-XXVII. Programa de Seguridad de la Aviación Civil del Estado mexicano: El que elabore el Comité Nacional de Seguridad de Aviación Civil integrado por las personas representantes de las secretarías de la Defensa Nacional, de Marina, de Infraestructura, Comunicaciones y Transportes y apruebe la persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes; XXVIII. Proveedoras de servicio: Las personas concesionarias, asignatarias y permisionarias del servicio al público de transporte aéreo; las concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeropuertos; Aeropuertos y Servicios Auxiliares, organismo descentralizado; Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado; las permisionarias de talleres aeronáuticos; las empresas o consorcios creadoras del diseño de tipo y fabricadoras de aeronaves, motores o hélices; las personas prestadoras de servicios de tránsito aéreo; las instituciones educativas; las operadoras aéreas de aeronaves de Estado distintas de las militares, y las demás que los reglamentos establezcan;
+XXVII. Programa de Seguridad de la Aviación Civil del Estado mexicano: El que elabore el Comité Nacional de Seguridad de Aviación Civil integrado por las personas representantes de las secretarías de la Defensa Nacional, de Marina, de Infraestructura, Comunicaciones y Transportes y apruebe la persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+XXVIII. Proveedoras de servicio: Las personas concesionarias, asignatarias y permisionarias del servicio al público de transporte aéreo; las concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeropuertos; Aeropuertos y Servicios Auxiliares, organismo descentralizado; Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado; las permisionarias de talleres aeronáuticos; las empresas o consorcios creadoras del diseño de tipo y fabricadoras de aeronaves, motores o hélices; las personas prestadoras de servicios de tránsito aéreo; las instituciones educativas; las operadoras aéreas de aeronaves de Estado distintas de las militares, y las demás que los reglamentos establezcan;
 
 XXIX. Reglas de tránsito aéreo: Disposiciones técnico-administrativas emitidas por la Agencia Federal de Aviación Civil que establecen las condiciones de funcionamiento y operación de la navegación aérea;
 

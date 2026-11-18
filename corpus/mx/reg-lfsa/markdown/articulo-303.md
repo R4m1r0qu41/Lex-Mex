@@ -7,8 +7,8 @@ provision_type: article
 number: "303"
 aliases: ["REG-LFSA — Artículo 303"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -23,6 +23,8 @@ I. Original y copia simple de la acreditación otorgada por una entidad de acred
 
 II. Original y copia simple de la cédula profesional, que lo acredita como médico veterinario o carrera afín según corresponda expedida por la autoridad competente;
 
-III. Constancia de capacitación expedida por instituciones académicas, científicas u organizaciones colegiadas con las que la Secretaría haya celebrado un acuerdo o convenio para desarrollar programas de capacitación; IV. En el caso de médico veterinario extranjero o carrera afín según corresponda, documento vigente expedido por la autoridad competente, mediante el cual se acredite su legal estancia en el país y que la calidad y característica migratoria que le fueron otorgadas en el mismo, le permiten realizar expresamente la actividad solicitada para este trámite, y
+III. Constancia de capacitación expedida por instituciones académicas, científicas u organizaciones colegiadas con las que la Secretaría haya celebrado un acuerdo o convenio para desarrollar programas de capacitación;
+
+IV. En el caso de médico veterinario extranjero o carrera afín según corresponda, documento vigente expedido por la autoridad competente, mediante el cual se acredite su legal estancia en el país y que la calidad y característica migratoria que le fueron otorgadas en el mismo, le permiten realizar expresamente la actividad solicitada para este trámite, y
 
 V. Declaración bajo protesta de decir verdad de que no ha sido sancionado por la Secretaría.

@@ -7,8 +7,8 @@ provision_type: article
 number: "51"
 aliases: ["REG-LFFAROSC — Artículo 51"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf
 source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 ---
@@ -35,6 +35,8 @@ VII. Llevar el archivo del Consejo;
 
 VIII. Expedir los documentos que acrediten la personalidad de los Consejeros;
 
-IX. Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo; X. Dar a conocer las minutas de las reuniones cuando le sean solicitadas al Consejo, y
+IX. Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo;
+
+X. Dar a conocer las minutas de las reuniones cuando le sean solicitadas al Consejo, y
 
 Xl. Las demás que establezca el Manual de Operación del Consejo Técnico Consultivo.

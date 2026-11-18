@@ -7,8 +7,8 @@ provision_type: article
 number: "151"
 aliases: ["REG-LFSA — Artículo 151"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -29,4 +29,6 @@ IV. Nutracéuticos o alimentos funcionales;
 
 V. Fórmulas lácteas que no contengan principios activos de uso farmacéutico o bien que contengan premezclas medicadas registradas;
 
-VI. Suplementos alimenticios no medicados, y VII. Los demás, que en su caso, determine la Secretaría conforme a los avances técnicos y científicos.
+VI. Suplementos alimenticios no medicados, y
+
+VII. Los demás, que en su caso, determine la Secretaría conforme a los avances técnicos y científicos.

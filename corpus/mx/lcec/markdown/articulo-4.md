@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LCEC — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 4
 
-Las Cámaras y sus [Confederaciones](articulo-2.md) son instituciones de interés público, autónomas, con personalidad jurídica y patrimonio propio, constituidas conforme a lo dispuesto en esta Ley y para los fines que ella establece.
+Las [Cámaras](articulo-2.md) y sus [Confederaciones](articulo-2.md) son instituciones de interés público, autónomas, con personalidad jurídica y patrimonio propio, constituidas conforme a lo dispuesto en esta Ley y para los fines que ella establece.
 
 Las Cámaras estarán conformadas por [Comerciantes](articulo-2.md) o [Industriales](articulo-2.md), según lo dispuesto en las fracciones III y IV del artículo [2](articulo-2.md); sus Confederaciones estarán conformadas sólo por Cámaras.
 

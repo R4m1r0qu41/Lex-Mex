@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LFDEAPD — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf
 source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 ---
@@ -29,7 +29,9 @@ IV. Proteger el patrimonio de la Persona Desaparecida, incluyendo los bienes adq
 
 V. Fijar la forma y plazos para que los [Familiares](articulo-3.md) u otras personas legitimadas por ley, pueden acceder, previo control judicial, al patrimonio de la Persona Desaparecida;
 
-VI. Permitir que las personas beneficiarias de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los derechos y beneficios aplicables a este régimen; VII. Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la Persona Desaparecida;
+VI. Permitir que las personas beneficiarias de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los derechos y beneficios aplicables a este régimen;
+
+VII. Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la Persona Desaparecida;
 
 VIII. Declarar la inexigibilidad o la suspensión temporal de obligaciones o responsabilidades que la Persona Desaparecida tenía a su cargo, incluyendo aquellas derivadas de la adquisición de bienes a crédito y cuyos plazos de amortización se encuentren vigentes;
 

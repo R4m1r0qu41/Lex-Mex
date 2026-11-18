@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["REG-LGV — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf
 source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 ---
@@ -27,7 +27,9 @@ III. Comités: Los Comités a que se refiere el artículo [93](../../lgv/markdow
 
 IV. Estatuto Orgánico: El Estatuto Orgánico de la Comisión Ejecutiva;
 
-V. Fondo: El Fondo de Ayuda, Asistencia y Reparación Integral a que se refiere el Título Octavo de la Ley, incluyendo el fondo de emergencia previsto en el artículo 135 de la misma; VI. Formato: El Formato único de declaración y de incorporación al Registro, que es el instrumento elaborado por la Comisión Ejecutiva, el cual estará publicado en su página electrónica y será distribuido a todas las instancias que participen en las acciones de atención, asistencia y protección a las víctimas, y que será de acceso público;
+V. Fondo: El Fondo de Ayuda, Asistencia y Reparación Integral a que se refiere el Título Octavo de la Ley, incluyendo el fondo de emergencia previsto en el artículo 135 de la misma;
+
+VI. Formato: El Formato único de declaración y de incorporación al Registro, que es el instrumento elaborado por la Comisión Ejecutiva, el cual estará publicado en su página electrónica y será distribuido a todas las instancias que participen en las acciones de atención, asistencia y protección a las víctimas, y que será de acceso público;
 
 VII. Modelo Integral de Atención a Víctimas: El instrumento emitido por el Pleno de la Comisión Ejecutiva, a través del cual se establecen las instancias federales y los procedimientos para la atención, asistencia y protección a las víctimas, y
 

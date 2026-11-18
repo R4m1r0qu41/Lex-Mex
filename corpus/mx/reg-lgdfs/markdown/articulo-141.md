@@ -35,7 +35,9 @@ VII. Estimación del volumen en metros cúbicos, por especie y por predio, de la
 
 VIII. Plazo propuesto y la programación de las acciones para la ejecución del Cambio de uso de suelo;
 
-IX. Propuesta de programa de rescate y reubicación de especies de flora y fauna que pudieran resultar afectadas y su adaptación al nuevo hábitat, en caso de autorizarse el Cambio de uso de suelo; X. Medidas de prevención y mitigación por la afectación sobre los Recursos forestales, el suelo, el agua, la flora y fauna silvestres aplicables durante las distintas etapas de desarrollo del Cambio de uso de suelo;
+IX. Propuesta de programa de rescate y reubicación de especies de flora y fauna que pudieran resultar afectadas y su adaptación al nuevo hábitat, en caso de autorizarse el Cambio de uso de suelo;
+
+X. Medidas de prevención y mitigación por la afectación sobre los Recursos forestales, el suelo, el agua, la flora y fauna silvestres aplicables durante las distintas etapas de desarrollo del Cambio de uso de suelo;
 
 XI. Servicios ambientales que serán afectados por el Cambio de uso de suelo propuesto;
 

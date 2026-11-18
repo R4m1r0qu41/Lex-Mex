@@ -194,7 +194,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:3",
     "fraction": "XVIII",
     "start_char": 6311,
-    "end_char": 6389,
+    "end_char": 6390,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtaip",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:3",
     "fraction": "XIX",
-    "start_char": 6389,
-    "end_char": 6865,
+    "start_char": 6390,
+    "end_char": 6866,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtaip",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:3",
     "fraction": "XX",
-    "start_char": 6865,
-    "end_char": 6959,
+    "start_char": 6866,
+    "end_char": 6960,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtaip",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:3",
     "fraction": "XXI",
-    "start_char": 6959,
-    "end_char": 7166,
+    "start_char": 6960,
+    "end_char": 7167,
     "basis": "express_definition"
   }
 ]

@@ -7,8 +7,8 @@ provision_type: article
 number: "84"
 aliases: ["LGV — Artículo 84"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 La [Comisión Ejecutiva](articulo-6.md) es un organismo con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos de la Federación. Párrafo reformado DOF 03-01-2017
 
-Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo [95](articulo-95.md) de esta Ley. Párrafo adicionado DOF 03-01-2017
+Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo [95](articulo-95.md) de esta [Ley](articulo-6.md). Párrafo adicionado DOF 03-01-2017
 
 La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de la Ley; así como desempeñarse como el órgano operativo del [Sistema](articulo-6.md) y las demás que esta Ley señale. Párrafo adicionado DOF 03-01-2017
 

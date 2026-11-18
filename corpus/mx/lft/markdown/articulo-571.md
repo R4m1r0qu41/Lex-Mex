@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 En la fijación de los salarios mínimos a que se refiere el primer párrafo del artículo [570](articulo-570.md) se observarán las normas siguientes:
 
-I. Los trabajadores y los patrones dispondrán de un término que vencerá el último de noviembre para presentar los estudios que juzguen convenientes; II. La Dirección Técnica presentará a la consideración del Consejo de Representantes, a más tarde el último día de noviembre, el Informe al que se refiere la fracción V del artículo [562](articulo-562.md) de esta Ley;
+I. Los trabajadores y los patrones dispondrán de un término que vencerá el último de noviembre para presentar los estudios que juzguen convenientes;
+
+II. La Dirección Técnica presentará a la consideración del Consejo de Representantes, a más tarde el último día de noviembre, el Informe al que se refiere la fracción V del artículo [562](articulo-562.md) de esta Ley;
 
 III. El Consejo de Representantes, durante el mes de Diciembre y antes del último día hábil del mismo mes, dictará resolución en la que fije los salarios mínimos, después de estudiar el informe de la Dirección Técnica, y las opiniones, estudios e investigaciones presentadas por los trabajadores y los patrones. Para tal efecto podrá realizar directamente las investigaciones y estudios que juzgue convenientes y solicitar a la Dirección Técnica información complementaria;
 

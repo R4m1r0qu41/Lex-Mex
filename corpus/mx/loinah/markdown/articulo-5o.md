@@ -27,6 +27,8 @@ c) Museos y Exposiciones.
 
 d) Docencia y Formación de recursos humanos en los campos de competencia del Instituto.
 
-II. De acuerdo con su estructura territorial, en Centros o Delegaciones Regionales; y III. De acuerdo con su estructura administrativa, en las unidades que el reglamento de esta Ley establezca para el mejor desempeño de sus funciones.
+II. De acuerdo con su estructura territorial, en Centros o Delegaciones Regionales; y
+
+III. De acuerdo con su estructura administrativa, en las unidades que el reglamento de esta Ley establezca para el mejor desempeño de sus funciones.
 
 Artículo reformado DOF 13-01-1986

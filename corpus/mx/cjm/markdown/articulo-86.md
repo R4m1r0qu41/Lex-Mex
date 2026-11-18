@@ -33,7 +33,9 @@ VI.- Asesorar a la persona militar imputada para la celebración de los acuerdos
 
 VII.- Consultar a la Jefa o Jefe o Subjefa o Subjefe de la Defensoría, o bien a la Jefa o Jefe de la Sección Técnica o Subsección de Defensores, en todos los asuntos que estime necesario, exponiéndole el caso de que se trate y la opinión que de él se haya formado; Fracción reformada DOF 16-07-2025
 
-VIII. Mantener informados a sus representados del estado de sus procesos; IX.- Informar y presentar por escrito a la persona titular de la Defensoría General, los motivos de excusa que tuvieren para intervenir en los asuntos en que se consideren impedidas o impedidos; Fracción reformada DOF 16-07-2025
+VIII. Mantener informados a sus representados del estado de sus procesos;
+
+IX.- Informar y presentar por escrito a la persona titular de la Defensoría General, los motivos de excusa que tuvieren para intervenir en los asuntos en que se consideren impedidas o impedidos; Fracción reformada DOF 16-07-2025
 
 X.- Rendir los informes mensuales de los procesos a su cargo y los demás que les ordene la persona titular de la Defensoría General; Fracción reformada DOF 16-07-2025
 

@@ -17,7 +17,9 @@ source_sha256: 04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6
 
 # Artículo 59
 
-Las infracciones a la presente [Ley](articulo-2.md) serán sancionadas por la [Secretaría](articulo-2.md) con: I. El apercibimiento para que el responsable lleve a cabo los actos solicitados por la persona titular, en los términos previstos por esta Ley, tratándose de los supuestos previstos en la fracción I del [artículo anterior](articulo-58.md);
+Las infracciones a la presente [Ley](articulo-2.md) serán sancionadas por la [Secretaría](articulo-2.md) con:
+
+I. El apercibimiento para que el responsable lleve a cabo los actos solicitados por la persona titular, en los términos previstos por esta Ley, tratándose de los supuestos previstos en la fracción I del [artículo anterior](articulo-58.md);
 
 II. Multa de 100 a 160,000 veces la Unidad de Medida y Actualización, en los casos previstos en las fracciones II a VII del [artículo anterior](articulo-58.md);
 

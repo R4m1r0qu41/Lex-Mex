@@ -29,7 +29,9 @@ IV. Revisar el programa anual de obras y servicios antes de su publicación en C
 
 V. Recibir por conducto del secretario técnico, las propuestas de modificación a las políticas, bases y lineamientos formuladas por las [Áreas requirentes](articulo-2.md) y por las responsables de la contratación, así como dictaminar sobre su procedencia y, en su caso, someterlas a la autorización del titular de la dependencia u órgano de gobierno correspondiente.
 
-El Comité no dictaminará los siguientes asuntos: I. La procedencia de la contratación en los casos de excepción a que se refiere el último párrafo del artículo [42](../../lopsrm/markdown/articulo-42.md) de la Ley;
+El Comité no dictaminará los siguientes asuntos:
+
+I. La procedencia de la contratación en los casos de excepción a que se refiere el último párrafo del artículo [42](../../lopsrm/markdown/articulo-42.md) de la Ley;
 
 II. Los procedimientos de contratación por monto que se fundamenten en el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "158"
 aliases: ["LGE — Artículo 158"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -29,7 +29,9 @@ IV. Fecha y número de oficio de la orden de visita;
 
 V. Calle, número, colonia, código postal, municipio o alcaldía y entidad en donde se ubique la institución visitada y, en su caso, nombre del plantel;
 
-VI. El nombre de la persona con quien se entienda la diligencia, así como el carácter con que se ostenta y, en su caso, la descripción del documento con lo que lo acredite; VII. El requerimiento a la persona con quien se entienda la diligencia, para que designe testigos y, en su caso, sus sustitutos y ante su negativa o abandono de la diligencia, los testigos señalados por el servidor público comisionado, cuando sea materialmente posible;
+VI. El nombre de la persona con quien se entienda la diligencia, así como el carácter con que se ostenta y, en su caso, la descripción del documento con lo que lo acredite;
+
+VII. El requerimiento a la persona con quien se entienda la diligencia, para que designe testigos y, en su caso, sus sustitutos y ante su negativa o abandono de la diligencia, los testigos señalados por el servidor público comisionado, cuando sea materialmente posible;
 
 VIII. En su caso, el nombre de los testigos designados, domicilio y los datos de su identificación;
 

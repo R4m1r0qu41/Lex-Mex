@@ -21,7 +21,9 @@ Los Establecimientos que importen equipo usado contarán con libreta de control 
 
 I. El nombre del aparato importado;
 
-II. La marca; III. El número de autorización sanitaria de importación;
+II. La marca;
+
+III. El número de autorización sanitaria de importación;
 
 IV. La fecha de ingreso;
 

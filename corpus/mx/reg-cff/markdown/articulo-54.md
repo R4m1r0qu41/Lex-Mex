@@ -23,7 +23,9 @@ I. Estar inscritas en el registro federal de contribuyentes, así como encontrar
 
 II. Contar con el certificado de firma electrónica avanzada vigente, expedido por el Servicio de Administración Tributaria o por un prestador de servicios de certificación autorizado en los términos del Código;
 
-III. Entregar una relación con los nombres de los contadores públicos autorizados para formular dictámenes para efectos fiscales, que presten sus servicios a la misma persona moral, y IV. Que su representante legal cumpla con los requisitos establecidos en las fracciones I y II del presente artículo, y no haya presentado el aviso de suspensión de actividades previsto en el artículo [29](articulo-29.md), fracción V de este Reglamento.
+III. Entregar una relación con los nombres de los contadores públicos autorizados para formular dictámenes para efectos fiscales, que presten sus servicios a la misma persona moral, y
+
+IV. Que su representante legal cumpla con los requisitos establecidos en las fracciones I y II del presente artículo, y no haya presentado el aviso de suspensión de actividades previsto en el artículo [29](articulo-29.md), fracción V de este Reglamento.
 
 Cuando las sociedades o asociaciones civiles a que se refiere este artículo soliciten por primera vez el registro correspondiente, la solicitud se deberá presentar dentro del mes siguiente a la fecha en la que alguno de sus miembros obtenga autorización para formular dictámenes para efectos fiscales.
 

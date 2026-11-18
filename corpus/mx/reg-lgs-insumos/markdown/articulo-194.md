@@ -23,4 +23,6 @@ I. De importación definitiva, por el que se autoriza la entrada al país de [In
 
 II. De importación temporal, por el que se autoriza la entrada al país de Insumos, para permanecer en él por tiempo limitado y con una finalidad específica, siempre que retornen al extranjero en un plazo no mayor de un año;
 
-III. De importación en tránsito, por el que se autoriza la entrada al país de Insumos, para su traslado de una a otra aduana nacional, para su salida al extranjero, en un plazo no mayor de treinta días, y IV. De venta o distribución temporal, por el que se autoriza la venta o distribución exclusivamente de medicamentos con fines estratégicos.
+III. De importación en tránsito, por el que se autoriza la entrada al país de Insumos, para su traslado de una a otra aduana nacional, para su salida al extranjero, en un plazo no mayor de treinta días, y
+
+IV. De venta o distribución temporal, por el que se autoriza la venta o distribución exclusivamente de medicamentos con fines estratégicos.

@@ -7,8 +7,8 @@ provision_type: article
 number: "164"
 aliases: ["LGV — Artículo 164"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -23,6 +23,6 @@ La formación y capacitación se realizará con enfoque diferencial y transforma
 
 Asimismo, deberá brindarse a la víctima orientación ocupacional específica que le permita optar sobre los programas, planes y rutas de capacitación y formación más idóneos conforme su interés, condición y contexto.
 
-Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno al momento de la expedición de la presente Ley, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma. Cuando en el Gobierno Federal o en los gobiernos de las entidades federativas no cuenten con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, deberán crear los programas y planes específicos. Párrafo reformado DOF 03-01-2017
+Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno al momento de la expedición de la presente [Ley](articulo-6.md), garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma. Cuando en el Gobierno Federal o en los gobiernos de las entidades federativas no cuenten con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, deberán crear los programas y planes específicos. Párrafo reformado DOF 03-01-2017
 
 Artículo reformado DOF 03-05-2013

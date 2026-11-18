@@ -19,7 +19,9 @@ source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 
 Son facultades y obligaciones de los comisarios: Párrafo reformado DOF 23-01-1981
 
-I.- Cerciorarse de la constitución y subsistencia de la garantía que exige el artículo [152](articulo-152.md), dando cuenta sin demora de cualquiera irregularidad a la Asamblea General de Accionistas; II.- Exigir a los administradores una información mensual que incluya por lo menos un estado de situación financiera y un estado de resultados. Fracción reformada DOF 23-01-1981
+I.- Cerciorarse de la constitución y subsistencia de la garantía que exige el artículo [152](articulo-152.md), dando cuenta sin demora de cualquiera irregularidad a la Asamblea General de Accionistas;
+
+II.- Exigir a los administradores una información mensual que incluya por lo menos un estado de situación financiera y un estado de resultados. Fracción reformada DOF 23-01-1981
 
 III.- Realizar un examen de las operaciones, documentación, registros y demás evidencias comprobatorias, en el grado y extensión que sean necesarios para efectuar la vigilancia de las operaciones que la ley les impone y para poder rendir fundadamente el dictamen que se menciona en el siguiente inciso. Fracción reformada DOF 23-01-1981
 

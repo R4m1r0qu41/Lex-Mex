@@ -25,7 +25,9 @@ II. No ejercer los derechos conferidos en las concesiones o permisos, durante un
 
 III. Interrumpir la operación o servicios al público, total o parcialmente, sin causa justificada;
 
-IV. Reincidir en la aplicación de tarifas superiores a las autorizadas; V. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
+IV. Reincidir en la aplicación de tarifas superiores a las autorizadas;
+
+V. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
 
 VI. Ejecutar actos que impidan o tiendan a impedir la actuación de otros operadores, prestadores de servicios o permisionarios que tengan derecho a ello;
 

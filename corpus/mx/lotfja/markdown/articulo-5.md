@@ -41,7 +41,9 @@ X. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o princip
 
 XI. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
 
-XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido; XIII. Ser cónyuge, concubino o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XIII. Ser cónyuge, concubino o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
 
 XIV. Haber sido Juez o Magistrado en el mismo asunto, en otra instancia, o
 

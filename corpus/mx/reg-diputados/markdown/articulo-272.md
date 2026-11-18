@@ -21,7 +21,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 I. Las que desempeñe el Presidente, como las visitas oficiales de carácter bilateral para dinamizar relaciones parlamentarias al más alto nivel, en eventos organizados por sus pares, como las reuniones mundiales o regionales de Presidentes de Parlamentos, que se verifican periódicamente;
 
-II. Las declaraciones institucionales, tendientes a que la [Cámara](articulo-2.md) se pronuncie manifestando su apoyo o desaprobación frente algún acontecimiento en específico; III. Las que desempeñe la Comisión de Relaciones Exteriores, que de manera enunciativa más no limitativa, se refieren las que se lleven a cabo dentro de los encuentros de representantes parlamentarios afines, así como en delegaciones permanentes de diputados y diputadas ante instancias multilaterales mundiales, regionales y bilaterales parlamentarias;
+II. Las declaraciones institucionales, tendientes a que la [Cámara](articulo-2.md) se pronuncie manifestando su apoyo o desaprobación frente algún acontecimiento en específico;
+
+III. Las que desempeñe la Comisión de Relaciones Exteriores, que de manera enunciativa más no limitativa, se refieren las que se lleven a cabo dentro de los encuentros de representantes parlamentarios afines, así como en delegaciones permanentes de diputados y diputadas ante instancias multilaterales mundiales, regionales y bilaterales parlamentarias;
 
 IV. Las que consuetudinariamente se han puesto en práctica por las delegaciones de diputados y diputadas en reuniones interparlamentarias temáticas, de acuerdo con el grado de especialidad con el que cuentan dentro de su labor legislativa;
 

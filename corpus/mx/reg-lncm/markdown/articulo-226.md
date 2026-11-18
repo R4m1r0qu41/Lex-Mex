@@ -21,6 +21,8 @@ Los navieros extranjeros para la explotación y operación de Embarcaciones extr
 
 I. Servicios turísticos, deportivos y recreativos;
 
-II. Construcción y mantenimiento portuario, y III. Dragado.
+II. Construcción y mantenimiento portuario, y
+
+III. Dragado.
 
 Para calificar si la excepción es procedente, la [Dirección General](articulo-10.md) verificará que exista reciprocidad con el país de la bandera de la Embarcación.

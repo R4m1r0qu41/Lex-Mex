@@ -37,7 +37,9 @@ d) 7% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías, 
 
 e) 10% para el equipo de comunicación, señalización y telemando.
 
-III. 10% para mobiliario y equipo de oficina. IV. 6% para embarcaciones.
+III. 10% para mobiliario y equipo de oficina.
+
+IV. 6% para embarcaciones.
 
 V. Tratándose de aviones:
 

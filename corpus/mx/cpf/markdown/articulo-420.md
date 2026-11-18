@@ -17,7 +17,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 420
 
-Se impondrá pena de uno a nueve años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente: I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero marino, o recolecte o almacene de cualquier forma sus productos o subproductos;
+Se impondrá pena de uno a nueve años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
+
+I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero marino, o recolecte o almacene de cualquier forma sus productos o subproductos;
 
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 

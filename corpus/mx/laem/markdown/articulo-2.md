@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LAEM — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
 source_sha256: b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca
 ---
@@ -27,7 +27,9 @@ III. Promover el efectivo desarrollo de actividades espaciales para ampliar las 
 
 IV. Desarrollar la capacidad científico-tecnológica del país a través de la articulación de los sectores involucrados en todos los campos de la actividad espacial que hagan posible su actuación en un marco de autonomía nacional en la materia;
 
-V. Promover el desarrollo de los sistemas espaciales y los medios, tecnología e infraestructura necesarios para la consolidación y autonomía de este sector en México; VI. Facilitar la incorporación de los sectores relacionados a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios espaciales;
+V. Promover el desarrollo de los sistemas espaciales y los medios, tecnología e infraestructura necesarios para la consolidación y autonomía de este sector en México;
+
+VI. Facilitar la incorporación de los sectores relacionados a esta política y particularmente la participación del sector productivo, a fin de que éste adquiera competitividad en los mercados de bienes y servicios espaciales;
 
 VII. Promover una activa cooperación internacional mediante acuerdos que beneficien a las actividades espaciales y que permitan la integración activa de México a la Comunidad Espacial Internacional;
 

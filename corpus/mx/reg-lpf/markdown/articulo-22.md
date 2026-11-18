@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["REG-LPF — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -33,7 +33,9 @@ VI. Fortalecer la prevención primaria de la criminalidad, a través de acciones
 
 VII. Supervisar el desarrollo de los sistemas de acopio de información de inteligencia policial que permitan la prevención e identificación de bandas delictivas;
 
-VIII. Administrar, en el ámbito de su competencia, la utilización de metodologías de recolección, clasificación y evaluación de la información de inteligencia policial que proporcionen las evidencias necesarias de la comisión de hechos delictivos y los presuntos responsables; IX. Diseñar las estrategias de identificación y desarticulación de estructuras criminales;
+VIII. Administrar, en el ámbito de su competencia, la utilización de metodologías de recolección, clasificación y evaluación de la información de inteligencia policial que proporcionen las evidencias necesarias de la comisión de hechos delictivos y los presuntos responsables;
+
+IX. Diseñar las estrategias de identificación y desarticulación de estructuras criminales;
 
 X. Dar cumplimiento a los ordenamientos judiciales y ministeriales;
 

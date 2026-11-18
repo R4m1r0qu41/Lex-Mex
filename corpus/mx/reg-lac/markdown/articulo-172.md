@@ -29,6 +29,8 @@ IV. Ceder el paso a las aeronaves que estén aterrizando o en las fases finales 
 
 V. Ceder el paso a las aeronaves que estén despegando o por despegar cuando esté operando una aeronave en rodaje y dentro del área de maniobras de un aeródromo;
 
-VI. Operar las luces de navegación y otras con que cuente la aeronave conforme a las condiciones previstas por las reglas de tránsito aéreo, y VII. Cuando pretenda realizar un vuelo controlado, obtener la autorización respectiva del servicio de control de tránsito aéreo antes de su salida y una vez en vuelo se apegará a la misma.
+VI. Operar las luces de navegación y otras con que cuente la aeronave conforme a las condiciones previstas por las reglas de tránsito aéreo, y
+
+VII. Cuando pretenda realizar un vuelo controlado, obtener la autorización respectiva del servicio de control de tránsito aéreo antes de su salida y una vez en vuelo se apegará a la misma.
 
 La persona comandante o piloto al mando de la aeronave, durante el vuelo, debe solicitar la aprobación de cambios a su plan de vuelo a quien preste los servicios de control de tránsito aéreo y se debe apegar a los mismos. Párrafo reformado DOF 31-05-2023

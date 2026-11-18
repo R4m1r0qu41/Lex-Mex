@@ -17,7 +17,7 @@ source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 
 # Artículo 20
 
-[Las Secretarías Administradoras, de conformidad con lo establecido en el Presupuesto de Egresos respectivo y en las leyes competentes en la materia, emitirán anualmente los Lineamientos que contengan las reglas relativas a la difusión de las campañas de carácter industrial, comercial, mercantil y de promoción y publicidad que promuevan o publiciten la venta de productos o servicios que generan algún ingreso para el Estado, mismos que no podrán difundirse en los Tiempos Oficiales.]
+[Las Secretarías Administradoras, de conformidad con lo establecido en el Presupuesto de Egresos respectivo y en las leyes competentes en la materia, emitirán anualmente los Lineamientos que contengan las reglas relativas a la difusión de las campañas de carácter industrial, comercial, mercantil y de promoción y publicidad que promuevan o publiciten la venta de productos o servicios que generan algún ingreso para el Estado, mismos que no podrán difundirse en los [Tiempos Oficiales](articulo-4.md).]
 
 Artículo reformado DOF 27-12-2022
 

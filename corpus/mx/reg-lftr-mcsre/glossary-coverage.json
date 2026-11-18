@@ -8,7 +8,7 @@
   "glossaries": [],
   "hold": {
     "provision_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3",
-    "provision_text_sha256": "de92f806a32f1bfba3819143710678202b8dc2ee0ae95eeda6f197ea3898b596",
+    "provision_text_sha256": "8ba8351ed30562cc607b0fc0112a16b126e9ab331d3d8003abf6b1564a3f2fd7",
     "code": "sequence_break",
     "message": "fraction IX breaks the I, II, III… sequence after VII"
   },

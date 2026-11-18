@@ -19,6 +19,8 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 Las personas a que se refiere el artículo [101 Bis 2](articulo-101-Bis-2.md) de esta Ley no incurrirán en responsabilidad por los daños o perjuicios que ocasionen, derivados de los servicios u opiniones que emitan, cuando actuando de buena fe y sin dolo se actualice lo siguiente:
 
-I. Rindan su dictamen u opinión con base en información proporcionada por la persona a la que otorguen sus servicios, y II. Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodologías que deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su profesión u oficio.
+I. Rindan su dictamen u opinión con base en información proporcionada por la persona a la que otorguen sus servicios, y
+
+II. Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodologías que deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su profesión u oficio.
 
 Artículo adicionado DOF 01-02-2008

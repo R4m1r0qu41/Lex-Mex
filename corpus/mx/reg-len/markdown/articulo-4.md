@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["REG-LEN — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf
 source_sha256: 01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795
 ---
@@ -23,7 +23,9 @@ I. Adiestramiento: El proceso académico mediante el cual, el personal naval se 
 
 II. Capacitación: El proceso mediante el cual, el personal naval se prepara con el fin de desempeñar una actividad o función de acuerdo con su rama y nivel jerárquico, requiriendo un nivel medio de conocimientos teórico-prácticos para lograr el objetivo, incluyendo el fortalecimiento de los valores institucionales;
 
-III. Decreto: El Decreto por el que se crea la Universidad Naval como unidad administrativa de la Secretaría de Marina, publicado el 23 de julio de 2015 en el Diario Oficial de la Federación; IV. Educación Media Superior: El nivel educativo que comprende el bachillerato y el profesional- técnico;
+III. Decreto: El Decreto por el que se crea la Universidad Naval como unidad administrativa de la Secretaría de Marina, publicado el 23 de julio de 2015 en el Diario Oficial de la Federación;
+
+IV. Educación Media Superior: El nivel educativo que comprende el bachillerato y el profesional- técnico;
 
 V. Educación Superior: El nivel educativo que permite obtener un título profesional y comprende los tipos siguientes:
 

@@ -41,7 +41,9 @@ X. Socios, a las personas físicas o morales que participen como socios de los F
 
 XI. Líneas de Operación, a las operaciones y ramos de seguros que los Fondos de Aseguramiento podrán practicar al amparo del registro ante la [Secretaría](articulo-2o.md), de conformidad con esta Ley, la Ley General de Instituciones y Sociedades Mutualistas de Seguros y con las Reglas Generales que emita la Secretaría;
 
-XII. Sistema de Protección, al sistema integrado por el [Fondo de Protección](articulo-2o.md) y por los Fondos de Retención Común de Riesgos, en los términos de esta Ley; XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
+XII. Sistema de Protección, al sistema integrado por el [Fondo de Protección](articulo-2o.md) y por los Fondos de Retención Común de Riesgos, en los términos de esta Ley;
+
+XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
 
 XIV. Fondo de Retención Común de Riesgos, en singular o plural, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
 

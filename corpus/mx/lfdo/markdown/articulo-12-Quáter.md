@@ -22,7 +22,3 @@ En caso de que el Juez de control niegue la orden de arraigo o su ampliación, e
 La negativa a la solicitud o ampliación de arraigo admite la apelación, la cual debe ser resuelta en un plazo no mayor de doce horas contadas a partir de que se interponga.
 
 Artículo adicionado DOF 16-06-2016
-
-Artículo 12 Quintus.- El agente del Ministerio Público de la Federación, notificará la resolución a la persona sujeta al arraigo así como a su defensor. De la misma forma procederá al fenecimiento de la medida.
-
-Artículo adicionado DOF 16-06-2016

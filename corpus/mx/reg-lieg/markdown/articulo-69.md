@@ -7,8 +7,8 @@ provision_type: article
 number: "69"
 aliases: ["REG-LIEG — Artículo 69"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf
 source_sha256: 6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d
 ---
@@ -17,7 +17,9 @@ source_sha256: 6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d
 
 # Artículo 69
 
-Los Comités Técnicos Regionales de Estadística y de Información Geográfica realizarán las acciones siguientes: I. Definirán los lineamientos conceptuales de organización y operación necesarios para la integración del servicio estatal a los sistemas nacionales, en congruencia con las normas que la Secretaría establezca;
+Los Comités Técnicos Regionales de Estadística y de Información Geográfica realizarán las acciones siguientes:
+
+I. Definirán los lineamientos conceptuales de organización y operación necesarios para la integración del servicio estatal a los sistemas nacionales, en congruencia con las normas que la Secretaría establezca;
 
 II. Promoverán la participación efectiva de las dependencias, entidades, Poderes Legislativo y Judicial de la Federación y Judicial del Distrito Federal e instituciones que interviene en el proceso de información estadística y geográfica;
 

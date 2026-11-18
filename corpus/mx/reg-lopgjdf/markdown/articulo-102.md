@@ -7,8 +7,8 @@ provision_type: article
 number: "102"
 aliases: ["REG-LOPGJDF — Artículo 102"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -21,6 +21,8 @@ Los servidores públicos del área ministerial, deberán estar capacitados para 
 
 I. Oficial Secretario;
 
-II. Agente del Ministerio Público; III. Agente del Ministerio Público Supervisor, y
+II. Agente del Ministerio Público;
+
+III. Agente del Ministerio Público Supervisor, y
 
 IV. Responsables de Agencia.

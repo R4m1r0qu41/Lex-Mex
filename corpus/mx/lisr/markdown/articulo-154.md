@@ -23,7 +23,9 @@ El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
 I. Se estará exento por los primeros $125,900.00 obtenidos en el año de calendario de que se trate.
 
-II. Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $1,000,000.00. III. Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $1,000,000.00.
+II. Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $1,000,000.00.
+
+III. Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $1,000,000.00.
 
 La persona que efectúe los pagos deberá también efectuar la retención del impuesto si es residente en el país o residente en el extranjero con un establecimiento permanente en México con el que se relacione el servicio. En los demás casos, el contribuyente enterará el impuesto correspondiente mediante declaración que presentará ante las oficinas autorizadas dentro de los quince días siguientes a la obtención del ingreso.
 

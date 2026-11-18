@@ -31,4 +31,6 @@ IV.- Las condiciones de mercado de los recursos, bienes y servicios ofrecidos;
 
 V.- Título de propiedad del predio;
 
-VI.- Ubicación del terreno y planos de construcción de las obras a realizarse, y VII.- El número de autorización de la manifestación de impacto ambiental que haya otorgado la autoridad correspondiente.
+VI.- Ubicación del terreno y planos de construcción de las obras a realizarse, y
+
+VII.- El número de autorización de la manifestación de impacto ambiental que haya otorgado la autoridad correspondiente.

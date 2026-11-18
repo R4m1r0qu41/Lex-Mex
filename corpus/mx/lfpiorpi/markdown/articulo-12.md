@@ -23,7 +23,9 @@ I. Observar, en el ejercicio de esta Ley, los principios rectores de las institu
 
 II. Coordinar sus acciones, en el ámbito de sus respectivas competencias, para el cumplimiento del objeto de esta Ley;
 
-III. Abstenerse de proporcionar información generada con motivo de la presente Ley a persona alguna que no esté facultada para tomar noticia o imponerse de la misma; IV. Establecer medidas para la protección de la identidad de quienes proporcionen los [Avisos](articulo-3.md) a que se refiere esta Ley, y
+III. Abstenerse de proporcionar información generada con motivo de la presente Ley a persona alguna que no esté facultada para tomar noticia o imponerse de la misma;
+
+IV. Establecer medidas para la protección de la identidad de quienes proporcionen los [Avisos](articulo-3.md) a que se refiere esta Ley, y
 
 V. Al establecer regulaciones administrativas, en sus ámbitos de competencia, tendentes a identificar y prevenir actos u operaciones relacionados con el objeto de esta Ley, deberán:
 

@@ -17,7 +17,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 # Artículo 672
 
-La primera fase de la audiencia preliminar consistente en la junta anticipada tiene por objeto: I. El intercambio de información y de pruebas entre las partes;
+La primera fase de la audiencia preliminar consistente en la junta anticipada tiene por objeto:
+
+I. El intercambio de información y de pruebas entre las partes;
 
 II. Formular propuestas de convenio;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "128"
 aliases: ["LGE — Artículo 128"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -31,7 +31,9 @@ V. Opinar, en los casos de la educación que impartan los particulares, en relac
 
 VI. Conocer el nombre del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijas, hijos o pupilos, misma que será proporcionada por la autoridad escolar;
 
-VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos; VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
+VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos;
+
+VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
 
 IX. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
 

@@ -15,7 +15,9 @@ source_sha256: 5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277
 
 # Artículo 6o
 
-Lo dispuesto en el artículo [5](articulo-5o.md)o se aplicará también en relación con los permisos que se concedan para efectuar sorteos, con excepción de los siguientes: I.- Los que realicen las autoridades, instituciones educativas y de beneficencia para dedicar íntegramente sus productos a fines de interés general;
+Lo dispuesto en el artículo [5](articulo-5o.md)o se aplicará también en relación con los permisos que se concedan para efectuar sorteos, con excepción de los siguientes:
+
+I.- Los que realicen las autoridades, instituciones educativas y de beneficencia para dedicar íntegramente sus productos a fines de interés general;
 
 II.- Los que se celebren con fines exclusivos de propaganda comercial; y
 

@@ -20,7 +20,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 Las casas de bolsa deberán contar con un funcionario o área encargada de revisar las operaciones efectuadas a través de los sistemas electrónicos de negociación de las bolsas de valores, el cual deberá ser designado por la persona o área a quien se le hayan asignado las funciones de contraloría interna, y ser independiente de las áreas de negocio. Dicho funcionario o área estará a cargo, al menos, de lo siguiente:
 
-I. Verificar que se cumpla con lo establecido en el Título Tercero, Capítulo Segundo de las presentes disposiciones, así como lo previsto por los artículos 180 y 181 de la Ley y demás artículos que resulten aplicables.
+I. Verificar que se cumpla con lo establecido en el Título Tercero, Capítulo Segundo de las presentes disposiciones, así como lo previsto por los artículos 180 y 181 de la [Ley](articulo-1.md) y demás artículos que resulten aplicables.
 
 II. Velar por el debido cumplimiento de lo previsto en las fracciones II a XII del artículo [59](articulo-59.md) de las presentes disposiciones, que deberán contenerse en los manuales de las casas de bolsa.
 

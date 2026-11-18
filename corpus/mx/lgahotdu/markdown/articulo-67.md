@@ -7,8 +7,8 @@ provision_type: article
 number: "67"
 aliases: ["LGAHOTDU — Artículo 67"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -25,7 +25,9 @@ II. Los ductos y redes de infraestructura vial, hidráulica y de energía primar
 
 III. Instalaciones de tratamiento, confinamiento, eliminación o disposición de residuos peligrosos y municipales;
 
-IV. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y V. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
+IV. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y
+
+V. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
 
 Los estudios de prevención de riesgos geológicos e hidrometeorológicos contendrán las especificaciones, responsables técnicos, requisitos y alcances que determine el acuerdo que para tales efectos publique la Secretaría de Gobernación, en coordinación con la [Secretaría](articulo-3.md).
 

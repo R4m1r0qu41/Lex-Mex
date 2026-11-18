@@ -23,7 +23,9 @@ I. El proponente hará uso de la palabra hasta por cinco minutos, para exponer l
 
 II. El Presidente formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
 
-III. Después de que hubiesen intervenido hasta tres oradores de cada la lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo; IV. Cuando no hubieran oradores en contra, podrán hablar hasta dos oradores a favor;
+III. Después de que hubiesen intervenido hasta tres oradores de cada la lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
+
+IV. Cuando no hubieran oradores en contra, podrán hablar hasta dos oradores a favor;
 
 V. Cuando no hubiera oradores a favor del artículo incluido en el proyecto podrán hablar hasta dos oradores en contra, y
 

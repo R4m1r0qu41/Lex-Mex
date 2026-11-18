@@ -23,7 +23,9 @@ I. La Sociedad omita integrar los expedientes o no se informe a la Comisión de 
 
 II. La Sociedad no presente el instrumento público por el que se modifiquen los estatutos sociales ante el Registro Público de Comercio o no informe a la Secretaría o a la Comisión, los datos de inscripción conforme a lo dispuesto en el artículo [11](articulo-11.md); Fracción reformada DOF 01-02-2008
 
-III. La Sociedad no dé aviso a la Comisión, del establecimiento, cambio de ubicación o clausura de cualquiera de sus oficinas, en los términos establecidos en el artículo [14](articulo-14.md); IV. La Sociedad omita presentar a la Secretaría o a la Comisión, la información o documentación que soliciten o determinen, en términos del artículo [17](articulo-17.md), segundo párrafo o incumpla con las disposiciones que emanan de éste. Fracción reformada DOF 01-02-2008, 10-01-2014
+III. La Sociedad no dé aviso a la Comisión, del establecimiento, cambio de ubicación o clausura de cualquiera de sus oficinas, en los términos establecidos en el artículo [14](articulo-14.md);
+
+IV. La Sociedad omita presentar a la Secretaría o a la Comisión, la información o documentación que soliciten o determinen, en términos del artículo [17](articulo-17.md), segundo párrafo o incumpla con las disposiciones que emanan de éste. Fracción reformada DOF 01-02-2008, 10-01-2014
 
 V. La Sociedad, en términos del artículo [21](articulo-21.md), no cuente con las claves de prevención u observación; o con los manuales operativos; o bien, dichas claves o manuales o sus modificaciones no hayan sido aprobados por su consejo de administración o las referidas claves o sus modificaciones no hayan sido enviadas a la Comisión para su aprobación; Fracción reformada DOF 01-02-2008
 
@@ -45,7 +47,9 @@ XIII. La Sociedad se abstenga de poner a disposición del público en general el
 
 XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el artículo [43](articulo-43.md), primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista en el segundo párrafo del mismo artículo;
 
-XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su base de datos, relativas a la aceptación total o parcial de lo señalado en la reclamación presentada por el Cliente o no lo notifique a la Sociedad que haya mandado la reclamación y deje de remitirle a ésta la corrección efectuada a su base de datos, conforme lo establece el artículo [45](articulo-45.md), primer párrafo; XVI. La Sociedad no remita al Cliente la respuesta del Usuario con la evidencia que sustente dicha respuesta en el plazo establecido en el artículo [45](articulo-45.md), segundo párrafo; Fracción reformada DOF 01-02-2008
+XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su base de datos, relativas a la aceptación total o parcial de lo señalado en la reclamación presentada por el Cliente o no lo notifique a la Sociedad que haya mandado la reclamación y deje de remitirle a ésta la corrección efectuada a su base de datos, conforme lo establece el artículo [45](articulo-45.md), primer párrafo;
+
+XVI. La Sociedad no remita al Cliente la respuesta del Usuario con la evidencia que sustente dicha respuesta en el plazo establecido en el artículo [45](articulo-45.md), segundo párrafo; Fracción reformada DOF 01-02-2008
 
 XVII. Cuando la Entidad Financiera envíe información sin contar con el soporte documental a que se refiere el primer párrafo del artículo [20](articulo-20.md) de esta Ley; Fracción derogada DOF 01-02-2008. Adicionada DOF 20-01-2009
 

@@ -20,7 +20,7 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 El aviso a que se refiere el artículo [206 Bis](articulo-206-Bis.md) anterior, deberá ser suscrito por el director general de la casa de bolsa de que se trate y reunir los requisitos siguientes:
 
-I. Contener el informe a que se refiere la fracción I del artículo 220 de la Ley.
+I. Contener el informe a que se refiere la fracción I del artículo 220 de la [Ley](articulo-1.md).
 
 En caso de que los servicios a contratar se refieran a la utilización de infraestructura tecnológica o de telecomunicaciones, el aviso deberá contener adicionalmente un informe técnico que especifique el tipo de operaciones o servicios que habrán de celebrarse utilizando la base tecnológica que le sea proveída por terceros, así como la forma en que se dará cumplimiento a los lineamientos mínimos de operación y seguridad, que se señalan en el Anexo 12 de las presentes disposiciones.
 

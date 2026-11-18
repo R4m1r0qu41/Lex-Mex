@@ -9,26 +9,19 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 36"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [130]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
 
 # Artículo 2 Bis 36
 
-Las Instituciones que utilicen el método integral para reconocer la cobertura del (130)
+Las Instituciones que utilicen el método integral para reconocer la cobertura del riesgo de crédito derivada de las garantías reales financieras establecidas en el inciso a) de la fracción II del Anexo 24 de las presentes disposiciones, deberán calcular su posición ajustada con dichas garantías, a fin de reducir los activos ponderados por riesgo de crédito asociados a cada contraparte, de conformidad con lo previsto por el Artículo [2 Bis 37](articulo-2-Bis-37.md) de estas disposiciones.
 
-riesgo de crédito derivada de las garantías reales financieras establecidas en el inciso a) de la fracción II del Anexo 24 de las presentes disposiciones, deberán calcular su posición ajustada con dichas garantías, a fin de reducir los activos ponderados por riesgo de crédito asociados a cada contraparte, de conformidad con lo previsto por el Artículo [2 Bis 37](articulo-2-Bis-37.md) de estas disposiciones.
+Las Instituciones deberán ajustar tanto su posición expuesta frente a cada contraparte, como el valor de las garantías reales financieras recibidas, a fin de tener en cuenta posibles variaciones futuras del valor de ambos como consecuencia de fluctuaciones del mercado.
 
-Las Instituciones deberán ajustar tanto su posición expuesta frente a cada contraparte, como el valor (130)
+A menos de que en ambos lados de la operación se utilice dinero en efectivo denominado en la misma moneda, el valor de la posición ajustada por volatilidad será superior al importe de la misma, mientras que el valor ajustado de las garantías reales financieras por volatilidad será inferior.
 
-de las garantías reales financieras recibidas, a fin de tener en cuenta posibles variaciones futuras del valor de ambos como consecuencia de fluctuaciones del mercado.
-
-A menos de que en ambos lados de la operación se utilice dinero en efectivo denominado en la misma (130)
-
-moneda, el valor de la posición ajustada por volatilidad será superior al importe de la misma, mientras que el valor ajustado de las garantías reales financieras por volatilidad será inferior.
-
-Sin perjuicio de lo mencionado en el Artículo [2 Bis 37](articulo-2-Bis-37.md) siguiente, las Instituciones deberán utilizar un (130)
-
-descuento estándar para ajustar por volatilidad la parte expuesta de cada operación, así como para ajustar por volatilidad el valor de las garantías reales financieras, conforme a lo establecido en el Anexo 1- F de las presentes disposiciones.
+Sin perjuicio de lo mencionado en el Artículo [2 Bis 37](articulo-2-Bis-37.md) siguiente, las Instituciones deberán utilizar un descuento estándar para ajustar por volatilidad la parte expuesta de cada operación, así como para ajustar por volatilidad el valor de las garantías reales financieras, conforme a lo establecido en el Anexo 1- F de las presentes disposiciones.

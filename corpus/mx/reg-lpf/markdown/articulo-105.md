@@ -7,8 +7,8 @@ provision_type: article
 number: "105"
 aliases: ["REG-LPF — Artículo 105"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -33,7 +33,9 @@ VI. Instrumentar los procedimientos de investigación derivados de las denuncias
 
 VII. Requerir a las unidades administrativas de la Institución la información y documentación necesaria, así como su colaboración para el cumplimiento de sus funciones;
 
-VIII. Entrevistar a testigos respecto de hechos denunciados, asentando los testimonios correspondientes; IX. Notificar y citar a las personas víctimas de las conductas infractoras, a fin de que rindan sus declaraciones o, en su caso, ratifiquen las expresadas en las quejas y denuncias formuladas;
+VIII. Entrevistar a testigos respecto de hechos denunciados, asentando los testimonios correspondientes;
+
+IX. Notificar y citar a las personas víctimas de las conductas infractoras, a fin de que rindan sus declaraciones o, en su caso, ratifiquen las expresadas en las quejas y denuncias formuladas;
 
 X. Remitir el expediente de investigación a la Dirección General de Responsabilidades para el estudio correspondiente;
 

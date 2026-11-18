@@ -56,7 +56,7 @@ b) Las casas de bolsa, en términos del inciso anterior, podrán realizar el pag
 
 Lo señalado en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la casa de bolsa de que se trate, cuando el referido pago se aplique a la capitalización de la casa de bolsa.
 
-De conformidad con lo previsto en el artículo 135 de la Ley, las casas de bolsa deberán prever en sus estatutos sociales lo dispuesto en este numeral;
+De conformidad con lo previsto en el artículo 135 de la [Ley](articulo-1.md), las casas de bolsa deberán prever en sus estatutos sociales lo dispuesto en este numeral;
 
 2. Programas de recompra de acciones representativas del capital social de la casa de bolsa de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
 

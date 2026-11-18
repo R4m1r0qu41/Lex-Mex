@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["LGAMVLV — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -49,7 +49,9 @@ XIV. El Instituto Nacional de los Pueblos Indígenas;
 
 XV. La Agencia de Transformación Digital y Telecomunicaciones;
 
-XVI. Los Gobiernos de las entidades federativas, y XVII. El Instituto Nacional Electoral.
+XVI. Los Gobiernos de las entidades federativas, y
+
+XVII. El Instituto Nacional Electoral.
 
 En caso de ausencia de la persona titular del Ejecutivo Federal, la persona titular de la Secretaría de las Mujeres presidirá la sesión y designará a la persona servidora pública de nivel jerárquico inferior que fungirá como Secretaria Ejecutiva del Sistema Nacional.
 

@@ -21,7 +21,9 @@ El Director General será designado por la Junta de Gobierno, a propuesta del Se
 
 I.- Ejecutar las resoluciones de la Junta de Gobierno y los programas que hubiere aprobado la propia Junta.
 
-II.- Representar legalmente a la Casa de Moneda de México ante terceros y toda clase de autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las que requieran cláusula especial conforme a la Ley para pleitos y cobranzas y actos de administración, así como para actos de dominio en los términos y con las limitaciones que expresamente señale la Junta de Gobierno. III.- Otorgar y revocar poderes generales o especiales con base en las facultades a que se refiere la fracción anterior.
+II.- Representar legalmente a la Casa de Moneda de México ante terceros y toda clase de autoridades administrativas, judiciales y del trabajo, con todas las facultades generales y las que requieran cláusula especial conforme a la Ley para pleitos y cobranzas y actos de administración, así como para actos de dominio en los términos y con las limitaciones que expresamente señale la Junta de Gobierno.
+
+III.- Otorgar y revocar poderes generales o especiales con base en las facultades a que se refiere la fracción anterior.
 
 IV.- Formular, para aprobación de la Junta de Gobierno, los programas de acuñación de moneda y de operación anual.
 

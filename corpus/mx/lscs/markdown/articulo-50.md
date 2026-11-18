@@ -21,7 +21,9 @@ A pesar de la omisión o inexacta declaración de los hechos, la empresa asegura
 
 I.- Si la empresa provocó la omisión o inexacta declaración;
 
-II.- Si la empresa conocía o debía conocer el hecho que no ha sido declarado; III.- Si la empresa conocía o debía conocer exactamente el hecho que ha sido inexactamente declarado;
+II.- Si la empresa conocía o debía conocer el hecho que no ha sido declarado;
+
+III.- Si la empresa conocía o debía conocer exactamente el hecho que ha sido inexactamente declarado;
 
 IV.- Si la empresa renunció al derecho de rescisión del contrato por esa causa;
 

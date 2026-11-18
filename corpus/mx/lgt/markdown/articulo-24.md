@@ -21,6 +21,8 @@ El [Programa](articulo-3.md) de Ordenamiento Turístico General del Territorio, 
 
 I. Determinar la regionalización turística del territorio nacional, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos turísticos;
 
-II. Conocer y proponer la zonificación en los planes de desarrollo urbano, así como el uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos; III. Establecer los lineamientos y estrategias turísticas para la preservación y el aprovechamiento ordenado y sustentable de los recursos turísticos, y
+II. Conocer y proponer la zonificación en los planes de desarrollo urbano, así como el uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos;
+
+III. Establecer los lineamientos y estrategias turísticas para la preservación y el aprovechamiento ordenado y sustentable de los recursos turísticos, y
 
 IV. Establecer de manera coordinada los lineamientos o directrices que permitan el uso turístico adecuado y sustentable de los bienes ubicados en las zonas declaradas de monumentos arqueológicos, artísticos e históricos.

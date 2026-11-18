@@ -1,5 +1,93 @@
 # Architecture decisions
 
+## 2026-10-28 — Operator confirms force; LFPA articles 28 and 29; runtime priority
+
+Decision (JRH, explicit instruction in the Codex conversation): `lbogm`, `lfea`,
+`reg-lgeepa-maaa`, `lfdc` and `reg-lfpc-art122` are in force given the elapsed
+publication dates, irrespective of the unresolved exact business-day count.
+This is a reviewed legal premise about these five instruments, not a generic
+`2N + 30` deterministic rule. All five already have instrument `status: in_force`
+on main `f0f8a868f`; no instrument-status mutation is necessary.
+
+JRH directs article28 LFPA for business-day counting and article29 for month/year
+periods. Article29 supplies calendar-month/year rules and non-business-day
+adjustments; this decision does not assert any exact historical commencement date
+or establish complete historical vacation/suspension inputs. [Official LFPA text](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf).
+Preserve provision-specific amendment, partial repeal, repeal and audited human
+review state; instrument force is not blanket article-level effectiveness or a
+freshness check through today. No blanket change to the earlier241article proposal
+is made by this entry.
+
+The bounded commencement milestone is closed for delivery purposes. Exact-date
+work and wider temporal-rule hardening are deferred; proceed with the frozen
+four-instrument runtime test in `docs/runtime-proof-test-pack-2026-10-28.md`.
+This new decision changes a future database input digest; do not rebuild or
+relabel the accepted database merely to start runtime tests.
+
+## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, four of five editions, lrascap, temporal derivation
+
+Operator instruction of 2026-10-25: commit the R0 parser repairs, reparse the R1 instruments
+and `cucb`/`oaac`, re-ingest the five changed editions, and inspect `lscs` carefully. Local
+branch `repair/itf-dcg-heading-separator-2026-10-25`, normal history only (the retirement
+records pin commit SHAs, so never rebase or squash it). Nothing is merged or pushed.
+
+- **Parser.** The `itf-dcg` article heading accepts `Artículo 105 Bis. - `, `117 Bis 5- ` and
+  `319 Bis. – ` (period and spaces optional, hyphen or en dash); a reform-decree publication
+  note also accepts the plural `Publicadas/Publicados`. These recovered `117 Bis 5` (cucb) and
+  `12 Bis`, `105 Bis`, `106` (oaac). Commit `dabeb0029`. Across the 102 recovered instruments
+  the refactored binary and the baseline binary are byte-identical; the candidate differs only
+  on `lscs`.
+- **R1.** The baseline parser already split all 14 accepted merged headings; the committed
+  records predated it. `laero`, `lfd`, `lfdo`, `lfpa` were reparsed from the exact recovered
+  official sources (`47eabbb21`) and the 14 rows moved to retirements (`730a8b16c`). Active plus
+  retired is still the accepted 17; `db inspect-inputs` reports 0 active rows. Frozen counts
+  100/784/56/118 became 109/787/57/119.
+- **cucb and oaac** reparse (`050660b5a`) also brings in the margin-number removal and the
+  legend fix that were held for them. Amended articles now leave `effective_from` unset under
+  the deterministic rule (35 and 22 provisions). Their two entries are removed from the closure
+  accepted-gaps record; `cub-dcg-2005` follows below, so the two remaining rejections (`lftr`,
+  `socap-sofipo-dcg-2006`) equal the record exactly.
+- **lscs** (`600ea9a60`): 16 reform transitories of six decrees (3, 1, 5, 2, 2, 3), hand-checked
+  against the appendix. This is extracted evidence, not a finding that each transitory governs
+  LSCS (the 2006 and 2013 decrees amend or issue other laws); that is temporal review. Article
+  207 changes from `repealed` (deterministic, 1.0) to `unknown`: it repeals other law, not itself.
+- **Editions.** Re-ingested by the pipeline, hashes equal to the acquisition: `reg-laero`
+  (`c0b938181`), `reg-lfda` (`b9f49d9d6`; +8 articles, frozen count 188 to 196), `ligie`
+  (`ef28b9619`; the publisher header still reads Última Reforma DOF 29-12-2025 while the text
+  marks decrees to 13-10-2026, so `latest_reform_date` trails).
+- **Validator rule for a repeated legend entry** (`7df6203fe`). The current CUB edition prints legend
+  markers 325 and 326 twice with identical text. A repeat with identical text (whitespace
+  normalized) is read once and disclosed as the warning `duplicate_amendment_marker_identical`; a repeat
+  that differs stays the error `duplicate_amendment_marker`, and a mark with no legend entry stays
+  `unknown_amendment_mark`. This is a change at a trusted boundary and a separate commit: revert it to
+  restore the strict rule. `cub-dcg-2005` is re-ingested under it (`5399d1762`): 7 recovered articles,
+  454 margin-number removals, 19 substantive updates from the resolutions of 2026-07-14 and
+  2026-09-01, one provision `effective` to `repealed`; its closure accepted-gap record is removed.
+  **Held, not ingested:** `socap-sofipo-dcg-2006`, whose legend omits entry 91 although the text uses
+  mark (91); a missing entry cannot be invented and `unknown_amendment_mark` stays an error. The attempt
+  is preserved under `.work/parser-repair-20261025/`.
+- **lrascap** (`d6a28e6a7`, `e71a2f025`). Operator decision: layer-qualified identifiers. Inside an omnibus
+  enactment the two headed transitory sections (`TRANSITORIOS DEL ARTÍCULO PRIMERO`, `TRANSITORIOS DEL
+  DECRETO`) repeat the same ordinals, so each section's provisions carry their layer in the id
+  (`transitory:articulo-primero-primero`, `transitory:decreto-primero`) and in the label. Unheaded omnibus
+  laws are unchanged. A header-like line no longer interrupts an unfinished sentence (a page break had left
+  "Artículo transitorio." alone and ended the section). `lrascap` now has 21 transitories (15 + 6) and
+  article 132 drops from 39,289 to 423 characters.
+- **Goldens edited by operator approval** (`18f8e50ca`). `G6 active LFD structural debt` becomes a
+  standalone-article check for `lfd` 257-sextus plus "no LFD debt is active"; `G5 complete cited-but-missing
+  inventory` becomes `[[2, 4]]` (only `lftr` and `socap` remain). The other 19 are unchanged; all 21 pass.
+- **Start-date clearances (disclosed after independent review).** Reparsed amended articles leave `effective_from` unset: `cub-dcg-2005` 281,
+  `cucb-dcg-2004` 35, `oaac-dcg-2009` 22, `reg-laero` 3 (341 in all). A conservative rule output, not a legal ruling.
+- **Deterministic temporal derivation, operator-approved** (`6454d66de`, `5ada66f48`, `e28d08875`,
+  `bcd17a4e4`). The existing commencement rule was applied to the 166 instruments that already resolve:
+  143 day after publication, 17 relative days, 3 same day, 3 literal date. 12,211 of 13,337 provisions move
+  from `unknown` to `effective` with basis `deterministic_rule` and review status `machine_accepted`; no id,
+  text or other file changes. This is a rule output, not legal review. The 74 instruments the rule skips and
+  the 6 without ordinary transitories are untouched.
+- **Database.** Two fresh projections from `bcd17a4e4` are byte-identical and pass `db verify` and all 21
+  goldens (release `caead5ed…`, 68,395 provisions, 36,077 edges, 5,985 terms, 102,282 usages, 0 active
+  debt rows).
+
 ## 2026-10-21 — Resolved structural debt retains accepted history; seed version 3
 
 Three operator-accepted LGS headings are standalone provisions at
@@ -4120,6 +4208,45 @@ and the 2026-08-24 entry keep it on `lraf-1990`. See
 `docs/plans/corpus-wide-reverse-linking.md` and the
 `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 
+
+## 2026-11-12 — Source-match wording and simple in-force status
+
+Decision (operator in session, stating "I'm JRH"; recorded by Claude, not independently
+verified as a signed review record):
+
+1. **Source-match wording stays simple.** The qualified "verified" text proposed as D-3 in
+   `docs/plans/four-goal-system-upgrade.md` is rejected as too complex for readers. The
+   reviewer's standard: when the provision has the same words in the same order as the official
+   file, "that is as good as it gets". Any public label must say that plainly. The detailed
+   report (hashes, skipped spans) stays available as evidence behind the label.
+2. **Simple in-force status.** An instrument in the corpus is in force, with the Estatuto de
+   Gobierno del Distrito Federal as the stated exception (already excluded from the corpus).
+   Exact commencement dates per provision are a later review: most provisions start the day
+   after publication, many have more complex formulas.
+3. **Authorized:** the Obsidian vault export and a corpus-wide reparse; sources may have changed
+   through reforms and at least one new law exists (Ley de Economía Digital, as named by the
+   operator). A scheduled source check is wanted; the operator will run it from another harness.
+
+Open points Claude raised and did not resolve: the corpus records two instruments as `repealed`
+(`lftr`, `reg-lfmn`), which point 2 does not mention; and provisions whose own text is a repeal
+marker ("(Se deroga)") inside an in-force instrument. No temporal or review state was changed
+on the strength of this entry; a rule implementing point 2 needs the usual schema, validator
+and fixture change and the reviewer's confirmation of those two cases.
+
+## 2026-11-16 — Corpus-wide in-force rule and SCJN invalidity
+
+Decision (JRH, answer sheet and session, 2026-11-16; recorded by Claude): text shown in an
+in-force instrument is in force unless it is derogated (`repealed`), invalidated or suppressed by
+the SCJN in whole (`repealed`) or in part (`partially_repealed`), or not yet in force
+(`future_effective` / `conditional_pending`). Applied corpus-wide. Every SCJN invalidity ruling
+is treated alike. The end date is the ruling's notification date (23-06-2023 for AI 71/2023),
+recorded now. A single `repealed` status covers derogation and invalidation, with the cause in
+the note. Details, note wording and the reading guide to the colour code are in
+`docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No state changed by this
+entry.
+Follow-up (JRH, same day): each ruling's effective date is read from the ruling, through
+<https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm>, not from the note. A plain
+invalidation revives no earlier text unless that is stated explicitly.
 
 ## 2026-11-17 — Public query response v2 (`skip_cursor`)
 

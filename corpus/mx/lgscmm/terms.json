@@ -216,7 +216,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
     "fraction": "XX",
     "start_char": 6243,
-    "end_char": 6539,
+    "end_char": 6444,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "term": "Unidad del Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XXI",
+    "start_char": 6444,
+    "end_char": 6540,
     "basis": "express_definition"
   }
 ]

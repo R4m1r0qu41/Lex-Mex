@@ -23,7 +23,9 @@ I. Aplicar los recursos federales otorgados como donativo de la Federación en e
 
 II. Abrir y mantener una cuenta o subcuenta bancaria específica, según corresponda, en la que se identifiquen y manejen los recursos provenientes del donativo hasta en tanto se apliquen;
 
-III. Informar al menos trimestralmente el saldo de la cuenta bancaria específica, incluyendo los rendimientos obtenidos y los egresos efectuados, y el avance de los objetivos comprometidos para el cual se otorgó el donativo; IV. Proporcionar la información que para efectos de control, vigilancia y fiscalización de los recursos federales otorgados requieran la Secretaría y la Función Pública, así como cualquier otra autoridad competente en materia de fiscalización del ejercicio de recursos presupuestarios federales, y
+III. Informar al menos trimestralmente el saldo de la cuenta bancaria específica, incluyendo los rendimientos obtenidos y los egresos efectuados, y el avance de los objetivos comprometidos para el cual se otorgó el donativo;
+
+IV. Proporcionar la información que para efectos de control, vigilancia y fiscalización de los recursos federales otorgados requieran la Secretaría y la Función Pública, así como cualquier otra autoridad competente en materia de fiscalización del ejercicio de recursos presupuestarios federales, y
 
 V. Restituir los recursos recibidos como donativo y sus rendimientos obtenidos, en el supuesto de que la dependencia o entidad donante lo requiera por haberse determinado que no se cuenta con la documentación que acredite su aplicación en los objetivos específicos.
 

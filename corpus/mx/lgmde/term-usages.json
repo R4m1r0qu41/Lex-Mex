@@ -55,30 +55,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:378-390",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:379-391",
     "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
     "span": "Constitución",
-    "start_char": 378,
-    "end_char": 390
+    "start_char": 379,
+    "end_char": 391
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:936-948",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:937-949",
     "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
     "span": "Constitución",
-    "start_char": 936,
-    "end_char": 948
+    "start_char": 937,
+    "end_char": 949
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:4336-4339",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:4337-4340",
     "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
     "span": "Ley",
-    "start_char": 4336,
-    "end_char": 4339
+    "start_char": 4337,
+    "end_char": 4340
   },
   {
     "schema_version": "0.1.0",

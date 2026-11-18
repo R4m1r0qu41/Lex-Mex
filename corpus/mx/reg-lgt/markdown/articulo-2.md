@@ -31,7 +31,9 @@ V. Destino Turístico: El lugar geográficamente ubicado que ofrece diversos [At
 
 VI. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para proporcionar a la población servicios urbanos y desarrollar las actividades económicas;
 
-VII. Guías de Turistas: Las personas físicas que proporcionan al Turista nacional o extranjero orientación e información profesional sobre el patrimonio cultural, natural y, en general, la relativa a los Atractivos, Destinos, Regiones y Servicios Turísticos; VIII. Infraestructura Urbana: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población;
+VII. Guías de Turistas: Las personas físicas que proporcionan al Turista nacional o extranjero orientación e información profesional sobre el patrimonio cultural, natural y, en general, la relativa a los Atractivos, Destinos, Regiones y Servicios Turísticos;
+
+VIII. Infraestructura Urbana: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población;
 
 IX. Productos Turísticos: La oferta de Atractivos y Servicios Turísticos que permiten comercializar la visita por jornadas determinadas, a uno o a varios Destinos o [Circuitos Turísticos](articulo-2.md), comprendidos en una Ruta Turística;
 

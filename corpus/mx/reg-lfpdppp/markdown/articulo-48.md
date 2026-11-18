@@ -7,8 +7,8 @@ provision_type: article
 number: "48"
 aliases: ["REG-LFPDPPP — Artículo 48"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf
 source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 ---
@@ -31,7 +31,9 @@ IV. Destinar recursos para la instrumentación de los programas y políticas de 
 
 V. Instrumentar un procedimiento para que se atienda el riesgo para la protección de datos personales por la implementación de nuevos productos, servicios, tecnologías y modelos de negocios, así como para mitigarlos;
 
-VI. Revisar periódicamente las políticas y programas de seguridad para determinar las modificaciones que se requieran; VII. Establecer procedimientos para recibir y responder dudas y quejas de los titulares de los datos personales;
+VI. Revisar periódicamente las políticas y programas de seguridad para determinar las modificaciones que se requieran;
+
+VII. Establecer procedimientos para recibir y responder dudas y quejas de los titulares de los datos personales;
 
 VIII. Disponer de mecanismos para el cumplimiento de las políticas y programas de privacidad, así como de sanciones por su incumplimiento;
 

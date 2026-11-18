@@ -33,7 +33,9 @@ VI. Que los dormitorios cuenten con luz natural y eléctrica y tengan una capaci
 
 VII. Que las instalaciones sanitarias estén limpias y situadas de modo que las personas internadas puedan satisfacer sus necesidades fisiológicas con higiene y privacidad;
 
-VIII. Que los comedores cuenten con mobiliario adecuado y suficiente para que la ingesta de alimentos se dé en condiciones de higiene y dignidad; IX. Que cuenten con espacios adecuados para que toda persona internada pueda guardar sus pertenencias;
+VIII. Que los comedores cuenten con mobiliario adecuado y suficiente para que la ingesta de alimentos se dé en condiciones de higiene y dignidad;
+
+IX. Que cuenten con espacios adecuados para que toda persona internada pueda guardar sus pertenencias;
 
 X. Que cuenten con espacios, equipos y medicamentos adecuados para la atención médica permanente, teniendo en consideración las necesidades específicas conforme a la edad y el género de las personas internadas. En caso de requerir atención especializada, se deberá llevar al adolescente al lugar correspondiente, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LGPSACDII — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -35,7 +35,9 @@ VII. Promover y celebrar convenios de concertación con los sectores privado y s
 
 VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
-IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil; X. Decretar las medidas precautorias necesarias a los [Centros de Atención](articulo-8.md) autorizados por el municipio y la demarcación territorial de la Ciudad de México correspondiente en cualquier modalidad o tipo; Fracción reformada DOF 23-06-2017
+IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
+
+X. Decretar las medidas precautorias necesarias a los [Centros de Atención](articulo-8.md) autorizados por el municipio y la demarcación territorial de la Ciudad de México correspondiente en cualquier modalidad o tipo; Fracción reformada DOF 23-06-2017
 
 XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus [Modalidades](articulo-8.md) y Tipos;
 

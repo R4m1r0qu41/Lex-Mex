@@ -23,7 +23,9 @@ I. Recibir y resolver las quejas que presenten los servidores públicos referido
 
 II. Asimismo, recibir las quejas de las autoridades de cualquier orden de gobierno que participen en la averiguación previa, en contra de servidores públicos que cometan infracciones calificadas como graves;
 
-III. Tramitar, instruir y resolver, de conformidad con el Capítulo IX de la Ley Orgánica y demás disposiciones legales aplicables, los procedimientos de remoción y de cancelación del certificado de los servidores públicos de la Institución; IV. Para efecto de lo anterior, podrá emitir todo tipo de acuerdos y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar, así como dictar las medidas de apremio que correspondan;
+III. Tramitar, instruir y resolver, de conformidad con el Capítulo IX de la Ley Orgánica y demás disposiciones legales aplicables, los procedimientos de remoción y de cancelación del certificado de los servidores públicos de la Institución;
+
+IV. Para efecto de lo anterior, podrá emitir todo tipo de acuerdos y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar, así como dictar las medidas de apremio que correspondan;
 
 V. Determinar, en cualquier momento, previo o posterior a la celebración de la audiencia, sobre el inicio, continuación o conclusión de la suspensión temporal del presunto responsable de su empleo cargo o comisión, si así conviene a la conducción o continuación del procedimiento, de acuerdo con lo establecido en la Ley Orgánica;
 

@@ -25,7 +25,9 @@ II. Farmacodependencia: Es el conjunto de fenómenos de comportamiento, cognosci
 
 III. Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
 
-IV. Consumidor: Toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia; V. Narcóticos: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen esta Ley, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia;
+IV. Consumidor: Toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+V. Narcóticos: los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen esta Ley, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia;
 
 VI. Posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona;
 

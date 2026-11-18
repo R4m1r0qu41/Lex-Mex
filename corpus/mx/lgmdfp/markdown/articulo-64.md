@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["LGMDFP — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -23,6 +23,8 @@ I. Solicitar información relacionada a los procedimientos de búsqueda y locali
 
 II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Nacional de Búsqueda;
 
-III. Dar seguimiento a la implementación del Programa Nacional de Búsqueda de [Personas Desaparecidas](articulo-4.md); IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su [Reglamento](articulo-4.md), a la participación directa de los [Familiares](articulo-4.md) en el ejercicio de sus atribuciones, y
+III. Dar seguimiento a la implementación del Programa Nacional de Búsqueda de [Personas Desaparecidas](articulo-4.md);
+
+IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su [Reglamento](articulo-4.md), a la participación directa de los [Familiares](articulo-4.md) en el ejercicio de sus atribuciones, y
 
 V. Las demás que determine el Consejo Nacional Ciudadano, en el marco de sus atribuciones.

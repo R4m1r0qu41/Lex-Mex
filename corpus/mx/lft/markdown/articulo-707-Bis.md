@@ -29,7 +29,9 @@ IV. Si fuere pariente por consanguinidad o afinidad, del abogado o procurador de
 
 V. Cuando él, su cónyuge o alguno de sus hijos sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las partes, o administrador actual de sus bienes;
 
-VI. Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguna de las partes; VII. Si asiste o ha asistido a convites que especialmente para él diere o costeare alguna de las partes, después de comenzado el procedimiento, o si se tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, o en una misma casa;
+VI. Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguna de las partes;
+
+VII. Si asiste o ha asistido a convites que especialmente para él diere o costeare alguna de las partes, después de comenzado el procedimiento, o si se tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, o en una misma casa;
 
 VIII. Cuando después de comenzado el procedimiento, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
 

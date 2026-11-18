@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo II
@@ -19,7 +19,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 La información y documentación contenida en el expediente deberá mantenerse actualizada conforme a estas disposiciones y a las políticas de la Institución, para lo cual las Instituciones deberán contar con mecanismos de control y verificación que permitan detectar, en su caso, faltantes y los procedimientos para su regularización y acopio. Al efecto, las Instituciones designarán al personal responsable de integrar y actualizar los expedientes, así como de controlar el servicio de su consulta y resguardo.
 
-Las Instituciones, cuando el deudor, acreditado o contraparte pertenezca a un grupo de personas que representen Riesgo Común para la Institución, conforme a lo previsto en el Artículo 51 fracción II de la Ley y a lo dispuesto en las presentes disposiciones, deberán identificar dicha condición en el expediente que se le asigne a cada uno de ellos, identificando además el grupo de Riesgo Común al que pertenezca el deudor, acreditado o contraparte de que se trate o bien, establecer mecanismos o controles de accesibilidad y, en su caso, de recuperación para aquélla información que permita identificar en todo momento los distintos grupos de Riesgo Común a partir de la consulta de un expediente individual.
+Las Instituciones, cuando el deudor, acreditado o contraparte pertenezca a un grupo de personas que representen [Riesgo Común](articulo-1.md) para la Institución, conforme a lo previsto en el Artículo 51 fracción II de la [Ley](articulo-1.md) y a lo dispuesto en las presentes disposiciones, deberán identificar dicha condición en el expediente que se le asigne a cada uno de ellos, identificando además el grupo de Riesgo Común al que pertenezca el deudor, acreditado o contraparte de que se trate o bien, establecer mecanismos o controles de accesibilidad y, en su caso, de recuperación para aquélla información que permita identificar en todo momento los distintos grupos de Riesgo Común a partir de la consulta de un expediente individual.
 
 Asimismo, dichas Instituciones, al celebrar operaciones crediticias con las personas a que se refiere el Artículo 73 de la Ley, deberán señalar en los expedientes de crédito respectivos que se trata de una operación celebrada con personas relacionadas en los términos del citado artículo.
 

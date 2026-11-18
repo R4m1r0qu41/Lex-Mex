@@ -7,8 +7,8 @@ provision_type: article
 number: "290"
 aliases: ["REG-LFSA — Artículo 290"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf
 source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 ---
@@ -23,7 +23,9 @@ I. Original y copia del documento de acreditación, otorgado por una entidad de 
 
 II. Domicilio, croquis de ubicación y horario de atención a usuarios de las oficinas centrales y de los centros de certificación zoosanitaria;
 
-III. Procedimiento de expedición del certificado a productos, procesos, establecimientos y servicios según corresponda; IV. Relación de los nombres completos y horarios laborales de los terceros especialistas adscritos al organismo de certificación;
+III. Procedimiento de expedición del certificado a productos, procesos, establecimientos y servicios según corresponda;
+
+IV. Relación de los nombres completos y horarios laborales de los terceros especialistas adscritos al organismo de certificación;
 
 V. La relación y expedientes de los centros de certificación zoosanitaria, que apoyarán al organismo de certificación;
 

@@ -19,7 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, o el remanente distribuible de las personas que tributan conforme al Título III de la Ley del Impuesto sobre la Renta, sus ingresos y el valor de los actos, actividades o activos, por los que deban pagar contribuciones, cuando:
 
-I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar la declaración del ejercicio de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate. Los dispuesto en esta fracción no es aplicable a aportaciones de seguridad social. II. No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales.
+I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar la declaración del ejercicio de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate. Los dispuesto en esta fracción no es aplicable a aportaciones de seguridad social.
+
+II. No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales.
 
 III. Se dé alguna de las siguientes irregularidades:
 

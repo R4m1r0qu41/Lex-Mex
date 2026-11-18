@@ -1,11 +1,11 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:10-bis:reference:1431-1433:34:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:10-bis:reference:1432-1434:34:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:10-bis",
     "source_span": "34",
-    "start_char": 1431,
-    "end_char": 1433,
+    "start_char": 1432,
+    "end_char": 1434,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
     "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
     "qualifiers": [],
@@ -33,11 +33,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4096-4098:27:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4097-4099:27:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "source_span": "27",
-    "start_char": 4096,
-    "end_char": 4098,
+    "start_char": 4097,
+    "end_char": 4099,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:27",
     "qualifiers": [],
@@ -49,11 +49,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4101-4103:28:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4102-4104:28:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "source_span": "28",
-    "start_char": 4101,
-    "end_char": 4103,
+    "start_char": 4102,
+    "end_char": 4104,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:28",
     "qualifiers": [],
@@ -65,11 +65,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4316-4318:23:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:2:reference:4317-4319:23:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "source_span": "23",
-    "start_char": 4316,
-    "end_char": 4318,
+    "start_char": 4317,
+    "end_char": 4319,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:23",
     "qualifiers": [],
@@ -129,19 +129,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:1097-1099:22:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:1098-1100:22:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27",
     "source_span": "22",
-    "start_char": 1097,
-    "end_char": 1099,
+    "start_char": 1098,
+    "end_char": 1100,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",
-        "start_char": 1068,
-        "end_char": 1083
+        "start_char": 1069,
+        "end_char": 1084
       }
     ],
     "basis": "express_cross_reference",
@@ -152,11 +152,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:1392-1394:19:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:1393-1395:19:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27",
     "source_span": "19",
-    "start_char": 1392,
-    "end_char": 1394,
+    "start_char": 1393,
+    "end_char": 1395,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:19",
     "qualifiers": [],
@@ -168,11 +168,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:2502-2504:57:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27:reference:2503-2505:57:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27",
     "source_span": "57",
-    "start_char": 2502,
-    "end_char": 2504,
+    "start_char": 2503,
+    "end_char": 2505,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:57",
     "qualifiers": [],
@@ -184,19 +184,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:926-928:22:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:927-929:22:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27-bis",
     "source_span": "22",
-    "start_char": 926,
-    "end_char": 928,
+    "start_char": 927,
+    "end_char": 929,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",
-        "start_char": 897,
-        "end_char": 912
+        "start_char": 898,
+        "end_char": 913
       }
     ],
     "basis": "express_cross_reference",
@@ -207,11 +207,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:1182-1184:19:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:1183-1185:19:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27-bis",
     "source_span": "19",
-    "start_char": 1182,
-    "end_char": 1184,
+    "start_char": 1183,
+    "end_char": 1185,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:19",
     "qualifiers": [],
@@ -223,11 +223,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:2247-2249:57:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:reference:2248-2250:57:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:27-bis",
     "source_span": "57",
-    "start_char": 2247,
-    "end_char": 2249,
+    "start_char": 2248,
+    "end_char": 2250,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:57",
     "qualifiers": [],
@@ -383,11 +383,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:reference:2104-2110:73-bis:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:reference:2105-2111:73-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:6-bis",
     "source_span": "73 BIS",
-    "start_char": 2104,
-    "end_char": 2110,
+    "start_char": 2105,
+    "end_char": 2111,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:73-bis",
     "qualifiers": [],
@@ -399,11 +399,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:reference:2349-2355:73-bis:direct",
+    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:reference:2350-2356:73-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laero:article:6-bis",
     "source_span": "73 BIS",
-    "start_char": 2349,
-    "end_char": 2355,
+    "start_char": 2350,
+    "end_char": 2356,
     "target_instrument_id": "urn:lex-mx:federal:statute:laero",
     "target_provision_id": "urn:lex-mx:federal:statute:laero:article:73-bis",
     "qualifiers": [],
@@ -585,28 +585,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:transitory:septimo:reference:487-489:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:laero:transitory:septimo",
-    "source_span": "89",
-    "start_char": 487,
-    "end_char": 489,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 463,
-        "end_char": 473
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

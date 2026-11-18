@@ -27,4 +27,6 @@ Se exceptúan de lo dispuesto en este precepto:
 
 I. El embargo de dinero o de créditos fácilmente realizables que se efectúa en virtud de sentencia, porque entonces se hace entrega inmediata a la persona actora en pago; en cualquier otro caso, el depósito se hará en billete o certificado respectivo que se conservará en el seguro del juzgado;
 
-II. El embargo de bienes que han sido objeto de embargo judicial anterior, en cuyo caso este depositario lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de juicio hipotecario, derecho de prenda u otro privilegio real; porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer embargo, y III. El embargo de alhajas, obras de arte y demás bienes muebles o inmuebles preciosos que se hará depositándolos en el Monte de Piedad o Institución designada para ello, a costa de la persona deudora.
+II. El embargo de bienes que han sido objeto de embargo judicial anterior, en cuyo caso este depositario lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de juicio hipotecario, derecho de prenda u otro privilegio real; porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer embargo, y
+
+III. El embargo de alhajas, obras de arte y demás bienes muebles o inmuebles preciosos que se hará depositándolos en el Monte de Piedad o Institución designada para ello, a costa de la persona deudora.

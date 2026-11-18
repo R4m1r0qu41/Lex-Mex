@@ -37,7 +37,9 @@ VII. Entregar los recursos de los inversionistas a los solicitantes que hubieren
 
 VIII. Establecer esquemas para compartir con los inversionistas los riesgos de las Operaciones de financiamiento colectivo de deuda, los cuales deberán incluir el pacto del cobro de una proporción de las comisiones, sujeto a la condición de que se lleve a cabo la liquidación total del financiamiento o el desempeño del proyecto en los términos ofrecidos, o bien cualquier otro esquema que permita la alineación de incentivos entre la [ITF](articulo-4.md) y los inversionistas. Dichos esquemas deberán ser presentados con la solicitud de autorización para actuar como ITF.
 
-Las comisiones que se cobren respecto de financiamientos morosos en ningún caso podrán ser superiores a las que cobren por financiamientos vigentes; IX. Contar con los mecanismos necesarios para segregar cada tipo de Operación y los inversionistas puedan distinguir de manera inequívoca el tipo de Operaciones de que se trata, cuando se celebren dos o más tipos de Operaciones de financiamiento colectivo, o se efectúe la venta o adquisición de los títulos intercambiados o derechos adquiridos a través de ellas, y
+Las comisiones que se cobren respecto de financiamientos morosos en ningún caso podrán ser superiores a las que cobren por financiamientos vigentes;
+
+IX. Contar con los mecanismos necesarios para segregar cada tipo de Operación y los inversionistas puedan distinguir de manera inequívoca el tipo de Operaciones de que se trata, cuando se celebren dos o más tipos de Operaciones de financiamiento colectivo, o se efectúe la venta o adquisición de los títulos intercambiados o derechos adquiridos a través de ellas, y
 
 X. Las demás establecidas para las instituciones de financiamiento colectivo previstas en esta Ley y las disposiciones que de ella emanen.
 

@@ -33,7 +33,9 @@ VI. Permiso, concesión o autorización expedido por autoridad competente, para 
 
 VII. En las rutas que tengan como destino parques, áreas o zonas marinas protegidas o de reserva ecológica, el solicitante deberá exhibir el permiso para realizar en ellas su actividad, expedido por la autoridad competente en materia ambiental.
 
-Si la Embarcación es extranjera, además de presentar la documentación señalada en las fracciones anteriores, deberá exhibir: I. Permiso de importación de la Embarcación;
+Si la Embarcación es extranjera, además de presentar la documentación señalada en las fracciones anteriores, deberá exhibir:
+
+I. Permiso de importación de la Embarcación;
 
 II. Instrumento con el que acredite su propiedad o legítima posesión, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LCEC — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 23
 
-El Consejo Directivo de una Cámara o [Confederación](articulo-2.md) se integrará en la forma que establezcan sus Estatutos a fin de representar al sector que les corresponda y proporcionar servicios a sus afiliados, cumpliendo con los siguientes requisitos:
+El Consejo Directivo de una [Cámara](articulo-2.md) o [Confederación](articulo-2.md) se integrará en la forma que establezcan sus Estatutos a fin de representar al sector que les corresponda y proporcionar servicios a sus afiliados, cumpliendo con los siguientes requisitos:
 
 I. Salvo lo dispuesto en el siguiente artículo, los consejeros durarán en su cargo dos años y no podrán ser reelectos para el periodo inmediato siguiente, consecuentemente deberán dejar transcurrir, un periodo al menos de dos años, antes de ocupar nuevamente el mismo cargo;
 

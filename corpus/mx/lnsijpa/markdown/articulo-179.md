@@ -21,7 +21,9 @@ Facultades del Juez de Ejecución El Juez de Ejecución tendrá las siguientes f
 
 I. Garantizar a las personas adolescentes a quienes se les haya dictado una medida de sanción o de internamiento preventivo, en el ejercicio de sus atribuciones, el goce de los derechos y garantías fundamentales que le reconoce la [Constitución](articulo-3.md), los Tratados Internacionales, demás disposiciones legales y esta [Ley](articulo-3.md);
 
-II. Garantizar que la medida cautelar de internamiento preventivo o la de sanción se ejecute en sus términos, salvaguardando la invariabilidad de la cosa juzgada con los ajustes que la presente legislación permita; III. Decretar las medidas de seguridad que procedan en sustitución de la medida de sanción de internamiento, en los casos en que la persona adolescente privada de la libertad llegue a padecer enfermedad mental de tipo crónico, continuo e irreversible y determinar la custodia de la misma a cargo de una institución del sector salud, representante legal o tutor, para que se le brinde atención, trato y tratamiento de tipo asilar;
+II. Garantizar que la medida cautelar de internamiento preventivo o la de sanción se ejecute en sus términos, salvaguardando la invariabilidad de la cosa juzgada con los ajustes que la presente legislación permita;
+
+III. Decretar las medidas de seguridad que procedan en sustitución de la medida de sanción de internamiento, en los casos en que la persona adolescente privada de la libertad llegue a padecer enfermedad mental de tipo crónico, continuo e irreversible y determinar la custodia de la misma a cargo de una institución del sector salud, representante legal o tutor, para que se le brinde atención, trato y tratamiento de tipo asilar;
 
 IV. Sustanciar y resolver los incidentes que se promuevan para lograr el cumplimiento del pago de la reparación del daño, así como los demás que se promuevan con motivo de la ejecución de las medidas de sanción;
 

@@ -33,7 +33,9 @@ VI. Autorizar las solicitudes para la escisión de Instituciones, conforme a lo 
 
 VII. Imponer sanciones administrativas por infracciones a ésta y a las demás leyes y reglamentos que regulan las actividades, instituciones, entidades y personas sujetas a la inspección y vigilancia de la [Comisión](articulo-2.md), así como a las disposiciones de carácter general que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión, considerando la naturaleza de la infracción o el monto de las multas;
 
-VIII. Resolver sobre los recursos de revocación que se interpongan en contra de las sanciones administrativas aplicadas por la Junta de Gobierno o por el Presidente de la Comisión, así como sobre las solicitudes de condonación total o parcial de las multas impuestas; IX. Amonestar, suspender, remover e inhabilitar, según corresponda, a los miembros del consejo de administración, comité de auditoría, directores generales, comisarios, directores, gerentes, delegados fiduciarios y funcionarios que puedan obligar con su firma a las Instituciones y Sociedades Mutualistas, así como a los auditores externos que dictaminen los estados financieros y a los actuarios independientes que dictaminen sobre la situación y suficiencia de las reservas técnicas de las Instituciones y Sociedades Mutualistas, en términos de lo previsto en esta Ley, así como resolver sobre los recursos que se presenten en contra de tales determinaciones;
+VIII. Resolver sobre los recursos de revocación que se interpongan en contra de las sanciones administrativas aplicadas por la Junta de Gobierno o por el Presidente de la Comisión, así como sobre las solicitudes de condonación total o parcial de las multas impuestas;
+
+IX. Amonestar, suspender, remover e inhabilitar, según corresponda, a los miembros del consejo de administración, comité de auditoría, directores generales, comisarios, directores, gerentes, delegados fiduciarios y funcionarios que puedan obligar con su firma a las Instituciones y Sociedades Mutualistas, así como a los auditores externos que dictaminen los estados financieros y a los actuarios independientes que dictaminen sobre la situación y suficiencia de las reservas técnicas de las Instituciones y Sociedades Mutualistas, en términos de lo previsto en esta Ley, así como resolver sobre los recursos que se presenten en contra de tales determinaciones;
 
 X. Remover, suspender, destituir e inhabilitar a los servidores públicos que puedan obligar con su firma a una institución nacional de seguros o a una institución nacional de fianzas, y remover a los miembros de su comité de auditoría, conforme a lo previsto en esta Ley;
 
@@ -59,7 +61,9 @@ XX. Aprobar las disposiciones relacionadas con la organización de la Comisión 
 
 XXI. Aprobar el nombramiento y remoción de los vicepresidentes de la Comisión, a propuesta del Presidente;
 
-XXII. Nombrar y remover, a propuesta del Presidente de la Comisión, a su secretario y prosecretario de actas; XXIII. Aprobar las condiciones generales de trabajo que, a propuesta del Presidente, deban observarse entre la Comisión y su personal;
+XXII. Nombrar y remover, a propuesta del Presidente de la Comisión, a su secretario y prosecretario de actas;
+
+XXIII. Aprobar las condiciones generales de trabajo que, a propuesta del Presidente, deban observarse entre la Comisión y su personal;
 
 XXIII Bis. Aprobar anualmente los programas para el otorgamiento de estímulos económicos a los funcionarios de la Comisión, por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano.
 

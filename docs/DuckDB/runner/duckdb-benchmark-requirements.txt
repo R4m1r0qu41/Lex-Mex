@@ -1,0 +1,2 @@
+# Opt-in experiment environment only; no Cargo or production dependency changes.
+duckdb==1.4.3

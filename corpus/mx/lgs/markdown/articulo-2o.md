@@ -25,7 +25,9 @@ II. La prolongación y mejoramiento de la calidad de la vida humana;
 
 III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
-IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud; V. El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población.
+IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+
+V. El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población.
 
 Tratándose de personas que carezcan de seguridad social, la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados; Fracción reformada DOF 29-11-2019
 

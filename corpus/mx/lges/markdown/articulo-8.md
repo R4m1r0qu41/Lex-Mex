@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LGES — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf
 source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 ---
@@ -27,7 +27,9 @@ III. El respeto irrestricto a la dignidad de las personas;
 
 IV. La igualdad sustantiva para contribuir a la construcción de una sociedad libre, justa e incluyente;
 
-V. La inclusión para que todos los grupos sociales de la población, de manera particular los vulnerables, participen activamente en el desarrollo del país; VI. La igualdad de oportunidades que garantice a las personas acceder a la educación superior sin discriminación;
+V. La inclusión para que todos los grupos sociales de la población, de manera particular los vulnerables, participen activamente en el desarrollo del país;
+
+VI. La igualdad de oportunidades que garantice a las personas acceder a la educación superior sin discriminación;
 
 VII. El reconocimiento de la diversidad;
 
@@ -51,7 +53,9 @@ XVI. El respeto a la libertad académica, de cátedra e investigación, entendid
 
 XVII. El respeto a la libertad de examen y libre discusión de ideas, entendidas como el derecho que corresponde a estudiantes y personal académico para aprender, enseñar, investigar y divulgar el pensamiento, el arte, las ciencias, las tecnologías, las humanidades y el conocimiento, sin sufrir presiones o represalias de ningún tipo;
 
-XVIII. La responsabilidad ética en la generación, transferencia y difusión del conocimiento, las prácticas académicas, la investigación y la cultura; así como una orientación que propicie el desarrollo del país, el bienestar de las mexicanas y los mexicanos, y la conformación de una sociedad justa e incluyente; XIX. La participación de la comunidad universitaria, conforme a las disposiciones aplicables, en el diseño, implementación y evaluación de planes y políticas de educación superior;
+XVIII. La responsabilidad ética en la generación, transferencia y difusión del conocimiento, las prácticas académicas, la investigación y la cultura; así como una orientación que propicie el desarrollo del país, el bienestar de las mexicanas y los mexicanos, y la conformación de una sociedad justa e incluyente;
+
+XIX. La participación de la comunidad universitaria, conforme a las disposiciones aplicables, en el diseño, implementación y evaluación de planes y políticas de educación superior;
 
 XX. La preeminencia de criterios académicos, perspectiva de género, experiencia, reconocimiento en gestión educativa y conocimiento en el subsistema respectivo, cuando así corresponda, para el nombramiento de autoridades de las instituciones públicas de educación superior, conforme a la normatividad de cada institución;
 

@@ -39,7 +39,9 @@ IX. A que se le reciban los medios pertinentes de prueba que ofrezca, concedién
 
 X. A ser juzgado en audiencia por un [Tribunal de enjuiciamiento](articulo-3o.md), antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
-XI. A tener una defensa adecuada por parte de un licenciado en derecho o abogado titulado, con cédula profesional, al cual elegirá libremente incluso desde el momento de su detención y, a falta de éste, por el Defensor público que le corresponda, así como a reunirse o entrevistarse con él en estricta confidencialidad; XII. A ser asistido gratuitamente por un traductor o intérprete en el caso de que no comprenda o hable el idioma español; cuando el imputado perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate;
+XI. A tener una defensa adecuada por parte de un licenciado en derecho o abogado titulado, con cédula profesional, al cual elegirá libremente incluso desde el momento de su detención y, a falta de éste, por el Defensor público que le corresponda, así como a reunirse o entrevistarse con él en estricta confidencialidad;
+
+XII. A ser asistido gratuitamente por un traductor o intérprete en el caso de que no comprenda o hable el idioma español; cuando el imputado perteneciere a un pueblo o comunidad indígena, el Defensor deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete de la cultura y lengua de que se trate;
 
 XIII. A ser presentado ante el Ministerio Público o ante el Juez de control, según el caso, inmediatamente después de ser detenido o aprehendido;
 

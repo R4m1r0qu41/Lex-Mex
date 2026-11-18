@@ -27,7 +27,9 @@ III. Establecer mecanismos de colaboración y coordinación con las [Delegacione
 
 IV. Brindar asesoría y apoyo a las Delegaciones, unidades o fiscalías especializadas o de investigación creadas mediante Convenio o Acuerdo y autoridades de las entidades federativas, en la investigación y persecución de los delitos materia de su competencia;
 
-V. Conocer de los asuntos que tengan a su cargo las Delegaciones, relacionados con los delitos materia de su competencia, de conformidad con las normas aplicables y políticas institucionales o cuando así lo determinen el Procurador o el Subprocurador respectivo; VI. Ejercer la facultad de atracción para la investigación y persecución de delitos del fuero común que tengan conexidad con delitos federales materia de su competencia;
+V. Conocer de los asuntos que tengan a su cargo las Delegaciones, relacionados con los delitos materia de su competencia, de conformidad con las normas aplicables y políticas institucionales o cuando así lo determinen el Procurador o el Subprocurador respectivo;
+
+VI. Ejercer la facultad de atracción para la investigación y persecución de delitos del fuero común que tengan conexidad con delitos federales materia de su competencia;
 
 VII. Autorizar los acuerdos de reserva, incompetencia, acumulación y separación de las averiguaciones previas a su cargo;
 

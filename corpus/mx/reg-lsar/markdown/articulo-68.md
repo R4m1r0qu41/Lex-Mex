@@ -61,7 +61,9 @@ d) Informar a las Administradoras, sobre las tasas de rendimiento que deberán a
 
 e) Informar a quien la Comisión les indique, las tasas de rendimiento de la [Cuenta Concentradora](articulo-2o.md) que, a su vez, les haya informado la [Secretaría](articulo-2o.md), y
 
-f) Prestar servicios relacionados con las Cuentas Individuales de los Trabajadores a los demás Participantes en los Sistemas de Ahorro para el Retiro. XII. Establecer el procedimiento que permita que la información derivada del Sistema de Ahorro para el Retiro de los Trabajadores, fluya de manera ordenada entre los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT, ISSSTE, FOVISSSTE y la Comisión.
+f) Prestar servicios relacionados con las Cuentas Individuales de los Trabajadores a los demás Participantes en los Sistemas de Ahorro para el Retiro.
+
+XII. Establecer el procedimiento que permita que la información derivada del Sistema de Ahorro para el Retiro de los Trabajadores, fluya de manera ordenada entre los Participantes en los Sistemas de Ahorro para el Retiro, IMSS, INFONAVIT, ISSSTE, FOVISSSTE y la Comisión.
 
 Lo anterior a efecto de permitir la transferencia de derechos entre los Institutos de Seguridad Social y evitar la duplicidad de cuentas cuando se lleve a cabo dicha portabilidad de derechos;
 
@@ -89,7 +91,9 @@ XVIII. Prestar servicios a dependencias o entidades públicas estatales o munici
 
 XIX. Someter la previsión de ingresos y egresos a la consideración de la Comisión en forma previa a la aprobación de su plan de trabajo anual y quinquenal;
 
-XX. Disponer de un sistema de costeo de las operaciones que lleven a cabo, que les permita proponer las comisiones que cobren por los servicios que presten a los Participantes en los Sistemas de Ahorro para el Retiro; XXI. Proponer y aplicar aquellos mecanismos que garanticen el cumplimiento de su objeto y la transferencia de derechos de conformidad con la Ley y el título de concesión que otorgue la Secretaría;
+XX. Disponer de un sistema de costeo de las operaciones que lleven a cabo, que les permita proponer las comisiones que cobren por los servicios que presten a los Participantes en los Sistemas de Ahorro para el Retiro;
+
+XXI. Proponer y aplicar aquellos mecanismos que garanticen el cumplimiento de su objeto y la transferencia de derechos de conformidad con la Ley y el título de concesión que otorgue la Secretaría;
 
 XXII. Proporcionar la información estadística que requiera la Comisión para la elaboración de informes o documentos que pretenda dar a conocer al público en general, y
 

@@ -109,21 +109,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:7:term-usage:6459-6466",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:7:term-usage:6485-6492",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 6459,
-    "end_char": 6466
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:7:term-usage:6484-6491",
-    "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 6484,
-    "end_char": 6491
+    "start_char": 6485,
+    "end_char": 6492
   },
   {
     "schema_version": "0.1.0",
@@ -271,345 +262,345 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:853-856",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:854-857",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 853,
-    "end_char": 856
+    "start_char": 854,
+    "end_char": 857
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:964-967",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:965-968",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 964,
-    "end_char": 967
+    "start_char": 965,
+    "end_char": 968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1448-1455",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1449-1456",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1448,
-    "end_char": 1455
+    "start_char": 1449,
+    "end_char": 1456
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1616-1623",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1617-1624",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1616,
-    "end_char": 1623
+    "start_char": 1617,
+    "end_char": 1624
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1961-1968",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:1962-1969",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1961,
-    "end_char": 1968
+    "start_char": 1962,
+    "end_char": 1969
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2249-2256",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2250-2257",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 2249,
-    "end_char": 2256
+    "start_char": 2250,
+    "end_char": 2257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2461-2468",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2462-2469",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 2461,
-    "end_char": 2468
+    "start_char": 2462,
+    "end_char": 2469
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2525-2535",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:2526-2536",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2525,
-    "end_char": 2535
+    "start_char": 2526,
+    "end_char": 2536
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3148-3151",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3149-3152",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 3148,
-    "end_char": 3151
+    "start_char": 3149,
+    "end_char": 3152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3321-3324",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3322-3325",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 3321,
-    "end_char": 3324
+    "start_char": 3322,
+    "end_char": 3325
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3902-3910",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:3904-3912",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:comision",
     "span": "Comisión",
-    "start_char": 3902,
-    "end_char": 3910
+    "start_char": 3904,
+    "end_char": 3912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4018-4021",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4020-4023",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 4018,
-    "end_char": 4021
+    "start_char": 4020,
+    "end_char": 4023
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4414-4417",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4416-4419",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 4414,
-    "end_char": 4417
+    "start_char": 4416,
+    "end_char": 4419
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4494-4504",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4496-4506",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4494,
-    "end_char": 4504
+    "start_char": 4496,
+    "end_char": 4506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4872-4880",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4874-4882",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:comision",
     "span": "Comisión",
-    "start_char": 4872,
-    "end_char": 4880
+    "start_char": 4874,
+    "end_char": 4882
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4916-4919",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:4918-4921",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 4916,
-    "end_char": 4919
+    "start_char": 4918,
+    "end_char": 4921
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5075-5078",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5077-5080",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 5075,
-    "end_char": 5078
+    "start_char": 5077,
+    "end_char": 5080
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5654-5664",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5656-5666",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:incentivos",
     "span": "Incentivos",
-    "start_char": 5654,
-    "end_char": 5664
+    "start_char": 5656,
+    "end_char": 5666
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5794-5802",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:5796-5804",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:escuela",
     "span": "Escuelas",
-    "start_char": 5794,
-    "end_char": 5802
+    "start_char": 5796,
+    "end_char": 5804
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:6287-6290",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:6289-6292",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 6287,
-    "end_char": 6290
+    "start_char": 6289,
+    "end_char": 6292
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:6364-6374",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:14:term-usage:6366-6376",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6364,
-    "end_char": 6374
+    "start_char": 6366,
+    "end_char": 6376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:157-164",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:158-165",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 157,
-    "end_char": 164
+    "start_char": 158,
+    "end_char": 165
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:416-426",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:417-427",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 416,
-    "end_char": 426
+    "start_char": 417,
+    "end_char": 427
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:545-555",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:546-556",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 545,
-    "end_char": 555
+    "start_char": 546,
+    "end_char": 556
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1199-1206",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1200-1207",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1199,
-    "end_char": 1206
+    "start_char": 1200,
+    "end_char": 1207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1321-1331",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1322-1332",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1321,
-    "end_char": 1331
+    "start_char": 1322,
+    "end_char": 1332
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1352-1362",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1353-1363",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1352,
-    "end_char": 1362
+    "start_char": 1353,
+    "end_char": 1363
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1476-1483",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1477-1484",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1476,
-    "end_char": 1483
+    "start_char": 1477,
+    "end_char": 1484
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1509-1519",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1510-1520",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1509,
-    "end_char": 1519
+    "start_char": 1510,
+    "end_char": 1520
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1690-1693",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1691-1694",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 1690,
-    "end_char": 1693
+    "start_char": 1691,
+    "end_char": 1694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1790-1797",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1791-1798",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 1790,
-    "end_char": 1797
+    "start_char": 1791,
+    "end_char": 1798
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1853-1863",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:1854-1864",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1853,
-    "end_char": 1863
+    "start_char": 1854,
+    "end_char": 1864
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:2569-2572",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:2570-2573",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 2569,
-    "end_char": 2572
+    "start_char": 2570,
+    "end_char": 2573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:2593-2603",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:2594-2604",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2593,
-    "end_char": 2603
+    "start_char": 2594,
+    "end_char": 2604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3030-3040",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3031-3041",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3030,
-    "end_char": 3040
+    "start_char": 3031,
+    "end_char": 3041
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3115-3123",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3116-3124",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:escuela",
     "span": "Escuelas",
-    "start_char": 3115,
-    "end_char": 3123
+    "start_char": 3116,
+    "end_char": 3124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3177-3187",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3178-3188",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3177,
-    "end_char": 3187
+    "start_char": 3178,
+    "end_char": 3188
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3252-3255",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:15:term-usage:3254-3257",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 3252,
-    "end_char": 3255
+    "start_char": 3254,
+    "end_char": 3257
   },
   {
     "schema_version": "0.1.0",
@@ -739,57 +730,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:638-641",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:639-642",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 638,
-    "end_char": 641
+    "start_char": 639,
+    "end_char": 642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1077-1085",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1078-1086",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:comision",
     "span": "Comisión",
-    "start_char": 1077,
-    "end_char": 1085
+    "start_char": 1078,
+    "end_char": 1086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1113-1123",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1114-1124",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1113,
-    "end_char": 1123
+    "start_char": 1114,
+    "end_char": 1124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1388-1398",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1389-1399",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1388,
-    "end_char": 1398
+    "start_char": 1389,
+    "end_char": 1399
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1507-1510",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:1508-1511",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 1507,
-    "end_char": 1510
+    "start_char": 1508,
+    "end_char": 1511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:2067-2070",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:17:term-usage:2068-2071",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 2067,
-    "end_char": 2070
+    "start_char": 2068,
+    "end_char": 2071
   },
   {
     "schema_version": "0.1.0",
@@ -973,11 +964,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:26:term-usage:14-21",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:26:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 14,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 3,
     "end_char": 21
   },
   {
@@ -1000,11 +991,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:27:term-usage:14-21",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:27:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 14,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 3,
     "end_char": 21
   },
   {
@@ -1018,20 +1009,20 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:28:term-usage:109-116",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:28:term-usage:98-116",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 109,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 98,
     "end_char": 116
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:29:term-usage:53-60",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:29:term-usage:42-60",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 53,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 42,
     "end_char": 60
   },
   {
@@ -1072,11 +1063,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:29:term-usage:750-757",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:29:term-usage:739-757",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 750,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 739,
     "end_char": 757
   },
   {
@@ -1108,20 +1099,20 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:36-43",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:25-43",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 36,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 25,
     "end_char": 43
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:146-153",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:135-153",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 146,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 135,
     "end_char": 153
   },
   {
@@ -1144,11 +1135,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:868-875",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:30:term-usage:857-875",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 868,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 857,
     "end_char": 875
   },
   {
@@ -1378,30 +1369,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:5575-5582",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:5576-5583",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
     "span": "Sistema",
-    "start_char": 5575,
-    "end_char": 5582
+    "start_char": 5576,
+    "end_char": 5583
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:5701-5704",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:5702-5705",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 5701,
-    "end_char": 5704
+    "start_char": 5702,
+    "end_char": 5705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:6292-6295",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:39:term-usage:6293-6296",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
     "span": "Ley",
-    "start_char": 6292,
-    "end_char": 6295
+    "start_char": 6293,
+    "end_char": 6296
   },
   {
     "schema_version": "0.1.0",
@@ -1414,11 +1405,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:article:41:term-usage:14-21",
+    "id": "urn:lex-mx:federal:statute:lgscmm:article:41:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:41",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 14,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 3,
     "end_char": 21
   },
   {
@@ -2503,11 +2494,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto:term-usage:158-165",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto:term-usage:147-165",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 158,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 147,
     "end_char": 165
   },
   {
@@ -2530,11 +2521,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto:term-usage:437-444",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto:term-usage:426-444",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 437,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 426,
     "end_char": 444
   },
   {
@@ -2584,11 +2575,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:noveno:term-usage:14-21",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:noveno:term-usage:3-21",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:noveno",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 14,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 3,
     "end_char": 21
   },
   {
@@ -2764,11 +2755,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-quinto:term-usage:396-403",
+    "id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-quinto:term-usage:385-403",
     "provision_id": "urn:lex-mx:federal:statute:lgscmm:transitory:decimo-quinto",
-    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
-    "span": "Sistema",
-    "start_char": 396,
+    "term_id": "urn:lex-mx:federal:statute:lgscmm:term:unidad-del-sistema",
+    "span": "Unidad del Sistema",
+    "start_char": 385,
     "end_char": 403
   },
   {

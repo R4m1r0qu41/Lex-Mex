@@ -1297,39 +1297,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4143-4152",
+    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4144-4153",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:18",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operación",
-    "start_char": 4143,
-    "end_char": 4152
+    "start_char": 4144,
+    "end_char": 4153
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4224-4235",
+    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4225-4236",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:18",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 4224,
-    "end_char": 4235
+    "start_char": 4225,
+    "end_char": 4236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4291-4302",
+    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4292-4303",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:18",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 4291,
-    "end_char": 4302
+    "start_char": 4292,
+    "end_char": 4303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4691-4699",
+    "id": "urn:lex-mx:federal:statute:lritf:article:18:term-usage:4692-4700",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:18",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 4691,
-    "end_char": 4699
+    "start_char": 4692,
+    "end_char": 4700
   },
   {
     "schema_version": "0.1.0",
@@ -1522,66 +1522,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1357-1365",
+    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1358-1366",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1357,
-    "end_char": 1365
+    "start_char": 1358,
+    "end_char": 1366
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1473-1494",
+    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1474-1495",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 1473,
-    "end_char": 1494
+    "start_char": 1474,
+    "end_char": 1495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1547-1558",
+    "id": "urn:lex-mx:federal:statute:lritf:article:22:term-usage:1548-1559",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 1547,
-    "end_char": 1558
+    "start_char": 1548,
+    "end_char": 1559
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1026-1035",
+    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1027-1036",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:24",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 1026,
-    "end_char": 1035
+    "start_char": 1027,
+    "end_char": 1036
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1038-1055",
+    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1039-1056",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:24",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 1038,
-    "end_char": 1055
+    "start_char": 1039,
+    "end_char": 1056
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1307-1328",
+    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1308-1329",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:24",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 1307,
-    "end_char": 1328
+    "start_char": 1308,
+    "end_char": 1329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1502-1523",
+    "id": "urn:lex-mx:federal:statute:lritf:article:24:term-usage:1503-1524",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:24",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 1502,
-    "end_char": 1523
+    "start_char": 1503,
+    "end_char": 1524
   },
   {
     "schema_version": "0.1.0",
@@ -1612,12 +1612,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:25:term-usage:2263-2271",
+    "id": "urn:lex-mx:federal:statute:lritf:article:25:term-usage:2264-2272",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:25",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 2263,
-    "end_char": 2271
+    "start_char": 2264,
+    "end_char": 2272
   },
   {
     "schema_version": "0.1.0",
@@ -4069,264 +4069,264 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:4380-4383",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:4381-4384",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 4380,
-    "end_char": 4383
+    "start_char": 4381,
+    "end_char": 4384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:4633-4636",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:4634-4637",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 4633,
-    "end_char": 4636
+    "start_char": 4634,
+    "end_char": 4637
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5204-5214",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5205-5215",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5204,
-    "end_char": 5214
+    "start_char": 5205,
+    "end_char": 5215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5276-5280",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5277-5281",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 5276,
-    "end_char": 5280
+    "start_char": 5277,
+    "end_char": 5281
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5337-5348",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5338-5349",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 5337,
-    "end_char": 5348
+    "start_char": 5338,
+    "end_char": 5349
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5397-5400",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5398-5401",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 5397,
-    "end_char": 5400
+    "start_char": 5398,
+    "end_char": 5401
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5482-5492",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5483-5493",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5482,
-    "end_char": 5492
+    "start_char": 5483,
+    "end_char": 5493
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5645-5648",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5646-5649",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 5645,
-    "end_char": 5648
+    "start_char": 5646,
+    "end_char": 5649
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5711-5722",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5712-5723",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 5711,
-    "end_char": 5722
+    "start_char": 5712,
+    "end_char": 5723
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5743-5751",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5744-5752",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 5743,
-    "end_char": 5751
+    "start_char": 5744,
+    "end_char": 5752
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5759-5769",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5760-5770",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5759,
-    "end_char": 5769
+    "start_char": 5760,
+    "end_char": 5770
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5958-5969",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:5959-5970",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 5958,
-    "end_char": 5969
+    "start_char": 5959,
+    "end_char": 5970
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6179-6189",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6180-6190",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6179,
-    "end_char": 6189
+    "start_char": 6180,
+    "end_char": 6190
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6236-6243",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6237-6244",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Cliente",
-    "start_char": 6236,
-    "end_char": 6243
+    "start_char": 6237,
+    "end_char": 6244
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6261-6271",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6262-6272",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6261,
-    "end_char": 6271
+    "start_char": 6262,
+    "end_char": 6272
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6577-6580",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6578-6581",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 6577,
-    "end_char": 6580
+    "start_char": 6578,
+    "end_char": 6581
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6734-6737",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6735-6738",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 6734,
-    "end_char": 6737
+    "start_char": 6735,
+    "end_char": 6738
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6888-6891",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:6889-6892",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 6888,
-    "end_char": 6891
+    "start_char": 6889,
+    "end_char": 6892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7676-7684",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7677-7685",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 7676,
-    "end_char": 7684
+    "start_char": 7677,
+    "end_char": 7685
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7790-7800",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7791-7801",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7790,
-    "end_char": 7800
+    "start_char": 7791,
+    "end_char": 7801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7859-7862",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:7860-7863",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 7859,
-    "end_char": 7862
+    "start_char": 7860,
+    "end_char": 7863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8074-8084",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8075-8085",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 8074,
-    "end_char": 8084
+    "start_char": 8075,
+    "end_char": 8085
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8105-8109",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8106-8110",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 8105,
-    "end_char": 8109
+    "start_char": 8106,
+    "end_char": 8110
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8388-8391",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8389-8392",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 8388,
-    "end_char": 8391
+    "start_char": 8389,
+    "end_char": 8392
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8408-8416",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8409-8417",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 8408,
-    "end_char": 8416
+    "start_char": 8409,
+    "end_char": 8417
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8423-8434",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8424-8435",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 8423,
-    "end_char": 8434
+    "start_char": 8424,
+    "end_char": 8435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8590-8600",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8591-8601",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 8590,
-    "end_char": 8600
+    "start_char": 8591,
+    "end_char": 8601
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8609-8613",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8610-8614",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 8609,
-    "end_char": 8613
+    "start_char": 8610,
+    "end_char": 8614
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8619-8622",
+    "id": "urn:lex-mx:federal:statute:lritf:article:58:term-usage:8620-8623",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:58",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 8619,
-    "end_char": 8622
+    "start_char": 8620,
+    "end_char": 8623
   },
   {
     "schema_version": "0.1.0",
@@ -4402,30 +4402,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:966-969",
+    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:967-970",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 966,
-    "end_char": 969
+    "start_char": 967,
+    "end_char": 970
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:1133-1136",
+    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:1134-1137",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1133,
-    "end_char": 1136
+    "start_char": 1134,
+    "end_char": 1137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:1350-1353",
+    "id": "urn:lex-mx:federal:statute:lritf:article:60:term-usage:1351-1354",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1350,
-    "end_char": 1353
+    "start_char": 1351,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
@@ -4897,147 +4897,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:748-751",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:749-752",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 748,
-    "end_char": 751
+    "start_char": 749,
+    "end_char": 752
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:832-835",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:833-836",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 832,
-    "end_char": 835
+    "start_char": 833,
+    "end_char": 836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:974-977",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:975-978",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 974,
-    "end_char": 977
+    "start_char": 975,
+    "end_char": 978
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1047-1051",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1048-1052",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 1047,
-    "end_char": 1051
+    "start_char": 1048,
+    "end_char": 1052
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1635-1638",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1636-1639",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1635,
-    "end_char": 1638
+    "start_char": 1636,
+    "end_char": 1639
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1736-1747",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1737-1748",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 1736,
-    "end_char": 1747
+    "start_char": 1737,
+    "end_char": 1748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1781-1789",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1782-1790",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1781,
-    "end_char": 1789
+    "start_char": 1782,
+    "end_char": 1790
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1804-1815",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:1805-1816",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 1804,
-    "end_char": 1815
+    "start_char": 1805,
+    "end_char": 1816
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2026-2029",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2027-2030",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2026,
-    "end_char": 2029
+    "start_char": 2027,
+    "end_char": 2030
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2082-2085",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2083-2086",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2082,
-    "end_char": 2085
+    "start_char": 2083,
+    "end_char": 2086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2886-2889",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:2887-2890",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2886,
-    "end_char": 2889
+    "start_char": 2887,
+    "end_char": 2890
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3322-3347",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3323-3348",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:comite-interinstitucional",
     "span": "Comité Interinstitucional",
-    "start_char": 3322,
-    "end_char": 3347
+    "start_char": 3323,
+    "end_char": 3348
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3699-3702",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3701-3704",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 3699,
-    "end_char": 3702
+    "start_char": 3701,
+    "end_char": 3704
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3792-3796",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3794-3798",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 3792,
-    "end_char": 3796
+    "start_char": 3794,
+    "end_char": 3798
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3865-3868",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3867-3870",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 3865,
-    "end_char": 3868
+    "start_char": 3867,
+    "end_char": 3870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3890-3901",
+    "id": "urn:lex-mx:federal:statute:lritf:article:69:term-usage:3892-3903",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:69",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 3890,
-    "end_char": 3901
+    "start_char": 3892,
+    "end_char": 3903
   },
   {
     "schema_version": "0.1.0",
@@ -5176,102 +5176,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:1869-1872",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:1870-1873",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1869,
-    "end_char": 1872
+    "start_char": 1870,
+    "end_char": 1873
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:1988-1992",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:1989-1993",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 1988,
-    "end_char": 1992
+    "start_char": 1989,
+    "end_char": 1993
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:2196-2199",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:2197-2200",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2196,
-    "end_char": 2199
+    "start_char": 2197,
+    "end_char": 2200
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:2370-2374",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:2371-2375",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 2370,
-    "end_char": 2374
+    "start_char": 2371,
+    "end_char": 2375
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3080-3107",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3081-3108",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 3080,
-    "end_char": 3107
+    "start_char": 3081,
+    "end_char": 3108
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3376-3380",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3377-3381",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 3376,
-    "end_char": 3380
+    "start_char": 3377,
+    "end_char": 3381
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3625-3629",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3626-3630",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 3625,
-    "end_char": 3629
+    "start_char": 3626,
+    "end_char": 3630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3788-3792",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3789-3793",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 3788,
-    "end_char": 3792
+    "start_char": 3789,
+    "end_char": 3793
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3892-3895",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3893-3896",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 3892,
-    "end_char": 3895
+    "start_char": 3893,
+    "end_char": 3896
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3898-3919",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:3899-3920",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 3898,
-    "end_char": 3919
+    "start_char": 3899,
+    "end_char": 3920
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:4114-4118",
+    "id": "urn:lex-mx:federal:statute:lritf:article:71:term-usage:4115-4119",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:71",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 4114,
-    "end_char": 4118
+    "start_char": 4115,
+    "end_char": 4119
   },
   {
     "schema_version": "0.1.0",
@@ -6265,138 +6265,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:413-428",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:414-429",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelo Novedoso",
-    "start_char": 413,
-    "end_char": 428
+    "start_char": 414,
+    "end_char": 429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:603-618",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:604-619",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelo Novedoso",
-    "start_char": 603,
-    "end_char": 618
+    "start_char": 604,
+    "end_char": 619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:732-759",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:733-760",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 732,
-    "end_char": 759
+    "start_char": 733,
+    "end_char": 760
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:950-965",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:951-966",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelo Novedoso",
-    "start_char": 950,
-    "end_char": 965
+    "start_char": 951,
+    "end_char": 966
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1007-1015",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1008-1016",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1007,
-    "end_char": 1015
+    "start_char": 1008,
+    "end_char": 1016
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1143-1151",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1144-1152",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1143,
-    "end_char": 1151
+    "start_char": 1144,
+    "end_char": 1152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1337-1344",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1338-1345",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Cliente",
-    "start_char": 1337,
-    "end_char": 1344
+    "start_char": 1338,
+    "end_char": 1345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1539-1547",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1540-1548",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1539,
-    "end_char": 1547
+    "start_char": 1540,
+    "end_char": 1548
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1776-1784",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1777-1785",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1776,
-    "end_char": 1784
+    "start_char": 1777,
+    "end_char": 1785
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1866-1883",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:1867-1884",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelos Novedosos",
-    "start_char": 1866,
-    "end_char": 1883
+    "start_char": 1867,
+    "end_char": 1884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2216-2239",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2217-2240",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridades Financieras",
-    "start_char": 2216,
-    "end_char": 2239
+    "start_char": 2217,
+    "end_char": 2240
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2445-2468",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2446-2469",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridades Financieras",
-    "start_char": 2445,
-    "end_char": 2468
+    "start_char": 2446,
+    "end_char": 2469
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2684-2704",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2685-2705",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridad Financiera",
-    "start_char": 2684,
-    "end_char": 2704
+    "start_char": 2685,
+    "end_char": 2705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2951-2966",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:2952-2967",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelo Novedoso",
-    "start_char": 2951,
-    "end_char": 2966
+    "start_char": 2952,
+    "end_char": 2967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:3040-3060",
+    "id": "urn:lex-mx:federal:statute:lritf:article:83:term-usage:3041-3061",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:83",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridad Financiera",
-    "start_char": 3040,
-    "end_char": 3060
+    "start_char": 3041,
+    "end_char": 3061
   },
   {
     "schema_version": "0.1.0",
@@ -6580,57 +6580,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1406-1424",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1407-1425",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidad Financiera",
-    "start_char": 1406,
-    "end_char": 1424
+    "start_char": 1407,
+    "end_char": 1425
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1569-1577",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1570-1578",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1569,
-    "end_char": 1577
+    "start_char": 1570,
+    "end_char": 1578
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1762-1770",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1763-1771",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 1762,
-    "end_char": 1770
+    "start_char": 1763,
+    "end_char": 1771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1948-1971",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:1949-1972",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridades Financieras",
-    "start_char": 1948,
-    "end_char": 1971
+    "start_char": 1949,
+    "end_char": 1972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:2144-2162",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:2145-2163",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidad Financiera",
-    "start_char": 2144,
-    "end_char": 2162
+    "start_char": 2145,
+    "end_char": 2163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:2200-2220",
+    "id": "urn:lex-mx:federal:statute:lritf:article:87:term-usage:2201-2221",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridad Financiera",
-    "start_char": 2200,
-    "end_char": 2220
+    "start_char": 2201,
+    "end_char": 2221
   },
   {
     "schema_version": "0.1.0",
@@ -7057,39 +7057,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:2709-2720",
+    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:2710-2721",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:operaciones",
     "span": "Operaciones",
-    "start_char": 2709,
-    "end_char": 2720
+    "start_char": 2710,
+    "end_char": 2721
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:2811-2834",
+    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:2812-2835",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:comisiones-supervisoras",
     "span": "Comisiones Supervisoras",
-    "start_char": 2811,
-    "end_char": 2834
+    "start_char": 2812,
+    "end_char": 2835
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:3000-3023",
+    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:3001-3024",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:comisiones-supervisoras",
     "span": "Comisiones Supervisoras",
-    "start_char": 3000,
-    "end_char": 3023
+    "start_char": 3001,
+    "end_char": 3024
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:3658-3681",
+    "id": "urn:lex-mx:federal:statute:lritf:article:98:term-usage:3659-3682",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:comisiones-supervisoras",
     "span": "Comisiones Supervisoras",
-    "start_char": 3658,
-    "end_char": 3681
+    "start_char": 3659,
+    "end_char": 3682
   },
   {
     "schema_version": "0.1.0",
@@ -7498,183 +7498,183 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4654-4657",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4655-4658",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 4654,
-    "end_char": 4657
+    "start_char": 4655,
+    "end_char": 4658
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4664-4685",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4665-4686",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 4664,
-    "end_char": 4685
+    "start_char": 4665,
+    "end_char": 4686
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4687-4690",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4688-4691",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 4687,
-    "end_char": 4690
+    "start_char": 4688,
+    "end_char": 4691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4732-4749",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4733-4750",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelos Novedosos",
-    "start_char": 4732,
-    "end_char": 4749
+    "start_char": 4733,
+    "end_char": 4750
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4830-4833",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4831-4834",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 4830,
-    "end_char": 4833
+    "start_char": 4831,
+    "end_char": 4834
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4836-4857",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4837-4858",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 4836,
-    "end_char": 4857
+    "start_char": 4837,
+    "end_char": 4858
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4919-4927",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:4920-4928",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
     "span": "Clientes",
-    "start_char": 4919,
-    "end_char": 4927
+    "start_char": 4920,
+    "end_char": 4928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5043-5061",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5044-5062",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidad Financiera",
-    "start_char": 5043,
-    "end_char": 5061
+    "start_char": 5044,
+    "end_char": 5062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5069-5072",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5070-5073",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 5069,
-    "end_char": 5072
+    "start_char": 5070,
+    "end_char": 5073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5104-5107",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5105-5108",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 5104,
-    "end_char": 5107
+    "start_char": 5105,
+    "end_char": 5108
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5153-5170",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5154-5171",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
     "span": "Modelos Novedosos",
-    "start_char": 5153,
-    "end_char": 5170
+    "start_char": 5154,
+    "end_char": 5171
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5177-5198",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5178-5199",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 5177,
-    "end_char": 5198
+    "start_char": 5178,
+    "end_char": 5199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5322-5325",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5323-5326",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 5322,
-    "end_char": 5325
+    "start_char": 5323,
+    "end_char": 5326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5332-5335",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5333-5336",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 5332,
-    "end_char": 5335
+    "start_char": 5333,
+    "end_char": 5336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5366-5387",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5367-5388",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:entidades-financieras",
     "span": "Entidades Financieras",
-    "start_char": 5366,
-    "end_char": 5387
+    "start_char": 5367,
+    "end_char": 5388
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5545-5568",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5546-5569",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:comisiones-supervisoras",
     "span": "Comisiones Supervisoras",
-    "start_char": 5545,
-    "end_char": 5568
+    "start_char": 5546,
+    "end_char": 5569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5615-5619",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5616-5620",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnsf",
     "span": "CNSF",
-    "start_char": 5615,
-    "end_char": 5619
+    "start_char": 5616,
+    "end_char": 5620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5625-5631",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5626-5632",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:consar",
     "span": "CONSAR",
-    "start_char": 5625,
-    "end_char": 5631
+    "start_char": 5626,
+    "end_char": 5632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5710-5713",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5711-5714",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 5710,
-    "end_char": 5713
+    "start_char": 5711,
+    "end_char": 5714
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5837-5841",
+    "id": "urn:lex-mx:federal:statute:lritf:article:103:term-usage:5838-5842",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:103",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cnbv",
     "span": "CNBV",
-    "start_char": 5837,
-    "end_char": 5841
+    "start_char": 5838,
+    "end_char": 5842
   },
   {
     "schema_version": "0.1.0",
@@ -7966,12 +7966,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:105:term-usage:3142-3145",
+    "id": "urn:lex-mx:federal:statute:lritf:article:105:term-usage:3143-3146",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:105",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 3142,
-    "end_char": 3145
+    "start_char": 3143,
+    "end_char": 3146
   },
   {
     "schema_version": "0.1.0",
@@ -8155,21 +8155,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:111:term-usage:1465-1485",
+    "id": "urn:lex-mx:federal:statute:lritf:article:111:term-usage:1466-1486",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:111",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridad Financiera",
-    "start_char": 1465,
-    "end_char": 1485
+    "start_char": 1466,
+    "end_char": 1486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:111:term-usage:1794-1814",
+    "id": "urn:lex-mx:federal:statute:lritf:article:111:term-usage:1795-1815",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:111",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera",
     "span": "Autoridad Financiera",
-    "start_char": 1794,
-    "end_char": 1814
+    "start_char": 1795,
+    "end_char": 1815
   },
   {
     "schema_version": "0.1.0",
@@ -8749,33 +8749,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:118:term-usage:1757-1765",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:118",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
-    "span": "Clientes",
-    "start_char": 1757,
-    "end_char": 1765
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:118:term-usage:1773-1776",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:118",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 1773,
-    "end_char": 1776
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:118:term-usage:1825-1842",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:118",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
-    "span": "Modelos Novedosos",
-    "start_char": 1825,
-    "end_char": 1842
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lritf:article:119:term-usage:162-170",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:119",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
@@ -8983,66 +8956,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:932-935",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:933-936",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 932,
-    "end_char": 935
+    "start_char": 933,
+    "end_char": 936
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:951-954",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:952-955",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 951,
-    "end_char": 954
+    "start_char": 952,
+    "end_char": 955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1031-1034",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1032-1035",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 1031,
-    "end_char": 1034
+    "start_char": 1032,
+    "end_char": 1035
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1151-1154",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1152-1155",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 1151,
-    "end_char": 1154
+    "start_char": 1152,
+    "end_char": 1155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1230-1233",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1231-1234",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 1230,
-    "end_char": 1233
+    "start_char": 1231,
+    "end_char": 1234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1333-1336",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1334-1337",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 1333,
-    "end_char": 1336
+    "start_char": 1334,
+    "end_char": 1337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1412-1415",
+    "id": "urn:lex-mx:federal:statute:lritf:article:121:term-usage:1413-1416",
     "provision_id": "urn:lex-mx:federal:statute:lritf:article:121",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:uma",
     "span": "UMA",
-    "start_char": 1412,
-    "end_char": 1415
+    "start_char": 1413,
+    "end_char": 1416
   },
   {
     "schema_version": "0.1.0",
@@ -9079,24 +9052,6 @@
     "span": "Cliente",
     "start_char": 286,
     "end_char": 293
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:122:term-usage:356-359",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:122",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 356,
-    "end_char": 359
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:122:term-usage:407-424",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:122",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
-    "span": "Modelos Novedosos",
-    "start_char": 407,
-    "end_char": 424
   },
   {
     "schema_version": "0.1.0",
@@ -9322,24 +9277,6 @@
     "span": "Modelos Novedosos",
     "start_char": 283,
     "end_char": 300
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:129:term-usage:439-442",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:129",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 439,
-    "end_char": 442
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lritf:article:129:term-usage:491-508",
-    "provision_id": "urn:lex-mx:federal:statute:lritf:article:129",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:modelo-novedoso",
-    "span": "Modelos Novedosos",
-    "start_char": 491,
-    "end_char": 508
   },
   {
     "schema_version": "0.1.0",

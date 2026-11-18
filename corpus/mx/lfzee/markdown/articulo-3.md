@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LFZEE — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf
 source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 ---
@@ -33,7 +33,9 @@ VI. Consejo Técnico de la Zona: El órgano colegiado integrado por representant
 
 VII. Convenio de Coordinación: El instrumento suscrito entre el Gobierno Federal y los gobiernos de las entidades federativas y de los municipios en donde se ubique la Zona y su Área de Influencia, en el que se establecerán las obligaciones de los tres órdenes de gobierno para el establecimiento y desarrollo de las mismas;
 
-VIII. Dictamen: La resolución técnica previa con base en la cual la Secretaría de Hacienda y Crédito Público determina la viabilidad del establecimiento y desarrollo de una Zona; IX. Evaluación Estratégica: El proceso sistemático de análisis sobre la situación e impacto sociales y ambientales respecto de la Zona y su Área de Influencia;
+VIII. Dictamen: La resolución técnica previa con base en la cual la Secretaría de Hacienda y Crédito Público determina la viabilidad del establecimiento y desarrollo de una Zona;
+
+IX. Evaluación Estratégica: El proceso sistemático de análisis sobre la situación e impacto sociales y ambientales respecto de la Zona y su Área de Influencia;
 
 X. Inversionista: La empresa de la Zona, nacional o extranjera, autorizada para realizar actividades económicas productivas en la Zona;
 

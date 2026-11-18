@@ -21,7 +21,9 @@ La convocatoria a la licitación pública y, en su caso, sus modificaciones ser�
 
 El mismo día en que se publique en CompraNet la convocatoria a la licitación pública, la convocante deberá enviar al Diario Oficial de la Federación para su publicación un resumen de la misma, que deberá contener lo siguiente:
 
-I. El nombre de la dependencia o entidad, número y carácter de la licitación pública, así como la indicación de los medios que se utilizarán para su realización; II. Una descripción sucinta del objeto de la licitación pública indicando, en su caso, el volumen de obra a contratar, asentando la descripción general de la misma, o de los servicios a contratar, de manera que se identifique la magnitud de los trabajos o servicios, sin que resulte necesario especificar los conceptos de trabajo a ejecutar;
+I. El nombre de la dependencia o entidad, número y carácter de la licitación pública, así como la indicación de los medios que se utilizarán para su realización;
+
+II. Una descripción sucinta del objeto de la licitación pública indicando, en su caso, el volumen de obra a contratar, asentando la descripción general de la misma, o de los servicios a contratar, de manera que se identifique la magnitud de los trabajos o servicios, sin que resulte necesario especificar los conceptos de trabajo a ejecutar;
 
 III. La fecha, hora y lugar en que se celebrarán la visita al sitio donde se ejecutarán los trabajos, la primera junta de aclaraciones y el acto de presentación y apertura de proposiciones, y
 

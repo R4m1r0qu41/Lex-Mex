@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "VIII",
     "start_char": 683,
-    "end_char": 757,
+    "end_char": 758,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "IX",
-    "start_char": 757,
-    "end_char": 833,
+    "start_char": 758,
+    "end_char": 834,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "X",
-    "start_char": 833,
-    "end_char": 912,
+    "start_char": 834,
+    "end_char": 913,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XI",
-    "start_char": 912,
-    "end_char": 978,
+    "start_char": 913,
+    "end_char": 979,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XII",
-    "start_char": 978,
-    "end_char": 1111,
+    "start_char": 979,
+    "end_char": 1112,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XIII",
-    "start_char": 1111,
-    "end_char": 1270,
+    "start_char": 1112,
+    "end_char": 1271,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XIV",
-    "start_char": 1270,
-    "end_char": 1329,
+    "start_char": 1271,
+    "end_char": 1330,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XV",
-    "start_char": 1329,
-    "end_char": 1408,
+    "start_char": 1330,
+    "end_char": 1409,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XVI",
-    "start_char": 1408,
-    "end_char": 1501,
+    "start_char": 1409,
+    "end_char": 1502,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XVII",
-    "start_char": 1501,
-    "end_char": 1600,
+    "start_char": 1502,
+    "end_char": 1601,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XVIII",
-    "start_char": 1600,
-    "end_char": 1719,
+    "start_char": 1601,
+    "end_char": 1720,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "fraction": "XIX",
-    "start_char": 1719,
-    "end_char": 1873,
+    "start_char": 1720,
+    "end_char": 1874,
     "basis": "express_definition"
   }
 ]

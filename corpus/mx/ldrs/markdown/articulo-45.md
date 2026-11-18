@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["LDRS — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -25,7 +25,9 @@ II. Articular los esfuerzos de capacitación de las diversas instancias del gobi
 
 III. Mejorar la calidad y cobertura de los servicios de capacitación;
 
-IV. Validar los programas de capacitación; V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
+IV. Validar los programas de capacitación;
+
+V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
 
 VI. Apoyar el mejor aprovechamiento de las capacidades y recursos que en esta materia poseen las entidades de los sectores público, social y privado, orientando su ejercicio en correspondencia con el Programa Nacional de Capacitación Rural Integral;
 

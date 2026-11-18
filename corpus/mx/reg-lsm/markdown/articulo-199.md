@@ -27,7 +27,9 @@ III.- Expedición de la Cartilla de Identificación;
 
 IV.- Reconocimiento médico;
 
-V.- Recibir las reclamaciones, solicitudes, etc., turnándolas con su informe a la Oficina de Reclutamiento de Sector; VI.- Formulación de listas, enviándolas a la Oficina de Reclutamiento de Zona, para su aprobación, con copia para la de Sector;
+V.- Recibir las reclamaciones, solicitudes, etc., turnándolas con su informe a la Oficina de Reclutamiento de Sector;
+
+VI.- Formulación de listas, enviándolas a la Oficina de Reclutamiento de Zona, para su aprobación, con copia para la de Sector;
 
 VII.- Publicación de las listas para el sorteo, aprobadas por la Oficina de Reclutamiento de Zona;
 

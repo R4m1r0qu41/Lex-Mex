@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["REG-LFPCCS — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf
 source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 ---
@@ -25,7 +25,9 @@ II. Fomentar y facilitar el acceso a mejores semillas, en condiciones de certeza
 
 III. Coadyuvar, con los Consejos Estatales para el Desarrollo Rural, en la promoción de la creación y operación de los Comités Consultivos Regionales o Estatales de Semillas;
 
-IV. Promover el establecimiento de un marco normativo integral en semillas, variedades vegetales y recursos fitogenéticos, que favorezca su aplicación eficaz; V. Contribuir para la implementación de mecanismos de coordinación entre sectores de investigación, producción, comercialización y diferentes instancias y órganos de gobierno;
+IV. Promover el establecimiento de un marco normativo integral en semillas, variedades vegetales y recursos fitogenéticos, que favorezca su aplicación eficaz;
+
+V. Contribuir para la implementación de mecanismos de coordinación entre sectores de investigación, producción, comercialización y diferentes instancias y órganos de gobierno;
 
 VI. Coordinar campañas o programas de difusión sobre el uso de semillas de calidad como instrumento de competitividad agropecuaria;
 

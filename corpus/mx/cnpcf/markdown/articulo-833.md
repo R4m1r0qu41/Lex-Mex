@@ -31,7 +31,9 @@ III. La persona deudora hará la solicitud a la autoridad jurisdiccional para qu
 
 IV. Identificación de todo tipo de procedimientos contra la persona deudora;
 
-V. Montos que se estiman adeudados del principal e intereses a la fecha de presentación de la solicitud, con su prelación y en su caso, si tienen constituidas garantías, deberá exhibir las pruebas que así lo demuestren y manifestar el origen de cada deuda; VI. Enlistado de bienes susceptibles de embargo propiedad de la persona deudora. Si tiene inmuebles, debe acompañar un certificado de gravámenes y un avalúo;
+V. Montos que se estiman adeudados del principal e intereses a la fecha de presentación de la solicitud, con su prelación y en su caso, si tienen constituidas garantías, deberá exhibir las pruebas que así lo demuestren y manifestar el origen de cada deuda;
+
+VI. Enlistado de bienes susceptibles de embargo propiedad de la persona deudora. Si tiene inmuebles, debe acompañar un certificado de gravámenes y un avalúo;
 
 VII. Propuesta de un plan de pagos a sus acreedores, y
 

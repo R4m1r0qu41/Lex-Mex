@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["LCID — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf
 source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 ---
@@ -19,7 +19,9 @@ source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 
 El [Director Ejecutivo](articulo-4.md) tendrá las siguientes atribuciones:
 
-I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos de carácter técnico y administrativo, que deban regir en las áreas administrativas con que cuente la [AMEXCID](articulo-4.md); II. Acordar y suscribir los convenios y contratos relativos a la AMEXCID, de conformidad con las disposiciones y lineamientos que fijen las unidades administrativas centrales de la [Secretaría](articulo-4.md);
+I. Establecer políticas, lineamientos, criterios, sistemas y procedimientos de carácter técnico y administrativo, que deban regir en las áreas administrativas con que cuente la [AMEXCID](articulo-4.md);
+
+II. Acordar y suscribir los convenios y contratos relativos a la AMEXCID, de conformidad con las disposiciones y lineamientos que fijen las unidades administrativas centrales de la [Secretaría](articulo-4.md);
 
 III. Administrar los recursos humanos, así como los financieros y materiales que se le asignen a la AMEXCID para el desarrollo de sus actividades;
 
@@ -47,6 +49,8 @@ XIV. Cumplir con las normas de control y fiscalización que establezcan las disp
 
 XV. Presentar al Consejo Consultivo el informe semestral del desempeño de las actividades de la AMEXCID, incluido el ejercicio del presupuesto y los estados financieros correspondientes, las metas propuestas y los compromisos asumidos, sin perjuicio de hacer lo propio con la Secretaría;
 
-XVI. Asistir a las sesiones del Consejo Consultivo con derecho a voz, pero sin voto; XVII. Desempeñar el cargo de Secretario Ejecutivo del Consejo Consultivo, y
+XVI. Asistir a las sesiones del Consejo Consultivo con derecho a voz, pero sin voto;
+
+XVII. Desempeñar el cargo de Secretario Ejecutivo del Consejo Consultivo, y
 
 XVIII. Las demás que le confieran la presente Ley, el Reglamento Interior de la Secretaría, así como otras disposiciones legales aplicables.

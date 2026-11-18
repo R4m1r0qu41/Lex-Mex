@@ -7,8 +7,8 @@ provision_type: article
 number: "119"
 aliases: ["LGV — Artículo 119"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 119
 
-Corresponde a los municipios, de conformidad con esta Ley y las leyes locales en la materia, las atribuciones siguientes:
+Corresponde a los municipios, de conformidad con esta [Ley](articulo-6.md) y las leyes locales en la materia, las atribuciones siguientes:
 
 I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal, para la adecuada atención y protección a las víctimas;
 

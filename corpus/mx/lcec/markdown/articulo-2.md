@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LCEC — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf
 source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 ---
@@ -25,9 +25,11 @@ II. Secretaría: la Secretaría de Economía.
 
 III. Comerciantes: las personas físicas y morales con actividades empresariales que realicen actividades de comercio, servicios y turismo que se encuentren establecidos y sujetos a un régimen fiscal.
 
-IV. Industriales: las personas físicas y morales con actividades empresariales que realicen actividades industriales, extractivas, de transformación y sus servicios que se encuentren establecidos y sujetos a un régimen fiscal. V. Cámaras: las Cámaras de Comercio, Servicios y Turismo que representan a [Comerciantes](articulo-2.md) y las Cámaras de Industria que representan a Industriales.
+IV. Industriales: las personas físicas y morales con actividades empresariales que realicen actividades industriales, extractivas, de transformación y sus servicios que se encuentren establecidos y sujetos a un régimen fiscal.
 
-VI. Confederación: la Confederación Nacional de Cámaras de Comercio, Servicios y Turismo y la Confederación de Cámaras [Industriales](articulo-2.md) de los [Estados](articulo-2.md) Unidos Mexicanos.
+V. Cámaras: las Cámaras de Comercio, Servicios y Turismo que representan a [Comerciantes](articulo-2.md) y las Cámaras de Industria que representan a [Industriales](articulo-2.md).
+
+VI. Confederación: la Confederación Nacional de [Cámaras](articulo-2.md) de Comercio, Servicios y Turismo y la Confederación de Cámaras Industriales de los [Estados](articulo-2.md) Unidos Mexicanos.
 
 VII. Circunscripción: el área geográfica autorizada para que opere una Cámara.
 

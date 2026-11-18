@@ -7,8 +7,8 @@ provision_type: article
 number: "53"
 aliases: ["LGAHOTDU — Artículo 53"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -41,4 +41,6 @@ X. La potestad administrativa que permita la celebración de convenios entre aut
 
 XI. La construcción y adecuación de la infraestructura, el equipamiento y los [Servicios Urbanos](articulo-3.md) para garantizar la seguridad, libre tránsito y accesibilidad universal requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a las personas con discapacidad sobre las características técnicas de los proyectos;
 
-XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de Conservación y Mejoramiento.
+XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y
+
+XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de Conservación y Mejoramiento.

@@ -23,7 +23,9 @@ I. Integrar un expediente que contenga la información a que se refiere el artí
 
 II. Verificar, en el caso de inmuebles sujetos al régimen de dominio público propiedad de la Federación o de los organismos descentralizados, que se haya emitido previamente el instrumento jurídico que desincorpore de ese régimen los bienes y que autorice la venta de los mismos;
 
-III. Verificar, respecto de inmuebles propiedad de los organismos descentralizados, que no estén siendo utilizados directamente en el cumplimiento de su objeto, se cuente con el dictamen de no utilidad correspondiente y con el acuerdo del órgano de gobierno de la entidad que autorice la venta del bien; IV. Contratar a un profesional especializado en la promoción y venta de los bienes de que se trate, cuando se estime necesario de conformidad con lo establecido en el segundo párrafo del artículo [38](../../lfaebsp/markdown/articulo-38.md) de la Ley;
+III. Verificar, respecto de inmuebles propiedad de los organismos descentralizados, que no estén siendo utilizados directamente en el cumplimiento de su objeto, se cuente con el dictamen de no utilidad correspondiente y con el acuerdo del órgano de gobierno de la entidad que autorice la venta del bien;
+
+IV. Contratar a un profesional especializado en la promoción y venta de los bienes de que se trate, cuando se estime necesario de conformidad con lo establecido en el segundo párrafo del artículo [38](../../lfaebsp/markdown/articulo-38.md) de la Ley;
 
 V. En caso de que la venta se realice por conducto de un tercero especializado, el SAE deberá contar previamente a la publicación de la convocatoria, con el precio base de venta, y definir si éste se mantendrá en reserva por el SAE;
 

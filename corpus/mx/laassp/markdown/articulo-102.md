@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Séptimo · Capítulo Primero
+
 # Artículo 102
 
 Desahogadas las pruebas, se pondrán las actuaciones a disposición del inconforme y tercero interesado a efecto de que dentro del plazo de tres días hábiles formulen sus alegatos por escrito. Transcurrido el término señalado, la autoridad que conozca de la inconformidad cerrará la instrucción y dictará la resolución en un término de quince días hábiles.

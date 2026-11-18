@@ -31,7 +31,9 @@ IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que re
 
 V. Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
 
-VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas; VII. Contendrán, los anexos técnicos necesarios para detallar los compromisos adquiridos;
+VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+
+VII. Contendrán, los anexos técnicos necesarios para detallar los compromisos adquiridos;
 
 VIII. Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación;
 

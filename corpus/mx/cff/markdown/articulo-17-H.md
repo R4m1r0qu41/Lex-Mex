@@ -37,7 +37,9 @@ VIII. Se compruebe que al momento de su expedición, el certificado no cumplió 
 
 IX. Cuando se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica avanzada del Servicio de Administración Tributaria.
 
-X. Se agote el procedimiento previsto en el artículo [17-H Bis](articulo-17-H-Bis.md) de este Código y no se hayan subsanado las irregularidades detectadas o desvirtuado las causas que motivaron la restricción temporal del certificado. XI. Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó la presunción de la inexistencia de las operaciones amparadas en tales comprobantes y, por tanto, se encuentra definitivamente en dicha situación, en términos del artículo [69-B](articulo-69-B.md), cuarto párrafo, de este Código.
+X. Se agote el procedimiento previsto en el artículo [17-H Bis](articulo-17-H-Bis.md) de este Código y no se hayan subsanado las irregularidades detectadas o desvirtuado las causas que motivaron la restricción temporal del certificado.
+
+XI. Detecten que el contribuyente emisor de comprobantes fiscales no desvirtuó la presunción de la inexistencia de las operaciones amparadas en tales comprobantes y, por tanto, se encuentra definitivamente en dicha situación, en términos del artículo [69-B](articulo-69-B.md), cuarto párrafo, de este Código.
 
 XII. Detecten que se trata de contribuyentes que no desvirtuaron la presunción de transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en el listado a que se refiere el noveno párrafo del artículo [69-B Bis](articulo-69-B-Bis.md) de este Código.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "50"
 aliases: ["LGDS — Artículo 50"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -21,7 +21,9 @@ La [Comisión Nacional](articulo-5.md) estará facultada para atender la solicit
 
 I. Proponer Políticas Públicas de Desarrollo Social bajo los criterios de integralidad y transversalidad, con perspectiva de género y de derechos humanos; Fracción reformada DOF 15-01-2026
 
-II. Proponer criterios para la planeación y ejecución de las políticas y programas de desarrollo social en los ámbitos regional, estatal y municipal; III. Proponer programas estatales y regionales, así como acciones e inversiones en el marco del Plan Nacional de Desarrollo, el Programa Nacional de Desarrollo Social y las políticas públicas a que se refiere la fracción anterior;
+II. Proponer criterios para la planeación y ejecución de las políticas y programas de desarrollo social en los ámbitos regional, estatal y municipal;
+
+III. Proponer programas estatales y regionales, así como acciones e inversiones en el marco del Plan Nacional de Desarrollo, el Programa Nacional de Desarrollo Social y las políticas públicas a que se refiere la fracción anterior;
 
 IV. Proponer mecanismos de financiamiento y distribución de recursos federales para el desarrollo social de las entidades federativas;
 

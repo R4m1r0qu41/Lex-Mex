@@ -7,8 +7,8 @@ provision_type: article
 number: "57"
 aliases: ["REG-LFMN — Artículo 57"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf
 source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 ---

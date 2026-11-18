@@ -25,7 +25,9 @@ I. Nombre del otorgante y fecha de nacimiento;
 
 II. Domicilio del otorgante;
 
-III. Nombre y datos generales del Donador, entre ellos, fecha de nacimiento, domicilio y nacionalidad; IV. Relación del otorgante con el Donador que lo legitime a dar su consentimiento;
+III. Nombre y datos generales del Donador, entre ellos, fecha de nacimiento, domicilio y nacionalidad;
+
+IV. Relación del otorgante con el Donador que lo legitime a dar su consentimiento;
 
 V. La manifestación de que fue informado acerca de la donación de que se trate, que se le dio oportunidad de hacer preguntas y que éstas fueron contestadas satisfactoriamente;
 

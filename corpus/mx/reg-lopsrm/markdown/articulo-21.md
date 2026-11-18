@@ -35,7 +35,9 @@ VI. El monto estimado de inversión y aportaciones, en efectivo y en especie, fe
 
 VII. Escrito en el que las personas, entidades federativas o municipios cedan a título gratuito los derechos de propiedad intelectual o industrial que se puedan derivar de su propuesta a favor de la dependencia o la entidad de que se trate, sin perjuicio de que éstas al momento de contratar con un tercero o realizar directamente los servicios complementarios de los estudios, planes y programas presentados, cubran a quienes hayan presentado estos últimos una compensación que considere exclusivamente los gastos en que hubieren incurrido para la elaboración de la propuesta, los cuales podrán calcular directamente o con el apoyo de peritos;
 
-VIII. Un análisis sobre la rentabilidad social del proyecto, y IX. Los demás aspectos técnicos y económicos, así como la información adicional que, de acuerdo al sector específico de que se trate, resulten necesarios para analizar la factibilidad de las propuestas que se presenten.
+VIII. Un análisis sobre la rentabilidad social del proyecto, y
+
+IX. Los demás aspectos técnicos y económicos, así como la información adicional que, de acuerdo al sector específico de que se trate, resulten necesarios para analizar la factibilidad de las propuestas que se presenten.
 
 La información y documentación señalada en las fracciones anteriores será analizada por las dependencias y entidades conforme a lo dispuesto por el séptimo párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley.
 

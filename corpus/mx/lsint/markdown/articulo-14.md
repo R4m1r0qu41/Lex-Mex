@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LSINT — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf
 source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 ---
@@ -23,7 +23,7 @@ I. Autoridad o institución federal coordinadora y las demás que participarán;
 
 II. La amenaza a la [Seguridad Interior](articulo-4.md) que se atenderá;
 
-III. Las entidades federativas o áreas geográficas en las que se realizarán las Acciones de Seguridad Interior;
+III. Las entidades federativas o áreas geográficas en las que se realizarán las [Acciones de Seguridad Interior](articulo-4.md);
 
 IV. Las acciones que se requieran a cargo de las entidades federativas o municipios para contribuir a la atención de la [Amenaza a la Seguridad Interior](articulo-4.md);
 

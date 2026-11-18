@@ -7,8 +7,8 @@ provision_type: article
 number: "36"
 aliases: ["REG-LGS-MCSPIUMC — Artículo 36"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf
 source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 ---
@@ -27,6 +27,8 @@ III. La cantidad a utilizar y balance;
 
 IV. La procedencia;
 
-V. El uso y destino que se dará a la misma, y VI. El resumen del proceso.
+V. El uso y destino que se dará a la misma, y
+
+VI. El resumen del proceso.
 
 La COFEPRIS podrá verificar, a través de una orden de visita, las operaciones y datos asentados en el Libro de Control a que se refiere este artículo.

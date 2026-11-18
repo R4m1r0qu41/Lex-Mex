@@ -7,8 +7,8 @@ provision_type: article
 number: "99"
 aliases: ["REG-LOPGJDF — Artículo 99"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -25,7 +25,9 @@ II. Planear y desarrollar las técnicas que permitan optimizar la función admin
 
 III. Elaborar diagnósticos en cada una de las áreas que integra la Procuraduría, para conocer sus necesidades tecnológicas;
 
-IV. Promover el uso de tecnología de vanguardia para fortalecer los métodos de administración; V. Realizar estudios estratégicos para impulsar acciones de mejora en la administración;
+IV. Promover el uso de tecnología de vanguardia para fortalecer los métodos de administración;
+
+V. Realizar estudios estratégicos para impulsar acciones de mejora en la administración;
 
 VI. Establecer, en coordinación con la Dirección General de Comunicación Social, campañas de difusión encaminadas a la vinculación con la sociedad, bajo una perspectiva de atención a la ciudadanía;
 

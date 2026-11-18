@@ -43,7 +43,9 @@ XI. Divulgar entre los integrantes de la Policía los criterios normativos que s
 
 XII. Determinar las políticas de seguridad y mecanismos de control para la protección de la información;
 
-XIII. Conducir la administración de los recursos humanos, materiales y financieros asignados a la Policía para el óptimo funcionamiento de sus unidades administrativas de conformidad con los lineamientos y normatividad aplicables; XIV. Proponer para autorización del Titular de la Policía, los mecanismos necesarios para que la Policía cuente con los recursos técnicos, mediante el uso de Tecnologías de Información, para el apoyo de las áreas sustantivas que facilite el cumplimiento de mandamientos judiciales y ministeriales;
+XIII. Conducir la administración de los recursos humanos, materiales y financieros asignados a la Policía para el óptimo funcionamiento de sus unidades administrativas de conformidad con los lineamientos y normatividad aplicables;
+
+XIV. Proponer para autorización del Titular de la Policía, los mecanismos necesarios para que la Policía cuente con los recursos técnicos, mediante el uso de Tecnologías de Información, para el apoyo de las áreas sustantivas que facilite el cumplimiento de mandamientos judiciales y ministeriales;
 
 XV. Participar en coordinación con las unidades administrativas competentes, en la atención de los asuntos jurídicos que incidan en la Policía, así como en la asesoría legal a las unidades administrativas y personal sustantivo de ésta que por sus funciones lo requiera;
 

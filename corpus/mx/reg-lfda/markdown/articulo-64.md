@@ -10,7 +10,7 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
-source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 ---
 
 > Título VIII · Capítulo II
@@ -29,4 +29,6 @@ IV. Fecha en que se emite el certificado;
 
 V. Tratándose de contratos, convenios y poderes, nombre de las partes, carácter con que se ostentan y el objeto del contrato;
 
-VI. Cargo del funcionario autorizado para firmar el certificado, y VII. Nombre y firma autógrafa del funcionario autorizado para tal efecto.
+VI. Cargo del funcionario autorizado para firmar el certificado, y
+
+VII. Nombre y firma autógrafa del funcionario autorizado para tal efecto.

@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LRPCAP — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 5
 
-En aplicación de esta Ley se observarán, entre otros, los siguientes principios y criterios:
+En aplicación de esta [Ley](articulo-2.md) se observarán, entre otros, los siguientes principios y criterios:
 
 I. No devolución;
 

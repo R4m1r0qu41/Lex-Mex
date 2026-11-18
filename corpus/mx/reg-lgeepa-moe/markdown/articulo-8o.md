@@ -7,8 +7,8 @@ provision_type: article
 number: "8o"
 aliases: ["REG-LGEEPA-MOE — Artículo 8o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf
 source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 ---
@@ -27,7 +27,9 @@ II. Los lineamientos, criterios y estrategias que permitan instrumentar el proce
 
 III. La identificación y designación de las autoridades e instituciones que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, así como la participación y la responsabilidad que les corresponda a cada una de ellas en la conducción e instrumentación del proceso de ordenamiento ecológico;
 
-IV. La integración del órgano que instrumentará y dará seguimiento al proceso de ordenamiento ecológico; V. Las acciones iniciales que deba realizar cada parte del convenio para garantizar el inicio y desarrollo eficaz del proceso de ordenamiento ecológico;
+IV. La integración del órgano que instrumentará y dará seguimiento al proceso de ordenamiento ecológico;
+
+V. Las acciones iniciales que deba realizar cada parte del convenio para garantizar el inicio y desarrollo eficaz del proceso de ordenamiento ecológico;
 
 VI. La determinación de los productos que deberán obtenerse como resultado del proceso de ordenamiento ecológico respectivo;
 

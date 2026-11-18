@@ -21,7 +21,9 @@ Las casas de bolsa deberán contar con los mecanismos de control interno para el
 
 El consejo de administración de las casas de bolsa deberá designar una persona responsable de vigilar el cumplimiento a las disposiciones en materia de servicios asesorados y no asesorados, quien tendrá al menos, las siguientes funciones:
 
-I. Verificar el cumplimiento de las disposiciones relativas al perfil de los clientes, de los productos financieros así como la suficiencia de la evaluación y análisis de la razonabilidad de las recomendaciones u operaciones. II. Vigilar el apego a las políticas y lineamientos establecidos por el comité de análisis de producto y el consejo de administración, en su caso.
+I. Verificar el cumplimiento de las disposiciones relativas al perfil de los clientes, de los productos financieros así como la suficiencia de la evaluación y análisis de la razonabilidad de las recomendaciones u operaciones.
+
+II. Vigilar el apego a las políticas y lineamientos establecidos por el comité de análisis de producto y el consejo de administración, en su caso.
 
 III. Verificar la existencia de mecanismos de control interno e infraestructura adecuados para la prestación de servicios asesorados y no asesorados.
 

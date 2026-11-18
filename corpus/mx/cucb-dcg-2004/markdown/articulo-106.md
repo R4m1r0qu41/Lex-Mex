@@ -24,7 +24,7 @@ I. Aquellos para el adecuado empleo y aprovechamiento de los recursos humanos y 
 
 II. Los que regulen los procesos operativos de la casa de bolsa preservando en todo momento la liquidez, solvencia y estabilidad de las casas de bolsa con el fin de proteger los intereses del público inversionista.
 
-III. Los que regulen y controlen la dependencia de proveedores externos, incluyendo en el caso de las filiales, los servicios que les presten en sus corporativos, apegándose a lo autorizado al amparo del artículo 116 de la Ley.
+III. Los que regulen y controlen la dependencia de proveedores externos, incluyendo en el caso de las filiales, los servicios que les presten en sus corporativos, apegándose a lo autorizado al amparo del artículo 116 de la [Ley](articulo-1.md).
 
 Asimismo, deberán incluirse los que regulen y controlen la prestación de los servicios que, en su caso, hubieren sido contratados con terceros en términos de lo dispuesto por el Capítulo Segundo del Título Séptimo de las presentes disposiciones. Lo anterior, en el entendido de que las casas de bolsa deberán establecer objetivos y lineamientos consistentes con los aplicables a los de su propia operación.
 

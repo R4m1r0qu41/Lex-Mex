@@ -27,7 +27,9 @@ III. El [Código de identificación](articulo-2.md) asignado;
 
 IV. El periodo que se informa;
 
-V. Las actividades realizadas comprometidas presentadas en cuadros comparativos entre lo programado y lo realizado, en el que se indiquen el porcentaje de avance y las causas de la variación; VI. El estado sanitario del Recurso forestal, considerando ataques de Plagas o Enfermedades forestales y el grado de infestación expresado en un porcentaje de la superficie total;
+V. Las actividades realizadas comprometidas presentadas en cuadros comparativos entre lo programado y lo realizado, en el que se indiquen el porcentaje de avance y las causas de la variación;
+
+VI. El estado sanitario del Recurso forestal, considerando ataques de Plagas o Enfermedades forestales y el grado de infestación expresado en un porcentaje de la superficie total;
 
 VII. Los volúmenes cosechados y saldos, por superficie, producto y especie expresados en metros cúbicos, y
 

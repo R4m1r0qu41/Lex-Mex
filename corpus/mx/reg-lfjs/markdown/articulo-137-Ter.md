@@ -8,7 +8,7 @@ number: "137 Ter"
 aliases: ["REG-LFJS — Artículo 137 Ter"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf
 source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 ---

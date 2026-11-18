@@ -17,7 +17,9 @@ source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 
 # Artículo 81-A
 
-Exclusivamente las sociedades anónimas organizadas de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles, que se encuentren registradas como centro cambiario ante la Comisión Nacional Bancaria y de Valores, en términos de lo dispuesto en el artículo [81](articulo-81.md)- B de esta Ley, podrán realizar, en forma habitual y profesional, cualesquiera de las operaciones siguientes: I. Compra y venta de billetes, así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día;
+Exclusivamente las sociedades anónimas organizadas de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles, que se encuentren registradas como centro cambiario ante la Comisión Nacional Bancaria y de Valores, en términos de lo dispuesto en el artículo [81](articulo-81.md)- B de esta Ley, podrán realizar, en forma habitual y profesional, cualesquiera de las operaciones siguientes:
+
+I. Compra y venta de billetes, así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día;
 
 II. Compra y venta de cheques de viajero denominados en moneda extranjera, hasta por un monto no superior al equivalente en moneda nacional a diez mil dólares de los Estados Unidos de América por cada cliente en un mismo día;
 

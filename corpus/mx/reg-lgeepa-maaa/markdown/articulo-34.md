@@ -17,7 +17,9 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 34
 
-La solicitud de aprobación a que hace referencia el [artículo anterior](articulo-33.md) contendrá el nombre, domicilio, teléfono y correo electrónico de la unidad de verificación, datos de su acreditación y relación de [Auditores Coordinadores](articulo-2.md) y [Auditores Especialistas](articulo-2.md) adscritos, que realizarán [Auditorías Ambientales](articulo-2.md), [Diagnósticos Ambientales](articulo-2.md) y verificaciones del [Plan de Acción](articulo-2.md), anexando: I. Ficha técnica de cada uno de los integrantes:
+La solicitud de aprobación a que hace referencia el [artículo anterior](articulo-33.md) contendrá el nombre, domicilio, teléfono y correo electrónico de la unidad de verificación, datos de su acreditación y relación de [Auditores Coordinadores](articulo-2.md) y [Auditores Especialistas](articulo-2.md) adscritos, que realizarán [Auditorías Ambientales](articulo-2.md), [Diagnósticos Ambientales](articulo-2.md) y verificaciones del [Plan de Acción](articulo-2.md), anexando:
+
+I. Ficha técnica de cada uno de los integrantes:
 
 a. Nombre del Auditor Coordinador y en su caso, Auditor Especialista y las especialidades acreditadas;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["REG-LDCMPME — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf
 source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 ---
@@ -19,7 +19,9 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 Se consideran como Actividades de Fomento para el desarrollo de la competitividad de las MIPYMES, en términos de lo dispuesto en la Ley, las siguientes:
 
-I. Económicas: Aquéllas que contribuyan a crear, organizar y desarrollar mecanismos económicos para apoyar o estimular la creación, viabilidad, productividad, competitividad y sustentabilidad de las MIPYMES, así como el incremento de su participación en los mercados, con el fin de fomentar el empleo y el bienestar social y económico; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA II. Jurídicas: Aquéllas que contribuyan al análisis y revisión del marco jurídico aplicable para establecer las condiciones que permitan la creación, viabilidad, productividad, competitividad y sustentabilidad de las MIPYMES;
+I. Económicas: Aquéllas que contribuyan a crear, organizar y desarrollar mecanismos económicos para apoyar o estimular la creación, viabilidad, productividad, competitividad y sustentabilidad de las MIPYMES, así como el incremento de su participación en los mercados, con el fin de fomentar el empleo y el bienestar social y económico;
+
+II. Jurídicas: Aquéllas que contribuyan al análisis y revisión del marco jurídico aplicable para establecer las condiciones que permitan la creación, viabilidad, productividad, competitividad y sustentabilidad de las MIPYMES;
 
 III. Sociales: Aquéllas que contribuyan a crear los mecanismos de participación de los Sectores, reconociendo la diversidad social del país, en la formulación, ejecución y evaluación de los programas orientados al desarrollo de la competitividad de las MIPYMES;
 

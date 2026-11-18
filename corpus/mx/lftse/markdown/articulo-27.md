@@ -17,6 +17,4 @@ source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
 
 # Artículo 27
 
-Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.

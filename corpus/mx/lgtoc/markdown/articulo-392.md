@@ -17,7 +17,9 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 
 # Artículo 392
 
-El fideicomiso se extingue: I.- Por la realización del fin para el cual fue constituido;
+El fideicomiso se extingue:
+
+I.- Por la realización del fin para el cual fue constituido;
 
 II.- Por hacerse éste imposible;
 

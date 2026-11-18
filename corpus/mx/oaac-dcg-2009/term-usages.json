@@ -10,489 +10,489 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:986-994",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:980-988",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 986,
-    "end_char": 994
+    "start_char": 980,
+    "end_char": 988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1384-1410",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1378-1404",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 1384,
-    "end_char": 1410
+    "start_char": 1378,
+    "end_char": 1404
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1699-1703",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1693-1697",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:udis",
     "span": "UDIs",
-    "start_char": 1699,
-    "end_char": 1703
+    "start_char": 1693,
+    "end_char": 1697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1821-1824",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:1815-1818",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 1821,
-    "end_char": 1824
+    "start_char": 1815,
+    "end_char": 1818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3475-3482",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3469-3476",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 3475,
-    "end_char": 3482
+    "start_char": 3469,
+    "end_char": 3476
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3703-3729",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3697-3723",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 3703,
-    "end_char": 3729
+    "start_char": 3697,
+    "end_char": 3723
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3850-3871",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:3844-3865",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:entidad-financiera",
     "span": "Entidades Financieras",
-    "start_char": 3850,
-    "end_char": 3871
+    "start_char": 3844,
+    "end_char": 3865
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:4514-4540",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:4508-4534",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 4514,
-    "end_char": 4540
+    "start_char": 4508,
+    "end_char": 4534
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:5948-5954",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:5936-5942",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 5948,
-    "end_char": 5954
+    "start_char": 5936,
+    "end_char": 5942
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6534-6566",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6522-6554",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios-exclusivas",
     "span": "Empresas de Servicios Exclusivas",
-    "start_char": 6534,
-    "end_char": 6566
+    "start_char": 6522,
+    "end_char": 6554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6569-6600",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6557-6588",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios-genericas",
     "span": "Empresas de Servicios Genéricas",
-    "start_char": 6569,
-    "end_char": 6600
+    "start_char": 6557,
+    "end_char": 6588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6799-6837",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:6787-6825",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:servicios-complementarios-o-auxiliares",
     "span": "Servicios Complementarios o Auxiliares",
-    "start_char": 6799,
-    "end_char": 6837
+    "start_char": 6787,
+    "end_char": 6825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:7047-7085",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:7035-7073",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:servicios-complementarios-o-auxiliares",
     "span": "Servicios Complementarios o Auxiliares",
-    "start_char": 7047,
-    "end_char": 7085
+    "start_char": 7035,
+    "end_char": 7073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:7772-7795",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:7760-7783",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-proteccion",
     "span": "Proveedor de Protección",
-    "start_char": 7772,
-    "end_char": 7795
+    "start_char": 7760,
+    "end_char": 7783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:8389-8412",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:8377-8400",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-proteccion",
     "span": "Proveedor de Protección",
-    "start_char": 8389,
-    "end_char": 8412
+    "start_char": 8377,
+    "end_char": 8400
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:8765-8806",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:8753-8794",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-de-primeras-perdidas",
     "span": "Esquema de Cobertura de Primeras Pérdidas",
-    "start_char": 8765,
-    "end_char": 8806
+    "start_char": 8753,
+    "end_char": 8794
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:9304-9314",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:9292-9302",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:secretaria",
     "span": "Secretaría",
-    "start_char": 9304,
-    "end_char": 9314
+    "start_char": 9292,
+    "end_char": 9302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:9848-9855",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:9836-9843",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 9848,
-    "end_char": 9855
+    "start_char": 9836,
+    "end_char": 9843
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11384-11408",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11360-11384",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:instituciones-calificadoras",
     "span": "Institución Calificadora",
-    "start_char": 11384,
-    "end_char": 11408
+    "start_char": 11360,
+    "end_char": 11384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11412-11419",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11388-11395",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 11412,
-    "end_char": 11419
+    "start_char": 11388,
+    "end_char": 11395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11671-11678",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11647-11654",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 11671,
-    "end_char": 11678
+    "start_char": 11647,
+    "end_char": 11654
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11932-11956",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:11901-11925",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:instituciones-calificadoras",
     "span": "Institución Calificadora",
-    "start_char": 11932,
-    "end_char": 11956
+    "start_char": 11901,
+    "end_char": 11925
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:12846-12867",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:12815-12836",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:entidad-financiera",
     "span": "Entidades Financieras",
-    "start_char": 12846,
-    "end_char": 12867
+    "start_char": 12815,
+    "end_char": 12836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:13707-13714",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:13676-13683",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 13707,
-    "end_char": 13714
+    "start_char": 13676,
+    "end_char": 13683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14082-14090",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14051-14059",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 14082,
-    "end_char": 14090
+    "start_char": 14051,
+    "end_char": 14059
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14168-14176",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14137-14145",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 14168,
-    "end_char": 14176
+    "start_char": 14137,
+    "end_char": 14145
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14478-14511",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14447-14480",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:precio-actualizado-para-valuacion",
     "span": "Precio Actualizado para Valuación",
-    "start_char": 14478,
-    "end_char": 14511
+    "start_char": 14447,
+    "end_char": 14480
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14515-14522",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:14484-14491",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 14515,
-    "end_char": 14522
+    "start_char": 14484,
+    "end_char": 14491
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17423-17430",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17392-17399",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 17423,
-    "end_char": 17430
+    "start_char": 17392,
+    "end_char": 17399
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17515-17535",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17484-17504",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-precios",
     "span": "Proveedor de Precios",
-    "start_char": 17515,
-    "end_char": 17535
+    "start_char": 17484,
+    "end_char": 17504
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17544-17571",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17513-17540",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:modelo-de-valuacion-interno",
     "span": "Modelo de Valuación Interno",
-    "start_char": 17544,
-    "end_char": 17571
+    "start_char": 17513,
+    "end_char": 17540
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17593-17614",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17562-17583",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:entidad-financiera",
     "span": "Entidades Financieras",
-    "start_char": 17593,
-    "end_char": 17614
+    "start_char": 17562,
+    "end_char": 17583
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17719-17727",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17688-17696",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 17719,
-    "end_char": 17727
+    "start_char": 17688,
+    "end_char": 17696
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17795-17802",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:17764-17771",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 17795,
-    "end_char": 17802
+    "start_char": 17764,
+    "end_char": 17771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:18054-18061",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:18023-18030",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valores",
     "span": "Valores",
-    "start_char": 18054,
-    "end_char": 18061
+    "start_char": 18023,
+    "end_char": 18030
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:18215-18221",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:18184-18190",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 18215,
-    "end_char": 18221
+    "start_char": 18184,
+    "end_char": 18190
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19100-19117",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19069-19086",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 19100,
-    "end_char": 19117
+    "start_char": 19069,
+    "end_char": 19086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19120-19129",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19089-19098",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consorcio",
     "span": "Consorcio",
-    "start_char": 19120,
-    "end_char": 19129
+    "start_char": 19089,
+    "end_char": 19098
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19149-19166",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19118-19135",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 19149,
-    "end_char": 19166
+    "start_char": 19118,
+    "end_char": 19135
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19169-19178",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19138-19147",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consorcio",
     "span": "Consorcio",
-    "start_char": 19169,
-    "end_char": 19178
+    "start_char": 19138,
+    "end_char": 19147
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19631-19648",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19600-19617",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 19631,
-    "end_char": 19648
+    "start_char": 19600,
+    "end_char": 19617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19664-19673",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19633-19642",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consorcio",
     "span": "Consorcio",
-    "start_char": 19664,
-    "end_char": 19673
+    "start_char": 19633,
+    "end_char": 19642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19725-19742",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19694-19711",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 19725,
-    "end_char": 19742
+    "start_char": 19694,
+    "end_char": 19711
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19758-19767",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:19727-19736",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consorcio",
     "span": "Consorcio",
-    "start_char": 19758,
-    "end_char": 19767
+    "start_char": 19727,
+    "end_char": 19736
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20275-20289",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20244-20258",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 20275,
-    "end_char": 20289
+    "start_char": 20244,
+    "end_char": 20258
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20647-20662",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20616-20631",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamientos",
-    "start_char": 20647,
-    "end_char": 20662
+    "start_char": 20616,
+    "end_char": 20631
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20835-20844",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:20804-20813",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:descuento",
     "span": "Descuento",
-    "start_char": 20835,
-    "end_char": 20844
+    "start_char": 20804,
+    "end_char": 20813
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21282-21288",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21251-21257",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 21282,
-    "end_char": 21288
+    "start_char": 21251,
+    "end_char": 21257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21428-21449",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21397-21418",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios",
     "span": "Empresas de Servicios",
-    "start_char": 21428,
-    "end_char": 21449
+    "start_char": 21397,
+    "end_char": 21418
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21628-21631",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:21597-21600",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 21628,
-    "end_char": 21631
+    "start_char": 21597,
+    "end_char": 21600
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:23302-23310",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:23271-23279",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 23302,
-    "end_char": 23310
+    "start_char": 23271,
+    "end_char": 23279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:23747-23750",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:23704-23707",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 23747,
-    "end_char": 23750
+    "start_char": 23704,
+    "end_char": 23707
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:24690-24710",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:24647-24667",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-precios",
     "span": "Proveedor de Precios",
-    "start_char": 24690,
-    "end_char": 24710
+    "start_char": 24647,
+    "end_char": 24667
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:24860-24866",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1:term-usage:24817-24823",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 24860,
-    "end_char": 24866
+    "start_char": 24817,
+    "end_char": 24823
   },
   {
     "schema_version": "0.1.0",
@@ -505,57 +505,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:464-472",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:457-465",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 464,
-    "end_char": 472
+    "start_char": 457,
+    "end_char": 465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:1834-1842",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:931-939",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1834,
-    "end_char": 1842
+    "start_char": 931,
+    "end_char": 939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2198-2206",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:1789-1797",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 2198,
-    "end_char": 2206
+    "start_char": 1789,
+    "end_char": 1797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2256-2264",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:1928-1963",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
-    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
-    "span": "Comisión",
-    "start_char": 2256,
-    "end_char": 2264
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:firma-electronica-avanzada-o-fiable",
+    "span": "Firma Electrónica Avanzada o Fiable",
+    "start_char": 1928,
+    "end_char": 1963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2708-2716",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2146-2154",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 2708,
-    "end_char": 2716
+    "start_char": 2146,
+    "end_char": 2154
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:3057-3065",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2204-2212",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 3057,
-    "end_char": 3065
+    "start_char": 2204,
+    "end_char": 2212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2649-2657",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
+    "span": "Comisión",
+    "start_char": 2649,
+    "end_char": 2657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9:term-usage:2991-2999",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
+    "span": "Comisión",
+    "start_char": 2991,
+    "end_char": 2999
   },
   {
     "schema_version": "0.1.0",
@@ -568,84 +586,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:273-281",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:266-274",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 273,
-    "end_char": 281
+    "start_char": 266,
+    "end_char": 274
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:873-881",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:859-867",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 873,
-    "end_char": 881
+    "start_char": 859,
+    "end_char": 867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:2191-2198",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:998-1033",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:firma-electronica-avanzada-o-fiable",
+    "span": "Firma Electrónica Avanzada o Fiable",
+    "start_char": 998,
+    "end_char": 1033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:2147-2154",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 2191,
-    "end_char": 2198
+    "start_char": 2147,
+    "end_char": 2154
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:3078-3086",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:3016-3024",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 3078,
-    "end_char": 3086
+    "start_char": 3016,
+    "end_char": 3024
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:3530-3538",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis:term-usage:3461-3469",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 3530,
-    "end_char": 3538
+    "start_char": 3461,
+    "end_char": 3469
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:99-107",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:92-100",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 99,
-    "end_char": 107
+    "start_char": 92,
+    "end_char": 100
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:542-550",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:529-537",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 542,
-    "end_char": 550
+    "start_char": 529,
+    "end_char": 537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:1734-1742",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:1691-1699",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1734,
-    "end_char": 1742
+    "start_char": 1691,
+    "end_char": 1699
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:2002-2010",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:1946-1954",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 2002,
-    "end_char": 2010
+    "start_char": 1946,
+    "end_char": 1954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1:term-usage:2529-2537",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
+    "span": "Comisión",
+    "start_char": 2529,
+    "end_char": 2537
   },
   {
     "schema_version": "0.1.0",
@@ -982,12 +1018,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:12:term-usage:5164-5184",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:12",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:12-bis:term-usage:631-651",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:12-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-precios",
     "span": "Proveedor de Precios",
-    "start_char": 5164,
-    "end_char": 5184
+    "start_char": 631,
+    "end_char": 651
   },
   {
     "schema_version": "0.1.0",
@@ -1720,30 +1756,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58:term-usage:244-250",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58:term-usage:237-243",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 244,
-    "end_char": 250
+    "start_char": 237,
+    "end_char": 243
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58:term-usage:411-417",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58:term-usage:404-410",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:58",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 411,
-    "end_char": 417
+    "start_char": 404,
+    "end_char": 410
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59:term-usage:357-365",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59:term-usage:350-358",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 357,
-    "end_char": 365
+    "start_char": 350,
+    "end_char": 358
   },
   {
     "schema_version": "0.1.0",
@@ -1945,39 +1981,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1077-1085",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1057-1065",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1077,
-    "end_char": 1085
+    "start_char": 1057,
+    "end_char": 1065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1144-1150",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1124-1130",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 1144,
-    "end_char": 1150
+    "start_char": 1124,
+    "end_char": 1130
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1580-1588",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1560-1568",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1580,
-    "end_char": 1588
+    "start_char": 1560,
+    "end_char": 1568
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1659-1665",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5:term-usage:1639-1645",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-5",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 1659,
-    "end_char": 1665
+    "start_char": 1639,
+    "end_char": 1645
   },
   {
     "schema_version": "0.1.0",
@@ -1999,39 +2035,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-8:term-usage:906-913",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-8:term-usage:879-886",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-8",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 906,
-    "end_char": 913
+    "start_char": 879,
+    "end_char": 886
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:354-361",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:347-354",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 354,
-    "end_char": 361
+    "start_char": 347,
+    "end_char": 354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:387-395",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:380-388",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 387,
-    "end_char": 395
+    "start_char": 380,
+    "end_char": 388
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:485-492",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10:term-usage:478-485",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-10",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 485,
-    "end_char": 492
+    "start_char": 478,
+    "end_char": 485
   },
   {
     "schema_version": "0.1.0",
@@ -2044,21 +2080,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-12:term-usage:262-270",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-12:term-usage:255-263",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-12",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 262,
-    "end_char": 270
+    "start_char": 255,
+    "end_char": 263
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-14:term-usage:151-173",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-14:term-usage:144-166",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-14",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:valor-de-certificacion",
     "span": "Valor de certificación",
-    "start_char": 151,
-    "end_char": 173
+    "start_char": 144,
+    "end_char": 166
   },
   {
     "schema_version": "0.1.0",
@@ -2449,48 +2485,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:493-501",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:474-482",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 493,
-    "end_char": 501
+    "start_char": 474,
+    "end_char": 482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:560-566",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:541-547",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 560,
-    "end_char": 566
+    "start_char": 541,
+    "end_char": 547
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:1003-1011",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:978-986",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1003,
-    "end_char": 1011
+    "start_char": 978,
+    "end_char": 986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:1082-1088",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42:term-usage:1057-1063",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-42",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:lgoaac",
     "span": "LGOAAC",
-    "start_char": 1082,
-    "end_char": 1088
+    "start_char": 1057,
+    "end_char": 1063
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-43:term-usage:1234-1242",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-43:term-usage:1213-1221",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:59-bis-43",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1234,
-    "end_char": 1242
+    "start_char": 1213,
+    "end_char": 1221
   },
   {
     "schema_version": "0.1.0",
@@ -3844,12 +3880,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76:term-usage:2714-2722",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76:term-usage:2708-2716",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:76",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 2714,
-    "end_char": 2722
+    "start_char": 2708,
+    "end_char": 2716
   },
   {
     "schema_version": "0.1.0",
@@ -4069,6 +4105,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-4:term-usage:228-262",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "span": "Administración Integral de Riesgos",
+    "start_char": 228,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-4:term-usage:268-275",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-4",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
@@ -4111,6 +4156,15 @@
     "span": "Actividad Crediticia",
     "start_char": 1155,
     "end_char": 1175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-6:term-usage:284-318",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "span": "Administración Integral de Riesgos",
+    "start_char": 284,
+    "end_char": 318
   },
   {
     "schema_version": "0.1.0",
@@ -4330,6 +4384,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-11:term-usage:11476-11510",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "span": "Administración Integral de Riesgos",
+    "start_char": 11476,
+    "end_char": 11510
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-11:term-usage:12036-12049",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-11",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:independencia",
@@ -4447,6 +4510,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-22:term-usage:102-136",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-22",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "span": "Administración Integral de Riesgos",
+    "start_char": 102,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-23:term-usage:354-363",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-23",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:descuento",
@@ -4480,6 +4552,15 @@
     "span": "UDIs",
     "start_char": 483,
     "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-27:term-usage:297-331",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-27",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:administracion-integral-de-riesgos",
+    "span": "Administración Integral de Riesgos",
+    "start_char": 297,
+    "end_char": 331
   },
   {
     "schema_version": "0.1.0",
@@ -4618,30 +4699,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:447-451",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:441-445",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:udis",
     "span": "UDIs",
-    "start_char": 447,
-    "end_char": 451
+    "start_char": 441,
+    "end_char": 445
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:642-646",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:636-640",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:udis",
     "span": "UDIs",
-    "start_char": 642,
-    "end_char": 646
+    "start_char": 636,
+    "end_char": 640
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:697-701",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36:term-usage:691-695",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:86-bis-36",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:udis",
     "span": "UDIs",
-    "start_char": 697,
-    "end_char": 701
+    "start_char": 691,
+    "end_char": 695
   },
   {
     "schema_version": "0.1.0",
@@ -4978,129 +5059,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:734-748",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:222-236",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 734,
-    "end_char": 748
+    "start_char": 222,
+    "end_char": 236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:771-786",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:253-268",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamientos",
-    "start_char": 771,
-    "end_char": 786
+    "start_char": 253,
+    "end_char": 268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:891-903",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:373-385",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:riesgo-comun",
     "span": "Riesgo Común",
-    "start_char": 891,
-    "end_char": 903
+    "start_char": 373,
+    "end_char": 385
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:1983-1986",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:1465-1468",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 1983,
-    "end_char": 1986
+    "start_char": 1465,
+    "end_char": 1468
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:2051-2066",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:1521-1536",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamientos",
-    "start_char": 2051,
-    "end_char": 2066
+    "start_char": 1521,
+    "end_char": 1536
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:2566-2580",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2036-2050",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 2566,
-    "end_char": 2580
+    "start_char": 2036,
+    "end_char": 2050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:2618-2632",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2088-2102",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 2618,
-    "end_char": 2632
+    "start_char": 2088,
+    "end_char": 2102
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3018-3032",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2482-2496",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3018,
-    "end_char": 3032
+    "start_char": 2482,
+    "end_char": 2496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3070-3084",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2534-2548",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3070,
-    "end_char": 3084
+    "start_char": 2534,
+    "end_char": 2548
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3176-3190",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2634-2648",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3176,
-    "end_char": 3190
+    "start_char": 2634,
+    "end_char": 2648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3337-3351",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2795-2809",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3337,
-    "end_char": 3351
+    "start_char": 2795,
+    "end_char": 2809
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3488-3502",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:2946-2960",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3488,
-    "end_char": 3502
+    "start_char": 2946,
+    "end_char": 2960
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:3606-3620",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:3058-3072",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 3606,
-    "end_char": 3620
+    "start_char": 3058,
+    "end_char": 3072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105:term-usage:4497-4500",
-    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis:term-usage:3943-3946",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 4497,
-    "end_char": 4500
+    "start_char": 3943,
+    "end_char": 3946
   },
   {
     "schema_version": "0.1.0",
@@ -5131,66 +5212,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:870-882",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:864-876",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:riesgo-comun",
     "span": "Riesgo Común",
-    "start_char": 870,
-    "end_char": 882
+    "start_char": 864,
+    "end_char": 876
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1010-1013",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1004-1007",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 1010,
-    "end_char": 1013
+    "start_char": 1004,
+    "end_char": 1007
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1132-1140",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1126-1134",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1132,
-    "end_char": 1140
+    "start_char": 1126,
+    "end_char": 1134
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1391-1405",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1379-1393",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 1391,
-    "end_char": 1405
+    "start_char": 1379,
+    "end_char": 1393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1863-1871",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:1845-1853",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1863,
-    "end_char": 1871
+    "start_char": 1845,
+    "end_char": 1853
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:2586-2600",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:2562-2576",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 2586,
-    "end_char": 2600
+    "start_char": 2562,
+    "end_char": 2576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:2644-2658",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1:term-usage:2620-2634",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:financiamiento",
     "span": "Financiamiento",
-    "start_char": 2644,
-    "end_char": 2658
+    "start_char": 2620,
+    "end_char": 2634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:106:term-usage:67-93",
+    "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
+    "span": "Sistema de Control Interno",
+    "start_char": 67,
+    "end_char": 93
   },
   {
     "schema_version": "0.1.0",
@@ -5284,48 +5374,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1125-1144",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1118-1137",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 1125,
-    "end_char": 1144
+    "start_char": 1118,
+    "end_char": 1137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1245-1271",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1238-1264",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 1245,
-    "end_char": 1271
+    "start_char": 1238,
+    "end_char": 1264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1350-1369",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1343-1362",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 1350,
-    "end_char": 1369
+    "start_char": 1343,
+    "end_char": 1362
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1650-1657",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1643-1650",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 1650,
-    "end_char": 1657
+    "start_char": 1643,
+    "end_char": 1650
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1713-1732",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108:term-usage:1706-1725",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:108",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 1713,
-    "end_char": 1732
+    "start_char": 1706,
+    "end_char": 1725
   },
   {
     "schema_version": "0.1.0",
@@ -5401,21 +5491,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111:term-usage:208-215",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111:term-usage:201-208",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 208,
-    "end_char": 215
+    "start_char": 201,
+    "end_char": 208
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111:term-usage:464-471",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111:term-usage:457-464",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:111",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 464,
-    "end_char": 471
+    "start_char": 457,
+    "end_char": 464
   },
   {
     "schema_version": "0.1.0",
@@ -6067,102 +6157,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:354-380",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:348-374",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 354,
-    "end_char": 380
+    "start_char": 348,
+    "end_char": 374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2062-2079",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2056-2073",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:auditoria-interna",
     "span": "Auditoría Interna",
-    "start_char": 2062,
-    "end_char": 2079
+    "start_char": 2056,
+    "end_char": 2073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2208-2215",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2202-2209",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 2208,
-    "end_char": 2215
+    "start_char": 2202,
+    "end_char": 2209
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2236-2249",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2230-2243",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:independencia",
     "span": "Independencia",
-    "start_char": 2236,
-    "end_char": 2249
+    "start_char": 2230,
+    "end_char": 2243
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2439-2458",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2433-2452",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 2439,
-    "end_char": 2458
+    "start_char": 2433,
+    "end_char": 2452
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2788-2807",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2782-2801",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 2788,
-    "end_char": 2807
+    "start_char": 2782,
+    "end_char": 2801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2901-2920",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:2895-2914",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 2901,
-    "end_char": 2920
+    "start_char": 2895,
+    "end_char": 2914
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3051-3070",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3045-3064",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 3051,
-    "end_char": 3070
+    "start_char": 3045,
+    "end_char": 3064
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3152-3171",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3146-3165",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:contraloria-interna",
     "span": "Contraloría Interna",
-    "start_char": 3152,
-    "end_char": 3171
+    "start_char": 3146,
+    "end_char": 3165
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3408-3416",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3402-3410",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 3408,
-    "end_char": 3416
+    "start_char": 3402,
+    "end_char": 3410
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3585-3593",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122:term-usage:3579-3587",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:122",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 3585,
-    "end_char": 3593
+    "start_char": 3579,
+    "end_char": 3587
   },
   {
     "schema_version": "0.1.0",
@@ -6517,39 +6607,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12114-12121",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12108-12115",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 12114,
-    "end_char": 12121
+    "start_char": 12108,
+    "end_char": 12115
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12382-12389",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12376-12383",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 12382,
-    "end_char": 12389
+    "start_char": 12376,
+    "end_char": 12383
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12395-12414",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12389-12408",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
     "span": "Comité de Auditoría",
-    "start_char": 12395,
-    "end_char": 12414
+    "start_char": 12389,
+    "end_char": 12408
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12525-12551",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125:term-usage:12519-12545",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:125",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
     "span": "Sistema de Control Interno",
-    "start_char": 12525,
-    "end_char": 12551
+    "start_char": 12519,
+    "end_char": 12545
   },
   {
     "schema_version": "0.1.0",
@@ -6715,12 +6805,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:131:term-usage:123-130",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:131:term-usage:116-123",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:131",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 123,
-    "end_char": 130
+    "start_char": 116,
+    "end_char": 123
   },
   {
     "schema_version": "0.1.0",
@@ -7156,21 +7246,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1:term-usage:585-588",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1:term-usage:579-582",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:luc",
     "span": "LUC",
-    "start_char": 585,
-    "end_char": 588
+    "start_char": 579,
+    "end_char": 582
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1:term-usage:1681-1708",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1:term-usage:1639-1666",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 1681,
-    "end_char": 1708
+    "start_char": 1639,
+    "end_char": 1666
   },
   {
     "schema_version": "0.1.0",
@@ -7264,120 +7354,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:1707-1714",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:1700-1707",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 1707,
-    "end_char": 1714
+    "start_char": 1700,
+    "end_char": 1707
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:1864-1885",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:1857-1878",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 1864,
-    "end_char": 1885
+    "start_char": 1857,
+    "end_char": 1878
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2054-2075",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2047-2068",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 2054,
-    "end_char": 2075
+    "start_char": 2047,
+    "end_char": 2068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2190-2211",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2183-2204",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios",
     "span": "Empresas de Servicios",
-    "start_char": 2190,
-    "end_char": 2211
+    "start_char": 2183,
+    "end_char": 2204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2485-2506",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2478-2499",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 2485,
-    "end_char": 2506
+    "start_char": 2478,
+    "end_char": 2499
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2797-2818",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:2790-2811",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 2797,
-    "end_char": 2818
+    "start_char": 2790,
+    "end_char": 2811
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3057-3078",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3050-3071",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 3057,
-    "end_char": 3078
+    "start_char": 3050,
+    "end_char": 3071
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3274-3295",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3267-3288",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sociedades-inmobiliarias",
     "span": "Sociedad Inmobiliaria",
-    "start_char": 3274,
-    "end_char": 3295
+    "start_char": 3267,
+    "end_char": 3288
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3371-3392",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3364-3385",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios",
     "span": "Empresas de Servicios",
-    "start_char": 3371,
-    "end_char": 3392
+    "start_char": 3364,
+    "end_char": 3385
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3546-3573",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3539-3566",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 3546,
-    "end_char": 3573
+    "start_char": 3539,
+    "end_char": 3566
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3790-3817",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:3783-3810",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 3790,
-    "end_char": 3817
+    "start_char": 3783,
+    "end_char": 3810
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:4473-4500",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:4466-4493",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:infraestructura-tecnologica",
     "span": "Infraestructura Tecnológica",
-    "start_char": 4473,
-    "end_char": 4500
+    "start_char": 4466,
+    "end_char": 4493
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:5072-5093",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2:term-usage:5065-5086",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:138-bis-2",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:empresas-de-servicios",
     "span": "Empresas de Servicios",
-    "start_char": 5072,
-    "end_char": 5093
+    "start_char": 5065,
+    "end_char": 5086
   },
   {
     "schema_version": "0.1.0",
@@ -7750,39 +7840,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:781-789",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:774-782",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 781,
-    "end_char": 789
+    "start_char": 774,
+    "end_char": 782
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:3543-3550",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:3536-3543",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "span": "Consejo",
-    "start_char": 3543,
-    "end_char": 3550
+    "start_char": 3536,
+    "end_char": 3543
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:4300-4308",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:4293-4301",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 4300,
-    "end_char": 4308
+    "start_char": 4293,
+    "end_char": 4301
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:4715-4723",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis:term-usage:4701-4709",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 4715,
-    "end_char": 4723
+    "start_char": 4701,
+    "end_char": 4709
   },
   {
     "schema_version": "0.1.0",
@@ -7795,39 +7885,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:515-523",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:502-510",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 515,
-    "end_char": 523
+    "start_char": 502,
+    "end_char": 510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:1624-1632",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:1581-1589",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1624,
-    "end_char": 1632
+    "start_char": 1581,
+    "end_char": 1589
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:1886-1894",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:1836-1844",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 1886,
-    "end_char": 1894
+    "start_char": 1836,
+    "end_char": 1844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:2418-2426",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1:term-usage:2361-2369",
     "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comision",
     "span": "Comisión",
-    "start_char": 2418,
-    "end_char": 2426
+    "start_char": 2361,
+    "end_char": 2369
   },
   {
     "schema_version": "0.1.0",

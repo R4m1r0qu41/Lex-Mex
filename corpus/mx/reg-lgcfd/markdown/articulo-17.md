@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LGCFD — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -33,7 +33,9 @@ VI. Participar en la o las Comisiones de Trabajo de que formen parte o que les s
 
 VII. Realizar las actividades que el Consejo Directivo o las Comisiones de Trabajo les encomienden;
 
-VIII. Cumplir y hacer cumplir dentro de su ámbito de competencia la Ley, este Reglamento, el Programa, así como los acuerdos emanados de las sesiones del Pleno y del Consejo Directivo y demás disposiciones aplicables; IX. Ejecutar las políticas que tengan por objeto el fomento, la promoción y el estímulo del desarrollo de la Cultura Física y Deporte en el ámbito de su competencia;
+VIII. Cumplir y hacer cumplir dentro de su ámbito de competencia la Ley, este Reglamento, el Programa, así como los acuerdos emanados de las sesiones del Pleno y del Consejo Directivo y demás disposiciones aplicables;
+
+IX. Ejecutar las políticas que tengan por objeto el fomento, la promoción y el estímulo del desarrollo de la Cultura Física y Deporte en el ámbito de su competencia;
 
 X. Impulsar las acciones y procedimientos para la mejor coordinación en materia de Cultura Física y Deporte entre sus integrantes;
 

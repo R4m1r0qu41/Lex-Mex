@@ -7,8 +7,8 @@ provision_type: article
 number: "6o"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 6o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -47,7 +47,9 @@ A) A un paciente a solicitud del médico tratante o del establecimiento hospital
 
 B) Atendiendo a un llamado general y sin tener en cuenta a qué persona pueda destinarse, o bien sea utilizada para la obtención de componentes y derivados de la sangre;
 
-XIII.- Embrión: El producto de la concepción hasta la décimo tercera semana de gestación; XIV.- Feto: El producto de la concepción a partir de la décimo tercera semana de gestación, hasta su expulsión del seno materno;
+XIII.- Embrión: El producto de la concepción hasta la décimo tercera semana de gestación;
+
+XIV.- Feto: El producto de la concepción a partir de la décimo tercera semana de gestación, hasta su expulsión del seno materno;
 
 XV.- Obtención de sangre: Actividades relativas a la extracción de sangre humana;
 

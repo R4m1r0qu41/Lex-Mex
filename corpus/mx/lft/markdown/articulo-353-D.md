@@ -21,7 +21,9 @@ Son obligaciones especiales del Médico Residente, las siguientes:
 
 I. Cumplir la etapa de instrucción académica y el adiestramiento, de acuerdo con el programa docente académico que esté vigente en la Unidad Médica Receptora de Residentes;
 
-II. Acatar las órdenes de las personas designadas para impartir el adiestramiento o para dirigir el desarrollo del trabajo, en lo concerniente a aquél y a éste; III. Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
+II. Acatar las órdenes de las personas designadas para impartir el adiestramiento o para dirigir el desarrollo del trabajo, en lo concerniente a aquél y a éste;
+
+III. Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
 
 IV. Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
 

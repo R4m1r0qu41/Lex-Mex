@@ -19,12 +19,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:2:term-usage:1693-1709",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:2:term-usage:1694-1710",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:acuerdo-de-paris",
     "span": "Acuerdo de París",
-    "start_char": 1693,
-    "end_char": 1709
+    "start_char": 1694,
+    "end_char": 1710
   },
   {
     "schema_version": "0.1.0",
@@ -46,48 +46,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:1759-1769",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:1760-1770",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
     "span": "Convención",
-    "start_char": 1759,
-    "end_char": 1769
+    "start_char": 1760,
+    "end_char": 1770
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:2489-2505",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:2490-2506",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:acuerdo-de-paris",
     "span": "Acuerdo de París",
-    "start_char": 2489,
-    "end_char": 2505
+    "start_char": 2490,
+    "end_char": 2506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:2612-2622",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:2613-2623",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
     "span": "Convención",
-    "start_char": 2612,
-    "end_char": 2622
+    "start_char": 2613,
+    "end_char": 2623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:5787-5805",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:5789-5807",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:protocolo-de-kioto",
     "span": "Protocolo de Kioto",
-    "start_char": 5787,
-    "end_char": 5805
+    "start_char": 5789,
+    "end_char": 5807
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:6649-6659",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:6651-6661",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
     "span": "Convención",
-    "start_char": 6649,
-    "end_char": 6659
+    "start_char": 6651,
+    "end_char": 6661
   },
   {
     "schema_version": "0.1.0",
@@ -307,39 +307,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:1681-1700",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:1682-1701",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 1681,
-    "end_char": 1700
+    "start_char": 1682,
+    "end_char": 1701
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:1913-1918",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:1914-1919",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inecc",
     "span": "INECC",
-    "start_char": 1913,
-    "end_char": 1918
+    "start_char": 1914,
+    "end_char": 1919
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:2032-2042",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:2033-2043",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inventario",
     "span": "Inventario",
-    "start_char": 2032,
-    "end_char": 2042
+    "start_char": 2033,
+    "end_char": 2043
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:2055-2064",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:9:term-usage:2056-2065",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
     "span": "Emisiones",
-    "start_char": 2055,
-    "end_char": 2064
+    "start_char": 2056,
+    "end_char": 2065
   },
   {
     "schema_version": "0.1.0",
@@ -370,30 +370,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1422-1425",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1423-1426",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
     "span": "Ley",
-    "start_char": 1422,
-    "end_char": 1425
+    "start_char": 1423,
+    "end_char": 1426
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1474-1493",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1475-1494",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 1474,
-    "end_char": 1493
+    "start_char": 1475,
+    "end_char": 1494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1498-1506",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:15:term-usage:1499-1507",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:programa",
     "span": "Programa",
-    "start_char": 1498,
-    "end_char": 1506
+    "start_char": 1499,
+    "end_char": 1507
   },
   {
     "schema_version": "0.1.0",
@@ -514,66 +514,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2133-2141",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2134-2142",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 2133,
-    "end_char": 2141
+    "start_char": 2134,
+    "end_char": 2142
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2166-2185",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2167-2186",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 2166,
-    "end_char": 2185
+    "start_char": 2167,
+    "end_char": 2186
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2192-2200",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2193-2201",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:programa",
     "span": "Programa",
-    "start_char": 2192,
-    "end_char": 2200
+    "start_char": 2193,
+    "end_char": 2201
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2246-2256",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:2247-2257",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inventario",
     "span": "Inventario",
-    "start_char": 2246,
-    "end_char": 2256
+    "start_char": 2247,
+    "end_char": 2257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:3449-3459",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:3450-3460",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3449,
-    "end_char": 3459
+    "start_char": 3450,
+    "end_char": 3460
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6079-6084",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6081-6086",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:inecc",
     "span": "INECC",
-    "start_char": 6079,
-    "end_char": 6084
+    "start_char": 6081,
+    "end_char": 6086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6718-6770",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6720-6772",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
     "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
-    "start_char": 6718,
-    "end_char": 6770
+    "start_char": 6720,
+    "end_char": 6772
   },
   {
     "schema_version": "0.1.0",
@@ -622,12 +622,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:26:term-usage:2891-2894",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:26:term-usage:2892-2895",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
     "span": "Ley",
-    "start_char": 2891,
-    "end_char": 2894
+    "start_char": 2892,
+    "end_char": 2895
   },
   {
     "schema_version": "0.1.0",
@@ -667,21 +667,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1103-1155",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1104-1156",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
     "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
-    "start_char": 1103,
-    "end_char": 1155
+    "start_char": 1104,
+    "end_char": 1156
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1295-1347",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1296-1348",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:29",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
     "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
-    "start_char": 1295,
-    "end_char": 1347
+    "start_char": 1296,
+    "end_char": 1348
   },
   {
     "schema_version": "0.1.0",
@@ -703,12 +703,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:3704-3723",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:3705-3724",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 3704,
-    "end_char": 3723
+    "start_char": 3705,
+    "end_char": 3724
   },
   {
     "schema_version": "0.1.0",
@@ -1000,48 +1000,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:2222-2225",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:2223-2226",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
     "span": "Ley",
-    "start_char": 2222,
-    "end_char": 2225
+    "start_char": 2223,
+    "end_char": 2226
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:2971-2981",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:2972-2982",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2971,
-    "end_char": 2981
+    "start_char": 2972,
+    "end_char": 2982
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:2999-3006",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:3000-3007",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:consejo",
     "span": "Consejo",
-    "start_char": 2999,
-    "end_char": 3006
+    "start_char": 3000,
+    "end_char": 3007
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:3030-3049",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:3031-3050",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 3030,
-    "end_char": 3049
+    "start_char": 3031,
+    "end_char": 3050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:3182-3185",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:term-usage:3183-3186",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
     "span": "Ley",
-    "start_char": 3182,
-    "end_char": 3185
+    "start_char": 3183,
+    "end_char": 3186
   },
   {
     "schema_version": "0.1.0",
@@ -1054,12 +1054,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:48:term-usage:1431-1439",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:48:term-usage:1432-1440",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:48",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 1431,
-    "end_char": 1439
+    "start_char": 1432,
+    "end_char": 1440
   },
   {
     "schema_version": "0.1.0",
@@ -1522,12 +1522,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:64:term-usage:1834-1842",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:64:term-usage:1835-1843",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:64",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 1834,
-    "end_char": 1842
+    "start_char": 1835,
+    "end_char": 1843
   },
   {
     "schema_version": "0.1.0",
@@ -1621,12 +1621,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:67:term-usage:1780-1788",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:67:term-usage:1781-1789",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:67",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 1780,
-    "end_char": 1788
+    "start_char": 1781,
+    "end_char": 1789
   },
   {
     "schema_version": "0.1.0",
@@ -1891,57 +1891,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:1117-1136",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:1118-1137",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 1117,
-    "end_char": 1136
+    "start_char": 1118,
+    "end_char": 1137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:1141-1149",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:1142-1150",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:programa",
     "span": "Programa",
-    "start_char": 1141,
-    "end_char": 1149
+    "start_char": 1142,
+    "end_char": 1150
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2018-2037",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2019-2038",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:estrategia-nacional",
     "span": "Estrategia Nacional",
-    "start_char": 2018,
-    "end_char": 2037
+    "start_char": 2019,
+    "end_char": 2038
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2042-2050",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2043-2051",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:programa",
     "span": "Programa",
-    "start_char": 2042,
-    "end_char": 2050
+    "start_char": 2043,
+    "end_char": 2051
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2151-2159",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2152-2160",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
     "span": "Registro",
-    "start_char": 2151,
-    "end_char": 2159
+    "start_char": 2152,
+    "end_char": 2160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2468-2478",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2469-2479",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:adaptacion",
     "span": "Adaptación",
-    "start_char": 2468,
-    "end_char": 2478
+    "start_char": 2469,
+    "end_char": 2479
   },
   {
     "schema_version": "0.1.0",
@@ -2197,21 +2197,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:101:term-usage:1126-1134",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:101:term-usage:1127-1135",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:101",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 1126,
-    "end_char": 1134
+    "start_char": 1127,
+    "end_char": 1135
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:102:term-usage:2486-2494",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:102:term-usage:2487-2495",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:102",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:comision",
     "span": "Comisión",
-    "start_char": 2486,
-    "end_char": 2494
+    "start_char": 2487,
+    "end_char": 2495
   },
   {
     "schema_version": "0.1.0",

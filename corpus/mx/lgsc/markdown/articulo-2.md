@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LGSC — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf
 source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 ---

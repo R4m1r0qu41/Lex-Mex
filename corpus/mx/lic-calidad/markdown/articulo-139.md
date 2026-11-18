@@ -23,7 +23,9 @@ I. Los actos de [Verificación](articulo-4.md) de los bienes, productos, proceso
 
 II. Los actos de [Vigilancia](articulo-4.md);
 
-III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las [Normas Oficiales Mexicanas](articulo-4.md) y, en su caso, los [Estándares](articulo-4.md); IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
+III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las [Normas Oficiales Mexicanas](articulo-4.md) y, en su caso, los [Estándares](articulo-4.md);
+
+IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
 
 V. La protección a los derechos de los consumidores, y
 

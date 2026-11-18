@@ -21,7 +21,9 @@ I.- Las operaciones a que se refiere el presente artículo se podrán realizar r
 
 II.- Establecer criterios de prelación de zonas geográficas con altos índices de marginación, baja disponibilidad de vivienda, entre otras, y priorizando la atención de las personas trabajadoras derechohabientes que no tengan vivienda propia y de menor nivel salarial;
 
-III.- El saldo de la subcuenta de vivienda de la persona trabajadora funcionará como garantía de cumplimiento de pago. En los contratos se señalarán los procedimientos para la ejecución de dichas garantías mediante retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate; IV.- En términos de la legislación aplicable y en estricto apego a los derechos humanos, los modelos de contratos que establezca el Instituto para celebrar en instrumento privado el arrendamiento social de las viviendas a que se refiere este artículo deberán contener, al menos, las siguientes cláusulas:
+III.- El saldo de la subcuenta de vivienda de la persona trabajadora funcionará como garantía de cumplimiento de pago. En los contratos se señalarán los procedimientos para la ejecución de dichas garantías mediante retiros anticipados del saldo de la subcuenta de vivienda que corresponda para cubrir el monto de los incumplimientos de que se trate;
+
+IV.- En términos de la legislación aplicable y en estricto apego a los derechos humanos, los modelos de contratos que establezca el Instituto para celebrar en instrumento privado el arrendamiento social de las viviendas a que se refiere este artículo deberán contener, al menos, las siguientes cláusulas:
 
 a) Sin perjuicio de la vigencia que se establezca, deberán pactarse esquemas de renovación con base en el cumplimiento oportuno de las obligaciones de la persona trabajadora derechohabiente;
 

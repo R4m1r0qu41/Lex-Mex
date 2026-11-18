@@ -19,7 +19,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 El Ejecutivo Federal, por conducto de la Secretaría, podrá suspender, diferir o determinar reducciones a las ministraciones de recursos a las dependencias y entidades y, en su caso, solicitar el reintegro de las mismas cuando se presente alguno de los siguientes supuestos:
 
-I. No envíen en tiempo y forma la información que les sea requerida en relación con el ejercicio de sus programas y presupuestos; II. Cuando las entidades no cumplan con las metas de los programas aprobados o bien se detecten desviaciones en la ejecución o en la aplicación de los recursos correspondientes;
+I. No envíen en tiempo y forma la información que les sea requerida en relación con el ejercicio de sus programas y presupuestos;
+
+II. Cuando las entidades no cumplan con las metas de los programas aprobados o bien se detecten desviaciones en la ejecución o en la aplicación de los recursos correspondientes;
 
 III. Las entidades no remitan la cuenta comprobada a más tardar el día 15 del mes siguiente al del ejercicio de dichos recursos, no cumplan al cierre del ejercicio o término del plazo establecido con las metas de los programas aprobados, o bien se detecten desviaciones en la ejecución o aplicación de los recursos correspondientes, lo que motivará la inmediata suspensión de las subsecuentes ministraciones de recursos que por el mismo concepto se hubieren autorizado, así como el reintegro a la dependencia coordinadora de sector de los que se hayan suministrado;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGIPD — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
 source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 ---
@@ -21,7 +21,9 @@ Los principios que deberán observar las políticas públicas, son:
 
 I. La equidad;
 
-II. La justicia social; III. La igualdad de oportunidades;
+II. La justicia social;
+
+III. La igualdad de oportunidades;
 
 IV. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
 

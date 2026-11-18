@@ -23,7 +23,9 @@ I. La donación.
 
 II. Los tesoros.
 
-III. La adquisición por prescripción. IV. Los supuestos señalados en los artículos [125](articulo-125.md), [160](articulo-160.md) y [161](articulo-161.md) de esta Ley.
+III. La adquisición por prescripción.
+
+IV. Los supuestos señalados en los artículos [125](articulo-125.md), [160](articulo-160.md) y [161](articulo-161.md) de esta Ley.
 
 V. Las construcciones, instalaciones o mejoras permanentes en bienes inmuebles que, de conformidad con los contratos por los que se otorgó su uso o goce, queden a beneficio del propietario. El ingreso se entenderá que se obtiene al término del contrato y en el monto que a esa fecha tengan las inversiones conforme al avalúo que practique persona autorizada por las autoridades fiscales.
 

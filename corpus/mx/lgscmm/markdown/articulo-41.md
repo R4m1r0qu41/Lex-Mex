@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["LGSCMM — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf
 source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 ---
@@ -17,4 +17,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Artículo 41
 
-La Unidad del [Sistema](articulo-7.md) regulará el proceso de promoción que será público, transparente, equitativo e imparcial; para ello, emitirá los lineamientos a los que se sujetarán las autoridades educativas de las entidades federativas en el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica.
+La [Unidad del Sistema](articulo-7.md) regulará el proceso de promoción que será público, transparente, equitativo e imparcial; para ello, emitirá los lineamientos a los que se sujetarán las autoridades educativas de las entidades federativas en el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica.

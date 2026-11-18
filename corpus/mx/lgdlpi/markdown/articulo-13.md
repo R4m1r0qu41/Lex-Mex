@@ -7,8 +7,8 @@ provision_type: article
 number: "13"
 aliases: ["LGDLPI — Artículo 13"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf
 source_sha256: c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d
 ---
@@ -33,7 +33,9 @@ VI. Garantizar que los profesores que atiendan la educación básica bilingüe e
 
 VII. Impulsar políticas de investigación, difusión, estudios y documentación sobre las lenguas indígenas nacionales y sus expresiones literarias, así como, promover su enseñanza; Fracción reformada DOF 20-06-2018
 
-VIII. Crear bibliotecas, hemerotecas, centros culturales u otras instituciones depositarias que conserven los materiales lingüísticos en lenguas indígenas nacionales; IX. Procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas nacionales;
+VIII. Crear bibliotecas, hemerotecas, centros culturales u otras instituciones depositarias que conserven los materiales lingüísticos en lenguas indígenas nacionales;
+
+IX. Procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas nacionales;
 
 X. Apoyar a las instituciones públicas y privadas, así como a las organizaciones de la sociedad civil, legalmente constituidas, que realicen investigaciones etnolingüísticas, en todo lo relacionado al cumplimiento de los objetivos de esta Ley;
 

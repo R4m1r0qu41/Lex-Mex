@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["LPF — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf
 source_sha256: fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885
 ---

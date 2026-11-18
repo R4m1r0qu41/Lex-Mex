@@ -24,7 +24,7 @@ En el supuesto anterior, las menciones al comité de riesgos que se contienen en
 
 Tercer párrafo.- Derogado
 
-Lo previsto en el presente artículo será sin perjuicio de que las casas de bolsa referidas puedan ejercer las opciones previstas en los artículos [117 Bis 3](articulo-117-Bis-3.md), 117 Bis 5, [126](articulo-126.md), último párrafo, y [129](articulo-129.md), último párrafo de estas disposiciones.
+Lo previsto en el presente artículo será sin perjuicio de que las casas de bolsa referidas puedan ejercer las opciones previstas en los artículos [117 Bis 3](articulo-117-Bis-3.md), [117 Bis 5](articulo-117-Bis-5.md), [126](articulo-126.md), último párrafo, y [129](articulo-129.md), último párrafo de estas disposiciones.
 
 La [Comisión](articulo-1.md) podrá requerir a las casas de bolsa señaladas en el primer párrafo de este artículo, la conformación del comité de riesgos a que se refiere el Apartado A de la Sección Segunda del Capítulo Tercero del Título Quinto de las presentes disposiciones cuando, a su juicio, la administración integral de riesgos requiera de mayores controles, en virtud de los niveles de riesgo y la capacidad operativa de la casa de bolsa de que se trate. En este caso, las funciones de la administración integral de riesgos deberán efectuarse por los órganos previstos en el mencionado Capítulo Tercero del Título Quinto de estas disposiciones, según corresponda.
 

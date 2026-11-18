@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Quinto
@@ -19,7 +19,9 @@ source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 
 Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes: Párrafo reformado DOF 10-02-2014
 
-I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado. Párrafo reformado DOF 23-12-1999, 06-06-2019, 01-04-2025, 23-04-2026 Las Constituciones de los Estados deberán establecer la prohibición de la reelección consecutiva para el mismo cargo de presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio. Párrafo reformado DOF 10-02-2014, 01-04-2025
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado. Párrafo reformado DOF 23-12-1999, 06-06-2019, 01-04-2025, 23-04-2026
+
+Las Constituciones de los Estados deberán establecer la prohibición de la reelección consecutiva para el mismo cargo de presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio. Párrafo reformado DOF 10-02-2014, 01-04-2025
 
 Las Legislaturas locales, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la ley local prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacerlos (sic DOF 03-02-1983) alegatos que a su juicio convengan.
 
@@ -31,13 +33,13 @@ II. Los municipios estarán investidos de personalidad jurídica y manejarán su
 
 Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que deberán expedir las legislaturas de los Estados, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal. Párrafo reformado DOF 23-12-1999
 
-El objeto de las leyes a que se refiere el párrafo anterior será establecer:
-
-a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+El objeto de las leyes a que se refiere el párrafo anterior será establecer: a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
 b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV de este artículo, como el segundo párrafo de la fracción VII del artículo [116](articulo-116.md) de esta Constitución; d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV de este artículo, como el segundo párrafo de la fracción VII del artículo [116](articulo-116.md) de esta Constitución;
+
+d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
 
 e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes. Párrafo con incisos adicionado DOF 23-12-1999
 
@@ -87,7 +89,9 @@ Las legislaturas de los Estados aprobarán las leyes de ingresos de los municipi
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley; Párrafo adicionado DOF 23-12-1999
 
-V. Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para: a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial; Inciso reformado DOF 18-12-2020
+V. Los Municipios, en los términos de las leyes federales y Estatales relativas, estarán facultados para:
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial; Inciso reformado DOF 18-12-2020
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -113,7 +117,9 @@ VII. La policía preventiva estará al mando del presidente municipal en los té
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente; Fracción reformada DOF 23-12-1999
 
-VIII. Las leyes de los estados introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios. Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto en el Artículo [123](articulo-123.md) de esta Constitución, y sus disposiciones reglamentarias. Fracción reformada DOF 17-03-1987
+VIII. Las leyes de los estados introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
+
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto en el Artículo [123](articulo-123.md) de esta Constitución, y sus disposiciones reglamentarias. Fracción reformada DOF 17-03-1987
 
 IX. Derogada. Fracción derogada DOF 17-03-1987
 

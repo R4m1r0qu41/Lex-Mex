@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["REG-LFSP — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf
 source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 ---
@@ -21,7 +21,9 @@ El [Registro Nacional](articulo-2.md) contendrá las altas y bajas de los socios
 
 A efecto de inscribir al personal operativo ante el Registro Nacional del Personal de Seguridad Pública, los Prestadores de Servicios, además de llenar el formato de la cédula única de identificación personal debidamente requisitada, deberán exhibir los siguientes documentos:
 
-I. Comprobante de pago correspondiente, de conformidad con lo previsto por la Ley Federal de Derechos; II. Copia certificada del acta de nacimiento;
+I. Comprobante de pago correspondiente, de conformidad con lo previsto por la Ley Federal de Derechos;
+
+II. Copia certificada del acta de nacimiento;
 
 III. Comprobante de domicilio, con una antigüedad menor a tres meses a partir de la fecha de expedición;
 

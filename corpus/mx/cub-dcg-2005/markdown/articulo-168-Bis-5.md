@@ -11,20 +11,20 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [76]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título SEGUNDO · Capítulo VI
 
 # Artículo 168 Bis 5
 
-El Comité de Remuneración deberá ser un órgano capaz de ejercer un juicio independiente, cuyas decisiones se fundamenten en la evaluación de los riesgos asumidos por la institución de banca múltiple.
+El [Comité de Remuneración](articulo-1.md) deberá ser un órgano capaz de ejercer un juicio independiente, cuyas decisiones se fundamenten en la evaluación de los riesgos asumidos por la institución de banca múltiple.
 
 El Comité de Remuneración deberá integrarse de conformidad con lo siguiente:
 
 I. Cuando menos dos miembros propietarios del consejo de administración, de los cuales cuando menos uno deberá ser independiente, quien lo presidirá. Asimismo, al menos uno de los consejeros deberá ser una persona que por sus conocimientos y desarrollo, tenga amplia experiencia en administración de riesgos o control interno.
 
-II. El responsable de la unidad para la Administración Integral de Riesgos.
+II. El responsable de la unidad para la [Administración Integral de Riesgos](articulo-1.md).
 
 III. Un representante del área de recursos humanos.
 

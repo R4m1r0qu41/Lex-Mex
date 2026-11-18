@@ -23,7 +23,9 @@ I. Las sentencias de segunda instancia;
 
 II. Las que resuelvan una queja;
 
-III. Las que resuelven una competencia; IV. Las demás que se declaran irrevocables por prevención expresa de la Ley;
+III. Las que resuelven una competencia;
+
+IV. Las demás que se declaran irrevocables por prevención expresa de la Ley;
 
 V. Las que no puedan ser recurridas por ningún medio ordinario, y
 

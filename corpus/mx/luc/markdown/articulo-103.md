@@ -31,7 +31,9 @@ IV. Comerciar por cuenta propia o ajena sobre mercancías de cualquier género, 
 
 V. Participar en sociedades que no sean de responsabilidad limitada y explotar por su cuenta: minas, plantas metalúrgicas, fincas rústicas, y establecimientos mercantiles o industriales, salvo el caso a que se refiere el artículo [40](articulo-40.md), fracción XXVI de la presente Ley, o bien cuando los reciban en pago de créditos o en garantía de los ya concertados, casos en los cuales podrán continuar la explotación de ellos, previa autorización de la [Comisión](articulo-3.md), por un periodo que no exceda de dos años a partir de la fecha de su adquisición.
 
-En casos excepcionales, la Comisión podrá prorrogar ese plazo por una sola vez, por el período que a su juicio sea estrictamente necesario para el traspaso de los bienes de que se trate, sin que la prórroga exceda de dos años; VI. Adquirir derechos reales que no sean de garantía, muebles e inmuebles distintos a los permitidos para las uniones o en exceso de las proporciones señaladas en el artículo [49](articulo-49.md) de la presente Ley, excepto los que reciban en pago de créditos o por adjudicación.
+En casos excepcionales, la Comisión podrá prorrogar ese plazo por una sola vez, por el período que a su juicio sea estrictamente necesario para el traspaso de los bienes de que se trate, sin que la prórroga exceda de dos años;
+
+VI. Adquirir derechos reales que no sean de garantía, muebles e inmuebles distintos a los permitidos para las uniones o en exceso de las proporciones señaladas en el artículo [49](articulo-49.md) de la presente Ley, excepto los que reciban en pago de créditos o por adjudicación.
 
 Cuando los bienes y derechos a que se refiere el párrafo anterior, hubieren sido adquiridos en pago de deudas o por adjudicación en remate dentro de juicios relacionados con créditos a favor de la unión, deberán liquidarse, tratándose de bienes muebles, dentro del plazo de dos años a partir de su adquisición y en el caso de inmuebles, dentro de un plazo de cuatro años;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "100"
 aliases: ["LFGR — Artículo 100"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf
 source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 ---
@@ -17,7 +17,9 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 100
 
-El Consejo Ciudadano tendrá las siguientes facultades: I. Opinar, dar seguimiento y emitir recomendaciones públicas sobre el contenido e implementación del Plan Estratégico de Procuración de Justicia que presente la persona titular de la [Fiscalía General](articulo-9.md), así como los programas anuales de trabajo y su implementación;
+El Consejo Ciudadano tendrá las siguientes facultades:
+
+I. Opinar, dar seguimiento y emitir recomendaciones públicas sobre el contenido e implementación del Plan Estratégico de Procuración de Justicia que presente la persona titular de la [Fiscalía General](articulo-9.md), así como los programas anuales de trabajo y su implementación;
 
 II. Opinar sobre la creación de nuevas estructuras propuestas por la persona titular de la Fiscalía General;
 

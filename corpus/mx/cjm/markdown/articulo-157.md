@@ -21,7 +21,9 @@ Los delitos de imprudencia, cuando este Código no señale pena determinada, se 
 
 I. Con tres años de prisión cuando el delito, de ser intencional, tuviere señalada pena de treinta a sesenta años; Fracción reformada DOF 29-06-2005
 
-II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo; III.- con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y
+II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
+
+III.- con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y
 
 IV.- en cualquier otro caso con prisión de dieciséis días a dos años al arbitrio del juez, quien tomará en cuenta para la fijación de la pena, la mayor o menor facilidad de prever y evitar el daño causado; si bastaban para esto una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia; si los acusados han delinquido anteriormente en circunstancias semejantes, y si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 

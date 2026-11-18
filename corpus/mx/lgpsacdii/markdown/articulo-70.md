@@ -7,8 +7,8 @@ provision_type: article
 number: "70"
 aliases: ["LGPSACDII — Artículo 70"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf
 source_sha256: 14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854
 ---
@@ -25,4 +25,6 @@ II. No elaborar los alimentos ofrecidos a niñas y niños conforme al plan nutri
 
 III. Modificar la estructura del inmueble o la distribución de los espacios sin contar con los permisos de la autoridad competente;
 
-IV. Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad correspondiente, y V. Realizar por parte del personal de los [Centros de Atención](articulo-8.md), algún acto de discriminación contra cualquiera de sus integrantes.
+IV. Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad correspondiente, y
+
+V. Realizar por parte del personal de los [Centros de Atención](articulo-8.md), algún acto de discriminación contra cualquiera de sus integrantes.

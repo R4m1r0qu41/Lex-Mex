@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
     "fraction": "III",
     "start_char": 634,
-    "end_char": 1024,
+    "end_char": 1025,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
     "fraction": "IV",
-    "start_char": 1024,
-    "end_char": 1444,
+    "start_char": 1025,
+    "end_char": 1445,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
     "fraction": "V",
-    "start_char": 1444,
-    "end_char": 1791,
+    "start_char": 1445,
+    "end_char": 1792,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
     "fraction": "VI",
-    "start_char": 1791,
-    "end_char": 2166,
+    "start_char": 1792,
+    "end_char": 2167,
     "basis": "express_definition"
   }
 ]

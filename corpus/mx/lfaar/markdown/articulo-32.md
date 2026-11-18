@@ -25,7 +25,9 @@ II. El nombre del socio asegurado;
 
 III. La firma del representante del Fondo de Aseguramiento;
 
-IV. La designación de las personas o bienes asegurados; V. La naturaleza de los riesgos amparados por la cobertura;
+IV. La designación de las personas o bienes asegurados;
+
+V. La naturaleza de los riesgos amparados por la cobertura;
 
 VI. En su caso, el nombre y domicilio de los beneficiarios;
 

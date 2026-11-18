@@ -7,8 +7,8 @@ provision_type: article
 number: "36 Bis"
 aliases: ["LFDEFP — Artículo 36 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf
 source_sha256: 603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262
 ---
@@ -25,7 +25,9 @@ II. Aprobar los lineamientos para la selección, ingreso y promoción de los def
 
 III. Llevar a cabo el proceso de selección y oposición para el ingreso al servicio de carrera;
 
-IV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los defensores públicos y las y los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera; V. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
+IV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los defensores públicos y las y los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
+
+V. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
 
 VI. Aprobar y ejecutar el Plan Anual de Capacitación del Instituto Federal de Defensoría Pública, en los términos de esta Ley y demás disposiciones aplicables;
 

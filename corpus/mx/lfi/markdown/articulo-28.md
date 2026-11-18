@@ -29,7 +29,9 @@ IV. Los mecanismos de desinversión posibles de acuerdo a las características d
 
 V. Las prohibiciones que, en su caso, se hubieren previsto en el prospecto de información al público inversionista, a las que deberán sujetarse las Empresas Promovidas.
 
-VI. Las condiciones para la terminación anticipada o la rescisión del contrato de promoción, y VII. La forma y términos en que las Empresas Promovidas deberán proporcionar información al fondo de inversión de capitales, así como la obligación de las citadas Empresas Promovidas de proporcionar información que al efecto le solicite a esta última, el propio fondo de inversión o la [Comisión](articulo-2.md).
+VI. Las condiciones para la terminación anticipada o la rescisión del contrato de promoción, y
+
+VII. La forma y términos en que las Empresas Promovidas deberán proporcionar información al fondo de inversión de capitales, así como la obligación de las citadas Empresas Promovidas de proporcionar información que al efecto le solicite a esta última, el propio fondo de inversión o la [Comisión](articulo-2.md).
 
 La citada Comisión podrá objetar los términos y condiciones de los contratos de promoción en caso de que no reúnan los requisitos mínimos antes señalados, así como ordenar que se realicen las modificaciones que estime pertinentes.
 

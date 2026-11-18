@@ -39,7 +39,9 @@ VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los a
 
 IX. Forma o términos y porcentajes de garantizar la correcta inversión de los anticipos y el cumplimiento del contrato;
 
-X. Términos, condiciones y el procedimiento para la aplicación de penas convencionales, retenciones y/o descuentos; XI. Procedimiento de ajuste de costos que regirá durante la vigencia del contrato;
+X. Términos, condiciones y el procedimiento para la aplicación de penas convencionales, retenciones y/o descuentos;
+
+XI. Procedimiento de ajuste de costos que regirá durante la vigencia del contrato;
 
 XII. Términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo [55](articulo-55.md) de este ordenamiento;
 

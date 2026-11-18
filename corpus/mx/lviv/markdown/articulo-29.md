@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LVIV — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf
 source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 ---
@@ -25,7 +25,9 @@ II. Opinar sobre los presupuestos de las dependencias y entidades de la Administ
 
 III. Proponer los cambios estructurales necesarios en el sector vivienda, de conformidad con los análisis que se realicen en la materia, así como del marco regulatorio federal, de las entidades federativas y de los municipios;
 
-IV. Proponer criterios para la planeación y ejecución de las políticas y programas de vivienda en los ámbitos federal, regional, estatal y municipal; V. Proponer esquemas generales de organización para la eficaz atención, coordinación y vinculación de las actividades de vivienda en los diferentes sectores de la Administración Pública Federal, con las entidades federativas y los municipios, y con los diversos sectores productivos del país;
+IV. Proponer criterios para la planeación y ejecución de las políticas y programas de vivienda en los ámbitos federal, regional, estatal y municipal;
+
+V. Proponer esquemas generales de organización para la eficaz atención, coordinación y vinculación de las actividades de vivienda en los diferentes sectores de la Administración Pública Federal, con las entidades federativas y los municipios, y con los diversos sectores productivos del país;
 
 VI. Solicitar y recibir información de las distintas dependencias y entidades que realizan programas y acciones de vivienda;
 

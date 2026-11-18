@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["LGAHOTDU — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf
 source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 ---
@@ -23,7 +23,9 @@ La [Zonificación Primaria](articulo-3.md), con visión de mediano y largo plazo
 
 I. Las áreas que integran y delimitan los Centros de Población, previendo las secuencias y condicionantes del [Crecimiento](articulo-3.md) de la ciudad;
 
-II. Las áreas de valor ambiental y de alto riesgo no urbanizables, localizadas en los Centros de Población; III. La red de vialidades primarias que estructure la conectividad, la [Movilidad](articulo-3.md) y la accesibilidad universal, así como a los espacios públicos y equipamientos de mayor jerarquía;
+II. Las áreas de valor ambiental y de alto riesgo no urbanizables, localizadas en los Centros de Población;
+
+III. La red de vialidades primarias que estructure la conectividad, la [Movilidad](articulo-3.md) y la accesibilidad universal, así como a los espacios públicos y equipamientos de mayor jerarquía;
 
 IV. Las zonas de [Conservación](articulo-3.md), [Mejoramiento](articulo-3.md) y Crecimiento de los Centros de Población;
 

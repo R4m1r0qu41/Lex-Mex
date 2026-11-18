@@ -31,7 +31,9 @@ La facultad de la Comisión para imponer sanciones de carácter administrativo p
 
 El plazo de caducidad antes señalado se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado, a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia al probable infractor a que hace referencia la fracción I del artículo [84](articulo-84.md) de esta Ley.
 
-El plazo de cinco años previsto por este artículo se suspenderá: I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+El plazo de cinco años previsto por este artículo se suspenderá:
+
+I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 
 El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
 

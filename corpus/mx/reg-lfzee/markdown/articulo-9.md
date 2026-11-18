@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["REG-LFZEE — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
 source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 ---
@@ -37,7 +37,9 @@ VIII. La Secretaría de Comunicaciones y Transportes;
 
 IX. La Secretaría de la Función Pública;
 
-X. La Secretaría de Educación Pública; XI. La Secretaría de Salud;
+X. La Secretaría de Educación Pública;
+
+XI. La Secretaría de Salud;
 
 XII. La Secretaría del Trabajo y Previsión Social;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "25"
 aliases: ["REG-LSPEE-MA — Artículo 25"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf
 source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 ---
@@ -23,7 +23,9 @@ En el supuesto contemplado en el párrafo anterior, el suministrador estará obl
 
 I. Realizar, bajo la supervisión del suministrador, la obra específica o las instalaciones para la ampliación, conforme a las normas oficiales mexicanas aplicables o con las especificaciones técnicas del suministrador;
 
-II. Aplicar los criterios necesarios para el cumplimiento de los niveles de confiabilidad y estabilidad del sistema eléctrico nacional conforme a la planeación del mismo y para el cumplimiento de la seguridad de las obras e instalaciones; III. Acreditar ante el suministrador la celebración de los actos jurídicos y la previa obtención de las autorizaciones y permisos necesarios para la ejecución de la obra específica, o de las instalaciones para la ampliación;
+II. Aplicar los criterios necesarios para el cumplimiento de los niveles de confiabilidad y estabilidad del sistema eléctrico nacional conforme a la planeación del mismo y para el cumplimiento de la seguridad de las obras e instalaciones;
+
+III. Acreditar ante el suministrador la celebración de los actos jurídicos y la previa obtención de las autorizaciones y permisos necesarios para la ejecución de la obra específica, o de las instalaciones para la ampliación;
 
 IV. Que el suministrador podrá realizar, antes de la recepción de la obra específica o de las instalaciones para la ampliación, las pruebas necesarias para comprobar su correcta construcción y operación;
 

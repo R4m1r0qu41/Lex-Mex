@@ -7,8 +7,8 @@ provision_type: article
 number: "115 Bis 1"
 aliases: ["REG-LGS-MPSAM — Artículo 115 Bis 1"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---
@@ -23,7 +23,9 @@ I. Atención de la Urgencia Obstétrica: Los servicios de atención médica que 
 
 II. Contrarreferencia: El procedimiento técnico administrativo, a través del cual la Unidad Hospitalaria que haya brindado la [Atención de la Urgencia Obstétrica](articulo-115-Bis-1.md), envía a la paciente a un establecimiento de la institución de salud a la cual se encuentra afiliada, informando a dicho establecimiento las acciones realizadas, así como el diagnóstico, pronóstico y el tratamiento que se debe seguir, a fin de garantizar la continuidad e integralidad de la atención médica a la paciente;
 
-III. Referencia: El procedimiento técnico administrativo que permite la vinculación entre las instituciones de salud o entre establecimientos para la atención médica de una misma institución de salud, a fin de garantizar la continuidad e integralidad de la Atención de la Urgencia Obstétrica, mediante el envío de la paciente a una Unidad Hospitalaria de la misma u otra institución de salud, de acuerdo con los criterios y procedimientos que para tal efecto establezca la Secretaría; IV. Unidades Hospitalarias: Los establecimientos para la atención médica de las instituciones de salud, que cuentan con la capacidad, recursos e infraestructura necesarios para la Atención de las Urgencias Obstétricas;
+III. Referencia: El procedimiento técnico administrativo que permite la vinculación entre las instituciones de salud o entre establecimientos para la atención médica de una misma institución de salud, a fin de garantizar la continuidad e integralidad de la Atención de la Urgencia Obstétrica, mediante el envío de la paciente a una Unidad Hospitalaria de la misma u otra institución de salud, de acuerdo con los criterios y procedimientos que para tal efecto establezca la Secretaría;
+
+IV. Unidades Hospitalarias: Los establecimientos para la atención médica de las instituciones de salud, que cuentan con la capacidad, recursos e infraestructura necesarios para la Atención de las Urgencias Obstétricas;
 
 V. Unidad Médica Receptora: El establecimiento para la atención médica de cualquier institución de salud, al que acude una mujer que presenta una Urgencia Obstétrica, y
 

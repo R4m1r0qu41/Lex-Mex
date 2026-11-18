@@ -27,7 +27,9 @@ a) Aprobar cambios en el régimen de inversión del patrimonio fideicomitido.
 
 b) Determinar la remoción de la sociedad que administre el patrimonio del fideicomiso.
 
-c) Aprobar las operaciones que pretendan realizarse cuando representen el veinte por ciento o más del patrimonio del fideicomiso, con base en cifras correspondientes al cierre del trimestre inmediato anterior, considerando, en su caso, los compromisos de inversión de las llamadas de capital, con independencia de que dichas operaciones se ejecuten de manera simultánea o sucesiva en un periodo de doce meses contados a partir de que se concrete la primera operación, pero que pudieran considerarse como una sola. II. Los derechos de los tenedores de los certificados bursátiles fiduciarios de desarrollo o inmobiliarios siguientes:
+c) Aprobar las operaciones que pretendan realizarse cuando representen el veinte por ciento o más del patrimonio del fideicomiso, con base en cifras correspondientes al cierre del trimestre inmediato anterior, considerando, en su caso, los compromisos de inversión de las llamadas de capital, con independencia de que dichas operaciones se ejecuten de manera simultánea o sucesiva en un periodo de doce meses contados a partir de que se concrete la primera operación, pero que pudieran considerarse como una sola.
+
+II. Los derechos de los tenedores de los certificados bursátiles fiduciarios de desarrollo o inmobiliarios siguientes:
 
 a) Oponerse judicialmente a las resoluciones de las asambleas generales de tenedores, cuando en lo individual o en su conjunto representen el veinte por ciento o más del número de certificados bursátiles fiduciarios en circulación, y siempre que los reclamantes no hayan concurrido a la asamblea o hayan dado su voto en contra de la resolución y se presente la demanda correspondiente dentro de los quince días siguientes a la fecha de la adopción de las resoluciones, señalando en dicha demanda la disposición contractual incumplida o el precepto legal infringido y los conceptos de violación.
 
@@ -45,7 +47,9 @@ d) Solicitar al representante común que convoque a una asamblea general de tene
 
 e) Tener a su disposición de forma gratuita y con al menos diez días naturales de anticipación a la asamblea general de tenedores, en el domicilio que se indique en la convocatoria, la información y documentos relacionados con los puntos del orden del día.
 
-f) Celebrar convenios para el ejercicio del voto en las asambleas generales de tenedores. En todo caso, deberán notificarlos al fiduciario, incluyendo sus características, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por el propio fiduciario al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión. IV. El fideicomiso emisor deberá contar con un comité técnico integrado por lo menos con un veinticinco por ciento de miembros independientes.
+f) Celebrar convenios para el ejercicio del voto en las asambleas generales de tenedores. En todo caso, deberán notificarlos al fiduciario, incluyendo sus características, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por el propio fiduciario al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión.
+
+IV. El fideicomiso emisor deberá contar con un comité técnico integrado por lo menos con un veinticinco por ciento de miembros independientes.
 
 Por miembro independiente se entenderá aquella persona que se ajuste a lo previsto en los artículos [24](articulo-24.md), segundo párrafo y [26](articulo-26.md) de esta Ley. La independencia se calificará respecto del fideicomitente así como de la sociedad que administre el patrimonio del fideicomiso o a quien se encomienden dichas funciones.
 

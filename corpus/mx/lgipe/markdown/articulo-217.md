@@ -51,7 +51,9 @@ g) [Los ciudadanos acreditados como observadores electorales podrán solicitar, 
 
 h) En los contenidos de la capacitación que el Instituto imparta a los funcionarios de las mesas directivas de casilla, debe preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación;
 
-i) Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones e identificaciones en una o varias casillas, así como en el local de los Consejos correspondientes, pudiendo observar los siguientes actos: I. Instalación de la casilla;
+i) Los observadores electorales podrán presentarse el día de la jornada electoral con sus acreditaciones e identificaciones en una o varias casillas, así como en el local de los Consejos correspondientes, pudiendo observar los siguientes actos:
+
+I. Instalación de la casilla;
 
 II. Desarrollo de la votación;
 

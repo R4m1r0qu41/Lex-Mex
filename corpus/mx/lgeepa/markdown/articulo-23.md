@@ -25,7 +25,9 @@ II.- En la determinación de los usos del suelo, se buscará lograr una diversid
 
 III.- En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
 
-IV.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental; V.- Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
+IV.- Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
+
+V.- Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
 
 VI.- Las autoridades de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable; Fracción reformada DOF 19-01-2018
 

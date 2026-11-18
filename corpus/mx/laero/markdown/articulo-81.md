@@ -21,7 +21,9 @@ La [Agencia Federal de Aviación Civil](articulo-2.md) impondrá las sanciones q
 
 I. Incumplir con las condiciones de construcción, operación, certificación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023
 
-II. Construir u operar un aeródromo civil sin la concesión o permiso correspondiente, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018. Publicada íntegra sin cambios DOF 03-05-2023 III. Ceder los derechos y obligaciones de la concesión o permiso, en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023
+II. Construir u operar un aeródromo civil sin la concesión o permiso correspondiente, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018. Publicada íntegra sin cambios DOF 03-05-2023
+
+III. Ceder los derechos y obligaciones de la concesión o permiso, en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023
 
 IV. No hacer del conocimiento de la Agencia Federal de Aviación Civil los accidentes o incidentes ocurridos en los aeródromos, relativos a la seguridad de sus operaciones, salvo causa de fuerza mayor, con multa de mil a cincuenta mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023
 

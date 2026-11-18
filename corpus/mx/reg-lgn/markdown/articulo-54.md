@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 Los titulares de las Coordinaciones Territoriales tienen las facultades siguientes:
 
-I. Mantener oportuna e integralmente informado al [Comandante](articulo-2.md) de la situación de la seguridad pública en las entidades federativas de su circunscripción, a través de un diagnóstico permanente; II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que alude el artículo [9](../../lgn/markdown/articulo-9.md), fracción II de la [Ley](articulo-2.md) que se encuentren en su territorio;
+I. Mantener oportuna e integralmente informado al [Comandante](articulo-2.md) de la situación de la seguridad pública en las entidades federativas de su circunscripción, a través de un diagnóstico permanente;
+
+II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que alude el artículo [9](../../lgn/markdown/articulo-9.md), fracción II de la [Ley](articulo-2.md) que se encuentren en su territorio;
 
 III. Establecer los sistemas de información que se requieran para apoyar las tareas y actividades de las Coordinaciones Estatales;
 
@@ -47,7 +49,9 @@ XIV. Supervisar que se proporcione el apoyo logístico y de servicios adecuado p
 
 XV. Transitar dentro de su territorio informando al Comandante y, en caso de requerir salir de ella, solicitar la autorización correspondiente;
 
-XVI. Aplicar las directivas para conservar completos los efectivos de las unidades de la Institución a sus órdenes, con la finalidad de mantener sus capacidades operativa y administrativa; XVII. Dar curso a las solicitudes de licencias ordinarias e ilimitadas del personal bajo su mando de conformidad con las disposiciones jurídicas aplicables;
+XVI. Aplicar las directivas para conservar completos los efectivos de las unidades de la Institución a sus órdenes, con la finalidad de mantener sus capacidades operativa y administrativa;
+
+XVII. Dar curso a las solicitudes de licencias ordinarias e ilimitadas del personal bajo su mando de conformidad con las disposiciones jurídicas aplicables;
 
 XVIII. Autorizar las vacaciones del personal bajo su mando conforme a las disposiciones jurídicas aplicables;
 

@@ -25,6 +25,8 @@ II. Al expedirse la visa o permiso de trabajo por la autoridad consular o migrat
 
 III. Las condiciones para la repatriación, la vivienda, la seguridad social y otras prestaciones se determinarán en el acuerdo;
 
-IV. El reclutamiento y la selección será organizada por la Secretaría del Trabajo y Previsión Social, a través del Servicio Nacional de Empleo, en coordinación con las autoridades estatales y municipales; y V. Contendrá mecanismos para informar al trabajador acerca de las autoridades consulares y diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades competentes del país a donde se prestarán los servicios, cuando el trabajador considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
+IV. El reclutamiento y la selección será organizada por la Secretaría del Trabajo y Previsión Social, a través del Servicio Nacional de Empleo, en coordinación con las autoridades estatales y municipales; y
+
+V. Contendrá mecanismos para informar al trabajador acerca de las autoridades consulares y diplomáticas mexicanas a las que podrá acudir en el extranjero y de las autoridades competentes del país a donde se prestarán los servicios, cuando el trabajador considere que sus derechos han sido menoscabados, a fin de ejercer la acción legal conducente.
 
 Artículo adicionado DOF 30-11-2012

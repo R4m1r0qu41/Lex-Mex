@@ -7,8 +7,8 @@ provision_type: article
 number: "66"
 aliases: ["REG-LPPDDHP — Artículo 66"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf
 source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 ---
@@ -27,6 +27,8 @@ III. Vigilancia a través de patrullajes;
 
 IV. Chalecos antibalas, detector de metales, autos blindados y otros medios físicos de protección;
 
-V. Resguardo del [Beneficiario](articulo-3.md) y, en su caso, los medios necesarios para su subsistencia durante la implementación de la medida; VI. Servicios relacionados con cuestiones de logística y operación, y
+V. Resguardo del [Beneficiario](articulo-3.md) y, en su caso, los medios necesarios para su subsistencia durante la implementación de la medida;
+
+VI. Servicios relacionados con cuestiones de logística y operación, y
 
 VII. Las demás que sean necesarias para evitar cualquier tipo de afectación a la integridad del Beneficiario.

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo IV
@@ -33,7 +33,9 @@ Asimismo, mediante acuerdos generales establecerán Plenos Regionales, los cuale
 
 La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género. La elección de las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito, se regirá por las bases previstas en el artículo [96](articulo-96.md) de esta Constitución. Párrafo adicionado DOF 06-06-2019. Reformado DOF 15-09-2024
 
-El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos que competa conocer a la Corte, así como remitir asuntos a los Plenos Regionales y a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los mismos. Dichos acuerdos surtirán efectos después de publicados. Párrafo reformado DOF 31-12-1994, 11-06-1999, 06-06-2011, 11-03-2021, 15-09-2024 Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias. Párrafo adicionado DOF 06-06-2011
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos que competa conocer a la Corte, así como remitir asuntos a los Plenos Regionales y a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los mismos. Dichos acuerdos surtirán efectos después de publicados. Párrafo reformado DOF 31-12-1994, 11-06-1999, 06-06-2011, 11-03-2021, 15-09-2024
+
+Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias. Párrafo adicionado DOF 06-06-2011
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción. Párrafo reformado DOF 06-06-2011, 11-03-2021
 

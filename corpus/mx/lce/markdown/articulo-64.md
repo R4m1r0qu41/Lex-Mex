@@ -23,7 +23,9 @@ La Secretaría determinará una cuota compensatoria con base en el margen de dis
 
 I. Cuando los productores no comparezcan en la investigación; o
 
-II. Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o III. Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado.
+II. Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o
+
+III. Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado.
 
 Se entenderá por los hechos de que se tenga conocimiento, los acreditados mediante las pruebas y datos aportados en tiempo y forma por las partes interesadas, sus coadyuvantes, así como por la información obtenida por la autoridad investigadora.
 

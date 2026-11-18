@@ -17,7 +17,9 @@ source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 
 # Artículo 6o
 
-La escritura o póliza constitutiva de una sociedad deberá contener: Párrafo reformado DOF 13-06-2014 I.- Los nombres, nacionalidad y domicilio de las personas físicas o morales que constituyan la sociedad;
+La escritura o póliza constitutiva de una sociedad deberá contener: Párrafo reformado DOF 13-06-2014
+
+I.- Los nombres, nacionalidad y domicilio de las personas físicas o morales que constituyan la sociedad;
 
 II.- El objeto de la sociedad;
 

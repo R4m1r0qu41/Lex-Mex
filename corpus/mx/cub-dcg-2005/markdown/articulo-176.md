@@ -11,16 +11,16 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [2]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
-> Título SEGUNDO · Capítulo II
+> Título TERCERO · Capítulo II
 
 # Artículo 176
 
-Las Instituciones deberán elaborar sus estados financieros básicos de conformidad con los Criterios Contables.
+Las Instituciones deberán elaborar sus estados financieros básicos de conformidad con los [Criterios Contables](articulo-1.md).
 
-Los estados financieros básicos, con independencia de que incluyan la información relativa a las subsidiarias que sean objeto de consolidación de acuerdo con los Criterios Contables, consolidarán para tal efecto, los estados financieros de los fideicomisos constituidos para la reestructuración de créditos en UDIs con los de la propia Institución, conforme a las disposiciones de carácter general emitidas al efecto por esta Comisión.
+Los estados financieros básicos, con independencia de que incluyan la información relativa a las subsidiarias que sean objeto de consolidación de acuerdo con los Criterios Contables, consolidarán para tal efecto, los estados financieros de los fideicomisos constituidos para la reestructuración de créditos en UDIs con los de la propia Institución, conforme a las disposiciones de carácter general emitidas al efecto por esta [Comisión](articulo-1.md).
 
 Las Instituciones, expresarán sus estados financieros básicos en millones de pesos, lo que se indicará en el encabezado de los mismos.
 

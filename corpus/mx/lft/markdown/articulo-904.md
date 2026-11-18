@@ -23,7 +23,9 @@ I. Los documentos públicos o privados que tiendan a comprobar la situación eco
 
 II. La relación de los trabajadores que prestan sus servicios en la empresa o establecimiento, indicando sus nombres, apellidos, empleo que desempeñan, salario que perciban y antigüedad en el trabajo;
 
-III. Un dictamen formulado por el perito relativo a la situación económica de la empresa o establecimiento; IV. Las pruebas que juzgue conveniente para acreditar sus pretensiones; y
+III. Un dictamen formulado por el perito relativo a la situación económica de la empresa o establecimiento;
+
+IV. Las pruebas que juzgue conveniente para acreditar sus pretensiones; y
 
 V. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
 

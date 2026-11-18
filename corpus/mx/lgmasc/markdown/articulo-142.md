@@ -7,8 +7,8 @@ provision_type: article
 number: "142"
 aliases: ["LGMASC — Artículo 142"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -43,6 +43,8 @@ XI. No haber subsanado una prevención durante el plazo que dispone esta Ley, po
 
 XII. Omitir explicar a las partes sobre las consecuencias en caso de incumplimiento parcial o total del Convenio;
 
-XIII. No realizar los ajustes razonables y de procedimiento que en su caso requieran las partes; XIV. No desahogar las prevenciones ordenadas por los Centros Públicos, y
+XIII. No realizar los ajustes razonables y de procedimiento que en su caso requieran las partes;
+
+XIV. No desahogar las prevenciones ordenadas por los Centros Públicos, y
 
 XV. Las demás que establezcan esta Ley y los ordenamientos en materia de responsabilidades y sanciones del ámbito federal o local.

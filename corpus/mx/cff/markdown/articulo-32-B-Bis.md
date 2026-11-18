@@ -23,7 +23,9 @@ I. Se considerarán cuentas preexistentes las cuentas financieras que se manteng
 
 II. Se llevará un registro especial de la aplicación de los procedimientos para identificar cuentas extranjeras y reportables entre las cuentas financieras.
 
-III. Los procedimientos aplicables para identificar cuentas extranjeras y reportables entre las cuentas de alto valor deberán concluirse a más tardar el 31 de diciembre de 2016 y aquéllos aplicables para identificarlas entre las cuentas de bajo valor y cuentas preexistentes de entidades, a más tardar el 31 de diciembre de 2017. IV. La información de las cuentas de alto valor y cuentas nuevas que sean reportables se presentará mediante declaración ante las autoridades fiscales anualmente a más tardar el 31 de agosto y, por primera ocasión, a más tardar el 30 de junio de 2017.
+III. Los procedimientos aplicables para identificar cuentas extranjeras y reportables entre las cuentas de alto valor deberán concluirse a más tardar el 31 de diciembre de 2016 y aquéllos aplicables para identificarlas entre las cuentas de bajo valor y cuentas preexistentes de entidades, a más tardar el 31 de diciembre de 2017.
+
+IV. La información de las cuentas de alto valor y cuentas nuevas que sean reportables se presentará mediante declaración ante las autoridades fiscales anualmente a más tardar el 31 de agosto y, por primera ocasión, a más tardar el 30 de junio de 2017.
 
 V. La información de las cuentas de bajo valor y cuentas preexistentes de entidades que sean cuentas reportables se presentará mediante declaración ante las autoridades fiscales anualmente a más tardar el 31 de agosto y, por primera ocasión, a más tardar el 30 de junio de 2018. Sin embargo, en el caso de que se identifiquen cuentas reportables entre las cuentas de bajo valor y cuentas preexistentes de entidades a más tardar el 31 de diciembre de 2016, la información correspondiente se presentará ante las autoridades fiscales, por primera ocasión, a más tardar el 30 de junio de 2017.
 

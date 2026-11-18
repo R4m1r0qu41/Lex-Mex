@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2000-08-08:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2000-08-08",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2000-08-08:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2000-08-08",
+    "text": "Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2000-08-08:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2000-08-08",
+    "text": "Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2003-09-09:transitory:unico",
+    "label": "Transitorio ÚNICO — Ley DOF 2003-09-09",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2017-09-29:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2017-09-29",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2017-09-29:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2017-09-29",
+    "text": "Los comités de operación y horarios de los aeródromos contarán con un plazo de 180 días naturales a partir de la fecha de entrada en vigor del presente decreto para modificar su reglamento interno a efecto de incorporar la integración y funcionamiento del subcomité de demoras."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2025-08-29:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2025-08-29",
+    "text": "El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2025-08-29:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2025-08-29",
+    "text": "Se derogan todas aquellas disposiciones que se opongan al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2025-08-29:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2025-08-29",
+    "text": "Los trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, deben llevarse a cabo de conformidad con las disposiciones vigentes al momento de su presentación hasta su conclusión."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2025-08-29:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2025-08-29",
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2025-08-29:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2025-08-29",
+    "text": "La Agencia Federal de Aviación Civil debe actualizar las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación, en un plazo no mayor a treinta días hábiles siguientes a la publicación del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2026-06-09",
+    "text": "El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2026-06-09",
+    "text": "Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2026-06-09",
+    "text": "Los trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, deben llevarse a cabo de conformidad con las disposiciones vigentes al momento de su presentación hasta su conclusión."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2026-06-09",
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2026-06-09",
+    "text": "La Secretaría de Infraestructura, Comunicaciones y Transportes, por conducto de la Agencia Federal de Aviación Civil, debe clasificar los aeródromos civiles de servicio al público de transporte aéreo regular nacional e internacional conforme al artículo 94 de este ordenamiento, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laero:amendment:2026-06-09:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2026-06-09",
+    "text": "La Agencia Federal de Aviación Civil debe actualizar las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto."
+  }
+]

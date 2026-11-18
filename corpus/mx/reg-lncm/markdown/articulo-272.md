@@ -25,7 +25,9 @@ I. Iniciales. Las que se practican antes de que la Embarcación o Artefacto Nava
 
 II. Periódicas. Las que corresponden a las fechas de aniversario marcadas en el [Certificado de Seguridad](articulo-10.md) vigente;
 
-III. Intermedias. Las que se practican entre dos Inspecciones periódicas; IV. De obra viva. Las que se practican estando el casco de la Embarcación o Artefacto Naval en seco, o que si permanece a flote, se practican con cualquier medio submarino audiovisual aprobado por la [Dirección General](articulo-10.md), y
+III. Intermedias. Las que se practican entre dos Inspecciones periódicas;
+
+IV. De obra viva. Las que se practican estando el casco de la Embarcación o Artefacto Naval en seco, o que si permanece a flote, se practican con cualquier medio submarino audiovisual aprobado por la [Dirección General](articulo-10.md), y
 
 V. Extraordinarias. Las que se practican cuando ocurran cualquiera de las siguientes condiciones:
 

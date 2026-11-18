@@ -1,0 +1,220 @@
+{
+  "reviewed_head": "ca58f5879f030ac3cba604374187b350cc82c1ef",
+  "package_audit": {
+    "head": "ca58f5879f030ac3cba604374187b350cc82c1ef",
+    "bindings": {
+      "reader/reader.js": {
+        "sha256": "2ab4d37360a233e63c833f163b9bf8c2256cb4ece82e412b61591830a954a57d",
+        "matches": true
+      },
+      "reader/browser-check.mjs": {
+        "sha256": "c647db43fd96024ca24b931f6b1e9e4c9cf2aca154e71356ef3819106fcfe79c",
+        "matches": true
+      },
+      "docs/plans/four-instrument-reader-design-release.md": {
+        "sha256": "ae78f0a79cce2ebbd2d67386cb6ae18afb8472c6caa4bc78bac69568d0717e02",
+        "matches": true
+      },
+      "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22.md": {
+        "sha256": "8bfae890cbdbc11c64cfb2e0906ebe50b040384284591c4d7d351484d99cf9a0",
+        "matches": true
+      },
+      "docs/four-instrument-reader-r0-r4-codex-review-2026-10-22-evidence.json": {
+        "sha256": "2c232e6f945f6af468b0f3cd37ae5d4fc51b923c1c78b17cd10c584d1a1868b0",
+        "matches": true
+      }
+    },
+    "packages": {
+      "preferred": {
+        "publication_id": "fbcb4e98b64f5dd00c82a387ce04a35c93681f9d1b4d52ce1181ca55d22e7ea3",
+        "receipt_id_verified": true,
+        "manifest_sha256": "8fb340f2f249f40fc9474d7a035b0d06c3f6bc4b0cc975099f79c214a13b6713",
+        "manifest_matches": true,
+        "pair_equal": true,
+        "file_count": 1791,
+        "invalid_files": [],
+        "extra_paths": [],
+        "r4_delta": [
+          "publication.json",
+          "reader.js"
+        ],
+        "ui_matches_source": true
+      },
+      "fallback": {
+        "publication_id": "4a3b2e2fa13871f7dbe0903e317b091cfc52091ad376c62f01f3b9b630dc742c",
+        "receipt_id_verified": true,
+        "manifest_sha256": "c2b22653d7a0b68edc1f29d2b2554fc45eb4a595f5be91f0b96868f2128aedc7",
+        "manifest_matches": true,
+        "pair_equal": true,
+        "file_count": 1785,
+        "invalid_files": [],
+        "extra_paths": [],
+        "r4_delta": [
+          "publication.json",
+          "reader.js"
+        ],
+        "ui_matches_source": true
+      }
+    },
+    "native_delta_since_reviewed_r4": []
+  },
+  "cap_fault_injection": {
+    "method": "Fault-injected counters via CDP on unmodified shipped JS, synthetic padding change; branch reachability test, not evidence of 30 natural storms",
+    "initial": {
+      "label": "Artículo 193",
+      "current": "urn:lex-mx:federal:statute:lic:article:193",
+      "title": "LIC · Artículo 193 — Lex-Mex",
+      "instrument": "lic",
+      "pushes": 0,
+      "urlProvision": "urn:lex-mx:federal:statute:lic:article:193",
+      "urlInstrument": "lic",
+      "history": 2
+    },
+    "forced": true,
+    "observedState": {
+      "held": 400,
+      "realigns": 41,
+      "nudges": 401,
+      "recoveries": 30,
+      "userScrolled": false,
+      "off": 1367.875
+    },
+    "after": {
+      "ui": {
+        "label": "Artículo 193",
+        "current": "urn:lex-mx:federal:statute:lic:article:193",
+        "title": "LIC · Artículo 193 — Lex-Mex",
+        "instrument": "lic",
+        "pushes": 0,
+        "urlProvision": "urn:lex-mx:federal:statute:lic:article:193",
+        "urlInstrument": "lic",
+        "history": 2
+      },
+      "truth": 398,
+      "offset": 1375.875,
+      "exhausted": 1,
+      "scrolls": 5,
+      "truthLabel": "Artículo 191",
+      "copyEqualsRequested": true
+    },
+    "afterIntent": {
+      "ui": {
+        "label": "Artículo 191",
+        "current": "urn:lex-mx:federal:statute:lic:article:191",
+        "title": "LIC · Artículo 191 — Lex-Mex",
+        "instrument": "lic",
+        "pushes": 0,
+        "urlProvision": "urn:lex-mx:federal:statute:lic:article:191",
+        "urlInstrument": "lic",
+        "history": 2
+      },
+      "truth": 398,
+      "intent": 1,
+      "truthLabel": "Artículo 191"
+    }
+  },
+  "targeted_legacy_checks": {
+    "readerMatchesFinal": true,
+    "results": [
+      {
+        "width": 390,
+        "fonts": "normal",
+        "label": "Artículo 193",
+        "truth": "Artículo 193",
+        "url": true,
+        "index": true,
+        "copyExact": true,
+        "sharePinned": true,
+        "offset": 7.875,
+        "ok": true
+      },
+      {
+        "width": 390,
+        "fonts": 1500,
+        "label": "Artículo 193",
+        "truth": "Artículo 193",
+        "url": true,
+        "index": true,
+        "copyExact": true,
+        "sharePinned": true,
+        "offset": 7.875,
+        "ok": true
+      },
+      {
+        "width": 390,
+        "fonts": "blocked",
+        "label": "Artículo 193",
+        "truth": "Artículo 193",
+        "url": true,
+        "index": true,
+        "copyExact": true,
+        "sharePinned": true,
+        "offset": 7.875,
+        "ok": true
+      },
+      {
+        "width": 1440,
+        "fonts": "normal",
+        "label": "Artículo 193",
+        "truth": "Artículo 193",
+        "url": true,
+        "index": true,
+        "copyExact": true,
+        "sharePinned": true,
+        "offset": 8.125,
+        "ok": true
+      }
+    ]
+  },
+  "isolated_touch": {
+    "fontsAtAction": "loading",
+    "steps": [
+      {
+        "name": "emulate",
+        "ms": 7
+      },
+      {
+        "name": "touchStart",
+        "ms": 12
+      },
+      {
+        "name": "touchMove",
+        "ms": 17
+      },
+      {
+        "name": "touchEnd",
+        "ms": 17
+      }
+    ],
+    "ui": {
+      "label": "Artículo 193",
+      "current": "urn:lex-mx:federal:statute:lic:article:193",
+      "title": "LIC · Artículo 193 — Lex-Mex",
+      "instrument": "lic",
+      "pushes": 0,
+      "urlProvision": "urn:lex-mx:federal:statute:lic:article:193",
+      "urlInstrument": "lic",
+      "history": 2
+    },
+    "truth": "Artículo 193",
+    "copyExact": true,
+    "intents": 0
+  },
+  "node_stdout": "✔ package contains only publication assets with reproducible descriptor and refuses overwrite (19.431875ms)\n✔ tampered release file is rejected without publication output (2.272041ms)\n✔ private canonical artifacts cannot pass the public file allowlist (6.098416ms)\n✔ publication never carries agent routes and keeps the release discovery file verbatim (6.069917ms)\n✔ release manifests that list agent-style paths are rejected (2.964125ms)\n✔ search, neighbors and pinned share URLs preserve suffix identities (0.500583ms)\n✔ relations distinguish published from excluded targets (0.080417ms)\n✔ Markdown preserves exact Unicode, whitespace and literal markup across article and annex boundaries (0.079666ms)\n✔ reject unsafe paths and unpinned release identities (0.127ms)\n✔ preview serves text and PDF byte ranges and rejects wrong routes and methods (28.024708ms)\n✔ chunks render the deep-link target first and then spread outward without gaps (0.559208ms)\n✔ active provision is the last article whose top crossed the reading line, found from positions alone (0.284375ms)\n✔ only deliberate navigation adds history entries (0.116583ms)\n✔ article copy is the exact canonical body and citations name the consulted provision (0.084125ms)\n✔ PDF following is reported unavailable and never infers a page (0.076958ms)\n✔ placeholder height grows with body length and counts every paragraph line (0.061583ms)\n✔ passive scrolling never swaps the open PDF; deliberate navigation does (0.050667ms)\n✔ staging advances current release and preserves old pinned text, and is repeatable (42.247334ms)\n✔ changed immutable files block staging without changing current pointer (9.241459ms)\n✔ tampered input and symlink destinations are rejected before publication (4.672ms)\n✔ concurrent stage lock prevents publication changes (4.451916ms)\n✔ staging rejects agent routes and private release files even when the receipt digest is consistent (7.853666ms)\nℹ tests 22\nℹ suites 0\nℹ pass 22\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 120.008333\n",
+  "incomplete_preferred_stdout": "PASS reading-line crossing without observer change (scrollTop)\nPASS reading-line crossing without observer change (wheel)\nPASS short adjacent articles\nPASS long article tail\nPASS resize across breakpoint\nPASS deep link lic Artículo 112 Quintus\nPASS deep link lic Artículo 112 Sextus\nPASS deep link lic Artículo 112 Séptimus\nPASS deep link lic Artículo 193\nPASS deep link lic VIGESIMO\nPASS deep link lritf Artículo 4\nPASS wheel during navigation lock\nPASS index push, no trailing overwrite, back\nPASS interrupted deep-link settle\nPASS quick instrument switches\nPASS narrow 390px deep link\nPASS search result navigation\nPASS reference view and Volver\nPASS PDF offer without auto-follow\nPASS wheel ending inside the navigation lock\nPASS last provision deep link ifpe-dcg-2021 at 1440x3000\nPASS last provision deep link itf-dcg-2018 at 1440x3000\nPASS last provision deep link lic at 1440x3000\nPASS last provision deep link lritf at 1440x3000\nPASS last provision deep link ifpe-dcg-2021 at 390x844\nPASS last provision deep link itf-dcg-2018 at 390x844\nPASS last provision deep link lic at 390x844\nPASS last provision deep link lritf at 390x844\nPASS requested target stable lic Artículo 193 390px fonts=normal #1\nPASS requested target stable lic Artículo 193 390px fonts=normal #2\nPASS requested target stable lic Artículo 193 390px fonts=normal #3\nPASS requested target stable lic Artículo 193 390px fonts=1500 #1\nPASS requested target stable lic Artículo 193 390px fonts=1500 #2\nPASS requested target stable lic Artículo 193 390px fonts=1500 #3\nPASS requested target stable lic Artículo 193 390px fonts=blocked #1\nPASS requested target stable lic Artículo 193 390px fonts=blocked #2\nPASS requested target stable lic Artículo 193 390px fonts=blocked #3\nPASS requested target stable lic Artículo 193 390px fonts=10000 #1\nPASS requested target stable lic Artículo 193 1440px fonts=normal #1\nPASS requested target stable lic Artículo 193 1440px fonts=1500 #1\nPASS requested target stable lic Artículo 193 1440px fonts=blocked #1\nPASS requested target stable lic Artículo 193 1440px fonts=10000 #1\nPASS reader scroll during a held target is preserved\nPASS unattributed scroll during a held target ends the hold\nPASS pressing Copiar enlace during a held target keeps the target\nPASS PageDown during a held target is intent and is kept\n",
+  "full_browser_status": "Preferred reviewer-terminated exit 130 after 43 PASS lines; no final JSON. Fallback full run not attempted after stop. Not a complete independent reproduction of executor runs.",
+  "cap_probe_source": "import {launch} from '/Users/jr/Dev/lex-mex-reader-four/reader/browser-check.mjs';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-four/reader/serve.mjs';\nimport {readFile,writeFile} from 'node:fs/promises';\nconst root='/Users/jr/Dev/lex-mex-reader-four/.work/r10-fallback-a';\nconst rid=JSON.parse(await readFile(root+'/latest.json')).release_id;\nconst manifest=JSON.parse(await readFile(root+'/releases/'+rid+'/manifest.json'));\nconst doc=manifest.instruments.find(d=>d.slug==='lic');\nconst list=JSON.parse(await readFile(root+'/releases/'+rid+'/'+doc.document_path)).provisions;\nconst target=list.find(p=>p.label==='Artículo 193');const index=list.indexOf(target);\nconst server=createReaderServer(root);await new Promise(r=>server.listen(0,'127.0.0.1',r));\nconst b=await launch(undefined,{fonts:'blocked'});const p=b.page;\ntry{\n await p.viewport(390,844);await p.send('Page.navigate',{url:`http://127.0.0.1:${server.address().port}/lex-mex/?release=${rid}&instrument=lic&provision=${encodeURIComponent(target.id)}`});\n await p.until(\"performance.getEntriesByName('reader:target-settled').length>0\",15000);\n const initial=await p.eval('__probe.ui()');\n await p.send('Debugger.enable');\n const bp=await p.send('Debugger.setBreakpointByUrl',{urlRegex:'/reader.js$',lineNumber:174});\n let forced=false,observedState;\n const paused=new Promise((resolve,reject)=>{\n  p.ws.addEventListener('message',async e=>{const m=JSON.parse(e.data);if(m.method!=='Debugger.paused')return;\n   try{const cf=m.params.callFrames[0].callFrameId;\n    const x=await p.send('Debugger.evaluateOnCallFrame',{callFrameId:cf,expression:'realigns=41; nudges=401; recoveries=30; settleTarget=null; ({held,realigns,nudges,recoveries,userScrolled,off:drift(held)})',returnByValue:true});observedState=x.result.value;forced=true;\n    await p.send('Debugger.removeBreakpoint',{breakpointId:bp.breakpointId});await p.send('Debugger.resume');resolve();\n   }catch(e){reject(e);}\n  });\n });\n await p.send('Runtime.evaluate',{expression:\"document.querySelector('#flow article').style.paddingBottom='1400px';\"});\n await Promise.race([paused,new Promise((_,rej)=>setTimeout(()=>rej(Error('no pause')),10000))]);\n await new Promise(r=>setTimeout(r,1800));\n const after=await p.eval(`({ui:__probe.ui(),truth:__probe.truth(),offset:__probe.top(${index})-document.getElementById('active-bar').offsetHeight,exhausted:performance.getEntriesByName('reader:hold-recovery-exhausted').length,scrolls:window.__scrolls})`);\n const copy=await p.eval(\"__probe.copy('copy-text')\");\n await p.eval('__probe.scrollBy(100)');await new Promise(r=>setTimeout(r,700));const afterIntent=await p.eval('({ui:__probe.ui(),truth:__probe.truth(),intent:performance.getEntriesByName(\"reader:intent\").length})');\n const out={method:'Fault-injected counters via CDP on unmodified shipped JS, synthetic padding change; branch reachability test, not evidence of 30 natural storms',initial,forced,observedState,after:{...after,truthLabel:list[after.truth].label,copyEqualsRequested:copy===target.text},afterIntent:{...afterIntent,truthLabel:list[afterIntent.truth].label}};\n await writeFile('/tmp/lex-r5-codex-cap-probe.json',JSON.stringify(out,null,2)+'\\n');console.log(JSON.stringify(out,null,2));\n}finally{await b.close();await new Promise(r=>server.close(r));}\n",
+  "legacy_probe_source": "import {launch} from '/Users/jr/Dev/lex-mex-reader-four/reader/browser-check.mjs';\nimport {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-four/reader/serve.mjs';\nimport {readFile,writeFile} from 'node:fs/promises';import {createHash} from 'node:crypto';\nconst base='/Users/jr/Dev/lex-mex-reader-four/';const root=base+'.work/r10-legacy-stage';\nconst rid='3c04016651e2fd4169632756e96ec19136136e1f42c4ed666070f23f20b30660';\nconst m=JSON.parse(await readFile(root+'/releases/'+rid+'/manifest.json'));const d=m.instruments.find(d=>d.slug==='lic');const list=JSON.parse(await readFile(root+'/releases/'+rid+'/'+d.document_path)).provisions;const t=list.find(p=>p.label==='Artículo 193');const i=list.indexOf(t);\nconst server=createReaderServer(root);await new Promise(r=>server.listen(0,'127.0.0.1',r));const results=[];\ntry{for(const [w,fonts] of [[390,'normal'],[390,1500],[390,'blocked'],[1440,'normal']]){const b=await launch(undefined,{fonts});try{\n await b.page.viewport(w,900);await b.page.send('Page.navigate',{url:`http://127.0.0.1:${server.address().port}/lex-mex/?release=${rid}&instrument=lic&provision=${encodeURIComponent(t.id)}`});\n await b.page.until(\"performance.getEntriesByName('reader:target-settled').length>0\",20000);await new Promise(r=>setTimeout(r,700));\n const ui=await b.page.eval('__probe.ui()'),truth=list[await b.page.eval('__probe.truth()')];const off=await b.page.eval(`__probe.top(${i})-document.getElementById('active-bar').offsetHeight`);const copy=await b.page.eval(\"__probe.copy('copy-text')\");const share=new URL(await b.page.eval(\"__probe.copy('share')\"));\n results.push({width:w,fonts,label:ui.label,truth:truth.label,url:ui.urlProvision===t.id,index:ui.current===t.id,copyExact:copy===t.text,sharePinned:share.searchParams.get('release')===rid&&share.searchParams.get('provision')===t.id,offset:off,ok:ui.label===t.label&&truth.id===t.id&&ui.urlProvision===t.id&&ui.current===t.id&&copy===t.text&&Math.abs(off-8)<=3});\n}finally{await b.close();}}}finally{await new Promise(r=>server.close(r));}\nconst sha=b=>createHash('sha256').update(b).digest('hex');const out={readerMatchesFinal:sha(await readFile(root+'/reader.js'))===sha(await readFile(base+'reader/reader.js')),results};await writeFile('/tmp/lex-r5-codex-legacy-probe.json',JSON.stringify(out,null,2)+'\\n');console.log(JSON.stringify(out,null,2));\n",
+  "touch_probe_source": "import {launch} from '/Users/jr/Dev/lex-mex-reader-four/reader/browser-check.mjs';import {createReaderServer} from '/Users/jr/Dev/lex-mex-reader-four/reader/serve.mjs';import {readFile,writeFile} from 'node:fs/promises';\nconst root='/Users/jr/Dev/lex-mex-reader-four/.work/r10-preferred-a';const rid=JSON.parse(await readFile(root+'/latest.json')).release_id;const manifest=JSON.parse(await readFile(root+'/releases/'+rid+'/manifest.json'));const d=manifest.instruments.find(d=>d.slug==='lic');const list=JSON.parse(await readFile(root+'/releases/'+rid+'/'+d.document_path)).provisions;const t=list.find(p=>p.label==='Artículo 193');const server=createReaderServer(root);await new Promise(r=>server.listen(0,'127.0.0.1',r));const b=await launch(undefined,{fonts:1500});const p=b.page;const steps=[];let result;\nasync function step(name,fn){const t=Date.now();console.log('START',name);const value=await Promise.race([fn(),new Promise((_,rej)=>{const timer=setTimeout(()=>rej(Error('Timeout '+name)),20000);timer.unref();})]);steps.push({name,ms:Date.now()-t});console.log('DONE',name);return value;}\ntry{await p.viewport(1440,900);await p.send('Page.navigate',{url:`http://127.0.0.1:${server.address().port}/lex-mex/?release=${rid}&instrument=lic&provision=${encodeURIComponent(t.id)}`});await p.until('window.__probe&&__probe.ready()',20000);const fontsAtAction=await p.eval('document.fonts.status');await step('emulate',()=>p.send('Emulation.setTouchEmulationEnabled',{enabled:true}));const c=await p.eval(\"(()=>{const r=document.getElementById('article').getBoundingClientRect();return{x:Math.round(r.left+r.width/2),y:Math.round(r.top+r.height*0.6)};})()\");await step('touchStart',()=>p.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[c]}));await step('touchMove',()=>p.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:c.x,y:c.y+2}]}));await step('touchEnd',()=>p.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]}));await p.until(\"document.fonts.status==='loaded'\",16000);await new Promise(r=>setTimeout(r,1500));const ui=await p.eval('__probe.ui()'),truth=list[await p.eval('__probe.truth()')];const copy=await p.eval(\"__probe.copy('copy-text')\");result={fontsAtAction,steps,ui,truth:truth.label,copyExact:copy===t.text,intents:await p.eval(\"performance.getEntriesByName('reader:intent').length\")};}catch(e){result={steps,error:String(e)};}finally{await b.close();await new Promise(r=>server.close(r));}await writeFile('/tmp/lex-r5-codex-touch-probe.json',JSON.stringify(result,null,2)+'\\n');console.log(JSON.stringify(result,null,2));\n",
+  "full_browser_stop_details": {
+    "total_seconds_approx": 178,
+    "polling_seconds_approx": 175,
+    "last_pass": "PageDown during a held target is intent and is kept",
+    "exit": 130,
+    "stop": "reviewer Ctrl-C",
+    "chrome_stderr": null,
+    "executor_error": null,
+    "time_since_last_pass": "not separately recorded",
+    "interpretation": "Incomplete run, not proof of a harness or application defect"
+  }
+}

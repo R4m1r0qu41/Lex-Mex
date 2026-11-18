@@ -47,7 +47,9 @@ XIII. Constituirse en Colegio Electoral para la elección del Rector, de acuerdo
 
 XIV. Tomar la protesta al Rector, expedir su nombramiento, resolver acerca de su renuncia y removerlo por causa justificada. En ejercicio de esta última facultad, se auscultará a la Comunidad Universitaria;
 
-XV. Nombrar las comisiones permanentes que se establecen en el Estatuto y las especiales que juzgue necesarias para el cumplimiento de sus funciones; XVI. Remover a los consejeros y miembros de las comisiones por las causas que el Estatuto indique;
+XV. Nombrar las comisiones permanentes que se establecen en el Estatuto y las especiales que juzgue necesarias para el cumplimiento de sus funciones;
+
+XVI. Remover a los consejeros y miembros de las comisiones por las causas que el Estatuto indique;
 
 XVII. Conocer y resolver sobre las auditorías que, de acuerdo a su reglamentación interna, sean practicadas en la Universidad;
 

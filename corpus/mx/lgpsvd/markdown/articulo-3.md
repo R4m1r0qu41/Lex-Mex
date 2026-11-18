@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LGPSVD — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf
 source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 ---
@@ -21,7 +21,9 @@ La planeación, programación, implementación y evaluación de las políticas p
 
 I. Respeto irrestricto a los derechos humanos;
 
-II. Integralidad. El Estado, en sus distintos órdenes de gobierno desarrollará políticas públicas integrales eficaces para la prevención de la violencia y la delincuencia, con la participación ciudadana y comunitaria; III. Intersectorialidad y transversalidad. Consiste en la articulación, homologación y complementariedad de las políticas públicas, programas y acciones de los distintos órdenes de Gobierno, incluidas las de justicia, seguridad pública, desarrollo social, economía, cultura y derechos humanos, con atención particular a las comunidades, las familias, las niñas y niños, las mujeres, así como las y los jóvenes en situación de riesgo;
+II. Integralidad. El Estado, en sus distintos órdenes de gobierno desarrollará políticas públicas integrales eficaces para la prevención de la violencia y la delincuencia, con la participación ciudadana y comunitaria;
+
+III. Intersectorialidad y transversalidad. Consiste en la articulación, homologación y complementariedad de las políticas públicas, programas y acciones de los distintos órdenes de Gobierno, incluidas las de justicia, seguridad pública, desarrollo social, economía, cultura y derechos humanos, con atención particular a las comunidades, las familias, las niñas y niños, las mujeres, así como las y los jóvenes en situación de riesgo;
 
 IV. Trabajo conjunto. Comprende el desarrollo de acciones conjuntas entre las autoridades de los distintos órdenes de gobierno, así como de los diferentes sectores y grupos de la sociedad civil, organizada y no organizada, así como de la comunidad académica de manera solidaria, para que contribuyan a la prevención social de la violencia y la delincuencia y al mejoramiento de la calidad de vida de la sociedad;
 

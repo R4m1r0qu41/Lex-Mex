@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LGCDC — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf
 source_sha256: 3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d
 ---
@@ -25,7 +25,9 @@ II. Determinar las funciones que corresponda desarrollar a las partes, con indic
 
 III. Describir los bienes y recursos que aporten las partes, con la especificación del régimen a que quedarán sujetos;
 
-IV. Determinar el calendario de actividades que vayan a desarrollarse; V. Establecer que los ingresos que se obtengan por la prestación de servicios, se ajustarán a lo que disponga la legislación fiscal y los acuerdos que celebren en la materia, el Ejecutivo Federal y los gobiernos de las entidades federativas;
+IV. Determinar el calendario de actividades que vayan a desarrollarse;
+
+V. Establecer que los ingresos que se obtengan por la prestación de servicios, se ajustarán a lo que disponga la legislación fiscal y los acuerdos que celebren en la materia, el Ejecutivo Federal y los gobiernos de las entidades federativas;
 
 VI. Indicar las medidas legales y administrativas que las partes se obliguen a adoptar o promover, para el mejor cumplimiento del acuerdo;
 

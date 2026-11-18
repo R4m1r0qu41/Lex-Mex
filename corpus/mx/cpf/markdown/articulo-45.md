@@ -19,7 +19,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 La suspensión de derechos es de dos clases:
 
-I.- La que por ministerio de la ley resulta de una sanción como consecuencia necesaria de ésta, y II.- La que por sentencia formal se impone como sanción.
+I.- La que por ministerio de la ley resulta de una sanción como consecuencia necesaria de ésta, y
+
+II.- La que por sentencia formal se impone como sanción.
 
 En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia.
 

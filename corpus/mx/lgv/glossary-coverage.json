@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
-      "provision_text_sha256": "b9a2d2da6b4374f70efebac912b9b926ceb00162c2696e561d0724211f8aae5a",
+      "provision_text_sha256": "193ccd415ee8493f09229d81fcd29c9cc4a83df742d0a91ef1254bd299d2074c",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -20,6 +20,7 @@
         "VII",
         "IX",
         "X",
+        "XI",
         "XII",
         "XIII",
         "XIV",
@@ -32,10 +33,10 @@
         "XXI"
       ],
       "unread_fractions": [],
-      "term_count": 19
+      "term_count": 20
     }
   ],
   "imports": [],
-  "term_count": 19,
-  "usage_count": 411
+  "term_count": 20,
+  "usage_count": 623
 }

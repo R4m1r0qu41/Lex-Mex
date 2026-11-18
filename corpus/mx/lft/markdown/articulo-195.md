@@ -37,6 +37,8 @@ VIII. El alojamiento y los alimentos que se suministrarán al trabajador;
 
 IX. El período anual de vacaciones;
 
-X. Los derechos y obligaciones del trabajador; XI. El porcentaje que percibirán los trabajadores cuando se trate de dar salvamento a otro buque; y
+X. Los derechos y obligaciones del trabajador;
+
+XI. El porcentaje que percibirán los trabajadores cuando se trate de dar salvamento a otro buque; y
 
 XII. Las demás estipulaciones que convengan las partes.

@@ -19,7 +19,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 Para efectos del [artículo anterior](articulo-171.md), los permisos que se otorguen para realizar las obras respectivas, deberán contener entre otros los siguientes datos:
 
-I. Nombre, nacionalidad y domicilio de la persona física o moral a quien se otorgue el permiso; II. Plazo para la realización de las obras;
+I. Nombre, nacionalidad y domicilio de la persona física o moral a quien se otorgue el permiso;
+
+II. Plazo para la realización de las obras;
 
 III. Condiciones técnicas que deban cumplirse, y
 

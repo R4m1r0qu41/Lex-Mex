@@ -25,7 +25,9 @@ I. Requerir toda clase de información y documentación relacionada con la prest
 
 II. Practicar visitas de inspección;
 
-III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y IV. Emitir o reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las [Sociedades Financieras Populares](articulo-3o.md).
+III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y
+
+IV. Emitir o reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las [Sociedades Financieras Populares](articulo-3o.md).
 
 El ejercicio de las facultades a que se refiere este Artículo estará circunscrito a los dictámenes, opiniones y prácticas de auditoría que, en términos de esta Ley, practiquen las personas morales que presten servicios de auditoría externa, así como sus socios o empleados.
 

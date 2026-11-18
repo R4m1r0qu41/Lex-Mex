@@ -25,7 +25,9 @@ II. Fin, destino y objeto;
 
 III. Acreedor, proveedor o contratista;
 
-IV. Importe total; V. Importe y porcentaje del total que se paga o garantiza con los recursos de dichos fondos;
+IV. Importe total;
+
+V. Importe y porcentaje del total que se paga o garantiza con los recursos de dichos fondos;
 
 VI. Plazo;
 

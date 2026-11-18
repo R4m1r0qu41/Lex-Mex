@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LGDS — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -21,7 +21,9 @@ Las personas beneficiarias de los programas de desarrollo social tienen los sigu
 
 I. Recibir un trato respetuoso, oportuno, con calidad y libre de cualquier forma de discriminación o violencias; Fracción reformada DOF 15-01-2026
 
-II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura; III. Tener la reserva y privacidad de la información personal;
+II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura;
+
+III. Tener la reserva y privacidad de la información personal;
 
 IV. Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley;
 

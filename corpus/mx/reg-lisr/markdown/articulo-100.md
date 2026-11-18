@@ -21,7 +21,9 @@ Para efectos de los artículos [72](../../lisr/markdown/articulo-72.md), párraf
 
 I. Nombre o denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes del coordinado, así como el número de folio consecutivo. Los datos a que se refiere esta fracción deberán estar impresos en la liquidación;
 
-II. Lugar y fecha de expedición; III. Nombre del integrante al que se le expida, su clave del registro federal de contribuyentes, en su caso, clave única de registro de población, domicilio fiscal o la ubicación de su negocio y firma del propio integrante, de su representante legal o de quien reciba el documento, y
+II. Lugar y fecha de expedición;
+
+III. Nombre del integrante al que se le expida, su clave del registro federal de contribuyentes, en su caso, clave única de registro de población, domicilio fiscal o la ubicación de su negocio y firma del propio integrante, de su representante legal o de quien reciba el documento, y
 
 IV. Descripción global de los ingresos, gastos e inversiones, en su caso, de los impuestos y retenciones, que le correspondan al integrante de que se trate.
 

@@ -17,7 +17,9 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # Artículo 31
 
-Las notificaciones surtirán sus efectos conforme a las siguientes reglas: I. Las que correspondan a las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, desde el momento en que hayan quedado legalmente hechas. Párrafo reformado DOF 13-03-2025
+Las notificaciones surtirán sus efectos conforme a las siguientes reglas:
+
+I. Las que correspondan a las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, desde el momento en que hayan quedado legalmente hechas. Párrafo reformado DOF 13-03-2025
 
 Cuando el oficio que contenga el auto o resolución que se debe notificar se envíe por correo y no se trate de la suspensión, en la fecha que conste en el acuse de recibo, siempre y cuando sea un día hábil. En caso contrario, a la primera hora del día hábil siguiente;
 

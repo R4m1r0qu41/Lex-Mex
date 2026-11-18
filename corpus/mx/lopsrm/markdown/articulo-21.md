@@ -21,7 +21,9 @@ Las dependencias y entidades según las características, complejidad y magnitud
 
 I. Los estudios de preinversión que se requieran para definir la factibilidad técnica, económica, ecológica y social de los trabajos;
 
-II. Los objetivos y metas a corto, mediano y largo plazo; III. Las acciones previas, durante y posteriores a la ejecución de las obras públicas, incluyendo, cuando corresponda, las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquéllas en servicio;
+II. Los objetivos y metas a corto, mediano y largo plazo;
+
+III. Las acciones previas, durante y posteriores a la ejecución de las obras públicas, incluyendo, cuando corresponda, las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquéllas en servicio;
 
 IV. Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
 

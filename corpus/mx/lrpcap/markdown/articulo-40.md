@@ -7,8 +7,8 @@ provision_type: article
 number: "40"
 aliases: ["LRPCAP — Artículo 40"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf
 source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 ---
@@ -19,7 +19,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 El refugiado que se encuentre sujeto a un procedimiento de cesación, revocación o cancelación del reconocimiento de la condición de refugiado, tendrá entre otros, derecho a:
 
-I. Recibir información clara, oportuna y gratuita sobre el procedimiento respectivo y sobre los derechos inherentes al mismo, así como los recursos que esta Ley y otras disposiciones aplicables le conceda;
+I. Recibir información clara, oportuna y gratuita sobre el procedimiento respectivo y sobre los derechos inherentes al mismo, así como los recursos que esta [Ley](articulo-2.md) y otras disposiciones aplicables le conceda;
 
 II. Realizar las manifestaciones que a su derecho convengan y aportar todas las pruebas que considere convenientes, y
 

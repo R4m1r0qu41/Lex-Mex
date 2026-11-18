@@ -23,7 +23,9 @@ I. Las ideas en sí mismas, las fórmulas, soluciones, conceptos, métodos, sist
 
 II. El aprovechamiento industrial o comercial de las ideas contenidas en las obras;
 
-III. Los esquemas, planes o reglas para realizar actos mentales, juegos o negocios; IV. Las letras, los dígitos o los colores aislados, a menos que su estilización sea tal que las conviertan en dibujos originales;
+III. Los esquemas, planes o reglas para realizar actos mentales, juegos o negocios;
+
+IV. Las letras, los dígitos o los colores aislados, a menos que su estilización sea tal que las conviertan en dibujos originales;
 
 V. Los nombres y títulos o frases aislados;
 

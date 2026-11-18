@@ -31,7 +31,9 @@ c) Fomentar la contribución del sector forestal a la economía del país y al c
 
 d) Fortalecer el capital social del sector, así como las capacidades de gestión de ejidos y comunidades en zonas forestales.
 
-III. Crear y coordinar mecanismos a través de los cuales se otorguen financiamientos a instituciones de educación superior públicas o privadas, centros de investigación que demuestren capacidad para llevar a cabo investigaciones, desarrollo e innovaciones tecnológicas en materia forestal, que pretendan resolver alguna necesidad prioritaria o problemática del sector; IV. Coadyuvar en la creación de programas o proyectos con el objeto de que otras instituciones públicas y privadas, nacionales y extranjeras, destinen recursos a actividades de capacitación, investigación, desarrollo e innovación tecnológica;
+III. Crear y coordinar mecanismos a través de los cuales se otorguen financiamientos a instituciones de educación superior públicas o privadas, centros de investigación que demuestren capacidad para llevar a cabo investigaciones, desarrollo e innovaciones tecnológicas en materia forestal, que pretendan resolver alguna necesidad prioritaria o problemática del sector;
+
+IV. Coadyuvar en la creación de programas o proyectos con el objeto de que otras instituciones públicas y privadas, nacionales y extranjeras, destinen recursos a actividades de capacitación, investigación, desarrollo e innovación tecnológica;
 
 V. Integrar y coordinar las investigaciones, los resultados obtenidos o los productos generados con los recursos de otras instituciones vinculadas con el estudio, el aprovechamiento, la conservación y protección de los recursos naturales;
 

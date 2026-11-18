@@ -19,7 +19,9 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 Los medicamentos vitamínicos requerirán de registro sanitario, para ello se presentará solicitud en el formato correspondiente, al cual se anexarán los documentos siguientes:
 
-I. La monografía del producto terminado con métodos de control, cualitativo y cuantitativo, de todos los componentes; II. Las condiciones de manejo, conservación y almacenamiento;
+I. La monografía del producto terminado con métodos de control, cualitativo y cuantitativo, de todos los componentes;
+
+II. Las condiciones de manejo, conservación y almacenamiento;
 
 III. La descripción de los Envases Primario y Secundario y pruebas de atoxicidad;
 

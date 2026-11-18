@@ -33,7 +33,9 @@ VI. El Secretario de Hacienda y Crédito Público;
 
 VII. El Secretario de la Función Pública;
 
-VIII. El Secretario de Relaciones Exteriores; IX. El Secretario de Comunicaciones y Transportes;
+VIII. El Secretario de Relaciones Exteriores;
+
+IX. El Secretario de Comunicaciones y Transportes;
 
 X. El Fiscal General de la República, y Fracción reformada DOF 20-05-2021
 

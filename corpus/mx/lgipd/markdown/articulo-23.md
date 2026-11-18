@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LGIPD — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf
 source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 ---
@@ -17,7 +17,7 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 23
 
-El [Consejo](articulo-2.md) en coordinación con el Instituto Nacional de Estadística y Geografía, desarrollarán el Sistema Nacional de Información en [Discapacidad](articulo-2.md), que tendrá como objetivo proporcionar información de servicios públicos, privados o sociales, y todo tipo de información relacionada, a la población con discapacidad, la cual podrá ser consultada por medios electrónicos o impresos, a través de módulos de consulta dispuestos en instalaciones públicas.
+El [Consejo](articulo-2.md) en coordinación con el Instituto Nacional de Estadística y Geografía, desarrollarán el [Sistema](articulo-2.md) Nacional de Información en [Discapacidad](articulo-2.md), que tendrá como objetivo proporcionar información de servicios públicos, privados o sociales, y todo tipo de información relacionada, a la población con discapacidad, la cual podrá ser consultada por medios electrónicos o impresos, a través de módulos de consulta dispuestos en instalaciones públicas.
 
 La información estadística del Registro Nacional de Población con Discapacidad, deberá formar parte del Sistema Nacional de Información en Discapacidad y mantenerse actualizada a través de los registros administrativos de certificación de discapacidad del Sector Salud.
 

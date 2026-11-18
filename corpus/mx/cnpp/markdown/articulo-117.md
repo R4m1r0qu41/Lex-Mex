@@ -47,6 +47,8 @@ XIII. En los casos en que proceda, formular solicitudes de procedimientos especi
 
 XIV. Guardar el secreto profesional en el desempeño de sus funciones;
 
-XV. Interponer los recursos e incidentes en términos de este [Código](articulo-3o.md) y de la legislación aplicable y, en su caso, promover el juicio de Amparo; XVI. Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa, y
+XV. Interponer los recursos e incidentes en términos de este [Código](articulo-3o.md) y de la legislación aplicable y, en su caso, promover el juicio de Amparo;
+
+XVI. Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa, y
 
 XVII. Las demás que señalen las leyes.

@@ -7,8 +7,8 @@ provision_type: article
 number: "120"
 aliases: ["REG-LGCFD — Artículo 120"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -21,7 +21,9 @@ En los términos previstos por los artículos 79, fracciones I, II, III y IV, y 
 
 La tramitación y resolución del Recurso de Apelación se sujetará a los requisitos y condiciones previstos en el artículo [83](../../lgcfd/markdown/articulo-83.md) de la Ley, considerando lo siguiente:
 
-I. Tratándose de la interposición del recurso por medios electrónicos, ópticos o de cualquier otra tecnología, se deberá acreditar fehacientemente la recepción de los mismos. Asimismo, el promovente únicamente deberá de remitir por alguno de esos medios, su escrito inicial y al momento de ratificarlos por escrito deberá acompañar, en su caso, el documento original que contenga el acto, omisión, decisión, acuerdo o resolución impugnada, y su constancia de notificación, así como las pruebas que acrediten sus hechos y agravios; II. Tratándose de la interposición del recurso por comparecencia, se deberá levantar el acta conducente ante cualquiera de los integrantes del Pleno de la CAAD, dicha acta deberá ser firmada por el compareciente, por el Secretario General y por el integrante del Pleno de la CAAD ante quien se levantó. Asimismo, el compareciente en ese acto, deberá mostrar una identificación oficial con la que acredite su identidad, así como el documento original que contenga el acto, omisión, decisión, acuerdo o resolución impugnada, y su constancia de notificación, también deberá ofrecer las pruebas con las que, a su juicio, se demuestren sus hechos y agravios;
+I. Tratándose de la interposición del recurso por medios electrónicos, ópticos o de cualquier otra tecnología, se deberá acreditar fehacientemente la recepción de los mismos. Asimismo, el promovente únicamente deberá de remitir por alguno de esos medios, su escrito inicial y al momento de ratificarlos por escrito deberá acompañar, en su caso, el documento original que contenga el acto, omisión, decisión, acuerdo o resolución impugnada, y su constancia de notificación, así como las pruebas que acrediten sus hechos y agravios;
+
+II. Tratándose de la interposición del recurso por comparecencia, se deberá levantar el acta conducente ante cualquiera de los integrantes del Pleno de la CAAD, dicha acta deberá ser firmada por el compareciente, por el Secretario General y por el integrante del Pleno de la CAAD ante quien se levantó. Asimismo, el compareciente en ese acto, deberá mostrar una identificación oficial con la que acredite su identidad, así como el documento original que contenga el acto, omisión, decisión, acuerdo o resolución impugnada, y su constancia de notificación, también deberá ofrecer las pruebas con las que, a su juicio, se demuestren sus hechos y agravios;
 
 III. El Pleno de la CAAD determinará la no admisión a trámite del Recurso de Apelación en los siguientes casos:
 

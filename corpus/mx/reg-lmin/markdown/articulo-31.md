@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["REG-LMIN — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf
 source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 ---
@@ -33,7 +33,9 @@ VI. En su caso, el monto mínimo a que se refiere el artículo [34](articulo-34.
 
 VII. Las causas, procedimientos y plazos para que la Secretaría pueda posponer las fechas de realización de las fases del concurso, tomando en cuenta que para ello deberá hacerlo con la debida anticipación y otorgar un plazo necesario para que los participantes, así como los que hubiesen comprado las bases, en igualdad de circunstancias, puedan llevar a cabo las adecuaciones o requerimientos ya establecidos;
 
-VIII. El procedimiento que se seguirá para que los participantes que se encuentren en el supuesto del último párrafo del artículo [33](articulo-33.md) de este Reglamento, puedan mejorar su propuesta económica y para determinar el ganador del concurso en los términos de los párrafos segundo y tercero del citado artículo; IX. Las causas para declarar desierto el concurso;
+VIII. El procedimiento que se seguirá para que los participantes que se encuentren en el supuesto del último párrafo del artículo [33](articulo-33.md) de este Reglamento, puedan mejorar su propuesta económica y para determinar el ganador del concurso en los términos de los párrafos segundo y tercero del citado artículo;
+
+IX. Las causas para declarar desierto el concurso;
 
 X. La prevención sobre las causas de descalificación a que se refiere el artículo [37](articulo-37.md) de este Reglamento;
 

@@ -11,7 +11,7 @@ temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [1]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 # DÉCIMO
@@ -20,9 +20,9 @@ Lo dispuesto en los párrafos segundo y tercero de la disposición Cuarta Transi
 
 DÉCIMO PRIMERO.- Lo dispuesto en la disposición Cuarta Transitoria de las Disposiciones de carácter general aplicables a la metodología de la calificación de la cartera crediticia de las instituciones de crédito, publicadas en el Diario Oficial de la Federación el 20 de agosto de 20047, continuará vigente hasta la conclusión de los términos ahí previstos.
 
-DÉCIMO SEGUNDO.- Lo dispuesto en el inciso (a) de la disposición Sexta Transitoria de la Circular 1343 referente a “criterios contables” emitida por la Comisión el día 10 de enero de 19978, continuará vigente hasta la conclusión de los términos ahí previstos.
+DÉCIMO SEGUNDO.- Lo dispuesto en el inciso (a) de la disposición Sexta Transitoria de la Circular 1343 referente a “criterios contables” emitida por la [Comisión](articulo-1.md) el día 10 de enero de 19978, continuará vigente hasta la conclusión de los términos ahí previstos.
 
-DÉCIMO TERCERO.- Las Instituciones contarán con un plazo de noventa días naturales contado a partir de la entrada en vigor de las presentes disposiciones, para presentar a través de su director general, a la vicepresidencia de la Comisión encargada de su supervisión, un plan para implementar lo previsto en el Capítulo VI del Título Segundo de estas disposiciones, el cual deberá estar aprobado por su Consejo. Tratándose de las instituciones de banca múltiple, adicionalmente, darán a conocer la situación que guarda su Sistema de Control Interno de conformidad con la Circular 1506 emitida por esta Comisión el 7 de septiembre de 2001.
+DÉCIMO TERCERO.- Las Instituciones contarán con un plazo de noventa días naturales contado a partir de la entrada en vigor de las presentes disposiciones, para presentar a través de su director general, a la vicepresidencia de la Comisión encargada de su supervisión, un plan para implementar lo previsto en el Capítulo VI del Título Segundo de estas disposiciones, el cual deberá estar aprobado por su [Consejo](articulo-1.md). Tratándose de las instituciones de banca múltiple, adicionalmente, darán a conocer la situación que guarda su [Sistema de Control Interno](articulo-1.md) de conformidad con la Circular 1506 emitida por esta Comisión el 7 de septiembre de 2001.
 
 Las instituciones de banca múltiple contarán con un plazo de cinco meses contado a partir de la entrada en vigor de las presentes disposiciones, para concluir la implementación del citado plan. Las instituciones de banca de desarrollo contarán con un plazo de ocho meses, contado a partir de la entrada en vigor de las presentes disposiciones, para los mismos efectos.
 
@@ -38,6 +38,6 @@ Los plazos previstos en esta disposición transitoria no serán aplicables para 
 
 DÉCIMO CUARTO.- Por lo que toca a las instituciones de banca de desarrollo, se entenderá que cumplen lo dispuesto en el antepenúltimo párrafo del Artículo [76](articulo-76.md), respecto de las funciones de control contenidas en los incisos a), b), c) y d) del Artículo [86](articulo-86.md), en la medida que cumplan con los Artículos [166](articulo-166.md) y [167](articulo-167.md), todos los anteriores de las presentes disposiciones.
 
-DÉCIMO QUINTO.- Las consultas relacionadas con los Criterios Contables para las Instituciones y con los lineamientos generales para la valuación bancaria, deberán plantearse a la Comisión por conducto de la Asociación de Bancos de México, A.C.
+DÉCIMO QUINTO.- Las consultas relacionadas con los [Criterios Contables](articulo-1.md) para las Instituciones y con los lineamientos generales para la valuación bancaria, deberán plantearse a la Comisión por conducto de la Asociación de Bancos de [México](articulo-1.md), A.C.
 
 DÉCIMO SEXTO.- Lo dispuesto en la disposiciones Tercera, Cuarta y Quinta Transitorias de las disposiciones que establecen los requisitos que deberán cumplir los auditores externos y las instituciones de crédito en relación con los servicios de auditoría externa, publicadas en el Diario Oficial de la Federación el 27 de abril de 20049, continuará vigente hasta la conclusión de los términos ahí previstos.

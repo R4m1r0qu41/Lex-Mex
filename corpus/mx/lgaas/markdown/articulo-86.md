@@ -7,8 +7,8 @@ provision_type: article
 number: "86"
 aliases: ["LGAAS — Artículo 86"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf
 source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 ---
@@ -25,7 +25,9 @@ II. La efectividad de los sistemas de distribución de alimentos;
 
 III. El fortalecimiento sostenible de la base productiva de alimentos;
 
-IV. La reserva de alimentos frente a situaciones de emergencia; V. Los mecanismos de coordinación y colaboración sectorial e interinstitucional, así como de supervisión y evaluación;
+IV. La reserva de alimentos frente a situaciones de emergencia;
+
+V. Los mecanismos de coordinación y colaboración sectorial e interinstitucional, así como de supervisión y evaluación;
 
 VI. La atención de personas o grupos de atención prioritaria, con perspectiva de género y enfoque intercultural;
 

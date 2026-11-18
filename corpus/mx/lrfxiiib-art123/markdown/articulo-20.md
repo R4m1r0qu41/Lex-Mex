@@ -25,7 +25,9 @@ II.- Cometer el trabajador contra alguno de sus compañeros cualquiera de los ac
 
 III.- Cometer el trabajador, fuera del servicio, contra los representantes de la institución o el personal directivo o administrativo, alguno de los actos a que se refiere la fracción I, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
 
-IV.- Ocasionar el trabajador, intencionalmente, perjuicios materiales o económicos durante el desempeño de las labores, o con motivo de ellas, en los edificios, obras, maquinaria, instrumentos y demás objetos relacionados con el trabajo; V.- Ocasionar el trabajador los perjuicios de que habla la fracción anterior, siempre que sean graves sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
+IV.- Ocasionar el trabajador, intencionalmente, perjuicios materiales o económicos durante el desempeño de las labores, o con motivo de ellas, en los edificios, obras, maquinaria, instrumentos y demás objetos relacionados con el trabajo;
+
+V.- Ocasionar el trabajador los perjuicios de que habla la fracción anterior, siempre que sean graves sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
 
 VI.- Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del establecimiento o de las personas que se encuentren en él;
 

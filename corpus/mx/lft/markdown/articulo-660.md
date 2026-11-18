@@ -33,4 +33,6 @@ VI. Instalada la convención, se procederá al registro de credenciales y a la e
 
 VII. Instalada la Mesa Directiva, se procederá a la revisión de las credenciales, dándoles lectura en voz alta. Las convenciones sólo podrán desechar las que no reúnan los requisitos señalados en los artículo [652](articulo-652.md) y [653](articulo-653.md), o cuando se compruebe que los electores no pertenecen a la rama de la industria o de las actividades representadas en la convención;
 
-VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y IX. Concluida la elección, se levantará un acta; un ejemplar se remitirá a la Secretaría del Trabajo y Previsión Social, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial. Fracción reformada DOF 23-12-1974, 09-04-2012, 01-05-2019
+VIII. Aprobadas las credenciales se procederá a la elección de los representantes, por mayoría de votos. Por cada propietario se elegirá un suplente; y
+
+IX. Concluida la elección, se levantará un acta; un ejemplar se remitirá a la Secretaría del Trabajo y Previsión Social, y dos se entregarán a los representantes electos, propietario o suplente, a fin de que les sirvan de credencial. Fracción reformada DOF 23-12-1974, 09-04-2012, 01-05-2019

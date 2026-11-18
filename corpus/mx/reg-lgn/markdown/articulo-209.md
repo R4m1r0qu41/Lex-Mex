@@ -21,4 +21,6 @@ Los Integrantes de Carrera que resulten inconformes con la resolución dictada p
 
 I. El Consejo de Honor Superior cuando las resoluciones fueron emitidas por el Consejo de Honor Ordinario;
 
-II. El Consejo de Comisarios cuando las resoluciones fueron emitidas por el Consejo de Honor Superior, y III. El Consejo de Comisarios, en su modalidad de reducido, el cual se integrará por tres Comisarios de mayor antigüedad distintos al Consejo de Comisarios que conoció del asunto, cuando las resoluciones fueron emitidas por el Consejo de Comisarios.
+II. El Consejo de Comisarios cuando las resoluciones fueron emitidas por el Consejo de Honor Superior, y
+
+III. El Consejo de Comisarios, en su modalidad de reducido, el cual se integrará por tres Comisarios de mayor antigüedad distintos al Consejo de Comisarios que conoció del asunto, cuando las resoluciones fueron emitidas por el Consejo de Comisarios.

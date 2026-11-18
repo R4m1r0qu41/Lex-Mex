@@ -21,7 +21,9 @@ Las notificaciones a que se refiere este Apartado surtirán sus efectos al día 
 
 I. Se hubieren efectuado personalmente;
 
-II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [87 Bis 3](articulo-87-Bis-3.md) y [87 Bis 11](articulo-87-Bis-11.md) anteriores; III. Se hubiere efectuado la última publicación a que se refiere el artículo [87 Bis 10](articulo-87-Bis-10.md) de esta Ley, y
+II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [87 Bis 3](articulo-87-Bis-3.md) y [87 Bis 11](articulo-87-Bis-11.md) anteriores;
+
+III. Se hubiere efectuado la última publicación a que se refiere el artículo [87 Bis 10](articulo-87-Bis-10.md) de esta Ley, y
 
 IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 

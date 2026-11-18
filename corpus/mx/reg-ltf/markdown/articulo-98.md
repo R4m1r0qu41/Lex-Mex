@@ -21,6 +21,8 @@ La Tesorería podrá dejar sin efectos los actos de vigilancia en los casos sigu
 
 I. El sujeto revisado este en huelga o suspensión de labores;
 
-II. Cuando el sujeto revisado cambie de naturaleza jurídica, se extinga, fusione o escinda, o III. Cuando el [Personal de Vigilancia de las Funciones de tesorería](articulo-2.md) se vea impedido para continuar el ejercicio de sus funciones de vigilancia por caso fortuito o fuerza mayor.
+II. Cuando el sujeto revisado cambie de naturaleza jurídica, se extinga, fusione o escinda, o
+
+III. Cuando el [Personal de Vigilancia de las Funciones de tesorería](articulo-2.md) se vea impedido para continuar el ejercicio de sus funciones de vigilancia por caso fortuito o fuerza mayor.
 
 Lo anterior, sin perjuicio de que la Tesorería lleve a cabo un nuevo acto de vigilancia, incluso respecto de los mismos conceptos y periodo, una vez reestablecidas las condiciones para su ejercicio, o bien, se conozca al ente que haya adquirido los derechos y obligaciones del entonces sujeto revisado, según sea el caso.

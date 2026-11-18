@@ -25,7 +25,9 @@ II. Desempeñar las comisiones y funciones que le confiera el Comandante, e info
 
 III. Coordinar la aplicación de políticas, normas, sistemas y procedimientos para la organización y administración de los recursos humanos, financieros, materiales y de las tecnologías de la información y comunicaciones de la Institución;
 
-IV. Establecer la vinculación en el ámbito administrativo con las instancias competentes del Ejecutivo Federal, para el efectivo funcionamiento de la Institución; V. Someter a la consideración del Comandante, el Programa Operativo Anual de Trabajo, el anteproyecto de presupuesto anual, el calendario de gasto de las unidades de la Institución y los demás programas que se le encomienden;
+IV. Establecer la vinculación en el ámbito administrativo con las instancias competentes del Ejecutivo Federal, para el efectivo funcionamiento de la Institución;
+
+V. Someter a la consideración del Comandante, el Programa Operativo Anual de Trabajo, el anteproyecto de presupuesto anual, el calendario de gasto de las unidades de la Institución y los demás programas que se le encomienden;
 
 VI. Autorizar la documentación necesaria para el ejercicio del presupuesto asignado y presentar al Comandante lo que corresponda a las erogaciones que deban ser autorizadas por éste, conforme a las disposiciones jurídicas aplicables;
 
@@ -51,7 +53,9 @@ XVI. Establecer los mecanismos para lograr la cooperación de diversos organismo
 
 XVII. Establecer la doctrina institucional de acuerdo a las políticas que dicte el [Secretario](articulo-2.md), así como supervisar su cumplimiento y divulgar entre los integrantes los criterios normativos que sustenta ésta;
 
-XVIII. Vigilar el cumplimiento ante las autoridades competentes respecto de los trámites relacionados con la licencia oficial colectiva de portación de armas y, en su caso, realizar otros permisos o licencias que se requieran para el cumplimiento de los objetivos de la Institución; XIX. Procesar y controlar la información estadística de las unidades administrativas que tenga adscritas, que coadyuve a la toma de decisiones y el cumplimiento de los objetivos propuestos;
+XVIII. Vigilar el cumplimiento ante las autoridades competentes respecto de los trámites relacionados con la licencia oficial colectiva de portación de armas y, en su caso, realizar otros permisos o licencias que se requieran para el cumplimiento de los objetivos de la Institución;
+
+XIX. Procesar y controlar la información estadística de las unidades administrativas que tenga adscritas, que coadyuve a la toma de decisiones y el cumplimiento de los objetivos propuestos;
 
 XX. Evaluar la ejecución y el cumplimiento de las metas comprometidas en el presupuesto anual de la Institución;
 

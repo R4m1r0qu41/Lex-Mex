@@ -17,7 +17,9 @@ source_sha256: 266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3
 
 # Artículo 3
 
-Para los efectos de esta [Ley](articulo-3.md), se entenderá por: I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+Para los efectos de esta [Ley](articulo-3.md), se entenderá por:
+
+I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
 
 II. Atlas Turístico de México: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 

@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Sexto
@@ -29,7 +29,9 @@ I. La duración de la jornada máxima será de ocho horas.
 
 II. La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años; Fracción reformada DOF 21-11-1962, 31-12-1974
 
-III. Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas. Fracción reformada DOF 21-11-1962, 17-06-2014 IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
+III. Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas. Fracción reformada DOF 21-11-1962, 17-06-2014
+
+IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
 
 Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro. Fracción reformada DOF 03-03-2026
 
@@ -103,7 +105,9 @@ XX. La resolución de las diferencias o los conflictos entre trabajadores y patr
 
 Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente. En el orden local, la función conciliatoria estará a cargo de los Centros de Conciliación, especializados e imparciales que se instituyan en las entidades federativas. Dichos centros tendrán personalidad jurídica y patrimonio propios. Contarán con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirán por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las leyes locales.
 
-La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución. En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
 
 El organismo descentralizado federal también tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública de los sindicatos y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos. Párrafo adicionado DOF 20-12-2024
 
@@ -115,7 +119,9 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 
 El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia. Fracción reformada DOF 24-02-2017
 
-XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo. Fracción reformada DOF 21-11-1962, 24-02-2017 XXII. El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él. Fracción reformada DOF 21-11-1962
+XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo. Fracción reformada DOF 21-11-1962, 24-02-2017
+
+XXII. El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él. Fracción reformada DOF 21-11-1962
 
 XXII Bis. Los procedimientos y requisitos que establezca la ley para asegurar la libertad de negociación colectiva y los legítimos intereses de trabajadores y patrones, deberán garantizar, entre otros, los siguientes principios:
 
@@ -141,9 +147,7 @@ a) Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la 
 
 b) Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales. Inciso reformado DOF 24-02-2017
 
-c) Las que estipulen un plazo mayor de una semana para la percepción del jornal.
-
-d) Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
+c) Las que estipulen un plazo mayor de una semana para la percepción del jornal. d) Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
 
 e) Las que entrañen obligación directa o indirecta de adquirir los artículos de consumo en tiendas o lugares determinados.
 
@@ -171,9 +175,7 @@ a) Ramas industriales y servicios. Encabezado de inciso reformado DOF 27-06-1990
 
 4. Hulera;
 
-5. Azucarera;
-
-6. Minera;
+5. Azucarera; 6. Minera;
 
 7. Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
 
@@ -201,7 +203,9 @@ a) Ramas industriales y servicios. Encabezado de inciso reformado DOF 27-06-1990
 
 19. Maderera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera; Fe de erratas al numeral DOF 13-01-1978
 
-20. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y 21. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
+20. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
+
+21. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
 
 22. Servicios de banca y crédito. Numeral adicionado DOF 27-06-1990
 
@@ -209,9 +213,7 @@ b) Empresas:
 
 1. Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 
-2. Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y
-
-3. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
+2. Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y 3. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
 c) Materias:
 
@@ -227,7 +229,9 @@ c) Materias:
 
 B. Entre los Poderes de la Unión y sus trabajadores: Párrafo reformado DOF 08-10-1974, 29-01-2016
 
-I. La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas; II. Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
+I. La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+
+II. Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
 
 III. Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 
@@ -251,7 +255,9 @@ X. Los trabajadores tendrán el derecho de asociarse para la defensa de sus inte
 
 XI. La seguridad social se organizará conforme a las siguientes bases mínimas:
 
-a) Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte. b) En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
+a) Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b) En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
 
 c) Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un mes de descanso antes de la fecha fijada aproximadamente para el parto y de otros dos después del mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles. Inciso reformado DOF 31-12-1974
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["REG-LOPGJDF — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -23,7 +23,9 @@ I. Proponer los criterios de organización del Centro de Arraigo;
 
 II. Emitir los lineamientos de operación del Centro de Arraigo, con respeto irrestricto a los derechos humanos;
 
-III. Garantizar durante el ingreso y permanencia de las personas arraigadas, que reciba, en su caso, la atención médica adecuada; IV. Organizar y desarrollar mecanismos permanentes de coordinación con las autoridades Ministeriales solicitantes del arraigo, así como las áreas de la Oficialía Mayor de la Procuraduría, para la ejecución del arraigo;
+III. Garantizar durante el ingreso y permanencia de las personas arraigadas, que reciba, en su caso, la atención médica adecuada;
+
+IV. Organizar y desarrollar mecanismos permanentes de coordinación con las autoridades Ministeriales solicitantes del arraigo, así como las áreas de la Oficialía Mayor de la Procuraduría, para la ejecución del arraigo;
 
 V. Recibir para su custodia y vigilancia a las personas sujetas a la medida cautelar del arraigo, previa entrega del mandamiento judicial que lo autorice, certificado médico y oficio de solicitud del Ministerio Público responsable, en el que deberá constar día de inicio y vencimiento del arraigo;
 

@@ -27,6 +27,8 @@ III. La fijación de acuerdos sobre hechos no controvertidos;
 
 IV. La fijación de acuerdos probatorios;
 
-V. La calificación sobre la admisibilidad de las pruebas, y Fracción reformada DOF 09-01-2012 VI. La citación para audiencia de juicio.
+V. La calificación sobre la admisibilidad de las pruebas, y Fracción reformada DOF 09-01-2012
+
+VI. La citación para audiencia de juicio.
 
 Artículo adicionado DOF 27-01-2011

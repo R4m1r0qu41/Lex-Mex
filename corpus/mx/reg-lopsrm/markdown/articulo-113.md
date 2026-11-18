@@ -25,7 +25,9 @@ II. Tomar las decisiones técnicas correspondientes y necesarias para la correct
 
 III. Vigilar, previo al inicio de los trabajos, que se cumplan con las condiciones previstas en los artículos [19](../../lopsrm/markdown/articulo-19.md) y [20](../../lopsrm/markdown/articulo-20.md) de la [Ley](articulo-2.md);
 
-IV. Verificar la disponibilidad de los recursos presupuestales necesarios para la suscripción de cualquier convenio modificatorio que implique la erogación de recursos; V. Dar apertura a la [Bitácora](articulo-2.md) en términos de lo previsto por la fracción III del artículo [123](articulo-123.md) de este Reglamento, así como por medio de ella, emitir las instrucciones pertinentes y recibir las solicitudes que le formule el superintendente. Cuando la Bitácora se lleve por medios convencionales, ésta quedará bajo su resguardo;
+IV. Verificar la disponibilidad de los recursos presupuestales necesarios para la suscripción de cualquier convenio modificatorio que implique la erogación de recursos;
+
+V. Dar apertura a la [Bitácora](articulo-2.md) en términos de lo previsto por la fracción III del artículo [123](articulo-123.md) de este Reglamento, así como por medio de ella, emitir las instrucciones pertinentes y recibir las solicitudes que le formule el superintendente. Cuando la Bitácora se lleve por medios convencionales, ésta quedará bajo su resguardo;
 
 VI. Vigilar y controlar el desarrollo de los trabajos, en sus aspectos de calidad, costo, tiempo y apego a los programas de ejecución de los trabajos, de acuerdo con los avances, recursos asignados y rendimientos pactados en el contrato.
 

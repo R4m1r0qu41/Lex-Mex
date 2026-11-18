@@ -352,39 +352,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:6000-6009",
+    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:6001-6010",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:regulados",
     "span": "Regulados",
-    "start_char": 6000,
-    "end_char": 6009
+    "start_char": 6001,
+    "end_char": 6010
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:6872-6882",
+    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:6873-6883",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6872,
-    "end_char": 6882
+    "start_char": 6873,
+    "end_char": 6883
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:7394-7401",
+    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:7395-7402",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:riesgo",
     "span": "Riesgos",
-    "start_char": 7394,
-    "end_char": 7401
+    "start_char": 7395,
+    "end_char": 7402
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:7523-7533",
+    "id": "urn:lex-mx:federal:statute:lansi:article:5:term-usage:7524-7534",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7523,
-    "end_char": 7533
+    "start_char": 7524,
+    "end_char": 7534
   },
   {
     "schema_version": "0.1.0",
@@ -595,147 +595,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1057-1077",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1058-1078",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 1057,
-    "end_char": 1077
+    "start_char": 1058,
+    "end_char": 1078
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1079-1098",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1080-1099",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 1079,
-    "end_char": 1098
+    "start_char": 1080,
+    "end_char": 1099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1217-1237",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1218-1238",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 1217,
-    "end_char": 1237
+    "start_char": 1218,
+    "end_char": 1238
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1239-1258",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1240-1259",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 1239,
-    "end_char": 1258
+    "start_char": 1240,
+    "end_char": 1259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1325-1350",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1326-1351",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:sistema-de-administracion",
     "span": "Sistema de Administración",
-    "start_char": 1325,
-    "end_char": 1350
+    "start_char": 1326,
+    "end_char": 1351
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1454-1479",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1455-1480",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:sistema-de-administracion",
     "span": "Sistema de Administración",
-    "start_char": 1454,
-    "end_char": 1479
+    "start_char": 1455,
+    "end_char": 1480
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1538-1558",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1539-1559",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 1538,
-    "end_char": 1558
+    "start_char": 1539,
+    "end_char": 1559
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1560-1579",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1561-1580",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 1560,
-    "end_char": 1579
+    "start_char": 1561,
+    "end_char": 1580
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1847-1867",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1848-1868",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 1847,
-    "end_char": 1867
+    "start_char": 1848,
+    "end_char": 1868
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1869-1888",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:1870-1889",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 1869,
-    "end_char": 1888
+    "start_char": 1870,
+    "end_char": 1889
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2228-2253",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2229-2254",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:sistema-de-administracion",
     "span": "Sistema de Administración",
-    "start_char": 2228,
-    "end_char": 2253
+    "start_char": 2229,
+    "end_char": 2254
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2489-2498",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2490-2499",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:regulados",
     "span": "Regulados",
-    "start_char": 2489,
-    "end_char": 2498
+    "start_char": 2490,
+    "end_char": 2499
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2513-2533",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2514-2534",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 2513,
-    "end_char": 2533
+    "start_char": 2514,
+    "end_char": 2534
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2535-2554",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2536-2555",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 2535,
-    "end_char": 2554
+    "start_char": 2536,
+    "end_char": 2555
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2706-2726",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2707-2727",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
     "span": "Seguridad Industrial",
-    "start_char": 2706,
-    "end_char": 2726
+    "start_char": 2707,
+    "end_char": 2727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2728-2747",
+    "id": "urn:lex-mx:federal:statute:lansi:article:13:term-usage:2729-2748",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:13",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
     "span": "Seguridad Operativa",
-    "start_char": 2728,
-    "end_char": 2747
+    "start_char": 2729,
+    "end_char": 2748
   },
   {
     "schema_version": "0.1.0",
@@ -1117,12 +1117,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:26:term-usage:772-779",
+    "id": "urn:lex-mx:federal:statute:lansi:article:26:term-usage:773-780",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:26",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
     "span": "Agencia",
-    "start_char": 772,
-    "end_char": 779
+    "start_char": 773,
+    "end_char": 780
   },
   {
     "schema_version": "0.1.0",
@@ -1324,12 +1324,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lansi:article:31:term-usage:1275-1282",
+    "id": "urn:lex-mx:federal:statute:lansi:article:31:term-usage:1276-1283",
     "provision_id": "urn:lex-mx:federal:statute:lansi:article:31",
     "term_id": "urn:lex-mx:federal:statute:lansi:term:agencia",
     "span": "Agencia",
-    "start_char": 1275,
-    "end_char": 1282
+    "start_char": 1276,
+    "end_char": 1283
   },
   {
     "schema_version": "0.1.0",

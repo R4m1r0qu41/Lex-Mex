@@ -25,4 +25,6 @@ II. Los documentos redactados en idioma extranjero, se acompañarán con su debi
 
 III. En toda actuación las cantidades y fechas se escribirán con letra, y no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que solo se pondrá una línea delgada que permita su lectura salvándose al final del documento con toda precisión el error cometido. Lo anterior no será aplicable cuando las actuaciones se realicen mediante el uso de equipos de cómputo, pero será responsabilidad de la Autoridad substanciadora o resolutora, que en las actuaciones se haga constar fehacientemente lo acontecido durante ellas;
 
-IV. Todas las constancias del expediente deberán ser foliadas, selladas y rubricadas en orden progresivo, y V. Las actuaciones serán autorizadas por las autoridades substanciadoras o resolutoras, y, en su caso, por el secretario a quien corresponda certificar o dar fe del acto cuando así se determine de conformidad con las leyes correspondientes.
+IV. Todas las constancias del expediente deberán ser foliadas, selladas y rubricadas en orden progresivo, y
+
+V. Las actuaciones serán autorizadas por las autoridades substanciadoras o resolutoras, y, en su caso, por el secretario a quien corresponda certificar o dar fe del acto cuando así se determine de conformidad con las leyes correspondientes.

@@ -15,4 +15,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # OCTAVO
 
-La [Secretaría](articulo-2.md), con la participación de las Cámaras y [Confederaciones](articulo-2.md), elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.
+La [Secretaría](articulo-2.md), con la participación de las [Cámaras](articulo-2.md) y [Confederaciones](articulo-2.md), elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.

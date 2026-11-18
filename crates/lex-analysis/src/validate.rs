@@ -247,19 +247,38 @@ fn validate_amendment_marks(
     amendment_references: &[lex_core::AmendmentReference],
     issues: &mut Vec<ValidationIssue>,
 ) {
-    let mut legend = HashSet::new();
+    // A publisher can print the same legend entry twice (CUB 2023 edition:
+    // markers 325 and 326). A repeat with identical text is read once and
+    // disclosed as a warning; a repeat that differs stays an error.
+    let mut legend: HashMap<u32, String> = HashMap::new();
     for reference in amendment_references {
-        if !legend.insert(reference.marker) {
-            issues.push(error(
+        let text = reference
+            .description
+            .split_whitespace()
+            .collect::<Vec<_>>()
+            .join(" ");
+        match legend.get(&reference.marker) {
+            None => {
+                legend.insert(reference.marker, text);
+            }
+            Some(first) if *first == text => issues.push(warning(
+                "duplicate_amendment_marker_identical",
+                format!(
+                    "legend repeats marker {} with identical text; read once",
+                    reference.marker
+                ),
+                None,
+            )),
+            Some(_) => issues.push(error(
                 "duplicate_amendment_marker",
                 format!("legend defines marker {} more than once", reference.marker),
                 None,
-            ));
+            )),
         }
     }
     for provision in provisions {
         for mark in &provision.amendment_marks {
-            if !legend.contains(mark) {
+            if !legend.contains_key(mark) {
                 issues.push(error(
                     "unknown_amendment_mark",
                     format!("amendment mark ({mark}) is not defined by the legend"),
@@ -1074,6 +1093,69 @@ mod tests {
             met_on,
             evidence: evidence.map(str::to_owned),
         }
+    }
+
+    fn legend_entry(marker: u32, description: &str) -> lex_core::AmendmentReference {
+        lex_core::AmendmentReference {
+            marker,
+            description: description.to_owned(),
+        }
+    }
+
+    #[test]
+    fn an_identical_repeated_legend_entry_is_a_warning_and_a_conflicting_one_an_error() {
+        let mut issues = Vec::new();
+        validate_amendment_marks(
+            &[],
+            &[
+                legend_entry(
+                    325,
+                    "Reformado por Resolución\n  publicada el 15 de septiembre de 2023.",
+                ),
+                legend_entry(326, "Adicionado por Resolución."),
+                legend_entry(
+                    325,
+                    "Reformado por Resolución publicada el 15 de septiembre de 2023.",
+                ),
+            ],
+            &mut issues,
+        );
+        assert_eq!(issues.len(), 1);
+        assert_eq!(issues[0].code, "duplicate_amendment_marker_identical");
+        assert_eq!(issues[0].severity, Severity::Warning);
+
+        let mut conflicting = Vec::new();
+        validate_amendment_marks(
+            &[],
+            &[
+                legend_entry(325, "Reformado por Resolución de 2023."),
+                legend_entry(325, "Adicionado por Resolución de 2024."),
+            ],
+            &mut conflicting,
+        );
+        assert_eq!(conflicting.len(), 1);
+        assert_eq!(conflicting[0].code, "duplicate_amendment_marker");
+        assert_eq!(conflicting[0].severity, Severity::Error);
+    }
+
+    #[test]
+    fn a_mark_without_a_legend_entry_stays_an_error_even_beside_identical_repeats() {
+        let mut provision = repeal_fixture_provision(TemporalStatus::Unknown, Vec::new(), None);
+        provision.amendment_marks = vec![91];
+        let mut issues = Vec::new();
+        validate_amendment_marks(
+            &[provision],
+            &[legend_entry(90, "Uno."), legend_entry(90, "Uno.")],
+            &mut issues,
+        );
+        let codes: Vec<_> = issues.iter().map(|i| i.code.as_str()).collect();
+        assert_eq!(
+            codes,
+            [
+                "duplicate_amendment_marker_identical",
+                "unknown_amendment_mark"
+            ]
+        );
     }
 
     #[test]

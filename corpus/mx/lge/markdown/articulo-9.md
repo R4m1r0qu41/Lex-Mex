@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LGE — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf
 source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 ---
@@ -43,7 +43,9 @@ Las autoridades educativas ofrecerán opciones que faciliten la obtención de lo
 
 Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-X. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Nacional; XI. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
+X. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Nacional;
+
+XI. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
 XII. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución, y
 

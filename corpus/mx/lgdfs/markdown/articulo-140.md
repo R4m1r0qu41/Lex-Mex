@@ -27,7 +27,9 @@ III. Las aportaciones y donaciones de personas físicas o morales de carácter p
 
 IV. El producto de sus operaciones y de la inversión de fondos libres en valores comerciales o del sector público;
 
-V. Un cinco por ciento del monto del bono certificado, a que se refiere el artículo [138](articulo-138.md) de la presente Ley; VI. El cobro por bienes y servicios ambientales y por asistencia técnica;
+V. Un cinco por ciento del monto del bono certificado, a que se refiere el artículo [138](articulo-138.md) de la presente Ley;
+
+VI. El cobro por bienes y servicios ambientales y por asistencia técnica;
 
 VII. La transferencia de recursos de los usuarios de las cuencas hidrográficas, y
 

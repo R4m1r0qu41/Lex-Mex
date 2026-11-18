@@ -22,7 +22,7 @@ Las casas de bolsa deberán mantener invertido, por lo menos, el veinte por cien
 
 I. Depósitos bancarios de dinero a la vista.
 
-II. Valores representativos de deuda con alta liquidez, inscritos en el Registro.
+II. Valores representativos de deuda con alta liquidez, inscritos en el [Registro](articulo-1.md).
 
 III. Acciones de sociedades de inversión en instrumentos de deuda.
 
@@ -30,6 +30,6 @@ IV. Fondos de reserva cuyo objeto sea mantener recursos disponibles para hacer f
 
 V. Acciones de alta y media bursatilidad, a las que se deberán aplicar el veinte y veinticinco por ciento de descuento, respectivamente, sobre su valor de mercado, siempre y cuando dichos valores se refieran a “Títulos a negociar” y “Títulos disponibles para la venta”, en ambos casos sin restricción.
 
-El resto del capital neto de las casas de bolsa, podrá invertirse de conformidad con la Ley y las presentes disposiciones.
+El resto del capital neto de las casas de bolsa, podrá invertirse de conformidad con la [Ley](articulo-1.md) y las presentes disposiciones.
 
 Las casas de bolsa en ningún momento podrán adquirir las acciones representativas del capital social de personas morales que a su vez sean accionistas de la casa de bolsa de que se trate, al igual que otros títulos emitidos por dichas personas morales, por su controladora o por sus subsidiarias.

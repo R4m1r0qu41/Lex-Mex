@@ -26,6 +26,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 12 Bis](articulo-12-Bis.md)
 - [Artículo 12 Ter](articulo-12-Ter.md)
 - [Artículo 12 Quáter](articulo-12-Quáter.md)
+- [Artículo 12 Quintus](articulo-12-Quintus.md)
 - [Artículo 13](articulo-13.md)
 - [Artículo 14](articulo-14.md)
 - [Artículo 15](articulo-15.md)

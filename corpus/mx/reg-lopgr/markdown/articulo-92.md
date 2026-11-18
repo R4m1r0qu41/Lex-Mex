@@ -47,6 +47,8 @@ XIII. Fungir como Secretario Técnico del Consejo y demás órganos que disponga
 
 XIV. Coordinar con las unidades administrativas y órganos desconcentrados competentes en el diseño, instrumentación, valoración y ejecución de los sistemas de evaluación del desempeño profesional de agentes del Ministerio Público de la Federación, así como de la Policía y de los peritos;
 
-XV. Tramitar y, en su caso, expedir los nombramientos del personal ministerial, policial y pericial, que los acredite como miembros del Servicio de Carrera, y XVI. Utilizar y compartir con las unidades administrativas y órganos desconcentrados competentes de la Institución, información relativa a los resultados de las evaluaciones de los miembros del Servicio de Carrera, con sujeción a las disposiciones en materia de transparencia y acceso a la información pública, para la mejora de los procesos vinculados con el desarrollo del capital humano de la Procuraduría.
+XV. Tramitar y, en su caso, expedir los nombramientos del personal ministerial, policial y pericial, que los acredite como miembros del Servicio de Carrera, y
+
+XVI. Utilizar y compartir con las unidades administrativas y órganos desconcentrados competentes de la Institución, información relativa a los resultados de las evaluaciones de los miembros del Servicio de Carrera, con sujeción a las disposiciones en materia de transparencia y acceso a la información pública, para la mejora de los procesos vinculados con el desarrollo del capital humano de la Procuraduría.
 
 En cumplimiento a lo dispuesto por el artículo 43, fracción XII, de la [Ley Orgánica](articulo-2.md), el Director General del Servicio de Carrera someterá a consideración del Consejo una terna de candidatos, con el propósito de que éste nombre al representante del ámbito académico en el mismo, conforme a las reglas que establezca para tales efectos.

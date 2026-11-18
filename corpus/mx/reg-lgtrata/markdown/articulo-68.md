@@ -29,7 +29,7 @@ c) El acceso a información pública gubernamental, con las excepciones que corr
 
 d) La rendición de cuentas respecto del ejercicio de los recursos que haga la autoridad, en función de compromisos asumidos y resultados generados sobre la situación y bienestar de víctimas u ofendidos;
 
-II. Oportunidad, por lo que el destino y uso de los recursos deberá: REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS a) Favorecer una ágil aplicación de los recursos disponibles en el Fondo en beneficio de las víctimas u ofendidos que tengan derecho a ello, y
+II. Oportunidad, por lo que el destino y uso de los recursos deberá: a) Favorecer una ágil aplicación de los recursos disponibles en el Fondo en beneficio de las víctimas u ofendidos que tengan derecho a ello, y
 
 b) Evitar imponer a una víctima u ofendido que acuda a solicitar apoyo con cargo a los recursos del Fondo una afectación adicional a la sufrida con motivo de los delitos en materia de trata de personas perpetrados en su agravio, así como una dilación o carga injustificada que agrave su condición o desmotive u obstaculice el ejercicio de su derecho a acceder a los recursos del Fondo;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["LRART27-MN — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf
 source_sha256: 547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8
 ---
@@ -21,7 +21,9 @@ Para el cumplimiento de su objeto el Instituto Nacional de Investigaciones Nucle
 
 I.- Realizar e impulsar las actividades que conduzcan al desarrollo científico y tecnológico en el campo de las ciencias y tecnologías nucleares, así como promover la transferencia, adaptación y asimilación de tecnología en esta materia;
 
-II.- Prestar asistencia técnica a las dependencias y entidades públicas y privadas que lo requieran, en el diseño, construcción y operación de instalaciones radiactivas y, en su caso, en la contratación de dichos servicios; asimismo, los prestará a los organismos autorizados en materia de instalaciones nucleares; III.- Promover el desarrollo nacional de la tecnología en la industria nuclear realizando y fomentando la innovación, transferencia y adaptación de tecnologías para el diseño, la fabricación y la construcción de componentes y equipos;
+II.- Prestar asistencia técnica a las dependencias y entidades públicas y privadas que lo requieran, en el diseño, construcción y operación de instalaciones radiactivas y, en su caso, en la contratación de dichos servicios; asimismo, los prestará a los organismos autorizados en materia de instalaciones nucleares;
+
+III.- Promover el desarrollo nacional de la tecnología en la industria nuclear realizando y fomentando la innovación, transferencia y adaptación de tecnologías para el diseño, la fabricación y la construcción de componentes y equipos;
 
 IV.- Realizar actividades de investigación y desarrollo relativas a las aplicaciones y aprovechamiento de sistemas nucleares y materiales radiactivos para usos no energéticos requeridos por el desarrollo nacional. Además, promoverá las aplicaciones de las radiaciones y los radioisótopos en sus diversos campos;
 

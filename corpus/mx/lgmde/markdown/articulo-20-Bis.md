@@ -43,7 +43,9 @@ XI. Impida, por cualquier medio, que una mujer asista a las sesiones ordinarias 
 
 XII. Impida a una mujer su derecho a voz y voto, en el ejercicio del cargo;
 
-XIII. Discrimine a una mujer embarazada, con la finalidad de evitar el ejercicio de sus derechos políticos y electorales, impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad, o de cualquier otra contemplada en la normatividad, y XIV. Realice o distribuya propaganda político electoral que degrade o denigre a una mujer, basándose en estereotipos de género, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
+XIII. Discrimine a una mujer embarazada, con la finalidad de evitar el ejercicio de sus derechos políticos y electorales, impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad, o de cualquier otra contemplada en la normatividad, y
+
+XIV. Realice o distribuya propaganda político electoral que degrade o denigre a una mujer, basándose en estereotipos de género, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
 
 Las conductas señaladas en las fracciones de la I a la VI, serán sancionadas con pena de cuatro a seis años de prisión y de 200 a 300 días multa.
 

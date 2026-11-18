@@ -21,7 +21,9 @@ Al frente de la Dirección General de Seguridad Institucional habrá un Director
 
 I. Proponer para autorización superior, la política, normas y lineamientos en materia de seguridad institucional y de protección civil, así como promover su aplicación y supervisar su cumplimiento, con apego a las disposiciones aplicables;
 
-II. Elaborar y someter a autorización los programas de seguridad institucional y de protección civil en la Procuraduría; coordinar su instrumentación y supervisar su cumplimiento, de conformidad con las disposiciones aplicables; III. Coordinar y supervisar la instalación y operación de sistemas integrales de seguridad en la Procuraduría, en coordinación con las instancias que considere pertinentes, así como administrar los servicios de seguridad privada que contrate la Institución;
+II. Elaborar y someter a autorización los programas de seguridad institucional y de protección civil en la Procuraduría; coordinar su instrumentación y supervisar su cumplimiento, de conformidad con las disposiciones aplicables;
+
+III. Coordinar y supervisar la instalación y operación de sistemas integrales de seguridad en la Procuraduría, en coordinación con las instancias que considere pertinentes, así como administrar los servicios de seguridad privada que contrate la Institución;
 
 IV. Fungir como enlace de la Procuraduría ante las autoridades y organizaciones en materia de seguridad Institucional y protección civil;
 

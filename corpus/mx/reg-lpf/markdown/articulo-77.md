@@ -7,8 +7,8 @@ provision_type: article
 number: "77"
 aliases: ["REG-LPF — Artículo 77"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -21,7 +21,9 @@ Corresponde a la Dirección General de Operación Técnica Antidrogas:
 
 I. Auxiliar a las autoridades competentes en la ejecución de los mandamientos emitidos;
 
-II. Auxiliar, en el ámbito de sus atribuciones, a las autoridades competentes en la investigación de los delitos; III. Aplicar los métodos de análisis de información para generar inteligencia táctica que permita prevenir y combatir la comisión de delitos contra la salud, en el ámbito de su competencia;
+II. Auxiliar, en el ámbito de sus atribuciones, a las autoridades competentes en la investigación de los delitos;
+
+III. Aplicar los métodos de análisis de información para generar inteligencia táctica que permita prevenir y combatir la comisión de delitos contra la salud, en el ámbito de su competencia;
 
 IV. Ejecutar los modelos y estrategias para las operaciones policiales orientadas al combate de la estructura criminal;
 

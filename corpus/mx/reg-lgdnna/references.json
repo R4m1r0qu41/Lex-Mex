@@ -404,11 +404,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27:reference:1261-1264:141:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27:reference:1262-1265:141:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27",
     "source_span": "141",
-    "start_char": 1261,
-    "end_char": 1264,
+    "start_char": 1262,
+    "end_char": 1265,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
     "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:141",
     "qualifiers": [],
@@ -420,25 +420,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27:reference:1267-1270:125:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27:reference:1268-1271:125:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27",
     "source_span": "125",
-    "start_char": 1267,
-    "end_char": 1270,
+    "start_char": 1268,
+    "end_char": 1271,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
     "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:125",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1272,
-        "end_char": 1287
+        "start_char": 1273,
+        "end_char": 1288
       },
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 1289,
-        "end_char": 1302
+        "start_char": 1290,
+        "end_char": 1303
       }
     ],
     "basis": "express_cross_reference",
@@ -609,11 +609,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:reference:1213-1216:123:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:reference:1214-1217:123:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
     "source_span": "123",
-    "start_char": 1213,
-    "end_char": 1216,
+    "start_char": 1214,
+    "end_char": 1217,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
     "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:123",
     "qualifiers": [],
@@ -765,19 +765,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38:reference:2448-2450:29:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38:reference:2449-2451:29:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38",
     "source_span": "29",
-    "start_char": 2448,
-    "end_char": 2450,
+    "start_char": 2449,
+    "end_char": 2451,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
     "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 2452,
-        "end_char": 2464
+        "start_char": 2453,
+        "end_char": 2465
       }
     ],
     "basis": "express_cross_reference",

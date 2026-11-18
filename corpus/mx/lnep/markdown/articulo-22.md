@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Policía Procesal La Policía Procesal es la unidad dependiente de la Policía Federal o de las instituciones de seguridad pública de las entidades federativas, que tendrá las funciones siguientes:
 
-I. Realizar los traslados de personas procesadas y sentenciadas a los recintos judiciales en donde se celebrarán sus audiencias; II. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales, en coordinación con las demás autoridades de seguridad competentes;
+I. Realizar los traslados de personas procesadas y sentenciadas a los recintos judiciales en donde se celebrarán sus audiencias;
+
+II. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales, en coordinación con las demás autoridades de seguridad competentes;
 
 III. Cumplir los mandamientos judiciales relacionados con las personas sentenciadas y aquellas que hayan obtenido la libertad condicional, y
 

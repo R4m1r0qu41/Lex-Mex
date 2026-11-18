@@ -9,7 +9,7 @@ aliases: ["DCG-CUCB-2004 — Artículo 117 Bis 3"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [73,84]
+amendment_marks: [73,84,108]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf
 source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 ---
@@ -18,11 +18,9 @@ source_sha256: 98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85
 
 # Artículo 117 Bis 3
 
-El área responsable de realizar las funciones de auditoría interna tendrá, entre (108)
+El área responsable de realizar las funciones de auditoría interna tendrá, entre otras, las funciones siguientes:
 
-otras, las funciones siguientes:
-
-(108) I. Evaluar con base en el programa anual de trabajo a que se refiere la fracción XII del presente artículo, mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la casa de bolsa, así como su apego al sistema de control interno, incluyendo la observancia del manual de conducta. Dicho programa anual de trabajo deberá estar basado en el riesgo asociado a cada una de las distintas unidades de la casa de bolsa
+I. Evaluar con base en el programa anual de trabajo a que se refiere la fracción XII del presente artículo, mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la casa de bolsa, así como su apego al sistema de control interno, incluyendo la observancia del manual de conducta. Dicho programa anual de trabajo deberá estar basado en el riesgo asociado a cada una de las distintas unidades de la casa de bolsa
 
 II. Revisar conforme a la periodicidad que al efecto se establezca que los mecanismos de control implementados en términos de las presentes disposiciones, conlleven la adecuada protección de los activos de la casa de bolsa y del patrimonio de sus clientes.
 

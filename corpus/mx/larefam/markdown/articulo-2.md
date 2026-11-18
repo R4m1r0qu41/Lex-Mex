@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LAREFAM — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---
@@ -27,7 +27,9 @@ III. Secretario, la persona titular de la [Secretaría](articulo-2.md); Fracció
 
 IV. Ejército, Fuerza Aérea y Guardia Nacional, el Ejército Mexicano, la Fuerza Aérea Mexicana y la Guardia Nacional; Fracción reformada DOF 16-07-2025
 
-V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; VI. Ley, la presente Ley;
+V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+
+VI. Ley, la presente Ley;
 
 VII. Reglamento, el Reglamento de la Ley;
 

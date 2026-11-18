@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LGPAS — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf
 source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 ---
@@ -21,7 +21,9 @@ Para la consecución de los objetivos de la presente Ley, la [Secretaría](artic
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
-II. La administración sustentable de las especies sésiles que se encuentren en los sistemas lagunarios estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola; III. La administración de la pesca en cuerpos de agua que sirvan de límite a dos Entidades Federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y vigilancia;
+II. La administración sustentable de las especies sésiles que se encuentren en los sistemas lagunarios estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola;
+
+III. La administración de la pesca en cuerpos de agua que sirvan de límite a dos Entidades Federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y vigilancia;
 
 IV. El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
 

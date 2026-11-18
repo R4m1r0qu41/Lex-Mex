@@ -27,6 +27,8 @@ III. Establecer en los contratos correspondientes que, en caso de que el donatar
 
 IV. Determinar la naturaleza, cantidad y demás características de los bienes que se donarán;
 
-V. Distribuir, de manera imparcial, las donaciones que procedan, y VI. Registrar y controlar las donaciones mediante expedientes debidamente integrados, en los que conste la solicitud, los documentos en los que se especifique el destino de los bienes y con los que se acredite el cumplimiento de los requisitos correspondientes; así como el contrato respectivo.
+V. Distribuir, de manera imparcial, las donaciones que procedan, y
+
+VI. Registrar y controlar las donaciones mediante expedientes debidamente integrados, en los que conste la solicitud, los documentos en los que se especifique el destino de los bienes y con los que se acredite el cumplimiento de los requisitos correspondientes; así como el contrato respectivo.
 
 Con excepción de lo dispuesto en el último párrafo del artículo [57 bis](articulo-57-bis.md) de este Reglamento, las autorizaciones de donaciones deberán realizarse respetando el orden en que fueron presentadas las solicitudes correspondientes. Párrafo adicionado DOF 29-11-2006

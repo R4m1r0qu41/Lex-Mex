@@ -106,7 +106,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "fraction": "X",
     "start_char": 1510,
-    "end_char": 1786,
+    "end_char": 1571,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:oferta-de-cooperacion",
+    "term": "Oferta de Cooperación",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "XI",
+    "start_char": 1571,
+    "end_char": 1787,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcid",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "fraction": "XII",
-    "start_char": 1786,
-    "end_char": 1860,
+    "start_char": 1787,
+    "end_char": 1861,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcid",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "fraction": "XIII",
-    "start_char": 1860,
-    "end_char": 1990,
+    "start_char": 1861,
+    "end_char": 1991,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcid",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "fraction": "XIV",
-    "start_char": 1990,
-    "end_char": 2048,
+    "start_char": 1991,
+    "end_char": 2049,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcid",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "fraction": "XV",
-    "start_char": 2048,
-    "end_char": 2217,
+    "start_char": 2049,
+    "end_char": 2218,
     "basis": "express_definition"
   }
 ]

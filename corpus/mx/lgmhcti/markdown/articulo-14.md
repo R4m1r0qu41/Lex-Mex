@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LGMHCTI — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -19,7 +19,9 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 Los ejes programáticos y de articulación de las políticas públicas serán los siguientes:
 
-I. Fortalecimiento y consolidación de la comunidad; II. Impulso a la ciencia básica y de frontera en todas las áreas y campos del saber científico;
+I. Fortalecimiento y consolidación de la comunidad;
+
+II. Impulso a la ciencia básica y de frontera en todas las áreas y campos del saber científico;
 
 III. Prevención, atención y solución de problemáticas nacionales sobre la base de agendas temáticas;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "62"
 aliases: ["REG-LGAMVLV — Artículo 62"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -25,7 +25,9 @@ II. Establecer prioridades en materia de asistencia social, para hacer eficiente
 
 III. Promover y prestar a las mujeres víctimas de violencia los servicios de asistencia social a los que se refiere la Ley General de Salud y la Ley de Asistencia Social;
 
-IV. Promover el desarrollo de la familia y de la comunidad con perspectiva de género en un ambiente libre de violencia; V. Fomentar y apoyar a las organizaciones de la sociedad civil cuyo objeto sea la prestación de servicios de asistencia social, que incluyan como principal objetivo a las mujeres víctimas de violencia;
+IV. Promover el desarrollo de la familia y de la comunidad con perspectiva de género en un ambiente libre de violencia;
+
+V. Fomentar y apoyar a las organizaciones de la sociedad civil cuyo objeto sea la prestación de servicios de asistencia social, que incluyan como principal objetivo a las mujeres víctimas de violencia;
 
 VI. Realizar y promover estudios e investigaciones sobre violencia contra las mujeres;
 

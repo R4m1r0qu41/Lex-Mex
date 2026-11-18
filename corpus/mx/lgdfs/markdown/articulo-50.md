@@ -25,7 +25,9 @@ I. Las autorizaciones de aprovechamiento de recursos forestales maderables;
 
 II. Los avisos de plantaciones forestales comerciales;
 
-III. Las autorizaciones de cambio de uso de suelo de los terrenos forestales; IV. Los certificados de inscripción de los prestadores de servicios forestales y auditores técnicos forestales;
+III. Las autorizaciones de cambio de uso de suelo de los terrenos forestales;
+
+IV. Los certificados de inscripción de los prestadores de servicios forestales y auditores técnicos forestales;
 
 V. Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente forestales;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LINPI — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf
 source_sha256: f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98
 ---
@@ -27,7 +27,9 @@ III. Celebrar y otorgar toda clase de actos y documentos respecto del objeto del
 
 IV. Ejercer facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran cláusula especial. Tratándose de cualesquiera actos de dominio, se requerirá la autorización previa de la Junta de Gobierno;
 
-V. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial; VI. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como, comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
+V. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
+VI. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como, comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
 
 VII. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
 

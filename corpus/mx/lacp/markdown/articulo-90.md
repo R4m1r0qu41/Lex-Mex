@@ -25,6 +25,8 @@ II. La fusión;
 
 III. La venta;
 
-IV. Otras que contribuya a disminuir el riesgo de insolvencia o quebranto, y V. La disolución y liquidación, así como concurso mercantil.
+IV. Otras que contribuya a disminuir el riesgo de insolvencia o quebranto, y
+
+V. La disolución y liquidación, así como concurso mercantil.
 
 Artículo reformado DOF 13-08-2009

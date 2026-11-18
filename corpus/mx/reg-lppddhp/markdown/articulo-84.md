@@ -7,8 +7,8 @@ provision_type: article
 number: "84"
 aliases: ["REG-LPPDDHP — Artículo 84"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf
 source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 ---
@@ -19,7 +19,9 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 Para la elaboración del estudio de evaluación de acción inmediata, la Unidad de Recepción de Casos y Reacción Rápida tomará en cuenta lo siguiente:
 
-I. Antecedentes; II. Hechos que conforman la agresión;
+I. Antecedentes;
+
+II. Hechos que conforman la agresión;
 
 III. Actividad del potencial [Beneficiario](articulo-3.md) o Peticionario, sea como defensor de derechos humanos o como periodista;
 

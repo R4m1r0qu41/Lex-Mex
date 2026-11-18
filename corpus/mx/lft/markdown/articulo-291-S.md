@@ -25,7 +25,9 @@ II. El trabajo de personas menores de edad;
 
 III. La retención de dinero a las personas trabajadoras adicional a los conceptos establecidos en la ley;
 
-IV. Establecer restricciones de conexión a las personas trabajadoras en plataformas digitales, salvo en los casos que establece el artículo [291-M](articulo-291-M.md) de esta Ley; V. El encubrimiento o la simulación que busque desvirtuar el vínculo laboral mediante contratos de carácter civil, mercantil u otros;
+IV. Establecer restricciones de conexión a las personas trabajadoras en plataformas digitales, salvo en los casos que establece el artículo [291-M](articulo-291-M.md) de esta Ley;
+
+V. El encubrimiento o la simulación que busque desvirtuar el vínculo laboral mediante contratos de carácter civil, mercantil u otros;
 
 VI. La prestación de servicios de puesta a disposición de personal propio en beneficio de otra persona física o moral, y
 

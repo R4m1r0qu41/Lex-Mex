@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["LFIV — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf
 source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 ---
@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 35
 
-Los Organismos de [Productores](articulo-3.md) y Empresariales relacionados con la industria podrán realizar campañas nacionales de promoción y difusión del [Vino Mexicano](articulo-3.md), con la participación de la Comisión, los productores y los tres órdenes de gobierno.
+Los Organismos de [Productores](articulo-3.md) y Empresariales relacionados con la industria podrán realizar campañas nacionales de promoción y difusión del [Vino Mexicano](articulo-3.md), con la participación de la [Comisión](articulo-3.md), los productores y los tres órdenes de gobierno.

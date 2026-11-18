@@ -25,7 +25,9 @@ II. Muerte o lesiones corporales sobrevenidas, en tierra o en el agua, en relaci
 
 III. Operaciones de asistencia o salvamento o todo contrato de salvamento, incluida, si corresponde, la compensación especial relativa a operaciones de asistencia o salvamento respecto de una embarcación que, por sí mismo o por su carga, amenace causar daño al medio ambiente;
 
-IV. Daño o amenaza de daño por la embarcación al medio ambiente, el litoral o intereses conexos; medidas adoptadas para prevenir, minimizar o eliminar ese daño; indemnización por ese daño; los costos de las medidas razonables de restauración del medio ambiente efectivamente tomadas o que vayan a tomarse; pérdidas en que hayan incurrido o puedan incurrir terceros en relación con ese daño; V. Gastos y desembolsos relativos a la puesta a flote, la remoción, la recuperación, la destrucción o la eliminación de la peligrosidad que presente una embarcación hundida, naufragada, embarrancada o abandonada, incluido todo lo que esté o haya estado a bordo de ésta, y los costos y desembolsos relacionados con la conservación de una embarcación y el mantenimiento de su tripulación;
+IV. Daño o amenaza de daño por la embarcación al medio ambiente, el litoral o intereses conexos; medidas adoptadas para prevenir, minimizar o eliminar ese daño; indemnización por ese daño; los costos de las medidas razonables de restauración del medio ambiente efectivamente tomadas o que vayan a tomarse; pérdidas en que hayan incurrido o puedan incurrir terceros en relación con ese daño;
+
+V. Gastos y desembolsos relativos a la puesta a flote, la remoción, la recuperación, la destrucción o la eliminación de la peligrosidad que presente una embarcación hundida, naufragada, embarrancada o abandonada, incluido todo lo que esté o haya estado a bordo de ésta, y los costos y desembolsos relacionados con la conservación de una embarcación y el mantenimiento de su tripulación;
 
 VI. Todo contrato relativo a la utilización o al arrendamiento de una embarcación formalizado en póliza de arrendamiento o de otro modo;
 

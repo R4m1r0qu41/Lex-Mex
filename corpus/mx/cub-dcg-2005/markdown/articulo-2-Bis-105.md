@@ -9,27 +9,22 @@ aliases: ["DCG-CUB-2005 — Artículo 2 Bis 105"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
+amendment_marks: [161]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo IV
 
 # Artículo 2 Bis 105
 
-Para calcular el capital requerido por Operaciones en divisas o indizadas a tipos (161)
+Para calcular el capital requerido por [Operaciones](articulo-1.md) en divisas o indizadas a tipos de cambio, con tasa de interés, las Instituciones en materia de plazos y procedimientos de compensación y requerimientos de capitalización, deberán utilizar, para cada divisa de referencia en la que mantengan posiciones significativas, los mismos procedimientos indicados en el Artículo [2 Bis 102](articulo-2-Bis-102.md), con excepción de lo dispuesto por el inciso g) de la fracción II de dicho artículo, utilizando al efecto el cuadro contenido en el presente artículo. Las operaciones en divisas que no representen posiciones significativas podrán ser tratadas de manera agregada.
 
-de cambio, con tasa de interés, las Instituciones en materia de plazos y procedimientos de compensación y requerimientos de capitalización, deberán utilizar, para cada divisa de referencia en la que mantengan posiciones significativas, los mismos procedimientos indicados en el Artículo [2 Bis 102](articulo-2-Bis-102.md), con excepción de lo dispuesto por el inciso g) de la fracción II de dicho artículo, utilizando al efecto el cuadro contenido en el presente artículo. Las operaciones en divisas que no representen posiciones significativas podrán ser tratadas de manera agregada.
+Se considerará que se mantiene una posición significativa en una divisa de referencia cuando el valor de las posiciones activas más el valor de las posiciones pasivas, sin compensar, en dicha divisa sea mayor o igual al 5 por ciento de los pasivos totales de conformidad con los [Criterios Contables](articulo-1.md).
 
-Se considerará que se mantiene una posición significativa en una divisa de referencia cuando el valor (161)
+El cálculo del capital requerido por Operaciones en divisas que no representen posiciones significativas podrá realizarse para cada divisa de la misma forma que en el caso de divisas que mantengan posiciones significativas o bien, podrá realizarse de manera agregada. En este último caso, las Instituciones deberán obtener el requerimiento de capital para cada divisa en cuestión según los descrito en el numeral 1 del inciso f) de la fracción II del Artículo [2 Bis 102](articulo-2-Bis-102.md), pero sin aplicar las compensaciones a que se refieren los numerales 2 a 4 de dicho inciso. La Institución deberá aplicar el método elegido por lo menos durante doce meses consecutivos.
 
-de las posiciones activas más el valor de las posiciones pasivas, sin compensar, en dicha divisa sea mayor o igual al 5 por ciento de los pasivos totales de conformidad con los Criterios Contables.
-
-El cálculo del capital requerido por Operaciones en divisas que no representen posiciones (161)
-
-significativas podrá realizarse para cada divisa de la misma forma que en el caso de divisas que mantengan posiciones significativas o bien, podrá realizarse de manera agregada. En este último caso, las Instituciones deberán obtener el requerimiento de capital para cada divisa en cuestión según los descrito en el numeral 1 del inciso f) de la fracción II del Artículo [2 Bis 102](articulo-2-Bis-102.md), pero sin aplicar las compensaciones a que se refieren los numerales 2 a 4 de dicho inciso. La Institución deberá aplicar el método elegido por lo menos durante doce meses consecutivos.
-
-(161) Tasa de interés moneda extranjera
+Tasa de interés moneda extranjera
 
 Zona Bandas Plazo por vencer Coeficiente de Cargo por Riesgo de Mercado (Porcentaje)
 

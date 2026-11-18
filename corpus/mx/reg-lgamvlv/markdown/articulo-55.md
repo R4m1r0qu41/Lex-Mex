@@ -7,8 +7,8 @@ provision_type: article
 number: "55"
 aliases: ["REG-LGAMVLV — Artículo 55"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -27,6 +27,8 @@ III. Celebrar convenios, acuerdos y bases de colaboración con dependencias u or
 
 IV. Ejecutar acciones en materia de desarrollo social, orientadas a mejorar el nivel de vida de las mujeres en condiciones de pobreza y marginación y dar seguimiento a sus avances y resultados;
 
-V. Difundir las acciones realizadas por los programas del sector desarrollo social, que promuevan el empoderamiento de las mujeres, la igualdad de oportunidades entre mujeres y hombres y la eliminación de las brechas de desigualdad, en el marco de operación del Programa; VI. Colaborar en el fortalecimiento y ampliación de acciones de las instancias y programas del sector desarrollo social, encaminadas a prevenir, atender y erradicar la violencia contra las mujeres, y
+V. Difundir las acciones realizadas por los programas del sector desarrollo social, que promuevan el empoderamiento de las mujeres, la igualdad de oportunidades entre mujeres y hombres y la eliminación de las brechas de desigualdad, en el marco de operación del Programa;
+
+VI. Colaborar en el fortalecimiento y ampliación de acciones de las instancias y programas del sector desarrollo social, encaminadas a prevenir, atender y erradicar la violencia contra las mujeres, y
 
 VII. Dar seguimiento a las acciones del Programa, en coordinación con los integrantes del Sistema, y efectuar su supervisión y evaluación en el ámbito de su competencia.

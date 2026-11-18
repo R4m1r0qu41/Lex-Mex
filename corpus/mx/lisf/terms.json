@@ -238,7 +238,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXII",
     "start_char": 5107,
-    "end_char": 6933,
+    "end_char": 6934,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXIII",
-    "start_char": 6933,
-    "end_char": 7226,
+    "start_char": 6934,
+    "end_char": 7227,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXIV",
-    "start_char": 7226,
-    "end_char": 7423,
+    "start_char": 7227,
+    "end_char": 7424,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXV",
-    "start_char": 7423,
-    "end_char": 7748,
+    "start_char": 7424,
+    "end_char": 7749,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXVI",
-    "start_char": 7748,
-    "end_char": 8403,
+    "start_char": 7749,
+    "end_char": 8404,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXVII",
-    "start_char": 8403,
-    "end_char": 8468,
+    "start_char": 8404,
+    "end_char": 8469,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXVIII",
-    "start_char": 8468,
-    "end_char": 8731,
+    "start_char": 8469,
+    "end_char": 8732,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXIX",
-    "start_char": 8731,
-    "end_char": 8879,
+    "start_char": 8732,
+    "end_char": 8880,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXX",
-    "start_char": 8879,
-    "end_char": 9189,
+    "start_char": 8880,
+    "end_char": 9190,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lisf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "fraction": "XXXI",
-    "start_char": 9189,
-    "end_char": 9544,
+    "start_char": 9190,
+    "end_char": 9545,
     "basis": "express_definition"
   }
 ]

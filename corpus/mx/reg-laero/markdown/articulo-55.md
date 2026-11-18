@@ -10,8 +10,10 @@ generated: true
 temporal_status: effective
 review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
-source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 ---
+
+> Capítulo Único
 
 # Artículo 55
 
@@ -29,7 +31,9 @@ V. Abordadores mecánicos para pasajeros: pasillos telescópicos, salas móviles
 
 VI. Edificio terminal: para pasajeros y para carga, áreas indispensables para oficinas de tráfico y operaciones de transportistas y autoridades, señalamientos e información al pasajero, mostradores y bandas para equipaje, servicios sanitarios; en las modalidades de acceso, uso o, en su caso, arrendamiento;
 
-VII. Estacionamientos: para automóviles y para los vehículos de los servicios de transporte terrestre al público; VIII. Seguridad y vigilancia: revisión de pasajeros y su equipaje de mano; control de accesos, patrullaje y vigilancia de edificios e instalaciones, bienes y otros que se establezcan de conformidad con las disposiciones legales aplicables;
+VII. Estacionamientos: para automóviles y para los vehículos de los servicios de transporte terrestre al público;
+
+VIII. Seguridad y vigilancia: revisión de pasajeros y su equipaje de mano; control de accesos, patrullaje y vigilancia de edificios e instalaciones, bienes y otros que se establezcan de conformidad con las disposiciones legales aplicables;
 
 IX. Rescate y extinción de incendios;
 

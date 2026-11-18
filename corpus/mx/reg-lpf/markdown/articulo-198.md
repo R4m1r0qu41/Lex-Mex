@@ -7,8 +7,8 @@ provision_type: article
 number: "198"
 aliases: ["REG-LPF — Artículo 198"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf
 source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 ---
@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 198
 
-El [Consejo Federal](articulo-2.md) sustanciará el procedimiento a que se refiere el Capítulo VIII de la [Ley](articulo-2.md) atendiendo a los lineamientos mínimos siguientes: I. Las sesiones serán ordinarias o extraordinarias, a juicio del Pleno;
+El [Consejo Federal](articulo-2.md) sustanciará el procedimiento a que se refiere el Capítulo VIII de la [Ley](articulo-2.md) atendiendo a los lineamientos mínimos siguientes:
+
+I. Las sesiones serán ordinarias o extraordinarias, a juicio del Pleno;
 
 II. Habrá quórum en las sesiones del Consejo Federal con la mitad más uno de sus miembros, siempre y cuando se encuentre el Presidente o su suplente. Los miembros del Consejo Federal contarán con voz y voto y sus resoluciones serán tomadas por mayoría simple de los miembros presentes. El funcionamiento de las sesiones se establecerá en el manual respectivo que al efecto emita el Consejo Federal;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "22"
 aliases: ["LGMHCTI — Artículo 22"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf
 source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 ---
@@ -25,7 +25,9 @@ II. Coordinar la integración democrática de la [Agenda Nacional](articulo-4.md
 
 III. Formular, aprobar, actualizar, ejecutar y evaluar el [Programa Especial](articulo-4.md) y los demás instrumentos de planeación estratégica y participativa que correspondan, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
 
-IV. Promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política nacional en la materia; V. Definir los lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública federal para fomentar, realizar o apoyar actividades en la materia;
+IV. Promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política nacional en la materia;
+
+V. Definir los lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública federal para fomentar, realizar o apoyar actividades en la materia;
 
 VI. Elaborar y aprobar el proyecto de presupuesto federal en la materia, así como evaluar la eficacia y eficiencia del gasto nacional correspondiente, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables;
 

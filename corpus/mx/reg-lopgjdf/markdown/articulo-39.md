@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["REG-LOPGJDF — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -19,7 +19,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 Al frente de la Coordinación General de Servicios Periciales habrá un Coordinador General, quien ejercerá por sí o a través de los servidores públicos que le estén adscritos, las atribuciones siguientes:
 
-I. Diseñar y establecer los criterios y lineamientos que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales; II. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Procuraduría;
+I. Diseñar y establecer los criterios y lineamientos que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
+
+II. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Procuraduría;
 
 III. Evaluar y controlar la intervención de los peritos volantes en las diversas especialidades;
 

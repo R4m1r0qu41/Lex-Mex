@@ -278,19 +278,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:reference:3036-3037:2:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:reference:3037-3038:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
     "source_span": "2",
-    "start_char": 3036,
-    "end_char": 3037,
+    "start_char": 3037,
+    "end_char": 3038,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VII",
-        "start_char": 3039,
-        "end_char": 3051
+        "start_char": 3040,
+        "end_char": 3052
       }
     ],
     "basis": "express_cross_reference",

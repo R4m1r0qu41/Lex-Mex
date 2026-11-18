@@ -49,7 +49,9 @@ IX. Las que hayan utilizado información privilegiada proporcionada indebidament
 
 X. Las que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación; Fracción adicionada DOF 07-07-2005. Reformada DOF 16-04-2025
 
-X Bis. Aquellas personas que hubieren sido sancionadas por la autoridad competente en materia de libre competencia y concurrencia por una práctica monopólica absoluta. Este impedimento prevalecerá ante las dependencias y entidades convocantes por un plazo de dos años calendario contados a partir de que surta efectos la notificación de la resolución sancionatoria emitida por dicha autoridad; Fracción adicionada DOF 16-04-2025 X Ter. Aquellas que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, y Fracción adicionada DOF 16-04-2025
+X Bis. Aquellas personas que hubieren sido sancionadas por la autoridad competente en materia de libre competencia y concurrencia por una práctica monopólica absoluta. Este impedimento prevalecerá ante las dependencias y entidades convocantes por un plazo de dos años calendario contados a partir de que surta efectos la notificación de la resolución sancionatoria emitida por dicha autoridad; Fracción adicionada DOF 16-04-2025
+
+X Ter. Aquellas que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, y Fracción adicionada DOF 16-04-2025
 
 XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley. Fracción adicionada DOF 07-07-2005
 

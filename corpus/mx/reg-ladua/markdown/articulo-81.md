@@ -25,7 +25,9 @@ II. El conocimiento de embarque, lista de empaque, guía aérea o demás documen
 
 III. El que compruebe el origen cuando corresponda, y de la procedencia de las Mercancías;
 
-IV. En el que conste la garantía a que se refiere el inciso e), fracción I del artículo [36-A](../../ladua/markdown/articulo-36-A.md) de la Ley; V. En el que conste el pago de las Mercancías, tales como la transferencia electrónica del pago o carta de crédito;
+IV. En el que conste la garantía a que se refiere el inciso e), fracción I del artículo [36-A](../../ladua/markdown/articulo-36-A.md) de la Ley;
+
+V. En el que conste el pago de las Mercancías, tales como la transferencia electrónica del pago o carta de crédito;
 
 VI. El relativo a los gastos de transporte, seguros y gastos conexos que correspondan a la operación de que se trate;
 

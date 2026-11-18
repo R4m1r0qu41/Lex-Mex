@@ -9,23 +9,17 @@ aliases: ["DCG-CUB-2005 — Artículo 263 Bis 9"]
 generated: true
 temporal_status: effective
 review_status: machine_accepted
-amendment_marks: [60]
+amendment_marks: [60,264]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título QUINTO · Capítulo V
 
 # Artículo 263 Bis 9
 
-Las Instituciones deberán verificar, previo a la transmisión de las Órdenes, a través (264)
+Las Instituciones deberán verificar, previo a la transmisión de las Órdenes, a través de mecanismos de control y políticas de operación, que en la cuenta correspondiente habrá valores o recursos suficientes en la fecha de liquidación de la operación de que se trate, que permitan el cumplimiento de las obligaciones respectivas.
 
-de mecanismos de control y políticas de operación, que en la cuenta correspondiente habrá valores o recursos suficientes en la fecha de liquidación de la operación de que se trate, que permitan el cumplimiento de las obligaciones respectivas.
+En caso de Órdenes de venta, deberán verificar adicionalmente que los valores respectivos no se encuentran afectos en garantía ni disponibles como valores objeto de préstamo.
 
-En caso de Órdenes de venta, deberán verificar adicionalmente que los valores respectivos no se (264)
-
-encuentran afectos en garantía ni disponibles como valores objeto de préstamo.
-
-Las Instituciones podrán rechazar las instrucciones que no cumplan con los requisitos antes (264)
-
-señalados, sin que por ello incurran en responsabilidad alguna.
+Las Instituciones podrán rechazar las instrucciones que no cumplan con los requisitos antes señalados, sin que por ello incurran en responsabilidad alguna.

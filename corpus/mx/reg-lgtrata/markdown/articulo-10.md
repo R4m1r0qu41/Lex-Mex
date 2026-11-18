@@ -19,7 +19,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 En los casos en los que la instancia competente de atención a víctimas sea la autoridad de primer contacto con la víctima u ofendido o testigo de los delitos en materia de trata de personas, esta procederá del modo siguiente:
 
-I. Canalizará a las áreas de trabajo social o psicológica para que realicen una primer entrevista. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Una vez realizada la entrevista a que se refiere el párrafo anterior, brindará la asesoría jurídica que requiera el caso y explicará los derechos y acciones que en su favor establece el orden jurídico nacional y en lo general, el modo de ejercerlos ante las autoridades competentes;
+I. Canalizará a las áreas de trabajo social o psicológica para que realicen una primer entrevista. Una vez realizada la entrevista a que se refiere el párrafo anterior, brindará la asesoría jurídica que requiera el caso y explicará los derechos y acciones que en su favor establece el orden jurídico nacional y en lo general, el modo de ejercerlos ante las autoridades competentes;
 
 II. Si de la entrevista a que se refiere la fracción anterior, deriva la necesidad de atención médica o psicológica especializada, se hará la vinculación interna o externa que corresponda, de conformidad con la legislación aplicable.
 

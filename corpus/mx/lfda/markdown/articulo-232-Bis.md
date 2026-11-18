@@ -19,7 +19,9 @@ source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 
 Se impondrá multa de mil hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien produzca, reproduzca, fabrique, distribuya, importe, comercialice, arriende, almacene, transporte, ofrezca o ponga a disposición del público, ofrezca al público o proporcione servicios o realice cualquier otro acto que permita tener dispositivos, mecanismos, productos, componentes o sistemas que:
 
-I. Sean promocionados, publicados o comercializados con el propósito de eludir una medida tecnológica de protección efectiva; II. Sean utilizados preponderantemente para eludir cualquier medida tecnológica de protección efectiva, o
+I. Sean promocionados, publicados o comercializados con el propósito de eludir una medida tecnológica de protección efectiva;
+
+II. Sean utilizados preponderantemente para eludir cualquier medida tecnológica de protección efectiva, o
 
 III. Sean diseñados, producidos o ejecutados con el propósito de eludir cualquier medida tecnológica de protección efectiva.
 

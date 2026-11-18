@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
-      "provision_text_sha256": "eae7e5c4b9cfc4125ea89590d2b38a6464d72d7af4e4ebe9bda4c14814b9285c",
+      "provision_text_sha256": "4500b5fadf6dac8eef7e701252d480a53ce4eaea56d5c3b8f4f255dd9711b3c6",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -26,5 +26,5 @@
   ],
   "imports": [],
   "term_count": 8,
-  "usage_count": 109
+  "usage_count": 108
 }

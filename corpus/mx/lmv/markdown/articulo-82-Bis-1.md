@@ -19,7 +19,9 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 Los folios en los que se inscriban los fondos de inversión, contendrán la siguiente información:
 
-I. Su denominación y el de la sociedad operadora de fondos de inversión que le preste los servicios de administración; II. El tipo de fondo de inversión en función de su régimen de inversión, así como su modalidad y categoría;
+I. Su denominación y el de la sociedad operadora de fondos de inversión que le preste los servicios de administración;
+
+II. El tipo de fondo de inversión en función de su régimen de inversión, así como su modalidad y categoría;
 
 III. La fecha de constitución;
 

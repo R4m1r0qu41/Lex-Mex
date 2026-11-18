@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["LDRS — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -31,7 +31,9 @@ V. Vigilar la aplicación de las normas de carácter fitozoosanitario;
 
 VI. Evaluar los resultados de la aplicación de los programas federales y estatales e informar a los [Consejos Estatales](articulo-3o.md) al respecto;
 
-VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales; VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
+VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales;
+
+VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
 
 IX. Proponer al Consejo Estatal, como resultado de las consultas respectivas, los programas que éste deba conocer en su seno y se consideren necesarios para el fomento de las actividades productivas y el desarrollo rural sustentable;
 

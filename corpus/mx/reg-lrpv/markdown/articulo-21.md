@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["REG-LRPV — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPV.pdf
 source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 ---
@@ -19,7 +19,9 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 En caso de extravío, robo, pérdida o destrucción, procederá la reposición de la constancia de inscripción a solicitud del propietario, para lo cual deberá acompañar la siguiente documentación:
 
-I. Copia de identificación oficial vigente; II. Copia certificada del documento en el que conste la declaración de extravío, robo o pérdida de la constancia de inscripción ante autoridad competente, y
+I. Copia de identificación oficial vigente;
+
+II. Copia certificada del documento en el que conste la declaración de extravío, robo o pérdida de la constancia de inscripción ante autoridad competente, y
 
 III. Copia de la factura del vehículo o título de propiedad.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "97"
 aliases: ["REG-LFPCCS — Artículo 97"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf
 source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 ---
@@ -27,7 +27,9 @@ III. Un representante del SNICS quien fungirá como Secretario Técnico;
 
 IV. En representación de las instituciones públicas de investigación, técnicas, científicas, de enseñanza y de transferencia de tecnología, un máximo de tres miembros;
 
-V. En representación de las asociaciones de agricultores, productores, obtentores y comercializadores de semillas un máximo de tres miembros, y VI. Un representante de cada Comité Sistema Producto de los cultivos importantes de la región de la entidad federativa con un máximo de cinco miembros.
+V. En representación de las asociaciones de agricultores, productores, obtentores y comercializadores de semillas un máximo de tres miembros, y
+
+VI. Un representante de cada Comité Sistema Producto de los cultivos importantes de la región de la entidad federativa con un máximo de cinco miembros.
 
 Los representantes de los agricultores, productores y comercializadores de semillas serán designados a propuesta de las propias organizaciones.
 

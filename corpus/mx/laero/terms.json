@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "III",
     "start_char": 774,
-    "end_char": 1113,
+    "end_char": 1114,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "IV",
-    "start_char": 1113,
-    "end_char": 1270,
+    "start_char": 1114,
+    "end_char": 1271,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "IV Bis",
-    "start_char": 1270,
-    "end_char": 1540,
+    "start_char": 1271,
+    "end_char": 1541,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "V",
-    "start_char": 1540,
-    "end_char": 1915,
+    "start_char": 1541,
+    "end_char": 1916,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VI",
-    "start_char": 1915,
-    "end_char": 2404,
+    "start_char": 1916,
+    "end_char": 2405,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VII",
-    "start_char": 2404,
-    "end_char": 2689,
+    "start_char": 2405,
+    "end_char": 2690,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VII Bis",
-    "start_char": 2689,
-    "end_char": 2973,
+    "start_char": 2690,
+    "end_char": 2974,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VII Ter",
-    "start_char": 2973,
-    "end_char": 3558,
+    "start_char": 2974,
+    "end_char": 3559,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "VIII",
-    "start_char": 3558,
-    "end_char": 3675,
+    "start_char": 3559,
+    "end_char": 3676,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "IX",
-    "start_char": 3675,
-    "end_char": 3787,
+    "start_char": 3676,
+    "end_char": 3788,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "X",
-    "start_char": 3787,
-    "end_char": 4505,
+    "start_char": 3788,
+    "end_char": 4506,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "XI",
-    "start_char": 4505,
-    "end_char": 4739,
+    "start_char": 4506,
+    "end_char": 4740,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "XII",
-    "start_char": 4739,
-    "end_char": 4986,
+    "start_char": 4740,
+    "end_char": 4987,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "XIII",
-    "start_char": 4986,
-    "end_char": 5400,
+    "start_char": 4987,
+    "end_char": 5401,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laero",
     "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
     "fraction": "XIV",
-    "start_char": 5400,
-    "end_char": 5881,
+    "start_char": 5401,
+    "end_char": 5882,
     "basis": "express_definition"
   }
 ]

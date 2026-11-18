@@ -23,7 +23,9 @@ I. Los elementos de individualización de la embarcación;
 
 II. Nombre y domicilio del fletante y del fletador;
 
-III. En su caso, lugar y condiciones de entrega de la embarcación; IV. En su caso, lugar y condiciones de la restitución de la embarcación;
+III. En su caso, lugar y condiciones de entrega de la embarcación;
+
+IV. En su caso, lugar y condiciones de la restitución de la embarcación;
 
 V. En su caso, duración del fletamento;
 

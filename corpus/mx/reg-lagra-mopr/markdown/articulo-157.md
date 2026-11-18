@@ -7,8 +7,8 @@ provision_type: article
 number: "157"
 aliases: ["REG-LAGRA-MOPR — Artículo 157"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf
 source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 ---
@@ -25,6 +25,8 @@ II. La venta de superficies vacantes o regularización de la tenencia de la tier
 
 III. Los intereses derivados de las cantidades insolutas cuando la enajenación se haya efectuado a plazos;
 
-IV. Los intereses moratorios que causen las cantidades vencidas no cubiertas; V. Las aportaciones, donativos, convenios y toda clase de ingresos que legalmente le correspondan, y
+IV. Los intereses moratorios que causen las cantidades vencidas no cubiertas;
+
+V. Las aportaciones, donativos, convenios y toda clase de ingresos que legalmente le correspondan, y
 
 VI. Los productos financieros o intereses que generen las cuentas en que se manejen los recursos del Fondo para el Ordenamiento de la Propiedad Rural.

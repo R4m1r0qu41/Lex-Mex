@@ -19,7 +19,9 @@ source_sha256: 266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3
 
 Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
-I. Participar en los [Consejos](articulo-3.md) Consultivos de Turismo de conformidad con las reglas de organización de los mismos; II. Aparecer en el Registro Nacional de Turismo;
+I. Participar en los [Consejos](articulo-3.md) Consultivos de Turismo de conformidad con las reglas de organización de los mismos;
+
+II. Aparecer en el Registro Nacional de Turismo;
 
 III. Participar en los programas de profesionalización del sector turismo, que promueva o lleve a cabo la [Secretaría](articulo-3.md);
 

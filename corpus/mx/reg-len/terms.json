@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
     "fraction": "III",
     "start_char": 770,
-    "end_char": 962,
+    "end_char": 963,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
     "fraction": "IV",
-    "start_char": 962,
-    "end_char": 1069,
+    "start_char": 963,
+    "end_char": 1070,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
     "fraction": "V",
-    "start_char": 1069,
-    "end_char": 1257,
+    "start_char": 1070,
+    "end_char": 1258,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
     "fraction": "VI",
-    "start_char": 1257,
-    "end_char": 1612,
+    "start_char": 1258,
+    "end_char": 1613,
     "basis": "express_definition"
   }
 ]

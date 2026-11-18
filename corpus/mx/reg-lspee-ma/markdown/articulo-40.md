@@ -8,7 +8,7 @@ number: "40"
 aliases: ["REG-LSPEE-MA — Artículo 40"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf
 source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 ---

@@ -43,7 +43,9 @@ X. Las que requieran el pago de garantías a favor de la Federación, las entida
 
 XI. Las que traten las materias señaladas en el artículo [94](../../lce/markdown/articulo-94.md) de la Ley de Comercio Exterior;
 
-XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley Federal de Procedimiento Administrativo; XIII. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
+XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley Federal de Procedimiento Administrativo;
+
+XIII. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
 
 XIV. Las que se funden en un tratado o acuerdo internacional para evitar la doble tributación o en materia comercial, suscritos por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor alguno de los referidos tratados o acuerdos;
 

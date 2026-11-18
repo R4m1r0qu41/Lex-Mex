@@ -7,8 +7,8 @@ provision_type: article
 number: "161"
 aliases: ["LDRS — Artículo 161"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -25,7 +25,9 @@ II. Otorgar apoyos que incrementen el patrimonio productivo de las familias que 
 
 III. Aumentar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
 
-IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral; V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
+IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral;
+
+V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
 
 VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
 

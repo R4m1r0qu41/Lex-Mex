@@ -35,7 +35,9 @@ f) El lugar o lugares donde debe efectuarse el acto de vigilancia. Sin perjuicio
 
 g) El nombre del [Personal de Vigilancia de las Funciones de tesorería](articulo-2.md) designado para realizar el acto de vigilancia, mismo que podrá ser sustituido, aumentado o reducido en cualquier tiempo por el servidor público facultado para ordenar el acto de vigilancia. La sustitución, aumento o reducción de dicho Personal se notificará al sujeto al acto de vigilancia.
 
-El Personal de Vigilancia de las Funciones de tesorería designado para realizar el acto de vigilancia podrá llevarlo a cabo conjunta o separadamente; II. En el lugar o lugares señalados en el inciso f) de la fracción anterior;
+El Personal de Vigilancia de las Funciones de tesorería designado para realizar el acto de vigilancia podrá llevarlo a cabo conjunta o separadamente;
+
+II. En el lugar o lugares señalados en el inciso f) de la fracción anterior;
 
 III. Si al presentarse el Personal de Vigilancia de las Funciones de tesorería al lugar o domicilio en donde deba llevarse a cabo el acto de vigilancia, no estuviere el servidor público facultado para atender la diligencia, el acto de vigilancia se iniciará con el servidor público facultado para suplirlo siempre que se encuentre en el lugar o domicilio donde deba realizarse dicho acto o, en su defecto, con el servidor público adscrito a la unidad administrativa sujeta al acto de vigilancia.
 

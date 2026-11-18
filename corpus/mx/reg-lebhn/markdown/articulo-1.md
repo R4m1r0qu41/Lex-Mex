@@ -7,8 +7,8 @@ provision_type: article
 number: "1"
 aliases: ["REG-LEBHN — Artículo 1"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEBHN.pdf
 source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 ---

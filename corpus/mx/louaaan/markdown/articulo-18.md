@@ -17,7 +17,9 @@ source_sha256: 0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27
 
 # Artículo 18
 
-Para ser Rector se requiere: I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;
+Para ser Rector se requiere:
+
+I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;
 
 II. Ser mayor de 30 años;
 

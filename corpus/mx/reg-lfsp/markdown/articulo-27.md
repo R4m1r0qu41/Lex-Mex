@@ -7,8 +7,8 @@ provision_type: article
 number: "27"
 aliases: ["REG-LFSP — Artículo 27"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf
 source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 ---
@@ -25,7 +25,9 @@ II. Cuidar en todo momento por la integridad, dignidad, protección y trato corr
 
 III. Cumplir sus funciones con imparcialidad, sin discriminar a ninguna persona;
 
-IV. Procurar la prevención de conductas antijurídicas; V. Recurrir como última opción, al uso de la fuerza;
+IV. Procurar la prevención de conductas antijurídicas;
+
+V. Recurrir como última opción, al uso de la fuerza;
 
 VI. No incitar de ninguna forma a la comisión de ilícitos;
 

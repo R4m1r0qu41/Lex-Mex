@@ -7,8 +7,8 @@ provision_type: article
 number: "43"
 aliases: ["LGDS — Artículo 43"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -29,7 +29,9 @@ IV. Diseñar y coordinar los programas y apoyos federales en las Zonas de Atenci
 
 V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones civiles y privadas, para la instrumentación de los programas relacionados con el desarrollo social;
 
-VI. Diseñar los criterios de ejecución anual del Programa en el ámbito de su competencia; VII. Promover y fomentar la participación de la sociedad, en la elaboración y ejecución de la [Política de Desarrollo Social](articulo-5.md); Fracción reformada DOF 16-07-2025
+VI. Diseñar los criterios de ejecución anual del Programa en el ámbito de su competencia;
+
+VII. Promover y fomentar la participación de la sociedad, en la elaboración y ejecución de la [Política de Desarrollo Social](articulo-5.md); Fracción reformada DOF 16-07-2025
 
 VIII. Promover y apoyar instrumentos de financiamiento en materia de desarrollo social;
 

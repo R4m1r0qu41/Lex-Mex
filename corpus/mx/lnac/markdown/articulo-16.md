@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LNAC — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf
 source_sha256: 0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7
 ---

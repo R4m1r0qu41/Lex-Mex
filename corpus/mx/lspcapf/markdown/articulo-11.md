@@ -25,7 +25,9 @@ II. Desempeñar sus labores con cuidado y esmero apropiados, observando las inst
 
 III. Participar en las evaluaciones establecidas para su permanencia y desarrollo en el Sistema;
 
-IV. Aportar los elementos objetivos necesarios para la evaluación de los resultados del desempeño; V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
+IV. Aportar los elementos objetivos necesarios para la evaluación de los resultados del desempeño;
+
+V. Participar en los programas de capacitación obligatoria que comprende la actualización, especialización y educación formal, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
 
 VI. Guardar reserva de la información, documentación y en general, de los asuntos que conozca, en términos de la ley de la materia;
 

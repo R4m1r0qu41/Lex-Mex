@@ -25,7 +25,9 @@ II. Para cada uno de los hijos menores de dieciséis años del pensionado, el di
 
 III. Si el pensionado o pensionada no tuviera cónyuge o no mantuviere relación de concubinato o no haya suscrito una unión civil, ni tuviera hijos menores de dieciséis años, se concederá una asignación del diez por ciento para cada uno de los padres de la o el pensionado si dependieran económicamente de él o de ella; Fracción reformada DOF 20-01-2023
 
-IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y Fracción reformada DOF 20-01-2023 V. Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignación familiar, se le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión que deba disfrutar.
+IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y Fracción reformada DOF 20-01-2023
+
+V. Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignación familiar, se le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión que deba disfrutar.
 
 Estas asignaciones familiares se entregarán de preferencia al propio pensionado, pero la correspondiente a los hijos podrá entregarse a la persona o institución que los tenga bajo su cargo directo, en el caso de no vivir con el pensionado.
 

@@ -21,7 +21,9 @@ La persona demandante deberá adjuntar a su demanda: Párrafo reformado DOF 09-0
 
 I. Una copia de la misma y de los documentos anexos para cada una de las partes.
 
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con la que esté acreditada ante el [Tribunal](articulo-1-A.md), cuando no gestione en nombre propio. III. El documento en que conste la resolución impugnada.
+II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con la que esté acreditada ante el [Tribunal](articulo-1-A.md), cuando no gestione en nombre propio.
+
+III. El documento en que conste la resolución impugnada.
 
 IV. En el supuesto de que se impugne una resolución negativa ficta, deberá acompañar una copia en la que obre el sello de recepción de la instancia no resuelta expresamente por la autoridad.
 

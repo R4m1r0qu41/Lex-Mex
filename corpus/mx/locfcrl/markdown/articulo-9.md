@@ -17,7 +17,9 @@ source_sha256: 1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48
 
 # Artículo 9
 
-Corresponden al [Centro](articulo-3.md) las siguientes atribuciones: I. Realizar en el ámbito federal la función conciliatoria individual prevista en el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;
+Corresponden al [Centro](articulo-3.md) las siguientes atribuciones:
+
+I. Realizar en el ámbito federal la función conciliatoria individual prevista en el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;
 
 II. Realizar en el ámbito federal la función conciliatoria colectiva, misma que se brindará a petición de las partes o de la autoridad judicial;
 
@@ -43,7 +45,9 @@ XII. Verificar que el contenido de los contratos colectivos de trabajo se haya h
 
 XIII. Proporcionar la documentación e información relativa al registro del contrato colectivo o de la administración del contrato-ley, tabuladores, padrones de trabajadores afiliados a los sindicatos contendientes y toda aquella información que posea a los tribunales que así lo requieran;
 
-XIV. Hacer pública conforme al artículo [365 Bis](../../lft/markdown/articulo-365-Bis.md) de la Ley Federal del Trabajo, la información de los sindicatos, y brindar a las personas que lo soliciten copia de los documentos que obren en los expedientes registrados, previo pago de los derechos correspondientes, en términos del artículo 8o. de la [Constitución](articulo-3.md) y de la Ley General de Transparencia y Acceso a la Información Pública, priorizando la utilización de medios tecnológicos; XV. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
+XIV. Hacer pública conforme al artículo [365 Bis](../../lft/markdown/articulo-365-Bis.md) de la Ley Federal del Trabajo, la información de los sindicatos, y brindar a las personas que lo soliciten copia de los documentos que obren en los expedientes registrados, previo pago de los derechos correspondientes, en términos del artículo 8o. de la [Constitución](articulo-3.md) y de la Ley General de Transparencia y Acceso a la Información Pública, priorizando la utilización de medios tecnológicos;
+
+XV. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
 
 XVI. Establecer el Código de Conducta para las personas servidoras públicas al Centro;
 

@@ -17,7 +17,9 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 86
 
-Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercicio del gasto federalizado, la [Secretaría](articulo-2.md) de Hacienda y Crédito Público mediante firma de convenio con las entidades federativas y la [Auditoría](articulo-2.md) Superior de la Federación, así como con la participación que corresponda a las autoridades federales competentes, fortalecerá todas las acciones de coordinación para evaluar el correcto uso de los recursos públicos, para lo cual deberán: I. Establecer acciones para mejorar la evaluación, transparencia y eficiencia en el ejercicio del gasto federalizado en los tres órdenes de gobierno, conforme a los principios del artículo [1](articulo-1.md) de esta Ley;
+Con el objeto de mejorar la transparencia y rendición de cuentas en el ejercicio del gasto federalizado, la [Secretaría](articulo-2.md) de Hacienda y Crédito Público mediante firma de convenio con las entidades federativas y la [Auditoría](articulo-2.md) Superior de la Federación, así como con la participación que corresponda a las autoridades federales competentes, fortalecerá todas las acciones de coordinación para evaluar el correcto uso de los recursos públicos, para lo cual deberán:
+
+I. Establecer acciones para mejorar la evaluación, transparencia y eficiencia en el ejercicio del gasto federalizado en los tres órdenes de gobierno, conforme a los principios del artículo [1](articulo-1.md) de esta Ley;
 
 II. Promover mecanismos de participación ciudadana en el seguimiento del gasto público, así como la publicación de información presupuestaria accesible y transparente para la ciudadanía, y
 

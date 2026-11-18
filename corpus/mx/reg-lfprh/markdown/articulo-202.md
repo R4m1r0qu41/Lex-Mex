@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 202
 
-Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo se destinarán al pago de: I. Los gastos anuales de operación y mantenimiento, la inversión presupuestaria asociada y los demás gastos asociados al proyecto una vez que entre en operación;
+Los ingresos que genere cada proyecto de infraestructura productiva de largo plazo se destinarán al pago de:
+
+I. Los gastos anuales de operación y mantenimiento, la inversión presupuestaria asociada y los demás gastos asociados al proyecto una vez que entre en operación;
 
 II. Las obligaciones fiscales atribuibles al proyecto del ejercicio fiscal correspondiente, y
 

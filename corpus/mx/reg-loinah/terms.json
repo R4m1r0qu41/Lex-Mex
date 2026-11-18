@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "VIII",
     "start_char": 935,
-    "end_char": 1022,
+    "end_char": 1023,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "IX",
-    "start_char": 1022,
-    "end_char": 1263,
+    "start_char": 1023,
+    "end_char": 1264,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "X",
-    "start_char": 1263,
-    "end_char": 1339,
+    "start_char": 1264,
+    "end_char": 1340,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "XI",
-    "start_char": 1339,
-    "end_char": 1517,
+    "start_char": 1340,
+    "end_char": 1518,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "XII",
-    "start_char": 1517,
-    "end_char": 1811,
+    "start_char": 1518,
+    "end_char": 1812,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
     "fraction": "XIII",
-    "start_char": 1811,
-    "end_char": 1899,
+    "start_char": 1812,
+    "end_char": 1900,
     "basis": "express_definition"
   }
 ]

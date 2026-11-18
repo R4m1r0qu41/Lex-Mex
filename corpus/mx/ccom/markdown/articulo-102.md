@@ -23,7 +23,9 @@ A) Para que las personas indicadas en el artículo [100](articulo-100.md) puedan
 
 I. Solicitar a la Secretaría la acreditación como Prestador de Servicios de Certificación y, en su caso, de los servicios relacionados, como la conservación de mensajes de datos, el sellado digital de tiempo, y la digitalización de documentos; Fracción reformada DOF 07-04-2016
 
-II. Contar con los elementos humanos, materiales, económicos y tecnológicos requeridos para prestar los servicios, a efecto de garantizar la seguridad de la información y su confidencialidad; Fracción reformada DOF 07-04-2016 III. Contar con procedimientos definidos y específicos para la prestación de los servicios, y medidas que garanticen la seriedad de los Certificados, la conservación y consulta de los registros, si es el caso; Fracción reformada DOF 07-04-2016
+II. Contar con los elementos humanos, materiales, económicos y tecnológicos requeridos para prestar los servicios, a efecto de garantizar la seguridad de la información y su confidencialidad; Fracción reformada DOF 07-04-2016
+
+III. Contar con procedimientos definidos y específicos para la prestación de los servicios, y medidas que garanticen la seriedad de los Certificados, la conservación y consulta de los registros, si es el caso; Fracción reformada DOF 07-04-2016
 
 IV. Quienes operen o tengan acceso a los sistemas de certificación de los Prestadores de Servicios de Certificación no podrán haber sido condenados por delito contra el patrimonio de las personas o que haya merecido pena privativa de la libertad, ni que por cualquier motivo hayan sido inhabilitados para el ejercicio de su profesión, para desempeñar un puesto en el servicio público, en el sistema financiero o para ejercer el comercio;
 

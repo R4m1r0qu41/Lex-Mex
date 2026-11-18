@@ -23,7 +23,9 @@ I. Se deberán ordenar los precios, montos de contraprestaciones o de márgenes 
 
 II. A cada uno de los precios, montos de contraprestaciones o de márgenes de utilidad, se le deberá asignar un número entero secuencial, iniciando con la unidad y terminando con el número total de elementos que integran la muestra;
 
-III. Se obtendrá la mediana adicionando la unidad al número total de elementos que integran la muestra de precios, montos de contraprestaciones o márgenes de utilidad, dividiendo el resultado entre dos; IV. El valor de la mediana se determinará ubicando el precio, monto de la contraprestación o margen de utilidad correspondiente al número entero secuencial del resultado obtenido en la fracción anterior.
+III. Se obtendrá la mediana adicionando la unidad al número total de elementos que integran la muestra de precios, montos de contraprestaciones o márgenes de utilidad, dividiendo el resultado entre dos;
+
+IV. El valor de la mediana se determinará ubicando el precio, monto de la contraprestación o margen de utilidad correspondiente al número entero secuencial del resultado obtenido en la fracción anterior.
 
 Cuando la mediana sea un número formado por entero y decimales, el valor de la mediana se determinará de la siguiente manera:
 
@@ -47,9 +49,7 @@ c) Al resultado obtenido en el inciso anterior se le adicionará el resultado ob
 
 VII. El percentil septuagésimo quinto, se obtendrá de restar a la mediana a que hace referencia la fracción III de este artículo, la unidad y al resultado se le adicionará el percentil vigésimo quinto obtenido en la fracción V de este artículo, y
 
-VIII. Se determinará el límite superior del rango ubicando el precio, monto de la contraprestación o margen de utilidad correspondiente al número entero secuencial del percentil septuagésimo
-
-quinto.
+VIII. Se determinará el límite superior del rango ubicando el precio, monto de la contraprestación o margen de utilidad correspondiente al número entero secuencial del percentil septuagésimo quinto.
 
 Cuando el percentil septuagésimo quinto sea un número formado por entero y decimales, el límite superior del rango se determinará de la siguiente manera:
 

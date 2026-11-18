@@ -21,7 +21,9 @@ El Director General del Centro Federal de Conciliación y Registro Laboral tendr
 
 I. Celebrar actos y otorgar toda clase de documentos inherentes al objeto del Organismo;
 
-II. Tener la representación legal del Centro Federal de Conciliación y Registro Laboral, así como ejercer facultades de dominio, administración, y pleitos y cobranzas, con apego a la Ley y el estatuto orgánico; III. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de la Propiedad y de Comercio en cada Entidad Federativa y Ciudad de México;
+II. Tener la representación legal del Centro Federal de Conciliación y Registro Laboral, así como ejercer facultades de dominio, administración, y pleitos y cobranzas, con apego a la Ley y el estatuto orgánico;
+
+III. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de la Propiedad y de Comercio en cada Entidad Federativa y Ciudad de México;
 
 IV. Sustituir y revocar poderes generales o especiales;
 

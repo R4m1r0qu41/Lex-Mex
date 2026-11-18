@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LGMASC — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf
 source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 ---
@@ -21,7 +21,9 @@ Corresponde a la persona Titular del [Centro Público de Mecanismos Alternativos
 
 I. Vigilar que el servicio otorgado por el Centro se apegue a los principios, fines y procedimientos establecidos en esta [Ley](articulo-5.md), en pleno respeto y garantía de los derechos humanos;
 
-II. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate; III. Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno;
+II. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate;
+
+III. Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno;
 
 IV. Supervisar el cumplimiento de las reglas de funcionamiento del Centro;
 

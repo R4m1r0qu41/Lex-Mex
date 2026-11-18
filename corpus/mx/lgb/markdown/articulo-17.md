@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LGB — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf
 source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 ---
@@ -19,7 +19,7 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 Corresponderá a los gobiernos de los municipios y a las alcaldías de la Ciudad de México:
 
-I. Conformar, según el caso, la [Red](articulo-2.md) de Bibliotecas Públicas del municipio o alcaldía;
+I. Conformar, según el caso, la [Red](articulo-2.md) de [Bibliotecas](articulo-2.md) Públicas del municipio o alcaldía;
 
 II. Velar por la conservación e integridad de las instalaciones, el mobiliario, el equipo y los acervos de las bibliotecas públicas;
 

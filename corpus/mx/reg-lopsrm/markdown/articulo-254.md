@@ -19,7 +19,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las proposiciones de servicios podrán contener los siguientes documentos, los que podrán adecuarse atendiendo a las características, complejidad y magnitud de los servicios:
 
-A. Tratándose de la propuesta técnica: I. Currículo de los profesionales técnicos, identificando a los que se encargarán de la ejecución de los trabajos, quienes deben tener experiencia en trabajos similares.
+A. Tratándose de la propuesta técnica:
+
+I. Currículo de los profesionales técnicos, identificando a los que se encargarán de la ejecución de los trabajos, quienes deben tener experiencia en trabajos similares.
 
 Para efectos del último párrafo del artículo [30](../../lopsrm/markdown/articulo-30.md) de la [Ley](articulo-2.md), se podrá considerar como mano de obra al personal profesional, especialista y técnico de las diversas especialidades asociadas con los servicios relacionados con la obra pública;
 
@@ -45,7 +47,9 @@ IX. Los demás documentos requeridos por la convocante en la convocatoria a la l
 
 B. Tratándose de la propuesta económica:
 
-I. Cuando se trate de servicios que consideren precios unitarios, el catálogo de conceptos, el cual deberá contener descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes parciales y totales de la proposición. Asimismo, se presentará una relación de los conceptos de trabajo más significativos, de los cuales deberán presentar el análisis correspondiente; II. Cuando se trate de servicios bajo la condición de pago sobre la base de precio alzado, red de actividades, cédula de avances y de pagos programados, calendarizados y cuantificados mensualmente por actividades a ejecutar y programa de ejecución convenido;
+I. Cuando se trate de servicios que consideren precios unitarios, el catálogo de conceptos, el cual deberá contener descripción, unidades de medición, cantidades de trabajo, precios unitarios con número y letra e importes parciales y totales de la proposición. Asimismo, se presentará una relación de los conceptos de trabajo más significativos, de los cuales deberán presentar el análisis correspondiente;
+
+II. Cuando se trate de servicios bajo la condición de pago sobre la base de precio alzado, red de actividades, cédula de avances y de pagos programados, calendarizados y cuantificados mensualmente por actividades a ejecutar y programa de ejecución convenido;
 
 III. Presupuesto total de los servicios, según el tipo de contrato que se requiera;
 

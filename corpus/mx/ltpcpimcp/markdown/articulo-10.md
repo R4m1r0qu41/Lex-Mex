@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["LTPCPIMCP — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf
 source_sha256: 55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d
 ---
@@ -25,7 +25,7 @@ b) El Medio que no entregue directamente al Anunciante la factura y la informaci
 
 c) La Agencia que no entregue la información establecida en el artículo [7](articulo-7.md) de esta Ley.
 
-II. Multa hasta por el equivalente de cuatro por ciento de sus ingresos a: LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE CONTRATACIÓN DE PUBLICIDAD a) La Agencia que adquiera [Espacios Publicitarios](articulo-3.md) por cuenta propia para su posterior reventa a un Anunciante;
+II. Multa hasta por el equivalente de cuatro por ciento de sus ingresos a: a) La Agencia que adquiera [Espacios Publicitarios](articulo-3.md) por cuenta propia para su posterior reventa a un Anunciante;
 
 b) La Agencia que recomiende a un Anunciante, o contrate por cuenta y orden de éste, un Medio con el que tiene relaciones financieras, si deliberadamente comunica al Anunciante información falsa o distorsionada sobre las características del Medio referido o de los Medios que le pueden ser sustitutos;
 

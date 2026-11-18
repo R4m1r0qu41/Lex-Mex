@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LFFAROSC — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf
 source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 ---
@@ -31,7 +31,9 @@ V. Ley, la Ley Federal de Fomento a las Actividades Realizadas por Organizacione
 
 VI. Registro, el Registro Federal de las Organizaciones de la Sociedad Civil;
 
-VII. Responsable de Coordinación, el servidor público que designan los titulares de las Dependencias o Entidades para coordinarse con la [Secretaría](articulo-2.md) de Desarrollo Social, con relación a las acciones de fomento; VIII. Secretaría, la Secretaría de Desarrollo Social;
+VII. Responsable de Coordinación, el servidor público que designan los titulares de las Dependencias o Entidades para coordinarse con la [Secretaría](articulo-2.md) de Desarrollo Social, con relación a las acciones de fomento;
+
+VIII. Secretaría, la Secretaría de Desarrollo Social;
 
 IX. Secretaría Técnica, la Secretaría Técnica de la Comisión, y
 

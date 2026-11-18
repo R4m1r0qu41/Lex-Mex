@@ -29,4 +29,6 @@ IV. Licencia vigente como Radiotelegrafista o Radio Operador, expedida por la au
 
 V. Constancia vigente de capacitación básica en materia de seguridad acorde al [Convenio STCW](articulo-10.md) y/o convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, expedida por el [FIDENA](articulo-10.md);
 
-VI. Copia del certificado vigente de Operador General del [SMSSM](articulo-10.md), expedido por la Dirección General, y VII. Para ejercer como Radio Operador en un buque especializado, de conformidad con los artículos anteriores, constancia de aprobación del curso, expedida por el FIDENA.
+VI. Copia del certificado vigente de Operador General del [SMSSM](articulo-10.md), expedido por la Dirección General, y
+
+VII. Para ejercer como Radio Operador en un buque especializado, de conformidad con los artículos anteriores, constancia de aprobación del curso, expedida por el FIDENA.

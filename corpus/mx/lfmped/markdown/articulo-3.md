@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LFMPED — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf
 source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 ---

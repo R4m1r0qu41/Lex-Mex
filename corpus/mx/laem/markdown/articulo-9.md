@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LAEM — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf
 source_sha256: b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca
 ---
@@ -17,7 +17,9 @@ source_sha256: b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca
 
 # Artículo 9
 
-La Junta de Gobierno tendrá las siguientes facultades indelegables: I. Formular y proponer al titular de la Secretaría de Comunicaciones y Transportes las líneas generales de la política espacial de México y, así como el Programa Nacional de Actividades Espaciales;
+La Junta de Gobierno tendrá las siguientes facultades indelegables:
+
+I. Formular y proponer al titular de la Secretaría de Comunicaciones y Transportes las líneas generales de la política espacial de México y, así como el Programa Nacional de Actividades Espaciales;
 
 II. Definir prioridades, conocer y aprobar programas y proyectos de la Agencia;
 

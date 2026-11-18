@@ -18,7 +18,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "II",
     "start_char": 187,
-    "end_char": 794,
+    "end_char": 531,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgvs:term:capacidad-de-carga",
+    "term": "Capacidad de carga",
+    "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
+    "fraction": "III",
+    "start_char": 531,
+    "end_char": 795,
     "basis": "express_definition"
   },
   {
@@ -28,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "IV",
-    "start_char": 794,
-    "end_char": 895,
+    "start_char": 795,
+    "end_char": 896,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "V",
-    "start_char": 895,
-    "end_char": 1009,
+    "start_char": 896,
+    "end_char": 1010,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "VI",
-    "start_char": 1009,
-    "end_char": 1264,
+    "start_char": 1010,
+    "end_char": 1265,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "VII",
-    "start_char": 1264,
-    "end_char": 1379,
+    "start_char": 1265,
+    "end_char": 1380,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "VIII",
-    "start_char": 1379,
-    "end_char": 1507,
+    "start_char": 1380,
+    "end_char": 1508,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "IX",
-    "start_char": 1507,
-    "end_char": 1793,
+    "start_char": 1508,
+    "end_char": 1794,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "X",
-    "start_char": 1793,
-    "end_char": 1956,
+    "start_char": 1794,
+    "end_char": 1957,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XI",
-    "start_char": 1956,
-    "end_char": 2386,
+    "start_char": 1957,
+    "end_char": 2387,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XII",
-    "start_char": 2386,
-    "end_char": 2793,
+    "start_char": 2387,
+    "end_char": 2794,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XIII",
-    "start_char": 2793,
-    "end_char": 2949,
+    "start_char": 2794,
+    "end_char": 2950,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XIV",
-    "start_char": 2949,
-    "end_char": 3139,
+    "start_char": 2950,
+    "end_char": 3141,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XV",
-    "start_char": 3139,
-    "end_char": 3360,
+    "start_char": 3141,
+    "end_char": 3362,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XVI",
-    "start_char": 3360,
-    "end_char": 3543,
+    "start_char": 3362,
+    "end_char": 3545,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XVII",
-    "start_char": 3543,
-    "end_char": 3978,
+    "start_char": 3545,
+    "end_char": 3980,
     "basis": "express_definition"
   },
   {
@@ -182,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XVIII",
-    "start_char": 3978,
-    "end_char": 4352,
+    "start_char": 3980,
+    "end_char": 4354,
     "basis": "express_definition"
   },
   {
@@ -193,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XIX",
-    "start_char": 4352,
-    "end_char": 4633,
+    "start_char": 4354,
+    "end_char": 4635,
     "basis": "express_definition"
   },
   {
@@ -204,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XX",
-    "start_char": 4633,
-    "end_char": 4903,
+    "start_char": 4635,
+    "end_char": 4905,
     "basis": "express_definition"
   },
   {
@@ -215,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXI",
-    "start_char": 4903,
-    "end_char": 5116,
+    "start_char": 4905,
+    "end_char": 5118,
     "basis": "express_definition"
   },
   {
@@ -226,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXII",
-    "start_char": 5116,
-    "end_char": 5478,
+    "start_char": 5118,
+    "end_char": 5480,
     "basis": "express_definition"
   },
   {
@@ -237,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXIII",
-    "start_char": 5478,
-    "end_char": 5707,
+    "start_char": 5480,
+    "end_char": 5709,
     "basis": "express_definition"
   },
   {
@@ -248,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXIV",
-    "start_char": 5707,
-    "end_char": 6065,
+    "start_char": 5709,
+    "end_char": 6067,
     "basis": "express_definition"
   },
   {
@@ -259,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXV",
-    "start_char": 6065,
-    "end_char": 6227,
+    "start_char": 6067,
+    "end_char": 6230,
     "basis": "express_definition"
   },
   {
@@ -270,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXVI",
-    "start_char": 6227,
-    "end_char": 6592,
+    "start_char": 6230,
+    "end_char": 6595,
     "basis": "express_definition"
   },
   {
@@ -281,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXVII",
-    "start_char": 6592,
-    "end_char": 6773,
+    "start_char": 6595,
+    "end_char": 6776,
     "basis": "express_definition"
   },
   {
@@ -292,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXVIII",
-    "start_char": 6773,
-    "end_char": 6996,
+    "start_char": 6776,
+    "end_char": 6999,
     "basis": "express_definition"
   },
   {
@@ -303,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXIX",
-    "start_char": 6996,
-    "end_char": 7188,
+    "start_char": 6999,
+    "end_char": 7191,
     "basis": "express_definition"
   },
   {
@@ -314,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXX",
-    "start_char": 7188,
-    "end_char": 7463,
+    "start_char": 7191,
+    "end_char": 7466,
     "basis": "express_definition"
   },
   {
@@ -325,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXI",
-    "start_char": 7463,
-    "end_char": 7677,
+    "start_char": 7466,
+    "end_char": 7680,
     "basis": "express_definition"
   },
   {
@@ -336,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXII",
-    "start_char": 7677,
-    "end_char": 7959,
+    "start_char": 7680,
+    "end_char": 7962,
     "basis": "express_definition"
   },
   {
@@ -347,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXIII",
-    "start_char": 7959,
-    "end_char": 8292,
+    "start_char": 7962,
+    "end_char": 8295,
     "basis": "express_definition"
   },
   {
@@ -358,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXIV",
-    "start_char": 8292,
-    "end_char": 8609,
+    "start_char": 8295,
+    "end_char": 8612,
     "basis": "express_definition"
   },
   {
@@ -369,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXV",
-    "start_char": 8609,
-    "end_char": 8997,
+    "start_char": 8612,
+    "end_char": 9000,
     "basis": "express_definition"
   },
   {
@@ -380,8 +391,19 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXVI",
-    "start_char": 8997,
-    "end_char": 9392,
+    "start_char": 9000,
+    "end_char": 9230,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgvs:term:predio",
+    "term": "Predio",
+    "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
+    "fraction": "XXXVII",
+    "start_char": 9230,
+    "end_char": 9396,
     "basis": "express_definition"
   },
   {
@@ -391,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXVIII",
-    "start_char": 9392,
-    "end_char": 9845,
+    "start_char": 9396,
+    "end_char": 9849,
     "basis": "express_definition"
   },
   {
@@ -402,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXXIX",
-    "start_char": 9845,
-    "end_char": 9961,
+    "start_char": 9849,
+    "end_char": 9965,
     "basis": "express_definition"
   },
   {
@@ -413,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XL",
-    "start_char": 9961,
-    "end_char": 10283,
+    "start_char": 9965,
+    "end_char": 10287,
     "basis": "express_definition"
   },
   {
@@ -424,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLI",
-    "start_char": 10283,
-    "end_char": 10585,
+    "start_char": 10287,
+    "end_char": 10589,
     "basis": "express_definition"
   },
   {
@@ -435,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLII",
-    "start_char": 10585,
-    "end_char": 11174,
+    "start_char": 10589,
+    "end_char": 11178,
     "basis": "express_definition"
   },
   {
@@ -446,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLIII",
-    "start_char": 11174,
-    "end_char": 11316,
+    "start_char": 11178,
+    "end_char": 11320,
     "basis": "express_definition"
   },
   {
@@ -457,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLIV",
-    "start_char": 11316,
-    "end_char": 11752,
+    "start_char": 11320,
+    "end_char": 11756,
     "basis": "express_definition"
   },
   {
@@ -468,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLV",
-    "start_char": 11752,
-    "end_char": 12043,
+    "start_char": 11756,
+    "end_char": 12047,
     "basis": "express_definition"
   },
   {
@@ -479,8 +501,19 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLVI",
-    "start_char": 12043,
-    "end_char": 12766,
+    "start_char": 12047,
+    "end_char": 12358,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgvs:term:trato-digno-y-respetuoso",
+    "term": "Trato Digno y Respetuoso",
+    "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
+    "fraction": "XLVII",
+    "start_char": 12358,
+    "end_char": 12771,
     "basis": "express_definition"
   },
   {
@@ -490,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLVIII",
-    "start_char": 12766,
-    "end_char": 13105,
+    "start_char": 12771,
+    "end_char": 13110,
     "basis": "express_definition"
   },
   {
@@ -501,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XLIX",
-    "start_char": 13105,
-    "end_char": 13408,
+    "start_char": 13110,
+    "end_char": 13413,
     "basis": "express_definition"
   }
 ]

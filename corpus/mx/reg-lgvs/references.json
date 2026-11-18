@@ -1836,14 +1836,7 @@
     "end_char": 1359,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgvs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgvs:article:64",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 1376,
-        "end_char": 1386
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

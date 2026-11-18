@@ -29,7 +29,9 @@ IV. Integrar la información estadística del transporte marítimo mercante;
 
 V. Otorgar permisos y autorizaciones de navegación para prestar servicios en vías generales de comunicación por agua, en los términos de esta Ley, así como verificar su cumplimiento y revocarlos o suspenderlos en su caso; Fracción reformada DOF 07-12-2020
 
-VI. Organizar, regular y, en su caso, prestar servicios de control de tráfico marítimo; Fracción reformada DOF 07-12-2020 VII. Regular y vigilar que el servicio de pilotaje se preste en forma segura y eficiente, de acuerdo con esta Ley y su Reglamento;
+VI. Organizar, regular y, en su caso, prestar servicios de control de tráfico marítimo; Fracción reformada DOF 07-12-2020
+
+VII. Regular y vigilar que el servicio de pilotaje se preste en forma segura y eficiente, de acuerdo con esta Ley y su Reglamento;
 
 VIII. Organizar, promover y regular la formación y capacitación del personal de la Marina Mercante, así como otorgar certificados de competencia en los términos de esta Ley y su Reglamento; vigilar su cumplimiento y revocarlos o suspenderlos en su caso;
 

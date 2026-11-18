@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["LPPDDHP — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf
 source_sha256: 060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21
 ---

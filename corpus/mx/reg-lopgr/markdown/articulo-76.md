@@ -25,7 +25,9 @@ II. Elaborar los informes, proyectos de contestación, reportes y requerimientos
 
 III. Desahogar las consultas que en materia de delitos electorales formulen el Instituto Federal Electoral, las dependencias y entidades de los gobiernos Federal, del Distrito Federal y de los estados, así como los organismos políticos e instituciones públicas y privadas;
 
-IV. Formular y revisar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, los anteproyectos de acuerdos, circulares e instructivos, así como de convenios y bases de colaboración, en materias competencia de la Fiscalía Especializada para la Atención de Delitos Electorales; V. Proponer, en coordinación con las unidades administrativas y órganos desconcentrados competentes, proyectos normativos en materia de delitos electorales federales, del registro nacional de ciudadanos y de cualquier ordenamiento jurídico que se refiera a las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+IV. Formular y revisar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, los anteproyectos de acuerdos, circulares e instructivos, así como de convenios y bases de colaboración, en materias competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+V. Proponer, en coordinación con las unidades administrativas y órganos desconcentrados competentes, proyectos normativos en materia de delitos electorales federales, del registro nacional de ciudadanos y de cualquier ordenamiento jurídico que se refiera a las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
 VI. Actualizar y sistematizar el acervo de fuentes de información en materia electoral;
 

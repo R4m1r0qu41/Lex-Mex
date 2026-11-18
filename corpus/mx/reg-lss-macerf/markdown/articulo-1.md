@@ -29,4 +29,6 @@ IV. La clasificación de las empresas y la determinación de la prima para la co
 
 V. El dictamen y la corrección sobre el cumplimiento de las obligaciones de los patrones ante el Instituto;
 
-VI. La comprobación del cumplimiento de las obligaciones legales, reglamentarias y administrativas ante el Instituto, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN VII. La determinación, imposición y pago de multas, y aplicación de otras sanciones, por infracciones a las disposiciones de la Ley del Seguro Social y sus reglamentos.
+VI. La comprobación del cumplimiento de las obligaciones legales, reglamentarias y administrativas ante el Instituto, y
+
+VII. La determinación, imposición y pago de multas, y aplicación de otras sanciones, por infracciones a las disposiciones de la Ley del Seguro Social y sus reglamentos.

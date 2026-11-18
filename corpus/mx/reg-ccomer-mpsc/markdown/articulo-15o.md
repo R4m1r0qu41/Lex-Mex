@@ -7,8 +7,8 @@ provision_type: article
 number: "15o"
 aliases: ["REG-CCOMER-MPSC — Artículo 15o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf
 source_sha256: 68289021a298c81ea470c045775a924186bf451c2469dcf6c59a43200a2b0048
 ---

@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
     "fraction": "VIII",
     "start_char": 1056,
-    "end_char": 1119,
+    "end_char": 1120,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgds",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
     "fraction": "IX",
-    "start_char": 1119,
-    "end_char": 1361,
+    "start_char": 1120,
+    "end_char": 1362,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgds",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
     "fraction": "X",
-    "start_char": 1361,
-    "end_char": 1611,
+    "start_char": 1362,
+    "end_char": 1612,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgds",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
     "fraction": "XI",
-    "start_char": 1611,
-    "end_char": 1883,
+    "start_char": 1612,
+    "end_char": 1884,
     "basis": "express_definition"
   }
 ]

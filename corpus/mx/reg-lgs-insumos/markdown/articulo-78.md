@@ -8,7 +8,7 @@ number: "78"
 aliases: ["REG-LGS-INSUMOS — Artículo 78"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf
 source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 ---

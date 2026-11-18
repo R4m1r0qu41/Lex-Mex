@@ -99,12 +99,6 @@
         "text": "fracción VII",
         "start_char": 133,
         "end_char": 145
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 366,
-        "end_char": 377
       }
     ],
     "basis": "express_cross_reference",
@@ -307,11 +301,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:reference:2785-2786:6:direct",
+    "id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo:reference:2786-2787:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsprem:transitory:decimo",
     "source_span": "6",
-    "start_char": 2785,
-    "end_char": 2786,
+    "start_char": 2786,
+    "end_char": 2787,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:6",
     "qualifiers": [],
@@ -676,14 +670,7 @@
     "end_char": 67,
     "target_instrument_id": "urn:lex-mx:federal:statute:lftr",
     "target_provision_id": "urn:lex-mx:federal:statute:lftr:article:131",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 582,
-        "end_char": 594
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -721,12 +708,6 @@
         "text": "inciso b)",
         "start_char": 952,
         "end_char": 961
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 1350,
-        "end_char": 1365
       }
     ],
     "basis": "express_cross_reference",
@@ -744,14 +725,7 @@
     "end_char": 195,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:6",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 409,
-        "end_char": 423
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

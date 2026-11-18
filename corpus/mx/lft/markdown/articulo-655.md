@@ -19,6 +19,8 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 Los padrones contendrán los datos siguientes:
 
-I. Denominaciones y domicilios de los sindicatos de trabajadores y de patrones; II. Nombres, nacionalidad, edad, sexo y empresa o establecimiento en que presten sus servicios; y
+I. Denominaciones y domicilios de los sindicatos de trabajadores y de patrones;
+
+II. Nombres, nacionalidad, edad, sexo y empresa o establecimiento en que presten sus servicios; y
 
 III. Nombres del patrón o patrones, domicilio y rama de la industria o actividad a que se dediquen.

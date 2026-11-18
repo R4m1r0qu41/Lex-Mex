@@ -7,8 +7,8 @@ provision_type: article
 number: "38"
 aliases: ["REG-LGDNNA — Artículo 38"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
 source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 ---
@@ -71,7 +71,9 @@ h) Domicilio;
 
 i) El perfil y número de las niñas, niños y adolescentes que tienen la capacidad de adoptar, y
 
-j) Si cuenta con Certificado de Idoneidad; III. Respecto de los procedimientos de adopción:
+j) Si cuenta con Certificado de Idoneidad;
+
+III. Respecto de los procedimientos de adopción:
 
 a) La fecha de inicio y conclusión de los procedimientos de adopción nacional o internacional;
 

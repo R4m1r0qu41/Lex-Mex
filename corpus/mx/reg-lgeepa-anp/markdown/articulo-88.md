@@ -23,7 +23,9 @@ I. Colecta de ejemplares de vida silvestre, así como de otros recursos biológi
 
 II. La investigación y monitoreo que requiera de manipular ejemplares de especies en riesgo;
 
-III. El aprovechamiento de la vida silvestre, así como el manejo y control de ejemplares y poblaciones que se tornen perjudiciales; IV. El aprovechamiento de recursos biológicos con fines de utilización en la biotecnología;
+III. El aprovechamiento de la vida silvestre, así como el manejo y control de ejemplares y poblaciones que se tornen perjudiciales;
+
+IV. El aprovechamiento de recursos biológicos con fines de utilización en la biotecnología;
 
 V. Aprovechamiento forestal;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "55"
 aliases: ["REG-LOPGJDF — Artículo 55"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf
 source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 ---
@@ -47,7 +47,9 @@ XIII. Verificar que se remita, a la Fiscalía Central de Investigación para la 
 
 XIV. Supervisar que los menores de doce años que sean puestos a disposición del Ministerio Público por la posible realización de conductas tipificadas como delito por las leyes penales, sean canalizados de manera inmediata al Sistema para el Desarrollo Integral de la Familia, para la debida asistencia social y su correspondiente rehabilitación;
 
-XV. Garantizar la protección de los derechos e intereses de los niños, niñas, adolescentes, incapaces, ausentes, personas adultas mayores y otros de carácter individual o social, que por sus características sean vulnerables o se encuentren en situación de riesgo; XVI. Remitir a la Fiscalía Especializada en Extinción de Dominio, copias certificadas de las Averiguaciones Previas en las que se encuentren relacionados bienes susceptibles de Extinción de Dominio, previa la práctica de las diligencias básicas para tal efecto;
+XV. Garantizar la protección de los derechos e intereses de los niños, niñas, adolescentes, incapaces, ausentes, personas adultas mayores y otros de carácter individual o social, que por sus características sean vulnerables o se encuentren en situación de riesgo;
+
+XVI. Remitir a la Fiscalía Especializada en Extinción de Dominio, copias certificadas de las Averiguaciones Previas en las que se encuentren relacionados bienes susceptibles de Extinción de Dominio, previa la práctica de las diligencias básicas para tal efecto;
 
 XVII. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos del Fiscal, así como la presentación de las promociones y los recursos que deban interponerse;
 

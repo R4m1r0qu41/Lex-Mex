@@ -21,6 +21,8 @@ Los ejecutores de gasto, conforme a las disposiciones aplicables, realizarán lo
 
 La [Secretaría](articulo-2.md) podrá realizar cargos a los presupuestos de las dependencias y, en su caso, a las transferencias o subsidios destinadas a las entidades en el presupuesto de las dependencias coordinadoras de sector, en caso de desastres naturales o incumplimiento de normas o pagos, conforme a lo siguiente:
 
-I. La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo; II. La dependencia cuyo presupuesto se haya afectado por la expedición de cuentas por liquidar certificadas especiales deberá efectuar el registro contable y presupuestario correspondiente, y
+I. La Secretaría solicitará a la dependencia que efectúe el cargo a su presupuesto. Si en un plazo de 5 días hábiles la dependencia no realizara el cargo, la Secretaría elaborará una cuenta por liquidar certificada especial para efectuarlo;
+
+II. La dependencia cuyo presupuesto se haya afectado por la expedición de cuentas por liquidar certificadas especiales deberá efectuar el registro contable y presupuestario correspondiente, y
 
 III. En caso de presentarse incumplimiento a lo dispuesto en este artículo, la Secretaría podrá suspender las ministraciones de fondos a la dependencia correspondiente.

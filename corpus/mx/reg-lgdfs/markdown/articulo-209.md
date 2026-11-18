@@ -25,7 +25,9 @@ II. El fortalecimiento de la coordinación interinstitucional entre los tres ór
 
 III. El fortalecimiento de la participación social en el Manejo del fuego;
 
-IV. El mantenimiento de un programa de supresión de Incendios forestales dañinos con infraestructura, equipamiento y personal profesionalizado; V. El impulso a los métodos de manejo de combustibles en ecosistemas adaptados al fuego;
+IV. El mantenimiento de un programa de supresión de Incendios forestales dañinos con infraestructura, equipamiento y personal profesionalizado;
+
+V. El impulso a los métodos de manejo de combustibles en ecosistemas adaptados al fuego;
 
 VI. La promoción de la investigación aplicada para el Manejo del fuego en Ecosistemas forestales;
 

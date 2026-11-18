@@ -39,6 +39,8 @@ V. Los costos y las fuentes de financiamiento que se tengan previstas;
 
 VI. Las modalidades al aprovechamiento de los recursos naturales afectados, con el objeto de permitir su restauración y restablecimiento;
 
-VII. La evaluación y el seguimiento de la recuperación del ecosistema, estableciendo la periodicidad con la que se llevará a cabo dicha evaluación y los indicadores a evaluar; VIII. Los medios por los que deberá llevarse a cabo la difusión periódica de los avances de las acciones de restauración, y
+VII. La evaluación y el seguimiento de la recuperación del ecosistema, estableciendo la periodicidad con la que se llevará a cabo dicha evaluación y los indicadores a evaluar;
+
+VIII. Los medios por los que deberá llevarse a cabo la difusión periódica de los avances de las acciones de restauración, y
 
 IX. La coordinación de acciones con los gobiernos locales y municipales.

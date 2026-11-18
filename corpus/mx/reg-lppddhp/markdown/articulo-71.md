@@ -7,8 +7,8 @@ provision_type: article
 number: "71"
 aliases: ["REG-LPPDDHP — Artículo 71"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf
 source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 ---
@@ -17,7 +17,9 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 71
 
-La base de datos a que se refiere el artículo [23](../../lppddhp/markdown/articulo-23.md) de la [Ley](articulo-3.md), estará a cargo de la Unidad de Prevención, Seguimiento y Análisis. Dicha base deberá contener: I. El número de solicitudes presentadas;
+La base de datos a que se refiere el artículo [23](../../lppddhp/markdown/articulo-23.md) de la [Ley](articulo-3.md), estará a cargo de la Unidad de Prevención, Seguimiento y Análisis. Dicha base deberá contener:
+
+I. El número de solicitudes presentadas;
 
 II. El número de solicitudes aceptadas;
 

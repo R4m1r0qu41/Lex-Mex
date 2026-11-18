@@ -19,7 +19,9 @@ source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 
 La Agencia Nacional de Aduanas de México podrá otorgar autorización a las empresas de mensajería y paquetería para realizar el despacho aduanero de mercancías mediante procedimiento simplificado, siempre que cumplan con los requisitos y condiciones que se establezcan mediante reglas.
 
-Las empresas de mensajería y paquetería interesadas en efectuar el despacho aduanero a través del procedimiento simplificado a que se refiere el párrafo anterior, deberán: I. Solicitar la autorización;
+Las empresas de mensajería y paquetería interesadas en efectuar el despacho aduanero a través del procedimiento simplificado a que se refiere el párrafo anterior, deberán:
+
+I. Solicitar la autorización;
 
 II. Llevar un sistema de análisis de riesgo que permita verificar el cumplimiento de las obligaciones aduaneras y de comercio exterior de las mercancías, conservando la documentación e información relativa al valor, descripción, naturaleza y origen de las mismas;
 

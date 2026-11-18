@@ -7,8 +7,8 @@ provision_type: article
 number: "40"
 aliases: ["REG-LGPSACDII — Artículo 40"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -19,4 +19,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 Las autorizaciones, permisos o licencias a que se refiere el artículo [50](../../lgpsacdii/markdown/articulo-50.md), fracciones VIII y IX de la Ley, se emitirán por las autoridades estatales o municipales, el Distrito Federal o los órganos político-administrativos de sus demarcaciones territoriales, conforme al ámbito de su competencia, previo cumplimiento de los requisitos señalados en sus disposiciones legales y administrativas aplicables.
 
-Las autorizaciones, permisos o licencias a que se refiere este artículo, deberán obtenerse antes de que el interesado solicite la Autorización a que se refiere el artículo [41](articulo-41.md) de este Reglamento, salvo que las disposiciones locales prevean que alguna de ellas sólo puede expedirse una vez que el Centro de Atención comience a funcionar.
+Las autorizaciones, permisos o licencias a que se refiere este artículo, deberán obtenerse antes de que el interesado solicite la [Autorización](articulo-3.md) a que se refiere el artículo [41](articulo-41.md) de este Reglamento, salvo que las disposiciones locales prevean que alguna de ellas sólo puede expedirse una vez que el Centro de Atención comience a funcionar.

@@ -29,6 +29,8 @@ IV. Observaciones de la [Cámara](articulo-2.md) de Senadores en términos de la
 
 V. Cuenta Pública;
 
-VI. Proposiciones, y VII. Solicitudes de permiso constitucional en términos del artículo 37, inciso c), fracciones II a IV, de la [Constitución](articulo-2.md).
+VI. Proposiciones, y
+
+VII. Solicitudes de permiso constitucional en términos del artículo 37, inciso c), fracciones II a IV, de la [Constitución](articulo-2.md).
 
 2. Las comisiones podrán retirar el dictamen enviado a la [Mesa Directiva](articulo-2.md), hasta antes de que se discuta por el Pleno. Para ello, su [Junta Directiva](articulo-2.md) deberá acordarlo. La comisión que retire un dictamen tendrá hasta cinco días para volverlo a presentar. El dictamen se podrá retirar una sola vez.

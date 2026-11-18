@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Dirección General de Responsabilidades en Asuntos Internos tiene las atribuciones siguientes:
 
-I. Analizar los expedientes de investigación a efecto de determinar la posible existencia de elementos en materia de infracciones al régimen disciplinario imputables a los integrantes o, en caso contrario, recomendar el archivo de sus expedientes; II. Elaborar los proyectos de solicitud de suspensión temporal de los integrantes que se encuentren involucrados en la comisión de ilícitos o faltas administrativas y que, por la naturaleza de las mismas y la afectación operativa que representa para la [Institución](articulo-2.md), requieran la medida precautoria;
+I. Analizar los expedientes de investigación a efecto de determinar la posible existencia de elementos en materia de infracciones al régimen disciplinario imputables a los integrantes o, en caso contrario, recomendar el archivo de sus expedientes;
+
+II. Elaborar los proyectos de solicitud de suspensión temporal de los integrantes que se encuentren involucrados en la comisión de ilícitos o faltas administrativas y que, por la naturaleza de las mismas y la afectación operativa que representa para la [Institución](articulo-2.md), requieran la medida precautoria;
 
 III. Proponer al Titular de la Unidad de Asuntos Internos, las normas, políticas y procedimientos para el desarrollo e instrumentación de programas de visitas e inspecciones a la Institución;
 

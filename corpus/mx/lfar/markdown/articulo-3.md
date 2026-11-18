@@ -17,7 +17,9 @@ source_sha256: b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c
 
 # Artículo 3
 
-Son objetivos de la presente [Ley](articulo-4.md): I. Establecer la austeridad republicana como un valor fundamental y principio orientador del servicio público mexicano;
+Son objetivos de la presente [Ley](articulo-4.md):
+
+I. Establecer la austeridad republicana como un valor fundamental y principio orientador del servicio público mexicano;
 
 II. Fijar las bases para la aplicación de la política pública de austeridad republicana de Estado y los mecanismos para su ejercicio;
 

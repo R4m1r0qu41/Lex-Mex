@@ -111,11 +111,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larcp:article:29:reference:1813-1819:12-bis:direct",
+    "id": "urn:lex-mx:federal:statute:larcp:article:29:reference:1814-1820:12-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:larcp:article:29",
     "source_span": "12 Bis",
-    "start_char": 1813,
-    "end_char": 1819,
+    "start_char": 1814,
+    "end_char": 1820,
     "target_instrument_id": "urn:lex-mx:federal:statute:larcp",
     "target_provision_id": "urn:lex-mx:federal:statute:larcp:article:12-bis",
     "qualifiers": [],
@@ -127,11 +127,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larcp:article:32:reference:703-705:30:direct",
+    "id": "urn:lex-mx:federal:statute:larcp:article:32:reference:704-706:30:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:larcp:article:32",
     "source_span": "30",
-    "start_char": 703,
-    "end_char": 705,
+    "start_char": 704,
+    "end_char": 706,
     "target_instrument_id": "urn:lex-mx:federal:statute:larcp",
     "target_provision_id": "urn:lex-mx:federal:statute:larcp:article:30",
     "qualifiers": [],
@@ -143,19 +143,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larcp:article:7:reference:623-624:6:direct",
+    "id": "urn:lex-mx:federal:statute:larcp:article:7:reference:624-625:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:larcp:article:7",
     "source_span": "6",
-    "start_char": 623,
-    "end_char": 624,
+    "start_char": 624,
+    "end_char": 625,
     "target_instrument_id": "urn:lex-mx:federal:statute:larcp",
     "target_provision_id": "urn:lex-mx:federal:statute:larcp:article:6",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",
-        "start_char": 594,
-        "end_char": 609
+        "start_char": 595,
+        "end_char": 610
       }
     ],
     "basis": "express_cross_reference",

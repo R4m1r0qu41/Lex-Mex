@@ -31,7 +31,9 @@ V. Reincidan en los casos previstos en las fracciones del artículo [58](articul
 
 VI. Alteren los documentos emitidos, declaren falsamente o que mediante inspección se detecte que lo manifestado en los certificados, dictámenes o informes de resultados no corresponda a lo observado en los establecimientos o mercancías reguladas, según corresponda;
 
-VII. Entreguen al usuario, sellos sin realizar la evaluación de la conformidad, así como certificados, dictámenes de verificación e informe de resultados firmados y/o sellados en blanco; VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y
+VII. Entreguen al usuario, sellos sin realizar la evaluación de la conformidad, así como certificados, dictámenes de verificación e informe de resultados firmados y/o sellados en blanco;
+
+VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y
 
 IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las [Normas Oficiales Mexicanas](articulo-4.md), [Estándares](articulo-4.md), [Normas Internacionales](articulo-4.md) ahí referidos o de otras disposiciones legales.
 

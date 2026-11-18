@@ -21,7 +21,9 @@ En el registro debe inscribirse lo siguiente:
 
 I. Las Concesiones y Autorizaciones obligadas a suministrar la CSRE, su forma de cumplimiento, así como su vigencia;
 
-II. La modificación de forma de suministro, respecto de los cambios en las posibles Bandas de frecuencias, Satélites, montos o servicios; III. Cualquier acto jurídico realizado por las personas titulares de la Concesión o Autorización que genere una modificación o sustitución en el suministro de la CSRE;
+II. La modificación de forma de suministro, respecto de los cambios en las posibles Bandas de frecuencias, Satélites, montos o servicios;
+
+III. Cualquier acto jurídico realizado por las personas titulares de la Concesión o Autorización que genere una modificación o sustitución en el suministro de la CSRE;
 
 IV. Las personas titulares de una Asignación;
 

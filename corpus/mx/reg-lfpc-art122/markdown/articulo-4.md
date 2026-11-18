@@ -21,6 +21,8 @@ La Lista a que se refiere el [artículo anterior](articulo-3.md) contendrá los 
 
 I. Nombre, domicilio y datos de localización;
 
-II. Especialidad y número de cédula profesional, en su caso; III. Plaza o plazas que atiende, y
+II. Especialidad y número de cédula profesional, en su caso;
+
+III. Plaza o plazas que atiende, y
 
 IV. La información adicional que la Secretaría requiera mediante publicación en el Diario Oficial de la Federación.

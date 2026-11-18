@@ -21,6 +21,8 @@ La divulgación de los Destinos, Atractivos y Servicios Turísticos, podrá llev
 
 I. Campañas publicitarias de [Promoción Turística](articulo-2.md) a nivel nacional e internacional;
 
-II. La difusión por cualquier medio de información turística especializada a los turistas nacionales y extranjeros que pretendan visitar los Destinos y Atractivos del país; III. La participación de los sectores público, social y privado para fomentar todo tipo de actividades que promuevan los Atractivos y Servicios Turísticos del país, y
+II. La difusión por cualquier medio de información turística especializada a los turistas nacionales y extranjeros que pretendan visitar los Destinos y Atractivos del país;
+
+III. La participación de los sectores público, social y privado para fomentar todo tipo de actividades que promuevan los Atractivos y Servicios Turísticos del país, y
 
 IV. Las demás acciones que hagan posible el conocimiento de los Destinos, Atractivos y Servicios Turísticos, a juicio de la Secretaría.

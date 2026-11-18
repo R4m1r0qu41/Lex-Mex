@@ -23,7 +23,9 @@ I. Extracción segura de la víctima del lugar de los hechos o de donde se encue
 
 II. Identificación del modus operandi de los involucrados;
 
-III. Obtención de elementos probatorios antes, durante y posterior a la extracción segura de la víctima; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS IV. Aseguramiento de elementos probatorios conforme a los lineamientos de cadena de custodia;
+III. Obtención de elementos probatorios antes, durante y posterior a la extracción segura de la víctima;
+
+IV. Aseguramiento de elementos probatorios conforme a los lineamientos de cadena de custodia;
 
 V. Detención de las personas que cometieron o participaron en la comisión;
 

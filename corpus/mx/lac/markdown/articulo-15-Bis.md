@@ -35,7 +35,9 @@ VII. Presentar documentos oficiales alterados o falsificados relacionados con es
 
 VIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Agencia Federal de Aviación Civil, salvo en caso fortuito o de fuerza mayor;
 
-IX. Prestar servicios distintos de los señalados en el permiso respectivo; X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
+IX. Prestar servicios distintos de los señalados en el permiso respectivo;
+
+X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
 
 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
 

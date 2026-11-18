@@ -27,7 +27,9 @@ b) Los que comuniquen a dos o más estados de la Federación; y
 
 c) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.
 
-II. Carta de Porte: Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen; III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la [Secretaría](articulo-2o.md), la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
+II. Carta de Porte: Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;
+
+III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la [Secretaría](articulo-2o.md), la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
 
 IV. Paradores: instalaciones y construcciones adyacentes al derecho de vía de una carretera federal en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde la carretera;
 

@@ -37,7 +37,9 @@ VIII. La suspensión de mensajes publicitarios en materia de salud;
 
 IX. La emisión de mensajes publicitarios que advierta peligros de daños a la salud;
 
-X. El aseguramiento y destrucción de objetos, productos o substancias; XI. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
+X. El aseguramiento y destrucción de objetos, productos o substancias;
+
+XI. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
 
 XII. La prohibición de actos de uso, y
 

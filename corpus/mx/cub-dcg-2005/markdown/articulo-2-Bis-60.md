@@ -11,7 +11,7 @@ temporal_status: effective
 review_status: machine_accepted
 amendment_marks: [50]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf
-source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
+source_sha256: b03eb544f3bc5b71a181bbd71f5a6024209a4873cff0da309b43ff8279cc2836
 ---
 
 > Título PRIMERO · Capítulo III
@@ -22,6 +22,6 @@ Cuando las Instituciones apliquen el tratamiento para Amortizaciones Anticipadas
 
 I. La media de tres meses del Rendimiento Excedente observado, y
 
-II. El valor del Rendimiento Excedente que las Instituciones tengan la obligación de obtener como mínimo, según lo estipulado en la estructura del Esquema de Bursatilización.
+II. El valor del Rendimiento Excedente que las Instituciones tengan la obligación de obtener como mínimo, según lo estipulado en la estructura del [Esquema de Bursatilización](articulo-1.md).
 
 En caso de que la estructura no tenga un mínimo de Rendimiento Excedente se utilizará 4.5 por ciento del saldo de los activos bursatilizados para determinar el nivel de recaudación del Rendimiento Excedente.

@@ -33,9 +33,9 @@ VI.- Vigilar que se cumplan los laudos dictados por el Pleno;
 
 VII.- Vigilar el correcto funcionamiento de las Salas y de las Salas Auxiliares;
 
-VIII.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Pleno; LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+VIII.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Pleno;
 
-ARTÍCULO 123 CONSTITUCIONAL IX.- Llevar la correspondencia oficial del Tribunal salvo las reservadas a los Presidentes de las Salas, y
+IX.- Llevar la correspondencia oficial del Tribunal salvo las reservadas a los Presidentes de las Salas, y
 
 X.- Las demás que le confieran las Leyes.
 

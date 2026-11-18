@@ -23,7 +23,9 @@ I. Clave, título, objetivo y campo de aplicación del Estándar;
 
 II. En su caso, la referencia a otros Estándares, así como a [Normas Internacionales](articulo-4.md) para su implementación;
 
-III. [Procedimiento de Evaluación de la Conformidad](articulo-4.md), cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio; IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
+III. [Procedimiento de Evaluación de la Conformidad](articulo-4.md), cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio;
+
+IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
 
 V. La bibliografía que corresponda, incluyendo, entre otros, los Estándares, las Normas Internacionales y los Reglamentos Técnicos que, en su caso, se tomaron como referencia para la elaboración de la propuesta de Estándar;
 

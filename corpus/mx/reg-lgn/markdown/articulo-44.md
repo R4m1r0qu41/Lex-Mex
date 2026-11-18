@@ -21,7 +21,9 @@ La Unidad de Asuntos Internos tiene las atribuciones siguientes:
 
 I. Acordar con el [Secretario](articulo-2.md) el despacho de los asuntos relevantes de su competencia;
 
-II. Expedir, previo acuerdo con el Secretario, los manuales de operación de la Unidad a su cargo, incluso los de supervisión de operaciones encubiertas; III. Instrumentar y actualizar procedimientos de inspección e investigación para detectar deficiencias, irregularidades o faltas en la aplicación de procesos en las distintas unidades de la [Institución](articulo-2.md) y en el cumplimiento de las obligaciones de sus integrantes;
+II. Expedir, previo acuerdo con el Secretario, los manuales de operación de la Unidad a su cargo, incluso los de supervisión de operaciones encubiertas;
+
+III. Instrumentar y actualizar procedimientos de inspección e investigación para detectar deficiencias, irregularidades o faltas en la aplicación de procesos en las distintas unidades de la [Institución](articulo-2.md) y en el cumplimiento de las obligaciones de sus integrantes;
 
 IV. Inspeccionar, supervisar, fiscalizar, auditar y evaluar:
 
@@ -49,7 +51,9 @@ XI. Conocer de quejas y denuncias, incluso anónimas, con motivo de faltas admin
 
 XII. Llevar a cabo las investigaciones necesarias y remitir oportunamente el expediente de la investigación realizada ante las instancias competentes, a fin de que se determine lo que en derecho resulte procedente, solicitando, en su caso, que se resguarde la identidad del denunciante, conforme a las disposiciones jurídicas aplicables;
 
-XIII. Coordinar la vigilancia a los integrantes en el cumplimiento de sus deberes y la observancia a las normas establecidas en los ordenamientos jurídicos que rigen su actuación; XIV. Ordenar la práctica de investigaciones por supuestas anomalías de la conducta de los integrantes, que pueda implicar inobservancia de sus deberes, ya sea por denuncia o de oficio;
+XIII. Coordinar la vigilancia a los integrantes en el cumplimiento de sus deberes y la observancia a las normas establecidas en los ordenamientos jurídicos que rigen su actuación;
+
+XIV. Ordenar la práctica de investigaciones por supuestas anomalías de la conducta de los integrantes, que pueda implicar inobservancia de sus deberes, ya sea por denuncia o de oficio;
 
 XV. Dictar las medidas precautorias que resulten necesarias para el éxito de la investigación. Para tal efecto, solicitará al Titular de la Unidad a la que pertenezca el integrante que, conforme a las disposiciones jurídicas aplicables, dicte las órdenes que se requieran;
 
@@ -73,7 +77,9 @@ XXIV. Interponer el medio de impugnación en contra del acuerdo del Presidente d
 
 XXV. Recibir y tramitar las peticiones y sugerencias de los particulares sobre el trámite y el mejoramiento de los servicios a cargo de la Institución;
 
-XXVI. Acordar, de manera fundada y motivada, la improcedencia o reserva de expedientes de investigaciones disciplinarias, cuando derivado de sus investigaciones no se desprendan elementos suficientes que permitan determinar la probable responsabilidad del integrante o, en su caso, de aquellos expedientes que se integren por incumplimiento de los requisitos de ingreso o permanencia; XXVII. Rendir informes semestralmente al Secretario sobre el resultado de sus investigaciones, así como de aquellos casos de improcedencia o reserva de los expedientes;
+XXVI. Acordar, de manera fundada y motivada, la improcedencia o reserva de expedientes de investigaciones disciplinarias, cuando derivado de sus investigaciones no se desprendan elementos suficientes que permitan determinar la probable responsabilidad del integrante o, en su caso, de aquellos expedientes que se integren por incumplimiento de los requisitos de ingreso o permanencia;
+
+XXVII. Rendir informes semestralmente al Secretario sobre el resultado de sus investigaciones, así como de aquellos casos de improcedencia o reserva de los expedientes;
 
 XXVIII. Instruir las investigaciones a efecto de verificar el cumplimiento de los procedimientos establecidos en los manuales de la Institución, así como los de disciplina y ética de los integrantes;
 
@@ -99,7 +105,9 @@ XXXVIII. Realizar propuestas al Consejo de Carrera sobre el régimen de estímul
 
 XXXIX. Solicitar al Consejo de Carrera, la aplicación de medidas precautorias consistentes en la suspensión temporal del integrante que se encuentre involucrado en la comisión de ilícitos o faltas administrativas, en las que por la naturaleza de las mismas, y la afectación operativa que representaría para la Institución, requieran la acción que impida su continuación;
 
-XL. Supervisar que las actuaciones de la Unidad de Asuntos Internos queden asentadas en constancias por escrito; XLI. Mantener relaciones con instituciones similares nacionales e internacionales, con objeto de intercambiar información tendiente a optimizar sus atribuciones, y
+XL. Supervisar que las actuaciones de la Unidad de Asuntos Internos queden asentadas en constancias por escrito;
+
+XLI. Mantener relaciones con instituciones similares nacionales e internacionales, con objeto de intercambiar información tendiente a optimizar sus atribuciones, y
 
 XLII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende superior.
 

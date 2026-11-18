@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LASOC — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf
 source_sha256: d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228
 ---
@@ -37,7 +37,9 @@ g) La promoción de la participación consciente y organizada de la población c
 
 h) El apoyo a la educación y capacitación para el trabajo de personas con carencias socio- económicas, e
 
-i) La prestación de servicios funerarios. II. La promoción del desarrollo, el mejoramiento y la integración familiar;
+i) La prestación de servicios funerarios.
+
+II. La promoción del desarrollo, el mejoramiento y la integración familiar;
 
 III. La protección de los derechos de niñas, niños y adolescentes, la representación jurídica y la promoción de su sano desarrollo físico, mental y social;
 

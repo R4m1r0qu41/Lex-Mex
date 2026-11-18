@@ -7,8 +7,8 @@ provision_type: article
 number: "121"
 aliases: ["LDRS — Artículo 121"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
 source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 ---
@@ -25,4 +25,6 @@ I. Apoyar la emergencia y consolidación de proyectos locales de financiamiento,
 
 II. Apoyar técnica y financieramente a organizaciones económicas de productores, para la creación de sistemas financieros autónomos y descentralizados;
 
-III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
+III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y
+
+IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.

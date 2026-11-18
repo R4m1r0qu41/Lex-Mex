@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["REG-LGPSACDII — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf
 source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 ---
@@ -19,6 +19,8 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 Corresponde al Consejo diseñar los mecanismos necesarios que permitan llevar a cabo la evaluación:
 
-I. Del grado de cumplimiento de los principios y objetivos a que se refieren los artículos [19](../../lgpsacdii/markdown/articulo-19.md) y [20](../../lgpsacdii/markdown/articulo-20.md) de la Ley; II. De la cobertura y calidad de los servicios que se ofrecen en los Centros de Atención, de acuerdo a la Modalidad, Tipos y [Modelo de Atención](articulo-3.md) de que se trate, y
+I. Del grado de cumplimiento de los principios y objetivos a que se refieren los artículos [19](../../lgpsacdii/markdown/articulo-19.md) y [20](../../lgpsacdii/markdown/articulo-20.md) de la Ley;
+
+II. De la cobertura y calidad de los servicios que se ofrecen en los Centros de Atención, de acuerdo a la Modalidad, Tipos y [Modelo de Atención](articulo-3.md) de que se trate, y
 
 III. Del impacto de la prestación de los servicios en los sujetos de atención.

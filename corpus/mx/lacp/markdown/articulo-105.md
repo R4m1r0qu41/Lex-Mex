@@ -23,7 +23,9 @@ El Fondo de Protección tendrá como fin primordial, procurar cubrir los depósi
 
 El Fondo de Protección no garantizará las operaciones siguientes:
 
-I. Las obligaciones o depósitos a favor de los miembros del Consejo de Administración y comisario, así como de funcionarios de los dos primeros niveles jerárquicos de la Sociedad Financiera Popular de que se trate. II. Las operaciones que no se hayan sujetado a las disposiciones legales, reglamentarias, administrativas, así como a las sanas prácticas y usos entre las Sociedades Financieras Populares, en las que exista mala fe del titular y las relacionadas con actos u operaciones ilícitas que se ubiquen en los supuestos del Artículo 400 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+I. Las obligaciones o depósitos a favor de los miembros del Consejo de Administración y comisario, así como de funcionarios de los dos primeros niveles jerárquicos de la Sociedad Financiera Popular de que se trate.
+
+II. Las operaciones que no se hayan sujetado a las disposiciones legales, reglamentarias, administrativas, así como a las sanas prácticas y usos entre las Sociedades Financieras Populares, en las que exista mala fe del titular y las relacionadas con actos u operaciones ilícitas que se ubiquen en los supuestos del Artículo 400 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 Las Sociedades Financieras Populares tendrán la obligación de informar a sus [Clientes](articulo-3o.md), así como al público en general, sobre los términos y condiciones del Fondo de Protección.
 

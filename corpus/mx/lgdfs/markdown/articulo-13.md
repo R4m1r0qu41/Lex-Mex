@@ -29,7 +29,9 @@ IV. Participar, en coordinación con la Federación y las Entidades Federativas,
 
 V. Promover programas y proyectos de educación, capacitación, investigación y cultura forestal en congruencia con el programa nacional respectivo;
 
-VI. Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal; VII. Expedir previo a su instalación, las licencias o permisos, para el establecimiento de centros de almacenamiento y de transformación de materias primas forestales, así como de los centros no integrados a un centro de transformación primaria en el ámbito de su competencia, considerando los criterios de política forestal; Fracción reformada DOF 11-04-2022
+VI. Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
+
+VII. Expedir previo a su instalación, las licencias o permisos, para el establecimiento de centros de almacenamiento y de transformación de materias primas forestales, así como de los centros no integrados a un centro de transformación primaria en el ámbito de su competencia, considerando los criterios de política forestal; Fracción reformada DOF 11-04-2022
 
 VIII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley y los lineamientos de la política forestal del país;
 
@@ -57,7 +59,9 @@ XIX. Cumplir con las disposiciones federales y de las Entidades Federativas, en 
 
 XX. Participar y coadyuvar con la Federación y el Gobierno de la Entidad Federativa, según corresponda, en las estrategias y acciones para mantener y mejorar la provisión de los servicios ambientales;
 
-XXI. Participar y coadyuvar con la Federación y el Gobierno de la Entidad Federativa, en la elaboración y aplicación de políticas públicas forestales para la adaptación y mitigación al cambio climático; XXII. Desarrollar en el ámbito de sus atribuciones y de conformidad con las leyes locales en la materia, mecanismos para obtener recursos destinados al pago y compensación de los servicios ambientales derivados de los ecosistemas forestales;
+XXI. Participar y coadyuvar con la Federación y el Gobierno de la Entidad Federativa, en la elaboración y aplicación de políticas públicas forestales para la adaptación y mitigación al cambio climático;
+
+XXII. Desarrollar en el ámbito de sus atribuciones y de conformidad con las leyes locales en la materia, mecanismos para obtener recursos destinados al pago y compensación de los servicios ambientales derivados de los ecosistemas forestales;
 
 XXIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos;
 

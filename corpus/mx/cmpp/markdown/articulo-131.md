@@ -8,7 +8,7 @@ number: "131"
 aliases: ["CMPP — Artículo 131"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf
 source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 ---

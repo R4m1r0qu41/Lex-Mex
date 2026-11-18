@@ -19,7 +19,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 El [Comité de Protección al Ahorro Cooperativo](articulo-2.md) ejercerá las funciones siguientes:
 
-I. Calcular el monto de las cuotas que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV pagarán a la cuenta de seguro de depósitos del [Fondo de Protección](articulo-2.md). Asimismo, cuando así corresponda, determinar el importe de las aportaciones extraordinarias que al efecto determine el [Comité Técnico](articulo-2.md), previa autorización de la [Comisión](articulo-2.md). II. Instruir al fiduciario, sobre los valores gubernamentales de amplia liquidez o los títulos representativos del capital social de sociedades de inversión en instrumentos de deuda, en los que deberá invertir los recursos de la cuenta de seguro de depósitos del Fondo de Protección en términos del Artículo [56](articulo-56.md), segundo párrafo, de esta Ley.
+I. Calcular el monto de las cuotas que las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV pagarán a la cuenta de seguro de depósitos del [Fondo de Protección](articulo-2.md). Asimismo, cuando así corresponda, determinar el importe de las aportaciones extraordinarias que al efecto determine el [Comité Técnico](articulo-2.md), previa autorización de la [Comisión](articulo-2.md).
+
+II. Instruir al fiduciario, sobre los valores gubernamentales de amplia liquidez o los títulos representativos del capital social de sociedades de inversión en instrumentos de deuda, en los que deberá invertir los recursos de la cuenta de seguro de depósitos del Fondo de Protección en términos del Artículo [56](articulo-56.md), segundo párrafo, de esta Ley.
 
 III. Evaluar periódicamente los aspectos operativos de la cuenta de seguro de depósitos del Fondo de Protección.
 

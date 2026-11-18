@@ -72,19 +72,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:article:23:reference:518-520:16:direct",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:23:reference:519-521:16:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:23",
     "source_span": "16",
-    "start_char": 518,
-    "end_char": 520,
+    "start_char": 519,
+    "end_char": 521,
     "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
     "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:16",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 522,
-        "end_char": 533
+        "start_char": 523,
+        "end_char": 534
       }
     ],
     "basis": "express_cross_reference",
@@ -182,19 +182,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lotfja:article:36:reference:1904-1906:43:direct",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:36:reference:1905-1907:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:36",
     "source_span": "43",
-    "start_char": 1904,
-    "end_char": 1906,
+    "start_char": 1905,
+    "end_char": 1907,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfpca",
     "target_provision_id": "urn:lex-mx:federal:statute:lfpca:article:43",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 1880,
-        "end_char": 1890
+        "start_char": 1881,
+        "end_char": 1891
       }
     ],
     "basis": "express_cross_reference",

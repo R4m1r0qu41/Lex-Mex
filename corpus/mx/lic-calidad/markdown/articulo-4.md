@@ -35,7 +35,9 @@ VII. Comisión: a la Comisión Nacional de Infraestructura de la Calidad.
 
 VIII. Comités Mexicanos: a los comités creados por la [Comisión](articulo-4.md) a solicitud de la [Secretaría](articulo-4.md) o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
 
-IX. Entidades de Acreditación: a las personas morales debidamente autorizadas por la Secretaría para conocer, tramitar y resolver las solicitudes de Acreditación y, en su caso, emitir las Acreditaciones a favor de aquéllos que pretendan operar como Organismos de Evaluación de la Conformidad. X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
+IX. Entidades de Acreditación: a las personas morales debidamente autorizadas por la Secretaría para conocer, tramitar y resolver las solicitudes de Acreditación y, en su caso, emitir las Acreditaciones a favor de aquéllos que pretendan operar como Organismos de Evaluación de la Conformidad.
+
+X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
 
 XI. Evaluación de la Conformidad: al proceso técnico que permite demostrar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales. Comprende, entre otros, los procedimientos de muestreo, prueba, inspección, evaluación y certificación.
 
@@ -53,7 +55,9 @@ XVII. Organismos de Evaluación de la Conformidad: a la persona acreditada por u
 
 XVIII. Plataforma Tecnológica Integral de Infraestructura de la Calidad: a la solución digital donde se administrarán y ejecutarán de manera sistematizada los datos, procesos, trámites, servicios y actividades de normalización, estandarización, Evaluación de la Conformidad y metrología.
 
-XIX. Programa: al Programa Nacional de [Infraestructura de la Calidad](articulo-4.md) aprobado por la Comisión. XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
+XIX. Programa: al Programa Nacional de [Infraestructura de la Calidad](articulo-4.md) aprobado por la Comisión.
+
+XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
 
 XXI. Secretaría: a la Secretaría de Economía.
 

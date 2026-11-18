@@ -27,7 +27,9 @@ III. Si hubiera voto particular, su autor o uno de sus autores podrán exponer l
 
 IV. Un integrante de cada grupo, en orden creciente, de acuerdo a su representatividad en la [Cámara](articulo-2.md), y un diputado o diputada independiente propuesto entre ellos podrá disponer de hasta cinco minutos para exponer su postura. En caso de que el dictamen a discusión haya sido aprobado de forma unánime por la Comisión dictaminadora, la [Mesa Directiva](articulo-2.md), previo acuerdo con la [Junta](articulo-2.md) de Coordinación Política, podrá instruir que se elija un solo orador que exponga la postura integral del dictamen con Proyecto de [Ley](articulo-2.md) o de Decreto que se sujeta a discusión en lo general. Lo anterior, sin detrimento de que algún diputado o diputada quiera hacer uso de la palabra respecto al dictamen con Proyecto de Ley o de Decreto sujeto a discusión en lo general; Fracción reformada DOF 20-04-2011, 18-12-2015, 15-02-2018
 
-V. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor; VI. Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
+V. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
+
+VI. Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
 
 VII. Una vez que hayan intervenido hasta seis oradores en contra y hasta seis a favor, el Presidente preguntará si el asunto se encuentra suficientemente discutido, después de leer la lista de los oradores aún inscritos en ambos sentidos. Si la respuesta fuera negativa, continuará la discusión, sólo si hubiera oradores inscritos, pero el Presidente repetirá la pregunta cuando hubieran intervenido tres oradores más de cada lista, y así en lo sucesivo. Si el Pleno decide que se encuentra suficientemente discutido, el Presidente anunciará el inicio de la votación nominal; Fracción reformada DOF 20-04-2011
 

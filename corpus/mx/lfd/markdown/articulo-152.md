@@ -21,7 +21,9 @@ No se pagarán los derechos a que se refiere el artículo [150-C](articulo-150-C
 
 I. Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o plagas, así como los vuelos de grupos de ayuda médica con fines no lucrativos, los de asistencia social, los de fumigación y los que atienden situaciones de emergencia, tanto nacionales como internacionales.
 
-II. Destinadas a la salvaguarda de las instituciones, seguridad nacional y combate al narcotráfico. III. Aeronaves en misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
+II. Destinadas a la salvaguarda de las instituciones, seguridad nacional y combate al narcotráfico.
+
+III. Aeronaves en misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
 
 IV. (Se deroga). Fracción derogada DOF 01-12-2004
 

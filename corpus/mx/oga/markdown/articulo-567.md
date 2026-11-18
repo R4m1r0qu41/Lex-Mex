@@ -26,7 +26,9 @@ II. Diario de navegación.
 
 III. Diario de cronómetros.
 
-IV. Tablas de perturbaciones. V. Libro para anotar las anteriores.
+IV. Tablas de perturbaciones.
+
+V. Libro para anotar las anteriores.
 
 VI. Cuaderno de cálculos.
 

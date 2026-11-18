@@ -7,8 +7,8 @@ provision_type: article
 number: "134"
 aliases: ["LGMDFP — Artículo 134"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf
 source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 ---
@@ -23,7 +23,9 @@ I. Diagnóstico, línea de base e información metodológica sobre la elaboraci�
 
 II. El proceso y metodologías multidisciplinarias para la revisión sistemática y exhaustiva, por parte de las autoridades competentes, de averiguaciones previas, carpetas de investigación y otros documentos oficiales que contengan información sobre la desaparición y los posibles paraderos de personas;
 
-III. Las metodologías y procesos para recopilar y sistematizar información de las diferentes fuentes disponibles y para su incorporación y procesamiento en bases de datos o sistemas particulares para facilitar las labores de búsqueda y localización; IV. La identificación de tiempo y lugar de episodios críticos de desaparición de personas en el país, la definición de los contextos de las desapariciones y las metodologías a emplearse para la búsqueda y localización en cada uno de esos contextos;
+III. Las metodologías y procesos para recopilar y sistematizar información de las diferentes fuentes disponibles y para su incorporación y procesamiento en bases de datos o sistemas particulares para facilitar las labores de búsqueda y localización;
+
+IV. La identificación de tiempo y lugar de episodios críticos de desaparición de personas en el país, la definición de los contextos de las desapariciones y las metodologías a emplearse para la búsqueda y localización en cada uno de esos contextos;
 
 V. Las estrategias regionales o locales de búsqueda que se determinen de acuerdo a contextos y temporalidades específicas;
 

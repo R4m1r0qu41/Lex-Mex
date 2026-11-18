@@ -21,6 +21,8 @@ Las reglas de origen deberán someterse previamente a la opinión de la [Comisi�
 
 I. Cambio de clasificación arancelaria. En este caso se especificarán las subpartidas o partidas de la nomenclatura arancelaria del sistema armonizado a que se refiera la regla;
 
-II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
+II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y
+
+III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
 
 La [Secretaría](articulo-3o.md) podrá utilizar criterios adicionales cuando no se pueda cumplir con los anteriores, mismos que deberán especificarse en la regla de origen respectiva.

@@ -23,7 +23,9 @@ I. Enlace;
 
 II. Medición;
 
-III. Compresión; IV. Rebombeo;
+III. Compresión;
+
+IV. Rebombeo;
 
 V. Habitacional;
 

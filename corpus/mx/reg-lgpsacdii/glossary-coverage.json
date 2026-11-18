@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii:article:3",
-      "provision_text_sha256": "3495931d968762656c76b187e903e1d2694e34c7518cfc54296d2259313795e3",
+      "provision_text_sha256": "a83cf657ac4584ea3042d60f3b5bbc1efbfade1b9a48aa5f15c798fa233a4167",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -21,10 +22,10 @@
         "IX"
       ],
       "unread_fractions": [],
-      "term_count": 8
+      "term_count": 9
     }
   ],
   "imports": [],
-  "term_count": 8,
-  "usage_count": 67
+  "term_count": 9,
+  "usage_count": 80
 }

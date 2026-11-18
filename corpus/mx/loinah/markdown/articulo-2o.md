@@ -25,7 +25,9 @@ II. Efectuar investigaciones científicas que interesen a la Arqueología e Hist
 
 III. En los términos del artículo [7](../../lfmzaah/markdown/articulo-7o.md)o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, otorgar los permisos y dirigir las labores de restauración y conservación de los monumentos arqueológicos e históricos que efectúen las autoridades de los estados y municipios.
 
-IV. Proponer a la autoridad competente, la expedición de reglamentos que contengan normas generales y técnicas para la conservación y restauración de zonas y monumentos arqueológicos, históricos y paleontológicos, que sean aplicados en forma coordinada con los gobiernos estatales y municipales. V. Proponer al Secretario de Cultura la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones. Fracción reformada DOF 17-12-2015
+IV. Proponer a la autoridad competente, la expedición de reglamentos que contengan normas generales y técnicas para la conservación y restauración de zonas y monumentos arqueológicos, históricos y paleontológicos, que sean aplicados en forma coordinada con los gobiernos estatales y municipales.
+
+V. Proponer al Secretario de Cultura la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones. Fracción reformada DOF 17-12-2015
 
 VI. Promover, conjuntamente con los gobiernos de los estados y los municipios, la elaboración de manuales y cartillas de protección de patrimonio arqueológico, histórico y paleontológico, en su ámbito territorial, que adecúen los lineamientos nacionales de conservación y restauración a las condiciones concretas del estado y del municipio.
 

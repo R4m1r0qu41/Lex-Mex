@@ -75,7 +75,9 @@ XX. Expedir títulos de concesión, asignación o permisos a que se refiere la p
 
 XXI. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley;
 
-XXII. Analizar y resolver con el concurso de las partes que correspondan, los problemas y conflictos derivados de la explotación, uso, aprovechamiento o conservación de las aguas nacionales entre los usos y usuarios, en los casos establecidos en la fracción IX del presente Artículo; XXIII. Celebrar convenios con entidades o instituciones extranjeras y organismos afines para la asistencia y cooperación técnica, intercambio de información relacionada con el cumplimiento de sus objetivos y funciones, e intercambio y capacitación de recursos humanos especializados, bajo los principios de reciprocidad y beneficios comunes, en el marco de los convenios y acuerdos que suscriban la Secretaría de Relaciones Exteriores, y "la Secretaría", en su caso, con otros países con el propósito de fomentar la cooperación técnica, científica y administrativa en materia de recursos hídricos y su gestión integrada;
+XXII. Analizar y resolver con el concurso de las partes que correspondan, los problemas y conflictos derivados de la explotación, uso, aprovechamiento o conservación de las aguas nacionales entre los usos y usuarios, en los casos establecidos en la fracción IX del presente Artículo;
+
+XXIII. Celebrar convenios con entidades o instituciones extranjeras y organismos afines para la asistencia y cooperación técnica, intercambio de información relacionada con el cumplimiento de sus objetivos y funciones, e intercambio y capacitación de recursos humanos especializados, bajo los principios de reciprocidad y beneficios comunes, en el marco de los convenios y acuerdos que suscriban la Secretaría de Relaciones Exteriores, y "la Secretaría", en su caso, con otros países con el propósito de fomentar la cooperación técnica, científica y administrativa en materia de recursos hídricos y su gestión integrada;
 
 XXIV. Concertar con los interesados, en el ámbito nacional, las medidas que correspondan, con apego a esta Ley y sus reglamentos, así como las demás disposiciones aplicables, cuando la adopción de acciones necesarias pudieren afectar los derechos de concesionarios y asignatarios de aguas nacionales;
 
@@ -93,7 +95,9 @@ XXX. Promover y propiciar la investigación científica y el desarrollo tecnoló
 
 XXXI. Proponer a la “Secretaría" las [Normas Oficiales Mexicanas](articulo-3.md) en materia hídrica;
 
-XXXII. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permiso de descarga, así como de permisos de diversa índole a que se refiere la presente Ley; XXXIII. Emitir la normatividad a que deberán apegarse los Organismos de Cuenca en el ejercicio de sus funciones, en congruencia con las disposiciones contenidas en la presente Ley, incluyendo la administración de los recursos que se les destinen y verificar su cumplimiento;
+XXXII. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permiso de descarga, así como de permisos de diversa índole a que se refiere la presente Ley;
+
+XXXIII. Emitir la normatividad a que deberán apegarse los Organismos de Cuenca en el ejercicio de sus funciones, en congruencia con las disposiciones contenidas en la presente Ley, incluyendo la administración de los recursos que se les destinen y verificar su cumplimiento;
 
 XXXIV. Emitir disposiciones sobre la estructuración y operación del Registro Público Nacional del Agua a nivel nacional, apoyarlo financieramente y coordinarlo; Fracción reformada DOF 11-12-2025
 
@@ -117,7 +121,9 @@ XLIII. Realizar las declaratorias de clasificación de zonas de alto riesgo por 
 
 XLIV. Coordinar el servicio meteorológico nacional y ejercer las funciones en dicha materia;
 
-XLV. Mantener actualizado y hacer público periódicamente el inventario de las aguas nacionales, y de sus bienes públicos inherentes y de la infraestructura hidráulica federal; clasificar las aguas de acuerdo con los usos, y elaborar balances en cantidad y calidad del agua por regiones hidrológicas y cuencas hidrológicas; XLVI. Mejorar y difundir permanentemente en el ámbito nacional el conocimiento sobre la ocurrencia del agua en el ciclo hidrológico, la oferta y demanda de agua, los inventarios de agua, suelo, usos y usuarios y de información pertinente vinculada con el agua y su gestión, con el apoyo que considere necesario, por parte de otras instancias del orden federal, de gobiernos estatales y municipales, así como de usuarios del agua, de organizaciones de la sociedad y de particulares;
+XLV. Mantener actualizado y hacer público periódicamente el inventario de las aguas nacionales, y de sus bienes públicos inherentes y de la infraestructura hidráulica federal; clasificar las aguas de acuerdo con los usos, y elaborar balances en cantidad y calidad del agua por regiones hidrológicas y cuencas hidrológicas;
+
+XLVI. Mejorar y difundir permanentemente en el ámbito nacional el conocimiento sobre la ocurrencia del agua en el ciclo hidrológico, la oferta y demanda de agua, los inventarios de agua, suelo, usos y usuarios y de información pertinente vinculada con el agua y su gestión, con el apoyo que considere necesario, por parte de otras instancias del orden federal, de gobiernos estatales y municipales, así como de usuarios del agua, de organizaciones de la sociedad y de particulares;
 
 XLVII. Integrar el Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua, con la participación de los Organismos de Cuenca, en coordinación con los gobiernos de los estados y de la Ciudad de México y con los Consejos de Cuenca, y en concordancia con la Ley General de Transparencia y Acceso a la Información Pública.
 

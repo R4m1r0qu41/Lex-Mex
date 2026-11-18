@@ -21,4 +21,6 @@ Visión a largo plazo de la Estrategia Nacional. La Estrategia Nacional tendrá 
 
 I. El [Sistema Nacional](articulo-3.md) formulará y aprobará la Estrategia Nacional;
 
-II. Una vez aprobada la Estrategia Nacional, se publicará en el Diario Oficial de la Federación, y III. Las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, ajustarán sus políticas y acciones a lo establecido en la Estrategia.
+II. Una vez aprobada la Estrategia Nacional, se publicará en el Diario Oficial de la Federación, y
+
+III. Las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, ajustarán sus políticas y acciones a lo establecido en la Estrategia.

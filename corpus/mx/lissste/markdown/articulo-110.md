@@ -21,7 +21,9 @@ La dirección y administración del [PENSIONISSSTE](articulo-6.md) estará a car
 
 I. El Director General del [Instituto](articulo-6.md), quien la presidirá;
 
-II. El Vocal Ejecutivo, el cual será nombrado por la Junta Directiva a propuesta del Director General del Instituto; III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público; dos vocales nombrados por el Banco de México, y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría del Trabajo y Previsión Social y la Secretaría de la Función Pública, y
+II. El Vocal Ejecutivo, el cual será nombrado por la Junta Directiva a propuesta del Director General del Instituto;
+
+III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público; dos vocales nombrados por el Banco de México, y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría del Trabajo y Previsión Social y la Secretaría de la Función Pública, y
 
 IV. Nueve vocales nombrados por las organizaciones de Trabajadores.
 

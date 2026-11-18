@@ -25,7 +25,9 @@ I Bis. Establecer los requisitos para el alta y registro en el sistema electrón
 
 II. Requerir la información, documentación, datos e imágenes necesarios para el ejercicio de sus facultades y proporcionar a la [Unidad](articulo-3.md) la información que le requiera en términos de la presente Ley;
 
-III. Coordinarse con otras autoridades supervisoras y de seguridad pública, nacionales y extranjeras, así como con quienes realicen Actividades Vulnerables, para prevenir y detectar actos u operaciones relacionados con el objeto de esta Ley, en los términos de las disposiciones legales aplicables; IV. Presentar las denuncias que correspondan ante el Ministerio Público de la Federación cuando, con motivo del ejercicio de sus atribuciones, identifique hechos que puedan constituir delitos;
+III. Coordinarse con otras autoridades supervisoras y de seguridad pública, nacionales y extranjeras, así como con quienes realicen Actividades Vulnerables, para prevenir y detectar actos u operaciones relacionados con el objeto de esta Ley, en los términos de las disposiciones legales aplicables;
+
+IV. Presentar las denuncias que correspondan ante el Ministerio Público de la Federación cuando, con motivo del ejercicio de sus atribuciones, identifique hechos que puedan constituir delitos;
 
 V. Requerir la comparecencia de presuntos infractores y demás personas que puedan contribuir a la verificación del cumplimiento de las obligaciones derivadas de la presente Ley;
 

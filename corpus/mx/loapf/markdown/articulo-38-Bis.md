@@ -27,7 +27,9 @@ III. Articular, coordinar y ejercer la rectoría que corresponde al Estado mexic
 
 IV. Coordinar con las autoridades educativas y las diversas instituciones de la educación superior el diseño y aplicación de métodos y programas para la mejora continua de las funciones sustantivas de investigación humanística, científica, tecnológica, difusión e innovación;
 
-V. Coordinar con las autoridades educativas y los diversos actores de la educación superior en el diseño y aplicación de métodos y programas para la mejora continua de las funciones sustantivas de investigación humanística, científica, tecnológica, difusión e innovación; VI. Fomentar el progreso humanístico, científico y tecnológico, a través de la colaboración, cooperación y el intercambio nacional e internacional, así como promover e impulsar la formación de recursos humanos de alto nivel para el desarrollo de la investigación, divulgación e incorporación a proyectos estratégicos en materia de Humanidades, Ciencias, Tecnologías e Innovación;
+V. Coordinar con las autoridades educativas y los diversos actores de la educación superior en el diseño y aplicación de métodos y programas para la mejora continua de las funciones sustantivas de investigación humanística, científica, tecnológica, difusión e innovación;
+
+VI. Fomentar el progreso humanístico, científico y tecnológico, a través de la colaboración, cooperación y el intercambio nacional e internacional, así como promover e impulsar la formación de recursos humanos de alto nivel para el desarrollo de la investigación, divulgación e incorporación a proyectos estratégicos en materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
 VII. Diseñar, coordinar y operar programas de apoyo y reconocimiento al desempeño, la trayectoria y las contribuciones al desarrollo humanístico, científico y tecnológico del país de los integrantes del Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación;
 

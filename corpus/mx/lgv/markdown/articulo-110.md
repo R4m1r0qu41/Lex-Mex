@@ -7,8 +7,8 @@ provision_type: article
 number: "110"
 aliases: ["LGV — Artículo 110"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,11 +17,13 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 110
 
-El reconocimiento de la calidad de víctima, para efectos de esta Ley, se realiza por las determinaciones de cualquiera de las siguientes autoridades:
+El reconocimiento de la calidad de víctima, para efectos de esta [Ley](articulo-6.md), se realiza por las determinaciones de cualquiera de las siguientes autoridades:
 
 I. El juzgador penal, mediante sentencia ejecutoriada;
 
-II. El juzgador penal o de paz que tiene conocimiento de la causa; III. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
+II. El juzgador penal o de paz que tiene conocimiento de la causa;
+
+III. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
 IV. Los organismos públicos de protección de los derechos humanos; Fracción reformada DOF 03-01-2017
 

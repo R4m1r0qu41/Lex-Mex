@@ -23,7 +23,9 @@ II. La falta de colaboración, coordinación o complementación a lo que obligan
 
 III. Las expresiones que en forma pública y reiterada formule un poder respecto de otro, cuyo propósito o sus efectos tiendan a socavar su autoridad;
 
-IV. El enfrentamiento físico entre los titulares o integrantes de los poderes, aunque éste no interrumpa el orden constitucional; V. Los hechos de violencia del tipo que sea, de un poder hacia otro, que pudieran alterar o interrumpir el orden constitucional local o el ejercicio de sus respectivas funciones, y
+IV. El enfrentamiento físico entre los titulares o integrantes de los poderes, aunque éste no interrumpa el orden constitucional;
+
+V. Los hechos de violencia del tipo que sea, de un poder hacia otro, que pudieran alterar o interrumpir el orden constitucional local o el ejercicio de sus respectivas funciones, y
 
 VI. En general, todos los actos o hechos que un poder estatal realice o se abstenga de hacer, en perjuicio de otro u otros.
 

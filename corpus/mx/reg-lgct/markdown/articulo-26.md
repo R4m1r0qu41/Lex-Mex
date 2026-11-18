@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["REG-LGCT — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf
 source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 ---
@@ -27,7 +27,9 @@ Los gastos de almacenamiento y pérdidas generados durante el tiempo necesario p
 
 La solicitud de permiso sanitario previo de importación por retorno de mercancía deberá cumplir con los siguientes requisitos:
 
-I. Copia del pedimento de exportación; II. Factura de exportación que ampare al producto que se exportó, donde se especifique la cantidad, el nombre y domicilio completo del destinatario;
+I. Copia del pedimento de exportación;
+
+II. Factura de exportación que ampare al producto que se exportó, donde se especifique la cantidad, el nombre y domicilio completo del destinatario;
 
 III. En su caso, carta de rechazo emitida por la autoridad competente, del país al que se exportó, donde se indique el motivo de rechazo y en caso de no ser el rechazo por la autoridad competente, un escrito en hoja membretada de la empresa donde se indique el motivo del retorno;
 
