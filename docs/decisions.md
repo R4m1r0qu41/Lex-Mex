@@ -4283,7 +4283,7 @@ bytes are unchanged. The only in-repository consumer of the response schema is
 the Rust adapter (`lex_db::public`); the host handoff records the adapter as
 local only, with nothing deployed.
 
-### 2026-11-18 — LFPA art. 28: 1 October every six years is a non-business day through the Calendario Oficial decree (JRH)
+## 2026-11-18 — LFPA art. 28: 1 October every six years is a non-business day through the Calendario Oficial decree (JRH)
 
 JRH: LFPA art. 28 concerns the day of the transmission of the Executive Power every six years;
 the only time this has happened under the current rule is 1 October 2024; art. 28 does not list
