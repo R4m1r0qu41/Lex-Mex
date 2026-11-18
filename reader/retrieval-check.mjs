@@ -27,7 +27,9 @@ export async function checkRetrieval(options = {}) {
   let root;
   const safe = (value, parent, pinned = true) => {
     const url = new URL(value, parent);
-    if (url.origin !== base.origin || url.username || url.password || url.search || url.hash || !url.pathname.startsWith(pinned ? root : base.pathname)) throw Object.assign(new Error('URL escapes allowed origin or pinned release'), {kind: 'discovery'});
+    // `search` and `hash` are empty for both an absent component and a bare `?`
+    // or `#`; the serialized form keeps the delimiter (Codex re-review F2).
+    if (url.origin !== base.origin || url.username || url.password || url.search || url.hash || /[?#]/.test(url.href) || !url.pathname.startsWith(pinned ? root : base.pathname)) throw Object.assign(new Error('URL escapes allowed origin or pinned release'), {kind: 'discovery'});
     return url;
   };
   async function request(value, method, section, pinned = true) {
@@ -102,14 +104,16 @@ export async function checkRetrieval(options = {}) {
     // an official DOF address, an anchor) is skipped, not fatal. The strict
     // pin still applies to the one link selected (Codex audit 2026-11-17, R2).
     const resolves = (href, parent) => { try { return new URL(href, parent); } catch { return null; } };
-    // Eligible means the exact index URL: same origin and pathname, with no
-    // query, fragment or credentials. Extra navigation to the same index (a
-    // table-of-contents anchor, an alternate view) is not a second candidate
-    // (Codex audit re-review 2026-11-17, F2).
+    // Eligible means the exact index URL: same origin and pathname, no
+    // credentials, and a serialized form identical to the canonical URL, which
+    // also excludes a query or fragment, bare `?` and `#` included. Extra
+    // navigation to the same index (a table-of-contents anchor, an alternate
+    // view) is not a second candidate (Codex audit re-review 2026-11-17, F2).
+    const expected = new URL(`${root}mx/lritf/index.md`, base);
     const instruments = links(index).filter(l => {
       const target = resolves(l.href, indexUrl);
-      return target !== null && target.origin === base.origin && target.pathname === `${root}mx/lritf/index.md`
-        && target.search === '' && target.hash === '' && target.username === '' && target.password === '';
+      return target !== null && target.origin === base.origin && target.pathname === expected.pathname
+        && target.username === '' && target.password === '' && target.href === expected.href;
     });
     if (instruments.length !== 1) throw new Error('Expected exactly one LRITF index link');
     const instrumentUrl = safe(instruments[0].href, indexUrl);

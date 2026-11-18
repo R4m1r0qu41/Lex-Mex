@@ -4,7 +4,9 @@ import {createHash} from 'node:crypto';
 import {createServer} from 'node:http';
 import {checkRetrieval} from './retrieval-check.mjs';
 const id = 'a'.repeat(64), hash = 'b'.repeat(64), root = `/releases/${id}/`;
-async function fixture(t, change = () => {}) {
+// `prepare` mutates the routes before the manifest is hashed, so the release
+// stays integrity-valid; `change` mutates them afterwards.
+async function fixture(t, change = () => {}, prepare = () => {}) {
   const hits = [];
   const routes = {
     '/llms.txt': `[Selected corpus](${root}index.md)`,
@@ -14,6 +16,7 @@ async function fixture(t, change = () => {}) {
     [`${root}mx/lritf/provision-${'e'.repeat(64)}.md`]: 'another body',
     [`${root}manifest.json`]: '{}',
   };
+  prepare(routes);
   routes[`${root}mx/lritf/provision-${hash}.txt`] = 'private fixture legal body';
   routes[`${root}mx/lritf/provision-${'e'.repeat(64)}.txt`] = 'another body';
   const digest = b => createHash('sha256').update(b).digest('hex');
@@ -161,6 +164,34 @@ for (const [name, extra] of [['fragment', '[Extra navigation](mx/lritf/index.md#
     assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
     // The variant is not eligible, so it is never requested.
     assert.ok(!f.hits.some(h => /index\.md[?#]/.test(h.url)), JSON.stringify(f.hits));
+  });
+}
+// Codex audit re-review 2026-11-17, F2 (second pass): a bare `?` or `#` parses
+// with an empty `search`/`hash`, so component checks cannot tell it from an
+// absent component. The selection compares the exact serialized URL instead.
+// These releases are hashed with the extra link in place, so the full run
+// (including manifest verification) must succeed.
+for (const [name, extra] of [['bare query', '[Navigation](mx/lritf/index.md?)'], ['bare fragment', '[Navigation](mx/lritf/index.md#)']]) {
+  test(`a same-index ${name} link beside the canonical link does not abort discovery`, async t => {
+    const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
+    const report = await checkRetrieval(f);
+    assert.equal(report.ok, true, JSON.stringify(report.errors));
+    assert.equal(report.discoveryCompleted, true);
+    assert.deepEqual(report.provisions.map(p => p.article), ['35', '39']);
+    assert.ok(!f.hits.some(h => /index\.md[?#]/.test(h.url)), JSON.stringify(f.hits));
+  });
+}
+// The strict pin applies to the selected fetch: a bare delimiter on a followed
+// link is rejected before any request, as a nonempty one already was.
+for (const [name, suffix] of [['bare query', '?'], ['bare fragment', '#'], ['query', '?x=1'], ['fragment', '#top']]) {
+  test(`a followed article link with a ${name} is rejected before it is requested`, async t => {
+    const f = await fixture(t, () => {}, r => {
+      r[`${root}mx/lritf/index.md`] = r[`${root}mx/lritf/index.md`].replace(`provision-${hash}.md)`, `provision-${hash}.md${suffix})`);
+    });
+    const report = await checkRetrieval(f);
+    assert.equal(report.ok, false);
+    assert.match(report.errors[0].message, /escapes allowed origin/);
+    assert.ok(!f.hits.some(h => h.url.includes(`provision-${hash}`)), JSON.stringify(f.hits));
   });
 }
 test('a credentialed same-index link is not eligible and is never followed', async t => {
