@@ -9,6 +9,33 @@
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
+## 2026-11-17 Codex audit fixes (branch `fix/codex-audit-2026-11-17`, local, unpushed)
+
+Codex audited the unmerged commencement and reader branches. On JRH's instruction the fixes
+were rebuilt on current `main` (`47a3ffc59`, no upstream) without the old branch's corpus
+snapshots; the request is [codex-audit-fixes-2026-11-17.md](codex-audit-fixes-2026-11-17.md).
+- `0c8c69dc0`: whole-clause legacy commencement recognizers, word-bounded qualifiers, a
+  schema-validated holiday calendar, the 1 December holiday capped at 2018, a split-aware
+  save gate, one calendar shared by repair and derivation, and SQLite sidecars named by the
+  full filename.
+- F1 (the optional tail of the legacy date paths admitted conditions and second events):
+  `74a6242a9` removed the free abrogation and quoted-string wildcards; `8a74811a8` replaced
+  the capitalised-word grammar with closed tables of forms measured in the corpus (three
+  abrogation phrases, one year motto inside a dateline, twenty legislative signatories). A
+  form outside the tables goes to review. More than one `entrará en vigor` event in a single
+  transitory now abstains (`MultipleCommencementEventsInRecord`).
+- Checks at `8a74811a8`: 576 workspace tests pass; `lritf` and `ifpe-dcg-2021` validate with
+  0 issues; no `corpus/` change from `47a3ffc59`. A paired read-only census over the 468
+  instruments (empty calendar) is unchanged at 332 resolved, 1 bounded, 126 skipped, 9 none;
+  one skipped record, `reg-lfppi`, changes only its reason label.
+- The shipped calendar has no notice coverage, so no business-day clause resolves. The LFPA
+  art. 28 question (whether 1 October is excluded from 2024) is JRH's and is still open.
+- Open: Codex re-review of F1 (handoff `provider-handoffs/pending/codex/2026-11-17-lex-mex-codex-f1-tail-rereview.md`
+  in Agent Vault). The reader findings (F2, F3, R4) are on `feat/public-reader-r7` and have their own
+  handoff. Push and merge need JRH. The Codex verdicts
+  `codex-audit-fixes-codex-review-2026-11-17.md` and `codex-audit-fixes-codex-rereview-2026-11-17.md`
+  are in `docs/`, uncommitted.
+
 ## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
 
 Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contract and its

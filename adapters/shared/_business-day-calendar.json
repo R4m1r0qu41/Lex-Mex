@@ -1,0 +1,35 @@
+{
+  "schema_version": "1",
+  "description": "Evidenced inputs for counting business-day commencement clauses. JRH's direction (2026-10-27) is that article 28 of the Ley Federal de Procedimiento Administrativo governs the count. A date is produced only when a text version applies on every counted day AND the suspension and vacation notices for the whole window are evidenced here; a missing notice is never read as no notice. Empty suspension_periods and notice_coverage therefore resolve no clause. Edit only with a recorded decision.",
+  "rule_id": "lfpa-art-28",
+  "counting_rule": {
+    "direction": "JRH 2026-10-27: article 28 LFPA governs business-day counting for these commencement clauses",
+    "reading": "the Nth business day after the day of publication; the day of publication is not counted"
+  },
+  "statute_versions": [
+    {
+      "id": "lfpa-art28-original",
+      "source": "corpus/mx/lfpa/provisions.json, urn:lex-mx:federal:statute:lfpa:article:28, text SHA-256 a55977ae0654321a75390283249f6130f630f816b621c638ea74f6490a8dd751; lfpa source SHA-256 a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861 (retrieved 2026-07-12, Last-Modified 2025-12-02)",
+      "evidence": "The committed article carries no amendment marks and no DOF reform note, and its recorded effective_from is 1995-06-01, so the text is read as unchanged since entry into force. This is the committed record's own evidence; the historical DOF editions were not consulted.",
+      "applies_from": "1995-06-01",
+      "applies_to": null,
+      "weekend_days": ["saturday", "sunday"],
+      "fixed_holidays": [
+        { "month": 1, "day": 1 },
+        { "month": 2, "day": 5 },
+        { "month": 3, "day": 21 },
+        { "month": 5, "day": 1 },
+        { "month": 5, "day": 5 },
+        { "month": 9, "day": 1 },
+        { "month": 9, "day": 16 },
+        { "month": 11, "day": 20 },
+        { "month": 12, "day": 25 }
+      ],
+      "sexennial_holidays": [
+        { "month": 12, "day": 1, "first_year": 1994, "last_year": 2018, "reason": "transmission of the Federal Executive, every six years. Evidenced through 2018 only: from 2024 the Executive changes on 1 October (constitutional reform, DOF 10-02-2014), and whether article 28 then excludes 1 October, 1 December or neither is not decided here, so any count reaching 2024, 2030, ... is insufficient (Codex review 2026-10-28, deferred limit 3)" }
+      ]
+    }
+  ],
+  "suspension_periods": [],
+  "notice_coverage": []
+}

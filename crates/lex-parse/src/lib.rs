@@ -23,7 +23,8 @@ pub use standard::{
 };
 pub use temporal_derive::{
     Commencement, DerivationOutcome, SkipReason, derive_article_temporal_determinations,
-    repair_article_dates, repair_partial_repeals,
+    derive_article_temporal_determinations_with_calendar, repair_article_dates,
+    repair_partial_repeals,
 };
 pub use terms::{
     GlossaryDetection, GlossaryHold, GlossaryStyle, detect_glossary, detect_glossary_terms,
@@ -36,6 +37,7 @@ mod extraction;
 mod reform;
 mod standard_validate;
 pub use extraction::{Extraction, extract_doc, extract_pdf};
+pub use lex_analysis::business_days;
 pub use lex_analysis::temporal_derive;
 pub use lex_analysis::{
     CorpusExpectations, CorpusView, apply_legal_operator_reviews,

@@ -37,6 +37,7 @@
 //! model: it says when the current wording could have taken effect, not what
 //! the law said on a chosen past date.
 
+use crate::business_days::{BusinessDayCalendar, CountOutcome, count_business_days_after};
 use chrono::{Days, NaiveDate};
 use lex_core::{
     Basis, Instrument, Provision, ProvisionType, ReviewStatus, TemporalDetermination,
@@ -69,6 +70,11 @@ pub enum SkipReason {
     MultipleCommencementClauses {
         count: usize,
     },
+    /// One transitory's own text states entering into force more than once,
+    /// so it is not a single plain commencement clause.
+    MultipleCommencementEventsInRecord {
+        count: usize,
+    },
     /// The matched transitory carries an exception, condition, or
     /// staged-rollout qualifier (`con excepción`, `salvo`, `cuando`,
     /// `gradualmente`, `declaratoria`, `a más tardar`, …) — some or all of
@@ -76,10 +82,15 @@ pub enum SkipReason {
     ExceptionOrConditionalLanguage {
         marker: String,
     },
-    /// The commencement period is counted in business days
-    /// (`días hábiles`), which requires a holiday calendar this module does
-    /// not have.
+    /// The commencement period is counted in business days (`días hábiles`)
+    /// in a clause shape this module does not recognize as complete.
     BusinessDaysPeriod,
+    /// A complete, plain business-day clause whose count under article 28 of
+    /// the Ley Federal de Procedimiento Administrativo cannot be finished from
+    /// evidenced calendar inputs. The exact date stays unresolved.
+    BusinessDaysCalendarInsufficient {
+        detail: String,
+    },
     /// The commencement period uses a unit this module does not compute
     /// (`meses`, `años`) — day arithmetic only is supported today.
     UnsupportedRelativePeriodUnit {
@@ -106,8 +117,12 @@ impl SkipReason {
             Self::NoOrdinaryTransitories => "no-ordinary-transitories",
             Self::NoCommencementClause => "no-commencement-clause",
             Self::MultipleCommencementClauses { .. } => "multiple-commencement-clauses",
+            Self::MultipleCommencementEventsInRecord { .. } => {
+                "multiple-commencement-events-in-record"
+            }
             Self::ExceptionOrConditionalLanguage { .. } => "exception-or-conditional-language",
             Self::BusinessDaysPeriod => "business-days-period",
+            Self::BusinessDaysCalendarInsufficient { .. } => "business-days-calendar-insufficient",
             Self::UnsupportedRelativePeriodUnit { .. } => "unsupported-relative-period-unit",
             Self::UnrecognizedNumberWord { .. } => "unrecognized-number-word",
             Self::UnrecognizedCommencementPattern => "unrecognized-commencement-pattern",
@@ -127,10 +142,16 @@ impl SkipReason {
             Self::MultipleCommencementClauses { count } => {
                 format!("{count} ordinary transitories mention entering into force")
             }
+            Self::MultipleCommencementEventsInRecord { count } => {
+                format!("the transitory states entering into force {count} times")
+            }
             Self::ExceptionOrConditionalLanguage { marker } => {
                 format!("commencement clause carries a qualifier: {marker:?}")
             }
             Self::BusinessDaysPeriod => "commencement period is in business days".to_owned(),
+            Self::BusinessDaysCalendarInsufficient { detail } => format!(
+                "plain business-day clause; the article 28 count is not completed by evidenced calendar inputs ({detail})"
+            ),
             Self::UnsupportedRelativePeriodUnit { unit } => {
                 format!("commencement period unit {unit:?} is not computed")
             }
@@ -150,6 +171,19 @@ impl SkipReason {
 pub enum Commencement {
     Resolved {
         effective_from: NaiveDate,
+        pattern: &'static str,
+        matched_text: String,
+        /// Where the date came from when it rests on evidenced inputs (a
+        /// calendar count); `None` for dates written in the clause itself.
+        provenance: Option<String>,
+    },
+    /// The exact date is not computed (a business-day period needs a holiday
+    /// calendar; a month period has two readings) but the clause is a plain
+    /// period after publication and its **latest possible** commencement is
+    /// known. If that date has passed, articles are `Effective` with no
+    /// asserted start date.
+    Bounded {
+        latest: NaiveDate,
         pattern: &'static str,
         matched_text: String,
     },
@@ -176,6 +210,24 @@ pub fn derive_article_temporal_determinations(
     instrument: &Instrument,
     provisions: &[Provision],
     today: NaiveDate,
+) -> DerivationOutcome {
+    derive_article_temporal_determinations_with_calendar(
+        instrument,
+        provisions,
+        today,
+        &BusinessDayCalendar::default(),
+    )
+}
+
+/// As [`derive_article_temporal_determinations`], with the evidenced inputs a
+/// business-day count under article 28 of the Ley Federal de Procedimiento
+/// Administrativo depends on. An empty calendar resolves no business-day clause.
+#[must_use]
+pub fn derive_article_temporal_determinations_with_calendar(
+    instrument: &Instrument,
+    provisions: &[Provision],
+    today: NaiveDate,
+    calendar: &BusinessDayCalendar,
 ) -> DerivationOutcome {
     let Some(publication_date) = instrument.publication_date else {
         return DerivationOutcome {
@@ -246,13 +298,9 @@ pub fn derive_article_temporal_determinations(
             commencement: None,
         };
     }
-    let commencement = resolve_commencement(&ordinary_transitories, publication_date);
-    if let Commencement::Resolved { effective_from, .. } = &commencement {
-        let status = if *effective_from > today {
-            TemporalStatus::FutureEffective
-        } else {
-            TemporalStatus::Effective
-        };
+    let commencement = resolve_commencement(&ordinary_transitories, publication_date, calendar);
+    let rule_b = commencement_verdict(&commencement, today);
+    if let Some((status, start, reason)) = rule_b {
         for provision in provisions {
             if provision.provision_type != ProvisionType::Article
                 || provision.review_status != ReviewStatus::NotAnalyzed
@@ -267,16 +315,14 @@ pub fn derive_article_temporal_determinations(
             // wording, so it took effect with the instrument. An amended one
             // took effect with the reform that touched it, which this rule
             // does not derive, so its date stays unset.
-            let article_date = (!has_amendment_evidence(provision)).then_some(*effective_from);
+            let article_date = start.filter(|_| !has_amendment_evidence(provision));
             determinations.push(determination(
                 provision,
                 instrument,
                 status.clone(),
                 article_date,
                 0.9,
-                vec![format!(
-                    "instrument's own commencement clause resolves to {effective_from}"
-                )],
+                vec![reason.clone()],
             ));
         }
     }
@@ -284,6 +330,49 @@ pub fn derive_article_temporal_determinations(
     DerivationOutcome {
         determinations,
         commencement: Some(commencement),
+    }
+}
+
+/// What an instrument's commencement means for its untouched articles: the
+/// status, the start date to record (if any) and the evidence line, or `None`
+/// when the commencement cannot be decided yet.
+fn commencement_verdict(
+    commencement: &Commencement,
+    today: NaiveDate,
+) -> Option<(TemporalStatus, Option<NaiveDate>, String)> {
+    match commencement {
+        Commencement::Resolved {
+            effective_from,
+            provenance,
+            ..
+        } => Some((
+            if *effective_from > today {
+                TemporalStatus::FutureEffective
+            } else {
+                TemporalStatus::Effective
+            },
+            Some(*effective_from),
+            match provenance {
+                Some(provenance) => format!(
+                    "instrument's own commencement clause resolves to {effective_from} ({provenance})"
+                ),
+                None => {
+                    format!("instrument's own commencement clause resolves to {effective_from}")
+                }
+            },
+        )),
+        // Certain only once the latest possible date has passed; the start
+        // date itself is not asserted.
+        Commencement::Bounded {
+            latest, pattern, ..
+        } if *latest <= today => Some((
+            TemporalStatus::Effective,
+            None,
+            format!(
+                "instrument's own commencement clause ({pattern}) takes effect no later than {latest}; the exact date is not computed"
+            ),
+        )),
+        _ => None,
     }
 }
 
@@ -299,8 +388,16 @@ fn has_amendment_evidence(provision: &Provision) -> bool {
 /// or exactly the original commencement are touched, and only on
 /// machine-accepted deterministic articles, so a model or human decision is
 /// never altered. Returns how many dates changed.
+///
+/// The commencement is resolved with the same `calendar` the derivation uses,
+/// so a date written from evidenced business-day inputs is repaired on the
+/// same evidence instead of being invisible to the repair.
 #[must_use]
-pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision]) -> usize {
+pub fn repair_article_dates(
+    instrument: &Instrument,
+    provisions: &mut [Provision],
+    calendar: &BusinessDayCalendar,
+) -> usize {
     let Some(publication_date) = instrument.publication_date else {
         return 0;
     };
@@ -309,7 +406,7 @@ pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision
         .filter(|provision| provision.provision_type == ProvisionType::Transitory)
         .collect::<Vec<_>>();
     let Commencement::Resolved { effective_from, .. } =
-        resolve_commencement(&transitories, publication_date)
+        resolve_commencement(&transitories, publication_date, calendar)
     else {
         return 0;
     };
@@ -393,21 +490,62 @@ fn determination(
     }
 }
 
-const EXCEPTION_MARKERS: [&str; 11] = [
-    "con excepción",
-    "a excepción",
-    "excepción hecha",
-    "salvo",
-    "excepto",
-    "sin perjuicio",
-    "a más tardar",
-    "gradual",
-    "declaratoria",
-    "en tanto",
-    "hasta que",
+/// Qualifiers that keep a commencement clause out of the plain rule. Each is
+/// matched as whole words on the lowercased, accent-folded, whitespace-collapsed
+/// text, so `Interno entrará` is not a negation and `no  entrará` (two spaces
+/// or a line break) still is. The second item is the name reported.
+const EXCEPTION_MARKERS: [(&str, &str); 14] = [
+    (r"\bcon\s+excepcion\b", "con excepción"),
+    (r"\ba\s+excepcion\b", "a excepción"),
+    (r"\bexcepcion\s+hecha\b", "excepción hecha"),
+    (r"\bsalvo\b", "salvo"),
+    (r"\bexcepto\b", "excepto"),
+    (r"\bsin\s+perjuicio\b", "sin perjuicio"),
+    (r"\ba\s+mas\s+tardar\b", "a más tardar"),
+    (r"\bgradual", "gradual"),
+    (r"\bdeclaratoria\b", "declaratoria"),
+    (r"\ben\s+tanto\b", "en tanto"),
+    (r"\bhasta\s+que\b", "hasta que"),
+    // a negated commencement verb is never a plain commencement
+    (r"\bno\s+entrara\s+en\s+vigor\b", "no entrará en vigor"),
+    (r"\bno\s+entraran\s+en\s+vigor\b", "no entrarán en vigor"),
+    (r"\bno\s+entran?\s+en\s+vigor\b", "no entra en vigor"),
 ];
 
-fn resolve_commencement(transitories: &[&Provision], publication_date: NaiveDate) -> Commencement {
+/// Lowercase, accent-folded and whitespace-collapsed text for the qualifier
+/// and unit guards. `ñ` is kept; only the vowel accents and `ü` are folded.
+fn folded(text: &str) -> String {
+    let lower = text.to_lowercase();
+    let mapped = lower
+        .chars()
+        .map(|c| match c {
+            'á' | 'à' | 'ä' => 'a',
+            'é' | 'è' | 'ë' => 'e',
+            'í' | 'ì' | 'ï' => 'i',
+            'ó' | 'ò' | 'ö' => 'o',
+            'ú' | 'ù' | 'ü' => 'u',
+            other => other,
+        })
+        .collect::<String>();
+    mapped.split_whitespace().collect::<Vec<_>>().join(" ")
+}
+
+/// Whitespace-collapsed clause text with ordinal periods removed (`1o.` and
+/// `1º.` read as `1o`), so the anchored patterns see one sentence shape and a
+/// date such as `1o. de mayo` does not look like a sentence end.
+fn clause_text(text: &str) -> String {
+    let whole = text.split_whitespace().collect::<Vec<_>>().join(" ");
+    Regex::new(r"(\d{1,2})\s*[oº°]\.")
+        .expect("static regex")
+        .replace_all(&whole, "${1}o")
+        .into_owned()
+}
+
+fn resolve_commencement(
+    transitories: &[&Provision],
+    publication_date: NaiveDate,
+    calendar: &BusinessDayCalendar,
+) -> Commencement {
     let trigger = Regex::new(r"(?i)entrar[áa]n?\s+en\s+vigor").expect("static regex");
     let matches: Vec<&&Provision> = transitories
         .iter()
@@ -418,7 +556,7 @@ fn resolve_commencement(transitories: &[&Provision], publication_date: NaiveDate
             reason: SkipReason::NoCommencementClause,
             matched_text: None,
         },
-        1 => resolve_commencement_text(&matches[0].text, publication_date),
+        1 => resolve_commencement_text(&matches[0].text, publication_date, calendar),
         count => Commencement::Skipped {
             reason: SkipReason::MultipleCommencementClauses { count },
             matched_text: None,
@@ -426,11 +564,15 @@ fn resolve_commencement(transitories: &[&Provision], publication_date: NaiveDate
     }
 }
 
-fn resolve_commencement_text(text: &str, publication_date: NaiveDate) -> Commencement {
-    let lower = text.to_lowercase();
-    if let Some(marker) = EXCEPTION_MARKERS
+fn resolve_commencement_text(
+    text: &str,
+    publication_date: NaiveDate,
+    calendar: &BusinessDayCalendar,
+) -> Commencement {
+    let guard = folded(text);
+    if let Some((_, marker)) = EXCEPTION_MARKERS
         .iter()
-        .find(|marker| lower.contains(*marker))
+        .find(|(pattern, _)| Regex::new(pattern).expect("static regex").is_match(&guard))
     {
         return Commencement::Skipped {
             reason: SkipReason::ExceptionOrConditionalLanguage {
@@ -439,47 +581,181 @@ fn resolve_commencement_text(text: &str, publication_date: NaiveDate) -> Commenc
             matched_text: Some(text.to_owned()),
         };
     }
-    if lower.contains("hábil") {
+    // A second commencement event in one record is never a plain clause,
+    // whatever surrounds it: count events in the text, not only records.
+    let events = Regex::new(r"\bentra(?:ra|ran|n)?\s+en\s+vigor\b")
+        .expect("static regex")
+        .find_iter(&guard)
+        .count();
+    if events > 1 {
+        return Commencement::Skipped {
+            reason: SkipReason::MultipleCommencementEventsInRecord { count: events },
+            matched_text: Some(text.to_owned()),
+        };
+    }
+    // Complete, supported clause forms only: the whole provision text must be
+    // the clause, so a qualifier, a negation or a second event anywhere in it
+    // sends the clause to review instead of through a fragment match.
+    if let Some(commencement) = try_complete_clause(text, publication_date, calendar) {
+        return commencement;
+    }
+    // Every other date path is anchored the same way: subject, verb, date
+    // phrase and an optional Diario Oficial tail must be the whole text.
+    let clause = clause_text(text);
+    if let Some(commencement) = try_day_after_publication(&clause, publication_date)
+        .or_else(|| try_same_day_as_publication(&clause, publication_date))
+        .or_else(|| try_literal_date(&clause))
+        .or_else(|| try_relative_days(&clause, publication_date))
+    {
+        return commencement;
+    }
+    // Nothing anchored matched: report the closest category for review.
+    if Regex::new(r"\bhabil")
+        .expect("static regex")
+        .is_match(&guard)
+    {
         return Commencement::Skipped {
             reason: SkipReason::BusinessDaysPeriod,
             matched_text: Some(text.to_owned()),
         };
     }
-
-    try_day_after_publication(text, publication_date)
-        .or_else(|| try_same_day_as_publication(text, publication_date))
-        .or_else(|| try_literal_date(text))
-        .or_else(|| try_relative_days(text, publication_date))
-        .unwrap_or(Commencement::Skipped {
-            reason: SkipReason::UnrecognizedCommencementPattern,
+    if let Some(unit) = Regex::new(
+        r"entraran?\s+en\s+vigor\s+(?:a\s+los\s+)?\S+(?:\s+y\s+\S+)?\s+(mes(?:es)?|anos?)\b",
+    )
+    .expect("static regex")
+    .captures(&guard)
+    {
+        return Commencement::Skipped {
+            reason: SkipReason::UnsupportedRelativePeriodUnit {
+                unit: unit[1].to_owned(),
+            },
             matched_text: Some(text.to_owned()),
-        })
+        };
+    }
+    Commencement::Skipped {
+        reason: SkipReason::UnrecognizedCommencementPattern,
+        matched_text: Some(text.to_owned()),
+    }
 }
 
-fn try_day_after_publication(text: &str, publication_date: NaiveDate) -> Option<Commencement> {
-    let re = Regex::new(
-        r"(?i)entrar[áa]n?\s+en\s+vigor\s+(?:a\s+partir\s+del?\s+)?(?:(?:el\s+|al\s+)?d[ií]a\s+siguiente\s+(?:al?\s+)?(?:de\s+)?(?:su|la)\s+publicaci[óo]n|(?:el\s+|al\s+)?siguiente\s+d[ií]a\s+(?:de\s+)?(?:su|la)\s+publicaci[óo]n)",
+/// The subject of a plain commencement sentence on the legacy date paths:
+/// `la presente Ley`, `el presente Reglamento`, `esta Ley`, `las presentes
+/// disposiciones`, `el presente "Reglamento"`, optionally followed by a short
+/// instrument name (`la presente Ley Federal de Sanidad Animal`). A sentence
+/// that opens with anything else (a declaration, a condition, a second verb)
+/// is not a plain commencement and goes to review.
+const LEGACY_SUBJECT: &str = r#"(?:(?:la|el|las|los)\s+present[ea]s?|est[ae]s?)\s+"?(?:ley|reglamento|decreto|c[oó]digo|ordenamiento|disposiciones|acuerdo|estatuto)"?(?:\s+(?:federal|general|org[aá]nica|nacional)(?:\s+(?:de|del|para|sobre)\s+[a-záéíóúñ]+(?:\s+[a-záéíóúñ]+){0,3})?)?"#;
+
+/// A calendar date as the source writes it inside a tail: day (`1o` after the
+/// ordinal period is removed, or `primero`), a spelled month, four-digit year.
+const LEGACY_DATE: &str = r"(?:\d{1,2}o?|primero)\s+de\s+(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+\d{4}";
+
+/// The abrogation phrases the corpus carries after a commencement clause
+/// (census 2026-11-17), each exactly as it reads once ordinal periods are
+/// removed (`1o.` is `1o`). A phrase is recognised only if it is one of these
+/// whole strings: a law's title is not something a capitalisation test can
+/// verify, so a title that is not listed here is not recognised and the clause
+/// goes to review. Add an entry only with a measured source occurrence.
+const LEGACY_ABROGATIONS: [&str; 3] = [
+    "Ley de Extradición de 1o de mayo de 1897",
+    "Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985",
+    "Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997",
+];
+
+/// The year mottos the corpus carries inside a dateline (census 2026-11-17).
+/// Only these exact quoted strings are recognised, and only inside a dateline.
+const LEGACY_MOTTOS: [&str; 1] = ["Año de la República Federal y del Senado"];
+
+/// The legislative signatories that appear on commencement clauses in the
+/// corpus (census 2026-11-17, five instruments). A signature is recognised
+/// only when its name is one of these exact names followed by a closed role
+/// marker (`D. P.`, `S. S.`, `S. V. P.`, with or without spaces), so a
+/// sentence, however capitalised, is never taken for a signature. Add an
+/// entry only with a measured source occurrence.
+const LEGACY_SIGNATORIES: [&str; 20] = [
+    "Adán Velarde",
+    "Agustín Ruiz Soto",
+    "Alejandro Antuna López",
+    "Alfonso Corona del Rosal",
+    "Camilo Gastélum Jr.",
+    "César Martino",
+    "Eugenio Prado",
+    "Feliciano Calzada Padrón",
+    "Francisco Hernández y Hernández",
+    "Francisco Luna Kan",
+    "Félix de la Lanza",
+    "Gustavo A. Uruchurtu",
+    "José Escudero Andrade",
+    "José María Dávila",
+    "Melquiades Ramírez",
+    "Miguel Moreno Padilla",
+    "Nabor Ojeda",
+    "Píndaro Urióstegui Miranda",
+    "Rafael Suárez Ocaña",
+    "Vicente L. Benéitez",
+];
+
+/// A case-sensitive alternation of the exact, escaped strings.
+fn exact_alternation(items: &[&str]) -> String {
+    let escaped: Vec<String> = items.iter().map(|item| regex::escape(item)).collect();
+    format!("(?-i:{})", escaped.join("|"))
+}
+
+/// What may follow the date phrase, then the end of the text. Every piece is
+/// a closed, measured shape; nothing here is a wildcard over free text, and
+/// nothing is recognised because it merely looks like a name or a title:
+///
+/// * the Diario Oficial (quoted or not, with or without `de la Federación`);
+/// * `y abroga la <one of LEGACY_ABROGATIONS>`;
+/// * source apparatus that extraction leaves behind: a bare trailing period,
+///   then an optional `México, D.F., a <date>.-` dateline, which alone may
+///   carry one of `LEGACY_MOTTOS` in quotes, then signatures by
+///   `LEGACY_SIGNATORIES` ending in `Rúbricas`, and a bare trailing page
+///   number. Anything else, including any other quoted string or any
+///   capitalised sentence, matches nothing and the clause goes to review.
+fn legacy_tail() -> String {
+    let date = LEGACY_DATE;
+    let abrogations = exact_alternation(&LEGACY_ABROGATIONS);
+    let mottos = exact_alternation(&LEGACY_MOTTOS);
+    let names = exact_alternation(&LEGACY_SIGNATORIES);
+    format!(
+        r#"(?:\s+en\s+el\s+"?diario\s+oficial"?(?:\s+de\s+la\s+federaci[oó]n)?)?(?:\s+y\s+abroga\s+la\s+{abrogations})?\s*\.?(?:\s+(?:m[eé]xico,\s+d\.\s?f\.,\s+a\s+{date}\.?-\s*(?:"{mottos}"\.?-\s*)?)?(?:{names},\s+(?-i:[DS]\.\s?(?:V\.\s?)?[PS]\.)\s?-\s*)+r[úu]bricas?[".]*)?(?:\s+\d{{1,4}})?\s*$"#
     )
-    .expect("static regex");
-    let found = re.find(text)?;
+}
+
+/// `^<subject> entrará(n) en vigor <phrase><tail>$`, case-insensitive.
+fn anchored(phrase: &str) -> Regex {
+    Regex::new(&format!(
+        r"(?i)^{LEGACY_SUBJECT}\s+entrar[áa]n?\s+en\s+vigor\s+{phrase}{tail}",
+        tail = legacy_tail()
+    ))
+    .expect("static regex")
+}
+
+fn try_day_after_publication(clause: &str, publication_date: NaiveDate) -> Option<Commencement> {
+    let re = anchored(
+        r"(?:a\s+partir\s+)?(?:del?|al|el)\s+(?:d[ií]a\s+siguiente|siguiente\s+d[ií]a)\s+(?:al\s+de|al|de|a)\s+(?:su|la)\s+publicaci[óo]n",
+    );
+    let found = re.find(clause)?;
     let effective_from = publication_date.checked_add_days(Days::new(1))?;
     Some(Commencement::Resolved {
         effective_from,
         pattern: "day_after_publication",
         matched_text: found.as_str().to_owned(),
+        provenance: None,
     })
 }
 
-fn try_same_day_as_publication(text: &str, publication_date: NaiveDate) -> Option<Commencement> {
-    let re = Regex::new(
-        r"(?i)entrar[áa]n?\s+en\s+vigor\s+(?:desde\s+|en\s+)?(?:el\s+mismo\s+d[ií]a|el\s+d[ií]a|la\s+fecha)\s+de\s+(?:su|la)\s+(?:publicaci[óo]n|promulgaci[óo]n)",
-    )
-    .expect("static regex");
-    let found = re.find(text)?;
+fn try_same_day_as_publication(clause: &str, publication_date: NaiveDate) -> Option<Commencement> {
+    let re = anchored(
+        r"(?:desde\s+|en\s+)?(?:el\s+mismo\s+d[ií]a|el\s+d[ií]a|la\s+fecha)\s+de\s+(?:su|la)\s+(?:publicaci[óo]n|promulgaci[óo]n)(?:\s+del\s+presente\s+decreto)?",
+    );
+    let found = re.find(clause)?;
     Some(Commencement::Resolved {
         effective_from: publication_date,
         pattern: "same_day_as_publication",
         matched_text: found.as_str().to_owned(),
+        provenance: None,
     })
 }
 
@@ -505,14 +781,13 @@ fn month_number(word: &str) -> Option<u32> {
         .map(|index| u32::try_from(index + 1).unwrap_or(1))
 }
 
-fn try_literal_date(text: &str) -> Option<Commencement> {
-    let re = Regex::new(
-        r"(?i)entrar[áa]n?\s+en\s+vigor\s+(?:en\s+toda\s+la\s+Rep[uú]blica[,]?\s+)?(?:el\s+(?:d[ií]a\s+)?|a\s+partir\s+del?\s+)(\d{1,2}|primero|1[oº]\.?)\s+de\s+([a-záéíóúñ]+)\s+de(?:l)?\s+(\d{4})",
-    )
-    .expect("static regex");
-    let captures = re.captures(text)?;
+fn try_literal_date(clause: &str) -> Option<Commencement> {
+    let re = anchored(
+        r"(?:en\s+toda\s+la\s+rep[uú]blica,?\s+)?(?:el\s+(?:d[ií]a\s+)?|a\s+partir\s+del?\s+)(\d{1,2}|primero|1[oº°])\s+de\s+([a-záéíóúñ]+)\s+del?\s+(\d{4})",
+    );
+    let captures = re.captures(clause)?;
     let day_word = captures[1].to_lowercase();
-    let day = if matches!(day_word.as_str(), "primero" | "1o" | "1º" | "1o." | "1°") {
+    let day = if matches!(day_word.as_str(), "primero" | "1o" | "1º" | "1°") {
         1
     } else {
         day_word.parse().ok()?
@@ -524,12 +799,14 @@ fn try_literal_date(text: &str) -> Option<Commencement> {
         effective_from: date,
         pattern: "literal_date",
         matched_text: captures[0].to_owned(),
+        provenance: None,
     })
 }
 
-/// Common day counts written as Spanish words in commencement clauses.
-/// Deliberately bounded: an unrecognized word is reported, not guessed at.
-const NUMBER_WORDS: [(&str, u64); 20] = [
+/// Day counts written as Spanish words in commencement clauses, for both the
+/// business-day and the calendar-day forms. Deliberately bounded: an
+/// unrecognized word is reported, not guessed at.
+const NUMBER_WORDS: [(&str, u64); 23] = [
     ("un", 1),
     ("uno", 1),
     ("dos", 2),
@@ -550,32 +827,104 @@ const NUMBER_WORDS: [(&str, u64); 20] = [
     ("cincuenta", 50),
     ("sesenta", 60),
     ("noventa", 90),
+    ("cien", 100),
+    ("ciento veinte", 120),
+    ("ciento ochenta", 180),
 ];
 
-fn try_relative_days(text: &str, publication_date: NaiveDate) -> Option<Commencement> {
-    let re = Regex::new(
-        r"(?i)entrar[áa]n?\s+en\s+vigor\s+(?:a\s+los\s+)?(\d{1,3}|[a-záéíóúñ]+(?:\s+y\s+[a-záéíóúñ]+)?)\s+(d[ií]as?|mes(?:es)?|a[ñn]os?)\b(?:\s+[a-záéíóúñ]+){0,3}?\s+(?:al?\s+de\s+|de\s+|a\s+)(?:su|la)\s+publicaci[óo]n",
-    )
+fn number_word(word: &str) -> Option<u64> {
+    NUMBER_WORDS
+        .iter()
+        .find(|(candidate, _)| *candidate == word)
+        .map(|(_, value)| *value)
+}
+
+/// The subject of a plain commencement sentence.
+const CLAUSE_SUBJECT: &str =
+    r"(?:la\s+presente\s+ley|el\s+presente\s+(?:decreto|reglamento|c[oó]digo))";
+const CLAUSE_TAIL: &str = r"(?:\s+en\s+el\s+diario\s+oficial\s+de\s+la\s+federaci[oó]n)?\s*\.?$";
+
+/// Recognize the two complete clause forms this rule supports. The pattern is
+/// anchored to the whole (whitespace-collapsed) provision text:
+///
+/// * `<subject> entrará en vigor a los N días hábiles siguientes (de su | al de
+///   su | a su) publicación [en el Diario Oficial de la Federación].`
+/// * `<subject> entrará en vigor (un mes después de su | al mes siguiente
+///   (de su | al de su | a su)) publicación [en el Diario Oficial de la
+///   Federación].`
+///
+/// Anything else, including a negation, a condition, a further sentence or a
+/// second commencement event, is not a complete supported form and stays with
+/// the generic path, which skips it for review.
+fn try_complete_clause(
+    text: &str,
+    publication_date: NaiveDate,
+    calendar: &BusinessDayCalendar,
+) -> Option<Commencement> {
+    let whole = text.split_whitespace().collect::<Vec<_>>().join(" ");
+    let business = Regex::new(&format!(
+        r"(?i)^{CLAUSE_SUBJECT}\s+entrar[áa]\s+en\s+vigor\s+a\s+los\s+(\d{{1,3}}|[a-záéíóúñ]+(?:\s+(?:y\s+)?[a-záéíóúñ]+)?)\s+d[ií]as\s+h[áa]biles\s+siguientes\s+(?:de\s+su|al\s+de\s+su|a\s+su)\s+publicaci[oó]n{CLAUSE_TAIL}"
+    ))
     .expect("static regex");
-    let captures = re.captures(text)?;
-    let unit = captures[2].to_lowercase();
-    if !unit.starts_with("dia") && !unit.starts_with("día") {
-        return Some(Commencement::Skipped {
-            reason: SkipReason::UnsupportedRelativePeriodUnit {
-                unit: captures[2].to_owned(),
+    if let Some(captures) = business.captures(&whole) {
+        let word = captures[1].to_lowercase();
+        let count = word.parse::<u64>().ok().or_else(|| number_word(&word))?;
+        return Some(
+            match count_business_days_after(publication_date, count, calendar) {
+                CountOutcome::Date { date, provenance } => Commencement::Resolved {
+                    effective_from: date,
+                    pattern: "business_days_lfpa_art28",
+                    matched_text: whole.clone(),
+                    provenance: Some(provenance),
+                },
+                CountOutcome::Insufficient {
+                    earliest_possible,
+                    reason,
+                } => Commencement::Skipped {
+                    reason: SkipReason::BusinessDaysCalendarInsufficient {
+                        detail: match earliest_possible {
+                            Some(date) => format!(
+                                "{reason}; counting only weekends and statutory holidays the date could not be earlier than {date}, which is a lower bound and not a result"
+                            ),
+                            None => reason,
+                        },
+                    },
+                    matched_text: Some(whole.clone()),
+                },
             },
-            matched_text: Some(captures[0].to_owned()),
+        );
+    }
+    let month = Regex::new(&format!(
+        r"(?i)^{CLAUSE_SUBJECT}\s+entrar[áa]\s+en\s+vigor\s+(?:un\s+mes\s+despu[eé]s\s+de\s+su|al\s+mes\s+siguiente\s+(?:de\s+su|al\s+de\s+su|a\s+su))\s+publicaci[oó]n{CLAUSE_TAIL}"
+    ))
+    .expect("static regex");
+    if month.is_match(&whole) {
+        // The two readings of a month period differ by days; both fall within
+        // two calendar months of publication, so only that bound is asserted.
+        let latest = publication_date.checked_add_months(chrono::Months::new(2))?;
+        return Some(Commencement::Bounded {
+            latest,
+            pattern: "month_bounded",
+            matched_text: whole,
         });
     }
+    None
+}
+
+/// `a los N días [naturales] [siguientes | después] (al de | al | de | a) [la
+/// fecha de] su publicación`, as the whole clause. Only calendar days: a
+/// `hábiles` count never matches here, accented or not.
+fn try_relative_days(clause: &str, publication_date: NaiveDate) -> Option<Commencement> {
+    let re = anchored(
+        r"(?:a\s+los\s+)?(\d{1,3}|[a-záéíóúñ]+(?:\s+(?:y\s+)?[a-záéíóúñ]+)?)\s+d[ií]as(?:\s+naturales)?(?:\s+(?:siguientes|despu[eé]s))?\s+(?:al\s+de|al|de|a)\s+(?:la\s+fecha\s+de\s+)?(?:su|la)\s+publicaci[óo]n",
+    );
+    let captures = re.captures(clause)?;
     let count_word = captures[1].to_lowercase();
-    let count = if let Ok(digits) = count_word.parse::<u64>() {
-        digits
-    } else if let Some((_, value)) = NUMBER_WORDS
-        .iter()
-        .find(|(word, _)| *word == count_word.as_str())
-    {
-        *value
-    } else {
+    let Some(count) = count_word
+        .parse::<u64>()
+        .ok()
+        .or_else(|| number_word(&count_word))
+    else {
         return Some(Commencement::Skipped {
             reason: SkipReason::UnrecognizedNumberWord {
                 word: captures[1].to_owned(),
@@ -588,6 +937,7 @@ fn try_relative_days(text: &str, publication_date: NaiveDate) -> Option<Commence
         effective_from,
         pattern: "relative_days",
         matched_text: captures[0].to_owned(),
+        provenance: None,
     })
 }
 
@@ -835,14 +1185,20 @@ mod tests {
         other_date.effective_from = Some(date(2001, 1, 1));
         provisions.push(other_date);
 
-        assert_eq!(super::repair_article_dates(&inst, &mut provisions), 2);
+        assert_eq!(
+            super::repair_article_dates(&inst, &mut provisions, &BusinessDayCalendar::default()),
+            2
+        );
         assert_eq!(provisions[0].effective_from, Some(date(1995, 12, 23)));
         assert_eq!(provisions[1].effective_from, None);
         // Human review and an unrelated date are untouched.
         assert_eq!(provisions[3].effective_from, human.effective_from);
         assert_eq!(provisions[3].review_status, ReviewStatus::LawyerVerified);
         assert_eq!(provisions[4].effective_from, Some(date(2001, 1, 1)));
-        assert_eq!(super::repair_article_dates(&inst, &mut provisions), 0);
+        assert_eq!(
+            super::repair_article_dates(&inst, &mut provisions, &BusinessDayCalendar::default()),
+            0
+        );
     }
 
     #[test]
@@ -948,25 +1304,238 @@ mod tests {
         assert_eq!(resolved_date(&outcome), Some(date(1981, 3, 30)));
     }
 
+    fn bounded_outcome(outcome: &DerivationOutcome) -> Option<(NaiveDate, &'static str)> {
+        match &outcome.commencement {
+            Some(Commencement::Bounded {
+                latest, pattern, ..
+            }) => Some((*latest, *pattern)),
+            _ => None,
+        }
+    }
+
+    fn calendar_for(year: i32, suspended: &[(NaiveDate, NaiveDate)]) -> BusinessDayCalendar {
+        use crate::business_days::{DateRange, FixedHoliday, SexennialHoliday, StatuteVersion};
+        use chrono::Weekday;
+        let range = |&(from, to): &(NaiveDate, NaiveDate)| DateRange {
+            from,
+            to,
+            source: "test notice review".to_owned(),
+        };
+        BusinessDayCalendar {
+            rule_id: "lfpa-art-28".to_owned(),
+            versions: vec![StatuteVersion {
+                id: "lfpa-art28-original".to_owned(),
+                source: "test record".to_owned(),
+                applies_from: date(1995, 6, 1),
+                applies_to: None,
+                weekend_days: vec![Weekday::Sat, Weekday::Sun],
+                fixed_holidays: [
+                    (1, 1),
+                    (2, 5),
+                    (3, 21),
+                    (5, 1),
+                    (5, 5),
+                    (9, 1),
+                    (9, 16),
+                    (11, 20),
+                    (12, 25),
+                ]
+                .iter()
+                .map(|&(month, day)| FixedHoliday { month, day })
+                .collect(),
+                sexennial_holidays: vec![SexennialHoliday {
+                    month: 12,
+                    day: 1,
+                    first_year: 1994,
+                    last_year: 2018,
+                }],
+            }],
+            suspensions: suspended.iter().map(range).collect(),
+            notice_coverage: vec![range(&(date(year, 1, 1), date(year, 12, 31)))],
+        }
+    }
+
+    const FIVE_BUSINESS_DAYS: &str = "La presente Ley entrará en vigor a los 5 días hábiles siguientes a su publicación en el Diario Oficial de la Federación.";
+
     #[test]
-    fn business_days_period_is_skipped() {
-        let inst = instrument(date(2005, 1, 1));
+    fn a_plain_business_day_clause_without_evidenced_calendar_inputs_stays_unresolved() {
+        // lbogm, lfea and reg-lgeepa-maaa: no suspension notices are evidenced for their windows
+        for text in [
+            "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación.",
+            "La presente Ley entrará en vigor a los ciento veinte días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.",
+            "El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.",
+        ] {
+            let inst = instrument(date(2005, 1, 1));
+            let provisions = vec![article("1", "Texto."), transitory("primero", text)];
+            let outcome =
+                derive_article_temporal_determinations(&inst, &provisions, date(2026, 10, 27));
+            assert!(outcome.determinations.is_empty(), "{text}");
+            match &outcome.commencement {
+                Some(Commencement::Skipped {
+                    reason: SkipReason::BusinessDaysCalendarInsufficient { detail },
+                    ..
+                }) => {
+                    assert!(
+                        detail.contains("no statutory text version is supplied"),
+                        "{detail}"
+                    );
+                }
+                other => panic!("{text}: {other:?}"),
+            }
+        }
+        // a text version without notice coverage reports only a lower bound, not a result
+        let mut thin = calendar_for(2005, &[]);
+        thin.notice_coverage.clear();
+        let inst = instrument(date(2005, 1, 3));
+        let provisions = vec![
+            article("1", "Texto."),
+            transitory("primero", FIVE_BUSINESS_DAYS),
+        ];
+        let outcome = derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 10, 27),
+            &thin,
+        );
+        assert!(outcome.determinations.is_empty());
+        match &outcome.commencement {
+            Some(Commencement::Skipped {
+                reason: SkipReason::BusinessDaysCalendarInsufficient { detail },
+                ..
+            }) => {
+                assert!(detail.contains("lower bound and not a result"), "{detail}");
+                assert!(detail.contains("not evidenced"), "{detail}");
+            }
+            other => panic!("{other:?}"),
+        }
+    }
+
+    #[test]
+    fn a_plain_business_day_clause_with_evidenced_inputs_resolves_to_the_counted_date() {
+        let inst = instrument(date(2023, 6, 1));
+        let provisions = vec![
+            article("1", "Texto."),
+            transitory("primero", FIVE_BUSINESS_DAYS),
+        ];
+        let outcome = derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 10, 27),
+            &calendar_for(2023, &[]),
+        );
+        assert_eq!(resolved_date(&outcome), Some(date(2023, 6, 8)));
+        assert_eq!(outcome.determinations.len(), 1);
+        let d = &outcome.determinations[0];
+        assert_eq!(
+            (d.temporal_status.clone(), d.effective_from),
+            (TemporalStatus::Effective, Some(date(2023, 6, 8)))
+        );
+        assert!(
+            d.supporting_text
+                .iter()
+                .any(|line| line.contains("lfpa-art-28") && line.contains("lfpa-art28-original")),
+            "{:?}",
+            d.supporting_text
+        );
+        // a supplied suspension moves the date; the same clause with the notice absent from coverage does not resolve
+        let suspended = calendar_for(2023, &[(date(2023, 6, 5), date(2023, 6, 6))]);
+        let moved = derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 10, 27),
+            &suspended,
+        );
+        assert_eq!(resolved_date(&moved), Some(date(2023, 6, 12)));
+        let mut thin = calendar_for(2023, &[]);
+        thin.notice_coverage.clear();
+        let unresolved = derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 10, 27),
+            &thin,
+        );
+        assert!(unresolved.determinations.is_empty());
+    }
+
+    #[test]
+    fn a_month_bound_that_may_not_have_passed_decides_nothing() {
+        let inst = instrument(date(2026, 9, 1));
         let provisions = vec![
             article("1", "Texto."),
             transitory(
-                "unico",
-                "El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.",
+                "primero",
+                "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.",
             ),
         ];
-        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        // 2026-09-01 + 2 months is 2026-11-01: still in the future on 2026-10-01
+        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 10, 1));
+        assert!(bounded_outcome(&outcome).is_some());
         assert!(outcome.determinations.is_empty());
-        assert!(matches!(
-            outcome.commencement,
-            Some(Commencement::Skipped {
-                reason: SkipReason::BusinessDaysPeriod,
-                ..
-            })
-        ));
+    }
+
+    #[test]
+    fn conditional_negated_and_multi_event_clauses_are_retained_for_review() {
+        // Codex review B-002 probes and the two known outliers: none may become a deterministic result
+        let business = "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación";
+        let month = "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación";
+        let cases = [
+            ("conditional business day", format!("{business}, siempre que el Consejo haya emitido la autorización correspondiente.")),
+            ("conditional month", format!("{month}, siempre y cuando se haya expedido el reglamento correspondiente.")),
+            ("negated month", "La presente Ley no entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.".to_owned()),
+            ("negated business day", "La presente Ley no entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación.".to_owned()),
+            ("negated calendar-day count", "La presente Ley no entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.".to_owned()),
+            ("ligie: runs from an authority's determination", "El presente Decreto entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria determine que los sistemas se encuentran listos para operar.".to_owned()),
+            ("reg-lfppi: a second commencement event", "El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Diario Oficial de la Federación. El procedimiento en línea del Capítulo VII entrará en vigor al día siguiente al que se publique el acuerdo.".to_owned()),
+            ("lfdc: a further sentence after the clause", format!("{month}. Las autoridades fiscales realizarán una campaña masiva para difundir las nuevas disposiciones.")),
+            ("plural subject is not a supported form", "Las presentes disposiciones entrarán en vigor a los treinta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.".to_owned()),
+        ];
+        let full = calendar_for(2005, &[]);
+        for (name, text) in cases {
+            let inst = instrument(date(2005, 1, 1));
+            let provisions = vec![article("1", "Texto."), transitory("primero", &text)];
+            let outcome = derive_article_temporal_determinations_with_calendar(
+                &inst,
+                &provisions,
+                date(2026, 10, 27),
+                &full,
+            );
+            assert!(
+                outcome.determinations.is_empty(),
+                "{name}: {:?}",
+                outcome.determinations
+            );
+            assert!(
+                matches!(outcome.commencement, Some(Commencement::Skipped { .. })),
+                "{name}: {:?}",
+                outcome.commencement
+            );
+        }
+    }
+
+    #[test]
+    fn an_amended_article_keeps_no_start_date_under_a_bounded_commencement() {
+        let inst = instrument(date(2005, 1, 1));
+        let mut amended = article("2", "Texto reformado DOF 10-05-2012");
+        amended.amendment_marks = vec![1];
+        let provisions = vec![
+            article("1", "Texto original."),
+            amended,
+            transitory(
+                "primero",
+                "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.",
+            ),
+        ];
+        let outcome =
+            derive_article_temporal_determinations(&inst, &provisions, date(2026, 10, 27));
+        assert_eq!(bounded_outcome(&outcome).unwrap().1, "month_bounded");
+        assert_eq!(outcome.determinations.len(), 2);
+        assert!(
+            outcome
+                .determinations
+                .iter()
+                .all(|d| d.temporal_status == TemporalStatus::Effective
+                    && d.effective_from.is_none())
+        );
     }
 
     #[test]
@@ -1122,20 +1691,30 @@ mod tests {
     }
 
     #[test]
-    fn singular_month_unit_is_still_reported_as_unsupported_unit() {
-        // lfdc's real Primero: "un mes después", singular "mes" not plural
-        // "meses" -- must still land in the specific unsupported-unit
-        // category, not the generic unrecognized-pattern catch-all.
+    fn one_month_after_publication_is_bounded_and_other_month_periods_stay_unsupported() {
+        // lfdc: "un mes después"; reg-lfpc-art122: "al mes siguiente" (two readings, one bound).
         let inst = instrument(date(2005, 1, 1));
+        for text in [
+            "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.",
+            "El presente Reglamento entrará en vigor al mes siguiente de su publicación en el Diario Oficial de la Federación.",
+        ] {
+            let provisions = vec![article("1", "Texto."), transitory("primero", text)];
+            let outcome =
+                derive_article_temporal_determinations(&inst, &provisions, date(2026, 10, 27));
+            let (latest, pattern) = bounded_outcome(&outcome).expect(text);
+            assert_eq!((latest, pattern), (date(2005, 3, 1), "month_bounded"));
+            assert_eq!(outcome.determinations.len(), 1);
+        }
+        // "dos meses" and any other unit are still reported, not guessed
         let provisions = vec![
             article("1", "Texto."),
             transitory(
                 "primero",
-                "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación.",
+                "La presente Ley entrará en vigor a los dos meses siguientes a su publicación en el Diario Oficial de la Federación.",
             ),
         ];
-        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert!(outcome.determinations.is_empty());
+        let outcome =
+            derive_article_temporal_determinations(&inst, &provisions, date(2026, 10, 27));
         assert!(matches!(
             outcome.commencement,
             Some(Commencement::Skipped {
@@ -1211,7 +1790,446 @@ mod tests {
                 ..
             })
         ));
-        assert_eq!(repair_article_dates(&inst, &mut provisions), 0);
+        assert_eq!(
+            repair_article_dates(&inst, &mut provisions, &BusinessDayCalendar::default()),
+            0
+        );
         assert_eq!(format!("{provisions:?}"), before);
+    }
+
+    fn commencement_of(text: &str, calendar: &BusinessDayCalendar) -> DerivationOutcome {
+        let inst = instrument(date(2020, 1, 1));
+        let provisions = vec![article("1", "Texto."), transitory("primero", text)];
+        derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 11, 17),
+            calendar,
+        )
+    }
+
+    fn skip_reason(outcome: &DerivationOutcome) -> SkipReason {
+        match &outcome.commencement {
+            Some(Commencement::Skipped { reason, .. }) => reason.clone(),
+            other => panic!("expected a skip, got {other:?}"),
+        }
+    }
+
+    #[test]
+    fn an_unaccented_business_day_clause_never_becomes_a_calendar_day_date() {
+        // Codex audit 2026-11-17, C1: this plural, unaccented clause used to
+        // resolve through the relative-days fragment to 2020-01-31.
+        let full = calendar_for(2020, &[]);
+        for text in [
+            "Las presentes disposiciones ENTRARAN EN VIGOR A LOS TREINTA DIAS HABILES siguientes a su publicacion.",
+            "Las presentes disposiciones entrarán en vigor a los treinta días habiles siguientes a su publicación en el Diario Oficial de la Federación.",
+            "El presente Acuerdo entrará en vigor a los diez dias habiles siguientes de su publicación.",
+        ] {
+            for calendar in [&BusinessDayCalendar::default(), &full] {
+                let outcome = commencement_of(text, calendar);
+                assert!(outcome.determinations.is_empty(), "{text}");
+                assert_eq!(
+                    skip_reason(&outcome),
+                    SkipReason::BusinessDaysPeriod,
+                    "{text}"
+                );
+            }
+        }
+    }
+
+    #[test]
+    fn legacy_date_paths_accept_only_the_whole_clause() {
+        // Codex review 2026-10-28, deferred limit 1: a condition or a further
+        // sentence after a recognizable date fragment goes to review.
+        let none = BusinessDayCalendar::default();
+        for text in [
+            "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, siempre que se haya expedido el reglamento.",
+            "La presente Ley entrará en vigor a los treinta días siguientes de su publicación, una vez que la Secretaría lo determine.",
+            "El presente Reglamento entrará en vigor el 1o. de enero de 2021. Las solicitudes en trámite se resolverán conforme a las disposiciones anteriores.",
+            // a declaration before the verb (the shape of lnsijpa's Vigencia clause)
+            "Vigencia Para los efectos del artículo segundo transitorio se declara que la presente legislación incorpora el sistema y entrará en vigor el 18 de junio de 2016.",
+            // a second verb before the commencement (reg-senado)
+            "El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en vigor el primero de septiembre de 2010.",
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert!(outcome.determinations.is_empty(), "{text}");
+            assert_eq!(
+                skip_reason(&outcome),
+                SkipReason::UnrecognizedCommencementPattern,
+                "{text}"
+            );
+        }
+    }
+
+    #[test]
+    fn negation_is_matched_as_words_across_any_whitespace() {
+        // Codex audit 2026-11-17, C3, and deferred limit 1: doubled spaces and
+        // line breaks still negate; a word ending in "no" does not.
+        let none = BusinessDayCalendar::default();
+        for text in [
+            "La presente Ley no  entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+            "La presente Ley no\nentrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+            "La presente Ley NO ENTRARÁ EN VIGOR al día siguiente de su publicación.",
+            "Las presentes disposiciones no entraran en vigor el 1o. de enero de 2021.",
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert!(outcome.determinations.is_empty(), "{text}");
+            assert!(
+                matches!(
+                    skip_reason(&outcome),
+                    SkipReason::ExceptionOrConditionalLanguage { ref marker } if marker.starts_with("no entra")
+                ),
+                "{text}: {:?}",
+                outcome.commencement
+            );
+        }
+        let interno = commencement_of(
+            "El Reglamento Interno entrará en vigor al día siguiente de su publicación.",
+            &none,
+        );
+        assert!(
+            !matches!(
+                skip_reason(&interno),
+                SkipReason::ExceptionOrConditionalLanguage { .. }
+            ),
+            "{:?}",
+            interno.commencement
+        );
+    }
+
+    #[test]
+    fn qualifiers_are_matched_without_accents_or_case() {
+        let none = BusinessDayCalendar::default();
+        for (text, marker) in [
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación, CON EXCEPCION del Capítulo III.",
+                "con excepción",
+            ),
+            (
+                "La presente Ley entrará en vigor a mas tardar el 1o. de enero de 2021.",
+                "a más tardar",
+            ),
+            (
+                "El presente Decreto entrará en vigor gradualmente conforme al calendario.",
+                "gradual",
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert_eq!(
+                skip_reason(&outcome),
+                SkipReason::ExceptionOrConditionalLanguage {
+                    marker: marker.to_owned()
+                },
+                "{text}"
+            );
+        }
+        // "salvo" is a word, not a prefix of another word: `Salvoconductos` is
+        // not a qualifier. It is also not a measured abrogation title, so the
+        // clause is unrecognised (review), not skipped for a qualifier.
+        let outcome = commencement_of(
+            "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley de Salvoconductos.",
+            &none,
+        );
+        assert_eq!(
+            skip_reason(&outcome),
+            SkipReason::UnrecognizedCommencementPattern
+        );
+    }
+
+    #[test]
+    fn the_corpus_clause_shapes_still_resolve() {
+        // One case per accepted legacy shape found in the 2026-11-17 corpus
+        // census, including the source-extraction leftovers the tail allows.
+        let none = BusinessDayCalendar::default();
+        for (text, expected) in [
+            (
+                "Esta Ley entrará en vigor el día siguiente de su publicación en el \"Diario Oficial\".",
+                date(2020, 1, 2),
+            ),
+            (
+                "El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial.",
+                date(2020, 1, 2),
+            ),
+            (
+                "La presente Ley Federal de Sanidad Animal entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+                date(2020, 1, 2),
+            ),
+            (
+                "El presente \"Reglamento\" entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+                date(2020, 1, 2),
+            ),
+            (
+                "Esta Ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.",
+                date(2020, 1, 2),
+            ),
+            (
+                "La presente Ley entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Melquiades Ramírez, D. S.- Nabor Ojeda, S. S.- Rúbricas.",
+                date(2020, 1, 4),
+            ),
+            (
+                "La presente ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Francisco Luna Kan, S.P.- Agustín Ruiz Soto, S.S.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            (
+                "La presente Ley entrará en vigor desde la fecha de su promulgación en el \"Diario Oficial\" de la Federación. José Escudero Andrade, D. P.- José María Dávila, S. V. P.- Vicente L. Benéitez, S. S.-Rúbricas\".",
+                date(2020, 1, 1),
+            ),
+            (
+                "El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación. 60",
+                date(2020, 1, 31),
+            ),
+            (
+                "Esta ley entrará en vigor a los quince días de la fecha de su publicación en el \"Diario Oficial\" de la Federación.",
+                date(2020, 1, 16),
+            ),
+            (
+                "El presente Decreto entrará en vigor 90 días naturales después de su publicación en el Diario Oficial de la Federación.",
+                date(2020, 3, 31),
+            ),
+            (
+                "Esta Ley entrará en vigor en toda la República, el día primero de enero de 1982.",
+                date(1982, 1, 1),
+            ),
+            (
+                "Esta ley entrará en vigor el día de la publicación del presente decreto en el Diario Oficial de la Federación.",
+                date(2020, 1, 1),
+            ),
+            // the shared number table now reaches the larger counts
+            (
+                "La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.",
+                date(2020, 6, 29),
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert_eq!(resolved_date(&outcome), Some(expected), "{text}");
+            assert_eq!(outcome.determinations.len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn the_tail_never_admits_a_condition_or_a_second_commencement_event() {
+        // Codex re-review 2026-11-17, F1: these three witnesses each used to
+        // resolve to 2020-01-02 through the free abrogation and quoted-string
+        // wildcards of the tail. They carry a condition, a second commencement
+        // event, and a quoted condition posing as a motto; none may resolve.
+        let none = BusinessDayCalendar::default();
+        let mut offenders = Vec::new();
+        for (text, reason) in [
+            // F1 witness 1: a condition inside the abrogation tail
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la norma anterior siempre que se haya expedido el reglamento.",
+                "unrec",
+            ),
+            // F1 witness 2: a second commencement event inside the abrogation tail
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga el decreto anterior, pero esta Ley entrará en vigor a los treinta días de su publicación.",
+                "multi2",
+            ),
+            // F1 witness 3: a quoted condition in the motto position
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación.\n\"Siempre que se haya expedido el reglamento\".- Juan Pérez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            // an abrogation that names a law and then adds a condition or a verb
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos siempre que se expida el reglamento.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos y entrará en vigor el 1o. de enero de 2030.",
+                "multi2",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos, salvo el Título Segundo.",
+                "salvo",
+            ),
+            // a quoted string after a dateline that is not a year motto
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Siempre que se haya expedido el reglamento\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+            // a motto-shaped string carrying lowercase condition words
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Federal siempre que se expida el reglamento\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+            // a genuine motto outside a dateline is not a recognized apparatus shape
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+            // Codex re-review 2026-11-17 F1 residual counterexamples: capitalised
+            // statements are not titles, mottos or signatures.
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos Siempre Que Se Expida la Norma.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Siempre Que Se Expida la Norma, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Siempre Que Se Expida la Norma\".- Juan Pérez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Esta Ley Entrará En Vigor Inmediatamente, D. P.- Rúbricas.",
+                "multi2",
+            ),
+            // a name-shaped signature that is not a measured signatory
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Pedro Páramo Gómez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            // a measured title without its measured date suffix, and a lookalike title
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de México.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de Chile publicada el 14 de enero de 1985.",
+                "unrec",
+            ),
+            // a second commencement event after a genuine signature block
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Miguel Moreno Padilla, D. S.- Rúbricas. Esta Ley entrará en vigor el 1o. de enero de 2030.",
+                "multi2",
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            let expected = match reason {
+                "salvo" => SkipReason::ExceptionOrConditionalLanguage {
+                    marker: "salvo".to_owned(),
+                },
+                "multi2" => SkipReason::MultipleCommencementEventsInRecord { count: 2 },
+                _ => SkipReason::UnrecognizedCommencementPattern,
+            };
+            let skipped_for_review = matches!(
+                &outcome.commencement,
+                Some(Commencement::Skipped { reason, .. }) if *reason == expected
+            );
+            if !outcome.determinations.is_empty() || !skipped_for_review {
+                offenders.push(format!("{:?} <- {text}", outcome.commencement));
+            }
+        }
+        assert!(
+            offenders.is_empty(),
+            "resolved or mis-skipped:\n{}",
+            offenders.join("\n")
+        );
+    }
+
+    #[test]
+    fn the_measured_abrogation_and_apparatus_tails_still_resolve() {
+        // The three abrogation tails and the one year motto the corpus carries
+        // (targeted census 2026-11-17), plus the plain control, each pinned.
+        let none = BusinessDayCalendar::default();
+        for (text, expected) in [
+            // plain control
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación.",
+                date(2020, 1, 2),
+            ),
+            // abrogation naming a law with a "de <date>" suffix
+            (
+                "Esta Ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.",
+                date(2020, 1, 2),
+            ),
+            // abrogation with "publicada el <date>"
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985.",
+                date(2020, 1, 2),
+            ),
+            // abrogation with a comma in the title and "y sus reformas del <date>"
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997.",
+                date(2020, 1, 2),
+            ),
+            // abrogation followed by a legislative signature block
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // dateline, year motto, signatures
+            (
+                "La presente ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Francisco Luna Kan, S.P.- Agustín Ruiz Soto, S.S.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // dateline and signatures without a motto
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // signatures without a dateline, and a trailing page number
+            (
+                "La presente Ley entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas. 60",
+                date(2020, 1, 4),
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert_eq!(resolved_date(&outcome), Some(expected), "{text}");
+            assert_eq!(outcome.determinations.len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn every_measured_signatory_and_role_form_still_resolves() {
+        let none = BusinessDayCalendar::default();
+        for name in LEGACY_SIGNATORIES {
+            for role in ["D. P.", "D.P.", "S. S.", "S. V. P."] {
+                let text = format!(
+                    "La presente Ley entrará en vigor al día siguiente de su publicación. {name}, {role}- Rúbricas."
+                );
+                let outcome = commencement_of(&text, &none);
+                assert_eq!(resolved_date(&outcome), Some(date(2020, 1, 2)), "{text}");
+            }
+        }
+        for abrogation in LEGACY_ABROGATIONS {
+            let text = format!(
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la {abrogation}."
+            );
+            let outcome = commencement_of(&text, &none);
+            assert_eq!(resolved_date(&outcome), Some(date(2020, 1, 2)), "{text}");
+        }
+    }
+
+    #[test]
+    fn a_signature_tail_may_not_carry_other_text() {
+        let none = BusinessDayCalendar::default();
+        let outcome = commencement_of(
+            "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Las solicitudes en trámite se resolverán conforme a la ley anterior, D. P.- Rúbricas.",
+            &none,
+        );
+        assert!(outcome.determinations.is_empty());
+    }
+
+    #[test]
+    fn date_repair_uses_the_same_calendar_as_the_derivation() {
+        // Codex audit 2026-11-17, C6: with an evidenced calendar the derive
+        // writes a counted date; the repair must see that same commencement,
+        // so an article later shown to be amended has its date cleared.
+        let inst = instrument(date(2023, 6, 1));
+        let calendar = calendar_for(2023, &[]);
+        let mut provisions = vec![
+            article("1", "Texto original."),
+            transitory("primero", FIVE_BUSINESS_DAYS),
+        ];
+        let outcome = derive_article_temporal_determinations_with_calendar(
+            &inst,
+            &provisions,
+            date(2026, 11, 17),
+            &calendar,
+        );
+        lex_core::apply_temporal_determinations(&mut provisions, &outcome.determinations);
+        assert_eq!(provisions[0].effective_from, Some(date(2023, 6, 8)));
+        provisions[0].text = "Texto reformado DOF 10-05-2024".to_owned();
+        // without the calendar the commencement is invisible and nothing is repaired
+        assert_eq!(
+            repair_article_dates(&inst, &mut provisions, &BusinessDayCalendar::default()),
+            0
+        );
+        assert_eq!(provisions[0].effective_from, Some(date(2023, 6, 8)));
+        assert_eq!(repair_article_dates(&inst, &mut provisions, &calendar), 1);
+        assert_eq!(provisions[0].effective_from, None);
     }
 }

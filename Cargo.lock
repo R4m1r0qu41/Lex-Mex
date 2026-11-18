@@ -1108,10 +1108,13 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "chrono",
+ "jsonschema",
  "lex-core",
  "lex-grammar",
  "pretty_assertions",
  "regex",
+ "serde",
+ "serde_json",
 ]
 
 [[package]]

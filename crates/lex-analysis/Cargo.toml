@@ -7,9 +7,12 @@ license.workspace = true
 [dependencies]
 anyhow.workspace = true
 chrono.workspace = true
+jsonschema.workspace = true
 lex-core = { path = "../lex-core" }
 lex-grammar = { path = "../lex-grammar" }
 regex.workspace = true
+serde.workspace = true
+serde_json.workspace = true
 
 [dev-dependencies]
 pretty_assertions = "1.4"

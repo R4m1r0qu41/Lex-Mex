@@ -13,7 +13,7 @@ use lex_analysis::{
     CorpusExpectations, CorpusView, apply_legal_operator_reviews,
     apply_outdated_reference_approvals,
     temporal_derive::{
-        Commencement, derive_article_temporal_determinations, repair_article_dates,
+        Commencement, derive_article_temporal_determinations_with_calendar, repair_article_dates,
         repair_partial_repeals,
     },
     validate_corpus,
@@ -4699,10 +4699,29 @@ fn run_derive_command(
     republish_exports(root, &context, vault)
 }
 
+/// The evidenced inputs for business-day commencement counts, validated by
+/// `lex_parse::business_days::parse_calendar` against
+/// `schemas/business-day-calendar-v1.schema.json`. A missing file is an empty
+/// calendar, which resolves no business-day clause; a present file must be
+/// complete, so a misspelled or missing key is an error, never an empty list.
+fn load_business_day_calendar(
+    root: &Path,
+) -> Result<lex_parse::business_days::BusinessDayCalendar> {
+    let path = root.join("adapters/shared/_business-day-calendar.json");
+    if !path.exists() {
+        return Ok(lex_parse::business_days::BusinessDayCalendar::default());
+    }
+    lex_parse::business_days::parse_calendar(&fs::read(&path)?)
+        .map_err(|error| anyhow::anyhow!("business-day calendar {}: {error}", path.display()))
+}
+
 fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> Result<()> {
     let paths = &context.paths;
     let mut corpus = read_corpus(paths)?;
-    let cleared = repair_article_dates(&corpus.instrument, &mut corpus.provisions);
+    // One calendar for both the date repair and the derivation, so a repaired
+    // date and a derived one rest on the same evidenced inputs.
+    let calendar = load_business_day_calendar(&context.root)?;
+    let cleared = repair_article_dates(&corpus.instrument, &mut corpus.provisions, &calendar);
     if cleared > 0 {
         println!(
             "repaired {cleared} article dates (original commencement for unamended articles; amended articles left unset)"
@@ -4721,8 +4740,12 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
         return Ok(());
     }
     let today = Utc::now().date_naive();
-    let outcome =
-        derive_article_temporal_determinations(&corpus.instrument, &corpus.provisions, today);
+    let outcome = derive_article_temporal_determinations_with_calendar(
+        &corpus.instrument,
+        &corpus.provisions,
+        today,
+        &calendar,
+    );
     let repealed = outcome
         .determinations
         .iter()
@@ -4739,6 +4762,13 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
                 "temporal derive: commencement resolved via {pattern} ({effective_from}); {repealed} repealed, {commenced} classified from commencement"
             );
         }
+        Some(Commencement::Bounded {
+            latest, pattern, ..
+        }) => {
+            println!(
+                "temporal derive: commencement bounded via {pattern} (no later than {latest}); {repealed} repealed, {commenced} classified from commencement"
+            );
+        }
         Some(Commencement::Skipped { reason, .. }) => {
             println!(
                 "temporal derive: commencement skipped ({}: {}); {repealed} repealed, 0 classified from commencement",
@@ -4753,7 +4783,9 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
             );
         }
     }
-    if outcome.determinations.is_empty() && cleared == 0 {
+    // Save whenever anything changed: new determinations, repaired dates or
+    // reclassified partial repeals (a split alone used to be printed and lost).
+    if outcome.determinations.is_empty() && cleared + split == 0 {
         return Ok(());
     }
     apply_temporal_determinations(&mut corpus.provisions, &outcome.determinations);
