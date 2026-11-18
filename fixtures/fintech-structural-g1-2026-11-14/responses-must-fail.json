@@ -1,0 +1,941 @@
+{
+ "cases": [
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    }
+   },
+   "why": "resolved without text"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "resolved without a binding hash"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "resolved carrying a reason"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": null,
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "resolved with a null mode"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "candidates": [
+     {
+      "label_span": {
+       "end_char": 1,
+       "start_char": 0
+      },
+      "node_id": null,
+      "path": "x"
+     }
+    ],
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "resolved carrying candidates"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "confidence": 1,
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "an unknown property"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_Bis",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "node_id path without occurrence"
+  },
+  {
+   "derived_from": "g0-dev-10-q3/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:46#pilot-v1:29e0ed0bd1ed:f.XXVI_bis.1",
+    "normalised_path": "f.XXVI_Bis",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+    "request": {
+     "locator": {
+      "fraction": "XXVI Bis"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:46"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 3684,
+     "start_char": 3675
+    },
+    "text": "XXVI bis."
+   },
+   "why": "node_id with a printed, not canonical, qualifier"
+  },
+  {
+   "derived_from": "g1-syn-08-tail-incisos-q2/label",
+   "response": {
+    "ambiguity": "path",
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856",
+    "mode": "label",
+    "normalised_path": "f.I/i.a",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+    "reason": "ambiguous_parent",
+    "request": {
+     "locator": {
+      "fraction": "I",
+      "inciso": "a"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos"
+    },
+    "scan_reasons": [
+     "tail_inciso"
+    ],
+    "scan_status": "partial",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "path ambiguity without candidates"
+  },
+  {
+   "derived_from": "g1-syn-08-tail-incisos-q2/label",
+   "response": {
+    "ambiguity": "path",
+    "artifact": "structural-lookup-response",
+    "candidates": [
+     {
+      "label_span": {
+       "end_char": 40,
+       "start_char": 38
+      },
+      "node_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos#pilot-v1:302045d762ba:tail/i.a.1",
+      "path": "tail/i.a.1"
+     }
+    ],
+    "canonical_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856",
+    "mode": "label",
+    "normalised_path": "f.I/i.a",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "I",
+      "inciso": "a"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos"
+    },
+    "scan_reasons": [
+     "tail_inciso"
+    ],
+    "scan_status": "partial",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "path ambiguity with the span reason"
+  },
+  {
+   "derived_from": "g1-syn-08-tail-incisos-q2/label",
+   "response": {
+    "ambiguity": "path",
+    "artifact": "structural-lookup-response",
+    "candidates": [
+     {
+      "label_span": {
+       "end_char": 40,
+       "start_char": 38
+      },
+      "node_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos#pilot-v1:302045d762ba:tail/i.a.1",
+      "path": "tail/i.a.1"
+     }
+    ],
+    "canonical_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856",
+    "mode": "label",
+    "node_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos#pilot-v1:302045d762ba:tail/i.a.1",
+    "normalised_path": "f.I/i.a",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+    "reason": "ambiguous_parent",
+    "request": {
+     "locator": {
+      "fraction": "I",
+      "inciso": "a"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos"
+    },
+    "scan_reasons": [
+     "tail_inciso"
+    ],
+    "scan_status": "partial",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "path ambiguity carrying a node_id"
+  },
+  {
+   "derived_from": "g1-syn-08-tail-incisos-q2/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "candidates": [
+     {
+      "label_span": {
+       "end_char": 40,
+       "start_char": 38
+      },
+      "node_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos#pilot-v1:302045d762ba:tail/i.a.1",
+      "path": "tail/i.a.1"
+     }
+    ],
+    "canonical_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856",
+    "mode": "label",
+    "normalised_path": "f.I/i.a",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+    "reason": "ambiguous_parent",
+    "request": {
+     "locator": {
+      "fraction": "I",
+      "inciso": "a"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos"
+    },
+    "scan_reasons": [
+     "tail_inciso"
+    ],
+    "scan_status": "partial",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "ambiguous without the ambiguity kind"
+  },
+  {
+   "derived_from": "g1-dev-tail-lic24-iv/complete",
+   "response": {
+    "ambiguity": "span",
+    "artifact": "structural-lookup-response",
+    "candidates": [
+     {
+      "label_span": {
+       "end_char": 1,
+       "start_char": 0
+      },
+      "node_id": null,
+      "path": "x"
+     }
+    ],
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "certain_span": {
+     "end_char": 908,
+     "start_char": 828
+    },
+    "mode": "complete",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+    "normalised_path": "f.IV",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "IV"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "unresolved_segments": [
+     {
+      "candidate_owner_node_ids": [
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:root"
+      ],
+      "end_char": 1443,
+      "reason": "trailing_attachment",
+      "start_char": 910
+     }
+    ]
+   },
+   "why": "span ambiguity carrying candidates"
+  },
+  {
+   "derived_from": "g1-dev-tail-lic24-iv/complete",
+   "response": {
+    "ambiguity": "span",
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "mode": "complete",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+    "normalised_path": "f.IV",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "IV"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "unresolved_segments": [
+     {
+      "candidate_owner_node_ids": [
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:root"
+      ],
+      "end_char": 1443,
+      "reason": "trailing_attachment",
+      "start_char": 910
+     }
+    ]
+   },
+   "why": "span ambiguity without certain_span"
+  },
+  {
+   "derived_from": "g1-dev-tail-lic24-iv/complete",
+   "response": {
+    "ambiguity": "span",
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "certain_span": {
+     "end_char": 908,
+     "start_char": 828
+    },
+    "mode": "complete",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+    "normalised_path": "f.IV",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "IV"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "unresolved_segments": []
+   },
+   "why": "span ambiguity with an empty segment list"
+  },
+  {
+   "derived_from": "g1-dev-tail-lic24-iv/complete",
+   "response": {
+    "ambiguity": "span",
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "certain_span": {
+     "end_char": 908,
+     "start_char": 828
+    },
+    "mode": "complete",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+    "normalised_path": "f.IV",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "reason": "sequence_break",
+    "request": {
+     "locator": {
+      "fraction": "IV"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "unresolved_segments": [
+     {
+      "candidate_owner_node_ids": [
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:root"
+      ],
+      "end_char": 1443,
+      "reason": "trailing_attachment",
+      "start_char": 910
+     }
+    ]
+   },
+   "why": "span ambiguity with a path reason"
+  },
+  {
+   "derived_from": "g1-dev-tail-lic24-iv/complete",
+   "response": {
+    "ambiguity": "span",
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+    "certain_span": {
+     "end_char": 908,
+     "start_char": 828
+    },
+    "mode": "complete",
+    "node_id": "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+    "normalised_path": "f.IV",
+    "outcome": "ambiguous",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+    "reason": "unresolved_boundary",
+    "request": {
+     "locator": {
+      "fraction": "IV"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:24"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 908,
+     "start_char": 828
+    },
+    "text": "x",
+    "unresolved_segments": [
+     {
+      "candidate_owner_node_ids": [
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:f.IV.1",
+       "urn:lex-mx:federal:statute:lic:article:24#pilot-v1:1a5b981dfee0:root"
+      ],
+      "end_char": 1443,
+      "reason": "trailing_attachment",
+      "start_char": 910
+     }
+    ]
+   },
+   "why": "ambiguous carrying span and text"
+  },
+  {
+   "derived_from": "g0-dev-08-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "not_found",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:11"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "not_found without reason"
+  },
+  {
+   "derived_from": "g0-dev-08-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "not_found",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+    "reason": "absent_in_complete_scan",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:11"
+    },
+    "scan_reasons": [],
+    "scan_status": "partial",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "not_found after a partial scan"
+  },
+  {
+   "derived_from": "g0-dev-08-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "not_found",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+    "reason": "sequence_gap",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lic:article:11"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "not_found with a gap reason"
+  },
+  {
+   "derived_from": "g1-dev-partial-lmv2-xix-f/intro",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+    "mode": "intro",
+    "normalised_path": "f.XIX/i.f",
+    "outcome": "not_structured",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "reason": "partial_scan",
+    "request": {
+     "locator": {
+      "fraction": "XIX",
+      "inciso": "f"
+     },
+     "mode": "intro",
+     "provision_id": "urn:lex-mx:federal:statute:lmv:article:2"
+    },
+    "scan_reasons": [
+     "same_line_marker"
+    ],
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "path not_structured without scan_status"
+  },
+  {
+   "derived_from": "g0-dev-15-q1/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
+    "mode": "label",
+    "normalised_path": "f.III",
+    "outcome": "not_structured",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+    "reason": "unsupported_scope",
+    "request": {
+     "locator": {
+      "fraction": "III"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18"
+    },
+    "scan_reasons": [],
+    "scan_status": "complete",
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "scope not_structured carrying a scan status"
+  },
+  {
+   "derived_from": "g0-dev-15-q1/label",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
+    "mode": "label",
+    "normalised_path": "f.III",
+    "outcome": "not_structured",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+    "reason": "unknown_key",
+    "request": {
+     "locator": {
+      "fraction": "III"
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18"
+    },
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   },
+   "why": "not_structured with an invalid_locator reason"
+  },
+  {
+   "derived_from": "g1-syn-11-stale-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "06bc5a918299a064146b6300116177e2c81a95dd7a80b43503231d9bb76091f0",
+    "current_binding": {
+     "canonical_text_sha256": "06bc5a918299a064146b6300116177e2c81a95dd7a80b43503231d9bb76091f0",
+     "projection_version": "pilot-v1",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+     "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+    },
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "stale_projection",
+    "projection_binding": {
+     "canonical_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff",
+     "projection_version": "pilot-v1",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+     "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+    },
+    "reason": "hash_mismatch",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale"
+    }
+   },
+   "why": "stale carrying a flat binding"
+  },
+  {
+   "derived_from": "g1-syn-11-stale-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "stale_projection",
+    "projection_binding": {
+     "canonical_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff",
+     "projection_version": "pilot-v1",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+     "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+    },
+    "reason": "hash_mismatch",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale"
+    }
+   },
+   "why": "stale without current_binding"
+  },
+  {
+   "derived_from": "g1-syn-11-stale-q1/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "current_binding": {
+     "canonical_text_sha256": "06bc5a918299a064146b6300116177e2c81a95dd7a80b43503231d9bb76091f0",
+     "projection_version": "pilot-v1",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+     "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+    },
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "stale_projection",
+    "projection_binding": {
+     "canonical_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff",
+     "projection_version": "pilot-v1",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+     "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+    },
+    "reason": "partial_scan",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale"
+    }
+   },
+   "why": "stale with a non-stale reason"
+  },
+  {
+   "derived_from": "g1-syn-10-invalid-locators-q4/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881",
+    "mode": "complete",
+    "outcome": "invalid_locator",
+    "reason": "unknown_key",
+    "request": {
+     "locator": {
+      "apartado": "A",
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    }
+   },
+   "why": "invalid_locator carrying a binding hash"
+  },
+  {
+   "derived_from": "g1-syn-10-invalid-locators-q4/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "invalid_locator",
+    "reason": "unknown_key",
+    "request": {
+     "locator": {
+      "apartado": "A",
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    }
+   },
+   "why": "invalid_locator carrying normalised_path"
+  },
+  {
+   "derived_from": "g1-syn-10-invalid-locators-q4/complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "mode": "complete",
+    "outcome": "invalid_locator",
+    "reason": "partial_scan",
+    "request": {
+     "locator": {
+      "apartado": "A",
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    }
+   },
+   "why": "invalid_locator with a not_structured reason"
+  },
+  {
+   "derived_from": "g1-syn-10-invalid-locators-q6/request",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "mode": null,
+    "outcome": "invalid_locator",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "mode": "body",
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    }
+   },
+   "why": "invalid_locator without reason"
+  },
+  {
+   "derived_from": "g1-dev-root-lritf22/intro",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+    "mode": "intro",
+    "node_id": "urn:lex-mx:federal:statute:lritf:article:22#pilot-v1:0c9946bfcf55:root",
+    "normalised_path": "root",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+    "request": {
+     "locator": {
+      "article_root": true,
+      "fraction": "I"
+     },
+     "mode": "intro",
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    },
+    "scan_reasons": [],
+    "scan_status": null,
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 527,
+     "start_char": 0
+    },
+    "text": "Los servicios realizados con el público de manera habitual y profesional, consistentes en la emisión, administración, redención y transmisión de fondos de pago electrónico, por medio de los actos que a continuación se señalan, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán prestarse por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de fondos de pago electrónico:"
+   },
+   "why": "resolved whose echoed request is not a valid request"
+  },
+  {
+   "derived_from": "g1-dev-root-lritf22/intro",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+    "mode": "intro",
+    "node_id": "urn:lex-mx:federal:statute:lritf:article:22#pilot-v1:0c9946bfcf55:root",
+    "normalised_path": "root",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+    "request": {
+     "locator": {
+      "article_root": true
+     },
+     "mode": "label",
+     "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+    },
+    "scan_reasons": [],
+    "scan_status": null,
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 527,
+     "start_char": 0
+    },
+    "text": "Los servicios realizados con el público de manera habitual y profesional, consistentes en la emisión, administración, redención y transmisión de fondos de pago electrónico, por medio de los actos que a continuación se señalan, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán prestarse por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de fondos de pago electrónico:"
+   },
+   "why": "resolved root echoing a label-mode root request"
+  }
+ ],
+ "contract": "pilot-v1 G1 draft 3, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
+ "note": "Each response breaks one presence, type or pattern rule of projection.schema.json and must be rejected."
+}

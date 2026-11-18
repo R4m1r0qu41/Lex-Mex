@@ -1,0 +1,33 @@
+input commit: 24587218faca180c90454c9be41da507b1bddd74
+corpus/mx/lritf/provisions.json sha256 ecc7bec2715ca2f881552aca048177ab74686e788e53ecd0d4ad1342de4ef65d
+corpus/mx/lic/provisions.json sha256 c422fafbfd144efe940a0f51fe18c4252df483824a445c07c3dd15c3179b1118
+corpus/mx/lmv/provisions.json sha256 b2cc66b6ae88661607fc95f102674de4ae8fd800b2f2a09df8d4fccc5180fb70
+eligible_articles: 1092
+unexpected_layout: 0
+class_F: 1772
+class_I: 565
+class_N: 508
+class_U: 37
+class_C: 2868
+same_line_fraction: 0
+same_line_inciso: 26
+same_line_inciso_in_fraction_article_chapeau: 0
+same_line_inciso_in_fraction_region: 3
+same_line_inciso_in_inciso_region: 20
+same_line_inciso_in_tail: 3
+same_line_inciso_in_no_fraction_article: 0
+fraction_sequence_breaks: 0
+inciso_sequence_breaks: 2
+articles_with_fraction_gap: 1
+fraction_articles: 357
+tail: 245
+tails_with_incisos: 4
+ends_on_marker: 71
+ends_on_notes: 41
+interior_notes: 1
+interior_notes_inside_tails: 1
+no_fraction_inciso_articles: 4
+no_fraction_inciso_articles_with_tail: 0
+inciso_before_first_fraction: 0
+inciso_after_interior_note_outside_tail: 0
+development provisions with same-line candidates: ['urn:lex-mx:federal:statute:lmv:article:2']

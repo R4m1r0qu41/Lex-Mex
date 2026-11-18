@@ -21,8 +21,69 @@ No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7
 ([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
 neither gate is approved yet. Slice (b) moved the six glossary fracción rules in `terms.rs`
 onto the shared recognizer, one commit each. The output is unchanged: permanent parity tests
-pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Next: Codex
-review of slice (b), then the G0 sample submission.
+pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Codex accepted
+slice (b) ([review](fintech-pilot-slice-b-codex-review-2026-11-14.md)), then prepared the G0
+sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned provisions, 16 for
+development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
+check both found it acceptable. A Codex session that did not build the package approved G0
+with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
+"answer-sealed, publicly identified holdout".
+
+Codex reviewed G1 draft 1 and returned **revise**
+([review](fintech-pilot-g1-codex-review-2026-11-14.md)). It found five gaps (R1–R5) and a private
+conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It adds:
+- a strict lookup branch table and scan-status precedence;
+- rules for interior notes and span cuts;
+- a fully specified request and response, with an explicit root locator, and deferral of
+  `node_id` requests.
+
+`fixtures/fintech-structural-g1-2026-11-14/` now holds:
+- 123 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- full and must-fail responses;
+- a schema checker that runs offline;
+- the committed measurement probe.
+
+Codex then reviewed draft 2 and returned **revise**, limited to two rule interactions
+([review](fintech-pilot-g1-draft2-codex-review-2026-11-14.md)). R1, R2, R4 and R5 are closed.
+Draft 3 fixes both interactions:
+- a same-line fraction candidate is held by the root even inside a tail inciso;
+- the tail of an article with no fraction can begin with an interior note, and the last
+  inciso's certain span ends before it.
+
+It adds Codex's two texts as 7 rows and 4 full responses; every draft-2 row and response is
+unchanged.
+
+Codex **approved G1** at `a6d94025f` on 2026-11-15
+([review](fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). The approval does not authorize
+G2 or G3 work. The review's compatibility record binds the frozen contract section by digest
+and finds a sealed G0 answer still incompatible with it, without naming the case. G0 v1 stays
+unchanged; before G3, an independent evaluator versions any private gold or evaluation
+disposition. Codex, as evaluator, made the encrypted holdout backup and passed a restore and hash
+check on 2026-11-16 ([receipt](fintech-pilot-holdout-custody-2026-11-16.md)). JRH authorized G2
+the same day, in a leaner form: code and tests first, then one Codex review at the end.
+G2 is built in `1075a6ce7`: a read-only projection and lookup in `lex-core`, which passes every
+G1 fixture row and full response, with no parser or corpus change. Codex returned **revise**:
+some marker forms the contract lists were missed. `991b5dc85` fixes them. Codex accepted it on re-review
+([review](fintech-pilot-g2-rereview-codex-2026-11-16.md)), so it is the frozen pilot-v1 code.
+Codex then privately versioned/reviewed the gold and ran G3 once: **39/42** prelocked
+matches, 33 correct resolved results and 9 abstentions, with zero wrong exact results.
+Post-run QA identifies a prelocked expectation error behind the three unexpected
+abstentions; the score remains unchanged. Recommendation: **iterate evaluation**
+with a fresh independently reviewed set, keeping code frozen. No second run or
+retrospective score repair. See [G3 results](fintech-pilot-g3-holdout-results-2026-11-16.md).
+The single-letter `A)` apartado form is deferred to pilot-v2.
+JRH decided on 2026-11-16 to **adopt the pilot locally**, as an internal read-only lookup with no
+public or MCP use. Codex completed the short [not-found evaluation](fintech-pilot-not-found-eval-2026-11-16.md)
+once on 24 fresh requests: 16/16 correct absences, zero false absences, 4/4 exact
+positive controls and 4/4 correct abstentions. The strict 22/24 score retains two
+prelocked expected-owner-path representation errors; independent QA found the
+captured output contract-correct. No implementation or original G3-score change.
+The requested absence supplement is complete; the adopted local scope continues.
+
+JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
+in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No
+status has changed yet. The status pass must not run on the pilot branch before G3, because the
+G0 sample pins the `lritf`, `lic` and `lmv` provision files.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

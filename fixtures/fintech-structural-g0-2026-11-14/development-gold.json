@@ -1,0 +1,502 @@
+{
+  "baseline_commit": "c337dae1af9474d0aef246b3de196c49e2527722",
+  "cases": [
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 531,
+            "start_char": 529
+          },
+          "locator": {
+            "article": "22",
+            "fraction": "I"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+      "challenge_notes": "Ordinary fraction sequence and references back to the first fraction.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "non_marker_observations": [
+        {
+          "classification": "inline citation, not a sibling heading",
+          "end_char": 1037,
+          "exact_quote": "fracción I de este artículo",
+          "method": "Manual reading of the occurrence within fraction II; offsets calculated by literal search only.",
+          "occurrence": 1,
+          "start_char": 1010
+        }
+      ],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+      "sample_id": "dev-01"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 243,
+            "start_char": 241
+          },
+          "locator": {
+            "article": "23",
+            "fraction": "I"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "a)",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 267,
+            "start_char": 265
+          },
+          "locator": {
+            "article": "23",
+            "fraction": "I",
+            "inciso": "a"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+      "challenge_notes": "A fraction introduces nested incisos.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+      "sample_id": "dev-02"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "IV.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 587,
+            "start_char": 584
+          },
+          "locator": {
+            "article": "36",
+            "fraction": "IV"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "c17fb34f9d833f58a4c3f1c3bfc313fd0382c69b69bebd257990a9aea7878eb5",
+      "challenge_notes": "Short ordinary enumeration with a multi-sentence final fraction.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:36",
+      "sample_id": "dev-03"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 145,
+            "start_char": 143
+          },
+          "locator": {
+            "article": "61",
+            "fraction": "I"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
+      "challenge_notes": "Continuation paragraphs occur between fraction headings.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:61",
+      "sample_id": "dev-04"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "VI.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 780,
+            "start_char": 777
+          },
+          "locator": {
+            "article": "82",
+            "fraction": "VI"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "717f2a088debcd2ed85c01e014e07ffb53e8e4501f3df3dac7c5a078afe22630",
+      "challenge_notes": "Short numbered list with a cited last fraction.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:82",
+      "sample_id": "dev-05"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "IV.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 632,
+            "start_char": 629
+          },
+          "locator": {
+            "article": "89",
+            "fraction": "IV"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "3be1e4ad6d6f4e44720e3f47cab7f4235c49bef18da9aaa14084b6ef97956cc9",
+      "challenge_notes": "Unlabelled closing paragraph follows the last fraction; complete-mode attachment requires G1.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:89",
+      "sample_id": "dev-06"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 166,
+            "start_char": 164
+          },
+          "locator": {
+            "article": "98",
+            "fraction": "I"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "b)",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 1361,
+            "start_char": 1359
+          },
+          "locator": {
+            "article": "98",
+            "fraction": "III",
+            "inciso": "b"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "b)",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 2278,
+            "start_char": 2276
+          },
+          "locator": {
+            "article": "98",
+            "fraction": "IV",
+            "inciso": "b"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+      "challenge_notes": "Repeated inciso labels under fractions III and IV, and closing paragraphs.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+      "sample_id": "dev-07"
+    },
+    {
+      "annotations": [
+        {
+          "expected_outcome": "not_found",
+          "locator": {
+            "article": "11",
+            "fraction": "I"
+          },
+          "manual_fraction_label_scan": "complete",
+          "mode": "label",
+          "reason": "Human read of all four paragraphs: no fraction heading; quoted O/L share names and reform note are not structural fractions."
+        }
+      ],
+      "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+      "challenge_notes": "An incoming citation requests fraction I, absent from this entire current article.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+      "sample_id": "dev-08"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 344,
+            "start_char": 342
+          },
+          "locator": {
+            "article": "24",
+            "fraction": "I"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+      "challenge_notes": "Closing paragraph contains a citation, not a new structural marker.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+      "sample_id": "dev-09"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 81,
+            "start_char": 79
+          },
+          "locator": {
+            "article": "46",
+            "fraction": "I"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "a)",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 124,
+            "start_char": 122
+          },
+          "locator": {
+            "article": "46",
+            "fraction": "I",
+            "inciso": "a"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "XXVI bis.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 3684,
+            "start_char": 3675
+          },
+          "locator": {
+            "article": "46",
+            "fraction": "XXVI Bis"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+      "challenge_notes": "Nested incisos, lowercase bis qualifier and continuation/trailing text.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+      "sample_id": "dev-10"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "III.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 277,
+            "start_char": 273
+          },
+          "locator": {
+            "article": "2",
+            "fraction": "III"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "V Bis.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 1847,
+            "start_char": 1841
+          },
+          "locator": {
+            "article": "2",
+            "fraction": "V Bis"
+          },
+          "mode": "label"
+        },
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "b)",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 631,
+            "start_char": 629
+          },
+          "locator": {
+            "article": "2",
+            "fraction": "III",
+            "inciso": "b"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+      "challenge_notes": "Existing definition spans, qualified fractions and repeated incisos.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [
+        {
+          "basis": "express_definition",
+          "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+          "end_char": 1013,
+          "fraction": "III",
+          "id": "urn:lex-mx:federal:statute:lmv:term:control",
+          "instrument_id": "urn:lex-mx:federal:statute:lmv",
+          "schema_version": "0.1.0",
+          "start_char": 273,
+          "term": "Control"
+        }
+      ],
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+      "sample_id": "dev-11"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "II.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 680,
+            "start_char": 677
+          },
+          "locator": {
+            "article": "32",
+            "fraction": "II"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "88b7a365dfaf710f030ba3139c144ad67dadad106fbc8b2b46ede056d9d24328",
+      "challenge_notes": "Compact three-fraction article for an ordinary positive label query.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:32",
+      "sample_id": "dev-12"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "I.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 77,
+            "start_char": 75
+          },
+          "locator": {
+            "article": "71",
+            "fraction": "I"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
+      "challenge_notes": "Final unnumbered paragraph supplies attachment challenge.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:71",
+      "sample_id": "dev-13"
+    },
+    {
+      "annotations": [
+        {
+          "annotation_method": "Human-selected literal prefix; Python str.index only calculates scalar offsets.",
+          "exact_quote": "III.",
+          "expected_outcome": "resolved",
+          "label_span": {
+            "end_char": 581,
+            "start_char": 577
+          },
+          "locator": {
+            "article": "128",
+            "fraction": "III"
+          },
+          "mode": "label"
+        }
+      ],
+      "canonical_text_sha256": "31b8dd9d8e6aeee9bd5e271a9748eed4546c7f93bc033555ee5bd0528be23072",
+      "challenge_notes": "Citation numerals inside last fraction must not become sibling labels.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:statute:lmv:article:128",
+      "sample_id": "dev-14"
+    },
+    {
+      "annotations": [
+        {
+          "expected_outcome": "not_structured",
+          "locator": {
+            "article": "18",
+            "fraction": "III"
+          },
+          "mode": "label",
+          "reason": "Explicit DCG scope exclusion; visible marker presence does not make this format supported."
+        }
+      ],
+      "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
+      "challenge_notes": "CNBV format is an explicit unsupported-scope control for this pilot.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+      "sample_id": "dev-15"
+    },
+    {
+      "annotations": [
+        {
+          "expected_outcome": "not_structured",
+          "locator": {
+            "article": "8",
+            "fraction": "I"
+          },
+          "mode": "label",
+          "reason": "Explicit DCG scope exclusion; visible marker presence does not make this format supported."
+        }
+      ],
+      "canonical_text_sha256": "f74ee76bd9127fa6c04d4276006fc7d74ea7a977cf9dac3511b809883f2138c7",
+      "challenge_notes": "Second DCG control, even though visible Roman labels exist.",
+      "complete_mode": "deferred_to_G1; no complete-span assertion",
+      "existing_definition_witnesses": [],
+      "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+      "sample_id": "dev-16"
+    }
+  ],
+  "phase": "G0 candidate annotations; label mode only; requires independent review and G1 contract",
+  "source": "manual canonical reading; reference edges only seed queries"
+}
