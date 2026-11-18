@@ -151,6 +151,30 @@ for (const [name, extra] of [['site home', '[Inicio](/)'], ['official DOF', '[DO
     assert.deepEqual(report.provisions.map(p => p.article), ['35', '39']);
   });
 }
+// Codex audit re-review 2026-11-17, F2: extra navigation to the same index path
+// (a fragment or an alternate view) is not a second eligible index link.
+for (const [name, extra] of [['fragment', '[Extra navigation](mx/lritf/index.md#toc)'], ['query', '[Extra navigation](mx/lritf/index.md?view=all)']]) {
+  test(`a same-index ${name} link beside the canonical link does not abort discovery`, async t => {
+    const f = await fixture(t, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
+    const report = await checkRetrieval(f);
+    assert.deepEqual(report.provisions?.map(p => p.article), ['35', '39'], JSON.stringify(report.errors));
+    assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
+    // The variant is not eligible, so it is never requested.
+    assert.ok(!f.hits.some(h => /index\.md[?#]/.test(h.url)), JSON.stringify(f.hits));
+  });
+}
+test('a credentialed same-index link is not eligible and is never followed', async t => {
+  // The port is known only once the server listens, so the index is built per request.
+  const f = await fixture(t, r => {
+    r[`${root}index.md`] = (req, res) => {
+      res.writeHead(200, {'content-type': 'text/markdown'});
+      res.end(`[Credentialed](http://user:pw@${req.headers.host}${req.url.replace(/index\.md$/, 'mx/lritf/index.md')})\n[LRITF](mx/lritf/index.md)`);
+    };
+  });
+  const report = await checkRetrieval(f);
+  assert.deepEqual(report.provisions?.map(p => p.article), ['35', '39'], JSON.stringify(report.errors));
+  assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
+});
 test('an LRITF-looking link on another origin is still never followed', async t => {
   const f = await fixture(t, r => { r[`${root}index.md`] = `[LRITF](http://example.invalid${root}mx/lritf/index.md)`; });
   const report = await checkRetrieval(f);
