@@ -70,6 +70,11 @@ pub enum SkipReason {
     MultipleCommencementClauses {
         count: usize,
     },
+    /// One transitory's own text states entering into force more than once,
+    /// so it is not a single plain commencement clause.
+    MultipleCommencementEventsInRecord {
+        count: usize,
+    },
     /// The matched transitory carries an exception, condition, or
     /// staged-rollout qualifier (`con excepción`, `salvo`, `cuando`,
     /// `gradualmente`, `declaratoria`, `a más tardar`, …) — some or all of
@@ -112,6 +117,9 @@ impl SkipReason {
             Self::NoOrdinaryTransitories => "no-ordinary-transitories",
             Self::NoCommencementClause => "no-commencement-clause",
             Self::MultipleCommencementClauses { .. } => "multiple-commencement-clauses",
+            Self::MultipleCommencementEventsInRecord { .. } => {
+                "multiple-commencement-events-in-record"
+            }
             Self::ExceptionOrConditionalLanguage { .. } => "exception-or-conditional-language",
             Self::BusinessDaysPeriod => "business-days-period",
             Self::BusinessDaysCalendarInsufficient { .. } => "business-days-calendar-insufficient",
@@ -133,6 +141,9 @@ impl SkipReason {
             }
             Self::MultipleCommencementClauses { count } => {
                 format!("{count} ordinary transitories mention entering into force")
+            }
+            Self::MultipleCommencementEventsInRecord { count } => {
+                format!("the transitory states entering into force {count} times")
             }
             Self::ExceptionOrConditionalLanguage { marker } => {
                 format!("commencement clause carries a qualifier: {marker:?}")
@@ -570,6 +581,18 @@ fn resolve_commencement_text(
             matched_text: Some(text.to_owned()),
         };
     }
+    // A second commencement event in one record is never a plain clause,
+    // whatever surrounds it: count events in the text, not only records.
+    let events = Regex::new(r"\bentra(?:ra|ran|n)?\s+en\s+vigor\b")
+        .expect("static regex")
+        .find_iter(&guard)
+        .count();
+    if events > 1 {
+        return Commencement::Skipped {
+            reason: SkipReason::MultipleCommencementEventsInRecord { count: events },
+            matched_text: Some(text.to_owned()),
+        };
+    }
     // Complete, supported clause forms only: the whole provision text must be
     // the clause, so a qualifier, a negation or a second event anywhere in it
     // sends the clause to review instead of through a fragment match.
@@ -627,46 +650,76 @@ const LEGACY_SUBJECT: &str = r#"(?:(?:la|el|las|los)\s+present[ea]s?|est[ae]s?)\
 /// ordinal period is removed, or `primero`), a spelled month, four-digit year.
 const LEGACY_DATE: &str = r"(?:\d{1,2}o?|primero)\s+de\s+(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+\d{4}";
 
-/// One capitalised name word. Case-sensitive on purpose: the whole tail runs
-/// under `(?i)`, where a bare `[A-Z]` would also match lowercase text.
-const LEGACY_NAME_WORD: &str = r"(?-i:[A-ZÁÉÍÓÚÑ][a-záéíóúñü]*)";
+/// The abrogation phrases the corpus carries after a commencement clause
+/// (census 2026-11-17), each exactly as it reads once ordinal periods are
+/// removed (`1o.` is `1o`). A phrase is recognised only if it is one of these
+/// whole strings: a law's title is not something a capitalisation test can
+/// verify, so a title that is not listed here is not recognised and the clause
+/// goes to review. Add an entry only with a measured source occurrence.
+const LEGACY_ABROGATIONS: [&str; 3] = [
+    "Ley de Extradición de 1o de mayo de 1897",
+    "Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985",
+    "Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997",
+];
 
-/// The only lowercase words that may sit between the capitalised words of an
-/// abrogated law's title (`de la Armada de México`, `para la Comprobación,
-/// Ajuste y Cómputo`). None of them is a verb, a conjunction of clauses or a
-/// condition word, so a title built from them cannot carry a second statement.
-const LEGACY_TITLE_LINK: &str = r"(?-i:de|del|la|para|y)";
+/// The year mottos the corpus carries inside a dateline (census 2026-11-17).
+/// Only these exact quoted strings are recognised, and only inside a dateline.
+const LEGACY_MOTTOS: [&str; 1] = ["Año de la República Federal y del Senado"];
 
-/// The same idea for a year motto (`Año de la República Federal y del Senado`).
-const LEGACY_MOTTO_LINK: &str = r"(?-i:de|del|la|las|los|y)";
+/// The legislative signatories that appear on commencement clauses in the
+/// corpus (census 2026-11-17, five instruments). A signature is recognised
+/// only when its name is one of these exact names followed by a closed role
+/// marker (`D. P.`, `S. S.`, `S. V. P.`, with or without spaces), so a
+/// sentence, however capitalised, is never taken for a signature. Add an
+/// entry only with a measured source occurrence.
+const LEGACY_SIGNATORIES: [&str; 20] = [
+    "Adán Velarde",
+    "Agustín Ruiz Soto",
+    "Alejandro Antuna López",
+    "Alfonso Corona del Rosal",
+    "Camilo Gastélum Jr.",
+    "César Martino",
+    "Eugenio Prado",
+    "Feliciano Calzada Padrón",
+    "Francisco Hernández y Hernández",
+    "Francisco Luna Kan",
+    "Félix de la Lanza",
+    "Gustavo A. Uruchurtu",
+    "José Escudero Andrade",
+    "José María Dávila",
+    "Melquiades Ramírez",
+    "Miguel Moreno Padilla",
+    "Nabor Ojeda",
+    "Píndaro Urióstegui Miranda",
+    "Rafael Suárez Ocaña",
+    "Vicente L. Benéitez",
+];
 
-/// The legislative signature block the source extraction leaves behind: one or
-/// more `Name, D. P.-` style signatures ending in `Rúbricas`. A name is
-/// capitalised name words only, so no sentence can pass as one.
-const LEGACY_SIGNATURES: &str = r#"(?:(?-i:[A-ZÁÉÍÓÚÑ][\w.]*(?:\s+(?:y|de|del|la|[A-ZÁÉÍÓÚÑ][\w.]*)){0,6}),\s+(?-i:[DS]\.\s?(?:V\.\s?)?[PS]\.)\s?-\s*)+r[úu]bricas?[".]*"#;
+/// A case-sensitive alternation of the exact, escaped strings.
+fn exact_alternation(items: &[&str]) -> String {
+    let escaped: Vec<String> = items.iter().map(|item| regex::escape(item)).collect();
+    format!("(?-i:{})", escaped.join("|"))
+}
 
-/// What may follow the date phrase, then the end of the text. Every piece is a
-/// closed, pinned shape; nothing here is a wildcard over free text:
+/// What may follow the date phrase, then the end of the text. Every piece is
+/// a closed, measured shape; nothing here is a wildcard over free text, and
+/// nothing is recognised because it merely looks like a name or a title:
 ///
 /// * the Diario Oficial (quoted or not, with or without `de la Federación`);
-/// * a plain abrogation, `y abroga la Ley <title>`, where the title is
-///   capitalised name words joined only by `de/del/la/para/y`, optionally
-///   followed by `publicada el <date>` or `de <date>` and `y sus reformas del
-///   <date>`. A lowercase word outside that set (a condition, a verb, a second
-///   commencement event) ends the match and the clause goes to review;
+/// * `y abroga la <one of LEGACY_ABROGATIONS>`;
 /// * source apparatus that extraction leaves behind: a bare trailing period,
 ///   then an optional `México, D.F., a <date>.-` dateline, which alone may
-///   carry a quoted `"Año de <capitalised words>"` year motto, then the
-///   signature block above, and a bare trailing page number. A quoted string
-///   anywhere else, or one that is not shaped as a year motto, matches nothing.
+///   carry one of `LEGACY_MOTTOS` in quotes, then signatures by
+///   `LEGACY_SIGNATORIES` ending in `Rúbricas`, and a bare trailing page
+///   number. Anything else, including any other quoted string or any
+///   capitalised sentence, matches nothing and the clause goes to review.
 fn legacy_tail() -> String {
-    let word = LEGACY_NAME_WORD;
-    let title_link = LEGACY_TITLE_LINK;
-    let motto_link = LEGACY_MOTTO_LINK;
     let date = LEGACY_DATE;
-    let signatures = LEGACY_SIGNATURES;
+    let abrogations = exact_alternation(&LEGACY_ABROGATIONS);
+    let mottos = exact_alternation(&LEGACY_MOTTOS);
+    let names = exact_alternation(&LEGACY_SIGNATORIES);
     format!(
-        r#"(?:\s+en\s+el\s+"?diario\s+oficial"?(?:\s+de\s+la\s+federaci[oó]n)?)?(?:\s+y\s+abroga\s+la\s+ley\s+(?:{title_link}\s+)*{word}(?:,?\s+(?:{title_link}\s+)*{word})*(?:\s+(?:publicada\s+el|de)\s+{date})?(?:\s+y\s+sus\s+reformas\s+del?\s+{date})?)?\s*\.?(?:\s+(?:m[eé]xico,\s+d\.\s?f\.,\s+a\s+{date}\.?-\s*(?:"(?-i:Año)\s+de(?:\s+(?:{motto_link}\s+)*{word})+"\.?-\s*)?)?{signatures})?(?:\s+\d{{1,4}})?\s*$"#
+        r#"(?:\s+en\s+el\s+"?diario\s+oficial"?(?:\s+de\s+la\s+federaci[oó]n)?)?(?:\s+y\s+abroga\s+la\s+{abrogations})?\s*\.?(?:\s+(?:m[eé]xico,\s+d\.\s?f\.,\s+a\s+{date}\.?-\s*(?:"{mottos}"\.?-\s*)?)?(?:{names},\s+(?-i:[DS]\.\s?(?:V\.\s?)?[PS]\.)\s?-\s*)+r[úu]bricas?[".]*)?(?:\s+\d{{1,4}})?\s*$"#
     )
 }
 
@@ -1870,12 +1923,17 @@ mod tests {
                 "{text}"
             );
         }
-        // "salvo" is a word, not a prefix of another word
+        // "salvo" is a word, not a prefix of another word: `Salvoconductos` is
+        // not a qualifier. It is also not a measured abrogation title, so the
+        // clause is unrecognised (review), not skipped for a qualifier.
         let outcome = commencement_of(
             "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley de Salvoconductos.",
             &none,
         );
-        assert_eq!(resolved_date(&outcome), Some(date(2020, 1, 2)));
+        assert_eq!(
+            skip_reason(&outcome),
+            SkipReason::UnrecognizedCommencementPattern
+        );
     }
 
     #[test]
@@ -1965,7 +2023,7 @@ mod tests {
             // F1 witness 2: a second commencement event inside the abrogation tail
             (
                 "La presente Ley entrará en vigor al día siguiente de su publicación y abroga el decreto anterior, pero esta Ley entrará en vigor a los treinta días de su publicación.",
-                "unrec",
+                "multi2",
             ),
             // F1 witness 3: a quoted condition in the motto position
             (
@@ -1979,7 +2037,7 @@ mod tests {
             ),
             (
                 "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos y entrará en vigor el 1o. de enero de 2030.",
-                "unrec",
+                "multi2",
             ),
             (
                 "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos, salvo el Título Segundo.",
@@ -2000,12 +2058,50 @@ mod tests {
                 "La presente Ley entrará en vigor al día siguiente de su publicación. \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
                 "unrec",
             ),
+            // Codex re-review 2026-11-17 F1 residual counterexamples: capitalised
+            // statements are not titles, mottos or signatures.
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos Siempre Que Se Expida la Norma.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Siempre Que Se Expida la Norma, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Siempre Que Se Expida la Norma\".- Juan Pérez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Esta Ley Entrará En Vigor Inmediatamente, D. P.- Rúbricas.",
+                "multi2",
+            ),
+            // a name-shaped signature that is not a measured signatory
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Pedro Páramo Gómez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            // a measured title without its measured date suffix, and a lookalike title
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de México.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de Chile publicada el 14 de enero de 1985.",
+                "unrec",
+            ),
+            // a second commencement event after a genuine signature block
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. Miguel Moreno Padilla, D. S.- Rúbricas. Esta Ley entrará en vigor el 1o. de enero de 2030.",
+                "multi2",
+            ),
         ] {
             let outcome = commencement_of(text, &none);
             let expected = match reason {
                 "salvo" => SkipReason::ExceptionOrConditionalLanguage {
                     marker: "salvo".to_owned(),
                 },
+                "multi2" => SkipReason::MultipleCommencementEventsInRecord { count: 2 },
                 _ => SkipReason::UnrecognizedCommencementPattern,
             };
             let skipped_for_review = matches!(
@@ -2051,7 +2147,7 @@ mod tests {
             ),
             // abrogation followed by a legislative signature block
             (
-                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas.",
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas.",
                 date(2020, 1, 2),
             ),
             // dateline, year motto, signatures
@@ -2073,6 +2169,27 @@ mod tests {
             let outcome = commencement_of(text, &none);
             assert_eq!(resolved_date(&outcome), Some(expected), "{text}");
             assert_eq!(outcome.determinations.len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn every_measured_signatory_and_role_form_still_resolves() {
+        let none = BusinessDayCalendar::default();
+        for name in LEGACY_SIGNATORIES {
+            for role in ["D. P.", "D.P.", "S. S.", "S. V. P."] {
+                let text = format!(
+                    "La presente Ley entrará en vigor al día siguiente de su publicación. {name}, {role}- Rúbricas."
+                );
+                let outcome = commencement_of(&text, &none);
+                assert_eq!(resolved_date(&outcome), Some(date(2020, 1, 2)), "{text}");
+            }
+        }
+        for abrogation in LEGACY_ABROGATIONS {
+            let text = format!(
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la {abrogation}."
+            );
+            let outcome = commencement_of(&text, &none);
+            assert_eq!(resolved_date(&outcome), Some(date(2020, 1, 2)), "{text}");
         }
     }
 
