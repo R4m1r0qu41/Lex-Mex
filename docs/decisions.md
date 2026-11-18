@@ -4264,3 +4264,29 @@ diciembre de 2022" is in force with the printed text, including the eight art. 4
 fractions recorded as invalidated in 2026-10. Decision 14 in
 `docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. Not yet applied; no state
 changed by this entry.
+
+### 2026-11-18 — LFPA art. 28: 1 October 2024 is a non-business day through the Calendario Oficial decree (JRH)
+
+JRH: LFPA art. 28 concerns the day of the transmission of the Executive Power every six years;
+the only time this has happened under the current rule is 1 October 2024; art. 28 does not list
+that day, but the decree published in the DOF on 12-07-2024 (nota 5733285) does. Decision 15.
+Read as: a business-day count that reaches 2024 treats 1 October 2024 as a non-business day.
+
+What the decree says (read by Claude from the DOF note, 2026-11-18): "DECRETO por el que se
+reforma el Artículo Segundo del Decreto por el que se establece el Calendario Oficial, publicado
+en el Diario Oficial de la Federación el 6 de octubre de 1993 y su posterior modificación";
+signed 11-07-2024, in force the day after publication. Its Article Second lists "1o. de octubre
+de cada seis años, con motivo de la transmisión del Poder Ejecutivo Federal" among the days of
+"descanso obligatorio para las personas servidoras públicas federales" (apartado B). It is a
+recurring rule (next occurrence 1 October 2030), first applied on 1 October 2024.
+
+Gap to confirm (JRH): the decree speaks of mandatory rest days for federal servants; it does not
+use "día inhábil" and does not mention administrative-procedure plazos. Taking it as the source
+for LFPA art. 28 counts is JRH's reading. It is recorded here as given; the repository did not
+infer it. Open: whether the day stays excluded after 2024 (the decree is recurring; the
+calendar's 1 December entry is capped at 2018).
+
+Not yet applied. No calendar data, commencement code or census changed by this entry. Adding
+1 October 2024 to the calendar will move some currently unresolved 2024 business-day counts
+to resolved and so changes the 468-instrument census; that belongs on its own branch with a
+Codex review, after the audit-fix and reader branches are integrated.
