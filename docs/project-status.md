@@ -9,6 +9,29 @@
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
+## 2026-11-17 Codex F2 and F3 on the reader branch (`feat/public-reader-r7`, local, unpushed)
+
+Codex's audit of the unmerged reader branch left two findings for this branch. They are closed
+in code and the F2 follow-up awaits Codex's re-review. No `corpus/` file changed.
+- **F3, response contract (`aeaf5dbc9`; closed by Codex's second re-review).** The `skip_cursor`
+  field changes the closed response shape, so the wire identifier is now
+  `public-query-response-v2` (`schemas/public-query-response-v2.schema.json`, `RESPONSE_VERSION`
+  in `lex_db::public`). The v1 schema is byte-identical to the accepted contract (SHA-256
+  `636536a8…`, pinned by the 2026-10-25 acceptance evidence). v2 permits `skip_cursor` only when
+  `code` is `response_too_large`, by an `if`/`then`. `PROJECTION_VERSION` (`public-query-v1`), the
+  database and the public-release bytes are unchanged. Decision recorded in `decisions.md`.
+- **F2, retrieval checker (`73881d529`, then `d2426a630`).** The LRITF index link is selected by
+  exact serialized URL, which excludes same-index navigation including a bare `?` or `#`. `safe()`
+  applies the same rule, so a followed link or redirect with a bare `?` or `#` now fails discovery.
+  The base-URL check has the same blind spot and was not changed.
+- Checks: 29 checker tests, 451 workspace tests (1 ignored) and `lex-db` clippy pass; `lritf` and
+  `ifpe-dcg-2021` validate with 0 issues. Full-workspace clippy still fails on two existing
+  `lex-cli` diagnostics (`main.rs:1905`, `db.rs:318`). The R4 deadline qualification is as Codex
+  accepted it.
+- Open: Codex re-review of F2 (handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-codex-reader-f2-rereview.md`
+  in Agent Vault; closeout note `codex-audit-f2-f3-closeout-2026-11-17.md`). The commencement tail (F1)
+  is on `fix/codex-audit-2026-11-17` in the integration worktree. Push and merge need JRH.
+
 ## 2026-10-16 reverse-linking checkpoint
 
 `link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. Graphs were rewritten and still validate (27,429 → 35,887 references, 9,763 resolved cross-instrument edges; 5,451 of them are regulation citations of a bare "la Ley" resolved to the parent law, see [parent-law mapping](parent-law-mapping-2026-10-16.md)). 8 are held on their previous graphs ([review list](held-instruments-review-2026-10-16.md)) under the parser/linker repair of 2026-10-16 (see [repair report](parser-linker-repair-2026-10-16.md)): `lgdnna` (operator request; Article 135 Ter cites an Article 157 the retained text lacks; JRH to decide), six whose explicit citation to a missing article of their own text is now kept as an unresolved edge instead of silently dropped (`cub-dcg-2005`, `cucb-dcg-2004`, `lgcs`, `oaac-dcg-2009`, `reg-lagra-mcdets`, `reg-lfce`, `socap-sofipo-dcg-2006` — `lgoaac` was a hyphenated-suffix parser defect and is released; the DCGs are unreviewed), 10 whose new graph pointed (`lbm` was a `tercer`/`Ter` parser defect and is released) at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
