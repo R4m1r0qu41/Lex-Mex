@@ -1,0 +1,1426 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "lex-mex:fintech-structural-pilot:pilot-v1:g1-draft-2",
+ "title": "Fintech structural pilot projection, lookup request and lookup response (pilot-v1, G1 draft 2)",
+ "description": "Pilot-only derived artifact. Not a trusted boundary and not under schemas/. Semantics are in docs/plans/fintech-structural-pilot.md, section G1 contract (G1.5 node identity, G1.7 request and response). Spans are half-open Unicode scalar offsets into the exact canonical Provision.text. JSON Schema cannot check that text equals the span's substring, that hashes match the text or that node_id prefixes match the binding; fixtures/fintech-structural-g1-2026-11-14/verify.py checks those.",
+ "oneOf": [
+  {
+   "$ref": "#/$defs/projection"
+  },
+  {
+   "$ref": "#/$defs/lookup_response"
+  }
+ ],
+ "$defs": {
+  "span": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "start_char",
+    "end_char"
+   ],
+   "properties": {
+    "start_char": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "end_char": {
+     "type": "integer",
+     "minimum": 0
+    }
+   }
+  },
+  "sha256": {
+   "type": "string",
+   "pattern": "^[0-9a-f]{64}$"
+  },
+  "release_id": {
+   "type": "string",
+   "pattern": "^local-[0-9a-f]{40}$"
+  },
+  "node_id": {
+   "type": "string",
+   "pattern": "^.+#pilot-v1:[0-9a-f]{12}:(root|tail/i\\.[a-zñ]\\.[1-9][0-9]*|i\\.[a-zñ]\\.[1-9][0-9]*|f\\.[IVXLC]+(_(Bis|Ter|Quater|Quinquies|Sexies|Septies|Octies|Nonies|Decies))?\\.[1-9][0-9]*(/i\\.[a-zñ]\\.[1-9][0-9]*)?)$"
+  },
+  "binding": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "provision_id",
+    "canonical_text_sha256",
+    "projection_version",
+    "source_release_id"
+   ],
+   "properties": {
+    "provision_id": {
+     "type": "string",
+     "minLength": 1
+    },
+    "canonical_text_sha256": {
+     "$ref": "#/$defs/sha256"
+    },
+    "projection_version": {
+     "type": "string",
+     "minLength": 1
+    },
+    "source_release_id": {
+     "$ref": "#/$defs/release_id"
+    }
+   }
+  },
+  "kind": {
+   "enum": [
+    "article_root",
+    "fraction",
+    "inciso"
+   ]
+  },
+  "scan_status": {
+   "enum": [
+    "complete",
+    "partial",
+    "ambiguous",
+    "unsupported"
+   ]
+  },
+  "scan_reason": {
+   "enum": [
+    "sequence_break",
+    "same_line_marker",
+    "unsupported_marker",
+    "tail_inciso"
+   ]
+  },
+  "segment_reason": {
+   "enum": [
+    "trailing_attachment",
+    "note_interruption",
+    "post_child_attachment",
+    "unsupported_marker",
+    "same_line_marker"
+   ]
+  },
+  "node": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "node_id",
+    "kind",
+    "path",
+    "parent_node_id",
+    "candidate_parent_node_ids",
+    "parenthood_status",
+    "ordinal_in_parent",
+    "label_span",
+    "printed_label",
+    "normalised_label",
+    "intro_span",
+    "intro_status",
+    "complete_span",
+    "complete_status",
+    "scope"
+   ],
+   "properties": {
+    "node_id": {
+     "$ref": "#/$defs/node_id"
+    },
+    "kind": {
+     "$ref": "#/$defs/kind"
+    },
+    "path": {
+     "type": "string",
+     "pattern": "^(root|tail/i\\.[a-zñ]\\.[1-9][0-9]*|i\\.[a-zñ]\\.[1-9][0-9]*|f\\.[IVXLC]+(_(Bis|Ter|Quater|Quinquies|Sexies|Septies|Octies|Nonies|Decies))?\\.[1-9][0-9]*(/i\\.[a-zñ]\\.[1-9][0-9]*)?)$"
+    },
+    "parent_node_id": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/node_id"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "candidate_parent_node_ids": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/node_id"
+     }
+    },
+    "parenthood_status": {
+     "enum": [
+      "root",
+      "resolved",
+      "ambiguous"
+     ]
+    },
+    "ordinal_in_parent": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "minimum": 1
+    },
+    "label_span": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/span"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "printed_label": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "normalised_label": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "intro_span": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/span"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "intro_status": {
+     "enum": [
+      "resolved",
+      "ambiguous"
+     ]
+    },
+    "complete_span": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/span"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "complete_status": {
+     "enum": [
+      "resolved",
+      "ambiguous"
+     ]
+    },
+    "scope": {
+     "const": "statute_body"
+    }
+   },
+   "description": "intro_span and complete_span hold the resolved span, or the certain part (null when empty) when the status is ambiguous."
+  },
+  "unresolved_segment": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "start_char",
+    "end_char",
+    "reason",
+    "candidate_owner_node_ids"
+   ],
+   "properties": {
+    "start_char": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "end_char": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "reason": {
+     "$ref": "#/$defs/segment_reason"
+    },
+    "candidate_owner_node_ids": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "$ref": "#/$defs/node_id"
+     }
+    },
+    "marker_label_span": {
+     "$ref": "#/$defs/span"
+    },
+    "marker_kind": {
+     "enum": [
+      "fraction",
+      "inciso",
+      "unknown"
+     ]
+    }
+   }
+  },
+  "scan": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "parent_node_id",
+    "child_kind",
+    "status",
+    "reasons"
+   ],
+   "properties": {
+    "parent_node_id": {
+     "$ref": "#/$defs/node_id"
+    },
+    "child_kind": {
+     "enum": [
+      "fraction",
+      "inciso"
+     ]
+    },
+    "status": {
+     "enum": [
+      "complete",
+      "partial",
+      "ambiguous"
+     ]
+    },
+    "reasons": {
+     "type": "array",
+     "uniqueItems": true,
+     "items": {
+      "$ref": "#/$defs/scan_reason"
+     }
+    }
+   },
+   "allOf": [
+    {
+     "if": {
+      "properties": {
+       "reasons": {
+        "contains": {
+         "const": "sequence_break"
+        }
+       }
+      }
+     },
+     "then": {
+      "properties": {
+       "status": {
+        "const": "ambiguous"
+       }
+      }
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "reasons": {
+        "maxItems": 0
+       }
+      }
+     },
+     "then": {
+      "properties": {
+       "status": {
+        "const": "complete"
+       }
+      }
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "reasons": {
+        "minItems": 1,
+        "not": {
+         "contains": {
+          "const": "sequence_break"
+         }
+        }
+       }
+      }
+     },
+     "then": {
+      "properties": {
+       "status": {
+        "const": "partial"
+       }
+      }
+     }
+    }
+   ]
+  },
+  "projection": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "artifact",
+    "provision_id",
+    "canonical_text_sha256",
+    "projection_version",
+    "source_release_id",
+    "provision_status",
+    "nodes",
+    "unresolved_segments",
+    "scans"
+   ],
+   "properties": {
+    "artifact": {
+     "const": "structural-projection"
+    },
+    "provision_id": {
+     "type": "string",
+     "minLength": 1
+    },
+    "canonical_text_sha256": {
+     "$ref": "#/$defs/sha256"
+    },
+    "projection_version": {
+     "const": "pilot-v1"
+    },
+    "source_release_id": {
+     "$ref": "#/$defs/release_id"
+    },
+    "provision_status": {
+     "enum": [
+      "structured",
+      "not_structured"
+     ]
+    },
+    "not_structured_reason": {
+     "enum": [
+      "unsupported_scope",
+      "unexpected_layout"
+     ]
+    },
+    "nodes": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/node"
+     }
+    },
+    "unresolved_segments": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/unresolved_segment"
+     }
+    },
+    "scans": {
+     "type": "array",
+     "items": {
+      "$ref": "#/$defs/scan"
+     }
+    }
+   },
+   "allOf": [
+    {
+     "if": {
+      "properties": {
+       "provision_status": {
+        "const": "not_structured"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "not_structured_reason"
+      ],
+      "properties": {
+       "nodes": {
+        "maxItems": 0
+       },
+       "scans": {
+        "maxItems": 0
+       },
+       "unresolved_segments": {
+        "maxItems": 0
+       }
+      }
+     },
+     "else": {
+      "not": {
+       "required": [
+        "not_structured_reason"
+       ]
+      },
+      "properties": {
+       "nodes": {
+        "minItems": 1
+       }
+      }
+     }
+    }
+   ]
+  },
+  "lookup_request": {
+   "description": "A valid pilot-v1 request (G1.7). Invalid requests are any JSON value; they are echoed raw in a response's request field.",
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "provision_id",
+    "locator"
+   ],
+   "properties": {
+    "provision_id": {
+     "type": "string",
+     "minLength": 1
+    },
+    "mode": {
+     "enum": [
+      "label",
+      "intro",
+      "complete"
+     ]
+    },
+    "locator": {
+     "oneOf": [
+      {
+       "type": "object",
+       "additionalProperties": false,
+       "required": [
+        "article_root"
+       ],
+       "properties": {
+        "article_root": {
+         "const": true
+        }
+       }
+      },
+      {
+       "type": "object",
+       "additionalProperties": false,
+       "minProperties": 1,
+       "properties": {
+        "fraction": {
+         "type": "string",
+         "pattern": "^(C|(XC|XL|LX{0,3}|X{1,3})(IX|IV|VI{0,3}|I{1,3})?|IX|IV|VI{0,3}|I{1,3})( ([bB][iI][sS]|[tT][eE][rR]|[qQ][uU][áaÁA][tT][eE][rR]|[qQ][uU][iI][nN][qQ][uU][iI][eE][sS]|[sS][eE][xX][iI][eE][sS]|[sS][eE][pP][tT][iI][eE][sS]|[oO][cC][tT][iI][eE][sS]|[nN][oO][nN][iI][eE][sS]|[dD][eE][cC][iI][eE][sS]))?$",
+         "description": "Canonical uppercase Roman numeral 1-100, optionally one space and a qualifier fraction_qualifier_rank accepts (any case, Quáter with or without accent)."
+        },
+        "inciso": {
+         "type": "string",
+         "pattern": "^[a-zñ]\\)?$"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "allOf": [
+    {
+     "if": {
+      "properties": {
+       "locator": {
+        "required": [
+         "article_root"
+        ]
+       },
+       "mode": {
+        "const": "label"
+       }
+      },
+      "required": [
+       "mode"
+      ]
+     },
+     "then": false
+    }
+   ]
+  },
+  "candidate": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "node_id",
+    "path",
+    "label_span"
+   ],
+   "properties": {
+    "node_id": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/node_id"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "path": {
+     "type": "string",
+     "minLength": 1
+    },
+    "label_span": {
+     "$ref": "#/$defs/span"
+    }
+   }
+  },
+  "lookup_response": {
+   "type": "object",
+   "additionalProperties": false,
+   "required": [
+    "artifact",
+    "outcome",
+    "request",
+    "mode"
+   ],
+   "properties": {
+    "artifact": {
+     "const": "structural-lookup-response"
+    },
+    "outcome": {
+     "enum": [
+      "resolved",
+      "ambiguous",
+      "not_structured",
+      "not_found",
+      "stale_projection",
+      "invalid_locator"
+     ]
+    },
+    "request": true,
+    "mode": {
+     "enum": [
+      "label",
+      "intro",
+      "complete",
+      null
+     ]
+    },
+    "reason": {
+     "enum": [
+      "absent_in_complete_scan",
+      "ambiguous_parent",
+      "conflicting_locator",
+      "empty_locator",
+      "hash_mismatch",
+      "incomplete_path",
+      "invalid_fraction_label",
+      "invalid_inciso_label",
+      "label_mode_on_root",
+      "malformed_request",
+      "partial_scan",
+      "release_mismatch",
+      "same_line_marker",
+      "sequence_break",
+      "sequence_gap",
+      "unexpected_layout",
+      "unknown_key",
+      "unknown_mode",
+      "unknown_provision",
+      "unresolved_boundary",
+      "unsupported_marker",
+      "unsupported_request_form",
+      "unsupported_scope",
+      "version_mismatch"
+     ]
+    },
+    "provision_id": {
+     "type": "string",
+     "minLength": 1
+    },
+    "canonical_text_sha256": {
+     "$ref": "#/$defs/sha256"
+    },
+    "projection_version": {
+     "const": "pilot-v1"
+    },
+    "source_release_id": {
+     "$ref": "#/$defs/release_id"
+    },
+    "projection_binding": {
+     "$ref": "#/$defs/binding"
+    },
+    "current_binding": {
+     "$ref": "#/$defs/binding"
+    },
+    "normalised_path": {
+     "type": "string",
+     "pattern": "^(root|i\\.[a-zñ]|f\\.[IVXLC]+(_(Bis|Ter|Quater|Quinquies|Sexies|Septies|Octies|Nonies|Decies))?(/i\\.[a-zñ])?)$"
+    },
+    "scan_status": {
+     "enum": [
+      "complete",
+      "partial",
+      "ambiguous",
+      null
+     ]
+    },
+    "scan_reasons": {
+     "type": "array",
+     "uniqueItems": true,
+     "items": {
+      "$ref": "#/$defs/scan_reason"
+     }
+    },
+    "ambiguity": {
+     "enum": [
+      "path",
+      "span"
+     ]
+    },
+    "node_id": {
+     "$ref": "#/$defs/node_id"
+    },
+    "span": {
+     "$ref": "#/$defs/span"
+    },
+    "text": {
+     "type": "string"
+    },
+    "certain_span": {
+     "oneOf": [
+      {
+       "$ref": "#/$defs/span"
+      },
+      {
+       "type": "null"
+      }
+     ]
+    },
+    "unresolved_segments": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "$ref": "#/$defs/unresolved_segment"
+     }
+    },
+    "candidates": {
+     "type": "array",
+     "minItems": 1,
+     "items": {
+      "$ref": "#/$defs/candidate"
+     }
+    }
+   },
+   "allOf": [
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "resolved"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "provision_id",
+       "canonical_text_sha256",
+       "projection_version",
+       "source_release_id",
+       "normalised_path",
+       "scan_status",
+       "scan_reasons",
+       "node_id",
+       "span",
+       "text"
+      ],
+      "properties": {
+       "mode": {
+        "enum": [
+         "label",
+         "intro",
+         "complete"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "not": {
+         "anyOf": [
+          {
+           "required": [
+            "reason"
+           ]
+          },
+          {
+           "required": [
+            "projection_binding"
+           ]
+          },
+          {
+           "required": [
+            "current_binding"
+           ]
+          },
+          {
+           "required": [
+            "ambiguity"
+           ]
+          },
+          {
+           "required": [
+            "certain_span"
+           ]
+          },
+          {
+           "required": [
+            "unresolved_segments"
+           ]
+          },
+          {
+           "required": [
+            "candidates"
+           ]
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "ambiguous"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "reason",
+       "provision_id",
+       "canonical_text_sha256",
+       "projection_version",
+       "source_release_id",
+       "normalised_path",
+       "scan_status",
+       "scan_reasons",
+       "ambiguity"
+      ],
+      "properties": {
+       "mode": {
+        "enum": [
+         "label",
+         "intro",
+         "complete"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "if": {
+         "properties": {
+          "ambiguity": {
+           "const": "path"
+          }
+         }
+        },
+        "then": {
+         "required": [
+          "candidates"
+         ],
+         "properties": {
+          "reason": {
+           "enum": [
+            "ambiguous_parent",
+            "same_line_marker",
+            "unsupported_marker",
+            "sequence_break",
+            "incomplete_path"
+           ]
+          }
+         },
+         "allOf": [
+          {
+           "not": {
+            "anyOf": [
+             {
+              "required": [
+               "projection_binding"
+              ]
+             },
+             {
+              "required": [
+               "current_binding"
+              ]
+             },
+             {
+              "required": [
+               "node_id"
+              ]
+             },
+             {
+              "required": [
+               "span"
+              ]
+             },
+             {
+              "required": [
+               "text"
+              ]
+             },
+             {
+              "required": [
+               "certain_span"
+              ]
+             },
+             {
+              "required": [
+               "unresolved_segments"
+              ]
+             }
+            ]
+           }
+          }
+         ]
+        },
+        "else": {
+         "required": [
+          "node_id",
+          "certain_span",
+          "unresolved_segments"
+         ],
+         "properties": {
+          "reason": {
+           "const": "unresolved_boundary"
+          }
+         },
+         "allOf": [
+          {
+           "not": {
+            "anyOf": [
+             {
+              "required": [
+               "projection_binding"
+              ]
+             },
+             {
+              "required": [
+               "current_binding"
+              ]
+             },
+             {
+              "required": [
+               "span"
+              ]
+             },
+             {
+              "required": [
+               "text"
+              ]
+             },
+             {
+              "required": [
+               "candidates"
+              ]
+             }
+            ]
+           }
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "not_found"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "reason",
+       "provision_id",
+       "canonical_text_sha256",
+       "projection_version",
+       "source_release_id",
+       "normalised_path",
+       "scan_status",
+       "scan_reasons"
+      ],
+      "properties": {
+       "reason": {
+        "const": "absent_in_complete_scan"
+       },
+       "scan_status": {
+        "const": "complete"
+       },
+       "mode": {
+        "enum": [
+         "label",
+         "intro",
+         "complete"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "not": {
+         "anyOf": [
+          {
+           "required": [
+            "projection_binding"
+           ]
+          },
+          {
+           "required": [
+            "current_binding"
+           ]
+          },
+          {
+           "required": [
+            "ambiguity"
+           ]
+          },
+          {
+           "required": [
+            "node_id"
+           ]
+          },
+          {
+           "required": [
+            "span"
+           ]
+          },
+          {
+           "required": [
+            "text"
+           ]
+          },
+          {
+           "required": [
+            "certain_span"
+           ]
+          },
+          {
+           "required": [
+            "unresolved_segments"
+           ]
+          },
+          {
+           "required": [
+            "candidates"
+           ]
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "not_structured"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "reason",
+       "provision_id",
+       "canonical_text_sha256",
+       "projection_version",
+       "source_release_id",
+       "normalised_path"
+      ],
+      "properties": {
+       "reason": {
+        "enum": [
+         "unsupported_scope",
+         "unexpected_layout",
+         "partial_scan",
+         "sequence_break",
+         "sequence_gap",
+         "incomplete_path"
+        ]
+       },
+       "mode": {
+        "enum": [
+         "label",
+         "intro",
+         "complete"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "if": {
+         "properties": {
+          "reason": {
+           "enum": [
+            "unsupported_scope",
+            "unexpected_layout"
+           ]
+          }
+         }
+        },
+        "then": {
+         "not": {
+          "anyOf": [
+           {
+            "required": [
+             "projection_binding"
+            ]
+           },
+           {
+            "required": [
+             "current_binding"
+            ]
+           },
+           {
+            "required": [
+             "scan_status"
+            ]
+           },
+           {
+            "required": [
+             "scan_reasons"
+            ]
+           },
+           {
+            "required": [
+             "ambiguity"
+            ]
+           },
+           {
+            "required": [
+             "node_id"
+            ]
+           },
+           {
+            "required": [
+             "span"
+            ]
+           },
+           {
+            "required": [
+             "text"
+            ]
+           },
+           {
+            "required": [
+             "certain_span"
+            ]
+           },
+           {
+            "required": [
+             "unresolved_segments"
+            ]
+           },
+           {
+            "required": [
+             "candidates"
+            ]
+           }
+          ]
+         }
+        },
+        "else": {
+         "required": [
+          "scan_status",
+          "scan_reasons"
+         ],
+         "allOf": [
+          {
+           "not": {
+            "anyOf": [
+             {
+              "required": [
+               "projection_binding"
+              ]
+             },
+             {
+              "required": [
+               "current_binding"
+              ]
+             },
+             {
+              "required": [
+               "ambiguity"
+              ]
+             },
+             {
+              "required": [
+               "node_id"
+              ]
+             },
+             {
+              "required": [
+               "span"
+              ]
+             },
+             {
+              "required": [
+               "text"
+              ]
+             },
+             {
+              "required": [
+               "certain_span"
+              ]
+             },
+             {
+              "required": [
+               "unresolved_segments"
+              ]
+             },
+             {
+              "required": [
+               "candidates"
+              ]
+             }
+            ]
+           }
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "stale_projection"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "reason",
+       "projection_binding",
+       "current_binding",
+       "normalised_path"
+      ],
+      "properties": {
+       "reason": {
+        "enum": [
+         "hash_mismatch",
+         "version_mismatch",
+         "release_mismatch"
+        ]
+       },
+       "mode": {
+        "enum": [
+         "label",
+         "intro",
+         "complete"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "not": {
+         "anyOf": [
+          {
+           "required": [
+            "provision_id"
+           ]
+          },
+          {
+           "required": [
+            "canonical_text_sha256"
+           ]
+          },
+          {
+           "required": [
+            "projection_version"
+           ]
+          },
+          {
+           "required": [
+            "source_release_id"
+           ]
+          },
+          {
+           "required": [
+            "scan_status"
+           ]
+          },
+          {
+           "required": [
+            "scan_reasons"
+           ]
+          },
+          {
+           "required": [
+            "ambiguity"
+           ]
+          },
+          {
+           "required": [
+            "node_id"
+           ]
+          },
+          {
+           "required": [
+            "span"
+           ]
+          },
+          {
+           "required": [
+            "text"
+           ]
+          },
+          {
+           "required": [
+            "certain_span"
+           ]
+          },
+          {
+           "required": [
+            "unresolved_segments"
+           ]
+          },
+          {
+           "required": [
+            "candidates"
+           ]
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "const": "invalid_locator"
+       }
+      }
+     },
+     "then": {
+      "required": [
+       "reason"
+      ],
+      "properties": {
+       "reason": {
+        "enum": [
+         "malformed_request",
+         "unsupported_request_form",
+         "unknown_key",
+         "unknown_mode",
+         "empty_locator",
+         "conflicting_locator",
+         "invalid_fraction_label",
+         "invalid_inciso_label",
+         "label_mode_on_root",
+         "unknown_provision"
+        ]
+       }
+      },
+      "allOf": [
+       {
+        "not": {
+         "anyOf": [
+          {
+           "required": [
+            "provision_id"
+           ]
+          },
+          {
+           "required": [
+            "canonical_text_sha256"
+           ]
+          },
+          {
+           "required": [
+            "projection_version"
+           ]
+          },
+          {
+           "required": [
+            "source_release_id"
+           ]
+          },
+          {
+           "required": [
+            "projection_binding"
+           ]
+          },
+          {
+           "required": [
+            "current_binding"
+           ]
+          },
+          {
+           "required": [
+            "normalised_path"
+           ]
+          },
+          {
+           "required": [
+            "scan_status"
+           ]
+          },
+          {
+           "required": [
+            "scan_reasons"
+           ]
+          },
+          {
+           "required": [
+            "ambiguity"
+           ]
+          },
+          {
+           "required": [
+            "node_id"
+           ]
+          },
+          {
+           "required": [
+            "span"
+           ]
+          },
+          {
+           "required": [
+            "text"
+           ]
+          },
+          {
+           "required": [
+            "certain_span"
+           ]
+          },
+          {
+           "required": [
+            "unresolved_segments"
+           ]
+          },
+          {
+           "required": [
+            "candidates"
+           ]
+          }
+         ]
+        }
+       }
+      ]
+     }
+    },
+    {
+     "if": {
+      "properties": {
+       "outcome": {
+        "not": {
+         "const": "invalid_locator"
+        }
+       }
+      }
+     },
+     "then": {
+      "properties": {
+       "request": {
+        "$ref": "#/$defs/lookup_request"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}
