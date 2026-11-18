@@ -66,7 +66,7 @@ test('timeout is bounded and reported distinctly', async t => {
   assert.equal(report.errors[0].kind, 'timeout');
 });
 test('rejects missing or ambiguous exact article labels', async t => {
-  const f = await fixture(t, r => { r[`${root}mx/lritf/index.md`] = `[Artículo 135](provision-${hash}.md)`; });
+  const f = await fixture(t, () => {}, r => { r[`${root}mx/lritf/index.md`] = `[Artículo 135](provision-${hash}.md)`; });
   const report = await checkRetrieval(f);
   assert.match(report.errors[0].message, /exact article/);
 });
@@ -166,7 +166,7 @@ test('rejects within-release wrong-article redirect against requested manifest r
 // abort discovery because the strict pin threw inside the link filter.
 for (const [name, extra] of [['site home', '[Inicio](/)'], ['official DOF', '[DOF](https://www.dof.gob.mx/)'], ['anchor', '[Arriba](#top)'], ['query', '[Todo](?view=all)']]) {
   test(`an unrelated ${name} link on the index does not abort discovery`, async t => {
-    const f = await fixture(t, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
+    const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
     const report = await checkRetrieval(f);
     assert.ok(!report.errors.some(e => /escapes allowed origin/.test(e.message)), JSON.stringify(report.errors));
     assert.deepEqual(report.provisions.map(p => p.article), ['35', '39']);
@@ -176,7 +176,7 @@ for (const [name, extra] of [['site home', '[Inicio](/)'], ['official DOF', '[DO
 // (a fragment or an alternate view) is not a second eligible index link.
 for (const [name, extra] of [['fragment', '[Extra navigation](mx/lritf/index.md#toc)'], ['query', '[Extra navigation](mx/lritf/index.md?view=all)']]) {
   test(`a same-index ${name} link beside the canonical link does not abort discovery`, async t => {
-    const f = await fixture(t, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
+    const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
     const report = await checkRetrieval(f);
     assert.deepEqual(report.provisions?.map(p => p.article), ['35', '39'], JSON.stringify(report.errors));
     assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
@@ -225,7 +225,7 @@ test('a credentialed same-index link is not eligible and is never followed', asy
   assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
 });
 test('an LRITF-looking link on another origin is still never followed', async t => {
-  const f = await fixture(t, r => { r[`${root}index.md`] = `[LRITF](http://example.invalid${root}mx/lritf/index.md)`; });
+  const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `[LRITF](http://example.invalid${root}mx/lritf/index.md)`; });
   const report = await checkRetrieval(f);
   assert.equal(report.ok, false);
   assert.match(report.errors[0].message, /exactly one LRITF index link/);
