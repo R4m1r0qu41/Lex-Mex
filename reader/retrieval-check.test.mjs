@@ -168,6 +168,8 @@ for (const [name, extra] of [['site home', '[Inicio](/)'], ['official DOF', '[DO
   test(`an unrelated ${name} link on the index does not abort discovery`, async t => {
     const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
     const report = await checkRetrieval(f);
+    // Built before hashing, so the whole run, manifest verification included, passes.
+    assert.equal(report.ok, true, JSON.stringify(report.errors));
     assert.ok(!report.errors.some(e => /escapes allowed origin/.test(e.message)), JSON.stringify(report.errors));
     assert.deepEqual(report.provisions.map(p => p.article), ['35', '39']);
   });
@@ -178,6 +180,8 @@ for (const [name, extra] of [['fragment', '[Extra navigation](mx/lritf/index.md#
   test(`a same-index ${name} link beside the canonical link does not abort discovery`, async t => {
     const f = await fixture(t, () => {}, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
     const report = await checkRetrieval(f);
+    // Built before hashing, so the whole run, manifest verification included, passes.
+    assert.equal(report.ok, true, JSON.stringify(report.errors));
     assert.deepEqual(report.provisions?.map(p => p.article), ['35', '39'], JSON.stringify(report.errors));
     assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
     // The variant is not eligible, so it is never requested.
