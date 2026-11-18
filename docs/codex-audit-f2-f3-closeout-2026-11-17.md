@@ -14,8 +14,10 @@ file changed. Nothing under `lex-mex-integration` was edited.
 | Branch / worktree | `feat/public-reader-r7`, `/Users/jr/Dev/lex-mex-reader` |
 | Reviewed head (before) | `921e1bd6c26ef643e2cfe35d9473b972dbe5abb8` |
 | F2 commit | `73881d529` |
-| F3 commit | `aeaf5dbc9` (the code head under review) |
-| This note | docs only, no code. Added in `f06e363fc`; this identity table was corrected in the next docs-only commit on the branch. Review the code at `aeaf5dbc9`; `git diff aeaf5dbc9..HEAD` shows docs changes only. |
+| F3 commit | `aeaf5dbc9` (closed by Codex in its second re-review; unchanged since) |
+| F2 follow-up commit | `d2426a630`, on top of `9500c52d7`: exact-URL selection (see "F2 follow-up") |
+| Code head under review | `d2426a630` |
+| This note | docs only, no code. Added in `f06e363fc`, identity table corrected in `9500c52d7`, and extended with the F2 follow-up in the next docs-only commit on the branch. `git diff d2426a630..HEAD` shows docs changes only. |
 
 ## F2: eligible full-URL selection
 
@@ -23,7 +25,8 @@ file changed. Nothing under `lex-mex-integration` was edited.
 Eligible means same origin, exact `${root}mx/lritf/index.md` pathname, empty query,
 empty fragment, no username or password. Exactly one eligible link is still
 required, the chosen link still goes through strict `safe()`, and the cross-origin
-control is unchanged.
+control is unchanged. This first rule (commit `73881d529`) was incomplete for a bare
+`?` or `#`; the exact-URL rule in "F2 follow-up" below replaces its predicate.
 
 Regressions in `reader/retrieval-check.test.mjs`:
 
@@ -34,6 +37,55 @@ Regressions in `reader/retrieval-check.test.mjs`:
 Reproduced at `921e1bd6c` before the fix: 23 tests, 20 pass, 3 fail, each with
 `Expected exactly one LRITF index link`. After the fix: 23 pass, 0 fail. The
 existing unrelated-link tests and the cross-origin test are unchanged and pass.
+
+## F2 follow-up: exact-URL selection (second re-review)
+
+Codex's second re-review
+(`/Users/jr/Dev/lex-mex-integration/docs/codex-audit-fixes-codex-rereview-2026-11-17.md`,
+section 3 F2 and section 6) kept F2 open. Empty `URL.search` and `URL.hash` do not
+distinguish an absent component from a bare `?` or `#`, so canonical plus
+`mx/lritf/index.md?` or plus `mx/lritf/index.md#` still failed with
+`Expected exactly one LRITF index link`. It required comparing the serialized URL
+with the exact canonical URL. Commit `d2426a630` does that.
+
+- **Selection** (`reader/retrieval-check.mjs`): a link is eligible only if its
+  resolved `href` equals `new URL(root + "mx/lritf/index.md", base).href`. The
+  origin, pathname and no-credentials checks are kept. Exactly one eligible link is
+  still required, and the cross-origin control is unchanged.
+- **`safe()`**: the same exact-component policy. It also rejects any URL whose
+  serialized form contains `?` or `#`. `safe()` runs on every fetch and every
+  redirect hop, so a followed link with a bare `?` or `#` is rejected before any
+  request, as a nonempty one already was. I applied this because `safe()` already
+  intended to reject query and fragment everywhere; the verdict said to do so "if
+  it is intended".
+- **Regressions** (`reader/retrieval-check.test.mjs`): canonical plus `index.md?` and
+  plus `index.md#`; followed article links with a bare `?`, a bare `#`, a nonempty
+  query and a nonempty fragment are rejected before they are requested. These
+  fixtures apply the extra link before the manifest is hashed, through a new optional
+  `prepare` argument to `fixture()`, so the full run and manifest verification must
+  pass. This responds to Codex's remark that the earlier fixtures mutate the index
+  after hashing and mainly test discovery. All earlier tests are unchanged.
+- **Reproduced** at `9500c52d7` with the new tests and the old checker: 29 tests,
+  25 pass, 4 fail. The four failures are the bare `?` and `#` cases for selection and
+  for `safe()`. The nonempty cases already passed. After the fix: 29 pass, 0 fail.
+
+Follow-up checks, run at the working tree before `d2426a630` was committed:
+
+| Check | Result |
+|---|---|
+| `node --test reader/retrieval-check.test.mjs` | 29 pass, 0 fail, 0 skipped; no EPERM |
+| `cargo fmt --all --check` | exit 0 |
+| `cargo test --workspace --locked --offline` | 451 passed, 0 failed, 1 ignored |
+| `cargo clippy -p lex-db --all-targets --locked --offline -- -D warnings` | exit 0; only the existing `walkdir` manifest warning |
+
+The cargo checks cannot exercise this JavaScript change; they show that nothing else
+moved. The two `lex-cli` clippy diagnostics and the `AGENTS.md` validators are as
+reported in the tables below and were not rerun for this follow-up.
+
+Residual: `safe()` is stricter. A release whose `llms.txt`, index or redirect target
+carries a bare `?` or `#` on a followed link now fails discovery. The base-URL check
+(`--base-url`) has the same blind spot (`https://host/lex-mex/?` passes) and was not
+changed, because the verdict did not ask for it.
 
 ## F3: versioned response contract
 
@@ -123,9 +175,10 @@ After the two validators ran, `git status` was clean, so they wrote nothing.
    empty-page case has nothing to skip. Should the schema require it whenever the
    response comes from a list with an oversized item? The schema cannot see that
    distinction today.
-3. **F2, empty `?` or `#`.** Eligibility uses the parsed `search` and `hash`, so a
-   bare trailing `?` or `#` is treated as absent and `mx/lritf/index.md?` would count
-   as the canonical link. Is that acceptable, or should the raw href be compared?
+3. **F2, empty `?` or `#`.** Answered by Codex's second re-review and fixed in
+   `d2426a630` (see "F2 follow-up"). Open for your check: is applying the exact policy
+   to `safe()` on every hop, redirects included, what you intended? The base-URL
+   check was left as it is.
 4. **R4** keeps the qualification in your verdict: deadline classification, not a hard
    wall-clock cap. Unchanged here.
 
