@@ -315,7 +315,7 @@ mod tests {
         assert_eq!(frames(b"tail", 8), [request("tail")]);
         assert_eq!(frames(b"123456789", 8), [Frame::Oversized]);
         assert_eq!(frames(b"\n\r\n", 8), [request(""), request("")]);
-        assert!(frames(b"", 8).is_empty());
+        assert_eq!(frames(b"", 8), Vec::<Frame>::new());
     }
 
     /// Yields `chunks` lazily and counts reads past the first chunk.
