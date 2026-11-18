@@ -328,11 +328,8 @@ pub fn project(root: &Path, corpus: &str, builder: &str, output: &Path) -> Resul
     crate::load::populate(&mut c, &inspection, &data, &release, &spec_json)?;
     let table_counts = check_loaded(&c, &data)?;
     c.close().map_err(|(_, e)| e)?;
-    for extension in ["sqlite-wal", "sqlite-shm", "sqlite-journal"] {
-        ensure!(
-            !db.with_extension(extension).exists(),
-            "required SQLite sidecar remains"
-        );
+    for sidecar in crate::sqlite_sidecars(&db) {
+        ensure!(!sidecar.exists(), "required SQLite sidecar remains");
     }
     let readonly = Connection::open_with_flags(&db, OpenFlags::SQLITE_OPEN_READ_ONLY)?;
     readonly.execute_batch("PRAGMA query_only=ON")?;

@@ -96,6 +96,13 @@ printed notes name the invalid "porción normativa" where only part of a unit fe
     applied. Units with a suppression note and no revival statement, such as the folded
     "Artículo 3 Bis.- Suprimido", stay under decision 12; LGCS has 7 such folded placeholders, to
     be split like the 20 LGIPE ones.
+15. **LFPA art. 28: 1 October every six years is a non-business day** (JRH, 2026-11-18). Art. 28
+    does not list the day of the transmission of the Executive Power since 2024; the Calendario
+    Oficial decree published in the DOF on 12-07-2024 (nota 5733285) does, as a mandatory rest day
+    for federal servants. Asked directly, JRH confirmed it counts as a non-business day for LFPA
+    art. 28 counts in 2024 and every six years after (1 October 2030, and so on). Not yet applied:
+    adding it to the business-day calendar changes the commencement census and needs its own
+    branch and Codex review. Full text in `docs/decisions.md` (2026-11-18).
 
 ## Corrections to earlier records
 

@@ -1,0 +1,572 @@
+{
+ "date": "2026-10-25",
+ "reader_head": "f49c07923c8d243290271043d08e6cdd18d7c1d5",
+ "main_head": "e3ad94ee3bf6e5a5ec34274ad77af10ce88bcf1d",
+ "db_checkout_head": "047b421efe9ef6575288bb6d35b6190fc9e2d192",
+ "accepted_database": {
+  "path": "/Users/jr/Dev/lex-mex/derived/db/permanent-5eca-a/afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974/corpus.sqlite",
+  "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+  "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+  "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+  "bytes": 482025472,
+  "sha256_after_all_runs": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2"
+ },
+ "public_release": {
+  "path": "/Users/jr/Dev/lex-mex/.work/reader-r7-review-20261024/publication/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+  "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+  "manifest_sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9",
+  "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a"
+ },
+ "d0_compatibility": {
+  "instruments": 4,
+  "canonical_input_hashes_compared": 24,
+  "provision_texts_compared": 870,
+  "mismatches": 0,
+  "ifpe_title_anchored_edges": [
+   "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:107-109:48:direct",
+   "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:128-130:54:direct",
+   "urn:lex-mx:federal:regulation:ifpe-dcg-2021:reference:150-152:56:direct"
+  ]
+ },
+ "builder_commit_verifier": {
+  "binary": "exported 5eca03bc5 tree, cargo build --locked --release",
+  "exit": 0,
+  "wall_s": 55.7,
+  "corpus_commit": "5eca03bc5085de423ae23b1f1519712604bd28e2",
+  "head_commit": "f49c07923c8d243290271043d08e6cdd18d7c1d5",
+  "stale_input_paths": [
+   "schemas/public-instrument-v1.schema.json",
+   "schemas/public-release-v1.schema.json"
+  ],
+  "input_files": 4960,
+  "normalized_records": 208744,
+  "fts_token_occurrences": 10002069,
+  "golden_queries": 21
+ },
+ "head_binary_verifier": {
+  "exit": 1,
+  "error": "missing pinned input schemas/public-instrument-v1.schema.json: path exists on disk, but not in 5eca03bc5",
+  "status": "pre-existing; not caused by this work"
+ },
+ "native_gate": {
+  "runner": "mech (Haiku)",
+  "fmt_check": 0,
+  "clippy_D_warnings": 0,
+  "workspace_tests": {
+   "passed": 441,
+   "failed": 0,
+   "ignored": 1
+  },
+  "validate_lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+  "validate_ifpe_dcg_2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+  "real_data_public_release_test": "1 passed (870 provisions; ambiguous 0; artículo 835, autoridad 70, Comisión Nacional Bancaria 183, ley 453, fracción 173 hits)",
+  "golden_queries_current_binary": 21,
+  "cargo_lock_changed": false,
+  "public_tests_rerun_after_isolation_fix": "mech: fmt 0, clippy 0, 11/11 public tests passed"
+ },
+ "performance": {
+  "process_cold": {
+   "wall_s_including_open_and_binding_verification": 1.214,
+   "first_request_micros": 1558,
+   "max_rss_bytes": 212860928,
+   "per_request": [
+    {
+     "request": {
+      "operation": "coverage"
+     },
+     "micros": 1558,
+     "outcome": "ok",
+     "bytes": 5420
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lritf",
+      "kind": "article",
+      "locator": "35"
+     },
+     "micros": 975,
+     "outcome": "found",
+     "bytes": 1537
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lic",
+      "kind": "article",
+      "locator": "5 Bis 5"
+     },
+     "micros": 695,
+     "outcome": "found",
+     "bytes": 1543
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lic",
+      "kind": "transitory",
+      "locator": "Décimo"
+     },
+     "micros": 251,
+     "outcome": "found",
+     "bytes": 1517
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:statute:lritf:article:35"
+     },
+     "micros": 876,
+     "outcome": "found",
+     "bytes": 4470
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:18"
+     },
+     "micros": 521,
+     "outcome": "found",
+     "bytes": 212968
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:statute:lic:article:999"
+     },
+     "micros": 478,
+     "outcome": "not_found",
+     "bytes": 1143
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "artículo"
+     },
+     "micros": 19486,
+     "outcome": "ok",
+     "bytes": 9457
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "ley"
+     },
+     "micros": 17588,
+     "outcome": "ok",
+     "bytes": 11338
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "Comisión Nacional Bancaria y de Valores"
+     },
+     "micros": 2930,
+     "outcome": "ok",
+     "bytes": 11342
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "activos virtuales",
+      "instrument": "lritf"
+     },
+     "micros": 783,
+     "outcome": "ok",
+     "bytes": 11342
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "fracción",
+      "kind": "transitory"
+     },
+     "micros": 6396,
+     "outcome": "ok",
+     "bytes": 10128
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "zzzzqqq"
+     },
+     "micros": 66,
+     "outcome": "ok",
+     "bytes": 1018
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lritf:article:35"
+     },
+     "micros": 86,
+     "outcome": "ok",
+     "bytes": 1143
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lritf:article:48",
+      "direction": "incoming"
+     },
+     "micros": 230,
+     "outcome": "ok",
+     "bytes": 7009
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lic:article:2"
+     },
+     "micros": 53,
+     "outcome": "ok",
+     "bytes": 1662
+    }
+   ]
+  },
+  "warm_single_process_30_reps": {
+   "requests": 480,
+   "wall_s": 2.337,
+   "p50_micros": 237,
+   "p95_micros": 17882,
+   "max_micros": 24642,
+   "max_rss_bytes": 212828160,
+   "max_response_bytes": 212968,
+   "per_request_p50_p95": [
+    {
+     "request": {
+      "operation": "coverage"
+     },
+     "p50": 45,
+     "p95": 52
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lritf",
+      "kind": "article",
+      "locator": "35"
+     },
+     "p50": 212,
+     "p95": 233
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lic",
+      "kind": "article",
+      "locator": "5 Bis 5"
+     },
+     "p50": 629,
+     "p95": 677
+    },
+    {
+     "request": {
+      "operation": "resolve",
+      "instrument": "lic",
+      "kind": "transitory",
+      "locator": "Décimo"
+     },
+     "p50": 250,
+     "p95": 284
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:statute:lritf:article:35"
+     },
+     "p50": 42,
+     "p95": 60
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:18"
+     },
+     "p50": 494,
+     "p95": 661
+    },
+    {
+     "request": {
+      "operation": "get_provision",
+      "id": "urn:lex-mx:federal:statute:lic:article:999"
+     },
+     "p50": 87,
+     "p95": 151
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "artículo"
+     },
+     "p50": 19724,
+     "p95": 22650
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "ley"
+     },
+     "p50": 12931,
+     "p95": 16180
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "Comisión Nacional Bancaria y de Valores"
+     },
+     "p50": 2866,
+     "p95": 2977
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "activos virtuales",
+      "instrument": "lritf"
+     },
+     "p50": 717,
+     "p95": 743
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "fracción",
+      "kind": "transitory"
+     },
+     "p50": 6851,
+     "p95": 7295
+    },
+    {
+     "request": {
+      "operation": "search",
+      "query": "zzzzqqq"
+     },
+     "p50": 71,
+     "p95": 98
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lritf:article:35"
+     },
+     "p50": 46,
+     "p95": 53
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lritf:article:48",
+      "direction": "incoming"
+     },
+     "p50": 197,
+     "p95": 211
+    },
+    {
+     "request": {
+      "operation": "references",
+      "id": "urn:lex-mx:federal:statute:lic:article:2"
+     },
+     "p50": 53,
+     "p95": 56
+    }
+   ]
+  },
+  "deterministic_across_reps": true,
+  "concurrent_4_processes_10_reps": {
+   "wall_s": 2.42,
+   "requests": 640,
+   "p50_micros": 343,
+   "p95_micros": 51005,
+   "max_micros": 77966,
+   "max_rss_bytes_per_process": 212287488
+  },
+  "concurrent_8_processes_10_reps": {
+   "wall_s": 5.482,
+   "requests": 1280,
+   "p50_micros": 1000,
+   "p95_micros": 178749,
+   "max_micros": 224871,
+   "max_rss_bytes_per_process": 213483520
+  }
+ },
+ "query_plans": [
+  "QUERY PLAN",
+  "|--MATERIALIZE m",
+  "|  |--SCAN provisions_fts VIRTUAL TABLE INDEX 0:M3",
+  "|  |--SEARCH p USING INTEGER PRIMARY KEY (rowid=?)",
+  "|  `--LIST SUBQUERY 1",
+  "|     |--SCAN json_each VIRTUAL TABLE INDEX 1:",
+  "|     `--CREATE BLOOM FILTER",
+  "|--SCAN m",
+  "`--USE TEMP B-TREE FOR ORDER BY",
+  "QUERY PLAN",
+  "|--SEARCH e USING INDEX reference_targets (target_provision_id=?)",
+  "|--SEARCH a USING INDEX sqlite_autoindex_source_anchors_1 (id=?)",
+  "|--LIST SUBQUERY 1",
+  "|  |--SCAN json_each VIRTUAL TABLE INDEX 1:",
+  "|  `--CREATE BLOOM FILTER",
+  "`--USE TEMP B-TREE FOR ORDER BY",
+  "QUERY PLAN",
+  "|--SEARCH a USING COVERING INDEX sqlite_autoindex_source_anchors_1 (id=?)",
+  "|--SEARCH e USING INDEX reference_sources (source_provision_id=?)",
+  "`--USE TEMP B-TREE FOR ORDER BY",
+  "QUERY PLAN",
+  "`--SEARCH provisions USING INDEX provisions_owner (instrument_id=?)",
+  "23163"
+ ],
+ "file_sha256": {
+  "crates/lex-db/src/public.rs": "1849a2b6734fb4109c7cbc6fceaa3ef818809a1b4330218cb0b9110699a32163",
+  "crates/lex-db/src/public_tests.rs": "e54906f4ecf59ce70531a4e95ead00358c0aa9c0f196778c553c39f91a85bdcc",
+  "crates/lex-db/tests/public_release.rs": "9b19881bc70c81a1cdd4467486788184cf7a83e24e4fe3d24f6fea5ff78f7779",
+  "crates/lex-cli/src/db.rs": "927a96ede57dea9dec7defc6a49354d53eadbc83d5b84198e586b968b9634225",
+  "crates/lex-db/Cargo.toml": "d17204408a0b857da74a5f09fb0b2f38b68b5e8a8206831581cc79a1009f7535",
+  "crates/lex-db/src/lib.rs": "8b34512ed74ab58d89cb58027818114d1e312b5ab008e412d7fe5df506f489d4",
+  "schemas/public-query-binding-v1.schema.json": "211e55b8a07aecade08b304ad17d66eb5d70959e0db8f70d95f68bff42342110",
+  "schemas/public-query-response-v1.schema.json": "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559",
+  "derived/public-query/c305db4a-afdc5acf.binding.json": "d2babd1767ef3ee6dd99d44b0cfb821a4708a4dcdc510151cbc3d59ce80c5d80"
+ },
+ "d3_repairs": {
+  "review_commit": "af6de68a88287f48ce0cef5bf762c187eb505aa3",
+  "repair_request": "AI/60_Evaluations/provider-handoffs/pending/claude/2026-10-25-lex-mex-db-agent-query-repairs.md",
+  "pre_edit_digest_check": "all nine reviewed digests matched; no drift",
+  "r1_real_artifact_probes": {
+   "span": "exit 1: lritf: release and database reference edges differ",
+   "publisher": "exit 1: lritf: release instrument metadata differs from the database",
+   "temporal_status": "exit 1: urn:lex-mx:federal:statute:lritf:article:1: release and database differ in temporal_status",
+   "control_unchanged_repack": "exit 0; same release_id; instruments identical to original binding",
+   "rebind_accepted": "byte-identical to d2babd17…"
+  },
+  "r2_process_probe": {
+   "response_before_newline": true,
+   "seconds_after_16MiB_written": 0.011,
+   "first": {
+    "code": "bad_request",
+    "kind": "error",
+    "message": "request exceeds 8192 bytes"
+   },
+   "second_outcome": "ok",
+   "exit": 0,
+   "max_rss": [
+    "           211124224  maximum resident set size"
+   ]
+  },
+  "gate": {
+   "runner": "mech (Haiku)",
+   "fmt": 0,
+   "clippy": 0,
+   "public_tests": "12/12",
+   "cli_framing_tests": "2/2",
+   "workspace_tests": {
+    "passed": 444,
+    "failed": 0,
+    "ignored": 1
+   },
+   "validate_lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+   "validate_ifpe_dcg_2021": "valid; 59 articles, 4 transitories, 115 references, 0 issues",
+   "real_artifact_public_release": "1/1",
+   "builder_commit_verifier": {
+    "exit": 0,
+    "head_commit": "af6de68a88287f48ce0cef5bf762c187eb505aa3",
+    "stale_input_paths": [
+     "schemas/public-instrument-v1.schema.json",
+     "schemas/public-release-v1.schema.json"
+    ],
+    "input_files": 4960,
+    "normalized_records": 208744,
+    "fts_token_occurrences": 10002069,
+    "golden_queries": 21
+   },
+   "current_binary_goldens": 21,
+   "accepted_db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+   "cargo_lock_changed": false
+  },
+  "performance": "not repeated: query SQL and served projection unchanged (real-artifact parity rerun passes)",
+  "file_sha256": {
+   "crates/lex-db/src/public.rs": "5ef6882359c93d4991aa5d6d7962dcf7942e8321511c406ab376abfd0a238e58",
+   "crates/lex-db/src/public_tests.rs": "121d2aa48b8f33150530bb26ac47245e1f91b397e91e19151beffe200503d874",
+   "crates/lex-db/tests/public_release.rs": "9b19881bc70c81a1cdd4467486788184cf7a83e24e4fe3d24f6fea5ff78f7779",
+   "crates/lex-cli/src/db.rs": "1347d9275419e34087ec25ec94b29a9f00dd5111748bfa5ce769ac1f83b0e462",
+   "crates/lex-db/Cargo.toml": "d17204408a0b857da74a5f09fb0b2f38b68b5e8a8206831581cc79a1009f7535",
+   "crates/lex-db/src/lib.rs": "8b34512ed74ab58d89cb58027818114d1e312b5ab008e412d7fe5df506f489d4",
+   "schemas/public-query-binding-v1.schema.json": "211e55b8a07aecade08b304ad17d66eb5d70959e0db8f70d95f68bff42342110",
+   "schemas/public-query-response-v1.schema.json": "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559",
+   "derived/public-query/c305db4a-afdc5acf.binding.json": "d2babd1767ef3ee6dd99d44b0cfb821a4708a4dcdc510151cbc3d59ce80c5d80"
+  },
+  "scratch_scripts_not_in_repository": {
+   "r1probe.py": {
+    "sha256": "aac7f3686578dbf79d2f5094ae6daff88ae08b1d705671cd484ce3ca3769900b",
+    "invocation": "python3 -I r1probe.py <release> <out-dir> <span|source|status|none>, then lex-mex db public-bind --database-dir <accepted db dir> --release-dir <out-dir> --output <out>.binding.json"
+   },
+   "r2probe.py": {
+    "sha256": "a95ef818b74852c52ffbb8959b193f45e126e1144aaa5c206b2effc860f1d0b1",
+    "invocation": "python3 -I r2probe.py target/release/lex-mex <corpus.sqlite> <binding>"
+   },
+   "bench.py": {
+    "sha256": "35b14f809e7123d243139beffa1a533ac67b307335e9e25d1db0423cc5c2b665",
+    "invocation": "python3 -I bench.py target/release/lex-mex <corpus.sqlite> <binding> <out.json> (original D3 measurements; not rerun)"
+   }
+  },
+  "d4_inputs_read_only": {
+   "CLOUDFLARE-MIGRATION-PLAN.md": {
+    "sha256": "4733a11849f91450c9c3d7065cbd4f3d59bed83195f32c7f394987fe1efd88c9",
+    "git": "untracked at 384034d"
+   },
+   "HANDOFF.md": {
+    "sha256": "fe16121de5b32e0e98a28d7403ede39ae482f3ec29551f7ff03746f4e9b87ddb",
+    "git": "modified, uncommitted; changed by another session during this work"
+   }
+  }
+ },
+ "rereview_round1_repairs": {
+  "verdict_relayed_by_operator": "R2 fixed; R1 blocking: duplicate references pass binding; annex URL matching differs from producer; D4 status stale",
+  "duplicate_probe": "r1probe.py mode dup: exit 1, lritf: release repeats reference urn:lex-mx:federal:statute:lritf:article:102:reference:392-394:98:direct",
+  "span_probe": "exit 1, lritf: release and database reference edges differ",
+  "control_probe": "exit 0",
+  "accepted_rebind": "byte-identical to d2babd17…",
+  "r1probe_sha256": "2fae975271478874ef4a3fa12966e2bc0c5675a34a1153531db20f868ee6a7d9",
+  "url_semantics": "url::Url parse on both sides; Cargo.lock +1 dependency line (\"url\" under lex-db), no new package",
+  "d4_owner_inputs": {
+   "commit": "41243b077b29a0bb4b02ca543f8c084060d6bdd2",
+   "HANDOFF.md": "635fa81c08390e34290e7968546cdd87fe06dcedba961ba567aabe19b88d4c67",
+   "CLOUDFLARE-MIGRATION-PLAN.md": "83f51c4fa4ac23e3094ec165f818890345e0c8248e9f407b001041fd9bb8b572",
+   "status": "production live on Workers Free; observation pending; 48h gate due 2026-10-27T06:48:02Z (owner report, not verified here)"
+  },
+  "gate": {
+   "runner": "mech (Haiku)",
+   "fmt": 0,
+   "clippy": 0,
+   "public_tests": "13/13",
+   "cli_framing_tests": "2/2",
+   "workspace_tests": {
+    "passed": 445,
+    "failed": 0,
+    "ignored": 1
+   },
+   "validators": "both valid",
+   "real_artifact_public_release": "1/1",
+   "builder_commit_verifier": {
+    "exit": 0,
+    "head_commit": "af6de68a88287f48ce0cef5bf762c187eb505aa3",
+    "stale_input_paths": [
+     "schemas/public-instrument-v1.schema.json",
+     "schemas/public-release-v1.schema.json"
+    ],
+    "golden_queries": 21
+   },
+   "current_binary_goldens": 21,
+   "accepted_db_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2"
+  },
+  "file_sha256": {
+   "crates/lex-db/src/public.rs": "50736ef977828dbdae3f00b27e9eef1299f845fac9b778aa97b3bff56fbcce3b",
+   "crates/lex-db/src/public_tests.rs": "d7f6e91c974f7df8d8910b9da05799b3c4c75341aa9a285c6e752e4afb75b71d",
+   "crates/lex-db/tests/public_release.rs": "9b19881bc70c81a1cdd4467486788184cf7a83e24e4fe3d24f6fea5ff78f7779",
+   "crates/lex-cli/src/db.rs": "1347d9275419e34087ec25ec94b29a9f00dd5111748bfa5ce769ac1f83b0e462",
+   "crates/lex-db/Cargo.toml": "a5a778df4ecabe283dac6d7669e72c01d0b7bba0e47eae0feb94289ccf004d62",
+   "crates/lex-db/src/lib.rs": "8b34512ed74ab58d89cb58027818114d1e312b5ab008e412d7fe5df506f489d4",
+   "Cargo.lock": "6a0dc87b2f199b5e93df563699e1826f94eed30d7bb3c1cac4e4f0bcf016ef42",
+   "schemas/public-query-binding-v1.schema.json": "211e55b8a07aecade08b304ad17d66eb5d70959e0db8f70d95f68bff42342110",
+   "schemas/public-query-response-v1.schema.json": "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559",
+   "derived/public-query/c305db4a-afdc5acf.binding.json": "d2babd1767ef3ee6dd99d44b0cfb821a4708a4dcdc510151cbc3d59ce80c5d80"
+  }
+ }
+}

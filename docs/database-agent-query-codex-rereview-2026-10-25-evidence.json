@@ -1,0 +1,44 @@
+{
+  "schema_version": "codex-d3-rereview-verdict-v1",
+  "date": "2026-10-25",
+  "verdict": "accepted_local_adapter",
+  "head": "af6de68a88287f48ce0cef5bf762c187eb505aa3",
+  "reviewed_file_sha256": {
+    "crates/lex-db/src/public.rs": "50736ef977828dbdae3f00b27e9eef1299f845fac9b778aa97b3bff56fbcce3b",
+    "crates/lex-db/src/public_tests.rs": "d7f6e91c974f7df8d8910b9da05799b3c4c75341aa9a285c6e752e4afb75b71d",
+    "crates/lex-cli/src/db.rs": "1347d9275419e34087ec25ec94b29a9f00dd5111748bfa5ce769ac1f83b0e462",
+    "crates/lex-db/Cargo.toml": "a5a778df4ecabe283dac6d7669e72c01d0b7bba0e47eae0feb94289ccf004d62",
+    "Cargo.lock": "6a0dc87b2f199b5e93df563699e1826f94eed30d7bb3c1cac4e4f0bcf016ef42",
+    "crates/lex-db/tests/public_release.rs": "9b19881bc70c81a1cdd4467486788184cf7a83e24e4fe3d24f6fea5ff78f7779",
+    "schemas/public-query-binding-v1.schema.json": "211e55b8a07aecade08b304ad17d66eb5d70959e0db8f70d95f68bff42342110",
+    "schemas/public-query-response-v1.schema.json": "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559",
+    "derived/public-query/c305db4a-afdc5acf.binding.json": "d2babd1767ef3ee6dd99d44b0cfb821a4708a4dcdc510151cbc3d59ce80c5d80",
+    "docs/database-agent-query-acceptance-2026-10-25.md": "88b806a417fe5784598a71d1f4c208d8fa8ce8c3971941035c79863d162be0e1",
+    "docs/database-agent-query-acceptance-2026-10-25-evidence.json": "61586ac79bc04ec5aced0d9a772bbe03192cecf887c15aee7c42cb48a5fbd854",
+    "docs/database-agent-query-host-handoff-2026-10-25.md": "4f5295a7239ebea4a3f93298d6f9249e7d121f8787b5d1afd62b45489891ac8a",
+    "docs/plans/database-agent-query-integration.md": "4133b8be7eb6360332d00053d308dadce9b6542edc224a56cd858b47121f4811"
+  },
+  "all_bindings_match_before_plan_update": true,
+  "request_sha256": "90f45faca42252dc5ee9eaa632428fa5a62b594831d7f06caf6d3648d6258e8d",
+  "independent_tests": {
+    "db_public": 13,
+    "cli_framing": 2,
+    "real_artifact": 1,
+    "failed": 0
+  },
+  "probe_exit_codes": {
+    "unchanged_repack": 0,
+    "duplicate_reference": 1,
+    "changed_span": 1
+  },
+  "log_sha256": {
+    "/tmp/d3-rereview2-public.log": "b7f9cc38ddb3eb4a7187fceea48cc7466373730a383629c5d359274b2360f6ca",
+    "/tmp/d3-rereview2-cli.log": "e10be72463bcc3f69707abde2a6ecda479027ba147d66859bcfcf6886bca2b78",
+    "/tmp/d3-rereview2-release.log": "1dfdf558cff007eaaeef035f4b101c360d639480188095c28586e348b21d507a",
+    "/tmp/d3-rereview2-repack.log": "b011f43cd5f4e306886c762a3ad48d324c1470a101bbea30f9cc351cc570a549"
+  },
+  "d4": "runtime_decision_open; native adapter local; website owner records production live and observation pending",
+  "owner_commit": "41243b077b29a0bb4b02ca543f8c084060d6bdd2",
+  "full_workspace_rerun": false,
+  "commit_push_deployment_authorized": false
+}

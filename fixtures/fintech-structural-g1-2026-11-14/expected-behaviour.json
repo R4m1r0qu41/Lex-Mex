@@ -1,0 +1,5191 @@
+{
+ "baseline_commit": "c337dae1af9474d0aef246b3de196c49e2527722",
+ "cases": [
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g0-dev-01-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      529,
+      838
+     ],
+     "substring_sha256": "6d60479dff32c891bfef61ef76ebc9b5759b914e0948816f8b16ef8c1bb5a99b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      532,
+      838
+     ],
+     "substring_sha256": "6c825a6abce418a1d07b2669876020d6c92bbf20776ff1d315e1c0041b7c1e3f"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      529,
+      531
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+   "case_id": "g0-dev-02-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      241,
+      587
+     ],
+     "substring_sha256": "e3d03e4beaa30722fc3c06d5562cc0367b861516064fcd565171bfbce9d32e59"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      244,
+      263
+     ],
+     "substring_sha256": "6bc4895ae7a5c6ade68c491f07f8fde373838a4ac1da4b7969fc648d231b69a1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      241,
+      243
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+   "case_id": "g0-dev-02-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      265,
+      420
+     ],
+     "substring_sha256": "e6504a5f1872425aa484385f02362ec19273f318eba6e9f4524b50360ea909f0"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      268,
+      420
+     ],
+     "substring_sha256": "02a08fc4a6507f29a31e1d6a6f92f121ae07ad86f5fb49626f0180fa32b80dcb"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      265,
+      267
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "c17fb34f9d833f58a4c3f1c3bfc313fd0382c69b69bebd257990a9aea7878eb5",
+   "case_id": "g0-dev-03-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      584,
+      964
+     ],
+     "substring_sha256": "8d1c55e9177262e23843ae8ec04418add905ab263984b7519fa02ef59e20af86"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      588,
+      964
+     ],
+     "substring_sha256": "dd84ce70d3210fd26ee870ccd104d7c7513f00249c9965f14f1ddc34f861f450"
+    },
+    "label": {
+     "exact_quote": "IV.",
+     "outcome": "resolved",
+     "span": [
+      584,
+      587
+     ],
+     "substring_sha256": "042bf14ef0ebc2b8f29436c42ed32592d55e6c559e473dad955da5ef0c302db3"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:36",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
+   "case_id": "g0-dev-04-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      143,
+      179
+     ],
+     "substring_sha256": "63c99fc0f37f9358267285165cc58de90f9421e5e3ed21dff02896a04184db1c"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      146,
+      179
+     ],
+     "substring_sha256": "489f0c1deef13d7cd8bbccd92b88117f0429c4d5c487796b0596b5c613b0bf3c"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      143,
+      145
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:61",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "717f2a088debcd2ed85c01e014e07ffb53e8e4501f3df3dac7c5a078afe22630",
+   "case_id": "g0-dev-05-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      777,
+      902
+     ],
+     "substring_sha256": "0dba85ec8c6bcfaa54485515c404e09054dacf509e609f71368f261d2d1ec59e"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      781,
+      902
+     ],
+     "substring_sha256": "7b503f0623eed23c19487072de4915fdf73fba2bb9a2ce7972689bdfe7919f2e"
+    },
+    "label": {
+     "exact_quote": "VI.",
+     "outcome": "resolved",
+     "span": [
+      777,
+      780
+     ],
+     "substring_sha256": "36dcfd7ef46ff35907e3858c9d25342fa480f250291306cd053e626745258f1a"
+    }
+   },
+   "locator": {
+    "fraction": "VI"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:82",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3be1e4ad6d6f4e44720e3f47cab7f4235c49bef18da9aaa14084b6ef97956cc9",
+   "case_id": "g0-dev-06-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      629,
+      778
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.IV.1",
+        "root"
+       ],
+       "end_char": 1447,
+       "reason": "trailing_attachment",
+       "start_char": 780
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      633,
+      778
+     ],
+     "substring_sha256": "01ccf9fda51d6c25747f02be9b316f432ae34aa73864e782d4a8571155dddbf4"
+    },
+    "label": {
+     "exact_quote": "IV.",
+     "outcome": "resolved",
+     "span": [
+      629,
+      632
+     ],
+     "substring_sha256": "042bf14ef0ebc2b8f29436c42ed32592d55e6c559e473dad955da5ef0c302db3"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:89",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+   "case_id": "g0-dev-07-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      164,
+      795
+     ],
+     "substring_sha256": "65c41be5ecae0fcb54ada35fa557eb1fe946cf694a7af02271ca9483ff3c7d64"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      167,
+      795
+     ],
+     "substring_sha256": "7e0b05f359022b99b09969e78059193eefa59af3ff1ef49f03a34a3a6abf7fa0"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      164,
+      166
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+   "case_id": "g0-dev-07-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      1359,
+      1859
+     ],
+     "substring_sha256": "145b5522485ae8c2fb482c89055268c1fa45920ed31e2049d1166c80da4cc8a3"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      1362,
+      1739
+     ],
+     "substring_sha256": "2c92e4b01e9353e5b41f99e6bc7fdd597881d9add8fd8fe4cb17ef1c5351a136"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      1359,
+      1361
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "III",
+    "inciso": "b"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+   "case_id": "g0-dev-07-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      2276,
+      2297
+     ],
+     "substring_sha256": "ec66a89b84269f9cebd2be4910b251c98ced738633d6082f5cde91816b55e6fb"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      2279,
+      2297
+     ],
+     "substring_sha256": "4fc43284943276e83fc200bff38a0207ea7e36a296873628a50a812a1044f412"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      2276,
+      2278
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "IV",
+    "inciso": "b"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+   "case_id": "g0-dev-08-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+   "case_id": "g0-dev-09-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      342,
+      483
+     ],
+     "substring_sha256": "369edbc62a256600f8a60e98ce1a1f12e65efd9e17e6c561281625d4e2eeee9d"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      345,
+      483
+     ],
+     "substring_sha256": "75c4037ecf6f409e3a228d7d14247f813b1ecead9a969e9faab35dd0f1818957"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      342,
+      344
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+   "case_id": "g0-dev-10-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      79,
+      225
+     ],
+     "substring_sha256": "41a89b440ac29fba986314f413008ae61cc84967aa73f7ff091808904568e4d2"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      82,
+      120
+     ],
+     "substring_sha256": "dd69ea55e45a4b2f463932353b0c7dd35f779d583194dc65ab13c396589fa970"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      79,
+      81
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+   "case_id": "g0-dev-10-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      122,
+      136
+     ],
+     "substring_sha256": "f6985bce1ffaf58cc0ce4fa331dbf9d263f308f8bf2eb8b32cd24a7a02594a85"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      125,
+      136
+     ],
+     "substring_sha256": "dd8335d931cb79b3b5338c6423fda283b9132d4959c18e6c1ab3f6fdbbd0df14"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      122,
+      124
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+   "case_id": "g0-dev-10-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      3675,
+      4032
+     ],
+     "substring_sha256": "ab0a3a204a770e8e745eeae09630306cc68fe0eb867c69eb5c8b92b885bd0226"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3685,
+      4032
+     ],
+     "substring_sha256": "3424cc10c548aba0170e76e6033117b2aab90885ca1f1b960e2d79a3d662b61c"
+    },
+    "label": {
+     "exact_quote": "XXVI bis.",
+     "outcome": "resolved",
+     "span": [
+      3675,
+      3684
+     ],
+     "substring_sha256": "d320bf359fc6551f4e29724bce8906ff79bd52a3b672b7d9244688aa17bab2fa"
+    }
+   },
+   "locator": {
+    "fraction": "XXVI Bis"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g0-dev-11-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      273,
+      1011
+     ],
+     "substring_sha256": "b713de78d37d58cd8728483ff49f8651735ad057efcaabe4d49f83c7030e2f5b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      278,
+      388
+     ],
+     "substring_sha256": "87db6ee9bcd245d3d146eb9d4cb9886e99aea015c55bfcb7df379e162b922923"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      273,
+      277
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g0-dev-11-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      1841,
+      2496
+     ],
+     "substring_sha256": "e9ea6fca8bd205773d2ecde76e96384fedcba19524a3f7a0e68fb898cae9d570"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      1848,
+      2496
+     ],
+     "substring_sha256": "5792b4ca7c5a191d12e6500d4a533c5c35fb374ce4b666caf91e19cc547d6a7a"
+    },
+    "label": {
+     "exact_quote": "V Bis.",
+     "outcome": "resolved",
+     "span": [
+      1841,
+      1847
+     ],
+     "substring_sha256": "76cc2d6877c04529f8090b1807b083aa603a586e150fc2a5e77442afe1e29dc7"
+    }
+   },
+   "locator": {
+    "fraction": "V Bis"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g0-dev-11-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      629,
+      805
+     ],
+     "substring_sha256": "735671fd410b3192c77fe670020ac54f8733641db1c94e18b3360d6c1eba4ba7"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      632,
+      805
+     ],
+     "substring_sha256": "4c83eb3df8ad020df58cfefad21363f6cb356baba53ac6787fb967acccf70552"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      629,
+      631
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "III",
+    "inciso": "b"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "88b7a365dfaf710f030ba3139c144ad67dadad106fbc8b2b46ede056d9d24328",
+   "case_id": "g0-dev-12-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      677,
+      1002
+     ],
+     "substring_sha256": "eb9426a08e809ddc48b37ca2663b81c993fbfee22ec3ee4be9b6c41609cb9c30"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      681,
+      1002
+     ],
+     "substring_sha256": "579ae0ea75f664e07ce733df90043888c57329fbdb9a57398ab84f3974cbd7c5"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      677,
+      680
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:32",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
+   "case_id": "g0-dev-13-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      75,
+      187
+     ],
+     "substring_sha256": "3ee2395f621487b0a35660dd90a6801f1a329c0e0d95602f16648359c0220d2c"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      78,
+      187
+     ],
+     "substring_sha256": "472b6d393f5211b8717135985526ce28c0fd71c8484d17752b36dc29f8b669bf"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      75,
+      77
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:71",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "31b8dd9d8e6aeee9bd5e271a9748eed4546c7f93bc033555ee5bd0528be23072",
+   "case_id": "g0-dev-14-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      577,
+      703
+     ],
+     "substring_sha256": "16c8ae6ef9da804ee30c0d74ffceb0e7203b77bd320727d421147b3c8fc69e47"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      582,
+      703
+     ],
+     "substring_sha256": "16e84cb1e29af0ddb4b8b1ba7ea3765e8bd95da31608931db8249542f310f1b5"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      577,
+      581
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:128",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
+   "case_id": "g0-dev-15-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "f74ee76bd9127fa6c04d4276006fc7d74ea7a977cf9dac3511b809883f2138c7",
+   "case_id": "g0-dev-16-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unsupported_scope"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
+   "case_id": "g1-dev-tail-lic24-iv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      828,
+      908
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.IV.1",
+        "root"
+       ],
+       "end_char": 1443,
+       "reason": "trailing_attachment",
+       "start_char": 910
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      832,
+      908
+     ],
+     "substring_sha256": "77ac3c28230053d773d44eccd0f68ec89efad01141fa1a04aab633ffa2ed636a"
+    },
+    "label": {
+     "exact_quote": "IV.",
+     "outcome": "resolved",
+     "span": [
+      828,
+      831
+     ],
+     "substring_sha256": "042bf14ef0ebc2b8f29436c42ed32592d55e6c559e473dad955da5ef0c302db3"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:24",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
+   "case_id": "g1-dev-tail-lmv71-iii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      282,
+      406
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.III.1",
+        "root"
+       ],
+       "end_char": 782,
+       "reason": "trailing_attachment",
+       "start_char": 408
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      287,
+      406
+     ],
+     "substring_sha256": "ae8bdf8626f09f3ea62faedcc581b04afa522e1540bf30397a5613817a7739bf"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      282,
+      286
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:71",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+   "case_id": "g1-dev-tail-lic46-xxviii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      4306,
+      4555
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.XXVIII.1",
+        "root"
+       ],
+       "end_char": 5651,
+       "reason": "trailing_attachment",
+       "start_char": 4557
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      4314,
+      4555
+     ],
+     "substring_sha256": "ac71edc82ee3756ce3fdb9b94bc9add70398135fc7b9a7bfae1699fb6cf60b0e"
+    },
+    "label": {
+     "exact_quote": "XXVIII.",
+     "outcome": "resolved",
+     "span": [
+      4306,
+      4313
+     ],
+     "substring_sha256": "6dc06253ed589908c1086252373e1bc3bfec0e6ef3fa988cc536216d4a594160"
+    }
+   },
+   "locator": {
+    "fraction": "XXVIII"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-tail-lmv2-xxiv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      10893,
+      11451
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.XXIV.1",
+        "root"
+       ],
+       "end_char": 11583,
+       "reason": "trailing_attachment",
+       "start_char": 11453
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      10899,
+      11451
+     ],
+     "substring_sha256": "9f90796d12059388cf4f2b85bedd400f0a147403c5bab6e231f065a9c485699a"
+    },
+    "label": {
+     "exact_quote": "XXIV.",
+     "outcome": "resolved",
+     "span": [
+      10893,
+      10898
+     ],
+     "substring_sha256": "cae51e07e150f137cb113f4ff4ef1360c4350a910f086cedbc70667cce3fe20b"
+    }
+   },
+   "locator": {
+    "fraction": "XXIV"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
+   "case_id": "g1-dev-tail-lritf98-iv-h",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      2776,
+      2894
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.IV.1/i.h.1",
+        "f.IV.1",
+        "root"
+       ],
+       "end_char": 4043,
+       "reason": "trailing_attachment",
+       "start_char": 2896
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      2779,
+      2894
+     ],
+     "substring_sha256": "059784bc5a44ea91267fcdb477093be302680e5249020cf8e587288899ae478d"
+    },
+    "label": {
+     "exact_quote": "h)",
+     "outcome": "resolved",
+     "span": [
+      2776,
+      2778
+     ],
+     "substring_sha256": "d25d1ae57ae59bcdd400178c50304469bbabbafa9bc2adc44f53e255af0dd2d5"
+    }
+   },
+   "locator": {
+    "fraction": "IV",
+    "inciso": "h"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:98",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
+   "case_id": "g1-dev-between-lritf61-iii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      232,
+      1035
+     ],
+     "substring_sha256": "329a624aea5279fb87786cf2df34bc97bab2101179d3072132edbdede50604bd"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      237,
+      533
+     ],
+     "substring_sha256": "116ce75746e63d00282fb13b713ab22866f7751c3cb6c9c3bec497247559c018"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      232,
+      236
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:61",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
+   "case_id": "g1-dev-between-lic46-xv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      1463,
+      2105
+     ],
+     "substring_sha256": "4b457512bc5f07fb7300ba9424dad9c52e66039c0eabd4ff1cb3d19262f8a848"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      1467,
+      1615
+     ],
+     "substring_sha256": "86a27987bde700d5735d3923232a9454434d4151b410baedfb4dc8d310083215"
+    },
+    "label": {
+     "exact_quote": "XV.",
+     "outcome": "resolved",
+     "span": [
+      1463,
+      1466
+     ],
+     "substring_sha256": "2c3fa47c92bb3831f65e5d44715f0319950aa83bdeacb1eb92964edc1ffe7537"
+    }
+   },
+   "locator": {
+    "fraction": "XV"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:46",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-between-lmv2-xviii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      7395,
+      7974
+     ],
+     "substring_sha256": "af7efc6f128afd98cdcd4d34c234b46f976bcb0bf9f972c6ea0962deee0bddb9"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      7402,
+      7636
+     ],
+     "substring_sha256": "611edbdf24e54cbdd28c3acbd12f9a8625fd0a437063882e9abfc7c3ba590861"
+    },
+    "label": {
+     "exact_quote": "XVIII.",
+     "outcome": "resolved",
+     "span": [
+      7395,
+      7401
+     ],
+     "substring_sha256": "60499e9205fa41b541fdb113ab1241126c8f8567a7cd569741c179d0d62c1fac"
+    }
+   },
+   "locator": {
+    "fraction": "XVIII"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-sameline-lmv2-xix",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      7976,
+      9195
+     ],
+     "substring_sha256": "dff1ac18e317eabbaebd587a78cac1b564a3f62ea476864af089ed720f9d7681"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      7981,
+      8085
+     ],
+     "substring_sha256": "94edb3f655762116a67aa3a4bd22e8d97d5eab2f2659c20cfd8e7c88ac2b02a0"
+    },
+    "label": {
+     "exact_quote": "XIX.",
+     "outcome": "resolved",
+     "span": [
+      7976,
+      7980
+     ],
+     "substring_sha256": "d5a66e266b6de8cbe86a0d859dc0b92a158e4a7760baa131f056290d3b191dc7"
+    }
+   },
+   "locator": {
+    "fraction": "XIX"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-sameline-lmv2-xix-d",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8932,
+      9034
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.XIX.1/i.d.1",
+        "f.XIX.1"
+       ],
+       "end_char": 9195,
+       "reason": "same_line_marker",
+       "start_char": 9035
+      }
+     ]
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      8935,
+      9034
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.XIX.1/i.d.1",
+        "f.XIX.1"
+       ],
+       "end_char": 9195,
+       "reason": "same_line_marker",
+       "start_char": 9035
+      }
+     ]
+    },
+    "label": {
+     "exact_quote": "d)",
+     "outcome": "resolved",
+     "span": [
+      8932,
+      8934
+     ],
+     "substring_sha256": "013472d2507a03ace8761a24739f992a777d29989930fc7448c6796b51b5a21b"
+    }
+   },
+   "locator": {
+    "fraction": "XIX",
+    "inciso": "d"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-sameline-lmv2-xix-e",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "e)",
+       "label_span": [
+        9035,
+        9037
+       ],
+       "node_id": null,
+       "path": "f.XIX.1/(same-line e)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "e)",
+       "label_span": [
+        9035,
+        9037
+       ],
+       "node_id": null,
+       "path": "f.XIX.1/(same-line e)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "e)",
+       "label_span": [
+        9035,
+        9037
+       ],
+       "node_id": null,
+       "path": "f.XIX.1/(same-line e)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "XIX",
+    "inciso": "e"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-partial-lmv2-xix-f",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "XIX",
+    "inciso": "f"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+   "case_id": "g1-dev-notfound-lritf23-i-c",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "c"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-gap-lmv2-v-ter",
+   "decision": {
+    "also_applies": [],
+    "branch": "L6"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    }
+   },
+   "locator": {
+    "fraction": "V Ter"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
+   "case_id": "g1-dev-notfound-lmv2-xxiv-bis",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "fraction": "XXIV Bis"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+   "case_id": "g1-dev-incomplete-lritf23-a",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        265,
+        267
+       ],
+       "node_id": "path:f.I.1/i.a.1",
+       "path": "f.I.1/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        265,
+        267
+       ],
+       "node_id": "path:f.I.1/i.a.1",
+       "path": "f.I.1/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        265,
+        267
+       ],
+       "node_id": "path:f.I.1/i.a.1",
+       "path": "f.I.1/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
+   "case_id": "g1-dev-incomplete-lritf23-z",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    }
+   },
+   "locator": {
+    "inciso": "z"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:23",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-dev-root-lritf22",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      2120
+     ],
+     "substring_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      527
+     ],
+     "substring_sha256": "a8b4933cf3c2e087af4873f850edb319a988f8560a12e8f049f684685d39fd38"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+   "case_id": "g1-dev-root-lic11",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      600
+     ],
+     "substring_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      541
+     ],
+     "substring_sha256": "261dc67ff1e0d7ec4bd596eb0cb5dca5a6872a1ef35eb7fa12fec8435fa54335"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+   "source": "development"
+  },
+  {
+   "case_id": "g1-syn-01-dot-dash-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      30,
+      43
+     ],
+     "substring_sha256": "09dff013fe30eb323ea694cc49c71b81cfedaadb4a61cb255d9151e6d69ceff4"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      35,
+      43
+     ],
+     "substring_sha256": "28f337c91773e1a11f131863ba2577f027c1a2a2ee2316cfda759401137ef96b"
+    },
+    "label": {
+     "exact_quote": "II.-",
+     "outcome": "resolved",
+     "span": [
+      30,
+      34
+     ],
+     "substring_sha256": "52415add73151ef111d489de63ddef57c9601b15b826d72e6fb98aac431124e0"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-01-dot-dash",
+   "synthetic_text": "Texto inicial:\n\nI.- Primera.\n\nII.- Segunda.",
+   "synthetic_text_sha256": "a6953b200eb5e94388b1db7b76c63fa84536d2cdb319fb1f5a2f09e92c311207"
+  },
+  {
+   "case_id": "g1-syn-02-same-line-fraction-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      35,
+      45
+     ],
+     "substring_sha256": "2eeb3ea30fe9f68285c9a922b34435752275efe40bc7880d2c0174802895f2fa"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      40,
+      45
+     ],
+     "substring_sha256": "65166cd0b97b1add83261fc43ce322fd71b3960247b694ca91b9fabe455451b1"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      35,
+      39
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
+   "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
+  },
+  {
+   "case_id": "g1-syn-02-same-line-fraction-q2",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
+   "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
+  },
+  {
+   "case_id": "g1-syn-02-same-line-fraction-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
+   "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
+  },
+  {
+   "case_id": "g1-syn-03-quater-accent-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      22
+     ],
+     "substring_sha256": "8f6ad41add4672c988bf5b9f425f85ce8ac5cacabb1b0205ccb5170f36c030b2"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      18,
+      22
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "X Quater.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      17
+     ],
+     "substring_sha256": "2d121b000c04dd11bc49f32445b90372597e3da3b1cf84ded3b44cc8ea6dc044"
+    }
+   },
+   "locator": {
+    "fraction": "X Quáter"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-03-quater-accent",
+   "synthetic_text": "Texto:\n\nX Quater. Uno.\n\nXI. Dos.",
+   "synthetic_text_sha256": "2d9ac4f570eb1058ef5cbb76f30e8f23fe335af48a1e1db579289121d5213535"
+  },
+  {
+   "case_id": "g1-syn-04-unsupported-marker-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
+  },
+  {
+   "case_id": "g1-syn-04-unsupported-marker-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      15
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 32,
+       "reason": "unsupported_marker",
+       "start_char": 17
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
+  },
+  {
+   "case_id": "g1-syn-04-unsupported-marker-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      34,
+      44
+     ],
+     "substring_sha256": "2eeb3ea30fe9f68285c9a922b34435752275efe40bc7880d2c0174802895f2fa"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      39,
+      44
+     ],
+     "substring_sha256": "65166cd0b97b1add83261fc43ce322fd71b3960247b694ca91b9fabe455451b1"
+    },
+    "label": {
+     "exact_quote": "III.",
+     "outcome": "resolved",
+     "span": [
+      34,
+      38
+     ],
+     "substring_sha256": "f8c27f79b3c0d27534bf7d7fb53370d9cb62a85bdf46de1012aebc74804c0124"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
+  },
+  {
+   "case_id": "g1-syn-04-unsupported-marker-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
+   "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
+  },
+  {
+   "case_id": "g1-syn-05-gap-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L6"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "sequence_gap"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
+   "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
+  },
+  {
+   "case_id": "g1-syn-05-gap-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
+   "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
+  },
+  {
+   "case_id": "g1-syn-05-gap-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      15
+     ],
+     "substring_sha256": "706034fc0b2e0b08bdf6eacff2a0d80806c309160090f3ca883254d342f5e02a"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
+   "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
+  },
+  {
+   "case_id": "g1-syn-06-sequence-break-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L3"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        8,
+        10
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        27,
+        29
+       ],
+       "node_id": "path:f.I.2",
+       "path": "f.I.2"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        8,
+        10
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        27,
+        29
+       ],
+       "node_id": "path:f.I.2",
+       "path": "f.I.2"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        8,
+        10
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        27,
+        29
+       ],
+       "node_id": "path:f.I.2",
+       "path": "f.I.2"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
+   "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
+  },
+  {
+   "case_id": "g1-syn-06-sequence-break-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L3"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
+   "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
+  },
+  {
+   "case_id": "g1-syn-06-sequence-break-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
+   "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
+  },
+  {
+   "case_id": "g1-syn-07-closing-article-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      17,
+      25
+     ],
+     "substring_sha256": "b6d861120e9a415a22d160a4da075061bf4f96261a4024fcbf6e05e958e3a588"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      21,
+      25
+     ],
+     "substring_sha256": "1d8355504c7f7c979d20969618b7881451aaa95352021d2268770704f3dfe6cf"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      17,
+      20
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-07-closing-article-note",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nArtículo reformado DOF 01-01-2020",
+   "synthetic_text_sha256": "5d4b200775cf470f7a7532ac374f8524e166d5417ff5282bfee36c5a5fc7450b"
+  },
+  {
+   "case_id": "g1-syn-08-tail-incisos-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      15
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 56,
+       "reason": "trailing_attachment",
+       "start_char": 17
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
+   "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
+  },
+  {
+   "case_id": "g1-syn-08-tail-incisos-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L1"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
+   "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
+  },
+  {
+   "case_id": "g1-syn-08-tail-incisos-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "incomplete_path"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
+   "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
+  },
+  {
+   "case_id": "g1-syn-08-tail-incisos-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
+   "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
+  },
+  {
+   "case_id": "g1-syn-09-lone-l-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    }
+   },
+   "locator": {
+    "fraction": "L"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-09-lone-l",
+   "synthetic_text": "Texto:\n\nL. Algo.",
+   "synthetic_text_sha256": "f9d6d453a1373db94ce8071c9d36a438cfb7c9c8f44c4bf19131bba199037684"
+  },
+  {
+   "case_id": "g1-syn-09-lone-l-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-09-lone-l",
+   "synthetic_text": "Texto:\n\nL. Algo.",
+   "synthetic_text_sha256": "f9d6d453a1373db94ce8071c9d36a438cfb7c9c8f44c4bf19131bba199037684"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "IIII"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "CI"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "aa"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
+    }
+   },
+   "locator": {
+    "apartado": "A",
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q5",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
+    }
+   },
+   "locator": {},
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q6",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_mode"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": "I"
+    },
+    "mode": "body",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q7",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unsupported_request_form"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lritf:article:22#pilot-v1:0c9946bfcf55:f.I.1"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q8",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "iv"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q9",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "A"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q10",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "XV Bis 1"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q11",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": 5
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q12",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q13",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_provision"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": "I"
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:9999"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q14",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    }
+   },
+   "locator": {
+    "article_root": true,
+    "fraction": "I"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q15",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "label_mode_on_root"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q16",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "V  Bis"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q17",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": [],
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q18",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "article_root": false
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "case_id": "g1-syn-11-stale-q1",
+   "current_text": "Texto:\n\nI. Una.",
+   "decision": {
+    "also_applies": [],
+    "branch": "S"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
+    },
+    "intro": {
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
+    },
+    "label": {
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
+   "synthetic_text": "Texto:\n\nI. Uno.",
+   "synthetic_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      59
+     ],
+     "substring_sha256": "a1aba2919cc3e3803a96fc70da66e58596b13e2dedd6792223948c20ee8cbbb7"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "492feff762ea4cc600502bd3059fb7a2a4a0b932e4ba8146dafe92f8ceac9a1e"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      27,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 59,
+       "reason": "post_child_attachment",
+       "start_char": 37
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      30,
+      35
+     ],
+     "substring_sha256": "3c87364e773a3c4fbd38a706db3dc6bed9d298a0283371fde13d9828be5584c0"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      27,
+      29
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      61,
+      69
+     ],
+     "substring_sha256": "b6d861120e9a415a22d160a4da075061bf4f96261a4024fcbf6e05e958e3a588"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      65,
+      69
+     ],
+     "substring_sha256": "1d8355504c7f7c979d20969618b7881451aaa95352021d2268770704f3dfe6cf"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      61,
+      64
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-13-content-before-first-inciso-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      37
+     ],
+     "substring_sha256": "79929e2bb419faf3d223817de2319fe91005b9e74c9db73b3e5f705d1e0ef95d"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-13-content-before-first-inciso",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
+  },
+  {
+   "case_id": "g1-syn-13-content-before-first-inciso-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      29,
+      37
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      32,
+      37
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      29,
+      31
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-13-content-before-first-inciso",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      7
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 57,
+       "reason": "note_interruption",
+       "start_char": 44
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      7
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      59,
+      67
+     ],
+     "substring_sha256": "b6d861120e9a415a22d160a4da075061bf4f96261a4024fcbf6e05e958e3a588"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      63,
+      67
+     ],
+     "substring_sha256": "1d8355504c7f7c979d20969618b7881451aaa95352021d2268770704f3dfe6cf"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      59,
+      62
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      67
+     ],
+     "substring_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      0
+     ],
+     "substring_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q1",
+   "decision": {
+    "also_applies": [
+     "L3"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L3"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q1",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      39,
+      51
+     ],
+     "substring_sha256": "c3209363fa386a40bf65bf85250e68caab63fd2ee0bf47afbda8f9063af84e5c"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      43,
+      51
+     ],
+     "substring_sha256": "28f337c91773e1a11f131863ba2577f027c1a2a2ee2316cfda759401137ef96b"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      39,
+      42
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      51
+     ],
+     "substring_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      16
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "root"
+       ],
+       "end_char": 24,
+       "reason": "same_line_marker",
+       "start_char": 17
+      }
+     ]
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q1",
+   "decision": {
+    "also_applies": [
+     "L2",
+     "L4"
+    ],
+    "branch": "L1"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      15
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 55,
+       "reason": "trailing_attachment",
+       "start_char": 17
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      27,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 44,
+       "reason": "same_line_marker",
+       "start_char": 36
+      },
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 53,
+       "reason": "trailing_attachment",
+       "start_char": 46
+      }
+     ]
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      30,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 44,
+       "reason": "same_line_marker",
+       "start_char": 36
+      }
+     ]
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      27,
+      29
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      44
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 53,
+       "reason": "trailing_attachment",
+       "start_char": 46
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "492feff762ea4cc600502bd3059fb7a2a4a0b932e4ba8146dafe92f8ceac9a1e"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q3",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "d"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q5",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      17,
+      25
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      20,
+      25
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      17,
+      19
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      16
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      16
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      18,
+      26
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "i.b.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "trailing_attachment",
+       "start_char": 28
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      21,
+      26
+     ],
+     "substring_sha256": "3c87364e773a3c4fbd38a706db3dc6bed9d298a0283371fde13d9828be5584c0"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      18,
+      20
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      35
+     ],
+     "substring_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      6
+     ],
+     "substring_sha256": "daf67d8ad00df2d9cef0ea6efde15dd7ceb8ac54ae21d067dc184b16609db87b"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-20-inciso-before-first-fraction-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-20-inciso-before-first-fraction",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "185a2d53414757afb34295e8b24ea76743b1fa77129ec68dac24b9c332ce98d2"
+  },
+  {
+   "case_id": "g1-syn-21-inciso-after-interior-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-21-inciso-after-interior-note",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nArtículo reformado DOF 01-01-2020\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "61e577a2a3c01b93da8bb2cd475a3a79f4d6944815298a1caa6489d2613e34a3"
+  },
+  {
+   "case_id": "g1-syn-22-lone-newline-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-22-lone-newline",
+   "synthetic_text": "Texto:\nI. Uno.",
+   "synthetic_text_sha256": "4d112ac77aa45da8d3c3b04a4ab753c38a789ac029517c38db058a0903ba60a9"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      24
+     ],
+     "substring_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      6
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "root"
+       ],
+       "end_char": 15,
+       "reason": "same_line_marker",
+       "start_char": 7
+      }
+     ]
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      17,
+      24
+     ],
+     "substring_sha256": "706034fc0b2e0b08bdf6eacff2a0d80806c309160090f3ca883254d342f5e02a"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      20,
+      24
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      17,
+      19
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q3",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L1"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      7
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "trailing_attachment",
+       "start_char": 9
+      },
+      {
+       "candidate_owner_paths": [
+        "tail/i.a.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "same_line_marker",
+       "start_char": 27
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      7
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      8
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "i.a.1",
+        "root"
+       ],
+       "end_char": 52,
+       "reason": "trailing_attachment",
+       "start_char": 10
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      8
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      52
+     ],
+     "substring_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      0
+     ],
+     "substring_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+  }
+ ],
+ "contract": "pilot-v1 G1 draft 3, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
+ "conventions": {
+  "candidate_owner_paths": "paths relative to the provision root; node_id = <provision_id>#pilot-v1:<sha12>:<path>",
+  "certain_span null": "no certain part is claimed",
+  "decision": "branch: the stage or branch that decides the row (V invalid_locator, S stale_projection, N scope or layout, R root locator, L0-L7 the G1.7 path-walk table, for the last step). also_applies: other branches whose conditions also hold for that step and lose by order.",
+  "locator": "the request is {provision_id, locator, mode}; a row with \"request\" gives the raw request instead",
+  "modes": "label, intro, complete; complete is the default. The key \"request\" means the raw request given in the row, whatever its mode.",
+  "node_id path: prefix": "stands for the full node_id built from the path",
+  "span": "half-open Unicode scalar offsets [start, end) into the exact text",
+  "synthetic_provision_id": "provision ID used for a synthetic text in responses.json and projection-example.json"
+ },
+ "g0_snapshot": "fixtures/fintech-structural-g0-2026-11-14/canonical-snapshot.json",
+ "holdout": "No holdout provision or answer was read. Compatibility with the sealed answers is for an independent evaluator to check privately after the contract is frozen.",
+ "method": "Spans typed by hand from a paragraph table (start, end, text or opening characters) of each development provision and of each synthetic text. A script added substring hashes, quotes, node-ID prefixes and the JSON layout, and checked the hand-typed label quotes; no scanner, recognizer or probe produced any expectation."
+}

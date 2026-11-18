@@ -1,6 +1,6 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-10-16 for the bullets below; the 2026-11-17 section supersedes them where they differ
+- **Status date:** 2026-10-16 for the bullets below; the 2026-11-18 section supersedes them where they differ
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 - **Committed instruments:** 468 (`corpus/mx/*/instrument.json`): 467 pushed, plus `reg-pmimss`, admitted locally on 2026-10-18 by operator request as a test case; local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md)). `reg-pmimss` (Reglamento de Prestaciones Médicas del IMSS) comes from the Cámara other-regulations index and is outside that count
@@ -9,27 +9,89 @@
 - **Next checkpoint (2026-10-16, superseded; see the 2026-11-17 section):** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
-## 2026-11-17 current state (supersedes the header's next checkpoint)
+## 2026-11-18 current state (supersedes the 2026-11-17 current state and the header's next checkpoint)
 
-**Branches in flight, all local and unpushed unless noted:**
-- `pilot/fintech-structural`: pushed, PR #5 open, not merged. The pilot is adopted for local read-only use.
-- `status/in-force-scjn` (worktree `lex-mex-status-pass`): the corpus-wide in-force rule and SCJN invalidity statuses. JRH decisions 1–14 are recorded in [the decision record](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md); the plan is [corpus-in-force-status-pass](plans/corpus-in-force-status-pass.md).
-- `fix/codex-audit-2026-11-17` (worktree `lex-mex-integration`, from `origin/main` `47a3ffc59`): the bounded-commencement code ported onto `main` with the fixes for the Codex audit of 2026-11-17. It is the intended base for the in-force rule. A Codex re-review is pending (`docs/codex-audit-fixes-2026-11-17.md` on that branch).
-- `feat/public-reader-r7` (worktree `lex-mex-reader`): the D3 adapter with the audit fixes. Codex recommends keeping it as reference and as a possible native backend, not merging it wholesale.
-- `rule/bounded-commencement-2026-10-27`: superseded by the port branch and kept for history.
+**Integrated on 2026-11-18, on JRH's instruction, each by merge commit after CI passed:**
+- PR #5 `pilot/fintech-structural` → `main` `0c318da1d`: the fintech structural pilot, adopted for internal read-only use.
+- PR #6 `fix/codex-audit-2026-11-17` → `main` `f530d21cf`: the bounded commencement rule with the Codex audit fixes. Codex closed the audit in [codex-audit-fixes-codex-rereview2-2026-11-18.md](codex-audit-fixes-codex-rereview2-2026-11-18.md): integration approved at reviewed head `8a74811a8`, **production rollout not approved**. Census on the merged result unchanged: 468 = 332 resolved / 1 bounded / 126 skipped / 9 none; no `corpus/` change.
+- PR #7 `feat/public-reader-r7` → `main` `a8abdf828`: the D3 public query adapter and retrieval checker, with Codex F2 and F3 closed (`public-query-response-v2`, v1 frozen at SHA-256 `636536a8…`). The 2026-11-17 audit had recommended keeping this branch as reference and a possible native backend rather than merging it wholesale; JRH's 2026-11-18 instruction to integrate it supersedes that recommendation, and it is recorded here so the two are not read as consistent.
+- `status/in-force-scjn` (this file): merged by the pull request that carries it. Docs only. It carries JRH decisions 13–15.
+
+**Not reviewed by Codex yet:** the reader integration delta (the merge resolution and five commits: base-URL bare `?`/`#`, pre-hash navigation fixtures, the `assert_is_empty` clippy fix, `report.ok` assertions, main's example model text). Handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-reader-integration-delta-review.md` in Agent Vault.
+
+**Still in flight:**
+- `db/sqlite-projection` (worktree `lex-mex-db`, `cdbc8d31e`): parked October work, committed unreviewed.
+- `rule/bounded-commencement-2026-10-27`: superseded by PR #6, kept for history.
 
 **Next actions, in order:**
-1. Codex re-review of the audit fixes; the operator starts it.
-2. JRH legal point: whether LFPA art. 28 excludes 1 October from 2024. Until then, any business-day count reaching 2024 stays unresolved.
-3. Status pass: hand review of the 66 corpus SCJN rulings; the two-way diff against the printed notes; then the registry schema, Rust type and validator together.
-4. Merge PR #5 and the port branch, on JRH's instruction.
+1. Codex bounded delta review of the reader integration (handoff above); the operator starts it.
+2. Apply JRH decision 15 on its own branch: add 1 October 2024 and every sixth year after (2030, …) to the business-day calendar as a non-business day, source DOF 12-07-2024. This changes the commencement census (some unresolved 2024 business-day counts become resolved), so run the census before and after and queue a Codex review.
+3. JRH: which Codex model the `analyze-temporal` examples in `CLAUDE.md` and `README.md` should name. Main says `gpt-5.5`; the reader's October commit said `gpt-6.1-sol`; `AGENTS.md` names neither. The merge kept main's text.
+4. Status pass: hand review of the 66 corpus SCJN rulings; the two-way diff against the printed notes; then the registry schema, Rust type and validator together. Decisions 13 and 14 are recorded but not yet applied.
+5. The capsule-retirement handoff `2026-11-17-lex-mex-capsule-retirement.md` stays pending for Codex (it asks for Codex-owned changes).
+6. Older queue: 2o.-A targets; `cmpp` 164; VII.- anchors; MCP discovery and `release_id`; Vault export for the 11 relinked instruments; cluster-2 `lplan` (AD1) per `docs/plans/cluster-2-federal-corpus-ingestion.md`.
+7. Production rollout of the commencement rule and the public reader is **not approved**; it needs JRH and a Codex review of the rollout itself.
 
-**Plans index** (last change date per file). Only the plans marked here have a state verified on 2026-11-17; the rest still need a reading before they are called done or superseded.
+## 2026-11-17 Codex audit fixes (branch `fix/codex-audit-2026-11-17`, merged to `main` as PR #6, `f530d21cf`)
+
+Codex audited the unmerged commencement and reader branches. On JRH's instruction the fixes
+were rebuilt on current `main` (`47a3ffc59`, no upstream) without the old branch's corpus
+snapshots; the request is [codex-audit-fixes-2026-11-17.md](codex-audit-fixes-2026-11-17.md).
+- `0c8c69dc0`: whole-clause legacy commencement recognizers, word-bounded qualifiers, a
+  schema-validated holiday calendar, the 1 December holiday capped at 2018, a split-aware
+  save gate, one calendar shared by repair and derivation, and SQLite sidecars named by the
+  full filename.
+- F1 (the optional tail of the legacy date paths admitted conditions and second events):
+  `74a6242a9` removed the free abrogation and quoted-string wildcards; `8a74811a8` replaced
+  the capitalised-word grammar with closed tables of forms measured in the corpus (three
+  abrogation phrases, one year motto inside a dateline, twenty legislative signatories). A
+  form outside the tables goes to review. More than one `entrará en vigor` event in a single
+  transitory now abstains (`MultipleCommencementEventsInRecord`).
+- Checks at `8a74811a8`: 576 workspace tests pass; `lritf` and `ifpe-dcg-2021` validate with
+  0 issues; no `corpus/` change from `47a3ffc59`. A paired read-only census over the 468
+  instruments (empty calendar) is unchanged at 332 resolved, 1 bounded, 126 skipped, 9 none;
+  one skipped record, `reg-lfppi`, changes only its reason label.
+- The shipped calendar has no notice coverage, so no business-day clause resolves. The LFPA
+  art. 28 question (whether 1 October is excluded from 2024) is JRH's and is still open.
+- Open: Codex re-review of F1 (handoff `provider-handoffs/pending/codex/2026-11-17-lex-mex-codex-f1-tail-rereview.md`
+  in Agent Vault). The reader findings (F2, F3, R4) are on `feat/public-reader-r7` and have their own
+  handoff. Push and merge need JRH. The Codex verdicts
+  `codex-audit-fixes-codex-review-2026-11-17.md` and `codex-audit-fixes-codex-rereview-2026-11-17.md`
+  are in `docs/`, uncommitted.
+
+## 2026-11-17 Codex F2 and F3 on the reader branch (`feat/public-reader-r7`, merged to `main` as PR #7, `a8abdf828`)
+
+Codex's audit of the unmerged reader branch left two findings for this branch. They are closed
+in code and the F2 follow-up awaits Codex's re-review. No `corpus/` file changed.
+- **F3, response contract (`aeaf5dbc9`; closed by Codex's second re-review).** The `skip_cursor`
+  field changes the closed response shape, so the wire identifier is now
+  `public-query-response-v2` (`schemas/public-query-response-v2.schema.json`, `RESPONSE_VERSION`
+  in `lex_db::public`). The v1 schema is byte-identical to the accepted contract (SHA-256
+  `636536a8…`, pinned by the 2026-10-25 acceptance evidence). v2 permits `skip_cursor` only when
+  `code` is `response_too_large`, by an `if`/`then`. `PROJECTION_VERSION` (`public-query-v1`), the
+  database and the public-release bytes are unchanged. Decision recorded in `decisions.md`.
+- **F2, retrieval checker (`73881d529`, then `d2426a630`).** The LRITF index link is selected by
+  exact serialized URL, which excludes same-index navigation including a bare `?` or `#`. `safe()`
+  applies the same rule, so a followed link or redirect with a bare `?` or `#` now fails discovery.
+  The base-URL check has the same blind spot and was not changed.
+- Checks: 29 checker tests, 451 workspace tests (1 ignored) and `lex-db` clippy pass; `lritf` and
+  `ifpe-dcg-2021` validate with 0 issues. Full-workspace clippy still fails on two existing
+  `lex-cli` diagnostics (`main.rs:1905`, `db.rs:318`). The R4 deadline qualification is as Codex
+  accepted it.
+- Open: Codex re-review of F2 (handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-codex-reader-f2-rereview.md`
+  in Agent Vault; closeout note `codex-audit-f2-f3-closeout-2026-11-17.md`). The commencement tail (F1)
+  is on `fix/codex-audit-2026-11-17` in the integration worktree. Push and merge need JRH.
+- **Update 2026-11-18:** Codex closed F2 and F3 in `docs/codex-audit-fixes-codex-rereview2-2026-11-18.md`
+  (scoped fixes approved for integration, production rollout not approved). This branch was caught
+  up with `main` (which carries the audit-fix port, PR #6); the duplicate R5 `sqlite_sidecars` helper
+  was reduced to main's copy. The verdict's two nonblocking cleanups (bare `?`/`#` on the base URL; pre-hash navigation fixtures) and the clippy fix JRH added followed as separate commits that Codex has not reviewed (delta handoff in Agent Vault).
+
+**Plans index** (last change date per file). Only the plans marked here have a state verified on 2026-11-17 (the pilot row updated 2026-11-18); the rest still need a reading before they are called done or superseded.
 
 | Last change | Plan | State |
 |---|---|---|
 | 2026-11-16 | [corpus-in-force-status-pass.md](plans/corpus-in-force-status-pass.md) | **live**: the corpus-wide in-force rule and SCJN invalidity statuses (branch `status/in-force-scjn`) |
-| 2026-11-14 | [fintech-structural-pilot.md](plans/fintech-structural-pilot.md) | **adopted, frozen**: JRH adopted the pilot locally (read-only) on 2026-11-16; PR #5 open, not merged |
+| 2026-11-14 | [fintech-structural-pilot.md](plans/fintech-structural-pilot.md) | **adopted, frozen**: JRH adopted the pilot locally (read-only) on 2026-11-16; PR #5 merged to `main` 2026-11-18 (`0c318da1d`) |
 | 2026-11-13 | [four-goal-system-upgrade.md](plans/four-goal-system-upgrade.md) | **delivered**: merged through the 2026-11-12/13 upgrade reviews |
 | 2026-11-07 | [agent-first-delivery-and-change-tolerant-releases.md](plans/agent-first-delivery-and-change-tolerant-releases.md) | **live (delivery track)**: named by Codex on 2026-10-28 as the next runtime work |
 | 2026-11-03 | [parser-responsibility-split.md](plans/parser-responsibility-split.md) | not re-verified on 2026-11-17 |
@@ -66,7 +128,7 @@
 | 2026-07-31 | [cnbv-art115-lic-consolidation.md](plans/cnbv-art115-lic-consolidation.md) | not re-verified on 2026-11-17 |
 | 2026-07-25 | [external-cli-metadata-ingestion-automation.md](plans/external-cli-metadata-ingestion-automation.md) | not re-verified on 2026-11-17 |
 
-## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
+## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, merged to `main` as PR #5, `0c318da1d`)
 
 Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contract and its
 deviations from V2 are in [the pilot plan](plans/fintech-structural-pilot.md). Slice (a) puts one
@@ -78,8 +140,69 @@ No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7
 ([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
 neither gate is approved yet. Slice (b) moved the six glossary fracción rules in `terms.rs`
 onto the shared recognizer, one commit each. The output is unchanged: permanent parity tests
-pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Next: Codex
-review of slice (b), then the G0 sample submission.
+pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Codex accepted
+slice (b) ([review](fintech-pilot-slice-b-codex-review-2026-11-14.md)), then prepared the G0
+sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned provisions, 16 for
+development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
+check both found it acceptable. A Codex session that did not build the package approved G0
+with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
+"answer-sealed, publicly identified holdout".
+
+Codex reviewed G1 draft 1 and returned **revise**
+([review](fintech-pilot-g1-codex-review-2026-11-14.md)). It found five gaps (R1–R5) and a private
+conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It adds:
+- a strict lookup branch table and scan-status precedence;
+- rules for interior notes and span cuts;
+- a fully specified request and response, with an explicit root locator, and deferral of
+  `node_id` requests.
+
+`fixtures/fintech-structural-g1-2026-11-14/` now holds:
+- 123 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- full and must-fail responses;
+- a schema checker that runs offline;
+- the committed measurement probe.
+
+Codex then reviewed draft 2 and returned **revise**, limited to two rule interactions
+([review](fintech-pilot-g1-draft2-codex-review-2026-11-14.md)). R1, R2, R4 and R5 are closed.
+Draft 3 fixes both interactions:
+- a same-line fraction candidate is held by the root even inside a tail inciso;
+- the tail of an article with no fraction can begin with an interior note, and the last
+  inciso's certain span ends before it.
+
+It adds Codex's two texts as 7 rows and 4 full responses; every draft-2 row and response is
+unchanged.
+
+Codex **approved G1** at `a6d94025f` on 2026-11-15
+([review](fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). The approval does not authorize
+G2 or G3 work. The review's compatibility record binds the frozen contract section by digest
+and finds a sealed G0 answer still incompatible with it, without naming the case. G0 v1 stays
+unchanged; before G3, an independent evaluator versions any private gold or evaluation
+disposition. Codex, as evaluator, made the encrypted holdout backup and passed a restore and hash
+check on 2026-11-16 ([receipt](fintech-pilot-holdout-custody-2026-11-16.md)). JRH authorized G2
+the same day, in a leaner form: code and tests first, then one Codex review at the end.
+G2 is built in `1075a6ce7`: a read-only projection and lookup in `lex-core`, which passes every
+G1 fixture row and full response, with no parser or corpus change. Codex returned **revise**:
+some marker forms the contract lists were missed. `991b5dc85` fixes them. Codex accepted it on re-review
+([review](fintech-pilot-g2-rereview-codex-2026-11-16.md)), so it is the frozen pilot-v1 code.
+Codex then privately versioned/reviewed the gold and ran G3 once: **39/42** prelocked
+matches, 33 correct resolved results and 9 abstentions, with zero wrong exact results.
+Post-run QA identifies a prelocked expectation error behind the three unexpected
+abstentions; the score remains unchanged. Recommendation: **iterate evaluation**
+with a fresh independently reviewed set, keeping code frozen. No second run or
+retrospective score repair. See [G3 results](fintech-pilot-g3-holdout-results-2026-11-16.md).
+The single-letter `A)` apartado form is deferred to pilot-v2.
+JRH decided on 2026-11-16 to **adopt the pilot locally**, as an internal read-only lookup with no
+public or MCP use. Codex completed the short [not-found evaluation](fintech-pilot-not-found-eval-2026-11-16.md)
+once on 24 fresh requests: 16/16 correct absences, zero false absences, 4/4 exact
+positive controls and 4/4 correct abstentions. The strict 22/24 score retains two
+prelocked expected-owner-path representation errors; independent QA found the
+captured output contract-correct. No implementation or original G3-score change.
+The requested absence supplement is complete; the adopted local scope continues.
+
+JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
+in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No
+status has changed yet. The status pass must not run on the pilot branch before G3, because the
+G0 sample pins the `lritf`, `lic` and `lmv` provision files.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

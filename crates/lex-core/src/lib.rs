@@ -3,6 +3,7 @@ use serde::{Deserialize, Serialize};
 use url::Url;
 
 pub mod public_query;
+pub mod structure_pilot;
 mod temporal;
 
 pub use temporal::{

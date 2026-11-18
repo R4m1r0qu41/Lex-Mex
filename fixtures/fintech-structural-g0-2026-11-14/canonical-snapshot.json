@@ -1,0 +1,646 @@
+{
+  "baseline_commit": "c337dae1af9474d0aef246b3de196c49e2527722",
+  "provisions": [
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "title": "Título II"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:22",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 22",
+        "number": "22",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Los servicios realizados con el público de manera habitual y profesional, consistentes en la emisión, administración, redención y transmisión de fondos de pago electrónico, por medio de los actos que a continuación se señalan, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán prestarse por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de fondos de pago electrónico:\n\nI. Abrir y llevar una o más cuentas de fondos de pago electrónico por cada Cliente, en las que se realicen registros de abonos equivalentes a la cantidad de fondos de pago electrónico emitidos contra la recepción de una cantidad de dinero, en moneda nacional o extranjera, o de activos virtuales determinados;\n\nII. Realizar transferencias de fondos de pago electrónico entre sus Clientes mediante los respectivos abonos y cargos en las correspondientes cuentas a que se refiere la fracción I de este artículo;\n\nIII. Realizar transferencias de determinadas cantidades de dinero en moneda nacional o, sujeto a la previa autorización del Banco de México, en moneda extranjera o de activos virtuales, mediante los respectivos abonos y cargos en las correspondientes cuentas a que se refiere la fracción I de este artículo, entre sus Clientes y aquellos de otra institución de fondos de pago electrónico, así como cuentahabientes o usuarios de otras Entidades Financieras o de entidades extranjeras facultadas para realizar Operaciones similares a las que se refiere este artículo;\n\nIV. Entregar una cantidad de dinero o activos virtuales equivalente a la misma cantidad de fondos de pago electrónico en una cuenta de fondos de pago electrónico, mediante el respectivo cargo en dicha cuenta, y\n\nV. Mantener actualizado el registro de cuentas a que se refiere la fracción I de este artículo, así como modificarlo en relación con el ingreso, transferencia y retiro de fondos de pago electrónico, de acuerdo con lo señalado en las fracciones I, II, III y IV del presente artículo, según corresponda.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-01",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "title": "Título II"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:23",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 23",
+        "number": "23",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Para efectos de esta Ley, se considerarán fondos de pago electrónico a aquellos fondos que estén contabilizados en un registro electrónico de cuentas transaccionales que, al efecto lleve una institución de fondos de pago electrónico y que:\n\nI. Queden referidos a:\n\na) Un valor monetario equivalente a una cantidad determinada de dinero, en moneda nacional o, previa autorización del Banco de México, moneda extranjera, o\n\nb) Un número determinado de unidades de un activo virtual determinado por el Banco de México, conforme a lo establecido en el Capítulo III del Título II de esta Ley;\n\nII. Correspondan a una obligación de pago a cargo de su emisor, por la misma cantidad de dinero o de unidades de activos virtuales a que se refiere la fracción I de este artículo;\n\nIII. Sean emitidos contra la recepción de la cantidad de dinero o de activos virtuales a que se refiere la fracción I de este artículo, con el propósito de abonar, transferir o retirar dichos fondos, total o parcialmente, mediante la instrucción que, para esos efectos, dé el respectivo tenedor de los fondos de pago electrónico, y\n\nIV. Sean aceptados por un tercero como recepción de la cantidad de dinero o de activos virtuales respectiva.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-02",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título III"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:36",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 36",
+        "number": "36",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Los interesados en obtener la autorización para actuar como ITF deberán ser sociedades anónimas constituidas o que pretendan constituirse como tales de conformidad con la legislación mexicana y que en sus estatutos sociales:\n\nI. Contemplen en su objeto social la realización, de forma habitual o profesional, de alguna de las actividades previstas en esta Ley;\n\nII. Prevean expresamente que, en la realización de su objeto social deberán ajustarse a lo previsto en la presente Ley y en las disposiciones generales aplicables;\n\nIII. Establezcan su domicilio en territorio nacional, y\n\nIV. Fijen un capital mínimo necesario para llevar a cabo sus actividades de acuerdo con lo previsto en las disposiciones de carácter general que para tal efecto emita la CNBV, el cual podrá estar diferenciado en función del tipo de actividades que realicen y riesgos que enfrenten. Previo a la emisión de dichas disposiciones se requiere del acuerdo del Comité Interinstitucional.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-03",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "title": "Título III"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:61",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 61",
+        "number": "61",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Por consejero independiente deberá entenderse a la persona que sea ajena a la administración de una ITF, sin que en ningún caso puedan serlo:\n\nI. Empleados o directivos de la ITF;\n\nII. Personas que tengan Poder de Mando en la ITF;\n\nIII. Clientes, proveedores, prestadores de servicios, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, prestador de servicios, deudor o acreedor importante de la ITF o de las empresas que pertenezcan al mismo Grupo Empresarial del cual esta forme parte.\n\nSe considera que un cliente, proveedor o prestador de servicios es importante cuando los servicios que le preste a la institución o las ventas que aquel le haga a esta representen más del diez por ciento de los servicios o ventas totales del cliente, del proveedor o del prestador de servicios, respectivamente. Asimismo, se considera que un deudor o acreedor es importante cuando el importe de la operación respectiva sea mayor al quince por ciento de los activos de la sociedad o de su contraparte;\n\nIV. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la ITF.\n\nSe consideran donativos importantes aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;\n\nV. Directores generales o empleados de las empresas que pertenezcan al grupo financiero al que pertenezca la propia ITF;\n\nVI. Cónyuges, concubinas o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado, de alguna de las personas mencionadas en las fracciones III a V de este artículo, o bien, hasta el tercer grado de alguna de las señaladas en las fracciones I, II, VII y VIII de este artículo;\n\nVII. Directores o empleados de empresas en las que los accionistas de la ITF ejerzan el Control;\n\nVIII. Quienes tengan conflictos de interés o se puedan ver influenciados por intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el Control de la ITF o del Consorcio o Grupo Empresarial al que pertenezca la institución, o el Poder de Mando en cualquiera de estos, y\n\nIX. Quienes hayan estado comprendidos en alguno de los supuestos a que se refieren las fracciones anteriores, durante el año anterior al momento en que se pretenda hacer su designación.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-04",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título IV"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:82",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 82",
+        "number": "82",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Para el otorgamiento de la autorización temporal a que se refiere el artículo 80 de esta Ley, las Autoridades Financieras evaluarán, entre otros aspectos, el cumplimiento de los criterios y condiciones siguientes:\n\nI. Que la propuesta sea un Modelo Novedoso;\n\nII. El producto a ofrecerse o el servicio a prestarse al público debe requerir probarse en un medio controlado, en términos de este Capítulo;\n\nIII. La forma en que se pretenda desarrollar la actividad reservada debe representar un beneficio al Cliente del producto o servicio de que se trate con respecto a lo existente en el mercado;\n\nIV. El proyecto se debe encontrar en una etapa en la que el inicio de operaciones pueda ser inmediato;\n\nV. El proyecto debe poder ser probado con un número limitado de Clientes, y\n\nVI. Los demás que, en su caso, determinen las Autoridades Financieras competentes mediante disposiciones de carácter general.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-05",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo IV",
+          "title": "Título IV"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:89",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 89",
+        "number": "89",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las sociedades autorizadas para operar con Modelos Novedosos, las ITF, las Entidades Financieras y demás personas sujetas a la supervisión de las Autoridades Financieras que obtengan la autorización temporal a que se refiere este Título deberán elaborar y entregar a las Autoridades Financieras un reporte en la periodicidad que esta determine, durante la vigencia de la autorización, el cual contendrá lo siguiente:\n\nI. El número de operaciones realizadas durante el periodo reportado;\n\nII. El número de Clientes o usuarios con los que cuentan a la fecha del reporte;\n\nIII. Las situaciones de riesgo que se hayan presentado, y\n\nIV. La demás información que las Autoridades Financieras requieran para tal efecto conforme a las disposiciones de carácter general que éstas emitan.\n\nAdemás, las sociedades autorizadas para operar con Modelos Novedosos, ITF, Entidades Financieras y demás personas sujetas a la supervisión de las Autoridades Financieras que obtengan la autorización temporal a que se refiere este Título, deberán entregar a dichas Autoridades Financieras un reporte final a más tardar treinta días posteriores al término de la vigencia de la autorización temporal, en el que se describan las cifras totales respecto de la información prevista en las fracciones anteriores, así como cualquier otra que las Autoridades Financieras determinen en la autorización temporal o en disposiciones de carácter general que para tal efecto emitan.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-06",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título VI"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:98",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 98",
+        "number": "98",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las Comisiones Supervisoras o el Banco de México, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:\n\nI. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Supervisoras o el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen; Fracción reformada DOF 24-01-2024\n\nII. En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido o bien, habiéndolo ejercido no logre desvirtuar las imputaciones que se señalan en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente;\n\nIII. Para la imposición de las sanciones se tomará en cuenta, en su caso, lo siguiente:\n\na) El impacto a terceros o al sistema financiero que haya producido o pueda producir la infracción;\n\nb) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, además de aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.\n\nLa reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;\n\nc) La cuantía de la operación;\n\nd) La condición económica del infractor, a efecto de que la sanción no sea excesiva, y\n\ne) La naturaleza de la infracción cometida;\n\nIV. Tratándose de conductas calificadas por esta Ley como graves, además de lo establecido en la fracción III de este artículo, podrá tomar en cuenta cualquiera de los aspectos siguientes:\n\na) El monto del quebranto o perjuicio patrimonial causado;\n\nb) El lucro obtenido;\n\nc) La falta de honorabilidad, por parte del infractor, conforme a lo dispuesto en esta Ley y las disposiciones de carácter general que de ella emanen;\n\nd) La negligencia inexcusable o dolo con que se hubiere actuado;\n\ne) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito;\n\nf) El plazo que dure el incumplimiento;\n\ng) Los riesgos por la celebración de las Operaciones que hayan dado lugar a la sanción correspondiente, y\n\nh) Las demás circunstancias que las Comisiones Supervisoras o el Banco de México estime aplicables para tales efectos.\n\nConcluido el plazo a que se refiere la fracción I de este artículo y en su caso el de su ampliación, las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Párrafo adicionado DOF 24-01-2024\n\nUna vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda de las señaladas en el párrafo anterior notificará al mismo la apertura del periodo de cinco días hábiles para formular alegatos. La Autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos que así lo determine. Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y las Comisiones Supervisoras o el Banco de México, según corresponda, contarán con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, imponiendo, en su caso, las sanciones que conforme a derecho procedan. Párrafo adicionado DOF 24-01-2024 Reforma DOF 24-01-2024: Derogó del artículo el entonces párrafo segundo",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-07",
+      "slug": "lritf",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "section": "Sección PRIMERA",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:11",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 11",
+        "number": "11",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "El capital social de las instituciones de banca múltiple estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional.\n\nEl capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie \"O\". Párrafo reformado DOF 19-01-1999\n\nEn su caso, el capital social adicional estará representado por acciones serie \"L\", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Comisión Nacional de Valores.\n\nArtículo reformado DOF 09-06-1992, 23-12-1993, 15-02-1995",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-08",
+      "slug": "lic",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "section": "Sección PRIMERA",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:24",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 24",
+        "number": "24",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Los nombramientos del director general de las instituciones de banca múltiple y de los funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la de éste; deberán recaer en personas que cuenten con elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos siguientes: Párrafo reformado DOF 04-06-2001\n\nI. Ser residente en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación; Fracción reformada DOF 04-06-2001\n\nII. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;\n\nIII. No tener alguno de los impedimentos que para ser consejero señalan las fracciones III a VIII del artículo anterior, y Fracción reformada DOF 04-06-2001\n\nIV. No estar realizando funciones de regulación de las instituciones de crédito.\n\nLos comisarios de las instituciones deberán contar con calidad técnica, honorabilidad e historial crediticio satisfactorio en términos de las disposiciones a que se refiere la fracción II del artículo 10 de esta Ley, así como con amplios conocimientos y experiencia en materia financiera, contable, legal o administrativa y, además, deberán cumplir con el requisito establecido en la fracción I del presente artículo. Párrafo reformado DOF 04-06-2001, 01-02-2008 Reforma DOF 04-06-2001: Derogó del artículo el entonces último párrafo",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-09",
+      "slug": "lic",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título TERCERO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:46",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 46",
+        "number": "46",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las instituciones de crédito sólo podrán realizar las operaciones siguientes:\n\nI. Recibir depósitos bancarios de dinero:\n\na) A la vista;\n\nb) Retirables en días preestablecidos;\n\nc) De ahorro, y\n\nd) A plazo o con previo aviso;\n\nII. Aceptar préstamos y créditos;\n\nIII. Emitir bonos bancarios;\n\nIV. Emitir obligaciones subordinadas;\n\nV. Constituir depósitos en instituciones de crédito y entidades financieras del exterior;\n\nVI. Efectuar descuentos y otorgar préstamos o créditos;\n\nVII. Expedir tarjetas de crédito con base en contratos de apertura de crédito en cuenta corriente;\n\nVIII. Asumir obligaciones por cuenta de terceros, con base en créditos concedidos, a través del otorgamiento de aceptaciones, endoso o aval de títulos de crédito, así como de la expedición de cartas de crédito;\n\nIX. Operar con valores en los términos de las disposiciones de la presente Ley y de la Ley Mercado de Valores;\n\nX. Promover la organización y transformación de toda clase de empresas o sociedades mercantiles y suscribir y conservar acciones o partes de interés en las mismas, en los términos de esta Ley;\n\nXI. Operar con documentos mercantiles por cuenta propia;\n\nXII. Llevar a cabo por cuenta propia o de terceros operaciones con oro, plata y divisas, incluyendo reportos sobre estas últimas;\n\nXIII. Prestar servicio de cajas de seguridad;\n\nXIV. Expedir cartas de crédito previa recepción de su importe, hacer efectivos créditos y realizar pagos por cuenta de clientes;\n\nXV. Practicar las operaciones de fideicomiso a que se refiere la Ley General de Títulos y Operaciones de Crédito, y llevar a cabo mandatos y comisiones;\n\nLas instituciones de crédito podrán celebrar operaciones consigo mismas en el cumplimiento de fideicomisos, mandatos o comisiones, cuando el Banco de México lo autorice mediante disposiciones de carácter general, en las que se establezcan requisitos, términos y condiciones que promuevan que las operaciones de referencia se realicen en congruencia con las condiciones de mercado al tiempo de su celebración, así como que se eviten conflictos de interés; Párrafo adicionado DOF 01-02-2008\n\nXVI. Recibir depósitos en administración o custodia, o en garantía por cuenta de terceros, de títulos o valores y en general de documentos mercantiles;\n\nXVII. Actuar como representante común de los tenedores de títulos de crédito;\n\nXVIII. Hacer servicio de caja y tesorería relativo a títulos de crédito, por cuenta de las emisoras;\n\nXIX. Llevar la contabilidad y los libros de actas y de registro de sociedades y empresas;\n\nXX. Desempeñar el cargo de albacea;\n\nXXI. Desempeñar la sindicatura o encargarse de la liquidación judicial o extrajudicial de negociaciones, establecimientos, concursos o herencias;\n\nXXII. Encargarse de hacer avalúos que tendrán la misma fuerza probatoria que las leyes asignan a los hechos por corredor público o perito;\n\nXXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y\n\nXXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos. Fracción adicionada DOF 23-07-1993 Reforma DOF 04-06-2001: Derogó de esta fracción el entonces párrafo segundo\n\nXXV. Realizar operaciones derivadas, sujetándose a las disposiciones técnicas y operativas que expida el Banco de México, en las cuales se establezcan las características de dichas operaciones, tales como tipos, plazos, contrapartes, subyacentes, garantías y formas de liquidación; Fracción reformada DOF 23-07-1993 (se recorre), 04-06-2001, 01-02-2008\n\nXXVI. Efectuar operaciones de factoraje financiero; Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008\n\nXXVI bis. Emitir y poner en circulación cualquier medio de pago que determine el Banco de México, sujetándose a las disposiciones técnicas y operativas que éste expida, en las cuales se establezcan entre otras características, las relativas a su uso, monto y vigencia, a fin de propiciar el uso de diversos medios de pago; Fracción adicionada DOF 01-02-2008\n\nXXVII. Intervenir en la contratación de seguros para lo cual deberán cumplir con lo establecido en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y en las disposiciones de carácter general que de la misma emanen, y Fracción adicionada DOF 01-02-2008\n\nXXVIII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores. Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008 (se recorre)\n\nLas instituciones de banca múltiple únicamente podrán realizar aquellas operaciones previstas en las fracciones anteriores que estén expresamente contempladas en sus estatutos sociales, previa aprobación de la Comisión Nacional Bancaria y de Valores en términos de lo dispuesto por los artículos 9o. y 46 Bis de la presente Ley. Párrafo adicionado DOF 04-06-2001. Reformado DOF 18-07-2006, 01-02-2008\n\nLa Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México, dentro de la regulación que deban emitir en el ámbito de su competencia, deberán considerar las operaciones que las instituciones de banca múltiple estén autorizadas a realizar conforme a lo previsto en los artículos 8o., 10 y 46 Bis de esta Ley, y diferenciar, cuando lo estimen procedente, dicha regulación en aspectos tales como la infraestructura con que deberán contar y la información que deberán proporcionar, entre otros. Asimismo, se podrán considerar los modelos de negocios o características de sus operaciones. Párrafo adicionado DOF 01-02-2008. Reformado DOF 10-01-2014",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-10",
+      "slug": "lic",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": null,
+          "title": "Título I"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:2",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 2",
+        "number": "2",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Para efectos de esta Ley se entenderá por:\n\nI. Comisión, la Comisión Nacional Bancaria y de Valores.\n\nII. Consorcio, el conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un grupo de personas, tengan el control de las primeras.\n\nIII. Control, la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:\n\na) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.\n\nb) Mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral.\n\nc) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.\n\nIV. Directivos relevantes, el director general de una sociedad sujeta a esta Ley, así como las personas físicas que ocupando un empleo, cargo o comisión en ésta o en las personas morales que controle dicha sociedad o que la controlen, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia sociedad o del grupo empresarial al que ésta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de dicha sociedad sujeta a esta Ley.\n\nV. Emisora, la persona moral que solicite y, en su caso, obtenga y mantenga la inscripción de sus valores en el Registro. Asimismo, quedarán comprendidas las instituciones fiduciarias cuando actúen con el referido carácter, únicamente respecto del patrimonio fideicomitido que corresponda.\n\nV Bis. Emisora simplificada, la persona moral distinta de aquella que tienen el carácter de emisoras en términos de la fracción anterior del presente artículo, que solicite y, en su caso, mantenga la inscripción simplificada de sus valores en el Registro, de conformidad con las disposiciones de carácter general que al efecto emita la Comisión. Asimismo, quedarán comprendidas aquellas instituciones fiduciarias cuando actúen con el referido carácter, siempre que el patrimonio fideicomitido no haya sido transferido directa o indirectamente por quien tenga el carácter de emisora en términos de la fracción V anterior. Fracción adicionada DOF 28-12-2023\n\nVI. Entidades financieras, las sociedades controladoras de grupos financieros, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de crédito, sociedades de inversión, sociedades operadoras de sociedades de inversión, administradoras de fondos para el retiro y demás personas morales consideradas como entidades financieras por las leyes que regulan el sistema financiero mexicano.\n\nVII. Eventos relevantes, a los actos, hechos o acontecimientos, de cualquier naturaleza que influyan o puedan influir en los precios de los valores inscritos en el Registro. La Comisión Nacional Bancaria y de Valores deberá establecer en Disposiciones Generales, de forma enunciativa mas no limitativa, aquellos actos, hechos o acontecimientos que se consideraran eventos relevantes, así como los criterios a seguir por parte de las emisoras para determinar cuando un evento reviste tal carácter.\n\nVIII. Filial, la sociedad anónima autorizada para organizarse y operar conforme a esta Ley con el carácter de casa de bolsa, en cuyo capital participe mayoritariamente una institución financiera del exterior o una sociedad controladora filial.\n\nIX. Grupo de personas, las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas:\n\na) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario.\n\nb) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.\n\nX. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras.\n\nXI. Influencia significativa, la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de cuando menos el veinte por ciento del capital social de una persona moral.\n\nXII. Información relevante, toda información de una emisora necesaria para conocer su situación real y actual en materia financiera, administrativa, operacional, económica y jurídica, y sus riesgos, así como, en su caso, la información del grupo empresarial al que pertenezca, independientemente de su posición en el grupo, siempre que influya o afecte dicha situación, y que sea necesaria para la toma de decisiones razonadas de inversión y estimación del precio de los valores emitidos por la propia emisora, conforme a usos y prácticas de análisis del mercado de valores mexicano.\n\nXII Bis. Inscripción simplificada, aquella inscripción de valores en el Registro otorgada por la Comisión a una emisora simplificada en términos de los artículos 70 Bis y 90 Bis de esta Ley, así como de las disposiciones que al efecto emita la Comisión. Fracción adicionada DOF 28-12-2023\n\nXIII. Institución financiera del exterior, la entidad financiera constituida en un país con el que los Estados Unidos Mexicanos haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de filiales.\n\nXIV. Instrumentos financieros derivados, los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes.\n\nXV. Intermediación con valores, la realización habitual y profesional de cualquiera de las actividades que a continuación se indican:\n\na) Actos para poner en contacto oferta y demanda de valores.\n\nb) Celebración de operaciones con valores por cuenta de terceros como comisionista, mandatario o con cualquier otro carácter, interviniendo en los actos jurídicos que correspondan en nombre propio o en representación de terceros.\n\nc) Negociación de valores por cuenta propia con el público en general o con otros intermediarios que actúen de la misma forma o por cuenta de terceros.\n\nXVI. Inversionista calificado, la persona que habitualmente cuente con los ingresos, activos o las características cualitativas que la Comisión establezca mediante disposiciones de carácter general. En las referidas disposiciones la Comisión podrá establecer diferentes tipos de inversionista calificado. Fracción reformada DOF 10-01-2014\n\nXVII. Inversionista institucional, la persona que conforme a las leyes federales tenga dicho carácter o sea entidad financiera, incluyendo cuando actúen como fiduciarias al amparo de fideicomisos que conforme a las leyes se consideren como inversionistas institucionales.\n\nXVIII. Oferta pública, el ofrecimiento, con o sin precio, que se haga en territorio nacional a través de medios masivos de comunicación y a persona indeterminada, para suscribir, adquirir, enajenar o transmitir valores, por cualquier título.\n\nTambién se considerará oferta pública al ofrecimiento que se realice en términos del párrafo anterior, dirigido a ciertas clases de inversionistas, de conformidad con las disposiciones contenidas en la presente Ley y en las de carácter general que al efecto emita la Comisión. Párrafo adicionado DOF 10-01-2014. Reformado DOF 28-12-2023\n\nXIX. Personas relacionadas, las que respecto de una emisora se ubiquen en alguno de los supuestos siguientes:\n\na) Las personas que controlen o tengan influencia significativa en una persona moral que forme parte del grupo empresarial o consorcio al que la emisora pertenezca, así como los consejeros o administradores y los directivos relevantes de las integrantes de dicho grupo o consorcio.\n\nb) Las personas que tengan poder de mando en una persona moral que forme parte de un grupo empresarial o consorcio al que pertenezca la emisora.\n\nc) El cónyuge, la concubina o el concubinario y las personas que tengan parentesco por consanguinidad o civil hasta el cuarto grado o por afinidad hasta el tercer grado, con personas físicas que se ubiquen en alguno de los supuestos señalados en los incisos a) y b) anteriores, así como los socios y copropietarios de las personas físicas mencionadas en dichos incisos con los que mantengan relaciones de negocios.\n\nd) Las personas morales que sean parte del grupo empresarial o consorcio al que pertenezca la emisora. e) Las personas morales sobre las cuales alguna de las personas a que se refieren los incisos a) a c) anteriores, ejerzan el control o influencia significativa.\n\nXX. Poder de mando, la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de una emisora o personas morales que ésta controle o en las que tenga una influencia significativa. Se presume que tienen poder de mando en una persona moral, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:\n\na) Los accionistas que tengan el control.\n\nb) Los individuos que tengan vínculos con una emisora o con las personas morales que integran el grupo empresarial o consorcio al que aquélla pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.\n\nc) Las personas que hayan transmitido el control de la persona moral bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.\n\nd) Quienes instruyan a consejeros o directivos relevantes de la persona moral, la toma de decisiones o la ejecución de operaciones en una sociedad o en las personas morales que ésta controle.\n\nXXI. Registro, el Registro Nacional de Valores.\n\nXXII. Secretaría, la Secretaría de Hacienda y Crédito Público.\n\nXXIII. Sociedad controladora filial, la sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe mayoritariamente una institución financiera del exterior.\n\nXXIV. Valores, las acciones, partes sociales, obligaciones, bonos, títulos opcionales, certificados, pagarés, letras de cambio y demás títulos de crédito, nominados o innominados, inscritos o no en el Registro, susceptibles de circular en los mercados de valores a que se refiere esta Ley, que se emitan en serie o en masa y representen el capital social de una persona moral, una parte alícuota de un bien o la participación en un crédito colectivo o cualquier derecho de crédito individual, en los términos de las leyes nacionales o extranjeras aplicables.\n\nLos términos antes señalados podrán utilizarse en singular o en plural sin que por ello deba entenderse que cambia su significado.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-11",
+      "slug": "lmv",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "apartado": "Apartado A",
+          "chapter": "Capítulo II",
+          "section": "Sección I",
+          "title": "Título II"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:32",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 32",
+        "number": "32",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Los miembros del consejo de administración de las sociedades anónimas bursátiles faltarán al deber de diligencia y serán susceptibles de responsabilidad en términos de lo establecido en el artículo 33 de esta Ley, cuando causen un daño patrimonial a la sociedad o a las personas morales que ésta controle o en las que tenga una influencia significativa, en virtud de actualizarse alguno de los supuestos siguientes:\n\nI. Se abstengan de asistir, salvo causa justificada a juicio de la asamblea de accionistas, a las sesiones del consejo y, en su caso, comités de los que formen parte, y que con motivo de su inasistencia no pueda sesionar legalmente el órgano de que se trate.\n\nII. No revelen al consejo de administración o, en su caso, a los comités de los que formen parte, información relevante que conozcan y que sea necesaria para la adecuada toma de decisiones en dichos órganos sociales, salvo que se encuentren obligados legal o contractualmente a guardar secreto o confidencialidad al respecto.\n\nIII. Incumplan los deberes que les impone esta Ley o los estatutos sociales de la sociedad.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-12",
+      "slug": "lmv",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título IV"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:71",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 71",
+        "number": "71",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "El Registro contendrá los asientos y anotaciones registrales relativos a:\n\nI. Los valores inscritos conforme a los artículos 85, 90 y 90 Bis de esta Ley. Fracción reformada DOF 28-12-2023\n\nII. Los valores inscritos de forma preventiva conforme a los artículos 91 a 94 de esta Ley.\n\nIII. Los fondos de inversión, así como las acciones representativas de su capital social. Fracción adicionada DOF 10-01-2014\n\nAsimismo, el Registro contendrá información relativa a la oferta en el extranjero, de valores emitidos en los Estados Unidos Mexicanos o por personas morales mexicanas, directamente o a través de fideicomisos o figuras similares o equivalentes. Dicha información tendrá carácter estadístico y no constituirá un asiento o anotación registral. Párrafo reformado DOF 10-01-2014",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-13",
+      "slug": "lmv",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "section": "Sección II",
+          "title": "Título VI"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:128",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 128",
+        "number": "128",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Los nombramientos del director general de las casas de bolsa y de los directivos que ocupen cargos con la jerarquía inmediata inferior a la de éste, deberán recaer en personas que cuenten con honorabilidad e historial crediticio satisfactorio y que reúnan los requisitos siguientes:\n\nI. Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación.\n\nII. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa.\n\nIII. No tener alguno de los impedimentos que para ser consejero señalan las fracciones III a VII del artículo 124 de esta Ley.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-14",
+      "slug": "lmv",
+      "split": "development"
+    },
+    {
+      "record": {
+        "amendment_marks": [
+          7
+        ],
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "apartado": "Apartado A",
+          "chapter": "Capítulo IV",
+          "section": "Sección Segunda",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:18",
+        "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+        "label": "Artículo 18",
+        "number": "18",
+        "provision_type": "article",
+        "publication_date": "2018-09-10",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Las ITF deberán aplicar la Valuación Directa a Vector sobre los Valores y demás instrumentos financieros que, de conformidad con su régimen de inversión y las disposiciones aplicables, puedan formar parte de su estado de situación financiera.\n\nLas ITF utilizarán Modelos de Valuación Internos para obtener el Precio Actualizado para Valuación, siempre que se ajusten a lo establecido en las presentes disposiciones y no se trate de alguno de los instrumentos financieros siguientes:\n\nI. Valores inscritos en el Registro Nacional de Valores, o bien, autorizados, inscritos o reconocidos en términos de las Disposiciones de carácter general aplicables a los sistemas internacionales de cotizaciones, publicadas en el Diario Oficial de la Federación el 22 de diciembre de 2016 o las que las sustituyan.\n\nII. Instrumentos financieros derivados que coticen en bolsas de derivados nacionales o que pertenezcan a mercados reconocidos por el Banco de México.\n\nIII. Activos subyacentes y demás instrumentos financieros que formen parte de las Operaciones Estructuradas o Paquetes de Instrumentos Financieros Derivados, cuando se trate de Valores o instrumentos financieros previstos en las fracciones I y II anteriores.\n\nPara los instrumentos financieros señalados en las fracciones I a III de este artículo, las ITF deberán considerar el Precio Actualizado para Valuación que les proporcione el Proveedor de Precios que tengan contratado.\n\nEn el caso de los Activos Virtuales, cuando no exista un modelo de valuación autorizado por el Proveedor de Precios, ni un Modelo de Valuación Interno para la ITF en términos del Apartado C de la presente sección, respecto de la valuación de un Activo Virtual que haya sido autorizado por el Banco de México, deberá valuarse al menor entre su costo de adquisición, es decir, la contraprestación pagada al momento de su adquisición, y su valor razonable determinado de conformidad con la regulación contable aplicable. En todo caso, la opción a que se refiere el presente párrafo, dejará de ser aplicable a partir del momento en que se autorice un modelo de valuación para el Activo Virtual específico a un Proveedor de Precios, o a la propia ITF.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-15",
+      "slug": "itf-dcg-2018",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2021-04-28",
+        "effective_to": null,
+        "heading_context": {
+          "apartado": "Apartado B",
+          "chapter": "Capítulo II",
+          "section": "Sección Primera",
+          "title": null
+        },
+        "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+        "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+        "label": "Artículo 8",
+        "number": "8",
+        "provision_type": "article",
+        "publication_date": "2021-01-28",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las instituciones de fondos de pago electrónico deberán solicitar, al menos, dos Factores de Autenticación independientes en cada ocasión en que se pretenda realizar lo siguiente:\n\nI. Alta, baja o cualquier otra modificación relacionada con los beneficiarios de la Cuenta a que se refiere el séptimo párrafo del artículo 29 de la Ley para Regular las Instituciones de Tecnología Financiera.\n\nII. Cambios respecto de los Factores de Autenticación.\n\nIII. Solicitud de estados de cuenta.\n\nIV. Alta y modificación del medio de notificación al Cliente.\n\nLas instituciones de fondos de pago electrónico quedarán sujetas a lo establecido en la Circular 12/2018 emitida por el Banco de México, para el caso en que reciban reclamaciones por cargos no reconocidos de sus Clientes por Operaciones que deriven de alguna de las operaciones descritas en las fracciones I, II y IV del presente artículo.\n\nPara efectos de lo previsto en el presente artículo, las instituciones de fondos de pago electrónico podrán tomar en cuenta el Factor de Autenticación utilizado para el inicio de Sesión en los Canales de Instrucción de que se trate.",
+        "transitory_effects": []
+      },
+      "sample_id": "dev-16",
+      "slug": "ifpe-dcg-2021",
+      "split": "development"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": null,
+          "title": "Título I"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:4",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 4",
+        "number": "4",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Para efectos de esta Ley, en singular o plural, se entenderá por:\n\nI. Autoridad Financiera, a cualquiera de las Comisiones Supervisoras, al Banco de México o a la Secretaría, según sus ámbitos de competencia;\n\nII. Cliente, a la persona física o moral que contrata o realiza alguna Operación con una ITF, así como la que contrata o utiliza los servicios de Entidades Financieras previstos en esta Ley o de sociedades autorizadas para operar con Modelos Novedosos;\n\nIII. CNBV, a la Comisión Nacional Bancaria y de Valores;\n\nIV. CNSF, a la Comisión Nacional de Seguros y Fianzas;\n\nV. Comisiones Supervisoras, a la CNBV, CONSAR, CNSF y CONDUSEF, respecto a sus ámbitos de competencia;\n\nVI. Comité Interinstitucional, a la instancia colegiada integrada por servidores públicos de la Secretaría, del Banco de México y de la CNBV a que se refiere esta Ley;\n\nVII. CONDUSEF, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;\n\nVIII. CONSAR, a la Comisión Nacional del Sistema de Ahorro para el Retiro;\n\nIX. Consorcio, al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras;\n\nX. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes de una persona moral; o el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la sociedad, o el dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la sociedad, ya sea a través de la propiedad de Valores o por cualquier otro acto jurídico;\n\nXI. Directivo Relevante, al Director General de las ITF, así como a las personas físicas que, ocupando un empleo, cargo o comisión en aquellas o en las personas morales que tengan el Control de dichas ITF o que sean controladas por estas últimas, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia ITF o del Grupo Empresarial al que esta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de las ITF;\n\nXII. Entidades Financieras, a las sociedades controladoras y subcontroladoras de grupos financieros, instituciones de crédito, casas de bolsa, bolsas de valores, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, uniones de crédito, organizaciones auxiliares del crédito, casas de cambio, sociedades financieras de objeto múltiple, sociedades financieras populares, sociedades financieras comunitarias con niveles de operaciones I a IV, organismos de integración financiera rural, sociedades cooperativas de ahorro y préstamo con niveles de operación I a IV, instituciones para el depósito de valores, contrapartes centrales de valores, instituciones calificadoras de valores, sociedades de información crediticia, instituciones de seguros, instituciones de fianzas, sociedades mutualistas de seguros, administradoras de fondos para el retiro, así como otras instituciones y fideicomisos públicos que realicen actividades respecto de las cuales la CNBV, la CNSF o la CONSAR ejerzan facultades de supervisión;\n\nXIII. Grupo de Personas, a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas:\n\na) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario, y\n\nb) Las sociedades que formen parte de un mismo Consorcio o Grupo Empresarial y la persona o conjunto de personas que tengan el Control de dichas sociedades;\n\nXIV. Grupo Empresarial, al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el Control de dichas personas morales, incluyendo a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras;\n\nXV. Infraestructura Tecnológica, a la infraestructura de cómputo, redes de telecomunicaciones, sistemas operativos, bases de datos, software y aplicaciones que utilizan las ITF, las sociedades autorizadas para operar con Modelos Novedosos y las entidades financieras para soportar sus operaciones;\n\nXVI. ITF, a las instituciones de tecnología financiera reguladas en esta Ley, las cuales son las instituciones de financiamiento colectivo y las instituciones de fondos de pago electrónico;\n\nXVII. Modelo Novedoso, a aquel que para la prestación de servicios financieros utilice herramientas o medios tecnológicos con modalidades distintas a las existentes en el mercado al momento en que se otorgue la autorización temporal en términos de esta Ley;\n\nXVIII. Operaciones, a los actos de carácter financiero o de pagos a que se refiere la presente Ley, que una ITF puede ofrecer o realizar con el público o, que a través de ellas se realizan entre Clientes, en términos de esta Ley;\n\nXIX. Personas Relacionadas, a las personas que respecto de una ITF, se ubiquen en alguno de los supuestos siguientes:\n\na) Las personas físicas o morales que mantengan, directa o indirectamente, la propiedad del uno por ciento o más de los títulos representativos del capital de una ITF, de acuerdo con el registro de socios más reciente que lleve la ITF respectiva;\n\nb) El administrador único o los miembros del consejo de administración de la ITF, así como los auditores o comisarios, sus funcionarios o empleados o las personas distintas a estos que con su firma puedan obligar a la ITF de que se trate; c) Los cónyuges y las personas que tengan parentesco hasta el segundo grado con las personas señaladas en los incisos anteriores;\n\nd) Las personas morales, así como sus consejeros y funcionarios, respecto de las cuales la ITF mantenga, directa o indirectamente, la propiedad del diez por ciento o más de los títulos representativos de su capital;\n\ne) Las personas morales en las que cualquiera de las personas señaladas en los incisos anteriores, así como los funcionarios, empleados, auditores externos y comisarios de la ITF, los ascendientes y descendientes en primer grado, así como sus cónyuges, mantengan, directa o indirectamente, la propiedad del diez por ciento o más de los títulos representativos de su capital, y\n\nf) Las personas morales respecto de las cuales los funcionarios, auditores externos, miembros del comité de auditoría y comisarios de las ITF sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales;\n\nXX. Poder de Mando, a la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o socios o sesiones del consejo de administración o de directores o en la gestión, conducción y ejecución de los negocios de la ITF o de las personas morales que esta tenga el Control. Se presume que tienen Poder de Mando en una ITF, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:\n\na) Los accionistas que tengan el Control;\n\nb) Las personas físicas que tengan vínculos con la ITF o las personas morales que integran el Grupo Empresarial o Consorcio al que aquélla pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores;\n\nc) Las personas que hayan transmitido el Control de la ITF bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de personas con las que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario, y\n\nd) Las personas que instruyan a consejeros o Directivos Relevantes de la ITF, la toma de decisiones o la ejecución de operaciones en la propia ITF o en las personas morales que esta tenga el Control;\n\nXXI. Secretaría, a la Secretaría de Hacienda y Crédito Público;\n\nXXII. UMA, a la Unidad de Medida y Actualización cuyo valor equivalente en pesos se determina de conformidad con la Ley para Determinar el Valor de la Unidad de Medida y Actualización, y\n\nXXIII. Valores, a las acciones, partes sociales, obligaciones, bonos, títulos opcionales, certificados, pagarés, letras de cambio y demás títulos de crédito, nominados o innominados, que se emitan en serie o en masa y representen el capital social de una persona moral o una parte de este, una parte alícuota de un bien o la participación en un crédito colectivo o cualquier derecho de crédito individual, en los términos de las leyes nacionales o extranjeras aplicables.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-01",
+      "slug": "lritf",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "title": "Título III"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:52",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 52",
+        "number": "52",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "El auditor externo, así como la persona moral de la cual sea socio, estarán obligados a conservar la documentación, información y demás elementos utilizados para elaborar su dictamen, evaluación, informe u opinión, por un plazo de al menos cinco años. Para tales efectos, se podrán utilizar medios automatizados o digitalizados.\n\nAsimismo, los auditores externos de que se trate deberán proporcionar a la CNBV, según sea el caso, los informes y demás elementos de juicio en los que sustenten sus dictámenes, evaluaciones y conclusiones. Si durante la práctica o como resultado de la auditoría encuentran irregularidades que pongan en riesgo la operación y funcionamiento de las ITF a las que presten sus servicios de auditoría, deberán presentar en su caso al comité de auditoría o al comisario de la sociedad, y a la CNBV, o al Banco de México, según corresponda, un informe detallado sobre la situación observada. Sin perjuicio de lo anterior, los auditores externos responderán por los daños y perjuicios que ocasionen a la ITF que los contrate, cuando:\n\nI. Por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que, en razón de su profesión u oficio, debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión, o\n\nII. Intencionalmente, en el dictamen u opinión:\n\na) Omitan información relevante de la que tengan conocimiento, cuando deba contenerse en su dictamen u opinión;\n\nb) Incorporen información falsa o que induzca al error, o bien, adecuen el resultado con el fin de aparentar una situación distinta de la que corresponda a la realidad;\n\nc) Recomienden la celebración de alguna operación, optando dentro de las alternativas existentes, por aquella que genere efectos patrimoniales notoriamente perjudiciales para la institución, o\n\nd) Sugieran, acepten, propicien o propongan que una determinada transacción se registre en contravención a la normatividad contable aplicable.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-02",
+      "slug": "lritf",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": "2018-03-10",
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "title": "Título III"
+        },
+        "id": "urn:lex-mx:federal:statute:lritf:article:58",
+        "instrument_id": "urn:lex-mx:federal:statute:lritf",
+        "label": "Artículo 58",
+        "number": "58",
+        "provision_type": "article",
+        "publication_date": "2018-03-09",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las ITF estarán obligadas, de conformidad con lo que establezcan las disposiciones de carácter general que emita la Secretaría, previa opinión de la CNBV, a lo siguiente:\n\nI. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139 Quáter o 400 Bis del Código Penal Federal.\n\nLas medidas y procedimientos a que se refiere el párrafo anterior, deberán estar contenidos y desarrollados en un documento que será presentado a la CNBV, en la forma y términos que se determinen en las disposiciones de carácter general a que se refiere este artículo. Para el desarrollo de las medidas y procedimientos, las ITF deberán establecer una metodología, diseñada e implementada, para llevar a cabo una evaluación de los riesgos por los cuales pudieran ser utilizadas para llevar a cabo los actos, omisiones u operaciones a que se refiere el primer párrafo de esta fracción, derivado de los productos, servicios, prácticas o tecnologías con los que operen.\n\nToda la información relativa a la metodología, incluyendo los resultados, deberá estar a disposición de la Secretaría y de la CNBV, pudiendo esta última ordenar a las ITF la adopción de las modificaciones o adiciones que estime pertinentes, y\n\nII. Presentar a la Secretaría, por conducto de la CNBV, los reportes sobre:\n\na) Los actos, Operaciones y servicios que realicen con sus Clientes y las Operaciones entre estos, según corresponda, relativos a la fracción anterior, y\n\nb) Todo acto, operación o servicio que realicen los miembros del consejo de administración, directivos, funcionarios, empleados, factores y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones de carácter general a que se refiere este artículo.\n\nLos reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en este artículo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, Operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen y las prácticas comerciales que se observen, así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a Operaciones que se definan por las disposiciones de carácter general como relevantes, internas preocupantes e inusuales, las relacionadas con transferencias internacionales y operaciones en efectivo realizadas en moneda extranjera.\n\nAsimismo, la Secretaría, considerando las características de las Operaciones y actividades llevadas a cabo por las ITF, en las disposiciones de carácter general a que se refiere este artículo, emitirá los lineamientos sobre el procedimiento y criterios, así como los casos, la forma, los términos y los plazos en que las ITF deberán observar respecto de:\n\nI. El adecuado conocimiento de sus Clientes, para lo cual las ITF deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las zonas geográficas en que operen;\n\nII. La información y documentación que las ITF deban recabar para la celebración de las Operaciones y servicios que presten y que acredite plenamente la identidad de sus Clientes;\n\nIII. La forma en que las ITF deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus Clientes o quienes lo hayan sido, así como la de aquellos actos, Operaciones y servicios reportados conforme al presente artículo;\n\nIV. Los términos para proporcionar capacitación al interior de las ITF sobre la materia objeto de este artículo;\n\nV. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las disposiciones de carácter general a que se refiere este artículo;\n\nVI. El establecimiento de un comité de comunicación y control, así como la designación de un oficial de cumplimiento con funciones y obligaciones en la materia a que se refiere este artículo al interior de cada ITF, y\n\nVII. La revisión que deberán realizar de forma anual por parte del área de auditoría interna o bien por un tercero independiente sobre la efectividad del cumplimiento de las disposiciones de carácter general a que se refiere este artículo.\n\nLas ITF deberán conservar, por al menos diez años la información y documentación a que se refiere la fracción III del párrafo anterior, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables.\n\nAl efecto, tanto el oficial de cumplimiento a que se refiere la fracción VI del párrafo tercero de este artículo, como el auditor o el tercero independiente responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de Valores.\n\nLa Secretaría estará facultada para requerir y recabar, por conducto de la CNBV, información y documentación relacionada con los actos, Operaciones y servicios a que se refiere este artículo. Las ITF estarán obligadas a proporcionar dicha información y documentación. Asimismo, la Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.\n\nLas ITF deberán suspender de forma inmediata la realización de actos, Operaciones o servicios con los Clientes que la Secretaría les informe mediante una lista de personas bloqueadas que tendrá el carácter de confidencial. La lista de personas bloqueadas tendrá la finalidad de prevenir y detectar actos, omisiones u Operaciones que pudieran ubicarse en los supuestos previstos en la fracción I del párrafo primero de este artículo.\n\nLa obligación de suspensión a que se refiere el párrafo anterior dejará de surtir sus efectos cuando la Secretaría elimine de la lista de personas bloqueadas al Cliente en cuestión.\n\nLa Secretaría establecerá, en las disposiciones de carácter general a que se refiere este artículo, los parámetros para la determinación de la introducción o eliminación de personas en la lista de personas bloqueadas.\n\nLas disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las ITF, así como por sus miembros del consejo de administración, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las ITF como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.\n\nLas ITF podrán intercambiar información entre sí y con otras entidades del sistema financiero mexicano, incluidos centros cambiarios, transmisores de dinero y asesores en inversiones, facultados para ello en las respectivas leyes financieras, así como con entidades financieras extranjeras, en términos de las disposiciones de carácter general a que se refiere el presente artículo, con el fin de fortalecer las medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139 Quáter o 400 Bis del Código Penal Federal, o aquellas para prevenir y detectar actos, omisiones u operaciones que puedan favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en contra de sus Clientes o de las propias entidades.\n\nEn las disposiciones de carácter general a que se refiere este artículo, la Secretaría establecerá los casos, la forma y los términos en que las ITF darán cumplimiento a las obligaciones contenidas en este artículo y a las demás obligaciones previstas en dichas disposiciones, así como los plazos y medios a través de los cuales comunicarán o presentarán a la Secretaría, por conducto de la CNBV, o a esta última, según corresponda, la información y documentación que así lo acredite.\n\nEl cumplimiento de las obligaciones y el intercambio de información a que se refiere este artículo no implicarán trasgresión alguna a la obligación de confidencialidad que se impone a las ITF respecto de sus Clientes y las Operaciones que estos realizan, ni constituirá violación a las restricciones de revelación de información establecidas vía contractual.\n\nLos servidores públicos de la Secretaría y de la CNBV, las ITF, los miembros de su consejo de administración, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-03",
+      "slug": "lritf",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "section": "Sección PRIMERA",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:16",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 16",
+        "number": "16",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Las personas que acudan en representación de los accionistas a las asambleas de la institución, deberán acreditar su personalidad mediante poder otorgado en formularios elaborados por la propia institución, que reúna los requisitos siguientes:\n\nI. Deberán contener de manera notoria, la denominación de la propia institución, así como las instrucciones del otorgante para el ejercicio del poder;\n\nII. Estarán foliados y firmados por el secretario o prosecretario del consejo de administración con anterioridad a su entrega, y\n\nIII.- Contendrán el respectivo orden del día. Fracción reformada DOF 04-06-2001\n\nLa institución deberá tener a disposición de los representantes de los accionistas los formularios de los poderes, durante el plazo a que se refiere el artículo 173 de la Ley General de Sociedades Mercantiles, a fin de que aquéllos puedan hacerlos llegar con oportunidad a sus representados.\n\nLos escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-04",
+      "slug": "lic",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "section": "Sección PRIMERA",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 22 Bis",
+        "number": "22 Bis",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "Para efectos del artículo 22 de esta Ley, se entenderá por:\n\nI. Consorcio, el conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un grupo de personas, tengan el control de las primeras;\n\nII. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la institución; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la institución, dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la institución, ya sea a través de la propiedad de valores o por cualquier otro acto jurídico;\n\nIII. Directivo relevante, el director general de las instituciones de crédito, así como las personas físicas que, ocupando un empleo, cargo o comisión en aquéllas o en las personas morales que controlen dichas instituciones o que la controlen, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia institución o del grupo empresarial al que ésta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de dichas instituciones de crédito;\n\nIV. Grupo de personas, las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas:\n\na) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario.\n\nb) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.\n\nV. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras, y\n\nVI. Poder de mando, la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de la institución de banca múltiple de que se trate o de las personas morales que ésta controle. Se presume que tienen poder de mando en una institución de banca múltiple, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:\n\na) Los accionistas que tengan el control de la administración. b) Los individuos que tengan vínculos con la institución de banca múltiple o las personas morales que integran el grupo empresarial o consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.\n\nc) Las personas que hayan transmitido el control de la institución de banca múltiple bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.\n\nd) Quienes instruyan a consejeros o directivos relevantes de la institución de banca múltiple, la toma de decisiones o la ejecución de operaciones en la propia institución o en las personas morales que ésta controle.\n\nArtículo adicionado DOF 01-02-2008",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-05",
+      "slug": "lic",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo II",
+          "section": "Sección PRIMERA",
+          "title": "Título SEGUNDO"
+        },
+        "id": "urn:lex-mx:federal:statute:lic:article:42",
+        "instrument_id": "urn:lex-mx:federal:statute:lic",
+        "label": "Artículo 42",
+        "number": "42",
+        "provision_type": "article",
+        "publication_date": "1990-07-18",
+        "review_status": "machine_accepted",
+        "schema_version": "0.1.0",
+        "temporal_basis": "deterministic_rule",
+        "temporal_confidence": 0.9,
+        "temporal_status": "effective",
+        "text": "El consejo dirigirá la institución de banca de desarrollo con base en las políticas, lineamientos y prioridades que conforme a lo dispuesto por la Ley establezca el Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, para el logro de los objetivos y metas de sus programas e instruirá al respecto al director general para la ejecución y realización de los mismos. Asimismo, el consejo fomentará el desarrollo de alternativas para maximizar de forma individual o con otros intermediarios, el acceso a los servicios financieros en beneficio de quienes por sus características y capacidades encuentran un acceso limitado a los mismos. Párrafo reformado DOF 10-01-2014\n\nEl consejo directivo en representación de la institución, podrá acordar la realización de todas las operaciones inherentes a su objeto y delegar discrecionalmente sus facultades en el director general, así como constituir apoderados y nombrar dentro de su seno delegados para actos o funciones específicos.\n\nSerán facultades indelegables del consejo:\n\nI. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, y a los demás que señale el reglamento orgánico, así como concederles licencias; Fracción reformada DOF 01-02-2008\n\nII. Nombrar y remover al secretario y al prosecretario del consejo;\n\nIII. Aprobar el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero; Fracción reformada DOF 24-06-2002, 01-02-2008\n\nIV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto; Fracción reformada DOF 24-06-2002\n\nV. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;\n\nVI. Aprobar los estados financieros de la institución para proceder a su publicación. Los estados financieros anuales se aprobarán previo dictamen de los comisarios y deberán estar suscritos por el director general, el responsable de la contabilidad de la institución y el responsable de las funciones de auditoría interna, conforme a su competencia, previo a su aprobación; Fracción reformada DOF 01-02-2008\n\nVII. Aprobar en su caso, la constitución de reservas; Fracción reformada DOF 24-06-2002\n\nVII bis. Aprobar en su caso, la aplicación de utilidades, así como la forma y términos en que deberá realizarse; Fracción adicionada DOF 24-06-2002\n\nVIII. Acordar la propuesta de plazos y fechas para el entero de los aprovechamientos que se causen con motivo de la garantía soberana del Gobierno Federal, así como de requerimientos de capital de la institución, que se presentarán a la Secretaría de Hacienda y Crédito Público; Fracción derogada DOF 01-02-2008. Adicionada DOF 10-01-2014\n\nVIII bis. Aprobar los presupuestos generales de gasto e inversión, sin someterse a lo dispuesto en el artículo 31, fracción XXIV de la Ley Orgánica de la Administración Pública Federal; Fracción adicionada DOF 24-06-2002\n\nIX. Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera; Fracción reformada DOF 24-06-2002\n\nIX Bis. Aprobar las estimaciones de ingresos anuales, su programa financiero, incluyendo cualquier apartado del mismo relativo a financiamiento directo, y sus programas operativos; Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014\n\nIX Ter. Definir la estrategia y criterios en los que deberá establecerse, entre otros, tasas, plazos, riesgos de las operaciones y tipos de negocio, atendiendo a los rendimientos que el propio Consejo Directivo acuerde como objetivo; Fracción adicionada DOF 10-01-2014\n\nX. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la institución requiera, así como las políticas y bases generales que regulen los convenios, contratos o acuerdos que deba celebrar la institución con terceros, en estas materias, de conformidad con las normas aplicables y sin que dichos programas, políticas y bases relativos a sus sucursales sean objeto del ejercicio de las atribuciones a que se refiere el artículo 37, fracciones XX y XXIII, de la Ley Orgánica de la Administración Pública Federal, en materia de arrendamiento de bienes inmuebles; así como aprobar las políticas y bases generales a las que deberá sujetarse la contratación de los servicios que requiera la institución para realizar las operaciones y servicios previstos en los artículos 46 y 47 de esta Ley; Fracción reformada DOF 01-02-2008, 10-01-2014\n\nXI. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al reglamento orgánico; Fracción reformada DOF 01-02-2008\n\nXI Bis. Aprobar las normas o bases generales para la cesión de activos y pasivos de la institución, en las que se determinarán las operaciones que deban ser sometidas a autorización previa del Consejo Directivo; Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014\n\nXII. Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;\n\nXIII. Proponer a la Secretaría de Hacienda y Crédito Público, el aumento o reducción del capital social;\n\nXIV. Acordar los aumentos de capital pagado de la institución, así como fijar las primas, que en su caso deban pagar los suscriptores de certificados de aportación patrimonial;\n\nXV. Acordar la emisión de obligaciones subordinadas;\n\nXVI. Aprobar las inversiones en el capital de las empresas a que se refieren los artículos 75, 88 y 89 de esta Ley, así como su enajenación; Fracción reformada DOF 01-02-2008\n\nXVII. Aprobar los programas anuales de publicidad y propaganda de la institución, sin que se requiera autorización de la Secretaría de Gobernación; Fracción reformada DOF 24-06-2002\n\nXVIII. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional y sin requerir autorizaciones adicionales de dependencia alguna de la Administración Pública Federal, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la sociedad; así como la remuneración de los consejeros y comisarios designados por los titulares de los certificados de aportación patrimonial de la serie “B”; Fracción reformada DOF 24-06-2002, 01-02-2008, 10-01-2014\n\nXIX. Aprobar las condiciones generales de trabajo de la institución a propuesta del comité de recursos humanos y desarrollo institucional y tomando en cuenta la opinión del sindicato correspondiente, de conformidad con el artículo 18 de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; Fracción reformada DOF 24-06-2002, 10-01-2014\n\nXIX Bis. Aprobar el manual de remuneraciones, jubilaciones, derechos y obligaciones aplicable al personal de confianza a propuesta del comité de recursos humanos y desarrollo institucional; Fracción adicionada DOF 10-01-2014\n\nXX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución.\n\nXXI. Autorizar la tenencia por cuenta propia de títulos inscritos en el Registro Nacional de Valores, representativos del capital social de sociedades, así como la forma de administrarla; Fracción adicionada DOF 24-06-2002\n\nXXII. Autorizar el programa de financiamiento acorde con las metas que, para la institución de banca de desarrollo de que se trate, fije al efecto la Secretaría de Hacienda y Crédito Público; Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008\n\nXXIII. Conocer y, en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste, y Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008\n\nXXIV. Analizar y aprobar, en su caso, los asuntos que someta a su consideración el comité de auditoría y dictar las medidas aplicables o procedentes en materia de control interno. Fracción adicionada DOF 01-02-2008\n\nEn los supuestos establecidos en las fracciones III, VII, IX y XV de este artículo se requerirá de la autorización expresa de la Secretaría de Hacienda y Crédito Público. Párrafo reformado DOF 24-06-2002, 01-02-2008\n\nEn el ejercicio de las atribuciones que se confieren a los consejos directivos en el presente artículo, sólo se sujetarán a lo dispuesto por sus leyes orgánicas, esta Ley y a los lineamientos que emita la Secretaría de Hacienda y Crédito Público.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-06",
+      "slug": "lic",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "apartado": "Apartado B",
+          "chapter": "Capítulo II",
+          "section": "Sección I",
+          "title": "Título II"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:35",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 35",
+        "number": "35",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Los miembros y secretario del consejo de administración de las sociedades anónimas bursátiles incurrirán en deslealtad frente a la sociedad y, en consecuencia, serán responsables de los daños y perjuicios causados a la misma o a las personas morales que ésta controle o en las que tenga una influencia significativa, cuando, sin causa legítima, por virtud de su empleo, cargo o comisión, obtengan beneficios económicos para sí o los procuren en favor de terceros, incluyendo a un determinado accionista o grupo de accionistas.\n\nAsimismo, los miembros del consejo de administración incurrirán en deslealtad frente a la sociedad o personas morales que ésta controle o en las que tenga una influencia significativa, siendo responsables de los daños y perjuicios causados a éstas o aquélla, cuando realicen cualquiera de las conductas siguientes:\n\nI. Voten en las sesiones del consejo de administración o tomen determinaciones relacionadas con el patrimonio de la sociedad o personas morales que ésta controle o en las que tenga influencia significativa, con conflicto de interés.\n\nII. No revelen, en los asuntos que se traten en las sesiones del consejo de administración o comités de los que formen parte, los conflictos de interés que tengan respecto de la sociedad o personas morales que ésta controle o en las que tengan una influencia significativa. Al efecto, los consejeros deberán especificar los detalles del conflicto de interés, a menos que se encuentren obligados legal o contractualmente a guardar secreto o confidencialidad al respecto.\n\nIII. Favorezcan, a sabiendas, a un determinado accionista o grupo de accionistas de la sociedad o de las personas morales que ésta controle o en las que tenga una influencia significativa, en detrimento o perjuicio de los demás accionistas.\n\nIV. Aprueben las operaciones que celebren la sociedad o las personas morales que ésta controle o en las que tenga influencia significativa, con personas relacionadas, sin ajustarse o dar cumplimiento a los requisitos que esta Ley establece.\n\nV. Aprovechen para sí o aprueben en favor de terceros, el uso o goce de los bienes que formen parte del patrimonio de la sociedad o personas morales que ésta controle, en contravención de las políticas aprobadas por el consejo de administración.\n\nVI. Hagan uso indebido de información relevante que no sea del conocimiento público, relativa a la sociedad o personas morales que ésta controle o en las que tenga influencia significativa.\n\nVII. Aprovechen o exploten, en beneficio propio o en favor de terceros, sin la dispensa del consejo de administración, oportunidades de negocio que correspondan a la sociedad o personas morales que ésta controle o en las que tenga influencia significativa.\n\nAl efecto, se considerará, salvo prueba en contrario, que se aprovecha o explota una oportunidad de negocio que corresponde a la sociedad o personas morales que ésta controle o en las que tenga una influencia significativa, cuando el consejero, directa o indirectamente, realice actividades que:\n\na) Sean del giro ordinario o habitual de la propia sociedad o de las personas morales que ésta controle o en las que tenga una influencia significativa.\n\nb) Impliquen la celebración de una operación o una oportunidad de negocio que originalmente sea dirigida a la sociedad o personas morales citadas en el inciso anterior. c) Involucren o pretendan involucrar en proyectos comerciales o de negocios a desarrollar por la sociedad o las personas morales citadas en el inciso a) anterior, siempre que el consejero haya tenido conocimiento previo de ello.\n\nLo previsto en el primer párrafo de este artículo, así como en las fracciones V a VII del mismo, también será aplicable a las personas que ejerzan poder de mando en la sociedad.\n\nTratándose de personas morales en las que una sociedad anónima bursátil tenga una influencia significativa, la responsabilidad por deslealtad será exigible a los miembros y secretario del consejo de administración de dicha sociedad que contribuyan en la obtención, sin causa legítima, de los beneficios a que se refiere el primer párrafo de este artículo.",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-07",
+      "slug": "lmv",
+      "split": "holdout"
+    },
+    {
+      "record": {
+        "effective_from": null,
+        "effective_to": null,
+        "heading_context": {
+          "chapter": "Capítulo I",
+          "title": "Título III"
+        },
+        "id": "urn:lex-mx:federal:statute:lmv:article:64-bis-1",
+        "instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "label": "Artículo 64 Bis 1",
+        "number": "64 Bis 1",
+        "provision_type": "article",
+        "publication_date": "2005-12-30",
+        "review_status": "not_analyzed",
+        "schema_version": "0.1.0",
+        "temporal_basis": null,
+        "temporal_confidence": null,
+        "temporal_status": "unknown",
+        "text": "Los documentos de la emisión relativos a emisiones de certificados bursátiles fiduciarios de desarrollo o inmobiliarios, según corresponda, que sean inscritos en el Registro deberán establecer las previsiones y derechos mínimos siguientes:\n\nI. La asamblea general de tenedores de certificados bursátiles fiduciarios de desarrollo o inmobiliarios deberá reunirse previa convocatoria que realice el fiduciario con al menos diez días de anticipación, a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión.\n\nLas facultades de la asamblea general de tenedores que a continuación se describen:\n\na) Aprobar cambios en el régimen de inversión del patrimonio fideicomitido.\n\nb) Determinar la remoción de la sociedad que administre el patrimonio del fideicomiso.\n\nc) Aprobar las operaciones que pretendan realizarse cuando representen el veinte por ciento o más del patrimonio del fideicomiso, con base en cifras correspondientes al cierre del trimestre inmediato anterior, considerando, en su caso, los compromisos de inversión de las llamadas de capital, con independencia de que dichas operaciones se ejecuten de manera simultánea o sucesiva en un periodo de doce meses contados a partir de que se concrete la primera operación, pero que pudieran considerarse como una sola.\n\nII. Los derechos de los tenedores de los certificados bursátiles fiduciarios de desarrollo o inmobiliarios siguientes:\n\na) Oponerse judicialmente a las resoluciones de las asambleas generales de tenedores, cuando en lo individual o en su conjunto representen el veinte por ciento o más del número de certificados bursátiles fiduciarios en circulación, y siempre que los reclamantes no hayan concurrido a la asamblea o hayan dado su voto en contra de la resolución y se presente la demanda correspondiente dentro de los quince días siguientes a la fecha de la adopción de las resoluciones, señalando en dicha demanda la disposición contractual incumplida o el precepto legal infringido y los conceptos de violación.\n\nLa ejecución de las resoluciones impugnadas podrá suspenderse por el juez, siempre que los demandantes otorguen fianza bastante para responder de los daños y perjuicios que pudieren causarse al resto de los tenedores por la inejecución de dichas resoluciones, en caso de que la sentencia declare infundada o improcedente la oposición.\n\nLa sentencia que se dicte con motivo de la oposición surtirá efectos respecto de todos los tenedores. Todas las oposiciones en contra de una misma resolución, deberán decidirse en una sola sentencia.\n\nb) Ejercer acciones de responsabilidad en contra de la sociedad que administre el patrimonio del fideicomiso por el incumplimiento a sus obligaciones, cuando en lo individual o en su conjunto representen el quince por ciento o más del número de certificados bursátiles fiduciarios de desarrollo o inmobiliarios en circulación.\n\nLas acciones que tengan por objeto exigir responsabilidad en términos de este artículo, prescribirán en cinco años contados a partir de que se hubiere realizado el acto o hecho que haya causado el daño patrimonial correspondiente.\n\nc) Designar a un miembro del comité técnico, por la tenencia, individual o en conjunto, de cada diez por ciento del número total de certificados bursátiles fiduciarios de desarrollo o inmobiliarios en circulación. Tal designación solo podrá revocarse por los demás tenedores cuando a su vez se revoque el nombramiento de todos los integrantes del comité técnico u órgano equivalente; en este supuesto, las personas sustituidas no podrán ser nombradas durante los doce meses siguientes a la revocación.\n\nd) Solicitar al representante común que convoque a una asamblea general de tenedores, así como que se aplace por una sola vez, por tres días naturales y sin necesidad de nueva convocatoria, la votación de cualquier asunto respecto del cual no se consideren suficientemente informados, cuando en lo individual o en su conjunto representen el diez por ciento o más del número de certificados bursátiles en circulación.\n\ne) Tener a su disposición de forma gratuita y con al menos diez días naturales de anticipación a la asamblea general de tenedores, en el domicilio que se indique en la convocatoria, la información y documentos relacionados con los puntos del orden del día.\n\nf) Celebrar convenios para el ejercicio del voto en las asambleas generales de tenedores. En todo caso, deberán notificarlos al fiduciario, incluyendo sus características, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por el propio fiduciario al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de que se trate, en términos de las disposiciones de carácter general que al efecto expida la Comisión.\n\nIV. El fideicomiso emisor deberá contar con un comité técnico integrado por lo menos con un veinticinco por ciento de miembros independientes.\n\nPor miembro independiente se entenderá aquella persona que se ajuste a lo previsto en los artículos 24, segundo párrafo y 26 de esta Ley. La independencia se calificará respecto del fideicomitente así como de la sociedad que administre el patrimonio del fideicomiso o a quien se encomienden dichas funciones.\n\nIgualmente, el documento constitutivo del fideicomiso emisor y los documentos de la emisión conducentes, deberán prever las facultades del comité técnico a que se refiere la presente fracción.\n\nLos miembros del comité técnico podrán celebrar convenios para ejercer el derecho de voto en sus sesiones. Tales convenios y sus características deberán notificarse al fiduciario, dentro de los cinco días hábiles siguientes al de su concertación, para que sean revelados por este último al público inversionista a través de las bolsas de valores en donde coticen los certificados bursátiles fiduciarios de desarrollo o inmobiliarios de que se trate.\n\nLa Comisión establecerá disposiciones de carácter general para la prevención de conflictos de interés en la resolución de los asuntos del comité técnico.\n\nArtículo adicionado DOF 10-01-2014",
+        "transitory_effects": []
+      },
+      "sample_id": "holdout-08",
+      "slug": "lmv",
+      "split": "holdout"
+    }
+  ]
+}

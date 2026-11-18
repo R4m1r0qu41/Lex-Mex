@@ -381,6 +381,36 @@ instead of being relabeled as statutes. `instruments`, `path`, `search`, and
 canonical bundles expose both record families while preserving that boundary;
 see `docs/standards-module.md`.
 
+### Bounded public queries over an accepted database
+
+Agents can query a published selection without downloading whole instruments
+or the full release manifest. First bind an accepted SQLite release to one
+public release; the command re-checks every selected canonical input,
+provision text, exact-text artifact and reference edge, and never overwrites
+an existing binding:
+
+```bash
+lex-mex db public-bind \
+  --database-dir derived/db/<run>/<release-id> \
+  --release-dir <publication>/releases/<public-release-id> \
+  --output derived/public-query/<name>.binding.json
+
+echo '{"operation":"resolve","instrument":"lritf","kind":"article","locator":"35"}' |
+  lex-mex db public-query --database derived/db/<run>/<release-id>/corpus.sqlite \
+    --binding derived/public-query/<name>.binding.json
+```
+
+`public-query` reads one JSON request per line and answers each with one
+response that validates against `schemas/public-query-response-v2.schema.json`.
+(v2 adds `skip_cursor` to the `response_too_large` error; the accepted v1 schema
+is kept unchanged as the historical contract, and `public-query-v1` remains the
+database projection version.) Operations are `coverage`, `resolve`, `search` (literal accent-insensitive
+phrase), `get_provision` and `references`. Every operation is confined to the
+bound selection, pages use bound seek cursors, and a missing or stale binding
+stops the process before it serves. Absence never means legal nonexistence, and
+`as_of` and old release pins return explicit outcomes. Limits and outcomes are
+in `docs/plans/database-agent-query-integration.md`.
+
 ## Federal-corpus ingestion loop
 
 Structural ingestion is deliberately cumulative: each instrument is first

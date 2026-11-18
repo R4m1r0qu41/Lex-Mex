@@ -1,0 +1,623 @@
+{
+  "schema_version": "agent-retrieval-baseline-evidence-v1",
+  "date": "2026-10-24",
+  "reader_head": "f49c07923",
+  "scope": "Transport and artifact integrity; not independent legal identity, accuracy, model tokens or multi-network acceptance",
+  "source_sha256": {
+    "reader/retrieval-check.mjs": "904b761fb3e9bb4808dbdea42207e50bf8cb409dc5ee375bbbe44d9f5ae07bed",
+    "reader/retrieval-check.test.mjs": "b4bacbeae2616f4533cc36245b89ab0d63dae29b65ca86aef8c97b7a116803df"
+  },
+  "validation": {
+    "node_version": "v26.12.1",
+    "node_tests": {
+      "command": "node --test reader/*.test.mjs",
+      "passed": 40,
+      "failed": 0,
+      "exit_code": 0,
+      "sandbox_retry_reason": "loopback EPERM",
+      "log_sha256": "3b8cacd8cf28c598582509b0a0ccdbe07cac69da888f5d75e687782d59f43d51"
+    },
+    "node_syntax_exit_code": 0,
+    "git_diff_check_exit_code": 0
+  },
+  "runs": {
+    "default": {
+      "schemaVersion": "retrieval-evidence-v1",
+      "scope": "HTTP transport and published artifact integrity; not legal accuracy or canonical article identity",
+      "startedAt": "2026-10-25T05:27:12.056Z",
+      "baseUrl": "https://www.leg4ll4bs.com/lex-mex/",
+      "articles": [
+        "35",
+        "39"
+      ],
+      "runtime": {
+        "node": "v26.12.1",
+        "platform": "darwin"
+      },
+      "userAgent": null,
+      "limits": {
+        "timeoutMs": 10000,
+        "maxBytes": 2000000,
+        "maxRequests": 24,
+        "maxTotalBytes": 8000000
+      },
+      "discovery": {
+        "requests": [
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"54f02fc0c275ab749841ecb729634ad1\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf8ebc52092d-LAX"
+            },
+            "bytes": 743,
+            "sha256": "504aa68567aaad1da9cc35073d8f6d269fc5f8285fc4a78618ecacd68dd86dc8",
+            "elapsedMs": 992.29,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"54f02fc0c275ab749841ecb729634ad1\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf93dc2e092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 901.89,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/index.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/index.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"37b64be0eff8e3ce120fa8e2c80ff1d2\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf997f34092d-LAX"
+            },
+            "bytes": 260,
+            "sha256": "bac6ec63a9626f497a43bb0a485123a205b9e6883c6104b9de46e8ac36d708fd",
+            "elapsedMs": 628.01,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/index.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/index.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"37b64be0eff8e3ce120fa8e2c80ff1d2\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf9d6d9d092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 128.45,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/index.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/index.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"5532bd1eacaedc5c3f61e3a8185e6c82\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf9e3872092d-LAX"
+            },
+            "bytes": 15173,
+            "sha256": "5e15ee8cfc9109abce68ad481c01168f9830fb851c8bcb8b5f8e1aa9609a3820",
+            "elapsedMs": 172.43,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/index.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/index.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"5532bd1eacaedc5c3f61e3a8185e6c82\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf9f4d1b092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 151.27,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"04794f130bf6d27e66ad8cc48d549f8d\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa03ffc092d-LAX"
+            },
+            "bytes": 2317,
+            "sha256": "0445c561ccfc4de791aeaa56cd964d588f01a25ba0a7525d476293f32797e292",
+            "elapsedMs": 155.6,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"04794f130bf6d27e66ad8cc48d549f8d\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa13b1f092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 132.67,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"f5ed92341212ed5b9e93df0d59ceb12e\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa20e51092d-LAX"
+            },
+            "bytes": 5558,
+            "sha256": "48bac13ee6a0d9d50049aaa8c9a8981aa8b61505485571c2333f0d184274facd",
+            "elapsedMs": 133.22,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.md",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.md",
+            "mime": "text/markdown",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"f5ed92341212ed5b9e93df0d59ceb12e\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa2d908092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 134.36,
+            "error": null
+          }
+        ],
+        "requestCount": 10,
+        "bytes": 24051
+      },
+      "verification": {
+        "enabled": true,
+        "fullManifestRequested": false,
+        "requests": [
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json",
+            "mime": "application/json",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"ae50e1a6560db7d297ed662e7af92134\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa3bc05092d-LAX"
+            },
+            "bytes": 401877,
+            "sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9",
+            "elapsedMs": 416.11,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json",
+            "mime": "application/json",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"ae50e1a6560db7d297ed662e7af92134\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa65d13092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 130.54,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"61311c2bd8fda53c808789c44e4f4458\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "MISS",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa73fd8092d-LAX"
+            },
+            "bytes": 1909,
+            "sha256": "234eac86a7dc2552eb7556565f87806a020f5fa942e276273aa298bed11f028b",
+            "elapsedMs": 246.67,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"61311c2bd8fda53c808789c44e4f4458\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa8bcb8092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 136.01,
+            "error": null
+          },
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"661727ad5dfafe2be0329fba62adef86\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "MISS",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfa9f86a092d-LAX"
+            },
+            "bytes": 4975,
+            "sha256": "76be32029c6f1e60e531dbecce342c9e27e9757ed72723f6cf38e030433e592d",
+            "elapsedMs": 388.15,
+            "error": null
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.txt",
+            "redirects": [],
+            "status": 200,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.txt",
+            "mime": "text/plain",
+            "cache": {
+              "cache-control": "public, max-age=0, must-revalidate",
+              "etag": "W/\"661727ad5dfafe2be0329fba62adef86\"",
+              "last-modified": null,
+              "age": null,
+              "expires": null,
+              "vary": null,
+              "cf-cache-status": "HIT",
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecfabff3b092d-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 116.93,
+            "error": null
+          }
+        ],
+        "requestCount": 6,
+        "bytes": 408761,
+        "verifiedFiles": 6,
+        "fullManifestVerified": false
+      },
+      "errors": [],
+      "releaseId": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+      "provisions": [
+        {
+          "article": "35",
+          "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.md",
+          "bytes": 2317,
+          "sha256": "0445c561ccfc4de791aeaa56cd964d588f01a25ba0a7525d476293f32797e292",
+          "exactText": {
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-eeaa25a0c560d59eae855197ab31f64dda56bfc9781e3c2e3dd1f7f04ffa3b53.txt",
+            "bytes": 1909,
+            "sha256": "234eac86a7dc2552eb7556565f87806a020f5fa942e276273aa298bed11f028b",
+            "manifestVerified": true
+          }
+        },
+        {
+          "article": "39",
+          "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.md",
+          "bytes": 5558,
+          "sha256": "48bac13ee6a0d9d50049aaa8c9a8981aa8b61505485571c2333f0d184274facd",
+          "exactText": {
+            "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/provision-5b65688dff6755fdb7def6306f80c2f1dc0245af1720bf49352ffe25956bd514.txt",
+            "bytes": 4975,
+            "sha256": "76be32029c6f1e60e531dbecce342c9e27e9757ed72723f6cf38e030433e592d",
+            "manifestVerified": true
+          }
+        }
+      ],
+      "discoveryCompleted": true,
+      "manifestUrl": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/manifest.json",
+      "stats": {
+        "discovery": {
+          "get": 5,
+          "head": 5,
+          "httpExchanges": 10,
+          "bytes": 24051
+        },
+        "verification": {
+          "get": 3,
+          "head": 3,
+          "httpExchanges": 6,
+          "bytes": 408761
+        }
+      },
+      "ok": true
+    },
+    "python-ua": {
+      "schemaVersion": "retrieval-evidence-v1",
+      "scope": "HTTP transport and published artifact integrity; not legal accuracy or canonical article identity",
+      "startedAt": "2026-10-25T05:27:12.906Z",
+      "baseUrl": "https://www.leg4ll4bs.com/lex-mex/",
+      "articles": [
+        "35",
+        "39"
+      ],
+      "runtime": {
+        "node": "v26.12.1",
+        "platform": "darwin"
+      },
+      "userAgent": "Python-urllib/3.9",
+      "limits": {
+        "timeoutMs": 10000,
+        "maxBytes": 2000000,
+        "maxRequests": 24,
+        "maxTotalBytes": 8000000
+      },
+      "discovery": {
+        "requests": [
+          {
+            "method": "GET",
+            "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "redirects": [],
+            "status": 403,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "mime": "text/html; charset=UTF-8",
+            "cache": {
+              "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+              "etag": null,
+              "last-modified": null,
+              "age": null,
+              "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+              "vary": null,
+              "cf-cache-status": null,
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf94196cc961-LAX"
+            },
+            "bytes": 7154,
+            "sha256": "2a3b2d5b9bd64ea09830874614760e0c5457c7a08f55ff523de694b1f60faa73",
+            "elapsedMs": 293.22,
+            "error": {
+              "kind": "http",
+              "message": "HTTP 403"
+            }
+          },
+          {
+            "method": "HEAD",
+            "url": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "redirects": [],
+            "status": 403,
+            "finalUrl": "https://www.leg4ll4bs.com/lex-mex/llms.txt",
+            "mime": "text/html; charset=UTF-8",
+            "cache": {
+              "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+              "etag": null,
+              "last-modified": null,
+              "age": null,
+              "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+              "vary": null,
+              "cf-cache-status": null,
+              "content-length": null,
+              "server": "cloudflare",
+              "cf-ray": "a4fecf94bb02c961-LAX"
+            },
+            "bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "elapsedMs": 85.59,
+            "error": {
+              "kind": "http",
+              "message": "HTTP 403"
+            }
+          }
+        ],
+        "requestCount": 2,
+        "bytes": 7154
+      },
+      "verification": {
+        "enabled": true,
+        "fullManifestRequested": false,
+        "requests": [],
+        "requestCount": 0,
+        "bytes": 0
+      },
+      "errors": [
+        {
+          "kind": "http",
+          "message": "HTTP 403"
+        },
+        {
+          "kind": "http",
+          "message": "HTTP 403"
+        }
+      ],
+      "discoveryCompleted": false,
+      "stats": {
+        "discovery": {
+          "get": 1,
+          "head": 1,
+          "httpExchanges": 2,
+          "bytes": 7154
+        },
+        "verification": {
+          "get": 0,
+          "head": 0,
+          "httpExchanges": 0,
+          "bytes": 0
+        }
+      },
+      "ok": false
+    }
+  },
+  "additional_observations": [
+    {
+      "client": "agent web retrieval",
+      "route": "Article 35 Markdown from default run",
+      "result": "Internal Error / URL not accessible via this tool",
+      "origin_http_status": null
+    },
+    {
+      "client": "curl",
+      "controlled_change": "default user agent vs Python-urllib/3.9",
+      "route": "current release index.md",
+      "statuses": [
+        200,
+        403
+      ],
+      "limitations": "single network; rule causing denial not identified"
+    }
+  ]
+}
