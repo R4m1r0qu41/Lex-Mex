@@ -623,20 +623,58 @@ fn resolve_commencement_text(
 /// is not a plain commencement and goes to review.
 const LEGACY_SUBJECT: &str = r#"(?:(?:la|el|las|los)\s+present[ea]s?|est[ae]s?)\s+"?(?:ley|reglamento|decreto|c[oó]digo|ordenamiento|disposiciones|acuerdo|estatuto)"?(?:\s+(?:federal|general|org[aá]nica|nacional)(?:\s+(?:de|del|para|sobre)\s+[a-záéíóúñ]+(?:\s+[a-záéíóúñ]+){0,3})?)?"#;
 
-/// What may follow the date phrase: the Diario Oficial (quoted or not, with or
-/// without `de la Federación`) and a plain abrogation of an earlier law, then
-/// the end of the text. Two kinds of text that the source extraction leaves
-/// behind are also allowed, because neither can carry a legal qualifier: a
-/// legislative signature block (place and date, an optional quoted year
-/// motto, then only `Name, D. P.-` style signatures ending in `Rúbricas`, where a
-/// name is capitalised name words only, so no sentence can pass as one) and
-/// a bare trailing page number.
-const LEGACY_TAIL: &str = r#"(?:\s+en\s+el\s+"?diario\s+oficial"?(?:\s+de\s+la\s+federaci[oó]n)?)?(?:\s+y\s+abroga\s+[^.;:]+)?\s*\.?(?:\s+(?:m[eé]xico,\s+d\.\s?f\.,\s+a\s+\d{1,2}\s+de\s+[a-záéíóúñ]+\s+de\s+\d{4}\.?-\s*)?(?:"[^"]+"\.?-\s*)?(?:(?-i:[A-ZÁÉÍÓÚÑ][\w.]*(?:\s+(?:y|de|del|la|[A-ZÁÉÍÓÚÑ][\w.]*)){0,6}),\s+(?-i:[DS]\.\s?(?:V\.\s?)?[PS]\.)\s?-\s*)+r[úu]bricas?[".]*)?(?:\s+\d{1,4})?\s*$"#;
+/// A calendar date as the source writes it inside a tail: day (`1o` after the
+/// ordinal period is removed, or `primero`), a spelled month, four-digit year.
+const LEGACY_DATE: &str = r"(?:\d{1,2}o?|primero)\s+de\s+(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+\d{4}";
+
+/// One capitalised name word. Case-sensitive on purpose: the whole tail runs
+/// under `(?i)`, where a bare `[A-Z]` would also match lowercase text.
+const LEGACY_NAME_WORD: &str = r"(?-i:[A-ZÁÉÍÓÚÑ][a-záéíóúñü]*)";
+
+/// The only lowercase words that may sit between the capitalised words of an
+/// abrogated law's title (`de la Armada de México`, `para la Comprobación,
+/// Ajuste y Cómputo`). None of them is a verb, a conjunction of clauses or a
+/// condition word, so a title built from them cannot carry a second statement.
+const LEGACY_TITLE_LINK: &str = r"(?-i:de|del|la|para|y)";
+
+/// The same idea for a year motto (`Año de la República Federal y del Senado`).
+const LEGACY_MOTTO_LINK: &str = r"(?-i:de|del|la|las|los|y)";
+
+/// The legislative signature block the source extraction leaves behind: one or
+/// more `Name, D. P.-` style signatures ending in `Rúbricas`. A name is
+/// capitalised name words only, so no sentence can pass as one.
+const LEGACY_SIGNATURES: &str = r#"(?:(?-i:[A-ZÁÉÍÓÚÑ][\w.]*(?:\s+(?:y|de|del|la|[A-ZÁÉÍÓÚÑ][\w.]*)){0,6}),\s+(?-i:[DS]\.\s?(?:V\.\s?)?[PS]\.)\s?-\s*)+r[úu]bricas?[".]*"#;
+
+/// What may follow the date phrase, then the end of the text. Every piece is a
+/// closed, pinned shape; nothing here is a wildcard over free text:
+///
+/// * the Diario Oficial (quoted or not, with or without `de la Federación`);
+/// * a plain abrogation, `y abroga la Ley <title>`, where the title is
+///   capitalised name words joined only by `de/del/la/para/y`, optionally
+///   followed by `publicada el <date>` or `de <date>` and `y sus reformas del
+///   <date>`. A lowercase word outside that set (a condition, a verb, a second
+///   commencement event) ends the match and the clause goes to review;
+/// * source apparatus that extraction leaves behind: a bare trailing period,
+///   then an optional `México, D.F., a <date>.-` dateline, which alone may
+///   carry a quoted `"Año de <capitalised words>"` year motto, then the
+///   signature block above, and a bare trailing page number. A quoted string
+///   anywhere else, or one that is not shaped as a year motto, matches nothing.
+fn legacy_tail() -> String {
+    let word = LEGACY_NAME_WORD;
+    let title_link = LEGACY_TITLE_LINK;
+    let motto_link = LEGACY_MOTTO_LINK;
+    let date = LEGACY_DATE;
+    let signatures = LEGACY_SIGNATURES;
+    format!(
+        r#"(?:\s+en\s+el\s+"?diario\s+oficial"?(?:\s+de\s+la\s+federaci[oó]n)?)?(?:\s+y\s+abroga\s+la\s+ley\s+(?:{title_link}\s+)*{word}(?:,?\s+(?:{title_link}\s+)*{word})*(?:\s+(?:publicada\s+el|de)\s+{date})?(?:\s+y\s+sus\s+reformas\s+del?\s+{date})?)?\s*\.?(?:\s+(?:m[eé]xico,\s+d\.\s?f\.,\s+a\s+{date}\.?-\s*(?:"(?-i:Año)\s+de(?:\s+(?:{motto_link}\s+)*{word})+"\.?-\s*)?)?{signatures})?(?:\s+\d{{1,4}})?\s*$"#
+    )
+}
 
 /// `^<subject> entrará(n) en vigor <phrase><tail>$`, case-insensitive.
 fn anchored(phrase: &str) -> Regex {
     Regex::new(&format!(
-        r"(?i)^{LEGACY_SUBJECT}\s+entrar[áa]n?\s+en\s+vigor\s+{phrase}{LEGACY_TAIL}"
+        r"(?i)^{LEGACY_SUBJECT}\s+entrar[áa]n?\s+en\s+vigor\s+{phrase}{tail}",
+        tail = legacy_tail()
     ))
     .expect("static regex")
 }
@@ -1902,6 +1940,134 @@ mod tests {
             (
                 "La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.",
                 date(2020, 6, 29),
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            assert_eq!(resolved_date(&outcome), Some(expected), "{text}");
+            assert_eq!(outcome.determinations.len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn the_tail_never_admits_a_condition_or_a_second_commencement_event() {
+        // Codex re-review 2026-11-17, F1: these three witnesses each used to
+        // resolve to 2020-01-02 through the free abrogation and quoted-string
+        // wildcards of the tail. They carry a condition, a second commencement
+        // event, and a quoted condition posing as a motto; none may resolve.
+        let none = BusinessDayCalendar::default();
+        let mut offenders = Vec::new();
+        for (text, reason) in [
+            // F1 witness 1: a condition inside the abrogation tail
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la norma anterior siempre que se haya expedido el reglamento.",
+                "unrec",
+            ),
+            // F1 witness 2: a second commencement event inside the abrogation tail
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga el decreto anterior, pero esta Ley entrará en vigor a los treinta días de su publicación.",
+                "unrec",
+            ),
+            // F1 witness 3: a quoted condition in the motto position
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación.\n\"Siempre que se haya expedido el reglamento\".- Juan Pérez, D. P.- Rúbricas.",
+                "unrec",
+            ),
+            // an abrogation that names a law and then adds a condition or a verb
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos siempre que se expida el reglamento.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos y entrará en vigor el 1o. de enero de 2030.",
+                "unrec",
+            ),
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos, salvo el Título Segundo.",
+                "salvo",
+            ),
+            // a quoted string after a dateline that is not a year motto
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Siempre que se haya expedido el reglamento\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+            // a motto-shaped string carrying lowercase condition words
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Federal siempre que se expida el reglamento\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+            // a genuine motto outside a dateline is not a recognized apparatus shape
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                "unrec",
+            ),
+        ] {
+            let outcome = commencement_of(text, &none);
+            let expected = match reason {
+                "salvo" => SkipReason::ExceptionOrConditionalLanguage {
+                    marker: "salvo".to_owned(),
+                },
+                _ => SkipReason::UnrecognizedCommencementPattern,
+            };
+            let skipped_for_review = matches!(
+                &outcome.commencement,
+                Some(Commencement::Skipped { reason, .. }) if *reason == expected
+            );
+            if !outcome.determinations.is_empty() || !skipped_for_review {
+                offenders.push(format!("{:?} <- {text}", outcome.commencement));
+            }
+        }
+        assert!(
+            offenders.is_empty(),
+            "resolved or mis-skipped:\n{}",
+            offenders.join("\n")
+        );
+    }
+
+    #[test]
+    fn the_measured_abrogation_and_apparatus_tails_still_resolve() {
+        // The three abrogation tails and the one year motto the corpus carries
+        // (targeted census 2026-11-17), plus the plain control, each pinned.
+        let none = BusinessDayCalendar::default();
+        for (text, expected) in [
+            // plain control
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación.",
+                date(2020, 1, 2),
+            ),
+            // abrogation naming a law with a "de <date>" suffix
+            (
+                "Esta Ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.",
+                date(2020, 1, 2),
+            ),
+            // abrogation with "publicada el <date>"
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley de Ascensos de la Armada de México publicada el 14 de enero de 1985.",
+                date(2020, 1, 2),
+            ),
+            // abrogation with a comma in the title and "y sus reformas del <date>"
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997.",
+                date(2020, 1, 2),
+            ),
+            // abrogation followed by a legislative signature block
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación y abroga la Ley de Ascensos. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // dateline, year motto, signatures
+            (
+                "La presente ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación. México, D.F., a 29 de diciembre de 1974.- \"Año de la República Federal y del Senado\".- Píndaro Urióstegui Miranda, D.P.- Francisco Luna Kan, S.P.- Agustín Ruiz Soto, S.S.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // dateline and signatures without a motto
+            (
+                "La presente Ley entrará en vigor al día siguiente de su publicación. México, D.F., a 29 de diciembre de 1974.- Píndaro Urióstegui Miranda, D.P.- Rúbricas.",
+                date(2020, 1, 2),
+            ),
+            // signatures without a dateline, and a trailing page number
+            (
+                "La presente Ley entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación. Miguel Moreno Padilla, D. S.- Eugenio Prado, S. P.- Rúbricas. 60",
+                date(2020, 1, 4),
             ),
         ] {
             let outcome = commencement_of(text, &none);
