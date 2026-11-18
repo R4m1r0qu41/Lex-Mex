@@ -1,0 +1,76 @@
+{
+  "schema_version": "codex-d3-review-evidence-v1",
+  "date": "2026-10-25",
+  "reviewed_head": "f49c07923c8d243290271043d08e6cdd18d7c1d5",
+  "verdict": "repairs_required",
+  "source_sha256": {
+    "crates/lex-db/src/public.rs": "1849a2b6734fb4109c7cbc6fceaa3ef818809a1b4330218cb0b9110699a32163",
+    "crates/lex-db/src/public_tests.rs": "e54906f4ecf59ce70531a4e95ead00358c0aa9c0f196778c553c39f91a85bdcc",
+    "crates/lex-db/tests/public_release.rs": "9b19881bc70c81a1cdd4467486788184cf7a83e24e4fe3d24f6fea5ff78f7779",
+    "crates/lex-cli/src/db.rs": "927a96ede57dea9dec7defc6a49354d53eadbc83d5b84198e586b968b9634225",
+    "crates/lex-db/Cargo.toml": "d17204408a0b857da74a5f09fb0b2f38b68b5e8a8206831581cc79a1009f7535",
+    "crates/lex-db/src/lib.rs": "8b34512ed74ab58d89cb58027818114d1e312b5ab008e412d7fe5df506f489d4",
+    "schemas/public-query-binding-v1.schema.json": "211e55b8a07aecade08b304ad17d66eb5d70959e0db8f70d95f68bff42342110",
+    "schemas/public-query-response-v1.schema.json": "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559",
+    "derived/public-query/c305db4a-afdc5acf.binding.json": "d2babd1767ef3ee6dd99d44b0cfb821a4708a4dcdc510151cbc3d59ce80c5d80"
+  },
+  "hashes_match_implementation_evidence": true,
+  "accepted_database": {
+    "path": "/Users/jr/Dev/lex-mex/derived/db/permanent-5eca-a/afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974/corpus.sqlite",
+    "release_id": "afdc5acf0b5017d73cd7b8e0b8f8fc5962914b56de26467e42b0c77fd2ef1974",
+    "database_sha256": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2",
+    "logical_content_sha256": "8cc3736018bffae94f303d9cbfa378170c9ff0e2842ce708431f08d528b60359",
+    "bytes": 482025472,
+    "sha256_after_all_runs": "5da6e800e4d3b362411c561d9ae67fbfe012abe3164fce30bbb8a21c9e249bf2"
+  },
+  "public_release": {
+    "path": "/Users/jr/Dev/lex-mex/.work/reader-r7-review-20261024/publication/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "manifest_sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9",
+    "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a"
+  },
+  "targeted_checks": {
+    "public_tests": {
+      "command": "cargo test --locked -p lex-db --lib public::tests",
+      "passed": 11,
+      "failed": 0
+    },
+    "real_artifact_test": {
+      "command": "LEX_PUBLIC_DATABASE=<accepted DB path> LEX_PUBLIC_BINDING=derived/public-query/c305db4a-afdc5acf.binding.json LEX_PUBLIC_RELEASE=<accepted public release path> cargo test --release --locked -p lex-db --test public_release -- --ignored",
+      "passed": 1,
+      "failed": 0
+    },
+    "log_sha256": {
+      "/tmp/d3-codex-public-tests-module.log": "34d6cf36368b7c1742fb1f4c4158618b830bbbc4fadfab8df0ce8a9ece3a1d68",
+      "/tmp/d3-codex-public-release.log": "3c38ad3be1eeef622cb318d62d8af1c850df4970e4a31cf6c3f41d9722374f72"
+    }
+  },
+  "binding_probe": {
+    "probe": "Changed release reference span with unchanged edge ID and valid recomputed manifest",
+    "exit": 0,
+    "stderr": "",
+    "original_span": "98",
+    "changed_span": "D3 SYNTHETIC CHANGED SPAN",
+    "source_binary_sha256": "eb46e1ad5c92dc737abc5b4729fa598336a0be147f5adfb5b4dcc510a96c0de0",
+    "binding_created": {
+      "release_id": "af881c1bab03384d480d225822407fc771e517dab92d0ba9f90cda193bde1c23",
+      "manifest_sha256": "ec05ec54a804496563b548e281508a7c3dbacf9194b836f698af7a56f59303f8",
+      "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a",
+      "base_path": "/lex-mex/"
+    }
+  },
+  "stdin_probe": {
+    "reviewer": "independent GPT-6.1 Sol",
+    "bytes_without_newline": 16777216,
+    "wait_seconds": 2.2,
+    "before_newline": "alive, no response",
+    "after_newline": "bad_request: request exceeds 8192 bytes",
+    "rss_measured": false
+  },
+  "limitations": [
+    "Full workspace checks not rerun",
+    "No owner-account configuration access",
+    "No production changes",
+    "R1 repacks a new release, not a collision against an existing release hash"
+  ]
+}

@@ -4247,3 +4247,21 @@ entry.
 Follow-up (JRH, same day): each ruling's effective date is read from the ruling, through
 <https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm>, not from the note. A plain
 invalidation revives no earlier text unless that is stated explicitly.
+
+## 2026-11-17 — Public query response v2 (`skip_cursor`)
+
+An item that alone exceeds the response limit used to end list traversal. The
+adapter now answers `response_too_large` with a `skip_cursor` after that item,
+bound to the same request and release; the caller opts in to continuing, so
+nothing is omitted silently. The field changes the closed response shape, so the
+wire identifier changed with it (Codex re-review F3): `public-query-response-v2`,
+schema `schemas/public-query-response-v2.schema.json`, `RESPONSE_VERSION` in
+`lex_db::public`. The schema permits `skip_cursor` only when `code` is
+`response_too_large` (an `if`/`then`, not only a description). The accepted
+`public-query-response-v1` schema is left byte-identical (SHA-256 `636536a8…`) so
+the 2026-10-25 acceptance evidence still describes a real file. This is a new
+version, not a compatible v1, and not an unreleased-contract replacement.
+`PROJECTION_VERSION` (`public-query-v1`), the database and the public-release
+bytes are unchanged. The only in-repository consumer of the response schema is
+the Rust adapter (`lex_db::public`); the host handoff records the adapter as
+local only, with nothing deployed.

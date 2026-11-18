@@ -36,6 +36,33 @@ snapshots; the request is [codex-audit-fixes-2026-11-17.md](codex-audit-fixes-20
   `codex-audit-fixes-codex-review-2026-11-17.md` and `codex-audit-fixes-codex-rereview-2026-11-17.md`
   are in `docs/`, uncommitted.
 
+## 2026-11-17 Codex F2 and F3 on the reader branch (`feat/public-reader-r7`, local, unpushed)
+
+Codex's audit of the unmerged reader branch left two findings for this branch. They are closed
+in code and the F2 follow-up awaits Codex's re-review. No `corpus/` file changed.
+- **F3, response contract (`aeaf5dbc9`; closed by Codex's second re-review).** The `skip_cursor`
+  field changes the closed response shape, so the wire identifier is now
+  `public-query-response-v2` (`schemas/public-query-response-v2.schema.json`, `RESPONSE_VERSION`
+  in `lex_db::public`). The v1 schema is byte-identical to the accepted contract (SHA-256
+  `636536a8…`, pinned by the 2026-10-25 acceptance evidence). v2 permits `skip_cursor` only when
+  `code` is `response_too_large`, by an `if`/`then`. `PROJECTION_VERSION` (`public-query-v1`), the
+  database and the public-release bytes are unchanged. Decision recorded in `decisions.md`.
+- **F2, retrieval checker (`73881d529`, then `d2426a630`).** The LRITF index link is selected by
+  exact serialized URL, which excludes same-index navigation including a bare `?` or `#`. `safe()`
+  applies the same rule, so a followed link or redirect with a bare `?` or `#` now fails discovery.
+  The base-URL check has the same blind spot and was not changed.
+- Checks: 29 checker tests, 451 workspace tests (1 ignored) and `lex-db` clippy pass; `lritf` and
+  `ifpe-dcg-2021` validate with 0 issues. Full-workspace clippy still fails on two existing
+  `lex-cli` diagnostics (`main.rs:1905`, `db.rs:318`). The R4 deadline qualification is as Codex
+  accepted it.
+- Open: Codex re-review of F2 (handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-codex-reader-f2-rereview.md`
+  in Agent Vault; closeout note `codex-audit-f2-f3-closeout-2026-11-17.md`). The commencement tail (F1)
+  is on `fix/codex-audit-2026-11-17` in the integration worktree. Push and merge need JRH.
+- **Update 2026-11-18:** Codex closed F2 and F3 in `docs/codex-audit-fixes-codex-rereview2-2026-11-18.md`
+  (scoped fixes approved for integration, production rollout not approved). This branch was caught
+  up with `main` (which carries the audit-fix port, PR #6); the duplicate R5 `sqlite_sidecars` helper
+  was reduced to main's copy. The three cleanups listed in that verdict follow as separate commits.
+
 ## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
 
 Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contract and its

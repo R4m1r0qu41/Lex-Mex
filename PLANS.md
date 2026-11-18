@@ -78,6 +78,14 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 - [`docs/plans/four-instrument-reader-design-release.md`](docs/plans/four-instrument-reader-design-release.md)
   — R7+Libro merged into local main976040a2f; exact publication0d142a9a ready for owner-account webpage deployment; see the 2026-10-24 handoff.
 
+- [`docs/plans/database-agent-query-integration.md`](docs/plans/database-agent-query-integration.md)
+  — Accepted SQLite projection to bounded public retrieval. D0–D3 accepted
+  (Codex 2026-10-25); D4 backend runtime open, adapter local.
+
+- [`docs/plans/agent-retrieval-optimization.md`](docs/plans/agent-retrieval-optimization.md)
+  — External IFC/IFPE report review; transport evidence first, then bounded
+  discovery and DB queries. Windowed spike worktree deferred until implementation.
+
 - [`docs/plans/scjn-invalidity-registry-integration.md`](docs/plans/scjn-invalidity-registry-integration.md)
   — Deferred SCJN registry extraction, separate search and reviewed provision links;
   evidence-only in the current database build.

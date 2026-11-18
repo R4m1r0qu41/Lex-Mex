@@ -6,6 +6,7 @@ pub mod load;
 pub mod logical;
 mod parity;
 pub mod probe;
+pub mod public;
 pub mod queries;
 pub mod validation;
 pub mod verify;
