@@ -4248,6 +4248,23 @@ Follow-up (JRH, same day): each ruling's effective date is read from the ruling,
 <https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm>, not from the note. A plain
 invalidation revives no earlier text unless that is stated explicitly.
 
+### 2026-11-16 — SCJN effect dates: rule from the ruling, date from the note (JRH)
+
+The SCJN rulings state that invalidity runs "a partir de la notificación de los puntos
+resolutivos", but they do not print the notification date. JRH: take the rule from the ruling's
+effects sentence and the date from the notification date the Cámara note prints, recording both
+sources. Decision 13 in `docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No
+state changed by this entry.
+
+### 2026-11-17 — LGCS revival notes: the printed text is in force (JRH)
+
+JRH: "On the LGCS they text shown is the one in force". Every unit of the Ley General de
+Comunicación Social whose note says it "recupera su vigencia con el texto que tenía al 27 de
+diciembre de 2022" is in force with the printed text, including the eight art. 4 glossary
+fractions recorded as invalidated in 2026-10. Decision 14 in
+`docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. Not yet applied; no state
+changed by this entry.
+
 ## 2026-11-17 — Public query response v2 (`skip_cursor`)
 
 An item that alone exceeds the response limit used to end list traversal. The
@@ -4265,3 +4282,29 @@ version, not a compatible v1, and not an unreleased-contract replacement.
 bytes are unchanged. The only in-repository consumer of the response schema is
 the Rust adapter (`lex_db::public`); the host handoff records the adapter as
 local only, with nothing deployed.
+
+## 2026-11-18 — LFPA art. 28: 1 October every six years is a non-business day through the Calendario Oficial decree (JRH)
+
+JRH: LFPA art. 28 concerns the day of the transmission of the Executive Power every six years;
+the only time this has happened under the current rule is 1 October 2024; art. 28 does not list
+that day, but the decree published in the DOF on 12-07-2024 (nota 5733285) does. Decision 15.
+Confirmed by JRH on 2026-11-18 when asked directly: it counts as a non-business day for LFPA
+art. 28 counts in 2024 and every six years after (1 October 2030, and so on).
+
+What the decree says (read by Claude from the DOF note, 2026-11-18): "DECRETO por el que se
+reforma el Artículo Segundo del Decreto por el que se establece el Calendario Oficial, publicado
+en el Diario Oficial de la Federación el 6 de octubre de 1993 y su posterior modificación";
+signed 11-07-2024, in force the day after publication. Its Article Second lists "1o. de octubre
+de cada seis años, con motivo de la transmisión del Poder Ejecutivo Federal" among the days of
+"descanso obligatorio para las personas servidoras públicas federales" (apartado B). It is a
+recurring rule (next occurrence 1 October 2030), first applied on 1 October 2024.
+
+Note on the source: the decree speaks of mandatory rest days for federal servants; it does not
+use "día inhábil" and does not mention administrative-procedure plazos. Taking it as the source
+for LFPA art. 28 counts is JRH's reading, confirmed above; the repository did not infer it. The
+calendar's existing 1 December entry stays capped at 2018.
+
+Not yet applied. No calendar data, commencement code or census changed by this entry. Adding
+1 October 2024 to the calendar will move some currently unresolved 2024 business-day counts
+to resolved and so changes the 468-instrument census; that belongs on its own branch with a
+Codex review, after the audit-fix and reader branches are integrated.

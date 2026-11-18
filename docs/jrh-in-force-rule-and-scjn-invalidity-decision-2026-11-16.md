@@ -76,6 +76,33 @@ printed notes name the invalid "porción normativa" where only part of a unit fe
     in-force unless explicitly stated". A unit declared invalid with no statement that earlier
     text "recupera su vigencia" has no text in force. The unit is `repealed`, or the article is
     `partially_repealed` when only part fell.
+13. **Effect rule from the ruling, effect date from the note's notification date.** Reading the
+    rulings showed they state "surtirá sus efectos a partir de la notificación de los puntos
+    resolutivos al Congreso…" but never print that notification date. Notification happens after
+    the ruling is signed: DGI 1/2024 and AI 71/2023 were read in full. Recommended default: take the
+    rule from the ruling's effects sentence and the date from the notification date the Cámara
+    note prints, recording both sources. JRH: "take the rule from the ruling's effects sentence,
+    and the date from the notification date the Cámara note prints. yes this is the correct
+    instanse". This refines decision 11 for notification-based effects. Where no note prints a
+    notification date, the effect date stays empty and only the DOF publication date is kept.
+    Any ruling whose effects do not run from notification still goes to JRH (plan, design 3).
+14. **LGCS: the text shown is the text in force** (JRH, 2026-11-17). Asked about the Ley General
+    de Comunicación Social units whose note reads "recupera su vigencia con el texto que tenía al
+    27 de diciembre de 2022", including the eight glossary fractions of art. 4 that the corpus
+    currently records as invalidated, JRH: "On the LGCS they text shown is the one in force".
+    Every LGCS unit carrying that revival note is in force with the text printed. This reverses
+    the 2026-10 treatment that dropped the art. 4 definitions (`glossary-coverage.json`
+    `invalidated_fractions`; the test comment in `crates/lex-parse/src/terms.rs`). Not yet
+    applied. Units with a suppression note and no revival statement, such as the folded
+    "Artículo 3 Bis.- Suprimido", stay under decision 12; LGCS has 7 such folded placeholders, to
+    be split like the 20 LGIPE ones.
+15. **LFPA art. 28: 1 October every six years is a non-business day** (JRH, 2026-11-18). Art. 28
+    does not list the day of the transmission of the Executive Power since 2024; the Calendario
+    Oficial decree published in the DOF on 12-07-2024 (nota 5733285) does, as a mandatory rest day
+    for federal servants. Asked directly, JRH confirmed it counts as a non-business day for LFPA
+    art. 28 counts in 2024 and every six years after (1 October 2030, and so on). Not yet applied:
+    adding it to the business-day calendar changes the commencement census and needs its own
+    branch and Codex review. Full text in `docs/decisions.md` (2026-11-18).
 
 ## Corrections to earlier records
 
