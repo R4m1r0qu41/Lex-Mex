@@ -14,8 +14,8 @@ file changed. Nothing under `lex-mex-integration` was edited.
 | Branch / worktree | `feat/public-reader-r7`, `/Users/jr/Dev/lex-mex-reader` |
 | Reviewed head (before) | `921e1bd6c26ef643e2cfe35d9473b972dbe5abb8` |
 | F2 commit | `73881d529` |
-| F3 commit | `aeaf5dbc9` (current HEAD) |
-| This note | uncommitted, so that HEAD stays the reviewed commit; commit on request |
+| F3 commit | `aeaf5dbc9` (the code head under review) |
+| This note | docs only, no code. Added in `f06e363fc`; this identity table was corrected in the next docs-only commit on the branch. Review the code at `aeaf5dbc9`; `git diff aeaf5dbc9..HEAD` shows docs changes only. |
 
 ## F2: eligible full-URL selection
 
