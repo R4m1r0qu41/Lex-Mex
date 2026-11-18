@@ -314,8 +314,10 @@ echo '{"operation":"resolve","instrument":"lritf","kind":"article","locator":"35
 ```
 
 `public-query` reads one JSON request per line and answers each with one
-response that validates against `schemas/public-query-response-v1.schema.json`.
-Operations are `coverage`, `resolve`, `search` (literal accent-insensitive
+response that validates against `schemas/public-query-response-v2.schema.json`.
+(v2 adds `skip_cursor` to the `response_too_large` error; the accepted v1 schema
+is kept unchanged as the historical contract, and `public-query-v1` remains the
+database projection version.) Operations are `coverage`, `resolve`, `search` (literal accent-insensitive
 phrase), `get_provision` and `references`. Every operation is confined to the
 bound selection, pages use bound seek cursors, and a missing or stale binding
 stops the process before it serves. Absence never means legal nonexistence, and

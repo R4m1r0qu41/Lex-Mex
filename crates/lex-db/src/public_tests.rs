@@ -1142,6 +1142,123 @@ fn an_oversized_item_returns_a_skip_cursor_and_traversal_continues() {
     assert!(oversized > 0, "the limit did not produce an oversized item");
 }
 
+const V1_SCHEMA: &str = include_str!("../../../schemas/public-query-response-v1.schema.json");
+const V2_SCHEMA: &str = include_str!("../../../schemas/public-query-response-v2.schema.json");
+
+fn accepts(schema: &str, response: &Value) -> bool {
+    let schema: Value = serde_json::from_str(schema).unwrap();
+    jsonschema::validator_for(&schema)
+        .unwrap()
+        .is_valid(response)
+}
+
+#[test]
+fn the_skip_cursor_response_is_a_new_wire_version_and_v1_stays_frozen() {
+    // Codex audit re-review 2026-11-17, F3: the response with a skip_cursor
+    // validated against the changed schema but not against the accepted
+    // closed v1, while still calling itself v1.
+    assert_eq!(RESPONSE_VERSION, "public-query-response-v2");
+    // The v1 file is the accepted 2026-10-25 contract, byte for byte.
+    assert_eq!(
+        format!("{:x}", Sha256::digest(V1_SCHEMA.as_bytes())),
+        "636536a8e58f9855fa7812278944fb69c6e6192be0f4bacaf7e9f104d591f559"
+    );
+    // The query projection is not a response version and did not change.
+    assert_eq!(PROJECTION_VERSION, "public-query-v1");
+
+    let f = fixture();
+    let r = reader(
+        &f,
+        Limits {
+            response_bytes: 1500,
+            ..Limits::default()
+        },
+    );
+    let oversized = ask(
+        &r,
+        &json!({"operation":"search","query":"artículo","page_size":1}),
+    );
+    assert_eq!(code(&oversized), "response_too_large", "{oversized}");
+    assert!(oversized["result"]["skip_cursor"].is_string());
+    assert_eq!(oversized["schema_version"], "public-query-response-v2");
+    assert_eq!(
+        oversized["snapshot"]["projection_version"],
+        "public-query-v1"
+    );
+    assert!(
+        accepts(V2_SCHEMA, &oversized),
+        "v2 rejects its own response"
+    );
+    assert!(
+        !accepts(V1_SCHEMA, &oversized),
+        "the closed v1 must not accept a v2 response"
+    );
+
+    // An ordinary response also names v2 and is not mistaken for v1.
+    let coverage = ask(&r, &json!({"operation":"coverage"}));
+    assert_eq!(coverage["schema_version"], "public-query-response-v2");
+    assert!(accepts(V2_SCHEMA, &coverage));
+    assert!(!accepts(V1_SCHEMA, &coverage));
+}
+
+#[test]
+fn skip_cursor_is_structurally_confined_to_response_too_large() {
+    let f = fixture();
+    let r = reader(
+        &f,
+        Limits {
+            response_bytes: 1500,
+            ..Limits::default()
+        },
+    );
+    let valid = ask(
+        &r,
+        &json!({"operation":"search","query":"artículo","page_size":1}),
+    );
+    assert!(accepts(V2_SCHEMA, &valid));
+    // The same body under any other error code is invalid.
+    let others = [
+        "bad_request",
+        "unknown_instrument",
+        "invalid_locator",
+        "invalid_query",
+        "empty_query",
+        "query_too_long",
+        "invalid_cursor",
+        "cursor_release_mismatch",
+        "cursor_request_mismatch",
+        "as_of_not_supported",
+        "deadline_exceeded",
+        "internal_error",
+        "contract_violation",
+    ];
+    for other in others {
+        let mut moved = valid.clone();
+        moved["result"]["code"] = json!(other);
+        assert!(
+            !accepts(V2_SCHEMA, &moved),
+            "skip_cursor accepted with {other}"
+        );
+        // Without the field the same code stays valid: only the pairing is rejected.
+        moved["result"]
+            .as_object_mut()
+            .unwrap()
+            .remove("skip_cursor");
+        assert!(accepts(V2_SCHEMA, &moved), "{other} without a skip_cursor");
+    }
+    // response_too_large without a skip_cursor remains valid (an empty page
+    // cannot be skipped), and an empty skip_cursor is not.
+    let mut bare = valid.clone();
+    bare["result"]
+        .as_object_mut()
+        .unwrap()
+        .remove("skip_cursor");
+    assert!(accepts(V2_SCHEMA, &bare));
+    let mut empty = valid.clone();
+    empty["result"]["skip_cursor"] = json!("");
+    assert!(!accepts(V2_SCHEMA, &empty));
+}
+
 #[test]
 fn work_after_sqlite_still_counts_against_the_deadline() {
     // Codex audit 2026-11-17, R4: excerpts and serialization run outside the

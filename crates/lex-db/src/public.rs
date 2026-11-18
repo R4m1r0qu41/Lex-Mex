@@ -21,11 +21,14 @@ use std::{
 
 pub const PROJECTION_VERSION: &str = "public-query-v1";
 pub const BINDING_VERSION: &str = "public-query-binding-v1";
-pub const RESPONSE_VERSION: &str = "public-query-response-v1";
+/// v2 adds `skip_cursor` to the `response_too_large` error. The closed v1
+/// schema rejects that field, so the wire identifier changed with it. The
+/// database projection (`PROJECTION_VERSION`) is unchanged.
+pub const RESPONSE_VERSION: &str = "public-query-response-v2";
 /// Largest request a caller may send, in UTF-8 bytes, excluding any delimiter.
 pub const REQUEST_BYTES: usize = 8 * 1024;
 const BINDING_SCHEMA: &str = include_str!("../../../schemas/public-query-binding-v1.schema.json");
-const RESPONSE_SCHEMA: &str = include_str!("../../../schemas/public-query-response-v1.schema.json");
+const RESPONSE_SCHEMA: &str = include_str!("../../../schemas/public-query-response-v2.schema.json");
 const RELEASE_SCHEMA: &str = include_str!("../../../schemas/public-release-v1.schema.json");
 const INSTRUMENT_SCHEMA: &str = include_str!("../../../schemas/public-instrument-v1.schema.json");
 const KINDS: [&str; 3] = ["article", "transitory", "annex"];

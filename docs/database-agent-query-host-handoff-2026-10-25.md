@@ -12,9 +12,13 @@ broaden the public scope beyond the four instruments of public release
 - Rust adapter `lex_db::public` with CLI entry points `lex-mex db public-bind`
   and `lex-mex db public-query`. The query command reads JSON lines on stdin
   and writes JSON lines on stdout.
-- Contract: `schemas/public-query-response-v1.schema.json`. Every response is
-  validated against it before it is emitted. The binding is checked against
-  `schemas/public-query-binding-v1.schema.json`.
+- Contract: `schemas/public-query-response-v1.schema.json` as accepted on
+  2026-10-25. **Amended 2026-11-17:** the adapter now emits
+  `schemas/public-query-response-v2.schema.json` (`public-query-response-v2`),
+  which adds `skip_cursor` to the `response_too_large` error. The v1 file is
+  unchanged and no longer what the adapter emits; the acceptance evidence JSON pins its hash.
+  Every response is validated against the emitted schema before it is sent. The
+  binding is checked against `schemas/public-query-binding-v1.schema.json`.
 - Acceptance evidence: `docs/database-agent-query-acceptance-2026-10-25.md`.
 
 ## Exact bindings
