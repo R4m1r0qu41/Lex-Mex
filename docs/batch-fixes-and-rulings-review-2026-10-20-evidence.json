@@ -1,0 +1,136 @@
+{
+  "status": "review_two_remaining_technical_findings",
+  "parser_commit": "1647daaa80903f3c3cd673c46849caa78660fff7",
+  "native_checks": {
+    "fmt": "pass",
+    "strict_workspace_clippy": "pass",
+    "workspace_tests_passed": 378,
+    "isolated_target": "/private/tmp/lex-parser-review-target",
+    "canonical_cli_mutations": false
+  },
+  "source_audit": {
+    "commit": "1647daaa80903f3c3cd673c46849caa78660fff7",
+    "sources": {
+      "ltfccg": {
+        "checks": {
+          "pdf": {
+            "retained": true,
+            "matches_manifest": true
+          },
+          "txt": {
+            "retained": true,
+            "matches_manifest": true
+          }
+        },
+        "instrument_manifest_hashes_agree": true
+      },
+      "fi-dcg-2014": {
+        "checks": {
+          "pdf": {
+            "retained": true,
+            "matches_manifest": true
+          },
+          "txt": {
+            "retained": true,
+            "matches_manifest": true
+          }
+        },
+        "instrument_manifest_hashes_agree": true
+      }
+    },
+    "fi_edition": {
+      "added_ids": [
+        "urn:lex-mx:federal:regulation:fi-dcg-2014:article:6-bis"
+      ],
+      "removed_ids": [],
+      "repealed_classifications_unchanged": 43,
+      "terms": 25,
+      "usages": 278
+    },
+    "quoted_senses_terms_changed_files": [
+      "corpus/mx/lan/terms.json"
+    ],
+    "lan_new_terms": [
+      {
+        "id": "urn:lex-mx:federal:statute:lan:term:region-hidrologica",
+        "term": "Regi\u00f3n hidrol\u00f3gica",
+        "fraction": "XVI",
+        "inciso": "a",
+        "basis": "express_definition"
+      },
+      {
+        "id": "urn:lex-mx:federal:statute:lan:term:region-hidrologico-administrativa",
+        "term": "Regi\u00f3n Hidrol\u00f3gico - Administrativa",
+        "fraction": "XVI",
+        "inciso": "b",
+        "basis": "express_definition"
+      },
+      {
+        "id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
+        "term": "Permisos de Descarga",
+        "fraction": "XL",
+        "inciso": "b",
+        "basis": "express_definition"
+      }
+    ],
+    "held_import_adapters_unchanged": {
+      "reg-lgeepa-maaa": true,
+      "reg-lgeepa-mretc": true
+    }
+  },
+  "census": {
+    "commit": "1647daaa8",
+    "totals": {
+      "terms": 5756,
+      "usages": 99516,
+      "cross_instrument_usages": 2545,
+      "lritf_autoridad_financiera_usages": 88,
+      "references": 35950
+    },
+    "strategy": {
+      "glossary-extraction-6": 468
+    }
+  },
+  "findings": [
+    {
+      "priority": "P1",
+      "function": "write_closure_outputs/run_batch_closure",
+      "issue": "accepted-gap glossary-only changes not reported in relinked_instruments and not republished to optional external vault",
+      "evidence": "production control-flow inspection",
+      "dynamic_reproduction_claimed": false
+    },
+    {
+      "priority": "P2",
+      "instrument": "ltfccg",
+      "provision": "article:16",
+      "issue": "unchanged scoped partial-repeal text loses deterministic basis/confidence and machine acceptance after reparse",
+      "evidence": "before/after pinned records and compiled public API reproducer",
+      "repair_count": 0,
+      "determination_for_article16": false
+    }
+  ],
+  "closed": [
+    "whitespace lookback mismatch",
+    "whole-word title exception",
+    "ordinary outside-batch closure"
+  ],
+  "pending_operator_items": [
+    "D1 authority names and imported usages",
+    "D2 LAN XVI readings",
+    "D3 ltfccg IX"
+  ],
+  "accepted_operator_items": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5/A6 mapping approved but technical implementation held"
+  ],
+  "commit_merge_push": "none; integrated-result push authorization not yet actionable",
+  "reviewed_source_sha256": {
+    "crates/lex-cli/src/main.rs": "98b2e63625efb6bb9713ab3a191fedaed85146eb5e83a318c0c81bed4365cc72",
+    "crates/lex-parse/src/terms.rs": "c2a5aba514de63b64c0104efa493fdc01a32fb370b13ebe8420f3eecbf8e0acf",
+    "crates/lex-parse/src/temporal_derive.rs": "57d977ebea0807e381971ff7466d293806d2fead4c6d54798c899ad4c8735cba",
+    "docs/operator-decisions-2026-10-20.md": "76e4c469eae52cd3b3163b08ce3f9f15b46d013f8603c056a0c68c7e096aff10"
+  }
+}

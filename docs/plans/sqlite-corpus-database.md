@@ -484,6 +484,75 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-21 (remote main verified): operator explicitly requested push. Local
+main remains reviewed e718da2e5ee463446bfe5987ce9a352913d8280b; normal
+`git push origin main:main` returned "Everything up-to-date". Independent
+`git ls-remote --heads origin refs/heads/main` confirms that exact remote OID.
+No force, other branch push, commit or tracked-file change in shared main.
+All three operator-untracked files preserved. No push remains pending.
+
+
+2026-10-20 (integrated main accepted for authorized push): Codex accepts exact
+main `e718da2e5ee463446bfe5987ce9a352913d8280b`. Ordered normal merges and seed
+ancestry verified; 412 isolated tests/fmt/strictClippy/private LRITF+IFPE/17seed
+checks pass. Independent full verifier A matches208888records/4960inputs/
+9997279FTSpositions,staleempty; bothartifacts byte/manifest-identical and21goldens
+pass. Prior accepted-gap/partial-repeal findings closed. See
+[review](../integrated-main-review-2026-10-20.md) and evidence. Claude may now
+push main only if HEAD remains exactly this commit; no push performed by Codex.
+
+2026-10-20 (M4 report committed; ordered integration authorized): commit
+`047b421efe9ef6575288bb6d35b6190fc9e2d192` contains exactly M4 report/evidence,
+parent fedcbc5d. Operator assigns Claude normal merges DB→pending batch→rulings,
+DB expectation reconciliation and push only after Codex accepts the exact merged
+result. New parser commits b16ebc0ba/4069fe65d are not yet reviewed by Codex.
+See [handoff](../db-first-integration-handoff-2026-10-20.md). No merge/push here;
+all unrelated operator files and uncommitted review/plan drafts preserved.
+
+2026-10-20 (batch fixes/rulings review at `1647daaa8`): whitespace and
+ordinary outside-batch closure repairs pass; 378 isolated tests/fmt/Clippy pass.
+Remaining P1: accepted-gap glossary-only changes are omitted from closure's
+publication set, leaving optional external Obsidian copies stale. P2: ltfccg16
+unchanged scoped repeal loses machine provenance; actual public APIs reproduce
+repair0/no determination. Retained ltfccg/FI sources match manifests; FI adds
+6Bis, keeps43repealed, releases25terms/278usages. Final census5756terms/99516usages/
+35950refs/strategy6;cross2545,LRITFauthority88. A1-A4 rulings recorded; D1-D3
+remain pending; A5/A6 imports technically held without rescinding rulings. See
+[review](../batch-fixes-and-rulings-review-2026-10-20.md) and companion evidence.
+No parser/corpus/merge/push changes; designated Claude integration ownership
+preserved. B4 push authorization requires integrated-result review first.
+
+2026-10-20 (parser integration review): parser branch `cf8eed626` passes 374
+isolated-target tests, fmt and strict Clippy. Audit confirms all 253 printed-name
+removals and no other provision-field/reference changes in seven reparses.
+Two technical follow-ups: enforce corpus-wide glossary closure after admissions;
+fix normalized-title lookback versus expanded source whitespace (reproduced).
+See [parser review](../parser-batch-review-2026-10-20.md) and evidence. Pinned
+parser census: 5,728 terms/99,243 usages/35,949 references/strategy5; cross-usage
+golden 2,581→2,545, LRITF authority remains88. Parser tree kept read-only for
+its designated integration owner. M4 acceptance remains separate and valid.
+
+2026-10-20 (M4 independently accepted): Claude accepts M3 repairs and M4;
+a separately compiled release binary in a scratch clone reproduces both bytes
+and manifest (third build), verifier/goldens pass and duplicate-key forgery is
+rejected. Same-host/toolchain boundary unchanged. Operator's DB-first order is
+recorded in the parser-batch handoff: designated Claude integration merges DB
+normally before parser/pending-batch, updates strategy-5 fixtures/goldens and
+rebuilds the new corpus. Parser batch is under separate bounded review; this
+acceptance does not validate those new parser inputs. No merge performed here.
+
+2026-10-20 (M4 complete; pending independent review): operator-authorized M3
+commit `fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58` is the permanent source and
+builder for both fresh M4 runs. Manifest, database bytes and logical digest are
+identical. Build A/B 213.67/213.81s; independent verification 162.79/162.65s,
+all 213,471 records/4,960 inputs/9,996,277 FTS positions; both stale lists empty.
+All 21 native golden queries and eight supplementary local query results agree.
+399 tests/native checks and required validators pass. No corpus/legal changes,
+no push, no main merge. M4 reports are uncommitted. See
+[report](../sqlite-m4-reproducibility-2026-10-20.md) and companion evidence JSON
+for artifacts, hashes, complete counts, query plans, engine differences and
+recovery commands. Same-environment reproducibility only; no performance SLA.
+
 2026-10-20 (M3 review repaired; pending re-review): Claude identified duplicate-key JSON
 forgery: serde last-wins reconstruction could disagree with SQLite first-wins
 query columns. Version-2 stored extras/payload JSON must be UTF-8 compact JSON,
@@ -636,5 +705,5 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 2026-10-20 (commit authorization): the operator authorized committing M2 after the successful full build and 392-test gate. The validation artifact retains its original test-builder identity.
 
-Exactly one current next action: independent M3 repair re-review before an authorized commit and M4 permanent-builder reproducibility builds.
+Exactly one current next action: select the next corpus milestone; integrated main is reviewed and verified on origin.
 Keep M3 independent verification and M4 full-corpus reproducibility separate.

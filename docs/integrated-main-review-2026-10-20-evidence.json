@@ -1,0 +1,146 @@
+{
+  "verdict": "accept_exact_integrated_commit_for_operator_authorized_claude_main_push",
+  "commit": "e718da2e5ee463446bfe5987ce9a352913d8280b",
+  "native_checks": {
+    "fmt": "pass",
+    "strict_workspace_clippy": "pass",
+    "workspace_tests_passed": 412,
+    "isolated_target": "/private/tmp/lex-integrated-review-target",
+    "cli_build": "pass"
+  },
+  "private_validators": {
+    "clone": "/private/tmp/lex-integrated-validator-clone",
+    "pinned_commit": "e718da2e5ee463446bfe5987ce9a352913d8280b",
+    "lritf": {
+      "articles": 145,
+      "transitories": 11,
+      "references": 126,
+      "issues": 0
+    },
+    "ifpe-dcg-2021": {
+      "articles": 59,
+      "transitories": 4,
+      "references": 115,
+      "issues": 0
+    }
+  },
+  "seed_rows_validated": 17,
+  "independent_codex_verification_of_artifact_a": {
+    "schema_version": "2",
+    "release_id": "52e22ce40e0bf51e2b5015d303306e7c10300ffc0b79abf8c1c3b2ba6ba2b817",
+    "corpus_commit": "e718da2e5ee463446bfe5987ce9a352913d8280b",
+    "head_commit": "e718da2e5ee463446bfe5987ce9a352913d8280b",
+    "stale_input_paths": [],
+    "input_files": 4960,
+    "normalized_records": 208888,
+    "table_counts": {
+      "corpus_release": 1,
+      "coverage": 1872,
+      "coverage_accepted_gaps": 5,
+      "defined_terms": 5766,
+      "enactment_evidence": 99,
+      "evidence_artifacts": 1673,
+      "glossary_coverage": 468,
+      "input_files": 4960,
+      "instrument_reproducibility": 0,
+      "instruments": 468,
+      "known_structural_debt": 17,
+      "legal_operator_reviews": 16,
+      "outdated_reference_approvals": 17,
+      "provisions": 68329,
+      "reference_edges": 35950,
+      "reference_qualifiers": 12360,
+      "source_anchors": 68797,
+      "source_manifests": 498,
+      "standards_catalog": 32,
+      "term_usages": 97808
+    },
+    "fts_token_occurrences": 9997279,
+    "database_sha256": "db2974d9341db6628da63bc0cf101170356468f04ae4e7a3419aa1d1e0cbcd3c",
+    "logical_content_sha256": "7d6b1c2dabec6d93a7c473f8fb833ad57336fdf8192c82c61241b01c1c17f25b"
+  },
+  "artifacts": [
+    {
+      "directory": "/Users/jr/Dev/lex-mex/derived/db/integ-e718-a/52e22ce40e0bf51e2b5015d303306e7c10300ffc0b79abf8c1c3b2ba6ba2b817",
+      "database_sha256": "db2974d9341db6628da63bc0cf101170356468f04ae4e7a3419aa1d1e0cbcd3c",
+      "manifest_sha256": "e96745ad57922529ab0d809e3bfb77579ee68be47ef53bdbf6f967e720ee765c",
+      "database_bytes": 481558528,
+      "golden_checks": 21
+    },
+    {
+      "directory": "/Users/jr/Dev/lex-mex/derived/db/integ-e718-b/52e22ce40e0bf51e2b5015d303306e7c10300ffc0b79abf8c1c3b2ba6ba2b817",
+      "database_sha256": "db2974d9341db6628da63bc0cf101170356468f04ae4e7a3419aa1d1e0cbcd3c",
+      "manifest_sha256": "e96745ad57922529ab0d809e3bfb77579ee68be47ef53bdbf6f967e720ee765c",
+      "database_bytes": 481558528,
+      "golden_checks": 21
+    }
+  ],
+  "supplementary_sql": {
+    "terms": [
+      [
+        5766
+      ]
+    ],
+    "cross_usages": [
+      [
+        2469
+      ]
+    ],
+    "coverage": [
+      [
+        "acquired",
+        "source_manifest_recorded",
+        468
+      ],
+      [
+        "analyzed",
+        "not_assessed",
+        468
+      ],
+      [
+        "linked",
+        "accepted_gap",
+        5
+      ],
+      [
+        "linked",
+        "stored_graph_validated",
+        463
+      ],
+      [
+        "structured",
+        "canonical_records_present",
+        468
+      ]
+    ],
+    "partial": [
+      [
+        "partially_repealed",
+        "machine_accepted",
+        "deterministic_rule",
+        1.0,
+        null
+      ]
+    ],
+    "ltfccg16_pre_reparse_temporal_fields_restored": true
+  },
+  "merges": {
+    "346447ec8": "346447ec86f31ebf2b0852f4e3f4539edfc6747f db48f899d7cfdbc59736291473a335cf434cfcaf 047b421efe9ef6575288bb6d35b6190fc9e2d192",
+    "a813384cb": "a813384cbbd68bf4f655b68dfdce4f2802bcf993 346447ec86f31ebf2b0852f4e3f4539edfc6747f a749c81f0e4bd45dbe523d9631440c67f4fb93d0",
+    "e718da2e5": "e718da2e5ee463446bfe5987ce9a352913d8280b a813384cbbd68bf4f655b68dfdce4f2802bcf993 4069fe65d103351e29e9c086476636ca327f52ce"
+  },
+  "source_tree_equivalence": {
+    "db_merge_matches_047b421ef": true,
+    "integrated_corpus_matches_4069fe65d": true,
+    "seed_6505baf57_ancestry_preserved": true
+  },
+  "upstream_reported_not_rerun": [
+    "two fresh integrated database builds",
+    "full verification of artifact B",
+    "link --all exact5acceptedgaps and all468instrument validations"
+  ],
+  "codex_additional_full_db_build": false,
+  "historical_m4_artifact_unchanged": true,
+  "shared_canonical_cli_writes": false,
+  "commit_merge_push_performed": false
+}
