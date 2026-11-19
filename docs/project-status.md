@@ -33,6 +33,63 @@
 
 **Follow-up later on 2026-11-18 (JRH: "leg4ll4bs.com/lex-mex is broken"):** the redeploy did not cause it; nothing under the website `worker/` changed between `1ddfde5` and `ac8aaea`. The firm homepage's "Lex-Mex" link and the main sitemap point to `/lex-mex/mx/`, an agent hub whose CSP (`default-src 'none'`) blocked any style, so people saw bare HTML. Website branch `web/hub-style-legal-deps` (`596eb21`, `ca3f53a`, `ca8c0bc`; deployed with JRH's approval as version `fef9af53-063d-4815-bf4d-38b9c11420c8`, rollback `wrangler rollback 46f8d4dc-24d6-48da-9bc8-9b9ca9df648d`, live verifier 7,754/7,754 with 0 errors, website `main` fast-forwarded to `8864558`, pin unchanged `c305db4a`): same-origin `/lex-mex/hub.css` with `style-src 'self'` and a `rel="nofollow"` reader link (agents do not fetch it, so the 4 KB agent-page budget holds: `/lex-mex/agents/` 2,917 bytes), an "Abrir en el lector" link that deep-links article pages into the reader, titles beginning `LEG4L L4BS — Legal Labs`, and patched dependencies (`npm audit` 35 → 8, no critical; the rest need a vinext major or are dev-only drizzle-kit). Checks: `npm test` 17/17, tsc, lint 0 errors, dry-run, local `wrangler dev` render in Chrome. The producer copy is on branch `reader/hub-style` (from `backport-discoverability-pages`, which is still unmerged; query-http and agent-pages tests 22/22). Google Search Console (JRH's 2026-11-15 note) reported about 1,110 Lex-Mex pages indexed; the agents' WebSearch backend returned nothing for the domain on 2026-11-18, which is why independent-agent runs keep finding mLey (one of its 11 sitemaps alone lists about 12,000 URLs, against 880 here) and not Lex-Mex.
 
+**2026-11-19 (Bing, independent agents, suggestions):**
+- **Bing Webmaster Tools** (JRH's signed-in account, driven by the orchestrator): both sitemaps were submitted on 2026-11-14 and read (articles show "Discovered on 14 Nov 2026"). Bing has never crawled the articles ("Discovered but not crawled"), and Site Explorer lists no indexed Lex-Mex URL. The homepage is indexed.
+  - **Live tests:** `/lex-mex/mx/`, `/lex-mex/mx/lritf/` and LRITF art. 7 pass ("URL can be indexed by Bing"); the last two are flagged "Title too long" and "Meta Description too long or too short". One test of LRITF art. 19 returned "fetched but not able to process" and was not reproduced on art. 7; re-test it.
+  - **Stale result:** Bing's 2026-11-14 crawl of `/lex-mex/mx/` recorded "Indexing allowed? No". No code cause was found: the production commit that day (`1ddfde5`) sent no noindex there.
+  - **Submitted 100 URLs (daily quota):** `/lex-mex/mx/`, `/lex-mex/agents/`, the four instrument hubs and LRITF arts. 1-94.
+  - **Remaining:** about 780 URLs (IFPE, ITF, LIC, the rest of LRITF). They need about eight more days of manual quota, or IndexNow (a key file served by the site, i.e. a website code change and deploy, for JRH to approve).
+- **Independent agents:** same prompts as 2026-11-18, fresh Sonnet subagents, records [organic](Agent_Tests/2026-11-19_claude_claude-code-subagent_organic.md) and [browse](Agent_Tests/2026-11-19_claude_claude-code-subagent_browse.md).
+  - **Organic:** unchanged. No leg4ll4bs.com result; answers came from mley.mx and the DOF. It is a baseline only, because its search backend is neither Bing nor Google.
+  - **Browse:** nine quotes graded, nine verbatim corpus matches; Q10 and Q11 correctly refused as outside the collection. The remaining friction is literal search missing LRITF art. 11 and WebFetch refusing to quote.
+  - **New finding:** `search` returns 400 for any `limit` above 10, with only "Consulta inválida". `llms.txt` never states the maximum.
+- **Website `npm ci`** in the primary checkout installed 565 packages. The six skipped install scripts (esbuild, workerd, fsevents, unrs-resolver) are harmless: the esbuild and workerd binaries run. `npm test` 17/17, lint 0 errors, dry-run passes.
+- **Suggestions recorded, not applied** (website code; the vendored `worker/lex-mex/query-http.mjs` and the producer `reader/query-http.mjs` together, with a `TEMPLATE` bump; the website test at `tests/rendered-html.test.mjs:554` asserts the current article title):
+  - Article titles of 65 characters or less, with the short form first. The full instrument name stays in the h1 and JSON-LD.
+  - Descriptions of 155 characters or less.
+  - A self-canonical plus `noindex, follow` on `/referencias` pages.
+  - A 301 to the clean URL instead of a 400 for unknown query parameters on human pages.
+  - A 301 for a trailing slash on article URLs (now 404).
+  - Cloudflare "Always Use HTTPS" (`http://` now serves 200).
+  - A missing space in the `/lex-mex/mx/` description ("SHA-256, deDCG-IFPE-2021").
+- **Google Search Console** (the operator's second Chrome Google account, `/u/1/`):
+  - 1.11K pages indexed, 199 not indexed (101 noindex by design; 22 `/referencias` duplicates; 54 crawled but not indexed).
+  - Lex-Mex: 229 impressions, average position 18.5, 1 click, on 154 pages, for queries such as "lic", "ifpe", "disposiciones ifpe" and "lritf".
+  - Indexing is fine; ranking (about page 2) is the weak point.
+- **[H-series head-to-head](Agent_Tests/2026-11-19_claude_h-series-head-to-head.md):** answers whether Lex-Mex, once found, is a lot better than an agent searching mLey. Ten lay-phrased questions, answer key written before the runs, one Sonnet run per arm.
+  - **Scores:** Lex-Mex MCP 40/40 in 60 calls; web/mLey 40/40 in about 33 calls; the full local corpus 38/40.
+  - **Verdict:** the pre-stated bar (Lex-Mex ahead by at least 4 points) was not met. Reading and quoting tie; every arm quoted verbatim.
+  - **Where Lex-Mex loses — finding:**
+    - Literal search finds nothing for "sandbox", "secreto bancario" or "patrimonio propio".
+    - There is no MCP contents or slug list: transitorio OCTAVA took 17 calls.
+    - Coverage is four instruments, so it could not answer the LFT question.
+  - **Where nobody won:** the Banco de México secondary rules (permitted virtual assets, overdraft limit), and per-article amendment history.
+  - **Proposed for JRH:**
+    - a concept and alias index, plus stemmed search (a contract change: Codex and JRH);
+    - MCP `list_instruments` and `get_contents`;
+    - secondary-rule chains;
+    - per-article amendment history;
+    - full publication.
+- **Website `4f39937`** (search-facing titles per JRH: "Artículo N LRITF (Ley Fintech) | Art. N LRITF", "DCG IFPE", "DCG ITF", "Ley Fintech (LRITF): índice de artículos", "Transitorio …", with no "Lex-Mex" suffix):
+  - Also: descriptions of 155 characters or less, `/referencias` self-canonical plus `noindex, follow`, a 400 that names the limit range, the limit stated in `llms.txt`, and the IndexNow key file.
+  - **Checks:** all 880 sitemap pages checked locally (200, titles of 51 characters or less); `npm test` 17/17; producer branch `reader/search-titles` 22/22.
+  - **Deployed by JRH** (the auto-mode classifier blocked the agent's deploy) as version `17989ef6-ac4f-4971-b0fe-e387437d340c`; rollback `wrangler rollback fef9af53-063d-4815-bf4d-38b9c11420c8`. Live spot checks:
+    - titles as above;
+    - `/referencias` canonical and `noindex, follow` present;
+    - key file served;
+    - 400 text and `llms.txt` limit present.
+    - Live verifier: 7,754/7,754 checks, 0 errors.
+  - **IndexNow:** all 878 sitemap URLs submitted (the first bulk POST returned 403 while the new key was being validated; the retry returned 200).
+- **Search Console notification (data as of 2026-11-15):**
+  - 33 "duplicate without canonical" are the `/referencias` pages, fixed by the deploy above.
+  - 1 soft 404 is a reader URL with `?release=…&instrument=…&provision=…`. Reader links have been `nofollow` since 2026-11-18.
+  - 329 "Discovered – currently not indexed" are crawl queue for a new domain.
+  - 98 "Crawled – currently not indexed" are mostly `.md` twins and thin pages.
+- **MCP graph tools** (JRH: "Build the MCP"): local prototype on branch `feat/mcp-graph-tools`. Plan: `docs/plans/mcp-graph-tools.md` on that branch.
+  - **Held-out result:** graph tools over the full corpus 40/40; web/mLey 40/40.
+  - The web arm was more complete wherever CNBV/Banxico/SHCP secondary rules missing from the corpus mattered.
+  - **Next:** a clean four-instrument rerun, three tool fixes, then JRH decisions on secondary-rule coverage and on the release format.
+
 **Superseded item (kept for the record):** the reader integration delta (the merge resolution and five commits: base-URL bare `?`/`#`, pre-hash navigation fixtures, the `assert_is_empty` clippy fix, `report.ok` assertions, main's example model text). Handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-reader-integration-delta-review.md` in Agent Vault.
 
 **Still in flight:**
