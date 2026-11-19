@@ -73,7 +73,22 @@
 - **Website `4f39937`** (search-facing titles per JRH: "Artículo N LRITF (Ley Fintech) | Art. N LRITF", "DCG IFPE", "DCG ITF", "Ley Fintech (LRITF): índice de artículos", "Transitorio …", with no "Lex-Mex" suffix):
   - Also: descriptions of 155 characters or less, `/referencias` self-canonical plus `noindex, follow`, a 400 that names the limit range, the limit stated in `llms.txt`, and the IndexNow key file.
   - **Checks:** all 880 sitemap pages checked locally (200, titles of 51 characters or less); `npm test` 17/17; producer branch `reader/search-titles` 22/22.
-  - **Not yet deployed:** the auto-mode classifier blocked `wrangler deploy`, so the deploy waits for JRH. IndexNow submission follows the deploy.
+  - **Deployed by JRH** (the auto-mode classifier blocked the agent's deploy) as version `17989ef6-ac4f-4971-b0fe-e387437d340c`; rollback `wrangler rollback fef9af53-063d-4815-bf4d-38b9c11420c8`. Live spot checks:
+    - titles as above;
+    - `/referencias` canonical and `noindex, follow` present;
+    - key file served;
+    - 400 text and `llms.txt` limit present.
+    - Live verifier: 7,754/7,754 checks, 0 errors.
+  - **IndexNow:** all 878 sitemap URLs submitted (the first bulk POST returned 403 while the new key was being validated; the retry returned 200).
+- **Search Console notification (data as of 2026-11-15):**
+  - 33 "duplicate without canonical" are the `/referencias` pages, fixed by the deploy above.
+  - 1 soft 404 is a reader URL with `?release=…&instrument=…&provision=…`. Reader links have been `nofollow` since 2026-11-18.
+  - 329 "Discovered – currently not indexed" are crawl queue for a new domain.
+  - 98 "Crawled – currently not indexed" are mostly `.md` twins and thin pages.
+- **MCP graph tools** (JRH: "Build the MCP"): local prototype on branch `feat/mcp-graph-tools`. Plan: `docs/plans/mcp-graph-tools.md` on that branch.
+  - **Held-out result:** graph tools over the full corpus 40/40; web/mLey 40/40.
+  - The web arm was more complete wherever CNBV/Banxico/SHCP secondary rules missing from the corpus mattered.
+  - **Next:** a clean four-instrument rerun, three tool fixes, then JRH decisions on secondary-rule coverage and on the release format.
 
 **Superseded item (kept for the record):** the reader integration delta (the merge resolution and five commits: base-URL bare `?`/`#`, pre-hash navigation fixtures, the `assert_is_empty` clippy fix, `report.ok` assertions, main's example model text). Handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-reader-integration-delta-review.md` in Agent Vault.
 
