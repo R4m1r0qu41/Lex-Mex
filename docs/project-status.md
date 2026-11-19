@@ -52,6 +52,28 @@
   - A 301 for a trailing slash on article URLs (now 404).
   - Cloudflare "Always Use HTTPS" (`http://` now serves 200).
   - A missing space in the `/lex-mex/mx/` description ("SHA-256, deDCG-IFPE-2021").
+- **Google Search Console** (the operator's second Chrome Google account, `/u/1/`):
+  - 1.11K pages indexed, 199 not indexed (101 noindex by design; 22 `/referencias` duplicates; 54 crawled but not indexed).
+  - Lex-Mex: 229 impressions, average position 18.5, 1 click, on 154 pages, for queries such as "lic", "ifpe", "disposiciones ifpe" and "lritf".
+  - Indexing is fine; ranking (about page 2) is the weak point.
+- **[H-series head-to-head](Agent_Tests/2026-11-19_claude_h-series-head-to-head.md):** answers whether Lex-Mex, once found, is a lot better than an agent searching mLey. Ten lay-phrased questions, answer key written before the runs, one Sonnet run per arm.
+  - **Scores:** Lex-Mex MCP 40/40 in 60 calls; web/mLey 40/40 in about 33 calls; the full local corpus 38/40.
+  - **Verdict:** the pre-stated bar (Lex-Mex ahead by at least 4 points) was not met. Reading and quoting tie; every arm quoted verbatim.
+  - **Where Lex-Mex loses — finding:**
+    - Literal search finds nothing for "sandbox", "secreto bancario" or "patrimonio propio".
+    - There is no MCP contents or slug list: transitorio OCTAVA took 17 calls.
+    - Coverage is four instruments, so it could not answer the LFT question.
+  - **Where nobody won:** the Banco de México secondary rules (permitted virtual assets, overdraft limit), and per-article amendment history.
+  - **Proposed for JRH:**
+    - a concept and alias index, plus stemmed search (a contract change: Codex and JRH);
+    - MCP `list_instruments` and `get_contents`;
+    - secondary-rule chains;
+    - per-article amendment history;
+    - full publication.
+- **Website `4f39937`** (search-facing titles per JRH: "Artículo N LRITF (Ley Fintech) | Art. N LRITF", "DCG IFPE", "DCG ITF", "Ley Fintech (LRITF): índice de artículos", "Transitorio …", with no "Lex-Mex" suffix):
+  - Also: descriptions of 155 characters or less, `/referencias` self-canonical plus `noindex, follow`, a 400 that names the limit range, the limit stated in `llms.txt`, and the IndexNow key file.
+  - **Checks:** all 880 sitemap pages checked locally (200, titles of 51 characters or less); `npm test` 17/17; producer branch `reader/search-titles` 22/22.
+  - **Not yet deployed:** the auto-mode classifier blocked `wrangler deploy`, so the deploy waits for JRH. IndexNow submission follows the deploy.
 
 **Superseded item (kept for the record):** the reader integration delta (the merge resolution and five commits: base-URL bare `?`/`#`, pre-hash navigation fixtures, the `assert_is_empty` clippy fix, `report.ok` assertions, main's example model text). Handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-reader-integration-delta-review.md` in Agent Vault.
 
