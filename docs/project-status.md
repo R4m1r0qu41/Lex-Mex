@@ -29,6 +29,8 @@
 - Corpus defect to queue: `corpus/mx/ifpe-dcg-2021/provisions.json` art. 7 fr. I reads "El Identificador de Cliente El Identificador de Cliente y". The duplication is in the canonical text, so it comes from extraction, not the Markdown export. Whether the official CNBV/DOF text repeats it is unchecked; if not, it is a parser defect needing a fixture, a corpus diff and a new release.
 - Search-only agent: leg4ll4bs.com/lex-mex never appeared in 9 queries; mley.mx, leyes-mx.com, sdv.com.mx and the official sources did, and the brand string was misread as "L4SB". The WebSearch backend is US-only and is not Google or Bing, so this neither confirms nor refutes Google/Bing indexing; the operator should check `site:leg4ll4bs.com/lex-mex` in both, or Search Console.
 
+- Post-deploy smoke (fresh domain-only agent, version `46f8d4dc`): Q01, Q03 and Q10 answered correctly (Q03 quote verbatim from the `.md` page, Q10 refused as outside the collection); titles and canonicals on `/` and `/en` are the new ones; the `/lex-mex/` 308 then 307 then `index.html` chain is unchanged.
+
 **Superseded item (kept for the record):** the reader integration delta (the merge resolution and five commits: base-URL bare `?`/`#`, pre-hash navigation fixtures, the `assert_is_empty` clippy fix, `report.ok` assertions, main's example model text). Handoff `provider-handoffs/pending/codex/2026-11-18-lex-mex-reader-integration-delta-review.md` in Agent Vault.
 
 **Still in flight:**
