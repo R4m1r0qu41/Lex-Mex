@@ -1,0 +1,75 @@
+{
+  "status": "parser_review_two_technical_followups_m4_independently_accepted",
+  "parser_commit": "cf8eed626e9df71b50c922c163e88d1d1f277acc",
+  "db_commit": "fedcbc5dbe1ae7d87a6dce0e0e521f56b28b9a58",
+  "printed_name_audit": {
+    "removed": 253,
+    "added": 0,
+    "instruments": 91,
+    "outside_exact_names": 0
+  },
+  "reparse_audit": {
+    "instruments": 7,
+    "other_provision_field_changes": 0,
+    "reference_files_changed": 0
+  },
+  "whitespace_reproducer": {
+    "production_functions": [
+      "lower",
+      "title_end",
+      "covering_titles"
+    ],
+    "title": "ley de aguas nacionales",
+    "text": "Ley                                                                                de Aguas Nacionales",
+    "usage": "Nacionales",
+    "title_end_matches": true,
+    "covering_titles": [],
+    "rustc_edition": "2024",
+    "current_corpus_impact": "not established"
+  },
+  "native_checks": {
+    "fmt": "pass",
+    "clippy_workspace_all_targets_deny_warnings": "pass",
+    "workspace_tests": 374,
+    "target_dir": "/private/tmp/lex-parser-review-target",
+    "canonical_cli_mutations_run": false
+  },
+  "census": {
+    "commit": "cf8eed626",
+    "totals": {
+      "terms": 5728,
+      "usages": 99243,
+      "cross_instrument_usages": 2545,
+      "lritf_autoridad_financiera_usages": 88,
+      "references": 35949
+    },
+    "strategy": {
+      "glossary-extraction-5": 468
+    }
+  },
+  "cross_usage_golden": {
+    "reviewed_m4": 2581,
+    "pending_parser": 2545,
+    "must_reconcile_after_normal_merge": true
+  },
+  "findings": [
+    {
+      "priority": "P1",
+      "function": "run_batch_closure",
+      "issue": "batch completion does not enforce new corpus-wide title dependency",
+      "impact": "future admissions/publication; no claim current relinked corpus is stale"
+    },
+    {
+      "priority": "P2",
+      "function": "covering_titles",
+      "issue": "normalized longest-title length bounds raw-character lookback despite arbitrary whitespace acceptance"
+    }
+  ],
+  "files_changed": "DB-worktree documentation only; parser shared tree read-only",
+  "commit_status": "no new commit, merge or push",
+  "reviewed_source_sha256": {
+    "crates/lex-cli/src/main.rs": "37cdbf0acf35212d26270ef4b0d6d99bd3cf036094fb632373fd430df6bdc5db",
+    "crates/lex-parse/src/terms.rs": "dd8a46c38323eff08db91446775d2813c982b40095366f8dc846c5568501d738",
+    "crates/lex-parse/src/diputados.rs": "71a099e6c39563f0623a5b2577bb3f702fa99f305c7350241044d6cccb787655"
+  }
+}
